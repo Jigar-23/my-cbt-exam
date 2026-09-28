@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0b5cad65a47a8d29184",
+  "title": "CT 15: General Awareness (Government Schemes)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a200239c36a420de962744a",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "What is the total financial outlay approved by the Central Government for the umbrella scheme <strong>SARTHAK-PDS</strong> for the next five years?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 15,530 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 25,530 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 35,530 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 45,530 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 55,530 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs. 25,530 crore</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Cabinet Committee on Economic Affairs (CCEA)</strong>, chaired by Prime Minister <strong>Shri Narendra Modi</strong>, has approved the integration and continuation of two schemes under the umbrella scheme <strong>SARTHAK-PDS</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Financial Outlay:</strong> The Central Government has sanctioned an outlay of <strong>Rs. 25,530 crore</strong> as the Central share for the <strong>SARTHAK-PDS</strong> scheme for the next five years.</li>\n\t<li><strong>Integration of Schemes:</strong> The umbrella scheme integrates <strong>\"Assistance to State Agencies for intra-State movement of foodgrains and FPS dealers&rsquo; margin under NFSA\"</strong> and the <strong>\"Scheme for Modernization and Reforms through Technology in Public Distribution System (SMART PDS)\"</strong>.</li>\n\t<li><strong>Implementation Period:</strong> The merged scheme is set to operate during the <strong>16th Finance Commission</strong> cycle award period and will remain functional up to <strong>31.03.2031</strong>.</li>\n\t<li><strong>Beneficiaries:</strong> The initiative aims to support the government&#39;s commitment to provide food and nutritional security to <strong>81.35 crore persons</strong> covered under the <strong>National Food Security Act (NFSA), 2013</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Full Form:</strong> <strong>SARTHAK-PDS</strong> stands for <strong>Scheme for Assistance in Ration Transport and Handling-Income with Automation in PDS</strong>.</li>\n\t<li><strong>Technological Focus:</strong> The scheme seeks to optimize <strong>PDS</strong> operations using advanced technologies such as <strong>Artificial Intelligence (AI)</strong>, <strong>Machine Learning (ML)</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Blockchain</strong>.</li>\n\t<li><strong>Modernization:</strong> It includes the creation of <strong>State Command Control Centres</strong> for data-driven oversight and <strong>ISO-certified</strong> process frameworks to ensure transparency and security.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The core goal of <strong>SARTHAK-PDS</strong> is to ensure <strong>last-mile service delivery</strong>, minimize leakages, and provide assured financial support for handling and <strong>FPS dealer&#39;s margins</strong>.</li>\n\t<li>Since <strong>1st April 2023</strong>, the <strong>SMART PDS</strong> scheme has enabled complete digitization of ration cards and <strong>FPS automation</strong> through <strong>e-PoS</strong> across 36 States/UTs.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2bac284ec2d5cf81d4eab5",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "What is the total financial outlay approved for the two-year scheme aimed at the replacement of old trucks and buses in the Delhi–NCR region to reduce air pollution?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 5,041 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 1,601 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 9,585 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 10,250 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 7,500 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs. 9,585 crore</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Union Cabinet</strong>, chaired by <strong>Prime Minister Shri Narendra Modi</strong>, has approved a landmark <strong>two-year scheme</strong> to replace old trucks and buses in the <strong>Delhi–NCR</strong> region with cleaner vehicles.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The total financial outlay for the scheme is <strong>Rs. 9,585 crore</strong>, which includes contributions from both the <strong>Central Government</strong> and participating <strong>States</strong>.</li><li>The <strong>Central Government</strong> will provide <strong>Rs. 5,041 crore</strong>, while an estimated <strong>Rs. 1,601 crore</strong> will be provided in the form of <strong>tax concessions</strong> by participating States.</li><li>The scheme targets vehicles registered in the <strong>Delhi–NCR</strong> region that comply with <strong>BS-IV or earlier</strong> emission norms.</li><li>Owners are incentivized to replace these old vehicles with <strong>BS-VI</strong> compliant vehicles or <strong>electric vehicles (EVs)</strong> to significantly reduce vehicular emissions.</li><li>The implementation will be carried out by the <strong>Ministry of Road Transport and Highways (MoRTH)</strong> and the <strong>Ministry of Petroleum and Natural Gas (MoPNG)</strong> in collaboration with <strong>Delhi, Haryana, Rajasthan, and Uttar Pradesh</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The scheme will benefit approximately <strong>2.07 lakh owners</strong>, including <strong>1.91 lakh trucks</strong> and <strong>16,329 buses</strong>.</li><li>For <strong>BS-III</strong> or older vehicles, <strong>scrapping</strong> at Registered Vehicle Scrapping Facilities is <strong>mandatory</strong>.</li><li>Central benefits include a <strong>5% interest subvention</strong> on loans for five years and <strong>monthly fuel vouchers</strong> worth up to <strong>Rs. 4,800</strong>.</li><li><strong>Auto OEMs</strong> participating in the scheme will offer an <strong>8% discount</strong> on ex-showroom prices.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>According to a report by <strong>ARAI</strong> and <strong>TERI</strong>, the <strong>transport sector</strong> contributes <strong>14% of PM 2.5</strong> and <strong>63% of NOx</strong> emissions in Delhi-NCR.</li><li>Within the transport sector, <strong>trucks and buses</strong> account for <strong>36% of PM 2.5</strong> emissions, despite making up only <strong>3% of the total fleet</strong>.</li><li>A single <strong>Pre-BS heavy-duty vehicle</strong> is estimated to emit as much as <strong>14 BS-VI compliant vehicles</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20023b65047e452bd2b7b2",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "What is the target year set by the Government of India to realize the vision of &lsquo;Housing for All&rsquo; under the Pradhan Mantri Awaas Yojana-Gramin (PMAY-G) as per the recent announcement by the Ministry of Rural Development?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "March 2027",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "March 2030",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "March 2029",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "March 2025",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>March 2029</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Union Minister for Rural Development <strong>Shri Shivraj Singh Chouhan</strong> released a Mother Sanction of <strong>₹10,021.42 crore</strong> to <strong>12 States</strong> under the <strong>Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The vision for <strong>&lsquo;Housing for All&rsquo;</strong> is targeted to be achieved by <strong>March 2029</strong>.</li>\n\t<li>The PMAY-G scheme was launched in <strong>2016</strong> with the goal of ensuring no poor person lives in a kutcha house.</li>\n\t<li>Against a total target of <strong>4.95 crore houses</strong>, approvals for <strong>3.91 crore houses</strong> have been granted.</li>\n\t<li>To date, the construction of more than <strong>3.05 crore houses</strong> has been successfully completed under the scheme.</li>\n\t<li>The <strong>12 states</strong> receiving the sanction include <strong>Assam, Chhattisgarh, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Nearly <strong>75 per cent</strong> of the houses sanctioned under <strong>PMAY-G</strong> are in the name of <strong>women</strong> or under <strong>joint ownership</strong>, promoting women&#39;s empowerment.</li>\n\t<li>The government is focusing on convergence with other welfare schemes to provide amenities like <strong>roads, electricity, drinking water, LPG connections, and toilets</strong>.</li>\n\t<li>A prior Mother Sanction of <strong>₹11,121 crore</strong> was already released for the financial year <strong>2026-27</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The Union Minister urged states to complete house approvals for the <strong>2024-25 and 2025-26</strong> cycles by <strong>30 June 2026</strong>.</li>\n\t<li>Beneficiaries were encouraged to plant a sapling under the <strong>&lsquo;Ek Ped Maa Ke Naam&rsquo;</strong> campaign on <strong>World Environment Day (5 June 2026)</strong>.</li>\n\t<li>The housing target for the <strong>current year</strong> is <strong>three times higher</strong> than the previous year.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12cb9f60eca7e7765018",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Which of the following portals was launched by Union Minister Shri Amit Shah specifically for the inventory management of pulses and oilseeds?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NAFEX.in",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "DRISHTI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "NAFED-KALYAN",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ERP portal",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "e-Bhavan Portal",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>DRISHTI</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Home Minister and Minister of Cooperation <strong>Shri Amit Shah</strong> is scheduled to launch several digital and farmer-centric initiatives of <strong>NAFED</strong>, including the <strong>DRISHTI</strong> portal, on <strong>23 June 2026</strong> in <strong>New Delhi</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>DRISHTI portal</strong>: This specific portal has been designed for the <strong>inventory management of pulses and oilseeds</strong> to bring more efficiency to NAFED's operations.</li><li><strong>NAFEX.in</strong>: This is an <strong>auction portal</strong> aimed at strengthening transparency and digital processes in <strong>agricultural produce auctions</strong>.</li><li><strong>NAFED-KALYAN</strong>: This is a <strong>scholarship scheme</strong> intended to support the <strong>education of farmers' children</strong>.</li><li><strong>ERP portal</strong>: This portal focuses on strengthening <strong>enterprise resource planning</strong> within the organization.</li><li>The launch of these initiatives is part of the government's effort to modernize <strong>cooperative institutions</strong> through technology and transparency.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The event is held at <strong>Atal Akshay Urja Bhawan</strong>, New Delhi, with the presence of Union Minister of Agriculture and Farmers Welfare <strong>Shri Shivraj Singh Chouhan</strong>.</li><li>The leadership of NAFED attending includes Chairman <strong>Shri Jethabhai Ahir</strong> and Managing Director <strong>Shri Deepak Agarwal</strong>.</li><li>The initiatives align with the Prime Minister's vision of <strong>\"Sahkar Se Samriddhi\"</strong> (Prosperity through Cooperation).</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>NAFEX.in</strong> specifically targets <strong>transparency and ease of operations</strong> in the auctioning process for stakeholders.</li><li>The <strong>NAFED-KALYAN</strong> initiative involves the distribution of <strong>scholarship cheques</strong> to children of farmers during the launch program.</li><li>A <strong>live registration demonstration</strong> on the auction portal marks the formal commencement of the digital auction process.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2bac2a0e16eb299c630b5a",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>According to the recent announcement by the Ministry of Health and Family Welfare, West Bengal is set to become which number State/UT in India to implement the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "32nd",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "34th",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "36th",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "38th",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "35th",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>36th</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Government of West Bengal</strong> is set to sign a <strong>Memorandum of Understanding (MoU)</strong> with the <strong>National Health Authority (NHA)</strong> to implement the <strong>Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>West Bengal</strong> will officially become the <strong>36th State/Union Territory</strong> in the country to implement the <strong>AB PM-JAY</strong> scheme, marking a milestone in achieving universal health coverage.</li><li>The <strong>MoU</strong> will be signed between the <strong>National Health Authority (NHA)</strong>, under the <strong>Ministry of Health and Family Welfare</strong>, and the <strong>Department of Health and Family Welfare, Government of West Bengal</strong>.</li><li>The ceremony will be presided over by Union Health Minister <strong>Shri J.P. Nadda</strong> in the presence of West Bengal Chief Minister <strong>Shri Suvendu Adhikari</strong>.</li><li>The implementation aims to provide <strong>financial protection</strong> against catastrophic health expenses and ensure <strong>seamless portability</strong> of healthcare benefits across India.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Ayushman Bharat PM-JAY</strong> is recognized as the world's largest <strong>publicly funded health assurance scheme</strong>.</li><li>The scheme provides health cover of up to <strong> &#x20B9;5 lakh per family per year</strong> for <strong>secondary and tertiary care hospitalization</strong> to eligible beneficiaries.</li><li>The initiative focuses on reducing <strong>out-of-pocket expenditure</strong> and improving access to quality treatment through <strong>empanelled public and private hospitals</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The signing of the <strong>MoU</strong> is scheduled to take place at <strong>Vigyan Bhawan, New Delhi</strong>.</li><li>Key attendees include <strong>Shri Pratap Rao Jadhav</strong> (Minister of State for Health & Family Welfare), <strong>Smt. Anupriya Patel</strong> (Union Minister of State for Health and Family Welfare), and <strong>Shri Manoj Kumar Agarwal</strong> (Chief Secretary, West Bengal).</li><li>The announcement was made on <strong>June 7, 2026</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20023d8d3cef054283ad72",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the <strong>Tripura Queen Pineapple Mission</strong> launched in May 2026:<br />\n1. The mission is a convergence-led initiative with a total financial outlay of <strong>₹236 crore</strong> for a three-year implementation roadmap.<br />\n2. It involves establishing a <strong>Hub &amp; Spoke</strong> post-harvest ecosystem with a central hub near <strong>Agartala airport</strong> and <strong>eight spoke collection centers</strong>.<br />\n3. The mission includes a bio-economy strategy to convert pineapple plant waste into value-added products like <strong>Bromelain</strong> and <strong>Pineapple Leaf Fiber (PALF)</strong>.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 2 and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only 1 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1, 2 and 3</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Union Minister <strong>Jyotiraditya M. Scindia</strong> and Tripura CM <strong>Manik Saha</strong> launched the <strong>₹236 crore Tripura Queen Pineapple Mission</strong> to transform the state&#39;s agricultural strengths into globally competitive brands.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement 1 is correct:</strong> The mission is a <strong>convergence-led initiative</strong> anchored by <strong>MDoNER</strong> with a total outlay of <strong>₹236 crore</strong>. It follows a three-year implementation roadmap from <strong>Q2 FY2026 to Q4 FY2028</strong>.</li>\n\t<li><strong>Statement 2 is correct:</strong> The infrastructure plan includes a <strong>Hub &amp; Spoke</strong> integrated post-harvest ecosystem. This comprises one central <strong>Hub near Agartala airport</strong> and <strong>eight spoke collection centers</strong> across West Tripura, Khowai, and Sepahijala districts.</li>\n\t<li><strong>Statement 3 is correct:</strong> The mission adopts a bio-economy strategy to convert nearly <strong>60 percent</strong> of the pineapple plant, currently discarded as waste, into value-added products through <strong>Bromelain extraction</strong> and <strong>Pineapple Leaf Fiber (PALF)</strong> processing.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Queen Pineapple</strong> is the <strong>GI-tagged</strong> flagship product and the <strong>State Fruit of Tripura</strong>.</li>\n\t<li>The mission also plans the revival of the <strong>Nalkata Pineapple Processing Unit</strong> through a <strong>Viability Gap Funding (VGF)</strong> model implemented by <strong>NERAMAC</strong>.</li>\n\t<li>The <strong>Tripura Queen Pineapple Festival</strong> will be aligned with <strong>International Pineapple Day</strong> on <strong>27 June</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The mission aims to increase <strong>farmer value realisation</strong>, as smallholder growers currently receive only <strong>₹6&ndash;10 per kilogram</strong> at the farmgate level.</li>\n\t<li>Infrastructure will include <strong>cold storage</strong>, <strong>reefer logistics</strong>, and <strong>IoT-enabled farm monitoring</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12cc506bdc71d13c85e2",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Which newly introduced component of the DISHA 2.0 scheme features a centralized digital platform and an AI-powered Nyaya Setu Chatbot for technology-enabled justice delivery?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Tele-Law",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Nyaya Bandhu",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "VIDHI Sanjeevani",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Nyaya Sahayak",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Nyaya Mitra",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>VIDHI Sanjeevani</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Minister of State (I/C) for Law and Justice <strong>Shri Arjun Ram Meghwal</strong> approved the continuation and restructuring of the scheme as <strong>DISHA 2.0</strong> for the period <strong>2026-31</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>VIDHI Sanjeevani (Vision for Integrated Delivery of Harmonized Legal Initiatives)</strong>: This is the <strong>fourth and newly introduced component</strong> under DISHA 2.0. It serves as a <strong>centralized digital platform</strong> for monitoring and data-driven decision-making, featuring an <strong>AI-powered multilingual Nyaya Setu Chatbot</strong>.</li><li><strong>Tele-Law</strong>: This existing component focuses on <strong>pre-litigation legal advice</strong> through <strong>Common Service Centres (CSCs)</strong> and is being further integrated with AI under DISHA 2.0.</li><li><strong>Nyaya Bandhu</strong>: This program promotes a <strong>pro-bono culture</strong> among advocates to provide free legal assistance to eligible persons under the <strong>Legal Services Authorities Act, 1987</strong>.</li><li><strong>Nyaya Sahayak</strong>: These individuals provide <strong>doorstep legal assistance</strong> specifically in <strong>Aspirational Blocks</strong> as part of the Tele-Law framework.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The total approved financial outlay for <strong>DISHA 2.0</strong> is <strong>Rs. 255 crore</strong> for the period <strong>2026-27 to 2030-31</strong>.</li><li>The scheme is co-terminus with the <strong>XVI Finance Commission cycle</strong> and is funded by <strong>100% Gross Budgetary Support</strong> from the Government of India.</li><li>It targets a cumulative outreach of <strong>3 crore beneficiaries</strong> across its four components.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The scheme aligns with <strong>Articles 14, 21, and 39A</strong> of the Constitution of India, ensuring <strong>access to justice</strong> for all.</li><li>It supports the implementation of <strong>United Nations Sustainable Development Goal 16 (SDG-16)</strong> concerning Peace, Justice, and Strong Institutions.</li><li>The <strong>Nyaya Setu Chatbot</strong> was developed in collaboration with <strong>BHASHINI</strong> for legal query resolution.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12cee2f2ed35b0cee0b6",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Regarding the release of the 23rd instalment of the PM-KISAN scheme, how many women farmers received financial assistance?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1.10 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2.18 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "9.44 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1.00 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "3.50 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>2.18 crore</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>On <strong>June 20, 2026</strong>, the Prime Minister released the <strong>23rd instalment</strong> of the <strong>Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)</strong> scheme in <strong>Hooghly, West Bengal</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>23rd instalment</strong> involved a direct transfer of over <strong>₹18,880 crore</strong>.</li>\n\t<li>A total of <strong>9.44 crore farmers</strong> received financial assistance under this instalment, out of which <strong>2.18 crore</strong> were <strong>women farmers</strong>. Hence, the correct answer is <strong>2.18 crore</strong>.</li>\n\t<li>The event, celebrated as <strong>PM KISAN Utsav Diwas</strong>, saw more than <strong>1 crore farmers</strong> attending virtually.</li>\n\t<li>The disbursement was made at <strong>Tarakeswar, Hooghly</strong>, ensuring transparency through the <strong>Direct Benefit Transfer (DBT)</strong> system.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>PM-KISAN</strong> is a <strong>centrally sponsored scheme</strong> launched on <strong>February 24, 2019</strong>, providing <strong>₹6,000 annually</strong> in three equal instalments of <strong>₹2,000</strong>.</li>\n\t<li>Since its inception, over <strong>₹4.46 lakh crore</strong> has been disbursed to eligible farmer families across <strong>23 instalments</strong>.</li>\n\t<li>The <strong>Union Budget 2026&ndash;27</strong> has allocated <strong>₹60,000 crore</strong> for the PM-KISAN scheme to continue strengthening income security.</li>\n\t<li>The <strong>Kisan-eMitra</strong> AI chatbot, launched in <strong>September 2023</strong>, provides 24/7 assistance in <strong>11 major Indian languages</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The scheme has an inclusive outreach, with more than <strong>23 percent</strong> of beneficiaries being <strong>women</strong>.</li>\n\t<li>A study in <strong>Uttar Pradesh</strong> showed a <strong>9.85% increase</strong> in household farm income for beneficiary households.</li>\n\t<li>Other initiatives launched in <strong>West Bengal</strong> include the <strong>Digital Agriculture Mission (AgriStack)</strong> and the <strong>PM Dhan-Dhaanya Krishi Yojana</strong> in four districts.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2bac2fc248c5f16fdd2531",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "What is the maximum one-time budgetary support approved by the Union Cabinet for the Price Stabilization Fund to support Scheduled Indian Airlines?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 5,000 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 10,000 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 15,000 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 20,000 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 7,500 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs. 10,000 crore</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n<ul>\n    <li>The <strong>Union Cabinet</strong>, chaired by Prime Minister <strong>Narendra Modi</strong>, approved a <strong>one-time budgetary support</strong> of up to <strong>Rs. 10,000 crore</strong> for <strong>Oil Marketing Companies (OMCs)</strong> to provide <strong>ATF price stabilization</strong> support to <strong>Scheduled Indian Airlines</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n<ul>\n    <li><strong>Budgetary Support:</strong> A one-time amount not exceeding <strong>Rs. 10,000 crore</strong> will be provided as <strong>interest-free advances</strong> to OMCs through the <strong>Ministry of Petroleum and Natural Gas</strong>.</li>\n    <li><strong>Objective:</strong> The fund aims to facilitate <strong>stable ATF pricing</strong> for airlines during the ongoing period of exceptional fuel price volatility caused by the <strong>West Asia crisis</strong>.</li>\n    <li><strong>Applicability:</strong> The scheme covers both <strong>domestic and international operations</strong> for all willing <strong>Scheduled Indian carriers</strong>.</li>\n    <li><strong>Recovery Mechanism:</strong> When international ATF prices moderate, the differential amount will be recovered from OMCs and returned to the <strong>Consolidated Fund of India</strong>.</li>\n    <li><strong>Exclusive Procurement:</strong> Under this arrangement, participating airlines must procure ATF <strong>only from OMCs</strong> for up to <strong>three years</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<ul>\n    <li><strong>Price Surge:</strong> Due to the <strong>West Asia crisis</strong>, international ATF prices surged from <strong>Rs. 60.50/litre</strong> in March 2026 to <strong>Rs. 142/litre</strong> in May 2026.</li>\n    <li><strong>Cost Impact:</strong> ATF accounts for nearly <strong>40%</strong> of an airline's operating cost, and can rise up to <strong>60%</strong> during extreme volatility.</li>\n    <li><strong>Airspace Issues:</strong> The closure of <strong>Pakistan airspace</strong> has forced Indian carriers to take longer flight paths, further increasing fuel burn and operational costs.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n<ul>\n    <li><strong>Duration:</strong> The price stabilization support will be in force for <strong>36 months</strong> (three years) or until the advance is fully recovered.</li>\n    <li><strong>Monitoring Committee:</strong> A committee with representatives from the <strong>Ministry of Civil Aviation</strong>, <strong>Ministry of Petroleum & Natural Gas</strong>, and <strong>Department of Expenditure</strong> will oversee the implementation.</li>\n    <li><strong>UDAN Scheme:</strong> The measure is expected to help sustain air connectivity to <strong>remote and regional areas</strong> developed under the <strong>UDAN scheme</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12cf44f1b97a82644123",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "On <strong>June 20, 2026</strong>, the <strong>23rd instalment</strong> of the <strong>Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)</strong> was released. Which of the following sets of information accurately describes the financial disbursement and the specific targets for the <strong>National Mission on Natural Farming</strong> in <strong>West Bengal</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Financial disbursement of <strong>₹20,450 crore</strong> to <strong>10.15 crore</strong> farmers and establishment of <strong>425 natural farming clusters</strong> covering <strong>21,000 hectares</strong>.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Financial disbursement of <strong>₹15,200 crore</strong> to <strong>8.65 crore</strong> farmers and establishment of <strong>290 natural farming clusters</strong> covering <strong>14,800 hectares</strong>.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Financial disbursement of <strong>₹18,880 crore</strong> to <strong>9.44 crore</strong> farmers and establishment of <strong>346 natural farming clusters</strong> covering <strong>17,300 hectares</strong>.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Financial disbursement of <strong>₹23,100 crore</strong> to <strong>11.20 crore</strong> farmers and establishment of <strong>510 natural farming clusters</strong> covering <strong>25,500 hectares</strong>.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Financial disbursement of ₹19,750 crore to 9.80 crore farmers and establishment of 400 natural farming clusters covering 20,000 hectares.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Financial disbursement of ₹18,880 crore to 9.44 crore farmers and establishment of 346 natural farming clusters covering 17,300 hectares</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The Prime Minister released over <strong>₹18,880 crore</strong> as the <strong>23rd instalment</strong> of the <strong>PM-KISAN</strong> scheme on <strong>June 20, 2026</strong>, in <strong>Hooghly, West Bengal</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Under the 23rd instalment, nearly <strong>9.44 crore</strong> eligible farmers received financial assistance, which included more than <strong>2.18 crore women farmers</strong>.</li>\n\t<li>The <strong>National Mission on Natural Farming</strong> was promoted in West Bengal to foster chemical-free agriculture through <strong>346 natural farming clusters</strong>, which are set to cover <strong>17,300 hectares</strong> and benefit <strong>43,250 farmers</strong>.</li>\n\t<li>Other initiatives launched alongside include the <strong>Digital Agriculture Mission (AgriStack)</strong> and the <strong>PM Dhan-Dhaanya Krishi Yojana</strong> in four districts of West Bengal.</li>\n\t<li>The disbursement was carried out through the <strong>Direct Benefit Transfer (DBT)</strong> system to ensure transparency.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>PM-KISAN</strong> is a centrally sponsored scheme launched on <strong>February 24, 2019</strong>, providing <strong>₹6,000</strong> annually in <strong>three equal instalments</strong>.</li>\n\t<li>The <strong>Union Budget 2026&ndash;27</strong> has allocated <strong>₹60,000 crore</strong> for the scheme.</li>\n\t<li>An AI-enabled chatbot named <strong>Kisan-eMitra</strong>, providing assistance in <strong>11 major Indian languages</strong>, was introduced in <strong>September 2023</strong>.</li>\n\t<li>As of <strong>December 2025</strong>, a total of <strong>₹416.75 crore</strong> has been recovered from <strong>ineligible beneficiaries</strong> nationwide.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>More than <strong>₹4.46 lakh crore</strong> has been disbursed since the scheme&#39;s inception in <strong>2019</strong>.</li>\n\t<li>The <strong>Agro-Economic Research Centre</strong> study in <strong>2022</strong> showed that PM-KISAN led to a <strong>3.08% increase in paddy yield</strong> and a <strong>9.85% increase in household farm income</strong> in Uttar Pradesh.</li>\n\t<li>Mandatory requirements for benefits include <strong>Aadhaar-seeded bank accounts</strong>, <strong>land record seeding</strong>, and <strong>e-KYC verification</strong>.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:01.944Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

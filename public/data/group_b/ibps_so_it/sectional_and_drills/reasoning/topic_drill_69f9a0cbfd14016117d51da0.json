@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0cbfd14016117d51da0",
+  "title": "CT 3: Reasoning (Syllogism)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Reasoning",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "606fdfb64fbdcca27bdb8467",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong> In each of the following questions, there are three statements which is followed by two conclusions. Choose the conclusions which logically follow from the given statements.</p>\n\n<p><strong>Statements:</strong></p>\n\n<p>No Belt is Bag.</p>\n\n<p>Some Purse are Wallet.</p>\n\n<p>Some wallet are Belt.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some Purse are Bag.</p>\n\n<p>II. No Bag is Purse.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only conclusion I follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only conclusion II follow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Either conclusion I or II follow",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both conclusions follow",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neither conclusion I or II follow",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible Venn diagram is shown below</p>\n\n<p><span id=\"docs-internal-guid-770c5f05-7fff-8f16-7682-3d837a960242\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:425px;height:82px;\"><img src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Ayushi%20Garg_Nishad_08.04.21_D18.png\" style=\"background-color: transparent; margin-left: 0px; margin-top: 0px; width: 335px; height: 81px;\" /></span></span></span><strong>Conclusions:</strong></p>\n\n<p>I. Some Purse are Bag &rarr; False (It is possible but not definite. As no direct relation between Bag and Purse is given).</p>\n\n<p>So it is considered as Cannot be determined.<br />\nII. No Bag is&nbsp;Purse &rarr; False (It is possible but not definite. As no direct relation between Bag and Purse is given).</p>\n\n<p>Part of Bag can go in Purse.</p>\n\n<p>So, it is considered as Cannot be determined.</p>\n\n<p>Thus conclusion I and II form a complementary pair.</p>\n\n<p>Hence, <strong>Either conclusion I or II follow</strong>.</p>\n\n<p><span style=\"font-weight: 700;\">Additional Information</span>:</p>\n\n<p>Conditions for the Either Or:</p>\n\n<p>1. Both the conclusion must be Cannot be determined.</p>\n\n<p>2. Both the objects in both the conclusion must be same.</p>\n\n<p>3. If one conclusion is positive, then other should be negative.</p>\n\n<p>Complementary pairs:</p>\n\n<p>1. All - Some not (Positions of the object should be same in the conclusion)</p>\n\n<p>2. Some - No</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "606f140839959adc9bc81b46",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>Direction</strong>:[1]&nbsp;&nbsp;In the question below are given two statements followed by two conclusions numbered I, II.&nbsp;&nbsp;. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.​</p>\n\n<p><strong>Statements</strong> :</p>\n\n<p>Some Drinks are juices.</p>\n\n<p>All juices are beverages.</p>\n\n<p>No beverages are Solid.</p>\n\n<p><strong>Conclusions</strong>:&nbsp;</p>\n\n<p>I. No juice is solid.</p>\n\n<p>II. No Drink is solid.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only l is follows.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II is follows.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(51, 51, 51);   background-color: rgb(255, 255, 255);\">Both I and II follow.</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either I or II follows.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neither I nor II follows.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible Venn diagram for the given statements is as follows,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/09/606f140839959adc9bc81b46_16310187005911.png\" /></p>\n\n<p><strong>Conclusion:</strong></p>\n\n<p>l.&nbsp;No juice is solid.<span style=\"color: rgb(51, 51, 51);   background-color: rgb(255, 255, 255);\">&nbsp;&nbsp;</span>&rarr;&nbsp; True&nbsp;(because the juice is a part of beverages and No beverages are Solid. so,&nbsp;No juice is solid)</p>\n\n<p><span style=\"color: rgb(51, 51, 51);   background-color: rgb(255, 255, 255);\">ll.</span>&nbsp;No Drink is solid.<span style=\"color: rgb(51, 51, 51);   background-color: rgb(255, 255, 255);\">&nbsp;</span>&rarr; False (It is possible but not definite)</p>\n\n<p><span style=\"color: rgb(51, 51, 51);   background-color: rgb(255, 255, 255);\">Hence,&nbsp;<strong>Only l&nbsp;follows.</strong></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "606efc5e3cf2bdf988084417",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\" role=\"presentation\"><strong>Directions:</strong>&nbsp;In the question below are given three&nbsp;statements followed by two conclusions I and II. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p dir=\"ltr\" role=\"presentation\"><strong>Statement:</strong></p>\n\n<p dir=\"ltr\" role=\"presentation\">20% pins are swords.</p>\n\n<p dir=\"ltr\" role=\"presentation\">10% swords are knife.</p>\n\n<p dir=\"ltr\" role=\"presentation\">99% knife are chopper</p>\n\n<p dir=\"ltr\" role=\"presentation\"><strong>Conclusion:</strong></p>\n\n<p dir=\"ltr\" role=\"presentation\">I. Some pins&nbsp;are knife.</p>\n\n<p dir=\"ltr\" role=\"presentation\">II. Some pins&nbsp;are chopper.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either I or II follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neither I nor II follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 8pt; line-height: 1.295;\"><span id=\"docs-internal-guid-09b24b70-7fff-fc88-05c6-a2b0df38b3e1\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The least possible Venn diagram for the given statements is as follows:</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 8pt; line-height: 1.295;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F35_Sagar%20Saxena_17-6-2021_Swati_D3.png\" style=\"width: 310px; height: 88px;\" /></p>\n\n<p>&nbsp;</p>\n\n<p dir=\"ltr\" role=\"presentation\"><strong>Conclusion:</strong></p>\n\n<p dir=\"ltr\" role=\"presentation\">I. Some pins are knife&nbsp;&rarr; False (Some pins are swords and some swords are knife, But relation between pins and knife is not definite)</p>\n\n<p dir=\"ltr\" role=\"presentation\">II. Some pins&nbsp;are chopper&nbsp;&rarr; False (Some pins are chopper and some chopper are knife, But the relation pins and chopper is not definite)</p>\n\n<p>Hence, <strong>Neither&nbsp;I nor&nbsp;II follow.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "606ee8c119a05f9f08c04f21",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions:&nbsp;</span>In the question below are given three&nbsp;statements followed by two conclusions numbered I, and II.You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><span style=\"font-weight: 700;\">Statements</span></p>\n\n<p>Only Science is Physics.</p>\n\n<p>Some Science is Bio.</p>\n\n<p>Only a few Bio is Hindi.</p>\n\n<p><span style=\"font-weight: 700;\">Conclusions</span></p>\n\n<p>I. All Hindi being Bio is a possibility.</p>\n\n<p>II. Some Physics can be Hindi.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neither&nbsp;I nor II follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Either I or II follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Venn diagram for&nbsp;the given statement is as&nbsp; follows&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F33_Sagar%20Saxena_16-6-2021_Swati_D6.png\" style=\"width: 235px; height: 136px;\" /></p>\n\n<p><strong>Conclusions</strong>:</p>\n\n<p>I. All Hindi being Bio is a possibility - True (Given Only a few Bio is Hindi means some Bio is not Hindi thus All Bio can never be Hindi but All Hindi can be Bio&nbsp;thus &nbsp;All Hindi being Bio is a possibility follows)</p>\n\n<p>II. Some Physics can be Hindi - False (Given Only Science is Physics means physics can not be other thus Some Physics can be Hindi not follows)</p>\n\n<p>Hence, <strong>Only&nbsp;I follows.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "606ed539c52fed9e13acf7fb",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><strong>Directions</strong>: In the question below are given three&nbsp;statements followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.&nbsp;</p>\n\n<p><strong>Statements:</strong></p>\n\n<p>Only A is B.</p>\n\n<p>Only a few A is C</p>\n\n<p>All D is C</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I.Some D being A is a possibility.</p>\n\n<p>II.All C being A is a possibility.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II follow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II follow",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either I and II follow",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None follow",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible Venn diagram for the given statements is as follows</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F2_Sagar.S_20-05-21_Savita_D2.png\" style=\"width: 189px; height: 83px;\" /></p>\n\n<p>The least possible Venn diagram for the given statements is as follows</p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p>I.&nbsp;Some D being A is a possibility. &rarr; True (The possibility is true, and D can be part of A).</p>\n\n<p>II.&nbsp;All C being A is a possibility &rarr; True (As, Only a few A is C is given which means, Some A is C and Some A is not C which also states that Some C are A, but we don&#39;t know about the remaining portion of C whether it is A or not, so the possibility is true).</p>\n\n<p>Hence,<strong>&nbsp;Both I and II conclusions</strong> follow.</p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-095bbc89-7fff-6cc9-7bc2-8f2074b89ccf\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1. Some X are Y means some part of the X circle is within the Y circle.</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-095bbc89-7fff-6cc9-7bc2-8f2074b89ccf\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">2.&nbsp; No X is Y means circle X and Y are not intersecting at all.</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-095bbc89-7fff-6cc9-7bc2-8f2074b89ccf\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">3. All X is Y means the whole circle X lies within the Y circle.</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-095bbc89-7fff-6cc9-7bc2-8f2074b89ccf\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">4. If there is no exact conclusion for the given statements then the possibility case arises.</span></span></p>\n\n<p dir=\"ltr\">5. If Only X is Y means all Y is X, and Y cannot make Positive relation with any other element except X negative can be possible.&nbsp;</p>\n\n<p>6. Only a few =&nbsp;Some + Some not.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "606ed732d4acb3578a5ee5a1",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><strong>Directions: </strong>In the question below are given two statements followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><strong>Statements:</strong></p>\n\n<p>Some Shoes are Lays.</p>\n\n<p>Some Lays are Lock.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. All Locks are Shoes.</p>\n\n<p>II. Some Locks are Shoes.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II follow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II follow",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either I or II follow",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None follow",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<div>The least possible Venn diagram for the given statements is as follows:</div>\n\n<div><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/07/F1_Shailendra_Madhuri_20.07.2021_D2.png\" style=\"width: 193px; height: 72px;\" /></div>\n\n<div><strong>Conclusions:</strong></div>\n\n<div>I. All locks are shoes &rarr; <strong>False</strong> (As there is no direct relation between locks and shoes, it is possible but not definite. So, it is false)</div>\n\n<div>II. Some locks are shoes &rarr; <strong>False</strong> (As there is no direct relation between locks and shoes, it is possible but not definite. So, it is false)</div>\n\n<div>Hence,<strong> None follow.</strong></div>",
+          "topic": "Test"
+        },
+        {
+          "id": "607792524b0e5ccbbff6b00d",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong>&nbsp;In the question below are given three&nbsp;statements followed by two conclusions I and II. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><strong>Statements:&nbsp;</strong></p>\n\n<p>Some fans are bikes.</p>\n\n<p>No bike is book.</p>\n\n<p>Some books are pens.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some fans are books.</p>\n\n<p>II. Some pens are bikes.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only conclusion I follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only conclusion II follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Conclusion I and II both follow",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neither conclusion I nor conclusion II follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Either conclusion I or conclusion II follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible diagram for the given statements is as follows</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/sy15.PNG\" /></p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some fans are books &rarr; False (It is possible but not definite)</p>\n\n<p>II. Some pens are bikes &rarr; False (It is possible but not definite)</p>\n\n<p>Hence, Neither conclusion I nor conclusion II follows.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60779639e04ec596f5e307d5",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong>&nbsp;In the question below are given three&nbsp;statements followed by three conclusions I, II and III. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><strong>Statements:&nbsp;</strong></p>\n\n<p>All houses are hotels.</p>\n\n<p>Some houses are schools.</p>\n\n<p>No hotels is stations.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. All schools are hotels.</p>\n\n<p>II. Some schools are hotels.</p>\n\n<p>III. Some station are hotels.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only conclusion I follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only conclusion II follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only conclusion III follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either conclusion I or conclusion II follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Either conclusion I or conclusion III follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible diagram for the given statements is as follows</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/sy24.PNG\" /></p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. All schools are hotels &rarr; False (It is possible but not definite, as no direct relationship between the two is given).</p>\n\n<p>II. Some schools are hotels &rarr; True (Some schools are houses and All houses are hotels so part of Schools which is houses is definitely Hotels).</p>\n\n<p>III. Some station are hotels &rarr; False (This is definitely false, as No Hotels is Station is given, which means Hotels and Stations will have negative relationship with each other only).</p>\n\n<p>Hence, <strong>Only conclusion II follows.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60782a5444b70b62e929f273",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong>&nbsp;In the question below are given three&nbsp;statements followed by three conclusions I, II, and III. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><strong>Statements:&nbsp;</strong></p>\n\n<p>All White are Skies.</p>\n\n<p>All Skies are Moons.</p>\n\n<p>No Moon is Earth.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some Moons are White.</p>\n\n<p>II. No Sky is Earth.</p>\n\n<p>III. Some Earth&nbsp;are White.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only conclusion I follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both&nbsp;I and II follow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both&nbsp;I and III follow",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both&nbsp;II and III follow",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Either I or II follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible diagram for the given statements is as follows</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/06/F1_Banking_Arbaz_22-06-2023_Kanchan_D10.png\" style=\"width: 273px; height: 183px;\" /></p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some Moons are White &rarr; <strong>True</strong> (All White are Skies and&nbsp;All Skies are Moons then&nbsp;Some Moons are White, possible to be definite. So, it is true).</p>\n\n<p>II. No Sky is Earth &rarr; <strong>True</strong> (All Skies are Moons and No Moons is Earth so No Sky is Earth, possible to be definite. So, it is true).</p>\n\n<p>III. Some Earth&nbsp;are White &rarr; <strong>False</strong> (No Moon is Earth and All White are Moons so Some Earth is White, not possible to be definite. So, it is false).</p>\n\n<p>Hence, <strong>Both&nbsp;I and II follow.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "607fc7e3c07667f718ed45c6",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong>&nbsp;&nbsp;In the question below are given three&nbsp;statements followed by two&nbsp;conclusions numbered I, II and lll.&nbsp;You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><strong>Statements:</strong></p>\n\n<p>Only a few A are B.</p>\n\n<p>Only a few B are C.</p>\n\n<p>Only a few A are C.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>l. All B are A.</p>\n\n<p>ll. All C are A.</p>\n\n<p>lll. All B can be C.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only l and ll follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only ll and lll follow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only lll follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both l, ll and lll follow",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible Venn diagram for the given statements is as follow,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Sagar%20Sexena_Anil_29.04.21_D16.png\" style=\"width: 114px; height: 106px;\" /></p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>l. All B are A&nbsp;&rarr; False (B and C common Part can never be A.&nbsp;B and C are associate with Only a few basis. so All&nbsp; type statement is False)</p>\n\n<p>ll. All C are A &rarr; False (C and A common Part can never be B. A&nbsp;and C are associate with Only a few basis. so All&nbsp; type statement is False)</p>\n\n<p>lll. All B can be C &rarr; False (B and C are associate with Only a few basis. so All&nbsp; type statement is False)</p>\n\n<p>Hence, <strong>None conclusion follows.</strong></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:04:03.128Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

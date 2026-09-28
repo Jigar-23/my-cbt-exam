@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0fdf239753a7b8ba7c4",
+  "title": "CT 6: Quantitative Aptitude (Percentage)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6090e6135ed20024b11174fa",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p>A junior assistant received an annual salary of Rs. 45,500, in the year 2016. This was 30% more than his salary in 2015. What was his salary in 2015?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 35,000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 30,000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 25,000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 31,000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given&nbsp;</strong></p>\n\n<p>His annual salary in 2016 = Rs. 45,500</p>\n\n<p><strong>Formula Used</strong></p>\n\n<p>Salary in 2016 = salary in 2015 + 30% of the salary in 2015</p>\n\n<p><strong>Calculation</strong></p>\n\n<p>Let his annual salary in 2015 = x Rs.</p>\n\n<p>According to question,</p>\n\n<p>Annual salary in 2016 = x + (30% of x)</p>\n\n<p>&rArr; x + 30 &times; x/100 = 45,500</p>\n\n<p>&rArr; 130x/100 = 45,500</p>\n\n<p>&rArr; x = 455000/13 = Rs. 35000</p>\n\n<p><strong>&there4; His salary in 2015 was </strong><span style=\"font-weight: 700;\">Rs.&nbsp;</span><strong>35,000</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></strong></p>\n\n<p>Salary in 2015 = Salary in 2016&nbsp;&times;&nbsp;[100/(100 +&nbsp;Increased %)]</p>\n\n<p>Salary in 2015 = 45500&nbsp;&times; 100/130&nbsp;</p>\n\n<p>&rArr; Rs. 35,000</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608eb6ff40b7f004de5ee485",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "In an exam, a student got 24% of marks and fails by 38 marks. Another student got 39% of marks and got 52 marks more than the passing marks. Find the maximum marks.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "500 marks",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "540 marks",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "600 marks",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "640 marks",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>A student got 24% of marks and fails by 38 marks.</p>\n\n<p>Another student got 39% of marks and got 52 marks more than the pass mark.</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Maximum marks in the exam = 100%</p>\n\n<p>Pass marks of first student = Pass marks of second student</p>\n\n<p>&rArr; 24% + 38 marks = 39% &ndash; 52 marks</p>\n\n<p>&rArr; 15% = 90 marks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>&rArr; 1% = 6 marks</p>\n\n<p>&rArr; 100% = 6 &times; 100 = 600 marks.</p>\n\n<p><strong>&there4; The Maximum marks are 600.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63304e8a536683142f0751bc",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "The number of boys , girls and staffs in a school are 40 , 30 and 20. if the number of boys, girls and staffs are increased by 20% , 30% and 10% respectively then, the (approx) percentage increase in total strength is ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "20%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "14%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "13%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "21%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "17%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>The number of boys , girls and staffs in a school are&nbsp;<span style=\"\">40 , 30 and 20</span></p>\n\n<p>the number of boys, girls and staffs are increased by 20% , 30% and 10% respectively</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total Strength before increase = 40 + 30 + 20</p>\n\n<p>= 90&nbsp;</p>\n\n<p>Total strength after increase = 40&nbsp;&times; (100% +&nbsp; 20%) +&nbsp;30&nbsp;&times; (100% + 30%) +&nbsp;20&nbsp;&times; (100% + 10%)</p>\n\n<p>= 40&nbsp;<span style=\"\">&times; (120%) +&nbsp;30&nbsp;&times; (130%) +&nbsp;20&nbsp;&times; (110%)</span></p>\n\n<p><span style=\"\">= 40&nbsp;&times; 1.2 + 30&nbsp;&times; 1.3&nbsp;+ 20&nbsp;&times; 1.1</span></p>\n\n<p><span style=\"\">= 48 + 39&nbsp;+ 22</span></p>\n\n<p><span style=\"\">= 109</span></p>\n\n<p><span style=\"\">Percentage increase in strength =&nbsp;<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{109-90}{90} \\times 100\\)</span></span></span></p>\n\n<p><span style=\"\">=&nbsp;<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{19}{90} \\times 100\\)</span></span></span></p>\n\n<p><span style=\"\">= 21% (approx.)</span></p>\n\n<p><span style=\"\">Then, The approximate percentage increase in total strength is 21%.</span></p>\n\n<p><strong><span style=\"\">Answer is 21%.</span></strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6089415c43953d8691ecd281",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Gopa spends 25% of her salary on food, 15% on PG rent, 5% on bus fare, and 15% on other expenses. If she save Rs.5000 at the end of the month, then her salary per month (in Rs.) is?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "12,000&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "11,000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "11,500&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "12,500",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "13,000&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Gopa savings&nbsp; = Rs.5000</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>X% of Y = (X/100) &times; Y</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let her monthly salary be Rs.x</p>\n\n<p>Her percentage of savings = 100 &ndash; 25 &ndash; 15 &ndash; 5 &ndash; 15 =&nbsp;40%</p>\n\n<p>So, 40% of x&nbsp;= 5000</p>\n\n<p>&rArr; (40/100)x = 5000</p>\n\n<p>&rArr; x = 5000&nbsp;&times; (100/40) = 12500</p>\n\n<p><strong>&there4; Her salary per month is Rs.12,500.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "606d605f4d8ba788d989ce98",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "In an election, there were two candidates. The winning candidate obtained 60% of the total votes casted and won by 3600 votes. If 10% of the total voters did not cast their vote, then find the number of votes cast.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "20000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "18000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "15000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "10000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>The winning candidate obtained 60% of the total votes and won by 3600&nbsp; of the total votes.</p>\n\n<p>10% of the total voters did not cast their vote.</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Always total number is 100%</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the total number of voters be 100x.</p>\n\n<p>Now, 10% of them did not cast their votes.</p>\n\n<p>So, total number of votes casted is 100x &times; (100 - 10)/100 = 90x</p>\n\n<p>Here, the winning candidate obtained 60% of the total votes casted,</p>\n\n<p>So, the number of votes he obtained is 90x &times; 60/100 = 54x</p>\n\n<p>Remaining votes are (90x &ndash; 54x) = 36x</p>\n\n<p>Now, according to the question winner won by 3600 votes i.e.,</p>\n\n<p>So, (54x &ndash; 36x) = 3600</p>\n\n<p>&rArr; 18x = 3600</p>\n\n<p>&rArr; x = 200</p>\n\n<p>So, 90x = 18000</p>\n\n<p><strong>&there4; The number of votes cast is 18000.</strong></p>\n\n<p><img height=\"39px\" src=\"//storage.googleapis.com/tb-img/production/22/02/606d605f4d8ba788d989ce98_16449222075311.png\" width=\"210px\" /></p>\n\n<p>In question casted votes is asked not the total votes.</p>\n\n<p>Total&nbsp;votes = casted voted + Invalid votes.&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e7c6844f60d5d178e39316b",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "In a village 80% of votes were cast in an election. A and B were the contestants. A won by 800 votes. If B had got 40% more votes, there would have been a tie between them. Find the number of voters in the village?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4200",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "9000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "7500",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "3500",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the number of votes B&nbsp;got be 100x</p>\n\n<p>Number of votes A&nbsp;got = 100x + 800</p>\n\n<p>Now,</p>\n\n<p>According to the question B get&nbsp;40% more vote&nbsp;that means same vote which increase in for B that decreased for A also because casting vote not more than 80%.</p>\n\n<p>Number of votes for B = (140/100) &times; 100x= 140x</p>\n\n<p>Number of votes for A&nbsp;= (100x + 800) - 40x = 60x + 800</p>\n\n<p>Number of votes for B =&nbsp;Number of votes for A</p>\n\n<p>&rArr; 140x = 60x + 800</p>\n\n<p>&rArr; 80x = 800</p>\n\n<p>&rArr; x = 10</p>\n\n<p>Number of votes B&nbsp;got be 100&nbsp;&times; 10 = 1000</p>\n\n<p>Number of votes A&nbsp;got = 100&nbsp;&times; 10 + 800 = 1800</p>\n\n<p>Total vote cast = 1800 + 1000 = 2800</p>\n\n<p>Now,</p>\n\n<p>If 80% means 2800</p>\n\n<p>Then, 1% means 2800/80 votes</p>\n\n<p>100% means (2800/80) &times; 100 = 3500&nbsp;votes&nbsp;</p>\n\n<p><strong>&there4; 3500 voters in village.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60c66046319101cc61e618fa",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "In a company, one-fifth of females and one-fourth of the males are under 28 years of age. If the number of females is (2/5)th of the total, what part of the total strength of the company is accounted for by those who are 28 years or more of age?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "86%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "77%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "54%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "85%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "66%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>(1/5)th of females and (1/4)th of males age < 28 years</p>\n\n<p>Ratio of male and females = 3 ∶&nbsp;2</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the total strength of the school be x.</p>\n\n<p>Number of females = 2x/5</p>\n\n<p>Number of males = 3x/5</p>\n\n<p>According to the question, we get</p>\n\n<p>Number of employees who are 28 years or more of age</p>\n\n<p>&rArr; [{1 - (1/5)} of 2x/5] + [{1 - (1/4)} of 3x/5]</p>\n\n<p>&rArr; {(4/5) &times; (2x/5)} + {(3/4) &times; (3x/5)}</p>\n\n<p>&rArr; (8x/25)&nbsp;+ (9x/20)</p>\n\n<p>&rArr; 77x/100</p>\n\n<p>Percentage = [(77x/100)&nbsp;&times; (1/x)&nbsp;&times; 100]%</p>\n\n<p>&rArr; 77%</p>\n\n<p><strong>&there4; Required Percentage is 77%.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608bc6783457df6c9eafe61a",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>The total number of students is 120. Some students who own a cat and some students who own a dog. The students who own a cat is 60 and the students who own a dog is 70. Then, find the number of students who own both a cat and a dog together?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "20",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "15",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "10",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "12",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "30",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Total number of students = 120</p>\n\n<p>Students who own a cat = 60</p>\n\n<p>Students who own a dog = 70</p>\n\n<p><strong>Concept:</strong></p>\n\n<p>Number of students who own both a cat and a dog = Total number of students &ndash; (Students who own a cat + Students who own a dog)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><strong><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Sumit.L_nikhil_7-5-2021_D13.png\" style=\"width: 191px; height: 162px;\" /></strong></p>\n\n<p>Total number of students = 120</p>\n\n<p>Students who own a cat = 60</p>\n\n<p>Students who own a dog = 70</p>\n\n<p>Suppose, the students who own both a cat and a dog is x.</p>\n\n<p>Students who own only a cat = (60 &ndash; x)</p>\n\n<p>Students who own only a dog = (70 &ndash; x)</p>\n\n<p>According to question &ndash;</p>\n\n<p>Total number of students = 120</p>\n\n<p>&rArr; 60 &ndash; x + 70 &ndash; x + x = 120</p>\n\n<p>&rArr; 130 &ndash; x = 120</p>\n\n<p>&rArr; x = 130 &ndash; 120</p>\n\n<p>&rArr; x = 10</p>\n\n<p>&there4; There are 10 students who own a cat and a dog together.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fa40bd8239929ca193bc025",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "A book consists of 40 pages each has 60 lines and each such lines has 50 characters. The book was made shorter so was reduced to pages each of 80 lines and 60 characters. Find the percentage reduction in number of pages.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "37.5%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "40%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "42.5%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "62.5%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Number of pages in the book = 40</p>\n\n<p>Number of lines in each page = 60</p>\n\n<p>Number of characters in each line = 50</p>\n\n<p>Number of lines in each page after reduction = 80</p>\n\n<p>Number of characters in each line after reduction = 60</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Retyped pages = (Total characters)/(Number of retyped characters in one sheet)</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>No of characters in one line = 50</p>\n\n<p>No of characters in one page = No. of lines &times; No. of characters per line = 50 &times; 60</p>\n\n<p>Total number of characters = No. of pages &times; No. of lines &times; No. of characters per line</p>\n\n<p>&rArr; 50 &times; 60 &times; 40 = 1,20,000</p>\n\n<p>Retyped report,</p>\n\n<p>No. of characters in one page = 80 &times; 60</p>\n\n<p>No. of pages to be retyped = 1,20,000/(80 &times; 60) = 25 pages</p>\n\n<p>Reduction of pages = 40 &ndash; 25 = 15 pages</p>\n\n<p>% reduction = (15/40) &times; 100 = 37.5%</p>\n\n<p><strong>&there4; </strong><strong>Percentage of reduction in pages is 37.5%</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f7c296f450bfe93b630d2ea",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Aditya and Harshit go to Europe trips for enjoyment. Both spends 25% on food, 15% on traveling, 10% on shopping and 1/5<sup style=\"\">th</sup> part of his total amount on party and drugs. If the difference between their saving and Expenditure on shopping is 80000 then how much amount both have when go to Europe trips?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "5 lakhs",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4 lakhs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3&nbsp;lakhs",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2&nbsp;lakhs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1&nbsp;lakhs",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Difference between saving and expenditure on shopping = 80000</p>\n\n<p style=\"\">Food = 25%</p>\n\n<p style=\"\">Traveling = 15%</p>\n\n<p style=\"\">Shopping = 10%</p>\n\n<p style=\"\">Party and drugs = 1/5<sup style=\"\">th</sup> of total amount</p>\n\n<p style=\"\"><strong style=\"\">Formula used:</strong></p>\n\n<p style=\"\">Saving = Income &ndash; Expenditure</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Let total amount be 100x</p>\n\n<p style=\"\">Expenditure on party and drugs = 20%</p>\n\n<p style=\"\">Total expenditure = (25% + 15% + 10% + 20%) = 70%</p>\n\n<p style=\"\">Saving = 100x &ndash; 70x = 30%</p>\n\n<p style=\"\">Saving &ndash; expenditure of shopping = 30% - 10% = 20%</p>\n\n<p style=\"\">&rArr; 20% = 80000</p>\n\n<p style=\"\">&rArr; 1% = 4000</p>\n\n<p style=\"\">Total amount = 100% = 4000 &times; 100 = 400000 = <strong style=\"\">4 lakh</strong></p>\n<strong style=\"\">&there4; Total Amount both have when go to Europe trips is 4 lakhs.</strong>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:13.975Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

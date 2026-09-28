@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a127d9447558328ec9b7",
+  "title": "CT 27: Quantitative Aptitude (Line Graph)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5fc66b8e73a8a69b93960d88",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p>If ratio of average speed of Shyam and Narayan in 1 : 2, and Narayan cover 40 km more than Shyam, than find Narayan&rsquo;s car speed? When Narayan&rsquo;s bike speed is 16 km/hr.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "20 km/hr.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "16 km/hr.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "5 km/hr.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "5.5 km/hr.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given: </strong></p>\n\n<p>Total time taken by all = 100 hr.</p>\n\n<p>Shyam take 22% of total time</p>\n\n<p>Narayan take 16% of total time</p>\n\n<p>Narayan cover his 50% of distance by car</p>\n\n<p>Ratio of average speed of Shyam to Narayan = 1 : 2</p>\n\n<p>Narayan cover 40 km more than Shyam</p>\n\n<p>Narayan bike speed = 16 km/hr.</p>\n\n<p><strong>Concept: </strong></p>\n\n<p>Distance = Speed &times; Time</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>Shyam takes time to cover distance = 22% of 100</p>\n\n<p>&rArr; 22 hr.</p>\n\n<p>Narayan takes time to cover distance = 16% of 100</p>\n\n<p>&rArr; 16 hr.</p>\n\n<p>Ratio of average speed of Shyam to Narayan = 1 : 2</p>\n\n<p>Or 1x and 2x</p>\n\n<p>Distance by Shyam = 22x km</p>\n\n<p>Distance by Narayan = 16 &times; (2x) km</p>\n\n<p>&rArr; 32x km</p>\n\n<p>Narayan cover 40 km more than Shyam</p>\n\n<p>&rArr; 32x &ndash; 22x = 40</p>\n\n<p>&rArr; x = 4</p>\n\n<p>Distance by Narayan = 16 &times; 2 &times; 4 = 128 km</p>\n\n<p>Distance covered by Narayan with car = 50% &times; 128 = 64 km</p>\n\n<p>Remaining distance covered by Narayan with bike = 128 &ndash; 64 = 64 km</p>\n\n<p>Time taken by bike = 64/16 = 4 hr.</p>\n\n<p>Remaining time for car = 16 &ndash; 4 = 12 hr.</p>\n\n<p>Speed of car by Narayan = 64/12 = 16/3 km/hr.</p>\n\n<p><strong>&there4; Speed of car by Narayan is 16/3 km/hr.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc66b8e73a8a69b93960d86",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>If total distance covered by udit is 2000 km and speed of his bike is 50 km/hr. than find the speed of car</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "90 km/hr.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "100 km/ hr.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "120 km/hr.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "96 km/hr.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given: </strong></p>\n\n<p>Total distance covered by Udit = 2000 km</p>\n\n<p>Speed of Udit by bike = 50 km/hr.</p>\n\n<p>Total time taken by all = 100 hr.</p>\n\n<p>Udit takes 26% of total time to cover distance</p>\n\n<p>Udit cover 60% of his distance with car</p>\n\n<p><strong>Concept:&nbsp; </strong></p>\n\n<p>Speed = Distance/Time</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>Total time taken by Udit to cover particular distance = 26% of 100</p>\n\n<p>&rArr; 26 hr.</p>\n\n<p>Udit cover 60% of his distance with car and remaining 40% of his distance with bike</p>\n\n<p>Distance with car = 60% of 2000</p>\n\n<p>&rArr; 1200 km</p>\n\n<p>Distance with bike = 40% of 2000</p>\n\n<p>&rArr; 800 km</p>\n\n<p>Time taken by bike = 800/50</p>\n\n<p>&rArr; 16 hr.</p>\n\n<p>Remaining time taken by car = (26 &ndash; 16)</p>\n\n<p>&rArr; 10 hr.</p>\n\n<p>Speed of car = 1200/10</p>\n\n<p>&rArr; 120 km/hr.</p>\n\n<p><strong>&there4;</strong><strong> Speed of car by Udit 120 km/hr.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc66b8e73a8a69b93960d85",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>If total distance covered by ram, Shyam and Udit is equal to total distance covered by Narayan and Radhey than find the ratio of average speed of Ram, Shyam, and Udit to average speed of Narayan and Radhey.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 : 3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1 : 2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3 : 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2 : 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given: </strong></p>\n\n<p>Distance covered by Ram Shyam and Udit is equal to total distance covered by Narayan and Radhey</p>\n\n<p>Time taken by Ram in percent = 12%</p>\n\n<p>Time taken by Shyam in percent = 22%</p>\n\n<p>Time taken by Udit in percent = 26%</p>\n\n<p>Time taken by Narayan in percent = 16%</p>\n\n<p>Time taken by Radhey in percent = 24%</p>\n\n<p><strong>Concept: </strong></p>\n\n<p>Average speed = total distance covered/total time taken</p>\n\n<p>And, If distance is same than speed is inversely proportional to time&nbsp;</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>Time by (Ram + Shyam + Udit) = 12 + 22 + 26</p>\n\n<p>&rArr; 60%</p>\n\n<p>Time by (Narayan + Radhey) = 16 + 24</p>\n\n<p>&rArr; 40%</p>\n\n<p>Distance covered by Ram Shyam and Udit is equal to total distance covered by Narayan and Radhey</p>\n\n<p>Let distance of (Ram + Shyam + Udit) = 100x</p>\n\n<p>And distance of (Narayan + Radhey) = 100x</p>\n\n<p>Time by (Ram + Shyam + Udit)/ time by (Narayan + Radhey) = 60/40</p>\n\n<p>&rArr; 3 :2</p>\n\n<p>∵ Distance is same</p>\n\n<p>Than speed is inversely proportional to time</p>\n\n<p>&rArr; Average speed of (Ram + Shyam + Udit)/ average speed of (Narayan + Radhey) = &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1/3) &divide; (1/2)</p>\n\n<p>&rArr; 2 : 3</p>\n\n<p><strong>&there4; Ratio of average speed of Ram, Shyam, and Udit to average speed of Narayan and Radhey is 2 : 3</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc66b8d73a8a69b93960d82",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Find percentage of total distance covered by car to total distance covered by bike which covered by Shyam.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "67%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "65%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "33.33%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "66%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given: </strong></p>\n\n<p>Shyam covered 40% distance by car</p>\n\n<p><strong>Concept:</strong></p>\n\n<p>Total distance covered by Shyam = Total distance covered by car + Total distance covered by bike</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total distance in percentage covered by Shyam himself = 100%</p>\n\n<p>Shyam cover distance by car in form of percent = 40%</p>\n\n<p>Shyam cover distance by bike in form of percent = 100 &ndash; 40 = 60%</p>\n\n<p>Percentage of total distance covered by car to total distance covered by bike =</p>\n\n<p>(Distance by car/distance covered by bike) &times; 100</p>\n\n<p>&rArr; (40/60) &times; 100</p>\n\n<p>&rArr; 66.66%</p>\n\n<p><strong>&there4;</strong><strong> Total distance covered by car is 66.66% of total distance covered by bike </strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc66b8d73a8a69b93960d81",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>If speed of car is 50 km/hr. and ratio of time taken by car to time taken by bike is 2 : 1, than find bike speed of Radhey (in km/hr.)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "30 km/hr.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20 km/hr.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "15 km/hr.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25 km/hr.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Total time taken by all = 100 hr.</p>\n\n<p>Radhey takes 24% of total time</p>\n\n<p>Radhey cover 80% of his distance by car</p>\n\n<p>Speed of car = 50 km/hr.</p>\n\n<p>Ratio of time taken by car to bike = 2 : 1</p>\n\n<p><strong>Concept:</strong></p>\n\n<p>Speed = (Distance/Time)</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>Total time taken by Radhey to reach at destination = 24% of 100</p>\n\n<p>&rArr; 24 hr.</p>\n\n<p>&nbsp;Time taken by car = (2/3) &times; 24</p>\n\n<p>&rArr; 16 hr.</p>\n\n<p>Time taken by bike = (1/3) &times; 24</p>\n\n<p>&rArr; 8 hr.</p>\n\n<p>Distance = speed &times; time</p>\n\n<p>Distance cover by car = 50 &times; 16</p>\n\n<p>&rArr; 800 km</p>\n\n<p>80% distance covered by car = 800 km</p>\n\n<p>Remaining 20% distance is covered by bike = (20/80) &times; 800</p>\n\n<p>&rArr; 200 km</p>\n\n<p>Speed of bike = (distance taken by bike/time taken by bike)</p>\n\n<p>Speed of bike = 200/8</p>\n\n<p>&rArr; 25 km/hr.</p>\n\n<p><strong>&there4; Speed of bike is 25 km/hr.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4e3bd246e4e80d115f772a",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Factory 2 is using their 25% expenses to improve personality development of staff and factory worker every year. by this factory 2 increase their profit and convert their expenses into profit. Calculate reduction in expenses for factory 2.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1.125 cr",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2.458 cr",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3.125 cr",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "4.456 cr",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2.486 cr",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">For factory 2 ---</p>\n\n<p style=\"\">In 2009 factory 2 reduces 25% in expenses = 0.25 &times; 3.5 = 0.875 cr</p>\n\n<p style=\"\">In 2010 factory 2 reduces 25% in expenses = 0.25 &times; 4.4 = 1.1 cr</p>\n\n<p style=\"\">In 2011 factory 2 reduces 25% in expenses = 0.25 &times; 1.8 = 0.45 cr</p>\n\n<p style=\"\">In 2012 factory 2 reduces 25% in expenses = 0.25 &times; 2.8 = 0.7 cr</p>\n<strong style=\"\">&there4; Total cost that reduces = 0.875 + 1.1 + 0.45 + 0.7 = 3.125 cr</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4e3bd246e4e80d115f7729",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Expenses of factory 1 reduced by what percentage from 2009 to 2011?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "21.85%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "18.60%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "21.32%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "22.85%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "19.45%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Expenses of factory 1 in 2009 = 4.3 cr</p>\n\n<p style=\"\">Expenses of factory 1&nbsp;in 2011 = 3.5 cr</p>\n<strong style=\"\">&there4; Required percentage = (4.3 - 3.5) &times;100 / 4.3 = 18.60%</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4e3bd246e4e80d115f7728",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>If the turnover of factory 1 is 15 crores and turnover of the factory 2 is 30 crores, then find the profit of factory 2 is how much percentage more than that of factory 1 in the year 2011.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "142.25%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "125.35%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "145.21%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "174.14%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "185.12%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">For Factory 1 turnover = 15 cr</p>\n\n<p style=\"\">Profit of factory 1 = turnover - expenses = 15 - 3.5 = 11.5</p>\n\n<p style=\"\">For factory 2 turnover = 30 cr</p>\n\n<p style=\"\">Profit of factory 2 = turnover - expenses = 30 - 1.8 = 28.2</p>\n<strong style=\"\">&there4; Required Percentage = (28.2 - 11.5) &times; 100 / 11.5 = 145.21%</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4e3bd246e4e80d115f7727",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Total expenses of factory 1 is how much percent greater than total expenses of factory 2 over the years?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "factory 1, 25%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "factory 2, 50.65%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "factory 1, 45%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "factory 2, 42%&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "factory 1, 41.6%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Total expenses of factory 1 from 2009 to 2012 = 4.3 + 5.4 + 3.5 + 4.5 = 17.7</p>\n\n<p style=\"\">Total expenses of factory 2 from 2009 to 2012 = 3.5 + 4.4 + 1.8 + 2.8 = 12.5</p>\n<strong style=\"\">&there4; Required percentage = (17.7 - 12.5) &times; 100 / 12.5 = 41.6%</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4e3bd246e4e80d115f7726",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Total expenses of factory 1 in 2009 and 2010 are how much percent more than that of factory 2 in 2009 and 2010?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "25%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "24.68%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "22.78%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "21.52%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "12.12%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The expenses of factory 1 in 2009 and 2010 = 4.3 + 5.4 = 9.7 cr</p>\n\n<p style=\"\">&nbsp;The expenses of factory 2 in 2009 and 2010 = 3.5 + 4.4 = 7.9 cr</p>\n<strong style=\"\">&there4; Required percent = (9.7 - 7.9) &times; 100 / 7.9 = 22.78%</strong>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:04.873Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

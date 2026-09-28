@@ -1,0 +1,689 @@
+{
+  "testId": "69f9a137c3253290ecf8c801",
+  "title": "CT 5: Current Affairs (July 01 - July 15)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Bi - Weekly CA",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 15,
+  "totalDurationMinutes": 10,
+  "totalMarks": 15,
+  "sections": [
+    {
+      "id": "65e08bcb88a67ac9f4e57bb8",
+      "name": "Chapter Test",
+      "durationMinutes": 20,
+      "maxMarks": 15,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a50906553044bf419d1217b",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "What is the primary objective of the strategic partnerships announced by the <strong>National Payments Corporation of India (NPCI)</strong> with <strong>HSBC India</strong> and <strong>J.P. Morgan Payments</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "To launch a dedicated physical currency exchange counter at international airports",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "To enable real-time foreign exchange (FX) conversion and faster settlement for international UPI payments",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "To provide short-term credit loans for Indian students studying in France and Singapore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "To replace the QR code-based system with a biometric card-based system for global payments",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "To establish a blockchain-based decentralized network for all international payment transactions initiated via UPI",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>To enable real-time foreign exchange (FX) conversion and faster settlement for international UPI payments</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>National Payments Corporation of India (NPCI)</strong> has partnered with <strong>HSBC India</strong> and <strong>J.P. Morgan Payments</strong> to enhance the international <strong>Unified Payments Interface (UPI)</strong> ecosystem.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The primary goal of the collaborations is to introduce <strong>real-time foreign exchange (FX) conversion</strong> and <strong>settlement</strong> for cross-border <strong>UPI</strong> transactions.</li><li>The partnership with <strong>HSBC India</strong> involves direct <strong>API integration</strong> to provide real-time exchange rates, allowing travelers to see the exact amount in <strong>Indian Rupees (INR)</strong> before payment.</li><li>The collaboration with <strong>J.P. Morgan Payments</strong> combines <strong>NPCI's</strong> infrastructure with the bank's <strong>API-based integration</strong> to support end-to-end <strong>FX conversion</strong> across multiple currencies.</li><li>These moves are designed to offer <strong>transparent pricing</strong>, reduce friction, and provide <strong>faster settlement</strong> for Indians making payments overseas.</li><li>Option 1 is incorrect as the focus is on digital infrastructure, not physical counters. Option 3 and 4 are incorrect as the news does not mention credit loans or biometric card systems.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>UPI</strong> is currently available in <strong>nine countries</strong>: Singapore, the United Arab Emirates, Nepal, Bhutan, Mauritius, France, Sri Lanka, Qatar, and Cambodia.</li><li><strong>NPCI</strong> is the umbrella organization for retail payments in India, established by the <strong>Reserve Bank of India (RBI)</strong> and the <strong>Indian Banks' Association (IBA)</strong>.</li><li>It operates as a <strong>not-for-profit company</strong> providing critical payment and settlement infrastructure.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>This partnership supports the <strong>global acceptance</strong> of India’s <strong>digital public infrastructure</strong>.</li><li>The system enables <strong>24x7 cross-border payments</strong> and allows international merchants to receive payments in their <strong>local currencies</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b76a6c30eae8255df61",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "According to the merger scheme approved by the Boards of Directors of PFC and REC, what is the specific share exchange ratio for the shareholders of REC?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "100 equity shares of PFC for every 88 equity shares of REC",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "88 equity shares of PFC for every 100 equity shares of REC",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "75 equity shares of PFC for every 100 equity shares of REC",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "50 equity shares of PFC for every 50 equity shares of REC",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "60 equity shares of PFC for every 100 equity shares of REC",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>88 equity shares of PFC for every 100 equity shares of REC</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The Board of Directors of <strong>Power Finance Corporation Limited (PFC)</strong> and <strong>REC Limited (REC)</strong> have approved a scheme of merger on <strong>30 June 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Share Exchange Ratio:</strong> According to the valuation reports, the ratio for the merger of <strong>REC into PFC</strong> shall be <strong>88 equity shares of PFC</strong> of INR 10/- each fully paid up for every <strong>100 equity shares of REC</strong> of INR 10/- each fully paid up.</li><li><strong>Transferor and Transferee:</strong> In this scheme, <strong>REC</strong> is the <strong>Transferor Company</strong> and <strong>PFC</strong> is the <strong>Transferee Company</strong>.</li><li><strong>Aggregate Loan Book:</strong> The merger will create a massive financing entity with an aggregate loan book exceeding <strong>INR 11 lakh crore</strong>.</li><li><strong>Legal Framework:</strong> The merger is being conducted under <strong>Sections 230 to 232</strong> of the <strong>Companies Act, 2013</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Advisors:</strong> <strong>Deloitte Touche Tohmatsu India LLP</strong> is the Transaction and Tax Advisor, while <strong>Cyril Amarchand Mangaldas</strong> serves as the Legal Advisor to both entities.</li><li><strong>Valuation:</strong> <strong>RBSA Valuation Advisors LLP</strong> was appointed by PFC and <strong>Ernst & Young Merchant Banking Services LLP</strong> was appointed by REC for joint valuation reports.</li><li><strong>Fairness Opinions:</strong> <strong>SBI Capital Markets</strong> (for PFC) and <strong>Nuvama Wealth Management</strong> (for REC) provided fairness opinions on the valuation.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The merger is conditional upon the merged entity continuing to qualify as a <strong>Government Company</strong>.</li><li>The <strong>Government of India</strong> must continue to retain <strong>majority voting rights</strong> and control in the merged entity, either directly or indirectly.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a5090666882aba566660a91",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "What is the total acquisition cost for Kotak Mahindra Bank to acquire Deutsche Bank’s India retail, private banking, and wealth management business?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 29,000 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs 10,500 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs 282 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 16,000 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs 5,200 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs 282 crore</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n<ul>\n    <li><strong>Kotak Mahindra Bank</strong> has agreed to acquire <strong>Deutsche Bank’s</strong> retail banking, affluent private banking, and wealth management business in <strong>India</strong> for a total consideration of <strong>Rs 282 crore</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n<ul>\n    <li><strong>Acquisition Cost:</strong> The transaction is valued at <strong>Rs 282 crore</strong>, which covers the purchase of the retail and wealth management franchise of the German lender in India.</li>\n    <li><strong>Business Scale:</strong> The acquired business includes loans worth approximately <strong>Rs 29,000 crore</strong>, deposits of <strong>Rs 16,000 crore</strong>, and assets under management (AUM) of <strong>Rs 10,500 crore</strong>.</li>\n    <li><strong>Customer and Employee Base:</strong> The deal covers about <strong>1.5 lakh customers</strong> and around <strong>1,000 employees</strong> who are expected to transition to Kotak Mahindra Bank.</li>\n    <li><strong>Timeline:</strong> The acquisition is expected to be completed by <strong>September 2027</strong>, pending regulatory approvals from the <strong>Competition Commission of India (CCI)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<ul>\n    <li><strong>Kotak Mahindra Bank Status:</strong> As of <strong>March 31, 2026</strong>, the bank had <strong>5,581 branches</strong> and total assets worth <strong>Rs 10,03,353 crore</strong>.</li>\n    <li><strong>Deutsche Bank Strategy:</strong> The sale is part of its <strong>Global Hausbank strategy</strong>, focusing on simplification and areas of scale like corporate and investment banking.</li>\n    <li><strong>Market Presence:</strong> Despite the sale, Deutsche Bank remains the <strong>largest European bank in India</strong> and maintains operations in locations like <strong>GIFT City</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n<ul>\n    <li><strong>Strategic Alignment:</strong> The deal aligns with Kotak’s focus on <strong>affluent</strong> and <strong>SME</strong> customer segments to add scale and depth.</li>\n    <li><strong>Financial Impact:</strong> The transaction is expected to be <strong>return-on-equity accretive</strong> for Kotak Mahindra Bank and <strong>common equity tier-1 accretive</strong> for Deutsche Bank upon closing.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a50906853044bf419d121a0",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "What is the total financial outlay for the <strong>Container Manufacturing Promotion Scheme (CMPS)</strong> framework announced in the <strong>Union Budget 2026</strong> for domestic container manufacturing?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "₹5,000 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "₹10,000 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "₹15,000 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "₹20,000 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "₹25,000 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>₹10,000 crore</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Minister of Ports, Shipping and Waterways, <strong>Sarbananda Sonowal</strong>, unveiled the first <strong>Made-in-India export-import (EXIM) shipping container</strong> for <strong>A.P. Moller–Maersk</strong> in <strong>Dadri, Uttar Pradesh</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>Container Manufacturing Promotion Scheme (CMPS)</strong> framework was announced in the <strong>Union Budget 2026</strong> with a total financial outlay of <strong>₹10,000 crore</strong>.</li><li>The scheme is designed to promote <strong>domestic container manufacturing</strong> and reduce India's dependence on imported containers, thereby strengthening supply chain resilience.</li><li>The policy aims to achieve a <strong>tenfold jump</strong> in annual container manufacturing capacity, targeting up to <strong>7.9 lakh TEUs</strong> (Twenty-foot Equivalent Units).</li><li>It includes provisions for <strong>Capex support</strong> for greenfield and brownfield facilities, <strong>Opex support</strong> to improve competitiveness, and <strong>Research & Development (R&D)</strong> support.</li><li>The other options (₹5,000 crore, ₹15,000 crore, and ₹20,000 crore) are incorrect as they do not match the figure specified in the <strong>Union Budget 2026</strong> for the <strong>CMPS</strong> framework.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>Following the rollout, <strong>Maersk</strong> placed an order for <strong>1,000 additional India-manufactured containers</strong> with the <strong>DCM Shriram Group</strong>.</li><li>The containers are produced in accordance with <strong>ISO specifications</strong> and the <strong>International Convention for Safe Containers (CSC)</strong> standards.</li><li>This initiative is a part of the <strong>Maritime Amrit Kaal Vision 2047</strong> and the <strong>Atmanirbhar Bharat</strong> vision of <strong>Prime Minister Narendra Modi</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The government has introduced key legislations like the <strong>Merchant Shipping Act, 2025</strong>, the <strong>Coastal Shipping Act, 2025</strong>, and the <strong>Indian Ports Act, 2025</strong> to modernize the sector.</li><li>A <strong>₹70,000 crore Shipbuilding Financial Assistance Package</strong> has been established to support maritime manufacturing.</li><li>Digital transformations such as <strong>One Nation One Port Process (ONOP)</strong> and the <strong>Maritime Single Window</strong> have been launched to enhance the ease of doing business.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a5090691f28c1feda00eb31",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which Ahmedabad-based scholar has been selected for the <strong>Ustad Bismillah Khan Yuva Puraskar 2025</strong> for his contribution to the <strong>Haveli Sangeet</strong> tradition?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Acharya Ranchhodlal Goswami",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Mahaprabhu Vallabhacharya",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Surdas",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Vitthalnath",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Gopal Nayak",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Acharya Ranchhodlal Goswami</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Ahmedabad-based <strong>Haveli Sangeet</strong> scholar <strong>Acharya Ranchhodlal Goswami</strong> has been selected for the <strong>Ustad Bismillah Khan Yuva Puraskar 2025</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Award Body:</strong> The award was announced by the <strong>Sangeet Natak Akademi</strong> under the <strong>Union Ministry of Culture</strong> for the 2024-25 awards cycle.</li><li><strong>Recipient:</strong> <strong>Acharya Ranchhodlal Goswami</strong> is the <strong>16th-generation Acharya</strong> of the <strong>Goswami Haveli</strong> in the <strong>Kalupur</strong> area of Ahmedabad.</li><li><strong>Contribution:</strong> He is recognized for preserving and promoting <strong>Haveli Sangeet</strong>, a devotional musical tradition rooted in the <strong>Pushtimarg</strong> sect.</li><li><strong>Personal Achievement:</strong> At the age of <strong>32</strong>, Goswami has composed more than <strong>22,000 devotional verses</strong> and authored <strong>eight books</strong>.</li><li><strong>Other Options:</strong> <strong>Mahaprabhu Vallabhacharya</strong> (founder of Pushtimarg), <strong>Surdas</strong> (Ashtachhap poet), and <strong>Vitthalnath</strong> are historical figures associated with the origins and development of the tradition, not contemporary award winners.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Haveli Sangeet:</strong> A devotional genre believed to have evolved alongside <strong>Pushtimarg</strong> established by <strong>Mahaprabhu Vallabhacharya</strong> around <strong>550 years ago</strong>.</li><li><strong>Musical Heritage:</strong> It incorporates ancient forms like <strong>Prabandha, Dhrupad, and Dhamar</strong>, which later influenced <strong>Khayal singing</strong>.</li><li><strong>Linguistic Diversity:</strong> Goswami's compositions span several languages including <strong>Vrajbhasha, Gujarati, Sanskrit, Charani, Mewari, and Marwari</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>This marks perhaps the first time since <strong>Independence</strong> that <strong>Haveli Sangeet</strong> has received recognition at such a high national level.</li><li>The tradition is actively practiced in <strong>Gujarat, Rajasthan, Madhya Pradesh, Maharashtra, and Punjab</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b7be3ce3ec7a6f1273a",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Who has been appointed as the 31st Chief of the Army Staff (COAS) of India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "General Upendra Dwivedi",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "General Manoj Pande",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "General Dhiraj Seth",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "General Dalbir Singh",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "General Vikram Batra",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>General Dhiraj Seth</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>General Dhiraj Seth</strong> has officially taken over as the <strong>31st Chief of the Army Staff (COAS)</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>General Dhiraj Seth</strong> assumed the appointment of <strong>Chief of the Army Staff</strong> on <strong>30 June 2026</strong>.</li><li>He succeeds <strong>General Upendra Dwivedi</strong>, who superannuated from service on the same date.</li><li>By taking this charge, he becomes the <strong>31st officer</strong> to lead the <strong>Indian Army</strong> as its Chief.</li><li>The transition marks a significant leadership change in the <strong>Ministry of Defence</strong>'s military hierarchy.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>General Upendra Dwivedi</strong> retired after more than <strong>four decades</strong> of distinguished service to the nation.</li><li>The <strong>Chief of the Army Staff</strong> is the operational head and the highest-ranking officer of the <strong>Indian Army</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The appointment was effective from <strong>30 June 2026</strong>.</li><li>He holds prestigious decorations including the <strong>PVSM (Param Vishisht Seva Medal)</strong>, <strong>UYSM (Uttam Yudh Seva Medal)</strong>, and <strong>AVSM (Ati Vishisht Seva Medal)</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a50906ce34e6db7247a00aa",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Which high-resolution radio array was utilized in the 2026 study to identify a hidden population of weakly active black holes in nearly one-quarter of the galaxies studied?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Atacama Large Millimeter Array (ALMA)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "e-MERLIN radio array",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Square Kilometre Array (SKA)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Very Large Array (VLA)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Event Horizon Telescope (EHT)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>e-MERLIN radio array</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>In <strong>July 2026</strong>, the <strong>Ministry of Science & Technology</strong> announced that a high-resolution radio study revealed widespread <strong>faint black hole activity</strong> in nearby galaxies, many of which were previously difficult to detect.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The study utilized the <strong>e-MERLIN radio array</strong>, which functions as an <strong>interferometer</strong> with <strong>7 radio telescopes</strong> across the <strong>UK</strong>.</li><li>The researchers observed <strong>280 nearby galaxies</strong> selected from the <strong>Palomar sample</strong> to probe central regions on <strong>parsec scales</strong>.</li><li>The team detected <strong>compact radio emission</strong> from the centres of <strong>nearly one-quarter</strong> of the galaxies, indicating the presence of <strong>weakly accreting supermassive black holes</strong>.</li><li>The use of <strong>e-MERLIN</strong> was crucial because earlier studies lacked the <strong>sensitivity and angular resolution</strong> required to separate weak nuclear emission from surrounding stellar activity.</li><li>The other options like <strong>ALMA</strong>, <strong>SKA</strong>, and <strong>VLA</strong> are world-class radio observatories but were not the specific instruments used for this 2026 high-resolution survey mentioned in the text.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The international team included <strong>Dr. Aru Beri</strong> from the <strong>Indian Institute of Astrophysics (IIA)</strong>, an autonomous institution under the <strong>Department of Science and Technology (DST)</strong>.</li><li>To verify the results, radio observations were complemented with <strong>X-ray data</strong> from <strong>NASA&rsquo;s Chandra X-ray Observatory</strong>.</li><li>The study, authored by <strong>D. R. A. Williams-Baldwin</strong> and collaborators, was published in the <strong>Monthly Notices of the Royal Astronomical Society</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The results suggest that <strong>faint, low-level black hole activity</strong> may be the <strong>dominant mode of black hole growth</strong> in the present-day Universe.</li><li>Uncovering these \"hidden monsters\" is vital as they can influence <strong>star formation rates</strong> and the <strong>long-term evolution</strong> of galaxies through <strong>jets and outflows</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a50906cd46b1b13c6560848",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the outcomes of the Prime Minister’s visit to Indonesia in July 2026:<br><br>1. A Strategic Joint Venture was signed between the <strong>Steel Authority of India (SAIL)</strong> and <strong>Pt. Krakatau Steel</strong> for a manufacturing facility in <strong>Indonesia</strong>.<br>2. India committed to providing <strong>200 tonnes</strong> of high-quality <strong>DWR 162 wheat seeds</strong> to Indonesia as part of agricultural cooperation.<br>3. The <strong>Indonesia Open Network (ION)</strong> will be launched, based on the <strong>Open Network for Digital Commerce (ONDC)</strong> architecture of India.<br><br>Which of the statements given above are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 and 2 only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2 and 3 only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1 and 3 only",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1 and 3 only</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Prime Minister’s visit to Indonesia</strong> in July 2026 resulted in several MoUs, agreements, and announcements across sectors like <strong>defense, agriculture, and technology</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Statement 1 is correct:</strong> A <strong>Strategic Joint Venture</strong> was signed between the <strong>Steel Authority of India (SAIL)</strong> and <strong>Pt. Krakatau Steel</strong> specifically for the establishment of a <strong>Stainless-Steel Slab manufacturing facility</strong> in <strong>Indonesia</strong>.</li><li><strong>Statement 2 is incorrect:</strong> While India did announce the supply of wheat seeds, the quantity mentioned is <strong>100 tonnes</strong> of high-quality <strong>DWR 162 wheat seeds</strong>, not 200 tonnes.</li><li><strong>Statement 3 is correct:</strong> One of the major technological announcements was the launch of the <strong>Indonesia Open Network (ION)</strong>, which is based on the <strong>Open Network for Digital Commerce (ONDC)</strong> architecture developed in India.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>An agreement was also reached regarding the <strong>BrahMos Missile System</strong> and an <strong>Air-to-Air Missile Cooperation Agreement</strong>.</li><li>The <strong>Indian Institute of Management (IIM), Bangalore</strong> is set to establish a branch campus at the <strong>Singhasari SEZ</strong> in Indonesia.</li><li>There is an MoU between the <strong>Election Commission of India (ECI)</strong> and the <strong>General Elections Commission (KPU)</strong> of Indonesia for electoral cooperation.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>India will provide assistance for the conservation and restoration of the <strong>Prambanan Temple Complex</strong> in <strong>Yogyakarta</strong>.</li><li>A <strong>Tagore-Dewantara Year of Cultural and Educational Diplomacy</strong> was announced to commemorate cultural ties.</li><li>MoU on development of <strong>Rare Earth Magnets</strong> was signed between <strong>NFTDC</strong>, <strong>Midwest Ltds.</strong>, and <strong>PT PERMINAS</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a50906de34e6db7247a00d2",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Where is the Indian Institute of Management Bangalore (IIM Bangalore) set to establish its first overseas campus, as announced by Prime Minister Narendra Modi?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Dubai International Financial Centre, Dubai",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Singhasari Special Economic Zone, Malang",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Zanzibar Special Economic Zone, Tanzania",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Abu Dhabi Global Market, Abu Dhabi",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Kuala Lumpur City Centre, Malaysia",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Singhasari Special Economic Zone, Malang</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Prime Minister <strong>Narendra Modi</strong> and Indonesian President <strong>Prabowo Subianto</strong> announced the establishment of <strong>IIM Bangalore's</strong> first overseas campus in <strong>Indonesia</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The first international campus of <strong>IIM Bangalore</strong> will be located in the <strong>Singhasari Special Economic Zone (SEZ)</strong> in <strong>Malang, Indonesia</strong>.</li><li>The campus is being established through a <strong>Memorandum of Understanding (MoU)</strong> between <strong>IIM Bangalore</strong> and <strong>PT Intelegensia Grahatama (PT IGT)</strong>, the managing entity of the SEZ.</li><li>This initiative is aimed at benefiting students across the <strong>ASEAN region</strong> and strengthening the <strong>Comprehensive Strategic Partnership</strong> between <strong>India and Indonesia</strong>.</li><li>The project will be implemented in <strong>two phases</strong>, starting with <strong>executive education programmes</strong> followed by full-fledged <strong>degree programmes</strong> after two years.</li><li>The curriculum will focus on five emerging areas: <strong>global supply chains</strong>, <strong>digital transformation</strong>, <strong>artificial intelligence</strong>, <strong>climate and sustainability</strong>, and <strong>healthcare management</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The initiative aligns with India’s <strong>National Education Policy (NEP) 2020</strong>, which promotes the internationalisation of higher education.</li><li>Other premier Indian institutions that have established overseas campuses include <strong>IIM Ahmedabad in Dubai</strong>, <strong>IIT Delhi in Abu Dhabi</strong>, and <strong>IIT Madras in Zanzibar</strong>.</li><li>The campus will serve as a regional hub for management education in <strong>Southeast Asia</strong> and provide exposure to India's <strong>innovation ecosystem</strong> through immersion programmes.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>This marks the <strong>first-ever international campus</strong> for <strong>IIM Bangalore</strong>.</li><li>The campus will primarily cater to <strong>Indonesian students</strong> and participants from neighbouring <strong>ASEAN countries</strong>.</li><li>Indonesia recently conferred its highest civilian award, the <strong>'Bintang Adipurna'</strong>, upon <strong>PM Narendra Modi</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b7e666ddc3b77574a1b",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "What is the specific age range covered under the Samagra Shishu Bal Swasthya Karyakram (SSBSK) for providing a seamless continuum of home and community-based care?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Birth to 12 months",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Birth to 24 months",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Birth to 36 months",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Birth to 48 months",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Birth to 60 months",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Birth to 36 months</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Minister of Health and Family Welfare, <strong>Shri Jagat Prakash Nadda</strong>, launched the <strong>Samagra Shishu Bal Swasthya Karyakram (SSBSK)</strong> during the <strong>16th CCHFW Meeting</strong> on June 29, 2026.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>SSBSK</strong> is a unified national programme designed to provide a <strong>seamless continuum of home and community-based care</strong> for every child from <strong>birth to 36 months</strong> of age.</li><li>The programme integrates the existing <strong>Home-Based Newborn Care (HBNC)</strong> and <strong>Home-Based Care for Young Child (HBYC)</strong> programmes into a single comprehensive framework.</li><li>It focuses on the critical importance of the <strong>first 28 days</strong> for survival and the <strong>first three years</strong> for optimal brain development.</li><li>The initiative embodies the vision of <strong>\"पहले तीन साल सम्पूर्ण देखभाल\"</strong> (Comprehensive Care During the First Three Years). Therefore, the correct age range is birth to 36 months.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Risk-stratified approach:</strong> 'At-risk' newborns (due to low birth weight, prematurity, etc.) will receive up to <strong>nine home visits</strong> during the first <strong>42 days</strong> of life.</li><li><strong>At-risk children:</strong> These children will receive up to <strong>eight home visits</strong> up to the age of <strong>36 months</strong>.</li><li><strong>Coordinated Care:</strong> The programme involves coordinated visits by <strong>ASHAs, ANMs, Community Health Officers (CHOs),</strong> and <strong>Anganwadi Workers (AWWs)</strong>.</li><li><strong>Digital Integration:</strong> The system will be integrated with national platforms like the <strong>JANANI Portal, U-WIN Portal, RBSK 2.0 Portal,</strong> and <strong>POSHAN Tracker</strong> using <strong>ABHA and Baal-ABHA IDs</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>SSBSK introduces <strong>Well-Baby Sessions</strong> at every <strong>Village Health, Sanitation and Nutrition Day (VHSND)</strong> and a monthly <strong>Shishu Shivir</strong> at <strong>Ayushman Arogya Mandirs</strong>.</li><li>It incorporates <strong>post-partum maternal mental health screening</strong> as part of community-based care.</li><li>The guidelines specifically address risks like <strong>excessive screen exposure</strong> and promote <strong>age-appropriate play</strong> and physical activity for brain development.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b80f3091b53e8a8fe0b",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "Under the new e-OCI Card system launched by the Union Home Minister, which requirement for OCI cardholders has been eliminated after they receive a new passport post the age of 20 years?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Updating passport-related details online",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Re-issuing the OCI booklet",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mandatory physical presence for immigration clearance",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Fresh application for a unique registration number",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Linking Aadhaar details with the OCI card",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Re-issuing the OCI booklet</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Home Minister and Minister of Cooperation <strong>Shri Amit Shah</strong> launched the <strong>FCRA 2.0 Portal</strong> and <strong>e-OCI Card</strong> in New Delhi on <strong>30 June 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Elimination of OCI Booklet:</strong> Under the new arrangement, the requirement to <strong>re-issue the OCI booklet</strong> upon receiving a new passport after the age of <strong>20 years</strong> has been <strong>eliminated</strong>. Hence, Option 2 is correct.</li><li><strong>Online Updates:</strong> While the booklet re-issuance is gone, cardholders <strong>will still need to update</strong> their passport-related details <strong>online</strong> whenever a new passport is issued. Thus, Option 1 is incorrect as it is a requirement, not something eliminated.</li><li><strong>Registration Number:</strong> The system ensures the cardholder’s registration number will <strong>become unique</strong>, but it does not eliminate the need for having a registration number. Thus, Option 4 is incorrect.</li><li><strong>Immigration Benefits:</strong> The e-OCI card facilitates <strong>smoother travel</strong> and <strong>faster immigration clearance</strong>, but physical presence for travel is still a standard procedure, and the card's digital nature specifically targets document loss/damage issues. Option 3 is incorrect as it is not the primary process eliminated.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>e-OCI Card</strong> initiative is expected to benefit more than <strong>50 lakh OCI cardholders</strong> worldwide.</li><li>The <strong>FCRA 2.0 Portal</strong> is hosted on <strong>'MeghRaj'</strong> (the National Government Cloud) to ensure high security and reduce the possibility of data theft.</li><li>Key features of the new portal include <strong>OCR-based document analysis</strong>, <strong>e-Sign-based authentication</strong>, and integration with the <strong>NGO Darpan</strong> bank account system.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The initiatives were launched under the principle of <strong>'Minimum Government, Maximum Governance'</strong> to enhance transparency and security.</li><li>Currently, there are approximately <strong>14,500 active FCRA organisations</strong> in India that will benefit from the digital compliance system.</li><li>The government plans to introduce an <strong>AI-powered chatbot</strong> and a <strong>dedicated online dashboard</strong> for banks in the coming months.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a50907053044bf419d121d8",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Which organization presented the 2026 Leadership Award to Sunil Bharti Mittal for his contributions to transforming India&#39;s telecommunications landscape?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "RTX Corporation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Fairfax Financial Holdings",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bharti Enterprises",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "US-India Strategic Partnership Forum (USISPF)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Indian Cellular Association",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>US-India Strategic Partnership Forum (USISPF)</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>US-India Strategic Partnership Forum (USISPF)</strong> announced the recipients of its <strong>2026 Leadership Award</strong>, recognizing key business figures for their roles in strengthening international ties.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>US-India Strategic Partnership Forum (USISPF)</strong> is the organization that presented the <strong>2026 Leadership Award</strong>.</li>\n\t<li><strong>Sunil Bharti Mittal</strong>, the founder and chairman of <strong>Bharti Enterprises</strong>, was a primary recipient of this award.</li>\n\t<li>The recognition was specifically for his role in <strong>transforming India&#39;s telecommunications landscape</strong> and his contributions to advancing <strong>economic ties</strong> between <strong>India and North America</strong>.</li>\n\t<li>The other options mentioned are not the award-giving body: <strong>Bharti Enterprises</strong> is the company founded by Mittal, while <strong>Fairfax Financial Holdings</strong> and <strong>RTX Corporation</strong> are organizations led by other award recipients (V Prem Watsa and Christopher T Calio, respectively).</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Apart from Sunil Bharti Mittal, <strong>V Prem Watsa</strong>, the chairman and CEO of <strong>Fairfax Financial Holdings</strong>, was also honored with the <strong>Leadership Award</strong>.</li>\n\t<li><strong>Christopher T Calio</strong>, the chairman and CEO of <strong>RTX Corporation</strong>, received the award alongside Mittal and Watsa for his contributions to the <strong>India-US strategic and economic partnership</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The award ceremony highlights the ongoing efforts to bolster <strong>strategic and economic cooperation</strong> between <strong>India</strong> and the <strong>United States</strong>.</li>\n\t<li>The leaders were recognized for their global business leadership and their impact on fostering bilateral investment and trade.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a50907154136320472c634e",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the <strong>Happy City Index 2026</strong>:<br /><br />1. <strong>London</strong> has been ranked as the world's happiest city in the index.<br />2. <strong>Jaipur</strong> is the only Indian city to secure a place in the global top 10 rankings.<br />3. The index ranked <strong>Paris</strong> at the second position globally, followed by <strong>New York City</strong>.<br />4. <strong>Governance</strong>, <strong>Economy</strong>, and <strong>Mobility</strong> are among the indicators used to evaluate the cities.<br /><br />Which of the statements given above are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 1, 2, and 4",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 1, 2, and 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All 1, 2, 3, and 4",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only 2, 3, and 4",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only 1, 2, and 4</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Happy City Index 2026</strong> was recently released, highlighting the world's happiest cities based on various quality-of-life indicators.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Statement 1 is correct:</strong> <strong>London</strong>, United Kingdom, has topped the <strong>Happy City Index 2026</strong>, ranking first globally.</li><li><strong>Statement 2 is correct:</strong> <strong>Jaipur</strong> secured the <strong>6th position</strong> globally and is the <strong>only Indian city</strong> to feature in the top 10 list.</li><li><strong>Statement 3 is incorrect:</strong> According to the index, <strong>New York City</strong> is ranked <strong>2nd</strong> and <strong>Paris</strong> is ranked <strong>3rd</strong>. The statement incorrectly swaps their positions.</li><li><strong>Statement 4 is correct:</strong> The index evaluates cities using several indicators including <strong>Governance</strong>, <strong>Citizens and community engagement</strong>, <strong>Economy</strong>, <strong>Environment</strong>, <strong>Health</strong>, and <strong>Mobility</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Jaipur's</strong> high ranking is attributed to its <strong>vibrant architecture</strong>, <strong>cultural heritage</strong>, <strong>tourism</strong>, and <strong>modern urban development</strong>.</li><li>The top 5 cities in the index are <strong>London</strong> (1st), <strong>New York City</strong> (2nd), <strong>Paris</strong> (3rd), <strong>Tokyo</strong> (4th), and <strong>Madrid</strong> (5th).</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>London</strong> leads in multiple indicators such as <strong>governance</strong>, <strong>economy</strong>, and <strong>quality of life</strong>.</li><li>The index includes cities that demonstrate high <strong>quality of life</strong> and <strong>sustainable urban development</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b832a616060acbc720f",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "Under which mission was the 'Drug Registry' conceptualized to serve as a unified and standardized digital platform for medicine-related information in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "National Health Mission",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Ayushman Bharat Digital Mission",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Pradhan Mantri Jan Arogya Yojana",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Digital India Mission",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rashtriya Arogya Abhiyan",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Ayushman Bharat Digital Mission</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Minister of Health and Family Welfare, <strong>Shri Jagat Prakash Nadda</strong>, launched the <strong>Drug Registry</strong> on <strong>June 29, 2026</strong>, to standardize medicine-related information across India's healthcare ecosystem.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>Drug Registry</strong> was conceptualized under the <strong>Ayushman Bharat Digital Mission (ABDM)</strong> to act as a <strong>single source of truth</strong> for medicines.</li><li>It addresses challenges like <strong>inconsistencies, duplication, and data entry errors</strong> caused by the same drug being represented by different names across various healthcare systems.</li><li>The registry enables <strong>consistent identification, storage, and exchange</strong> of drug data, which is vital for clinical decision-making and <strong>e-prescriptions</strong>.</li><li>It has been developed in collaboration with the <strong>Central Drugs Standard Control Organization (CDSCO)</strong> and the <strong>National Resource Centre for EHR Standards (NRCeS), Pune</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The registry utilizes international standards like <strong>SNOMED CT</strong> to ensure <strong>interoperability</strong> and semantic consistency.</li><li>As of the launch, the database includes over <strong>123,000 branded drugs</strong>, <strong>10,000 generic drugs</strong>, and <strong>29,000 substances</strong>.</li><li>The <strong>ABDM</strong> ecosystem now comprises four core registries: <strong>ABHA Registry</strong> (individuals), <strong>Healthcare Professional Registry (HPR)</strong>, <strong>Health Facility Registry (HFR)</strong>, and the newly added <strong>Drug Registry</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The platform provides <strong>open APIs</strong> for integration with <strong>Hospital Management Information Systems (HMIS)</strong> and other digital health solutions.</li><li>It allows users to search for drugs based on <strong>generic name, brand name, substance, or manufacturer</strong>, fostering <strong>transparency and trust</strong> in the healthcare sector.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b99e3ce3ec7a6f128a4",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "What is the primary focus of 'Operation Chakra-VI' recently conducted by the Central Bureau of Investigation (CBI)?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Investigating money laundering in real estate projects",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Dismantling a nationwide digital arrest fraud network",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Crackdown on illegal migration across international borders",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Regulation of cryptocurrency exchanges operating in India",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Targeting counterfeit currency distribution networks across the country",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Dismantling a nationwide digital arrest fraud network</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n<ul>\n    <li>The <strong>Central Bureau of Investigation (CBI)</strong> conducted nationwide raids at more than <strong>80 locations</strong> across <strong>16 states</strong> as part of <strong>Operation Chakra-VI</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n<ul>\n    <li><strong>Operation Chakra-VI</strong> was launched to target and dismantle an operational network involved in over <strong>200 cases</strong> of <strong>digital arrest scams</strong> that have plagued the country for years.</li>\n    <li>The CBI constituted <strong>60 special teams</strong> to carry out searches in states including Punjab, Gujarat, Delhi, Maharashtra, Tamil Nadu, West Bengal, and Karnataka, among others.</li>\n    <li>Two individuals, one from <strong>Kolkata</strong> and one from <strong>Chennai</strong>, were arrested for incorporating <strong>shell companies</strong> and operating <strong>mule bank accounts</strong> used to launder approximately <strong>₹2 crore</strong> in crime proceeds.</li>\n    <li>The fraudsters utilized a <strong>fraudulent website</strong> with a URL deceptively similar to the <strong>official website of the Supreme Court of India</strong> to deceive victims.</li>\n    <li>Investigators found that the network also defrauded <strong>foreign nationals</strong>, and the CBI is contacting law enforcement agencies in those jurisdictions.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<ul>\n    <li>A report by <strong>TransUnion</strong> highlighted that Indian consumers lost <strong>36% more</strong> than the global average to digital fraud in <strong>2025</strong>.</li>\n    <li>While the <strong>global median loss</strong> stood at <strong>$1,671</strong>, the <strong>median loss for Indian consumers</strong> was <strong>$2,265</strong>.</li>\n    <li>The CBI used <strong>advanced forensic tools</strong> and technical expertise to identify the criminal infrastructure, including <strong>forged documents</strong> and fake court orders.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n<ul>\n    <li>The <strong>CBI's</strong> action followed an <strong>FIR</strong> lodged after a complaint by the <strong>Registry of the Supreme Court</strong> regarding a fake website.</li>\n    <li>The 16 states involved in the raids include: Punjab, Gujarat, Delhi, Maharashtra, Haryana, Tamil Nadu, Telangana, Andhra Pradesh, Uttar Pradesh, Madhya Pradesh, Rajasthan, Assam, West Bengal, Manipur, Karnataka, and Odisha.</li>\n</ul>",
+          "topic": "Chapter Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:35.613Z",
+    "solutionsCount": 15,
+    "isComplete": true
+  }
+}

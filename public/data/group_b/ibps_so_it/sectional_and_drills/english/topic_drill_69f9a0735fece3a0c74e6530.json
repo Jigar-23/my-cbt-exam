@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0735fece3a0c74e6530",
+  "title": "CT 6: English Language (Error Spotting - Grammar - 1)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "65092e2d896674a25065f689",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: bolder;\">Direction:</span>&nbsp;<strong>Read the given sentence to find out whether there is any grammatical/contextual error in it. The error, if any, will be in one part of the&nbsp;sentence. If no part in the sentence has an error then, mark &#39;No Error&#39; as your answer. Consider the part in bold as grammatically correct. (Ignore punctuation errors, if any).</strong></p>\n\n<p>Sofi&#39;s skill relied mostly on reading (A)/ the future of a specific soul by touch them, (B) and he&#39;d not let her within miles/ of a vamp since taking (C)/ over her guardianship. (D)/ No error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><span style=\"display: flex;gap: 6px;align-items: center;\">The correct answer is \"<strong>B.</strong>\"</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;</span></p>\n\n<ul>\n\t<li>The error is present in part B of the sentence.</li>\n\t<li><strong>In the given sentence, the verbs \"reading\" and \"taking\" are used in their present participle form.</strong></li>\n\t<li><strong>Thus, to match the degree of the given verbs, the verb in part B i.e. \"touch\" should also be used in their present participle form.</strong></li>\n\t<li>Also, if any verb is followed by any preposition then&nbsp;the verb is used in its present participle&nbsp;form.</li>\n\t<li>So, the use of &#39;touching&#39; will be more appropriate here.</li>\n\t<li>The correct sentence will be read as:\n\t<ul>\n\t\t<li>Sofi&#39;s skill relied mostly on reading the future of a specific soul by touching them, and he&#39;d not let her within miles/ of a vamp since taking&nbsp;over her guardianship.&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Hence, <strong>the correct answer is option 2.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6501a61636778c4ed2d0b715",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>Direction: In the following sentence, there may be more than one error. Please identify the part(s) of the sentence that contain(s) an error and select the appropriate option as your answer.</strong></p>\n\n<p>The CEO refused <strong>(A)</strong> to clarify&nbsp;the <strong>(B)&nbsp;</strong>decision to merging our <strong>(C)</strong> department with another one, <strong>(D)&nbsp;</strong>and so I quitted. <strong>(E)</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A and D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "All B, C, and E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "All A, D, and E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both C and E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 5.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Part C, \"decision to merging our,\" is incorrect</strong> because it uses the infinitive form \"merging\" instead of the base form \"merge\" after the preposition \"to.\" It should be \"decision to merge our department\" to convey the intended action of merging accurately.</li>\n\t<li><strong>Part E, \"and so I quitted,\" is incorrect</strong> because the past tense of \"quit\" is \"quit,\" not \"quitted.\" To make it error-free, it should be \"and so I quit,\" which is the correct past tense form of the verb \"quit.\"</li>\n\t<li><strong>Hence, both the C and E parts of the sentence are erroneous.</strong></li>\n\t<li><strong>The correct sentence would be: \"The CEO refused to clarify the decision to merge our department with another one, and so I quit.\"</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>An infinitive phrase consists of an infinitive verb <strong>(the base form of the verb preceded by \"to\")</strong> and may include modifiers or objects. It functions as a noun, adjective, or adverb in a sentence.\n\n\t<ul>\n\t\t<li><strong>For Example:</strong></li>\n\t\t<li><strong>To swim</strong> in the ocean is her dream. (noun infinitive phrase)</li>\n\t\t<li>He is eager <strong>to learn new languages</strong>. (adjective infinitive phrase)</li>\n\t\t<li>She ran fast <strong>to catch the bus</strong>. (adverb infinitive phrase)</li>\n\t</ul>\n\t</li>\n\t<li>Infinitive phrases add information or purpose to a sentence.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "650d405e2eeda5f3197d9c8b",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><strong>Direction: In the following question, a sentence is given divided into four parts (A), (B), (C) and (D). The error, if any, will only be in one part of the sentence. Choose the option with the part containing the error and mark it as your answer. If the sentence is free from errors, mark &#39;No error&#39; as your answer.</strong></p>\n\n<p>Pakistan is re-enacting (A) / battles that the Prime Minister has fought (B)/ once before (C),/believes they ended in victory (D).</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><span style=\"font-weight: bolder;\">The correct answer is Option 4</span>.</p>\n\n<p style=\"color:  (33, 37, 41);\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;</span>&nbsp;</span></p>\n\n<ul style=\"color:  (33, 37, 41);\">\n\t<li><span style=\"font-weight: bolder;\">Part (D) of the sentence i.e.&nbsp;<strong><span style=\"font-weight: bolder;\">\"</span></strong></span><strong>believes they ended in victory</strong><span style=\"font-weight: bolder;\"><strong><span style=\"font-weight: bolder;\">\"</span></strong>&nbsp;is erroneous</span>.\n\n\t<ul>\n\t\t<li><strong>\"Believing\" </strong>means&nbsp;to think that something is true, correct, or real. (विश्&zwj;वास करना, सही मान लेना)&nbsp;</li>\n\t\t<li><strong>\"Believing\"</strong> is a participle that adds an independent sentence - they ended in victory - to the preceding independent sentence.</li>\n\t\t<li><strong>\"Believing\"</strong> is used to indicate the Prime Minister&#39;s current belief about the past events.</li>\n\t\t<li>Hence,&nbsp;<span style=\"font-weight: bolder;\">option 4</span>&nbsp;is the correct answer.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: bolder;\">The correct answer would be:&nbsp;<strong><span style=\"font-weight: bolder;\">\"</span></strong></span><strong>Pakistan is re-enacting battles that the Prime Minister has fought once before, believing they ended in victory.<span style=\"font-weight: bolder;\"><span style=\"font-weight: bolder;\">\"<span style=\"font-weight: bolder;\">​</span></span></span></strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65092e10e6d6d0666a0e00a3",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: bolder;\">Direction:</span><strong>&nbsp;Read the given sentence to find out whether there is any grammatical/contextual error in it. The error, if any, will be in one part of the&nbsp;sentence. If no part in the sentence has an error then, mark &#39;No Error&#39; as your answer. Consider the part in bold as grammatically correct. (Ignore punctuation errors, if any).</strong></p>\n\n<p><strong>Great improvements, however,</strong> / have been affected in the design of openly fireplaces, (A)/ and many ingenious contrivances of (B)/ this nature are now in the market which (C)/ combine efficiency of heating with economy of fuel. (D)/ No error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is \"<strong>A.</strong>\"</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The error is present in part A of the sentence.</li>\n\t<li><strong>&#39;Openly&#39; is an adverb and it cannot be used to qualify the noun &#39;fireplaces&#39;.</strong></li>\n\t<li>An adjective is a word that describes a noun and it usually comes before the noun it describes.</li>\n\t<li><strong>So, an&nbsp;adjective \"open\"&nbsp;is required here to describe it.</strong></li>\n\t<li>Thus, the correct sentence will be:\n\t<ul>\n\t\t<li>Great improvements, however,&nbsp;have been affected in the <u>design of open&nbsp;fireplaces</u>, and many ingenious contrivances of this nature are now in the market which combine efficiency of heating with economy of fuel.&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Hence, <strong>the correct answer is option 1</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "65091ee028971e6321824d43",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: bolder;\">Directions:&nbsp;</span><strong>Some parts of the following paragraphs are highlighted in bold. The parts that are not given in bold might or might not be correct. Select the option that contains the part with an error.</strong></p>\n\n<p><strong>The Adani family has</strong> agreed to buy Swiss building materials maker <strong>Holcim Ltd&#39;s India assets Ambuja Cements and ACC Ltd</strong> for $10.5 billion in one of the largest ever acquisitions by an Indian group.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "agreed to buy Swiss building materials maker",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "for $10.5 billion in one&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">of the largest ever acquisitions</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "by an Indian group",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is \"<strong>no error.</strong>\"</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In the given sentence, the highlighted part is correct.&nbsp;</li>\n\t<li>In the remaining sentence, the verb \"agreed\" is used correctly and does not distort the tense of the sentence.</li>\n\t<li>The preposition \"for\" is also used correctly.</li>\n\t<li>Thus, <strong>the sentence is grammatically and contextually correct.</strong></li>\n\t<li>There is no error in the sentence mentioned above.</li>\n</ul>\n\n<p>Hence, <strong>the correct answer is option 5</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "65092da1ba31cf2b0f096a9d",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: bolder;\">Direction:</span><strong>&nbsp;Read the given sentence to find out whether there is any grammatical/contextual error in it. The error, if any, will be in one part of the&nbsp;sentence. If no part in the sentence has an error then, mark &#39;No Error&#39; as your answer. Consider the part in bold as grammatically correct. (Ignore punctuation errors, if any).</strong></p>\n\n<p>It is likely the result of the same process that causes anosmia, (A)/ which hasn&#39;t been fully elucidate but occurs either(B)/ <strong>through direct viral invasion.</strong>/immune system inflammation, or some(C)/ combination of these two elements(D)/ No error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "B",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is \"<strong>B.</strong>\"</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;In the given sentence, the error is in part (B).</li>\n\t<li>The given sentence is in present perfect continuous tense.</li>\n\t<li>The present perfect continuous is formed with have/has been and the -ing form of the verb.&nbsp;\n\t<ul>\n\t\t<li>Example: She has been living in Delhi all her life.</li>\n\t</ul>\n\t</li>\n\t<li><strong>&#39;Has been/Have been&#39; are always followed by a participle form of verb. </strong></li>\n\t<li><strong>So, the use of &#39;elucidate&#39; is incorrect.</strong></li>\n\t<li><strong>The correct word to use is \"elucidating\" which means&nbsp;to make something clearer by explaining it.</strong> (स्&zwj;पष्&zwj;ट करना, व्&zwj;याख्&zwj;या करना)</li>\n</ul>\n\n<p>Hence, <strong>the correct answer is option 5</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6501b30303522b26727031d7",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>Direction: Given below is a sentence that may or may not be grammatically or contextually incorrect; different parts of the sentence are given as options. Choose the part that contains an error as your answer. If the sentence is error-free, mark option 5, i.e., &#39;No error,&#39; as your answer.</strong></p>\n\n<p>Many chefs use fresh produce and refused to adulterate their dishes with canned ingredients.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Many chefs use fresh",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "produce and refused to",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "adulterate their dishes",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "with canned ingredients",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 2.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Option 2, \"produce and refused to,\" is erroneous.&nbsp;</strong></li>\n\t<li>The sentence should use the present tense \"refuse\" instead of the past tense \"refused\" to maintain grammatical consistency with \"use\" (present tense) and convey that chefs currently choose not to adulterate their dishes with canned ingredients.</li>\n\t<li><strong>Hence, \"produce and refused to\" is the correct answer.</strong></li>\n\t<li><strong>The correct sentence would be: \"Many chefs use fresh produce and refuse to adulterate their dishes with canned ingredients.\"</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Let&#39;s understand some important vocabulary given in the question -&nbsp;&nbsp;</strong></li>\n\t<li><strong>Refuse -</strong> to decline or reject something; to say no <strong>(मना करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>She had to <strong>refuse</strong> the job offer because it required too much travel.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Adulterate -</strong> to make something impure or of lower quality by adding inferior substances or elements <strong>(मिलावट करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Some unscrupulous sellers <strong>adulterate</strong> their products with cheap fillers to increase their profits.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Ingredients -</strong> the individual components or substances used in making a compound or mixture, especially in cooking or preparing a dish <strong>(सामग्री)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The key <strong>ingredients</strong> for making a delicious pasta sauce include tomatoes, garlic, and basil.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "650d404528e95efcc5dcb87d",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>Direction: In the following question, a sentence is given divided into four parts (A), (B), (C) and (D). The error, if any, will only be in one part of the sentence. Choose the option with the part containing the error and mark it as your answer. If the sentence is free from errors, mark &#39;No error&#39; as your answer.</strong></p>\n\n<p>Yesterday, he was (A)/ completing his assignment (B)/ whereas talking to her (C)/ friend over the phone. (D)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><span style=\"font-weight: bolder;\">The correct answer is Option 2</span>.</p>\n\n<p style=\"color:  (33, 37, 41);\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span> </span> </span></p>\n\n<ul style=\"color:  (33, 37, 41);\">\n\t<li><span style=\"font-weight: bolder;\">Part (C) of the sentence i.e. <strong><span style=\"font-weight: bolder;\">\"</span></strong></span><strong>whereas talking to her</strong><span style=\"font-weight: bolder;\"><strong><span style=\"font-weight: bolder;\">\"</span></strong> is erroneous</span>.\n\n\t<ul>\n\t\t<li><strong>&#39;Whereas&#39;</strong> is used in cases where two events contradict each other. (जबकि (ऐसी स्थिति दर्शाने के लिए प्रयुक्त जो भिन्&zwj;न है))\n\n\t\t<ul>\n\t\t\t<li><strong>Example</strong>: <em>He eats meat, <u><strong>whereas</strong></u> she&rsquo;s a vegetarian.</em></li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><strong>\"While\"</strong> means during the time that; when. (उस समय जब; जब)\n\t\t<ul>\n\t\t\t<li><strong>Example</strong>: <em>He always phones <u><strong>while</strong></u> we&rsquo;re having lunch.</em></li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>It should be replaced with <strong>&#39;while&#39;</strong> which refers to a situation where two events occur simultaneously, as is the case here (assignment completion and talking over the phone).</li>\n\t\t<li>One more error is in the usage of <strong>\"her.\"</strong></li>\n\t\t<li>As the sentence is referring to a masculine pronoun<strong> \"he\",</strong> so<strong> \"his\" </strong>must be used before <strong>\"friend.\"</strong></li>\n\t\t<li>Hence, <span style=\"font-weight: bolder;\">option 2</span> is the correct answer.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: bolder;\">The correct answer would be: <strong><span style=\"font-weight: bolder;\">\"</span></strong></span><strong>Yesterday, he was completing his assignment while talking to his friend over the phone.<span style=\"font-weight: bolder;\"><span style=\"font-weight: bolder;\">\"<span style=\"font-weight: bolder;\">​</span></span></span></strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6501a53ec5c24b052cc4a63e",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Direction: In the following sentence, there may be more than one error. Please identify the part(s) of the sentence that contain(s) an error and select the appropriate option as your answer.</strong></p>\n\n<p>The centre of the city <strong>(A)</strong>&nbsp;had sad become a pit of <strong>(B)</strong>&nbsp;poverty, while, only five mile away, <strong>(C)</strong>&nbsp;multi-million dollar <strong>(D)&nbsp;</strong>homes spoke of affluent. <strong>(E)</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A and D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "All B, C, and E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "All A, D, and E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both C and E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 2.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Part B, \"had sad become a pit of,\" is incorrect</strong> because it uses the adjective \"sad\" when an adverb is needed to modify the verb \"become.\" To make it grammatically correct, we should use the adverb \"sadly\" to describe how the centre of the city became a pit of poverty.</li>\n\t<li><strong>Part C, \"poverty, while, only five mile away,\" is erroneous</strong> because it incorrectly uses \"mile\" instead of the plural form, \"miles.\" The correct phrase should be \"five miles away\" to indicate a distance of multiple miles, not just one mile.</li>\n\t<li><strong>Part E, \"homes spoke of affluent,\" is erroneous</strong> because \"affluent\" is an adjective, but in this context, a noun is needed to describe what the homes are expressing. \"Affluence\" is the correct noun form that should be used to indicate that the homes represent wealth and prosperity.</li>\n\t<li><strong>Hence, all B, C, and E parts of the sentence are erroneous.</strong></li>\n\t<li><strong>The correct sentence would be: \"The centre of the city had sadly become a pit of poverty, while, only five miles away, multi-million dollar homes spoke of affluence.\"</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Subject-Verb Agreement:</strong></li>\n\t<li>Subject-verb agreement is an important grammatical concept where the verb in a sentence must match the subject in terms of number and person. In English, verbs change their forms depending on whether the subject is singular or plural, and whether it&#39;s in the first, second, or third person.\n\t<ul>\n\t\t<li><strong>For Example:</strong></li>\n\t\t<li>She works hard. (Here, \"works\" is used with the singular subject \"she.\")</li>\n\t\t<li>They work hard. (Here, \"work\" is used with the plural subject \"they.\")</li>\n\t\t<li>He works hard. (Here, \"works\" is used with the singular subject \"he.\")</li>\n\t</ul>\n\t</li>\n\t<li>Maintaining subject-verb agreement ensures that the sentence is grammatically correct and conveys the intended meaning clearly. Errors in subject-verb agreement can lead to confusion and grammatical mistakes in writing and speaking.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6501b2d9eef623935346d7ea",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Direction: Given below is a sentence that may or may not be grammatically or contextually incorrect; different parts of the sentence are given as options. Choose the part that contains an error as your answer. If the sentence is error-free, mark option 5, i.e., &#39;No error,&#39; as your answer.</strong></p>\n\n<p>My hard work paid off, and I was excited to receive a perfect scores.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "My hard work paid",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "off, and I was",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "excited to receive a",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "perfect scores",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 4.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Option 4, \"perfect scores,\" is erroneous.&nbsp;</strong></li>\n\t<li>The correct form should be <u>\"a perfect score\"</u> because the subject is referring to a singular accomplishment (receiving a perfect score), not multiple scores.&nbsp;</li>\n\t<li>\"Score\" should be singular to match the singular article \"a\" that precedes it, making the sentence error-free.</li>\n\t<li><strong>Hence, \"perfect scores\" is the correct answer.</strong></li>\n\t<li><strong>The correct sentence would be: \"My hard work paid off, and I was excited to receive a perfect score.\"</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Use of articles a, an, and the:&nbsp;</strong></li>\n\t<li>Article &#39;a&#39; is used before nouns that begin with a consonant sound.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>I have <strong>a</strong> book in my purse.</li>\n\t\t<li>(Here, article &#39;a&#39; is used before the noun &#39;book&#39; because it begins with a consonant sound)</li>\n\t</ul>\n\t</li>\n\t<li>Article &#39;an&#39; is used before nouns that begin with a vowel sound.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Do you want <strong>an</strong> apple for breakfast?</li>\n\t\t<li>(Here, the article &#39;an&#39; is used before the noun &#39;apple&#39; because it begins with a vowel sound)</li>\n\t</ul>\n\t</li>\n\t<li>Article &#39;the&#39; is used before both singular and plural nouns when the noun is specific.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>I saw <strong>the</strong> play you are talking about.</li>\n\t\t<li>(Here, the article &#39;the&#39; is used before the noun &#39;play&#39; because it is the specific play that is being talked about)</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:34.779Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

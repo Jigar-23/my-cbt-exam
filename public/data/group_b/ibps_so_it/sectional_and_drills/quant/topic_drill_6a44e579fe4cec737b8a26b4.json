@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e579fe4cec737b8a26b4",
+  "title": "Quantitative Aptitude Sectional Test 2",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5f4cb5936cd7532ddca0f2c5",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "If the total time taken on the both journey together on Friday is <span class=\"math-tex\">\\(146\\frac{2}{{13}}\\)</span>%&nbsp;of the total time taken on the both the journey on Thursday, then find the value of x.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "52",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "46",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "36",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "42",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "40",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">From Statement 1:</p>\n\n<p style=\"\">Time taken on the upstream and downstream journey on Friday</p>\n\n<p style=\"\">Distance travelled on Friday = (20/100) &times; 7200 = 1440 km</p>\n\n<p style=\"\">Total time taken on the upstream and downstream journey</p>\n\n<p style=\"\"><span class=\"math-tex\">\\(\\Rightarrow \\frac{{1440}}{{40}} + \\frac{{1440}}{{36}}\\)</span>= 76 hrs</p>\n\n<p style=\"\">We know that,</p>\n\n<p style=\"\"><span class=\"math-tex\">\\(146\\frac{2}{{13}}\\% = \\frac{{19}}{{13}}\\)</span></p>\n\n<p style=\"\">So, total time taken on Thursday = 13/19 &times; 76 = 52 hrs</p>\n\n<p style=\"\">&there4; x = 52 &ndash; 16 = 36 hours</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4cb5936cd7532ddca0f2c7",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "If the boatman charges Rs. 40 per hour as his fee, then what is the total earning of the boatman on Monday, Tuesday and Wednesday?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 8800",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 1000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 5000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 8000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">From the information we can say that</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody style=\"\">\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">Day</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">Time taken along the stream in hrs</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">Time taken opposite to the stream in hrs</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">Monday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">720/30 = 24</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">720/24 = 30</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">Tuesday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">1296/48 = 27</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">1296/27 = 48</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">Wednesday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">1728/64 = 27</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:213px;\">\n\t\t\t<p style=\"text-align: center;\">1728/27 = 64</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">&rArr; Total time travelled by the boat = 24 + 27 + 27 + 30 + 48 + 64 = 220 hrs</p>\n\n<p style=\"\">&there4; Boatman&rsquo;s income = 220 &times; 40 = Rs. 8800</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4cb5936cd7532ddca0f2c6",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "On which day time taken to travel along the stream is the second highest?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Monday",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Tuesday&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Wednesday&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Friday",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Saturday",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:300px;\">\n\t<tbody style=\"\">\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:151px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;Day</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:487px;\">\n\t\t\t<p style=\"text-align: center;\">Time taken to travel along the stream ( in hrs)</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:151px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;Monday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:487px;\">\n\t\t\t<p style=\"text-align: center;\">720/30 = 24</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:151px;\">\n\t\t\t<p style=\"text-align: center;\">Tuesday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:487px;\">\n\t\t\t<p style=\"text-align: center;\">1296/48 = 27</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:151px;\">\n\t\t\t<p style=\"text-align: center;\">Wednesday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:487px;\">\n\t\t\t<p style=\"text-align: center;\">1728/64 = 27</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:151px;\">\n\t\t\t<p style=\"text-align: center;\">Friday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:487px;\">\n\t\t\t<p style=\"text-align: center;\">1440/40 = 36</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:151px;\">\n\t\t\t<p style=\"text-align: center;\">Saturday</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:487px;\">\n\t\t\t<p style=\"text-align: center;\">1440/45 = 32</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>&there4; On Saturday time taken to travel along the stream is the second highest</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4cb5936cd7532ddca0f2c4",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "The speed of the boat in still water on Monday is how much percent of the speed of the boat along the current on Wednesday?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span class=\"math-tex\">\\(42\\frac{3}{{16}}\\)</span>%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span class=\"math-tex\">\\(68\\frac{3}{4}\\)</span>%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "20%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "30%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Speed of the boat in still water on Monday = (30 + 24)/2 = 27 km/h</p>\n\n<p style=\"\">Speed of boat along the stream on Wednesday = 64 km/hr</p>\n\n<p style=\"\">&there4; Required percentage</p>\n\n<p style=\"\"><span class=\"math-tex\">\\(\\Rightarrow \\frac{{27}}{{64}} \\times 100 = 42\\frac{3}{{16}}\\%\\)</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f4cb5936cd7532ddca0f2c8",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "The coal consumption (in units) of the boat is directly proportional to the square root of the number of people it carries. On Monday it carried a total of 400 people. If there is a 125% increase in the number of passengers on Tuesday compared to Monday then what is the ratio of consumption of coal on Monday to Tuesday?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4 : 5",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5 : 4",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3 : 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2 : 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cannot be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">People on Monday = 400.</p>\n\n<p style=\"\">&rArr; People on Tuesday = 225% of 400 = 900</p>\n\n<p style=\"\">Consumption of coal on Monday = &radic;400 = 20 units</p>\n\n<p style=\"\">Consumption of coal on Tuesday = &radic;900 = 30 units</p>\n\n<p style=\"\">&there4; Required ratio = 2 : 3</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640878e42239d025d245a557",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><span style=\"\">What approximate value will come in the place of the question mark &#39;?&#39; in the following question?</span></p>\n\n<p>24.98<sup>2</sup>&nbsp;- 1039.89&nbsp;+ 260.12 &divide;&nbsp;13 =&nbsp;506.08 - ?<sup>2</sup> + 17.97<sup>2</sup></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "35",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "45",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "25",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "55",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "65",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p>24.98<sup>2</sup>&nbsp;- 1039.89&nbsp;+ 260.12 &divide;&nbsp;13 =&nbsp;506.08 - ?<sup>2</sup>&nbsp;+ 17.97<sup>2</sup></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">Follow the&nbsp;<span style=\"font-weight: 700;\">&#39;BODMAS&#39;</span>&nbsp;Rule</p>\n\n<p style=\"\">B&nbsp;&rArr; Bracket, O &rArr; of, D &rArr; Division, M &rArr; Multiplication, A &rArr; Addition, S &rArr; Subtraction</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p>&rArr; 24.98<sup>2</sup>&nbsp;- 1039.89&nbsp;+ 260.12 &divide;&nbsp;13 =&nbsp;506.08 - ?<sup>2</sup>&nbsp;+ 17.97<sup>2</sup></p>\n\n<p>&rArr;&nbsp;25<sup>2</sup>&nbsp;-&nbsp;1040&nbsp;+ 260&nbsp;&divide;&nbsp;13 =&nbsp;506 - ?<sup>2</sup>&nbsp;+&nbsp;18<sup>2</sup></p>\n\n<p>&rArr; 625 - 1020 = 506&nbsp;- ?<sup>2</sup>&nbsp;+ 324</p>\n\n<p>&rArr; ?<sup>2</sup>&nbsp;= 506 + 324 + 1020 - 625</p>\n\n<p>&rArr; ?<sup>2&nbsp;</sup>= 1850 - 625</p>\n\n<p>&rArr; ?&nbsp;= &radic;1225</p>\n\n<p>&rArr; ? = 35</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">&there4;&nbsp;The value of &#39;?&#39; is 35.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640eafc65fdea4780021373a",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><span style=\"\">What approximate value should come in the place of the question mark (?) in the given question?</span></p>\n\n<p><span style=\"\">12.5% of 1183.76 + 24.89% of 419.78 + 19.78% of 520 = ?</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "345",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "357",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "369",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "352",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "389",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Solution :</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used :</span></p>\n\n<p style=\"\">Follow the BODMAS rule to solve this question, as per the question is given below:</p>\n\n<p style=\"\">Step 1: Parts of an equation enclosed in &#39; Brackets &#39; must be solved first and in the bracket,</p>\n\n<p style=\"\">Step 2: Any mathematical &#39; of &#39; or &#39;exponent&#39; must be solved next,</p>\n\n<p style=\"\">Step 3: Next, The part of the equation that contains &#39;Division&#39; and &#39;multiplication&#39; are calculated,</p>\n\n<p style=\"\">Step 4: Last but not least, the parts of the equation that contains &#39;Addition &#39; and &#39;Subtraction&#39; should be calculated</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Given :</span></p>\n\n<p style=\"\">&rArr; 12.5% of 1183.76 + 24.89% of 419.78 + 19.78% of 520 = ?&nbsp;</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Approximate the number to its nearest value&nbsp;</span></p>\n\n<p style=\"\">&rArr; 12.5% of 1184 + 25% of 420 + 20% of 520 = ?</p>\n\n<p style=\"\">&rArr; 12.5&nbsp;&times; 1184/100 + 25&nbsp;&times; 420/100 + 20&nbsp;&times; 520/100 = ?</p>\n\n<p style=\"\">&rArr; 148 + 105 + 104 = ?</p>\n\n<p style=\"\">&rArr; ? = 357</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Hence,&nbsp;<strong>357</strong>&nbsp;is the correct answ<strong>e</strong></span><strong>r<span style=\"font-weight: 700;\">.</span></strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63fce8d215c7abdb91c655ea",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>What approximate value will come in the place of the question mark &#39;?&#39; in the following question?</p>\n\n<p>37.5% of 319.89 - 311.98&nbsp;&divide; 2.99 = ? -&nbsp;44.44% of 530.99&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "205",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "252",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "325",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "225",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "522",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">37.5% of 319.89 - 311.98&nbsp;&divide; 2.99 = ? -</span><span style=\"\">&nbsp;44.44% of 530.99&nbsp;</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">Follow the&nbsp;<span style=\"font-weight: 700;\">&#39;BODMAS&#39;</span>&nbsp;Rule</p>\n\n<p style=\"\">B&nbsp;&rArr; Bracket, O &rArr; of, D &rArr; Division, M &rArr; Multiplication, A &rArr; Addition, S &rArr; Subtraction</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p>&rArr;&nbsp;<span style=\"\">37.5% of 319.89 - 311.98&nbsp;&divide; 2.99 = ? -</span><span style=\"\">&nbsp;44.44% of 530.99&nbsp;</span></p>\n\n<p>&rArr; 3/8&nbsp;&times; 320 - 312/3 = ? - 4/9&nbsp;&times; 531</p>\n\n<p>&rArr; 120 - 104 = ? - 236</p>\n\n<p>&rArr; ? = 252</p>\n\n<p><strong>&there4;&nbsp;The value of ? is 252.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63da05e331adf2a06fa6ba0b",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><span style=\"\">What approximate value should come in place of question mark?</span></p>\n\n<p><span style=\"\">9.908&nbsp;&times; 3.902 + 15.146&nbsp;&times; 7.902 - ? = (4899.956 )<sup>1/2</sup>&nbsp;&times; 1.908 + 9.998&nbsp;</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "19",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "21",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "11",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "10",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "13",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>&nbsp;<span style=\"font-weight: 700;\">Solution :</span></p>\n\n<p><span style=\"font-weight: 700;\">&nbsp;Concept used :</span></p>\n\n<p><span style=\"font-weight: 700;\">&nbsp;</span>Follow the BODMAS rule to solve this question, as per the question is given below:</p>\n\n<p>&nbsp;Step 1: Parts of an equation enclosed in &#39; Brackets &#39; must be solved first and in the bracket,</p>\n\n<p>&nbsp;Step 2: Any mathematical &#39; of &#39; or &#39;exponent&#39; must be solved next,</p>\n\n<p>&nbsp;Step 3: Next, The part of the equation that contains &#39;Division&#39; and &#39;multiplication&#39; are calculated,</p>\n\n<p>&nbsp;Step 4: Last but not least, the parts of the equation that contains &#39;Addition &#39; and &#39;Subtraction&#39; should be calculated</p>\n\n<p>&nbsp;<span style=\"font-weight: 700;\">Given :</span></p>\n\n<p>&rArr; 9.908&nbsp;&times; 3.902 + 15.146&nbsp;&times; 7.902 - ? = (4899.56)<sup>1/2</sup>&nbsp;&times; 1.908 + 9.998</p>\n\n<p><strong>Approximate the number to its nearest value&nbsp;</strong></p>\n\n<p><strong>&rArr;</strong>&nbsp;10&nbsp;&times;&nbsp;4 + 15&nbsp;&times; 8 - ? = (4900)<sup>1/2</sup>&nbsp;&times; 2 + 10</p>\n\n<p>&rArr; 40 + 120 - ? = (70)<sup>2&times;1/2</sup>&nbsp;&times; 2 + 10</p>\n\n<p>&rArr; 160 - ? = 70&nbsp;&times; 2 + 10</p>\n\n<p>&rArr; 160 - ? = 140+ 10</p>\n\n<p>&rArr; ? = 160 - 150</p>\n\n<p>&rArr; ? = 10</p>\n\n<p><strong>Hence 10 is the correct answer.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6346ecce5d92ef34425530e0",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>What approximate value will come in the place of the question mark &#39;?&#39; in the following question?<o:p></o:p></p>\n\n<p>{3/8&nbsp;&times; (15.88% of 49.79) + (16.37 &times; 30.23% of 14.89% of 75.30)}&nbsp;&times; (1.98)<sup>4</sup>&nbsp;= ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "878",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "936",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "912",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "848",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "956",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Correct answer is: <b>912</b></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>1) If the digits after decimal in a given number is less than 5, then the digits after decimal are omitted and the rest number will be the approximate value.</p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\" \">2) If the digits after decimal in a given number is more than 5, then the digits after decimal are omitted and the rest of the number is increased by 1. The obtained number will be the approximate value.<o:p></o:p></span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\" \">3) The BODMAS rule should be followed to solve the question as per the given table:</span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\" \"><o:p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/image.png\" style=\"width: 488px; height: 251px;\" /></o:p></span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\" \"><strong>Calculation:</strong></span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\" \">{3/8&nbsp;&times; (15.88% of 49.79) + (16.37 &times; 30.23% of 14.89% of 75.30)}&nbsp;&times; (1.98)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">4&nbsp;</span><span style=\" \">= ?</span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\">&rArr; {3/8&nbsp;&times; (16/100 &times; 50) + (16 &times; 30/100 &times; 15/100 &times; 75)}&nbsp;&times; 2<sup>4</sup>&nbsp;= ?</p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\"\">&rArr; (3/8&nbsp;&times; 8 + 2 &times; 3&nbsp;&times; 3&nbsp;&times; 3)&nbsp;&times; 2<sup>4</sup>&nbsp;= ?</span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\"\">&rArr; ( 3 + 54)&nbsp;&times; 16 = ?</span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\"\">&rArr; 57&nbsp;&times; 16 = ?</span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\"\">&rArr; ? = 912</span></p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 4.15pt; background: white;\"><span style=\"color: rgb(32, 33, 36);   \">&there4;<strong>The value of ? is 912</strong></span><span style=\"\">&nbsp;</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "635428d1161d8eedc96540a9",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "If the price of an Iphone is reduced by 20% during the festival season, its sale is increased by 80%. If the percentage by which the net sale is increased be m, then what will be the square root of m+5 ?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "11",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "13",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "17",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Net change % = x + y + (x &times; y)/100 where <strong>x = &minus;20%</strong> (reduction) and <strong>y = +80%</strong> (increase).</p>\n<p>m = &minus;20 + 80 + (&minus;20 &times; 80)/100 = 60 &minus; 16 = <strong>44%</strong>.</p>\n<p>Required value = &radic;(m + 5) = &radic;(44 + 5) = &radic;49 = <strong>7</strong>.</p>\n<p><strong>&there4; The correct answer is 7.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_851d1aa7.png/1785491210.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 200px;\"></div>\n<p><strong>Given:</strong></p>\n<p>Initial Price = 100, Initial Sale = 100 &rArr; Initial Revenue = 100 &times; 100 = <strong>10000</strong></p>\n<p><strong>Calculations:</strong></p>\n<p>&rArr; New Price = 100 &minus; 20% of 100 = <strong>80</strong></p>\n<p>&rArr; New Sale = 100 + 80% of 100 = <strong>180</strong></p>\n<p>&rArr; New Revenue = 80 &times; 180 = <strong>14400</strong></p>\n<p>&rArr; Increase in Revenue = 14400 &minus; 10000 = <strong>4400</strong></p>\n<p>&rArr; Percentage increase (m) = (4400 &divide; 10000) &times; 100 = <strong>44%</strong></p>\n<p>&rArr; Value to find = &radic;(m + 5) = &radic;(44 + 5) = &radic;49 = <strong>7</strong></p>\n<p><strong>&there4; The correct answer is 7.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Successive Percentage Change</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a quantity is changed by x% and then by y%, the overall change is given by [x + y + (xy/100)]%.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Revenue Relationship</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Revenue is the product of Price and Consumption (or Sale). If both change, the product change follows the successive percentage rule.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Percentage to Fraction</p>\n<p style='margin:0 0 8px 0;color:#444444;'>20% reduction = 4/5 multiplier; 80% increase = 9/5 multiplier. Net multiplier = (4/5) &times; (9/5) = 36/25. Increase = 11/25 = 44%.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6352144d1cbdfca80322de67",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "The price of tea being increased by 20%, a man reduces his consumption by 20%. By how much percent will his expenses for tea be decreased ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">4%</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">5%</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">6%</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">20%</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">None of these</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>option 1.</strong></p>\n\n<p><strong>Given:</strong></p>\n\n<p>The price of tea being increased by 20%, a man reduces his consumption by 20%.&nbsp;</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; Let assume initial price of tea = Rs. 100 per kg</p>\n\n<p>And man consumption was 1 kg.</p>\n\n<p>So, Initial expenses for tea = 100 x 1 = Rs.100</p>\n\n<p>Now price is increased by 20% = 120% of 100 = Rs. 120 per kg</p>\n\n<p>And consumption is reduced by 20% = 80% of 1 kg = 0.8 kg</p>\n\n<p>Now, man expenses for tea = 120 x 0.8 = Rs. 96</p>\n\n<p>Percentage reduction in expenses =&nbsp;<span class=\"math-tex\">\\(\\dfrac{96 -100}{100} \\times 100\\)</span></p>\n\n<p>&nbsp;= - 4%</p>\n\n<p><strong>So,&nbsp;his expenses for tea &nbsp;will&nbsp;be decreased by 4%.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6030fa8f30a06587f9aae8c2",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Six year from now ratio of age of son to father is 3 : 7. The sum of present ages of son and daughter is 14 years less than the father&rsquo;s age. Two years ago,&nbsp; son&nbsp; celebrated his tenth birthday, Find the age of daughter.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "10 year",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "12 year",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "15 year",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "17 year",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "13 year",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Solution :</strong></p>\n\n<p><strong>Given :</strong></p>\n\n<p>Two years ago the son celebrated his tenth birthday &there4; Present age of the son = (10 + 2) years = 12 years</p>\n\n<p>Calculations :</p>\n\n<p>Let the present age of Father , Son and Daughter be F , S and D respectively.</p>\n\n<p>Also the ratio of age of son to father six year from now is 3 : 7</p>\n\n<p>Six year from now the ages of father and son be (F+6) and (S+6) respectively.</p>\n\n<p>&rArr; (S+6)/(F+6) = 3/7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ----(1)</p>\n\n<p>&rArr; Putting S = 12,&nbsp; in equation (1),</p>\n\n<p>&rArr; (12 + 6)/(F+6) = 3/7</p>\n\n<p>&rArr; 3 F + 18 = 126</p>\n\n<p>&rArr; F = 36 years</p>\n\n<p>It is given that, the sum of present ages of son and daughter is 14 years less than the father&rsquo;s age.</p>\n\n<p>&rArr; S + D = F &ndash; 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ----(2)</p>\n\n<p>Putting S = 12 and F = 36 in equation (2),</p>\n\n<p>&rArr; 12 + D = 36 &ndash; 14</p>\n\n<p>&rArr; D = 36 &ndash; 14 &ndash; 12</p>\n\n<p>&rArr; D = 10 years</p>\n\n<p><strong>Hence the present age of daughter is 10 years.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60aeaca621227d3b4aed0e88",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "Sinchan and Rahul invested Rs. X and Rs. (X + 1200) respectively in two different schemes on simple interest. If Sinchan invested at 10% per annum and Rahul invested at&nbsp;12% per annum, the difference in interest collected by them after two years is Rs. 600.&nbsp;Find the sum invested by Sinchan.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "6000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "7500",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6500",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "7800",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>The sum invested by Sinchan is&nbsp;X, at 10% per annum for 2 years</p>\n\n<p>The sum invested by Rahul is Rs. (X + 1200) at 12% per annum for 2 years</p>\n\n<p>The difference between the interest received by them is Rs. 600</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>S.I = PRT/100</p>\n\n<p>Where S.I = Simple interest,&nbsp; P = Principal, R = Rate, T = time</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>S.I received by Sinchan = (X&nbsp;&times;&nbsp;10&nbsp;&times; 2)/100</p>\n\n<p>S.I received by Rahul = {(X + 1200)&nbsp;&times; 12&nbsp;&times; 2}/100</p>\n\n<p>Now, according to the&nbsp;question, we can say,</p>\n\n<p>[{(X + 1200)&nbsp;&times; 12&nbsp;&times; 2}/100] - [(X&nbsp;&times;&nbsp;10&nbsp;&times; 2)/100] = 600</p>\n\n<p>&rArr; (4/100)[(X + 1200)&nbsp;&times; 6 - 5X] = 600</p>\n\n<p>&rArr; (1/25)[6X - 5X + 7200] = 600</p>\n\n<p>&rArr; [X + 7200] = 600&nbsp;&times; 25</p>\n\n<p>&rArr; X = 15000 - 7200 = 7800</p>\n\n<p><strong>&there4; The sum invested by Sinchan is Rs. 7800.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608ad1f3fe9a1b972cbac580",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "Divide Rs. 1301 between A and B, so that amount of A after 7 years is equal to the amount of B after 9 years at 4% per annum compounded annually. What was the sum of A and B initially?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 255 and Rs. 356",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 426 and Rs. 455",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 365 and Rs. 305",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 281 and Rs. 260",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 676 and Rs. 625",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given:</p>\n\n<p>Total sum&nbsp;= Rs. 1301</p>\n\n<p>Amount of A after 7 years = Amount&nbsp;of B after 9 years</p>\n\n<p>Rate of Interest = 4% per annum</p>\n\n<p>Concept Used:</p>\n\n<p>C.I = P [{1 + (R/100)}<sup>n</sup>&nbsp;- 1]</p>\n\n<p>R = Rate of Interest</p>\n\n<p>T = Time</p>\n\n<p>Calculation:</p>\n\n<p>Let the sum of A and B be Rs. x and Rs. (1301 - x) respectively.</p>\n\n<p><span data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo stretchy=\"false\">[</mo><mo stretchy=\"false\">(</mo><mn>1</mn><mo>+</mo><mrow class=\"MJX-TeXAtom-ORD\"><mfrac><mi>R</mi><mn>100</mn></mfrac></mrow><msup><mo stretchy=\"false\">)</mo><mi>T</mi></msup><mo>&amp;#x2212;</mo><mn>1</mn><mo stretchy=\"false\">]</mo></math>\" tabindex=\"0\">&rArr;</span>&nbsp;x{1 + (4/100)}<sup>7</sup>= (1301 - x){1 + (4/100)}9</p>\n\n<p>&rArr; x/(1301 - x) =&nbsp;{1 + (4/100)}<sup>2</sup></p>\n\n<p>&rArr;&nbsp;x/(1301 - x) = (26/25)<sup>2</sup></p>\n\n<p>&rArr; 625x = 676(1301 - x)</p>\n\n<p>&rArr; 1301x = 676 &times; 1301</p>\n\n<p>&nbsp;A = x&nbsp;= 676.</p>\n\n<p>&nbsp;B =&nbsp;(1301 - x) = 1301 - 676</p>\n\n<p>&rArr; B = 625.&nbsp;&nbsp;sum of A + B = <strong data-end=\"255\" data-start=\"246\">₹1301</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ffc8929472312f86d3cca81",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "There are two pipes in a cistern A and B. A can fill it in 30 minutes and B can empty it in 60 minutes. if A and B&nbsp;are kept open alternatively for one minute each, in how much time will the cistern be filled?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "113 minutes",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "120 minutes",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "115 minutes",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "117 minutes",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "121 minutes",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong><u>GIVEN:</u></strong></p>\n\n<p>A can fill the cistern in = 30 minutes</p>\n\n<p>B&nbsp;can empty&nbsp;the cistern in = 60 minutes</p>\n\n<p><strong><u>EXPLANATION:</u></strong></p>\n\n<p>part of cistern filled by A per minute =&nbsp;<span class=\"math-tex\">\\(\\frac{1}{30}\\)</span></p>\n\n<p>part of cistern emptied&nbsp;by B&nbsp;per minute = -<span class=\"math-tex\">\\(\\frac{1}{60}\\)</span></p>\n\n<p>part of cistern filled in first two minutes =&nbsp;<span class=\"math-tex\">\\(\\frac{1}{30}-\\frac{1}{60}=\\frac{1}{60}\\)</span></p>\n\n<p>part of the tank filled in 116 (= 2 &times; 58)&nbsp; minutes =&nbsp;<span class=\"math-tex\">\\(\\frac{1}{60}× 58=\\frac{29}{30}\\)</span></p>\n\n<p>remaining part =&nbsp;<span class=\"math-tex\">\\(1- \\frac{29}{30}=\\frac{1}{30}\\)</span></p>\n\n<p>The remaining part will be filled by A in 1 minute&nbsp;</p>\n\n<p>total time taken = 117 minutes</p>\n\n<p><strong><u><img height=\"46px\" src=\"//storage.googleapis.com/tb-img/production/21/11/5ffc8929472312f86d3cca81_16379019468651.png\" width=\"240px\" />&nbsp;</u></strong></p>\n\n<p>Let the capacity of the cistern be 60 units (L.C.M of 30 and 60)</p>\n\n<p>efficiency per minute of A = 2 units</p>\n\n<p>efficiency per minute of B = -1unit</p>\n\n<p>part of cistern filled in first two minutes = 2 -&nbsp;1 = 1 unit</p>\n\n<p><strong>part of the tank filled in 116&nbsp;(= 2 &times; 58)&nbsp;minutes = 58 units&nbsp;</strong></p>\n\n<p>remaining part = 60 - 58 = 2 units&nbsp;</p>\n\n<p>The remaining part will be filled by A in 1 minute&nbsp;</p>\n\n<p>total time taken = 117 minutes</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/11/5ffc8929472312f86d3cca81_16379019468682.png\" /></p>\n\n<p>the efficiency of emptying pipe is taken as negative</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/11/5ffc8929472312f86d3cca81_16379019468693.png\" /></p>\n\n<p>students tend to mark 120 as the answer but it will be wrong as once the cistern is full in 117 minutes there is no need to empty it again</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "64c3c610426ebef54df8e23a",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<p>Find the wrong term in the following series.</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">84, 109, 136, 165, 196, 230</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "84",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "109",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "230",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "196",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "165",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Given series:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">84, 109, 136, 165, 196, 230</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Calculation :</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&nbsp;</span>The series follows the following pattern:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (7)<sup>2</sup>&nbsp;+ 35 = 84</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (8)<sup>2</sup>&nbsp;+ 45 = 109</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;<span style=\"color: rgb(33, 37, 41);\">(9)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;+ 55 = 136</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;<span style=\"color: rgb(33, 37, 41);\">(10)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;+ 65 = 165</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;<span style=\"color: rgb(33, 37, 41);\">(11)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;+ 75 = 196</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;<span style=\"color: rgb(33, 37, 41);\">(12)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;+ 85 = <strong>229</strong></span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;The wrong term is 230</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;Hence the wrong term in the series is <b>230</b><span style=\"font-weight: bolder;\"><span style=\"font-weight: bolder;\">.</span></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "64c3c547629517cd5da95158",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<p>Find the wrong term in the following series.</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">961, 1147, 1271, 1333, 1475, 1643</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1147",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1271",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1333",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1475",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1643",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Given series:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">961, 1147, 1271, 1333, 1475, 1643</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Calculation :</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&nbsp;</span>The series follows the following pattern:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 31 x 31&nbsp;= 961</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 31 x 37&nbsp;= 1147</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 31 x 41 = 1271</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 31 x 43 = 1333</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 31 x 47 =<strong> 1457</strong></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr; 31 x 53&nbsp;= 1643</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;The wrong term is 1475</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;Hence the wrong term in the series is <b>1475</b><span style=\"font-weight: bolder;\"><span style=\"font-weight: bolder;\">.</span></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "649992e5d68b856a3aea2c44",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "<p>Find the wrong term in the following series.</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">29, 60, 89, 111, 131, 148</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "29",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "60",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "111",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "131",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "148",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Given series:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">29, 60, 89, 111, 131, 148</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Calculation :</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&nbsp;</span>The series follows the following pattern:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 29 + 31 = 60</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 60 + 29 = 89</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 89 + 23 = <strong>112</strong></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 112 + 19 = 131</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 131 + 17 = 148</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;The wrong term is 111</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;Hence the wrong term in the series is&nbsp;<span style=\"font-weight: bolder;\">111.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640a97da5123bbc600331f12",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "<p><span style=\"\">Find the wrong term in the given series.</span></p>\n\n<p><span style=\"\">532, 519, 493, 448, 402, 337</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "402",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "532",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "448",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "519",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "493",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Solution :</span></p>\n\n<p style=\"\">The series follows the following pattern :</p>\n\n<p style=\"\">&rArr;532 - 13 = 519</p>\n\n<p style=\"\">&rArr;519 - 26 = 493</p>\n\n<p style=\"\">&rArr;493 - 39 =&nbsp;<strong>454</strong></p>\n\n<p style=\"\">&rArr;454 - 52 = 402</p>\n\n<p style=\"\">&rArr;402 - 65 = 337&nbsp;</p>\n\n<p style=\"\">&rArr; The wrong term in the series will be&nbsp;<strong>448</strong>.</p>\n\n<p style=\"\">Hence,&nbsp;<strong>448</strong>&nbsp;is the correct answer.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63d1192bfa7d12dca501b242",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "Find the ratio of sold flats of Building B, D, and E together to unsold flats of <span style=\"\">building&nbsp;</span>A and C together.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "10 : 13",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "13:17",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "13 : 10",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "17 : 13",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "17 : 23",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Buildings</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Sold flats</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Unsold flats</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Total</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Price of each flat (in&nbsp;Rs.)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">42</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">1,50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">27</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">2,00,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">35</td>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">63</td>\n\t\t\t<td style=\"text-align: center;\">50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">36</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">2,30,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">E</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t\t<td style=\"text-align: center;\">1,75,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">144</td>\n\t\t\t<td style=\"text-align: center;\">134</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\"><span style=\"\">Total sold flats of building B, D, and E = 27 + 24 + 40 = 91</span></p>\n\n<p style=\"\"><span style=\"\">Total unsold flats of building A and C = 42&nbsp;+ 28 = 70</span></p>\n\n<p style=\"\"><span style=\"\">Required ratio = 91/70</span></p>\n\n<p style=\"\"><strong><span style=\"\">&rArr; 13:10</span></strong></p>\n\n<p style=\"\"><span style=\"\">Hence, the correct answer is <strong>option 3.</strong></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63d1192bfa7d12dca501b241",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "Find the sum required to buy all unsold flats in building A, building C, and building D together.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "162.6 Lakhs",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "159.8 Lakhs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "163.2 Lakhs",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "158.5 Lakhs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Buildings</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Sold flat</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Unsold flat</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Total</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Price of each flat (in&nbsp;Rs.)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">42</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">1,50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">27</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">2,00,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">35</td>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">63</td>\n\t\t\t<td style=\"text-align: center;\">50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">36</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">2,30,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">E</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t\t<td style=\"text-align: center;\">1,75,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">144</td>\n\t\t\t<td style=\"text-align: center;\">134</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\"><span style=\"\">Sum required to buy all unsold flats in building A = 42&nbsp;&times;&nbsp;150000 </span></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;63,00,000 Rs.</span></p>\n\n<p style=\"\"><span style=\"\">Sum required to buy all unsold flats in building C&nbsp;= 28 &times; 50000</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;</span><span style=\"\">&nbsp;14,00,000 Rs.</span></p>\n\n<p style=\"\"><span style=\"\">Sum required to buy all unsold flats in building D&nbsp;= 36&nbsp;&times; 230000</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;</span><span style=\"\">&nbsp;82,80,000 Rs.</span></p>\n\n<p style=\"\"><span style=\"\">Total sum&nbsp;required = (6300000 + 1400000 + 82</span><span style=\"\">8</span><span style=\"\">0000)&nbsp;</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; 15980000</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; <strong>159.8 Lakhs</strong></span></p>\n\n<p style=\"\"><span style=\"\">Hence, the correct answer is <strong>option 2.</strong></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63d1192bfa7d12dca501b243",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "If the price of flats in building D increases by 12.5% then find the money required to buy 83.33% of unsold flats in building D.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "77.565 lakh Rs.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "77.625 lakh&nbsp;<span style=\"\">Rs.</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "75.625 lakh&nbsp;<span style=\"\">Rs.</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "80.250 lakh&nbsp;<span style=\"\">Rs.</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Buildings</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Sold flats</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Unsold flats</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Total</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Price of each flat (in&nbsp;Rs.)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">42</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">1,50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">27</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">2,00,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">35</td>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">63</td>\n\t\t\t<td style=\"text-align: center;\">50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">36</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">2,30,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">E</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t\t<td style=\"text-align: center;\">1,75,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">144</td>\n\t\t\t<td style=\"text-align: center;\">134</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\"><span style=\"\">The price of flats in building D increased&nbsp;by 12.5%.</span></p>\n\n<p style=\"\">So the new price for each flat in building D = 230000&nbsp;&times; 9/8&nbsp; <strong>(∵ 12.5% = 1/8)</strong></p>\n\n<p style=\"\">&rArr;&nbsp;258750 Rs.</p>\n\n<p style=\"\">83.33% of unsold flats in&nbsp;D = 36&nbsp;&times; 5/6&nbsp; &nbsp; &nbsp; <strong><span style=\"\">(∵ 83.33% = 5/6)</span></strong></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;</span>30</p>\n\n<p style=\"\">So&nbsp;required sum = 30&nbsp;&times; 258750</p>\n\n<p style=\"\"><span style=\"\">&rArr; 7762500 Rs.</span></p>\n\n<p style=\"\"><strong><span style=\"\">&rArr; 77.625 Lakh Rs.</span></strong></p>\n\n<p style=\"\"><span style=\"\">Hence, the correct answer is<strong> option 2.</strong></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63d1192bfa7d12dca501b240",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "Find the<span style=\"\">&nbsp;total price of unsold flats in building E</span>&nbsp;is what percent more than the&nbsp;<span style=\"\">total price of sold flats in building C.</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "75.6%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "50%&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "25%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "55.5%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "60%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Buildings</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Sold flat</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Unsold flat</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Total</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Price of each flat (in&nbsp;<span style=\"\">Rs.)</span></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">42</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">1,50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">27</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">2,00,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">35</td>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">63</td>\n\t\t\t<td style=\"text-align: center;\">50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">36</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">2,30,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">E</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t\t<td style=\"text-align: center;\">1,75,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">144</td>\n\t\t\t<td style=\"text-align: center;\">134</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span style=\"\">The</span><span style=\"\">&nbsp;total price of unsold flats in building E&nbsp;= 15&nbsp;&times; 175000</span></p>\n\n<p><span style=\"\">&rArr; 26, 25, 000&nbsp;Rs.</span></p>\n\n<p><span style=\"\">The&nbsp;total price of flats which are sold in building C = 35&nbsp;&times;&nbsp;50000</span></p>\n\n<p><span style=\"\">&rArr; 17, 50, 000 Rs.</span></p>\n\n<p><span style=\"\">Now (2625000 - 1750000) = 875000</span></p>\n\n<p><span style=\"\">Required percentage = 875000/1750000&nbsp;&times; 100</span></p>\n\n<p><strong><span style=\"\">&rArr; 50%&nbsp;</span></strong></p>\n\n<p>Hence, the correct answer is <strong>option 2.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63d1192bfa7d12dca501b23f",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "Find the ratio of the unsold flat of building A to the total flat of building D.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7 : 9",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "7 : 10",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "10 : 7",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6 : 7",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Buildings</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Sold flats</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Unsold flats</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong><span style=\"\">Total</span></strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Price of each flat (in&nbsp;<span style=\"\">Rs.)</span></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">42</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">1,50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">27</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">2,00,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">35</td>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">63</td>\n\t\t\t<td style=\"text-align: center;\">50,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">36</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">2,30,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">E</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t\t<td style=\"text-align: center;\">1,75,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">144</td>\n\t\t\t<td style=\"text-align: center;\">134</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span style=\"\">Unsold flat of building A = 42</span></p>\n\n<p><span style=\"\">Total flat of building D&nbsp;= 60</span></p>\n\n<p><span style=\"\">Required ratio = 42/60</span></p>\n\n<p><strong><span style=\"\">&rArr; 7:10</span></strong></p>\n\n<p><span style=\"\">Hence, the correct answer is <strong>option 2.</strong></span></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:16.699Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

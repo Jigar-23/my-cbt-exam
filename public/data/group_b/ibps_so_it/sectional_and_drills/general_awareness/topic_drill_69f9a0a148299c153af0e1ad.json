@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0a148299c153af0e1ad",
+  "title": "CT 5: General Awareness (SARFAESI Act)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5881c9eb0328210b7e686f99",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Under Section 13(2) of SARFAESI, if a debt is classified as non-performing asset, then the secured creditor may require the borrower to discharge his liabilities within __________ Days from the date of the notice.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7 days",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "15 days",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "30 days",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "60 days",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "90 days",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Once the account is classified as a NPA the secured creditor issues a demand notice u/s 13(2) of the SARFAESI Act for repayment of the outstanding dues as set out in the demand notice within 60 days. The borrower may raise objections to the said notice in writing within 60 days and the secured creditor has to consider and reply to the aid objection u/s 13 (3A). In case of non-payment within the statutory period of 60 days, the authorized officer shall thereafter be entitled to take possession of the secured assets u/s 13(4).",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd3b4558660391dc021c6d8",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "On the basis of which committee&#39;s recommendations, SARFAESI Act was introduced?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Narasimha Committee&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Chelliah Committee",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Tendulkar Committee",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Kelkar Committee",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>Narasimha Committee</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>SARFAESI ACT was formed in Dec&rsquo; 2002 based on recommendations of a) Committee on Banking Sector reforms (Narasimham Committee Report II) and b) Restructuring of Weak Public sector Banks (Verma Committee).</li>\n\t<li>This Act aims at speedy recovery of defaulting loans and to reduce the mounting levels of Non-performing Assets of banks and financial institutions.</li>\n\t<li>&nbsp;The provisions of the Act enable the banks and financial institutions to realize long-term assets, manage problems of liquidity and asset liability disparities.</li>\n\t<li>This act improve recovery by exercising powers to take possession of securities, sell them and reduce non-performing assets by adopting measures for recovery or reconstruction.</li>\n\t<li>The Act provides three alternative methods for recovery of non-performing assets, viz; &bull; Securitization &bull; Asset Reconstruction &bull; Enforcement of Security without intervention of the court.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6169c7a2fc9e13eb7f97ae86",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "The Reserve Bank of India (RBI) granted the National Asset Reconstruction Company (NARCL) the license to register as an asset reconstruction company (ARC) in 2021. The Licence is given under which Act?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Insolvency and Bankruptcy code, 2016",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Companies Act 2013",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "SARFAESI Act 2002",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "NCLT Act 2010",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p class=\"normal\"><span lang=\"EN\">The correct answer is </span><u><strong>SARFAESI Act 2002</strong></u>.</p>\n\n<p class=\"normal\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li class=\"normal\"><span lang=\"EN\">The Reserve Bank of India (RBI) has granted the National Asset Reconstruction Company (NARCL) the license to register as an asset reconstruction company (ARC).</span></li>\n\t<li class=\"normal\"><span lang=\"EN\">The Licence is given under&nbsp;<span style=\"font-weight: 700;\">Section 3 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act 2002</span>.</span>&nbsp;</li>\n\t<li class=\"normal\"><span lang=\"EN\">Section 3 of the SARFAESI Act states that an entity-</span>\n\t<ul>\n\t\t<li class=\"normal\"><span lang=\"EN\">Cannot start the business of securitization or asset reconstruction without obtaining a certificate of registration.</span></li>\n\t\t<li class=\"normal\"><span lang=\"EN\">Should have funds of at least Rs 2 crore.</span></li>\n\t\t<li class=\"normal\"><span lang=\"EN\">Amount not exceeding 15 percent of the total financial assets acquired or to be acquired by the ARC.</span></li>\n\t</ul>\n\t</li>\n\t<li class=\"normal\">\n\t<p class=\"normal\"><span lang=\"EN\"><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><span style=\"font-weight: 700;\"><span style=\"vertical-align: middle; \"><u>Additional Information</u></span></span></span></span></p>\n\t</li>\n\t<li class=\"normal\"><span style=\"font-weight: 700;\"><span lang=\"EN\">&nbsp;</span>National Asset Reconstruction Company&nbsp;(</span><span lang=\"EN\"><span style=\"font-weight: 700;\">NARCL) has been incorporated under the Companies Act</span>&nbsp;and has applied to the Reserve Bank of India for the license as an Asset Reconstruction Company (ARC).</span></li>\n\t<li class=\"normal\"><span lang=\"EN\">NARCL has been set up by banks to aggregate and consolidates stressed assets for their subsequent resolution. PSBs will maintain&nbsp;<span style=\"font-weight: 700;\">51% ownership in NARCL</span>.</span></li>\n\t<li class=\"normal\"><span lang=\"EN\">The newly formed NARCL expects to recover between Rs<strong> 50,000 crore and Rs 64,000 crore through the resolution of bad loans worth Rs 2 trillion.</strong></span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fa27a2cf6524e33b9e20f49",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Central Registry of Securitization Asset Reconstruction and Security Interest(CERSAI) is under which provision?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "SEBI Act,1992",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "SARFAESI Act,2002",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "RBI Act,1934",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Banking Regulation Act,1949",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Negotiable Instruments Act,1881",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is the&nbsp;<u><strong>SARFAESI Act,2002.</strong></u></p>\n\n<ul>\n\t<li><strong>SARFAESI (</strong>&nbsp;<strong>Securitization and reconstruction of financial assets and enforcement of security interest act )-&nbsp;</strong>It is the act that passed in the Indian parliament in the year<strong> 2002</strong> which provides rights to banks to cover their outstanding amount of loan through the borrower assets.\n\n\t<ul>\n\t\t<li>It is not applied to <strong>Agricultural land</strong>.</li>\n\t\t<li>It is not applied when the outstanding amount is less than <strong>Rs.1 lakh or less than 20%</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>CERSAI</strong> is a Government of India company, licensed under<strong> section 8 of the Companies Act, 2013</strong>. Its Registered Office is in <strong>New Delhi.</strong></li>\n\t<li>The company has been incorporated with a majority shareholding of the Central Government, Public Sector Banks and National Housing Bank initially for the purpose of operating a Registration System under the provisions of <strong>Chapter IV</strong> of the <strong>Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act).&nbsp;</strong></li>\n\t<li>The importance of the Security Interest Registry and its contribution To the Ease of Doing Business (EoDB)&nbsp;score of the country under the sub-head&nbsp;Getting Credit&nbsp;has been significant.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6646fa92a4ac0259bff9950b",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "The SARFAESI Act allows asset reconstruction companies to take measures for asset reconstruction. One such measure includes the ______________, which involves changing the payment schedule to ease the financial burden on the borrower.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "enforcement of security interest",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "rescheduling of payment of debts",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "taking possession of secured assets",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "conversion of debt into shares",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "proper management of the borrower&#39;s business",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>rescheduling of payment of debts.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Rescheduling of payment</strong> helps borrowers manage their finances better.</li>\n\t<li>It is a measure under <strong>Section 9</strong> of the Act.</li>\n\t<li>This measure can <strong>improve the chances of debt recovery.</strong></li>\n\t<li>It demonstrates <strong>flexibility </strong>in handling <strong>non-performing assets (NPAs)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Additional Information</u></span></p>\n\n<ul>\n\t<li>Enforcement of security interest and taking possession of assets are also measures but <strong>do not involve changing payment schedules</strong>.</li>\n\t<li><strong>Conversion of debt into shares</strong> and management changes are other measures.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "62769b79c61c20b61bc8390b",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>Arrange the following initiatives taken by the Government of India to tackle the Non-performing assets in their ascending order of chronology :&nbsp;</p>\n\n<p>1. Corporate Debt Restructuring</p>\n\n<p>2. Compromise Settlement</p>\n\n<p>3. The Debt Recovery Tribunals (DRTs)</p>\n\n<p>4. Credit Information Bureau</p>\n\n<p>5. SARFAFSI Act&nbsp;</p>\n\n<p>Choose the correct answer from the options given below:</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3, 4, 1, 2, 5",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1, 2, 5, 3, 4",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3, 4, 2, 5, 1",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "4, 3, 2, 5, 1",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">3, 2, 5, 1, 4</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>(C), (D) (A), (B), (E).</strong></u></p>\n\n<p><span style=\"color: rgb(32, 33, 36);  \">A&nbsp;</span><b style=\"color: rgb(32, 33, 36);  \">non-performing asset</b><span style=\"color: rgb(32, 33, 36);  \">&nbsp;(NPA) is a loan or advance for which the principal or interest payment remained overdue for a period of 90 days.</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The&nbsp;following initiatives are taken by the Government of India to tackle the Non-performing assets in their ascending order of chronology:&nbsp;</p>\n\n<p><strong>1. The Debt Recovery Tribunals (DRTs) &ndash; 1993</strong></p>\n\n<ul>\n\t<li>To decrease the time required for settling cases.</li>\n\t<li>They are governed by the provisions of the <strong>Recovery of Debt Due </strong>to Banks and Financial Institutions Act, 1993.</li>\n\t<li>However, their number is not sufficient therefore they also suffer from time lag and cases are pending for more than 2-3 years in many areas.</li>\n</ul>\n\n<p><strong>2. Credit Information Bureau &ndash; 2000</strong></p>\n\n<ul>\n\t<li>A good information system is required to <strong>prevent loans from falling into bad hands </strong>and therefore prevention of NPAs. It helps banks by maintaining and sharing data of individual defaulters and willful defaulters.</li>\n</ul>\n\n<p><strong>3. Compromise Settlement &ndash; 2001</strong></p>\n\n<ul>\n\t<li>It provides a simple mechanism for recovery of NPA for the <strong>advances below Rs. 10 Crores.</strong></li>\n\t<li>It covers lawsuits with courts and DRTs (Debt Recovery Tribunals) however willful default and fraud cases are excluded.</li>\n</ul>\n\n<p><strong>4. SARFAESI Act &ndash; 2002</strong></p>\n\n<ul>\n\t<li>The Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002 &ndash; The Act permits Banks / Financial Institutions to <strong>recover their NPAs</strong> without the involvement of the Court, through acquiring and disposing of the secured assets in NPA accounts with an outstanding amount of Rs. <strong>1 lakh and above.</strong></li>\n\t<li>The banks have to first issue a notice. Then, on the borrower&rsquo;s failure to repay, they can:\n\t<ul>\n\t\t<li>Take ownership of security and/or</li>\n\t\t<li>Control over the management of the borrowing concern.</li>\n\t\t<li>Appoint a person to manage the concern.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong>5. Corporate Debt Restructuring &ndash; 2001</strong></p>\n\n<ul>\n\t<li>It is for reducing the burden of the debts on the company&nbsp;<strong>by decreasing the rates paid and increasing the time the company</strong>&nbsp;has to pay the obligation back.</li>\n</ul>\n\n<p><strong>Therefore, option 1&nbsp;is the correct answer.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "558db06b2a396511d048bc97",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>In banking system, which of the following acts was framed specially to speed up recoveries of non-performing assets?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "SARFAESI Act",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Banking Regulation Act",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Foreign Exchange Management Act",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Industrial Disputes Act",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The full form of <strong>SARFAESI Act</strong> as we know is Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002. Banks utilize this act as an effective tool for bad loans (NPA) recovery. It is possible where non-performing assets are backed by securities charged to the Bank by way of hypothecation or mortgage or assignment.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5bd70a113458820c6627d38c",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Preconditions for action under SARFAESI Act, 2002 are________.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The account must be NPA",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The amount of Debt due must be above Rs. 1 lac",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The secured asset to be enforced must not be Agricultural Land",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "​None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Preconditions for action under SARFAESI Act, 2002 are:</p>\n\n<p>The account must be a Non-Performing Asset</p>\n\n<p>The amount of Debt due must be above Rs. 1 Lac</p>\n\n<p>The secured asset to be enforced must not be an agricultural land</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "602634d0760d255360e23766",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) is a legislation that allows banks and other financial organizations to recover bad loans effectively. The minimum loan size eligible for debt recovery under&nbsp;SARFAESI Act, 2002 is _______.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "5 lakhs",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "10 lakhs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "20 lakhs",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25 lakhs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "50 lakhs",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>20&nbsp;lakhs.</strong></u></p>\n\n<ul>\n\t<li>The minimum loan size eligible for debt recovery under the&nbsp;SARFAESI&nbsp;Act, 2002 is proposed to be reduced from the existing level of Rs. 50 lakhs to Rs. 20 lakhs.</li>\n\t<li>This is done to improve credit discipline while continuing to protect the interest&nbsp;of small borrowers, for NBFCs with a minimum asset size of Rs.&nbsp;100 crores.&nbsp;</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li>SARFEASI Act - Securitisation and&nbsp;Reconstruction of Financial Assets and Enforcement of Security Interest Act</li>\n\t<li>NBFC- Non-Banking Financial Institution</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Union Finance Minister Nirmala Sitharaman on February 1, 2021, presented the Union Budget 2021.&nbsp;</li>\n\t<li>According to Article 112 of the Indian Constitution, the Union Budget of a year, also referred to as the annual financial statement, is a statement of the estimated receipts and expenditures of the government for that particular year.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e3eafa5f60d5d4638b942c9",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "What is the new eligibility limit for NBFCs for debt recovery under the SARFAESI Act ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Assests size 100 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Assets size 50 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Assests size 10 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Assests size 125 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Assests size 150 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><strong>Non-Banking Financial Companies (NBFCs)</strong> eligibility limit for debt recovery&nbsp;under the <strong>Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (Sarfaesi) Act 2002</strong> has been reduced from <u><strong>Rs 500 crore to Rs 100 crore in asset size</strong></u> and Rs 1 crore to Rs 50 lakh in loan size.</li>\n\t<li>The Act allows lenders to auction properties of defaulters to recover their dues.</li>\n\t<li>The government has proposed to provide credit guarantee for the NBFC sector that has been facing liquidity crisis since the burst of the IL&amp;FS <strong>(Infrastructure Leasing &amp; Financial Services Limited is an Indian infrastructure development and finance company) </strong>scam<b>.</b></li>\n\t<li>The Reserve Bank of India&rsquo;s report on banking trends for 2018-19 showed the gross non-performing assets ratio of banks has increased to <strong>6.1%&nbsp;of assets</strong> from 5.3 per cent in the last year.</li>\n\t<li>According to a note from <strong>rating agency Crisil</strong>, the reduction for applicability under Sarfaesi Act is a positive action and will bring an additional 12-15 per cent of NBFCs&rsquo; loan against property, which stands at around <strong>Rs 1 lakh crore as of March 2019</strong>, under the Sarfaesi act.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:36.733Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

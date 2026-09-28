@@ -1,0 +1,689 @@
+{
+  "testId": "69f9a13330fbd46dbb57d099",
+  "title": "CT 3: Current Affairs (June 01 - June 15)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Bi - Weekly CA",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 15,
+  "totalDurationMinutes": 10,
+  "totalMarks": 15,
+  "sections": [
+    {
+      "id": "65e08bcb88a67ac9f4e57bb8",
+      "name": "Chapter Test",
+      "durationMinutes": 20,
+      "maxMarks": 15,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a20025fec5478a3d2c6eb49",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which decommissioned Indian Naval Ship’s (INS) artefacts and weapon systems are primarily showcased at the ‘Nausena Shaurya Vatika’ inaugurated in Lucknow in May 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "INS Gomati",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "INS Godavari",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "INS Ganga",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "INS Brahmaputra",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "INS Rajput",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>INS Gomati</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>On <strong>May 30, 2026</strong>, Raksha Mantri <strong>Shri Rajnath Singh</strong> and Uttar Pradesh Chief Minister <strong>Shri Yogi Adityanath</strong> jointly inaugurated the <strong>‘Nausena Shaurya Vatika’</strong> in <strong>Lucknow</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>INS Gomati:</strong> The museum is built to honour the spirit and prowess of the Indian Navy by showcasing artefacts from <strong>INS Gomati</strong>, which was decommissioned on <strong>May 29, 2022</strong>, after <strong>34 years</strong> of service.</li><li><strong>Displayed Artefacts:</strong> The park features the <strong>AK 726</strong> Naval Gun, <strong>ZIF 101 launcher</strong> for Surface-to-Air Missiles, and a walkthrough museum of the <strong>TU 142M</strong> maritime patrol aircraft.</li><li><strong>Cost and Area:</strong> The <strong>Open-Air Display Museum</strong> was built at a cost of <strong>Rs 19 crore</strong> and spans over an area of <strong>two acres</strong>.</li><li><strong>Strategic Significance:</strong> The museum aims to inspire the youth and serves as a symbol of the Navy's operational readiness, including its role in <strong>Operation Sindoor</strong> where its posture confined the Pakistan Navy to its ports.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>INS Gomati History:</strong> Named after the river <strong>Gomti</strong>, it was the third ship of the <strong>Godavari class</strong> guided-missile frigates and was commissioned on <strong>April 16, 1988</strong>.</li><li><strong>Service Record:</strong> It participated in <strong>Operations Cactus, Parakram, and Rainbow</strong> and was twice awarded the <strong>Unit Citation</strong> (2007-08 and 2019-20).</li><li><strong>Aatmanirbhar Bharat:</strong> The event highlighted initiatives like <strong>iDEX</strong> and <strong>ADITI</strong>, aiming for complete self-reliance in the defence sector.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Defence Production:</strong> Domestic production increased from <strong>Rs 46,000 crore</strong> in 2014 to over <strong>Rs 1.51 lakh crore</strong> currently.</li><li><strong>Defence Exports:</strong> Exports have grown from less than <strong>Rs 1,000 crore</strong> in 2014 to approximately <strong>Rs 40,000 crore</strong>.</li><li><strong>UP Defence Industrial Corridor:</strong> The state is playing a pivotal role in strengthening India's defence manufacturing ecosystem.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2bae2ce38a9ed6436bb585",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Who has been appointed as India's <strong>Executive Director</strong> at the <strong>World Bank</strong> for a tenure of three years?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Parameswaran Iyer",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Neelkanth Mishra",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Dhanendra Kumar",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ravi Hari",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Subramanian Swamy",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Neelkanth Mishra</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Economist <strong>Neelkanth Mishra</strong> has been appointed as India's <strong>Executive Director</strong> at the <strong>World Bank</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Neelkanth Mishra:</strong> He has been appointed for a <strong>three-year tenure</strong> at the <strong>World Bank headquarters</strong> in <strong>Washington, DC</strong>.</li><li><strong>Parameswaran Iyer:</strong> Mishra will succeed <strong>Parameswaran Iyer</strong>, whose tenure has been extended until the former assumes office.</li><li><strong>Dhanendra Kumar:</strong> Mentioned in the news as the <strong>1st chairman of CCI</strong> who passed away, and is not related to the current appointment.</li><li><strong>Ravi Hari:</strong> He is the author who published the report and is not an appointee to any financial institution.</li><li>The appointment was approved by the <strong>Appointments Committee of the Cabinet (ACC)</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Executive Director</strong> represents India at the <strong>World Bank's Board</strong>.</li><li>The role involves overseeing <strong>lending operations</strong>, <strong>development projects</strong>, <strong>financial policies</strong>, and <strong>governance decisions</strong>.</li><li>The position is considered a vital <strong>economic diplomacy role</strong> for shaping global development financing and poverty reduction initiatives.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The appointment comes at a time when <strong>India</strong> is seeking a stronger voice in <strong>international financial institutions</strong>.</li><li>The <strong>World Bank headquarters</strong> is located in <strong>Washington, DC</strong>.</li><li>The <strong>Appointments Committee of the Cabinet (ACC)</strong> is the body responsible for finalizing this high-level international representation.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a20025fb3c23e4f7493364d",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Suman Kalyanpur, whose demise was condoled by Prime Minister Narendra Modi in June 2026, was a legendary figure in which of the following fields?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Sports",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Literature",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Singing",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Politics",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Classical Dance",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Singing</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Prime Minister <strong>Narendra Modi</strong> expressed deep grief over the passing of the popular singer, <strong>Smt. Suman Kalyanpur</strong>, on <strong>June 1, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Suman Kalyanpur</strong> was a renowned <strong>popular singer</strong> whose <strong>melodious voice</strong> and <strong>soulful renditions</strong> significantly enriched India&rsquo;s cultural world.</li>\n\t<li>Through her extensive work, she created a special place among <strong>music lovers</strong> and admirers of <strong>Indian cinema</strong>.</li>\n\t<li>The Prime Minister noted that her contributions to the <strong>music industry</strong> were vital to the country&#39;s cultural heritage.</li>\n\t<li>Options like <strong>Sports</strong>, <strong>Literature</strong>, and <strong>Politics</strong> are incorrect as the official release explicitly identifies her as a <strong>singer</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The condolence message was shared by the <strong>Prime Minister&#39;s Office (PMO)</strong> and posted on the Prime Minister&#39;s official <strong>X (formerly Twitter)</strong> handle.</li>\n\t<li>The news release was disseminated by <strong>PIB Delhi</strong> and made available in several regional languages including <strong>Hindi, Marathi, Bengali, Gujarati, and Tamil</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The event occurred on <strong>June 1, 2026</strong>, marking the loss of a prominent voice in the <strong>Indian music and cinema industry</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2bae2dc81b161b0205234a",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Who was named the <strong>Most Valuable Player (MVP)</strong> of the <strong>SAFF Women’s Championship 2026</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Pyari Xaxa",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sanfida Nongrum",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Lynda Kom",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Aveka Singh",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Bala Devi",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Sanfida Nongrum</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Indian women’s football team</strong> reclaimed the <strong>SAFF Women’s Championship</strong> crown by defeating <strong>Bangladesh 3-1</strong> in the <strong>2026 final</strong> held in <strong>Goa</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Sanfida Nongrum</strong> was awarded the title of <strong>Most Valuable Player (MVP)</strong> of the tournament.</li><li>She played a crucial role in the final, scoring <strong>India's second goal</strong> in the 46th minute to regain the lead.</li><li>Prior to the final, she also scored the <strong>winning goal</strong> for India in the <strong>semi-finals</strong> against <strong>Bhutan</strong>.</li><li>In the final match against Bangladesh, her positioning and offensive play kept constant pressure on the defenders, helping India secure the 3-1 victory.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Aveka Singh</strong> finished as the competition’s <strong>top scorer</strong> with a total of <strong>four goals</strong>.</li><li><strong>Panthoi Chanu Elangbam</strong> received the <strong>Best Goalkeeper</strong> award for her performance throughout the tournament.</li><li><strong>Nepal</strong> was honored with the <strong>Fair Play award</strong>.</li><li>The final took place at the <strong>Pandit Jawaharlal Nehru Stadium</strong> in <strong>Margao, Goa</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>This victory marked <strong>India's sixth SAFF Women’s Championship title</strong>, a record-extending achievement in the history of the competition.</li><li>India reclaimed the title after a gap of <strong>seven years</strong>, with their last win occurring in <strong>2019</strong>.</li><li>During the 2026 edition, India remained dominant by scoring <strong>18 goals</strong> in <strong>four matches</strong> and conceded only one goal, which was in the final.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2002608cbb06f6e50ecbeb",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "What is the name of the coordinated anti-narcotics operation recently carried out by the Directorate of Revenue Intelligence (DRI) in Kerala to seize over 24 kg of narcotic drugs?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Operation Garuda",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Operation Chakravyuh",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Operation Sanjeevani",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Operation Kavach",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Operation Samudra",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Operation Chakravyuh</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Cochin Unit</strong> of the <strong>Directorate of Revenue Intelligence (DRI)</strong> intensified its anti-narcotics drive in <strong>Kerala</strong> under <strong>Operation Chakravyuh</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Operation Chakravyuh</strong>: It is the specific name of the coordinated operation conducted by the <strong>DRI</strong> to dismantle drug trafficking networks in <strong>Kerala</strong>.</li><li><strong>Seizure Details</strong>: Over <strong>24 kg</strong> of narcotic drugs and psychotropic substances, including <strong>methaqualone</strong>, <strong>methamphetamine</strong>, and <strong>hashish oil</strong>, were seized at <strong>Kochi</strong>, <strong>Malappuram</strong>, and <strong>Thiruvananthapuram</strong>.</li><li><strong>Arrests</strong>: <strong>Five individuals</strong> were apprehended under the <strong>Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985</strong> during these operations.</li><li><strong>Smuggling Modes</strong>: The contraband was detected in <strong>passenger baggage</strong> at the airport, <strong>courier consignments</strong>, and <strong>outbound export cargo</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>In the last financial year, the <strong>DRI's Cochin Zonal Unit</strong> seized narcotics valued at <strong>Rs. 70.76 crore</strong> in Kerala and arrested <strong>21 persons</strong>.</li><li>The DRI's efforts align with the Government of India's vision of <strong>\"Nasha Mukt Bharat\"</strong> (Drug-Free India).</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The operation targeted both <strong>international</strong> and <strong>domestic</strong> trafficking channels to safeguard society from narcotic menaces.</li><li>The <strong>NDPS Act, 1985</strong> serves as the legal framework for the apprehension and prosecution of individuals involved in drug trafficking in India.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2bae2de4e2d5b390a6a618",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "According to the tribute paid by Prime Minister Shri Narendra Modi, Bhagwan Birsa Munda fought against foreign rule for the protection of which of the following core elements?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Education, Healthcare, and Housing",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Water, Forest, and Land",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Trade, Commerce, and Industry",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Infrastructure, Mining, and Agriculture",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Culture, Language, and Heritage",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Water, Forest, and Land</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Prime Minister <strong>Shri Narendra Modi</strong> paid tributes to <strong>Dharti Aaba Bhagwan Birsa Munda Ji</strong> on his <strong>martyrdom day</strong> on <strong>June 9, 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The Prime Minister highlighted that <strong>Bhagwan Birsa Munda</strong> fought with indomitable courage against <strong>foreign rule</strong> specifically for the protection of <strong>water, forest, and land</strong> (Jal, Jangal, Zameen).</li><li>His entire life was dedicated to the <strong>tribal community</strong>, focusing on the protection of their <strong>self-respect, culture, and rights</strong>.</li><li>The term <strong>\"Dharti Aaba\"</strong> is used to refer to Bhagwan Birsa Munda, signifying his deep connection to the earth and his community.</li><li>The other options like Education, Healthcare, Trade, or Infrastructure are not mentioned in the official tribute as the core focus of his struggle against the <strong>foreign rule</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The tribute was posted on <strong>June 9, 2026</strong>, which marks the sacrifice day of the tribal leader.</li><li>The message emphasized that his legacy of <strong>sacrificing everything</strong> for the motherland continues to inspire <strong>patriotism</strong> across generations in India.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Bhagwan Birsa Munda</strong> is a legendary figure in Indian history known for leading a <strong>tribal religious millenarian movement</strong> during the late 19th century.</li><li>His struggle was centered around the <strong>preservation of tribal resources</strong> and resisting <strong>British colonial</strong> expansionism.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a200260b3c23e4f74933679",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "According to the commemorative book released by Raksha Mantri Shri Rajnath Singh in May 2026, India compelled Pakistan to seek a ceasefire within how many days during <strong>Operation Sindoor</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Two days",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Three days",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Four days",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Seven days",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Five days",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Four days</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>On <strong>May 29, 2026</strong>, Raksha Mantri <strong>Shri Rajnath Singh</strong> released a commemorative volume on <strong>Operation Sindoor</strong> in New Delhi.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Operation Sindoor</strong> is described as an unprecedented success in Indian military history where the Indian forces compelled <strong>Pakistan</strong> to seek a <strong>ceasefire</strong> within just <strong>four days</strong>.</li><li>The commemorative book documents the personal testimonies of <strong>100 officers, sailors, airmen, and other soldiers</strong> who participated in the operation.</li><li>Unlike traditional military historiography that focuses on decisions made at headquarters, this volume captures the <strong>texture of war</strong> as lived by ground-level personnel like pilots, sailors at action stations, and special forces operators.</li><li>The Raksha Mantri highlighted that the operation was different from all other wars India has fought, emphasizing the <strong>human dimension of modern warfare</strong> where leadership and courage translate strategy into success.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The book was released in the presence of <strong>Chief of Defence Staff (CDS) General Anil Chauhan</strong>, and the three service chiefs: <strong>Admiral Dinesh K Tripathi</strong> (Navy), <strong>General Upendra Dwivedi</strong> (Army), and <strong>Air Chief Marshal AP Singh</strong> (Air Force).</li><li>The volume was compiled under the guidance of the <strong>Chief of Defence Staff</strong> with publication support provided by the <strong>United Service Institution of India (USI)</strong>.</li><li>Contributions were made by the <strong>Additional Directorate General of Strategic Communication</strong> and the <strong>Directorate of Media and Public Relations</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The publication spans accounts across the <strong>three Services</strong> and the <strong>Headquarters Integrated Defence Staff</strong>.</li><li>It includes perspectives from <strong>combat aviators</strong>, <strong>naval watchkeepers</strong>, <strong>surface-to-air missile crews</strong>, and <strong>medical officers</strong>, aiming to recover the lived experience of the conflict.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2bae2e34c83f2cb1d273cc",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Consider the following pairs of <strong>Foreign Higher Education Institutions (FHEIs)</strong> and the Indian cities where they have been approved to establish campuses as per the <strong>Letters of Approval (LoA)</strong> issued in June 2026:<br>1. <strong>University of Bristol</strong> : Bengaluru<br>2. <strong>University of York</strong> : Mumbai<br>3. <strong>University of New South Wales</strong> : Bengaluru<br>How many of the above pairs is/are correctly matched?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "One only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Two only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "All three",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "None",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Exactly one pair",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Two only</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Ministry of Education</strong> issued <strong>Letters of Approval (LoA)</strong> to the <strong>University of Bristol</strong>, <strong>University of York</strong>, and <strong>University of New South Wales (UNSW)</strong> to set up campuses in India.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Pair 1 is incorrectly matched:</strong> The <strong>University of Bristol</strong> is set to establish its <strong>Mumbai Enterprise Campus</strong>, focusing on areas like Data Science, Finance, and Entrepreneurship.</li><li><strong>Pair 2 is correctly matched:</strong> The <strong>University of York</strong> will establish its first overseas campus in <strong>Mumbai</strong>, offering programmes in Cyber Security, AI, and Creative Industries.</li><li><strong>Pair 3 is correctly matched:</strong> The <strong>University of New South Wales (UNSW)</strong> will establish <strong>UNSW Bengaluru</strong> at Manyata Business Park, scheduled to open from <strong>August 2026</strong>.</li><li>Hence, only <strong>two pairs</strong> (Pair 2 and Pair 3) are correctly matched.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>With these new approvals, a total of <strong>five LoAs</strong> have been issued under the <strong>UGC Regulations</strong> for Foreign Higher Educational Institutions, including the <strong>University of Southampton</strong> and <strong>University of Liverpool</strong>.</li><li>The <strong>University of Southampton</strong> has already commenced its academic operations starting from the <strong>2025–26 session</strong>.</li><li>The <strong>UGC</strong> has also issued <strong>10 Letters of Intent (LoIs)</strong> to other institutions from the UK, US, Australia, and Italy.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>This initiative is a major step towards fulfilling the <strong>internationalisation vision</strong> of the <strong>National Education Policy (NEP) 2020</strong>.</li><li>Institutions like <strong>Deakin University</strong>, <strong>University of Wollongong</strong>, and <strong>Queen’s University Belfast</strong> have already started operations in <strong>GIFT City</strong>.</li><li>The new campuses in <strong>Mumbai</strong> and <strong>Bengaluru</strong> aim to strengthen India's knowledge and innovation hotspots through global partnerships.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2002615574fe27fdc347ec",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "On which date is the birth anniversary of Lokmata Ahilyabai Holkar observed, according to the tribute paid by the Prime Minister?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "May 25",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "May 31",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "June 05",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "April 30",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>May 31</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Prime Minister <strong>Shri Narendra Modi</strong> paid tributes to <strong>Lokmata Ahilyabai Holkar</strong> on her birth anniversary on <strong>May 31</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The birth anniversary of <strong>Lokmata Ahilyabai Holkar</strong> is observed on <strong>May 31</strong>.</li><li>The Prime Minister emphasized her <strong>wisdom, compassion, and unwavering commitment</strong> to public welfare.</li><li>Her life is considered an exemplary model of <strong>good governance, patriotism, and cultural pride</strong>.</li><li>She is particularly remembered for her <strong>unparalleled contribution</strong> to the <strong>reconstruction of sacred temples</strong> and pilgrimage sites across the country.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>She led with <strong>courage and a strong sense of duty</strong> to ensure justice for all.</li><li>Her dedication to <strong>society and culture</strong> is highlighted as a source of inspiration for every generation.</li><li>The Prime Minister noted that her work significantly <strong>strengthened India’s cultural consciousness</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The official tribute was shared by the <strong>PIB Delhi</strong> via the Prime Minister's Office.</li><li>The message was shared in multiple regional languages including <strong>Urdu, Marathi, Bengali, and Tamil</strong> to reflect the national reach of her legacy.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2bae2ed7c0bdddb746a2fa",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Which nodal laboratory of the Defence Research & Development Organisation (DRDO) was primarily responsible for the indigenous development of the RudraM-II Air-to-Surface Missile?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Defence Research and Development Laboratory (DRDL)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Research Centre Imarat (RCI), Hyderabad",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "High Energy Materials Research Laboratory (HEMRL)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Armament Research & Development Establishment (ARDE)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Combat Vehicles Research and Development Establishment (CVRDE)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Research Centre Imarat (RCI), Hyderabad</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Defence Research & Development Organisation (DRDO)</strong> and the <strong>Indian Air Force (IAF)</strong> successfully conducted flight-tests of the <strong>RudraM-II Air-to-Surface Missile</strong> from an airborne platform.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>RudraM-II</strong> has been indigenously developed by the <strong>Research Centre Imarat (RCI), Hyderabad</strong>, serving as the <strong>nodal DRDO laboratory</strong> for this project.</li><li>The development was carried out in collaboration with sister laboratories, including the <strong>Defence Research and Development Laboratory (DRDL)</strong>, <strong>High Energy Materials Research Laboratory (HEMRL)</strong>, and <strong>Armament Research & Development Establishment (ARDE)</strong>.</li><li>The missile tests were conducted under <strong>extreme release conditions</strong>, and it successfully hit a <strong>predefined target</strong> with <strong>pin-point accuracy</strong>.</li><li>Flight data for the mission was captured by range instruments at the <strong>Integrated Test Range (ITR), Chandipur</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>Significant contributions were made by <strong>Hindustan Aeronautics Limited (HAL)</strong>, <strong>Regional Centre for Military Airworthiness</strong>, and the <strong>Missile System Quality Assurance Agency</strong>.</li><li><strong>Development cum Production Partners (DcPPs)</strong> and various private industries also played a crucial role in the missile's development and testing.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The successful test demonstrates the <strong>maturity of indigenous defence technologies</strong> and supports the <strong>Aatmanirbharta</strong> (self-reliance) initiative in <strong>advanced weapon systems</strong>.</li><li>The <strong>RudraM-II</strong> is an <strong>Air-to-Surface Missile</strong>, a critical component for the <strong>Indian Air Force's</strong> offensive capabilities.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2002617319d718a25c97f3",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "In May 2026, which Indian Air Force strategic airlift aircraft was utilized to transport the sacred relics of Arahant Sariputta and Arahant Mahamoggallana to Mongolia?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "C-17 Globemaster III",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "IL-76 Gajraj",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-130J Super Hercules",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "An-32",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "C-295MW",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>IL-76 Gajraj</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Indian Air Force (IAF)</strong> airlifted the sacred Buddhist relics of <strong>Arahant Sariputta</strong> and <strong>Arahant Mahamoggallana</strong> to <strong>Mongolia</strong> in May 2026.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>On <strong>30 May 2026</strong>, an <strong>Indian Air Force IL-76 strategic airlift aircraft</strong>, known as <strong>Gajraj</strong>, transported the relics from <strong>Delhi</strong> to <strong>Mongolia</strong>.</li><li>The aircraft undertook an overnight flight and landed in Mongolia at <strong>1125 hrs IST</strong>.</li><li>This mission was conducted to support India's efforts to <strong>strengthen cultural ties</strong> with friendly nations.</li><li>The use of the <strong>IL-76 Gajraj</strong> reflects the IAF's capability to support national objectives and <strong>global cultural outreach</strong>. Hence, option 2 is the correct answer.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The relics belong to <strong>Arahant Sariputta</strong> and <strong>Arahant Mahamoggallana</strong>, who were the <strong>chief disciples of Gautama Buddha</strong>.</li><li>The mission highlights the intersection of military logistics and <strong>cultural diplomacy</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>IL-76</strong> is a heavy-duty strategic aircraft used by the IAF for large-scale transport operations.</li><li>The initiative aligns with India's broader <strong>Act East policy</strong> and cultural engagement with Buddhist nations.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2bae2fe38a9ed6436bb5c8",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Which initiative was awarded the <strong>2026 Food Planet Prize</strong>, the world’s largest environmental award for food systems, receiving a prize of <strong>USD 1.5 million</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Conscious Kitchen",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "NoPalm Ingredients",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "AP Community Managed Natural Farming (APCNF)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Savanna Institute",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Global Food Security Project",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>AP Community Managed Natural Farming (APCNF)</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>AP Community Managed Natural Farming (APCNF)</strong> programme has won the prestigious <strong>2026 Food Planet Prize</strong> for its nature-positive global farming model.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>Food Planet Prize</strong> is considered the world’s largest environmental award focused on transforming global food systems.</li><li>The award, worth <strong>USD 1.5 million</strong> (approximately <strong>Rs 14 crore</strong>), was presented by the <strong>Curt Bergfors Foundation</strong> on <strong>June 2</strong> in <strong>Båstad, Sweden</strong>.</li><li><strong>APCNF</strong> emerged as the winner among four global finalists. The other three finalists—<strong>Conscious Kitchen (US)</strong>, <strong>NoPalm Ingredients (Netherlands)</strong>, and <strong>Savanna Institute (US)</strong>—received <strong>USD 150,000</strong> each.</li><li>The jury praised <strong>APCNF</strong> for its nature-positive model, which has helped <strong>1.8 million farmers</strong> in <strong>8,000 villages</strong> adopt natural farming over the last decade.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>Executive Vice Chairman <strong>T Vijay Kumar</strong> attributed the success to <strong>women’s Self-Help Groups (SHGs)</strong> and rural communities.</li><li>Chief Minister <strong>N Chandrababu Naidu</strong> hailed the award as a <strong>first for India</strong>.</li><li>The programme is recognized as one of the world’s largest <strong>agroecology movements</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The Andhra Pradesh government has pledged to make the state a <strong>100% natural farming State by 2047</strong>.</li><li>The <strong>Food Planet Prize</strong> recognition reflects the alignment of <strong>government policy</strong>, <strong>scientific knowledge</strong>, and <strong>community institutions</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a20026210122b6c63748442",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Which of the following players were among the award winners in the 2026 Indian Premier League (IPL)?<br><br>1. <strong>Vaibhav Sooryavanshi</strong><br>2. <strong>Kagiso Rabada</strong><br>3. <strong>Sai Sudharsan</strong><br>4. <strong>Mohammed Siraj</strong><br><br>Select the answer using the code given below:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 and 2 only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1, 2 and 4 only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1, 2, 3 and 4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2, 3 and 4 only",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1 and 3 only",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1, 2, 3 and 4</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>2026 Indian Premier League (IPL)</strong> concluded on <strong>May 31, 2026</strong>, with <strong>Royal Challengers Bengaluru (RCB)</strong> winning the title for the second consecutive year.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Vaibhav Sooryavanshi (Rajasthan Royals):</strong> He secured multiple awards including the <strong>Orange Cap</strong> (776 runs), <strong>Most Valuable Player (MVP)</strong> (436.5 points), and <strong>Emerging Player</strong> award. He also won <strong>Super Striker</strong> and <strong>Super Sixes</strong> awards.</li><li><strong>Kagiso Rabada (Gujarat Titans):</strong> He was the recipient of the <strong>Purple Cap</strong> for taking the most wickets (<strong>29 wickets</strong>) in the season.</li><li><strong>Sai Sudharsan (Gujarat Titans):</strong> He won the award for hitting the <strong>Most Fours</strong> in the 2026 season, totaling <strong>75 fours</strong>.</li><li><strong>Mohammed Siraj (Gujarat Titans):</strong> He received the <strong>Green Dot Ball Award</strong> for bowling <strong>172 dot balls</strong> during the tournament.</li><li>Since all four players listed in the question received individual awards, the correct code is <strong>1, 2, 3 and 4</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Manish Pandey (RCB)</strong> won the <strong>Catch of the Season</strong> for his one-handed catch to dismiss Tim David.</li><li><strong>Punjab Kings</strong> received the <strong>Fair Play Award</strong> for their exemplary conduct on the field.</li><li>The <strong>Cricket Association of Bengal</strong> won the Pitch & Ground award for venues hosting 5+ matches, while the <strong>Himachal Pradesh Cricket Association</strong> won for venues hosting fewer than 4 matches.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Royal Challengers Bengaluru (RCB)</strong> defeated <strong>Gujarat Titans (GT)</strong> by <strong>5 wickets</strong> in the final held at the <strong>Narendra Modi Stadium, Ahmedabad</strong>.</li><li><strong>Virat Kohli</strong> was named the <strong>Player of the Match</strong> in the final.</li><li><strong>Vaibhav Sooryavanshi</strong> made history as the <strong>youngest player</strong> to win the Orange Cap (15 years old) and the first to achieve the <strong>MVP + Emerging Player</strong> double in a single season.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a2bae2f4eb80a3a90d23deb",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "As of June 2026, how many <strong>Credit-linked Central Government Schemes</strong> are integrated into the <strong>Jan Samarth Portal</strong> for application submissions?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "12",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "16",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "20",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "24",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>16</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Jan Samarth Portal</strong> marked <strong>4 years</strong> of its journey on <strong>6 June 2022</strong>, facilitating digital financial inclusion and seamless credit delivery across India.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>Jan Samarth Portal</strong> serves as a unified digital gateway that streamlines the credit application process for <strong>16 Credit-linked Central Government Schemes</strong>.</li><li>These <strong>16 schemes</strong> cover various categories including <strong>Agriculture</strong>, <strong>Livelihood</strong>, <strong>Education</strong>, <strong>Housing</strong>, and <strong>Business Activity</strong>.</li><li>The portal was designed to reduce procedural complexities and directly connect <strong>lenders with beneficiaries</strong>, ensuring a more transparent and efficient credit delivery system.</li><li>By integrating these <strong>16 schemes</strong>, the portal allows users to check eligibility for multiple schemes simultaneously by answering a few basic questions.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The portal is available in <strong>8 different languages</strong>: English, Hindi, Gujarati, Telugu, Tamil, Marathi, Bengali, and Kannada.</li><li>As of 01 June 2026, approximately <strong>54.10 lakh applications</strong> amounting to <strong>₹ 3,00,951 crore</strong> have been processed through the portal.</li><li>The platform has onboarded <strong>269 Member Lending Institutions</strong>, including <strong>12 Public Sector Banks</strong>, <strong>20 Private Sector Banks</strong>, and <strong>180 District Central Cooperative Banks (DCCBs)</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The portal provides an <strong>end-to-end digital lending</strong> process, offering <strong>in-principle sanctions</strong> and real-time updates to beneficiaries.</li><li>It is integrated with key government databases like <strong>UIDAI (Aadhaar)</strong>, <strong>UDYAM</strong>, <strong>GST</strong>, and <strong>CBDT</strong> for faster loan processing and verification.</li><li>The portal is accessible <strong>24x7</strong> via its official website and <strong>mobile applications</strong> for both Android and iOS.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a200262ec5478a3d2c6ebab",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the <strong>South Coast Railway (SCoR)</strong> zone and the new <strong>Indian Railways</strong> logo:<br />\n<br />\n1) The <strong>South Coast Railway (SCoR)</strong> zone comprises divisions that cover the states of <strong>Andhra Pradesh</strong>, <strong>Telangana</strong>, <strong>Karnataka</strong>, and <strong>Tamil Nadu</strong>.<br />\n2) The revised <strong>Indian Railways</strong> logo, approved for official use in May 2026, incorporates <strong>18 stars</strong> in <strong>blue</strong> colour.<br />\n3) The foundation stone for the <strong>SCoR</strong> headquarters was laid at <strong>Mudasarlova</strong> in <strong>Visakhapatnam</strong> in January 2025.<br />\n<br />\nWhich of the statements given above are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 2 and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 1 and 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the statements",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only 1 and 3</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Indian Railways</strong> has unveiled a new <strong>18-star logo</strong> following the creation of the <strong>South Coast Railway (SCoR)</strong> Zone, which became operational on <strong>June 1, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement 1 is correct:</strong> The <strong>South Coast Railway (SCoR)</strong> zone comprises <strong>Guntakal</strong>, <strong>Guntur</strong>, <strong>Vijayawada</strong>, and <strong>Visakhapatnam</strong> divisions, covering the states of <strong>Andhra Pradesh</strong>, <strong>Telangana</strong>, <strong>Karnataka</strong>, and <strong>Tamil Nadu</strong>.</li>\n\t<li><strong>Statement 2 is incorrect:</strong> The revised <strong>Indian Railways</strong> logo incorporates <strong>18 stars</strong> in <strong>red</strong> colour (not blue), consequent upon the creation of <strong>SCoR</strong> as the <strong>18th Zonal Railway</strong>.</li>\n\t<li><strong>Statement 3 is correct:</strong> On <strong>January 8, 2025</strong>, Prime Minister <strong>Narendra Modi</strong> laid the foundation stone for the <strong>SCoR</strong> Zone headquarters at <strong>Mudasarlova</strong> in <strong>Visakhapatnam</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The new headquarters in <strong>Visakhapatnam</strong> is being developed on <strong>52.2 acres</strong> of land at an estimated cost of <strong>Rs 183.58 crore</strong>.</li>\n\t<li>The <strong>Waltair Division</strong> of <strong>East Coast Railway</strong> was bifurcated; one part became the <strong>Visakhapatnam Division</strong> under <strong>SCoR</strong>, while the other was renamed the <strong>Rayagada Division</strong> under <strong>East Coast Railway</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The <strong>South Coast Railway (SCoR)</strong> is the <strong>18th</strong> zonal railway of India.</li>\n\t<li>The logo was approved by the <strong>Chairman of the Railway Board (CRB) &amp; CEO</strong> for official use across <strong>Indian Railways</strong> on <strong>May 27, 2026</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:30.735Z",
+    "solutionsCount": 15,
+    "isComplete": true
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a08bbddc933d73f4f558",
+  "title": "CT 18: English Language (Correct Usage Of Words)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a0ea9d33c8d20e0e160c620",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p data-path-to-node=\"116\">Evaluate the following word, accompanied by three sentences containing it. Determine the sentence(s) that accurately convey the meaning of the given word.</p>\n\n<p data-path-to-node=\"117\"><b data-index-in-node=\"0\" data-path-to-node=\"117\">Assuage</b></p>\n\n<p data-path-to-node=\"118\">A. To <strong>assuage </strong>his guilt over forgetting his mother&rsquo;s birthday, he bought her a massive bouquet of her favorite flowers.</p>\n\n<p data-path-to-node=\"118\">B. The hot sun served to <strong>assuage </strong>the ice cube, causing it to freeze solid within a matter of seconds.</p>\n\n<p data-path-to-node=\"118\">C. She tried to <strong>assuage </strong>her intense anger by screaming loudly at her colleagues and slamming her office door.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All A, B &amp; C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the options",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is <span style=\"font-weight: 700;\">&#39;1&#39;</span><span style=\"font-weight: 700;\"> i.e.</span><span style=\"font-weight: 700;\"> Only A</span> <span style=\"font-weight: 700;\">.</span></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></p>\n\n<ul style=\"\">\n        <li>The word <strong>\"assuage\"</strong> means to make an unpleasant feeling less intense or to satisfy a desire.</li>\n        <li>In Sentence A, the use of \"assuage\" is correct because the subject is trying to ease his guilt by giving his mother a bouquet of flowers. This aligns with the meaning of the word.</li>\n        <li>In Sentence B, the word \"assuage\" is incorrectly used. The context suggests the opposite of what \"assuage\" means, as the sun would not cause freezing but rather melting.</li>\n        <li>In Sentence C, the word \"assuage\" is also incorrectly applied. Screaming and slamming doors are not actions that \"ease\" or \"soothe\" anger but rather intensify it.</li>\n</ul>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Correct sentence:</span> <em>To assuage his guilt over forgetting his mother’s birthday, he bought her a massive bouquet of her favorite flowers.</em></p>\n\n<p style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Examples of correct usage:</strong>\n        <ul>\n                <li>He tried to assuage his fear of public speaking by practicing in front of a mirror.</li>\n                <li>She brought a warm blanket to assuage the child's discomfort in the cold weather.</li>\n        </ul>\n        </li>\n        <li><strong>Synonyms of \"assuage\":</strong> alleviate, soothe, mitigate, relieve.</li>\n        <li><strong>Antonyms of \"assuage\":</strong> aggravate, intensify, worsen.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a63e2877d4372054ce5b85",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</strong></p>\n\n<p dir=\"ltr\">DWINDLE</p>\n\n<p dir=\"ltr\">A. The music was <strong>dwindling </strong>in the background.</p>\n\n<p dir=\"ltr\">B. Her patience started to <strong>dwindle </strong>as the queue was not moving.</p>\n\n<p dir=\"ltr\">C. The organization has seen its funding <strong>dwindle </strong>over the past year.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of them",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;Both B and C.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The word &#39;<strong>Dwindle</strong>&#39; as a verb means to diminish gradually in size, amount, or strength.\n\n\t<ul>\n\t\t<li role=\"presentation\">In <strong>sentence A</strong>, the use of the word &#39;<strong>Dwindle</strong>&#39; is <strong>incorrect</strong>. Music can fade, lower, or die down, but &#39;dwindle&#39; doesn&#39;t fit the context naturally.</li>\n\t\t<li role=\"presentation\">In <strong>sentence B</strong>, &#39;<strong>Dwindle</strong>&#39; is <strong>correctly </strong>used as it paints a picture of someone&#39;s slowly decreasing patience due to the lack of movement in the queue.</li>\n\t\t<li role=\"presentation\">In <strong>sentence C</strong>, &#39;<strong>Dwindle</strong>&#39; has also been <strong>appropriately </strong>used to illustrate the process of gradual lessening of the organization&#39;s funding over the past year.</li>\n\t</ul>\n\t</li>\n</ul>\nHence, the only possible answer is <strong>option 3.</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a63dfa83423d997ab69bdf",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Directions:</strong> <strong>Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</strong></p>\n\n<p dir=\"ltr\">COLOSSAL</p>\n\n<p dir=\"ltr\">A. They made a <strong>colossal </strong>error in judgment.</p>\n\n<p dir=\"ltr\">B. The dinner will be <strong>colossal </strong>at seven o&#39;clock.</p>\n\n<p dir=\"ltr\">C. The palace&#39;s <strong>colossal </strong>pillars amazed the tourists.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of them",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;Both A and C.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The word &#39;<strong>Colossal</strong>&#39; as an adjective means extremely large or great.\n\n\t<ul>\n\t\t<li role=\"presentation\">In <strong>sentence A</strong>, the word &#39;<strong>Colossal</strong>&#39; is used <strong>correctly </strong>to exaggerate the error in judgement as being huge or great.</li>\n\t\t<li role=\"presentation\">In <strong>sentence B</strong>, the use of the word &#39;<strong>Colossal</strong>&#39; does <strong>not fit</strong> the context. It does not make sense to describe a dinner time as &#39;colossal.&#39;</li>\n\t\t<li role=\"presentation\">In <strong>sentence C</strong>, &#39;<strong>Colossal</strong>&#39; has <strong>appropriately </strong>been used to describe the large and impressive pillars of the palace.</li>\n\t</ul>\n\t</li>\n</ul>\nHence, the only possible answer is <strong>option 3</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a63d226d18431bf84c09c8",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Directions:</strong> <strong>Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</strong></p>\n\n<p dir=\"ltr\">CLAUSTROPHOBIA</p>\n\n<p dir=\"ltr\">A. Being stuck in a crowded elevator triggered her <strong>claustrophobia</strong>.</p>\n\n<p dir=\"ltr\">B. She was so excited to feel the <strong>claustrophobia </strong>of the calm lake.</p>\n\n<p dir=\"ltr\">C. Those with <strong>claustrophobia </strong>avoid small, enclosed spaces when possible.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-19d145eb-7fff-7ac1-85d2-675b6a8ac677\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">All of them</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;Both A and C.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><br />\n<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The word &#39;<strong>Claustrophobia</strong>&#39; as a noun means an extreme or irrational fear of confined places.\n\n\t<ul>\n\t\t<li role=\"presentation\">In <strong>sentence A</strong>, the use of &#39;<strong>Claustrophobia</strong>&#39; is <strong>correct</strong> as it pertains to a claustrophobic episode triggered by a confined space (a crowded elevator).</li>\n\t\t<li role=\"presentation\">In <strong>sentence B</strong>, the use of &#39;<strong>Claustrophobia</strong>&#39; is <strong>incorrect</strong>. Calm lakes do not evoke or engender feelings of claustrophobia, nor can a person &#39;feel&#39; claustrophobia of a calm lake.</li>\n\t\t<li role=\"presentation\">In <strong>sentence C</strong>, &#39;<strong>Claustrophobia</strong>&#39; is used <strong>correctly </strong>to describe individuals who avoid small, enclosed spaces due to claustrophobia.</li>\n\t</ul>\n\t</li>\n</ul>\nHence, the only possible answer is <strong>option 3.</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "6627a1a5f36b7add4c03c60f",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Direction: Evaluate the following word, accompanied by three sentences containing it. Determine the sentence(s) that accurately convey the meaning of the given word.</strong></p>\n\n<p dir=\"ltr\">Concede</p>\n\n<p dir=\"ltr\">A. The defense team decided to <strong>concede </strong>the game after losing four key players to injuries.</p>\n\n<p dir=\"ltr\">B. The company had to <strong>concede </strong>defeat in the marketplace due to intense competition.</p>\n\n<p dir=\"ltr\">C. He would not <strong>concede </strong>his seat on the bus, despite the glaring need of the elderly woman standing before him.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-55aa2d16-7fff-f13c-b013-e1464c0d639f\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only A</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span id=\"docs-internal-guid-4840affd-7fff-f904-2994-c43e83063ef8\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Both A &amp; B</span></span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span id=\"docs-internal-guid-b546cff9-7fff-018c-714a-ab1c8bb9b91d\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only C</span></span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span id=\"docs-internal-guid-fda55217-7fff-08db-38b1-75c0c95c1b72\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">All A, B &amp; C</span></span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-0ead9705-7fff-1195-d9e1-1804ec359e4c\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">None of these</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>Option 2.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\"><strong>Concede </strong>means to admit something is true or valid after first denying it, or to surrender or yield (स्वीकार करना या हार मान लेना).</li>\n\t<li role=\"presentation\"><strong>Sentences A</strong> and<strong> B</strong> use \"<strong>concede</strong>\" to indicate <strong>admitting defeat</strong> or <strong>acknowledging a difficult situation</strong>.</li>\n\t<li role=\"presentation\"><strong>Sentence C</strong> incorrectly uses \"<strong>concede</strong>\"; the character refuses to give up their seat, not yielding or admitting something.</li>\n\t<li role=\"presentation\">Hence, the correct sentences are <strong>Both A &amp; B</strong>.</li>\n</ul>\n\n<p dir=\"ltr\" role=\"presentation\">Therefore, the correct answer is<strong>&nbsp;\"Both A &amp; B\".</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The use of concede involves <strong>admitting or yielding</strong> in various contexts.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6634a0b027d5cd0a2d6bdf71",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Direction: Evaluate the following word, accompanied by three sentences containing it. Determine the sentence(s) that accurately convey the meaning of the given word.</strong></p>\n\n<p dir=\"ltr\">Abjuration</p>\n\n<p dir=\"ltr\">A. The political leader&#39;s <strong>abjuration</strong> of his earlier views caused a stir among his supporters.</p>\n\n<p dir=\"ltr\">B. She made an <strong>abjuration</strong> to avoid sweets in order to improve her health.</p>\nC. His <strong>abjuration</strong> from the team was unexpected and left the members in shock.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-02746c4d-7fff-68a1-2593-c30f34224ed4\"><span style=\" background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only A</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span id=\"docs-internal-guid-6ce2e9c3-7fff-7836-44d6-05bd0ae843b1\"><span style=\" background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Both A &amp; B</span></span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span id=\"docs-internal-guid-09713047-7fff-8195-4858-04ac5de93a31\"><span style=\" background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only C</span></span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span id=\"docs-internal-guid-813e4c25-7fff-8a96-4f20-5f627fb00b77\"><span style=\" background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">All A, B &amp; C</span></span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-f0b4158c-7fff-935e-9d21-d1a50ba25426\"><span style=\" background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">None of these</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is: <b>Option 4</b>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The word <strong>\"Abjuration\"</strong> means the act of renouncing or rejecting something, especially a belief, claim, or oath. (शपथपूर्वक त्याग)\n\n\t<ul>\n\t\t<li><strong>Example: </strong>The <strong>abjuration </strong>of the throne by the king led to a period of political instability in the kingdom.</li>\n\t</ul>\n\t</li>\n\t<li>In <strong>sentence A</strong>, the political leader&#39;s <strong>abjuration</strong> of his earlier views implies he formally rejected beliefs he previously held, which aligns with the meaning of abjuration. (शपथपूर्वक त्याग)\n\t<ul>\n\t\t<li><strong>Example: </strong>After years of promoting a strict policy, the politician&#39;s <strong>abjuration </strong>of those views surprised many.</li>\n\t</ul>\n\t</li>\n\t<li>In <strong>sentence B</strong>, making an <strong>abjuration</strong> to avoid sweets for health reasons can be seen as a personal vow or pledge, somewhat fitting the broader context of abjuration as renunciation. (शपथपूर्वक त्याग)\n\t<ul>\n\t\t<li><strong>Example: </strong>Her <strong>abjuration </strong>of sugar was a significant step towards a healthier lifestyle.</li>\n\t</ul>\n\t</li>\n\t<li>In <strong>sentence C</strong>, his <strong>abjuration</strong> from the team, though not a perfect fit due to the phrasing, could be interpreted as a formal renunciation or leaving, which loosely fits the concept of abjuration. (शपथपूर्वक त्याग)\n\t<ul>\n\t\t<li><strong>Example: </strong>The athlete&#39;s <strong>abjuration </strong>from professional sports marked the end of an era.</li>\n\t</ul>\n\t</li>\n\t<li>Hence, we can infer that the sentences collectively convey the essence of <strong>&#39;abjuration&#39;</strong> through different contexts.</li>\n</ul>\n\n<p>Therefore, the correct answer is: <strong><span style=\"color: rgb(33, 37, 41); white-space-collapse: preserve;\">All A, B &amp; C.</span></strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0eaa1aeecedb817eaf7be0",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p data-path-to-node=\"123\">Evaluate the following word, accompanied by three sentences containing it. Determine the sentence(s) that accurately convey the meaning of the given word.</p>\n\n<p data-path-to-node=\"124\"><b data-index-in-node=\"0\" data-path-to-node=\"124\">Garrulous</b></p>\n\n<p data-path-to-node=\"125\">A.&nbsp;The detective encountered a <span style=\"font-weight: bolder;\">garrulous </span>suspect who refused to open his mouth or utter a sound during the entire interrogation.&nbsp;</p>\n\n<p data-path-to-node=\"125\">B. The <span style=\"font-weight: bolder;\">garrulous </span>neighbor talked continuously for forty minutes about her garden, barely letting me say a single word.</p>\n\n<p data-path-to-node=\"125\">C. This book features a highly <strong>garrulous </strong>index, containing only two pages of text and no descriptive explanations.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both A &amp; B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the options",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is <span style=\"font-weight: 700;\">&#39;2&#39;</span><span style=\"font-weight: 700;\"> i.e.</span><span style=\"font-weight: 700;\"> Only B</span> <span style=\"font-weight: 700;\">.</span></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></p>\n\n<ul style=\"\">\n        <li>The word <strong>garrulous</strong> means excessively talkative, especially about trivial matters.</li>\n        <li>Let us evaluate the sentences:\n            <ul>\n                <li><strong>Sentence A:</strong> The garrulous suspect who \"refused to open his mouth\" is contradictory. A garrulous person would talk excessively, not remain silent. Hence, this sentence is <strong>incorrect</strong>.</li>\n                <li><strong>Sentence B:</strong> The neighbor who \"talked continuously for forty minutes\" clearly demonstrates the meaning of garrulous, which is excessive talking. This sentence is <strong>correct</strong>.</li>\n                <li><strong>Sentence C:</strong> The phrase \"a highly garrulous index\" is nonsensical, as an index cannot talk. This sentence is <strong>incorrect</strong>.</li>\n            </ul>\n        </li>\n</ul>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Correct sentence:</span> <em>The garrulous neighbor talked continuously for forty minutes about her garden, barely letting me say a single word.</em></p>\n\n<p style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Examples of usage:</strong>\n        <ul>\n                <li><strong>Correct:</strong> The garrulous tour guide kept talking about every single tree in the park.</li>\n                <li><strong>Incorrect:</strong> The garrulous child sat in complete silence during the lecture.</li>\n        </ul>\n        </li>\n        <li><strong>Synonyms:</strong> Talkative, loquacious, verbose.</li>\n        <li><strong>Antonyms:</strong> Quiet, reserved, taciturn.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a101bd0971b1c2ddca50c9",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</strong></p>\n\n<p dir=\"ltr\">E-COMMERCE</p>\n\n<p dir=\"ltr\">A. She purchased the dress from an <strong>e-commerce</strong> website.</p>\n\n<p dir=\"ltr\">B. His <strong>e-commerce</strong> wasn&#39;t very good at maths.</p>\n\n<p dir=\"ltr\">C. The little <strong>e-commerce</strong> in the corner was crying for its mother.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;Only A.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;<strong>E-commerce</strong>&#39; refers to commercial transactions conducted electronically on the internet.\n\n\t<ul>\n\t\t<li role=\"presentation\">In <strong>sentence A</strong>, &#39;<strong>E-commerce</strong>&#39; has been correctly used to refer to online shopping.</li>\n\t\t<li role=\"presentation\">In <strong>sentences B</strong> and<strong> C</strong>, &#39;<strong>E-commerce</strong>&#39; is inappropriately used as the context of a person&#39;s math skill or a crying entity does not relate to commercial transactions on the internet.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p dir=\"ltr\">Hence, the only possible answer is <strong>option 1.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a10162706b0948a8ce1a5d",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</strong></p>\n\n<p dir=\"ltr\">VIRTUAL</p>\n\n<p dir=\"ltr\">A. She attended all the meetings in a <strong>virtual </strong>format.</p>\n\n<p dir=\"ltr\">B. They went <strong>virtual </strong>shopping over the weekend.</p>\n\n<p dir=\"ltr\">C. She loves the <strong>virtual </strong>taste of the new dish.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;Both A and B.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;<strong>Virtual</strong>&#39; in the context of technology refers to something that is made, done, seen, etc. on the internet or on a computer rather than in the real world.\n\n\t<ul>\n\t\t<li role=\"presentation\">In <strong>sentence A</strong> and <strong>B</strong>, &#39;<strong>Virtual</strong>&#39; has been correctly used to refer to attending meetings and shopping on the internet.</li>\n\t\t<li role=\"presentation\"><strong>Sentence C</strong> inappropriately uses &#39;<strong>Virtual</strong>&#39; as the context does not relate to the term&#39;s technological usage pertaining to taste.</li>\n\t</ul>\n\t</li>\n</ul>\nHence, the only possible answer is<strong> option 2.</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a63d78d143a0ccdbf6ff1b",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</strong></p>\n\n<p dir=\"ltr\">QUANTIFY</p>\n\n<p dir=\"ltr\">A. She tried to <strong>quantify </strong>her feelings for him.</p>\n\n<p dir=\"ltr\">B. They <strong>quantified </strong>their bags before their trip.</p>\n\n<p dir=\"ltr\">C. It&#39;s difficult to <strong>quantify </strong>the impact of the new policy on small businesses.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "None of them",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of them",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;Both A and C.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The word &#39;<strong>Quantify</strong>&#39; as a verb means to express or measure the quantity of something.\n\n\t<ul>\n\t\t<li role=\"presentation\">In <strong>sentence A</strong>, the word &#39;<strong>Quantify</strong>&#39; has been <strong>correctly </strong>used as a verb. Although quantifying feelings may seem abstract, it is a possible usage - she tried to measure or put into numbers her feelings for him.</li>\n\t\t<li role=\"presentation\">In <strong>sentence B</strong>, the word &#39;<strong>Quantify</strong>&#39; is <strong>inappropriately </strong>used. It does not make sense to quantify (measure) bags before a trip.</li>\n\t\t<li role=\"presentation\">In <strong>sentence C</strong>, the word &#39;<strong>Quantify</strong>&#39; has been <strong>correctly </strong>used as a verb. It is usual to want to measure or quantify the impact of a new policy on businesses.</li>\n\t</ul>\n\t</li>\n</ul>\nHence, the only possible answer is<strong> option 3.</strong>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:01.921Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

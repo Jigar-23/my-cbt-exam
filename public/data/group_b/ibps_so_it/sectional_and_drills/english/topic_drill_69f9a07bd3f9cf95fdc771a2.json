@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a07bd3f9cf95fdc771a2",
+  "title": "CT 10: English Language (Word Swapping)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "603fd202411f0d0499405322",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.</span></p>\n\n<div>A man <b>quails(A)</b>&nbsp;near the <strong>forest(B)</strong> and earned his living by catching <b>lived(C)</b>&nbsp;and selling <strong>them(D)</strong></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B-C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct option is 2 i.e. A-C</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>We can look at the sentence in the following way:</p>\n\n<p>A man _________ (A)near the _________ (B) and earned his living by catching _________ (C)&nbsp;and selling _________ (D)&nbsp;</p>\n\n<ul>\n\t<li><strong>quails</strong>:&nbsp;<span style=\"color: rgb(32, 33, 36);  \">a small, brown bird that is shot for sport or food, or the meat of this bird</span></li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \"><strong>quail</strong> is a <strong>bird</strong> and is a <strong>noun</strong> that can not be used after the noun <strong>man</strong></span></li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \">Because &#39;<strong>A man quails&#39;</strong> is contextually incorrect.</span></li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \"><strong>lived</strong> is a <strong>verb</strong> and <strong>catching</strong> is an <strong>adjective</strong></span></li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \"><strong>Grammatically</strong>, adjectives do not modify verbs</span></li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \">Therefore, <strong>A</strong> and <strong>C</strong> should be replaced</span></li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \"><strong>forest</strong>:&nbsp;</span>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">a large area covered chiefly with trees and undergrowth.</div>\n\t</li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \"><strong>them</strong>:&nbsp;preposition to refer to two or more people or things previously mentioned</span><span style=\"color: rgb(32, 33, 36);  \">​</span></li>\n</ul>\n\n<p><br />\n<span style=\"color: rgb(32, 33, 36);  \">Therefore, the correct sentence is,</span></p>\n\n<p><em>A man <strong>lived</strong> near the <strong>forest</strong> and earned his living by catching <strong>quails</strong> and selling <strong>them.</strong></em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "603fdba6f6d081be3151da4f",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.</span></p>\n\n<div>The <b>ought(A)</b>&nbsp;set the price which <b>valuer(B)</b>&nbsp;to be <strong>paid(C)</strong> for horses and elephants and the other <strong>animals(D)</strong></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B-C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct option is&nbsp;<strong>4</strong> i.e. <strong>A-B</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>We can look at the given sentence in the following way</p>\n\n<p>The _________ (A)set the price which _________ (B)&nbsp;to be _________ (C) for horses and elephants and the other_________ (D)&nbsp;</p>\n\n<ul>\n\t<li><strong>ought</strong>: it is a verb used to indicate duty or correctness</li>\n\t<li><strong>ought to</strong> is a modal verb&nbsp;used to show when it is necessary or would be a good thing to perform the activity referred to by the following verb</li>\n\t<li><strong>the verb</strong> can not be used as a <strong>subject</strong> of the <strong>sentence</strong></li>\n\t<li>Therefore, the use of verb ought is incorrect in blank A</li>\n\t<li><strong>valuer</strong>:&nbsp; it is a noun and is a person whose job is to estimate the value of something that is to be purchased.</li>\n\t<li>Therefore in Blank&nbsp;A, &#39;<strong>valuer&#39;</strong> can fit</li>\n\t<li>Therefore <strong>A</strong> and <strong>B</strong> should be interchanged</li>\n</ul>\n\n<p>The correct sentence is,</p>\n\n<p><em>The <strong>Valuer</strong> set the price which <strong>ought</strong> to be <strong>paid</strong> for horses and elephants and the other <strong>animals.</strong></em></p>\n\n<p><em><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></em></p>\n\n<ul>\n\t<li>Modal verb:&nbsp;<span style=\"color: rgb(77, 81, 86); \">A modal verb is a type of verb that is used to indicate modality &ndash; that is: likelihood, ability, permission, request, capacity, suggestions, order, obligation, or advice</span></li>\n\t<li><span style=\"color: rgb(77, 81, 86); \">Examples: can, could, may, might, will, should, could, ought to</span><em><strong>&nbsp;</strong></em></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60406a0c208e8cd0101d8520",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.</span></p>\n\n<div>As the queen put her <strong>branches(A)</strong> of pearls away in a <strong>box(B)</strong>, she was <strong>watched(C)</strong> by a Girl Monkey who sat in the <strong>string(D)</strong> of a tree near-by.</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>2</strong> i.e. <strong>A-D</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>We can look at the given sentence in the following way,</p>\n\n<p>As the queen put her _________ (A)&nbsp;of pearls away in a _________ (B), she was _________ (C)&nbsp;by a Girl Monkey who sat in the _________ (D)&nbsp;of a tree near-by</p>\n\n<ul>\n\t<li>branches:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">a part of a tree that grows out from the trunk of the tree.</div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\"><span style=\"color: rgb(32, 33, 36);\"><strong>&#39;branches of pearl&#39;</strong> is a contextually incorrect phrase</span></div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">Instead, &#39;<strong>branches of a tree&#39;</strong> is a correct phrase</div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">string:&nbsp;<span style=\"color: rgb(77, 81, 86); \">thin&nbsp;</span><span style=\"font-weight: bold; \">rope</span><span style=\"color: rgb(77, 81, 86); \">&nbsp;made by twisting very thin threads together, used for fastening and tying things</span></div>\n\t</li>\n\t<li><strong>&#39;string of pearls&#39;</strong> is a correct phrase</li>\n\t<li>Therefore, A and D should be interchanged.</li>\n\t<li><strong>watched</strong>:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">look at or observe attentively over a period of time.</div>\n\t</li>\n</ul>\n\n<div class=\"vmod\" style=\"color: rgb(32, 33, 36); \">\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">\n<ul>\n\t<li><strong>box</strong>:&nbsp;a container with a flat base and sides, typically square or rectangular, and having a lid.</li>\n</ul>\n\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">Therefore the correct sentence is,&nbsp;</div>\n\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">&nbsp;</div>\n\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\"><em>As the queen put her <b>string&nbsp;</b>of pearls away in a&nbsp;<span style=\"font-weight: 700;\">box</span>, she was&nbsp;<span style=\"font-weight: 700;\">watched</span>&nbsp;by a Girl Monkey who sat in the <strong>branches</strong> of a tree near-by.</em></div>\n</div>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "604091cacba87a78cc6a2c00",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.</span></p>\n\n<div>Not <strong>Woodpecker(A)</strong>&nbsp;from the same lake, a <b>far(B)</b>&nbsp;had a <strong>nest(C)</strong> in the top of a tree; and in the lake <strong>lived(D)</strong> a Turtle</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct option is <strong>4</strong> i.e. <strong>A-B</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>woodpecker:</strong>&nbsp;<span style=\"color: rgb(77, 81, 86); \">a bird that uses its strong beak to make holes in tree trunks in order to find insects to eat</span></li>\n\t<li><strong>far</strong>: situated at a great distance</li>\n\t<li>&nbsp;<strong>Not woodpecker from the same lake </strong>sounds contextually incorrect</li>\n\t<li><strong>a far had a nest</strong> also sounds contextually incorrect</li>\n\t<li><strong>nest</strong> is&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">a structure or place made or chosen by a bird for laying eggs and sheltering its young.</div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\"><span style=\"color: rgb(32, 33, 36);\">Therefore, as woodpecker is a bird mentioned here, &#39;</span><span style=\"font-weight: 700;\">woodpecker had a nest&#39;</span><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a correct phrase</span></div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">Therefore, <strong>A</strong> and <strong>B</strong> should be interchanged</div>\n\t</li>\n</ul>\n\n<div class=\"vmod\" style=\"color: rgb(32, 33, 36); \">\n<p style=\"color: rgb(32, 33, 36); display: inline;\">&nbsp;</p>\n\n<p style=\"color: rgb(32, 33, 36); display: inline;\">Therefore, the correct sentence is,</p>\n\n<p style=\"color: rgb(32, 33, 36); display: inline;\"><em>Not <strong>far</strong>&nbsp;from the same lake, a <b>Woodpecker</b>&nbsp;had a&nbsp;<span style=\"font-weight: 700;\">nest</span>&nbsp;in the top of a tree; and in the lake&nbsp;<span style=\"font-weight: 700;\">lived</span>&nbsp;a Turtle</em></p>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "604097ac5480f607b33e8137",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.</span></p>\n\n<div>For some <b>seaports(A)</b>&nbsp;I was happy in visiting the <b>years(B)</b>, and in <strong>coasting(C)</strong> along the <strong>shores(D)</strong> of my native land</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B-C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A-B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct option is <strong>3</strong> i.e. <strong>A-B</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>We can look at the given sentence in the following way:</p>\n\n<p>For some _________ (A)&nbsp;I was happy in visiting the _________ (B), and in _________ (C)&nbsp;along the _________ (D)&nbsp;of my native land</p>\n\n<ul>\n\t<li><strong>seaports:&nbsp;</strong><span style=\"color: rgb(77, 81, 86); \">a city or town with&nbsp;a port that can be used by ships to stop by.</span></li>\n\t<li><font color=\"#4d5156\">If we&nbsp;read the whole sentence we&nbsp;can understand that &#39;<strong>for some years&#39;</strong>&nbsp;and &#39;<strong>visiting the seaports&#39;</strong> sounds grammatically and contextually correct</font></li>\n\t<li>Therefore, <strong>A</strong> and <strong>B</strong> should be interchanged</li>\n\t<li><strong>coasting:&nbsp;</strong>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">sailing along the coast.</div>\n\t</li>\n\t<li><strong>shores:&nbsp;</strong>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">the land along the edge of a sea, lake, or other large body of water.</div>\n\t</li>\n</ul>\n\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">&nbsp;</div>\n\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">Therefore the correct sentence is,</div>\n\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">&nbsp;</div>\n\n<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\"><em>For some <strong>years</strong> I was happy in visiting the <strong>seaports</strong>, and in <strong>coasting</strong> along the <strong>shores</strong> of my native land</em></div>",
+          "topic": "Test"
+        },
+        {
+          "id": "6040c64ffbf724458d74390d",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.</span></p>\n\n<div>A fox one day <b>famous(A)</b>&nbsp;a Cock who was <b>met(B)</b>&nbsp;for his <strong>wisdom(C)</strong>, and the two <strong>cunning(D)</strong> fellows began to talk.</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct option is <strong>1</strong> i.e. <strong>A-B</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>We can look at the given sentence in the following way:</p>\n\n<p>A fox one day _________ (A)&nbsp;a Cock who was _________ (B)&nbsp;for his_________ (C), and the two _________ (D) fellows began to talk.</p>\n\n<ul>\n\t<li><strong>famous</strong>: an adjective which means&nbsp;\n\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">known about by many people</div>\n\t</li>\n\t<li><strong>met</strong>: a verb which means&nbsp;<span style=\"color: rgb(32, 33, 36);  \">two or more people or things have come together or connected.</span></li>\n\t<li><font color=\"#202124\"><strong>A Fox one day met a Cock</strong> is grammatically and contextually correct.</font></li>\n\t<li><font color=\"#202124\">Therefore, A and B should be interchanged</font></li>\n\t<li>wisdom:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">the quality of having experience, knowledge, and good judgment; the quality of being wise.</div>\n\t</li>\n\t<li>cunning:&nbsp;<span style=\"color: rgb(32, 33, 36);  \">an adjective which means&nbsp;</span><span style=\"color: rgb(32, 33, 36);  \">getting what is wanted in a clever and often deceptive way</span></li>\n</ul>\n\n<p><span style=\"color: rgb(32, 33, 36);  \">​</span>Therefore, the correct sentence is,&nbsp;</p>\n\n<p><em>A fox one day <b>met</b>&nbsp;a Cock who was <b>famous</b>&nbsp;for his&nbsp;<span style=\"font-weight: 700;\">wisdom</span>, and the two <b>cunning </b>fellows&nbsp;began to talk.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6040ca39edfb4ec5112f892c",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.</span></p>\n\n<div>He had <strong>often(A)</strong> told them how <strong>foolish(B)</strong> they were to be always <b>heed(C)</b>, but they kept on and paid no <b>quarreling(D)</b>&nbsp;to his words</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A-B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct option is <strong>4</strong> i.e. <strong>C-D</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>We can look at the given sentence in the following way:</p>\n\n<p>He had _____(A)&nbsp;told them how _____(B)&nbsp;they were to be always _______(C), but they kept on and paid no ______(D)&nbsp;to his words&nbsp;</p>\n\n<ul>\n\t<li><strong>heed</strong>: a verb which means&nbsp;<span style=\"color: rgb(32, 33, 36); \">pay attention to</span></li>\n\t<li><span style=\"color: rgb(32, 33, 36); \"><strong>&#39;be always heed&#39;</strong> is grammatically and contextually incorrect</span></li>\n\t<li><strong>quarreling</strong>:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">have a heated argument or disagreement, gerund or present participle of quarrel</div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\"><span style=\"color: rgb(32, 33, 36);\">From the context of the sentence we can understand that <strong>to be always quarreling</strong> and <strong>paid no heed </strong>are the correct phrases</span></div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">Therefore, <strong>C</strong> and <strong>D</strong> should be interchanged</div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\"><strong>foolish</strong>:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">lacking good sense or judgement</div>\n\t</div>\n\t</li>\n</ul>\n\n<div class=\"vmod\" style=\"color: rgb(32, 33, 36); \">\n<p style=\"color: rgb(32, 33, 36); display: inline;\">&nbsp;</p>\n\n<p style=\"color: rgb(32, 33, 36); display: inline;\">Therefore the correct sentence is:</p>\n\n<div><em>He had&nbsp;<span style=\"font-weight: 700;\">often&nbsp;</span>told them how&nbsp;<span style=\"font-weight: 700;\">foolish</span>&nbsp;they were to be always <b>quarreling</b>, but they kept on and paid no <b>heed</b>&nbsp;to his words</em></div>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "606cbc55df52e0835c0f802e",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.&nbsp;</span></p>\n\n<p>The&nbsp;<strong>food</strong>&nbsp;(A) of the <strong>marina </strong>(B) from the <strong>restaurant </strong>(C) is stunning and the <strong>view&nbsp;</strong>(D) is incredible--a perfect combination.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">A-D.</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Let us look at the given sentence in the following manner -&nbsp;</li>\n</ul>\n\n<p><span style=\"color: rgb(34, 34, 34);\">The<span style=\"font-weight: 700;\">&nbsp;____</span></span><span style=\"color: rgb(34, 34, 34);\"><span style=\"font-weight: 700;\">&nbsp;(A)</span>&nbsp;of the&nbsp;<span style=\"font-weight: 700;\">____ (B)</span>&nbsp;from the ____<span style=\"font-weight: 700;\">&nbsp;(C)</span>&nbsp;is stunning and the _____</span><span style=\"font-weight: 700;\">&nbsp;(D)</span><span style=\"color: rgb(34, 34, 34);\">&nbsp;is incredible--a perfect combination.</span></p>\n\n<ul>\n\t<li>To understand which word belongs in which blank we need to know&nbsp;its meaning as enlisted below -</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color:rgb(255, 255, 255);width:400px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\" style=\"background-color: rgb(0, 255, 255); text-align: center;\">Word</th>\n\t\t\t<th scope=\"col\" style=\"background-color: rgb(0, 255, 255); text-align: center;\">Meaning</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); font-weight: 700;\">food</span></td>\n\t\t\t<td style=\"text-align: center;\">any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">marina</span></td>\n\t\t\t<td style=\"text-align: center;\">a specially designed harbour with moorings for pleasure yachts and small boats.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); font-weight: 700;\">restaurant</span></td>\n\t\t\t<td style=\"text-align: center;\">a place where people pay to sit and eat meals that are cooked and served on the premises.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">view</span></td>\n\t\t\t<td style=\"text-align: center;\">a sight or prospect, typically of attractive natural scenery, that can be taken in by the eye from a particular place.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>From the above meanings it is clear that\n\t<ul>\n\t\t<li>the word &#39;food&#39; cannot be associated with the word &#39;marina&#39;.</li>\n\t\t<li>But the word &#39;view&#39; can be associated with the word &#39;marina&#39;.&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li>So, A and D should be interchanged to make the sentence correct.&nbsp;</li>\n</ul>\n\n<p>Therefore the correct sentence is -&nbsp;<span style=\"color: rgb(34, 34, 34);\">The</span><span style=\"font-weight: 700;\">&nbsp;view</span><span style=\"color: rgb(34, 34, 34);\">&nbsp;of the&nbsp;</span><span style=\"font-weight: 700;\">marina</span><span style=\"color: rgb(34, 34, 34);\">&nbsp;from the&nbsp;</span><span style=\"font-weight: 700;\">restaurant</span><span style=\"color: rgb(34, 34, 34);\">&nbsp;is stunning and the&nbsp;</span><span style=\"font-weight: 700;\">food</span><span style=\"color: rgb(34, 34, 34);\">&nbsp;is incredible--a perfect combination.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "617108aa721aa8f143b49887",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following questions, a sentence is given with five words marked as (A), (B), (C), (D) and (E). These words may or may not be placed in their places. Four options with different arrangements of these words are given. Mark the option with the correct arrangement as the answer. If no change is required, mark &#39;No arrangement required&rsquo; as your answer.</span></p>\n\n<p>There is not the <strong>mammals(A)</strong> doubt that birds and <strong>faster(B)</strong> are now being <strong>breed(C)&nbsp;</strong>off much <b>slightest(D)</b>&nbsp;than they can <strong>killed(E)</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "DAEBC",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "ABDCE",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "CDEAB",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ACDBE",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>DAEBC.</strong></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"https://cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<span style=\"vertical-align: middle;\"><u>Key Points</u></span></span></span></p>\n\n<p>Let&#39;s consider A, B, C, D, and E to be five blanks, with A being the first B second, and so on.</p>\n\n<ul>\n\t<li>The<span style=\"font-weight: 700;\">&nbsp;first blank</span>&nbsp;requires an <strong>adjective</strong>&nbsp;that will modify the noun <strong>doubt</strong>. Therefore, &#39;<strong>slightest</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;is the correct answer here.</li>\n\t<li>The&nbsp;<span style=\"font-weight: 700;\">second blank&nbsp;</span>requires a <b>noun</b>&nbsp;that can go along with the noun &#39;birds&#39; and <strong>mammals</strong> is grammatically correct here.. Therefore, &#39;<strong>mammals</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;is&nbsp;the correct answer here.</li>\n\t<li>The<span style=\"font-weight: 700;\">&nbsp;third blank&nbsp;</span>requires a <strong>verb</strong>&nbsp;considering the context the verb &#39;killed&#39; seems to be grammatically correct.&nbsp;so, &#39;<strong>killed</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;is the&nbsp;correct answer here.</li>\n\t<li>The<span style=\"font-weight: 700;\">&nbsp;fourth blank</span>&nbsp;requires an&nbsp;<span style=\"font-weight: 700;\">adjective</span>&nbsp;that can determine the rate of &#39;birds and mammals being killed&#39;.&nbsp;Therefore&nbsp;<span style=\"font-weight: 700;\">faster</span><span style=\"font-weight: 700;\">&nbsp;</span>is the correct answer.</li>\n\t<li>The&nbsp;<span style=\"font-weight: 700;\">fifth blank</span>&nbsp;requires a <b>verb</b>&nbsp;that can satisfy the meaning of the sentence. Therefore, &#39;<span style=\"font-weight: 700;\">breed</span>&#39; is the correct answer and seems to be grammatically correct.</li>\n</ul>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"https://cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<span style=\"font-weight: 700;\"><span style=\"vertical-align: middle;\"><u>Additional Information</u></span></span></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the difficult words in the given sentence.</li>\n\t<li><span style=\"font-weight: 700;\">mammals:&nbsp;</span><span style=\"color: rgb(77, 81, 86); \">Mammals are a group of vertebrate animals</span><span style=\"color: rgb(32, 33, 36);\">.</span></li>\n\t<li><span style=\"font-weight: 700;\">breed</span>:<span style=\"color: rgb(32, 33, 36);\">(of animals) mate and then produce offspring.</span></li>\n\t<li><span style=\"font-weight: 700;\">slightest</span>:&nbsp;<span style=\"color: rgb(32, 33, 36);\">small in degree; inconsiderable.</span></li>\n</ul>\n\n<p>Therefore, the correct answer is,</p>\n\n<p>There is not the&nbsp;<span style=\"font-weight: 700;\">slightest&nbsp;</span>doubt that birds and&nbsp;<span style=\"font-weight: 700;\">mammals&nbsp;</span>are now being&nbsp;<span style=\"font-weight: 700;\">killed</span>&nbsp;off much&nbsp;<span style=\"font-weight: 700;\">faster</span>&nbsp;than they can&nbsp;<span style=\"font-weight: 700;\">breed.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "617124ef19458acb71f601a1",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following questions, a sentence is given with five words marked as (A), (B), (C), (D) and (E). These words may or may not be placed in their places. Four options with different arrangements of these words are given. Mark the option with the correct arrangement as the answer. If no change is required, mark &#39;No arrangement required&rsquo; as your answer</span></p>\n\n<p><span style=\" \"><strong>Former(A)</strong> is important <strong>work(B)</strong>&nbsp;civilization, but not as important as <strong>what(C)</strong>, and the latter is <strong>for(D)</strong>&nbsp;makes the <strong>leisure(E)</strong> possible</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ABCDE",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "EDBCA",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "BCDEA",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ABCED",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>EDBCA.</strong></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;</span></span></p>\n\n<p>Let&#39;s consider A, B, C, D, and E to be five blanks, with A being the first B second, and so on.</p>\n\n<ul>\n\t<li>The<span style=\"font-weight: 700;\">&nbsp;first blank</span>&nbsp;requires a&nbsp;<span style=\"font-weight: 700;\">noun</span>&nbsp;as it is being described later in the sentence. Therefore, &#39;<span style=\"font-weight: 700;\">leisure</span><span style=\"font-weight: 700;\">&#39;</span>&nbsp;is the correct answer here.</li>\n\t<li>The&nbsp;<span style=\"font-weight: 700;\">second blank&nbsp;</span>requires a <b>preposition</b>&nbsp;that can give meaning to the sentence. Therefore, &#39;<span style=\"font-weight: 700;\">for</span><span style=\"font-weight: 700;\">&#39;</span>&nbsp;is&nbsp;the correct answer here.</li>\n\t<li>The<span style=\"font-weight: 700;\">&nbsp;third blank&nbsp;</span>requires a&nbsp;<span style=\"font-weight: 700;\">noun</span>&nbsp;and a pronoun will be grammatically incorrect here.&nbsp;so, &#39;<span style=\"font-weight: 700;\">work</span><span style=\"font-weight: 700;\">&#39;</span>&nbsp;is the&nbsp;correct answer here.</li>\n\t<li>The<span style=\"font-weight: 700;\">&nbsp;fourth blank</span>&nbsp;requires a&nbsp;<span style=\"font-weight: 700;\">pronoun</span>&nbsp;as in &#39;what is making the latter possible?&#39;.&nbsp;Therefore &#39;<span style=\"font-weight: 700;\">what&#39;&nbsp;</span>is the correct answer.</li>\n\t<li>The&nbsp;<span style=\"font-weight: 700;\">fifth blank</span>&nbsp;requires an <b>adjective</b>&nbsp;that too, which goes along with the previously used adjective &#39;latter&#39; and gives meaning to the sentence. Therefore, &#39;<span style=\"font-weight: 700;\">former</span>&#39; is the correct answer and seems to be grammatically correct.</li>\n</ul>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the difficult words in the given sentence.</li>\n\t<li><span style=\"font-weight: 700;\">leisure: the&nbsp;</span>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">time when one is not working or occupied; free time.</div>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">former</span>:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">denoting the first or first mention of two people or things.</div>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">latter</span>:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">denoting the second or second mentioned of two people or things.</div>\n\t</li>\n</ul>\n\n<p>Therefore, the correct answer is,</p>\n\n<p><span style=\"font-weight: 700;\">Leisure</span>&nbsp;is important&nbsp;<span style=\"font-weight: 700;\">for</span>&nbsp;civilization, but not as important as&nbsp;<span style=\"font-weight: 700;\">work</span>, and the latter is&nbsp;<span style=\"font-weight: 700;\">what</span>&nbsp;makes the&nbsp;<span style=\"font-weight: 700;\">former</span>&nbsp;possible.</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:43.753Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

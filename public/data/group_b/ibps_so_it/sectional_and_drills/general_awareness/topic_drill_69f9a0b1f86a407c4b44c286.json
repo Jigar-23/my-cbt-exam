@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0b1f86a407c4b44c286",
+  "title": "CT 13: General Awareness (Foreign Investment in India)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "698dd165b43923c6d736e7eb",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong>Assertion A</strong>: TRIMs and TRIPs provisions facilitate and promote FDI.</p>\n\n<p><strong>Reason R</strong>: TRIMs and TRIPs provisions remove restrictions and address capital flow sensitivities.</p>\n\n<p>Choose the correct response from following:</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A and R are correct and R is the right explanation of A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and R are correct and R is NOT the right explanation of A",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A is correct and R is not correct",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both A and R are incorrect",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage56.png\" style=\"text-align: justify;\" /></p>\n\n<p><strong>TRIMs and TRIPs:</strong></p>\n\n<ul>\n\t<li><strong>The TRIMs&nbsp;</strong><span style=\"font-weight: 700;\"><strong>(Tra</strong>de-Related Investment Measures)&nbsp;</span>recognizes that certain investment measures can restrict trade.</li>\n\t<li>The TRIMs are the rules which enable international firms to conduct business more easily in foreign markets, thereby giving them liberalization of international investments.</li>\n\t<li><strong>TRIMs and TRIPs provisions facilitate and promote FDI.</strong></li>\n\t<li><span style=\"font-weight: 700;\">The TRIPs&nbsp;<span style=\"font-weight: 700;\">(Trade-Related Aspects of Intellectual Property Rights)</span>&nbsp;is a minimum standard agreement that allows more extensive protection of intellectual property to the member nations of WTO.</span></li>\n\t<li>In other words, TRIPs provide monopoly power to owners of intellectual property rights.</li>\n\t<li>The agreement on TRIMs calls for introducing national treatment of foreign investment and removal of quantitative restrictions.</li>\n\t<li><strong>Collectively,&nbsp;TRIMs and TRIPs provisions remove restrictions and address capital flow sensitivities.&nbsp;</strong></li>\n</ul>\n\n<p><strong>Therefore, both A and R are correct and R is the right explanation of A.&nbsp;</strong></p>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage218.png\" style=\"text-align: justify;\" /></p>\n\n<p><strong>TRIMs and TRIPs came into effect on January 1, 1995.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4c1330d8158bb347b72",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Long-term foreign investment is preferred over short-term flows mainly to reduce which risk?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Credit risk",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Liquidity risk",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Sudden stop risk",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Exchange risk",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Compliance risk",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Sudden stop risk</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li data-end=\"284\" data-start=\"78\"><strong>Sudden stop risk</strong> refers to the risk of abrupt and severe halts in capital flows, particularly short-term foreign investments, which can destabilize an economy. This is why long-term foreign investments are preferred over short-term flows.</li>\n    <li data-end=\"605\" data-start=\"482\">Short-term flows, such as portfolio investments, are highly volatile and can exit a country quickly during financial turmoil, causing a sudden loss of capital for the host country.</li>\n    <li data-end=\"692\" data-start=\"610\">Long-term investments, like Foreign Direct Investments (FDIs), are more stable as they are tied to physical assets and projects, making it less likely for the investor to withdraw during economic uncertainty. <em><span style=\"font-weight: bolder;\">Hence, the preference for long-term investments is to reduce sudden stop risk.</span></em></li>\n    <li data-end=\"1041\" data-start=\"850\">Sudden stop risk can trigger a range of economic problems, including currency depreciation, reduced liquidity, and financial instability, which can severely hamper economic growth.</li>\n    <li data-end=\"1162\" data-start=\"1046\">Countries with high dependency on short-term capital inflows are particularly vulnerable to sudden stop risk, especially during global financial crises or geopolitical events.</li>\n    <li data-end=\"1560\" data-start=\"1323\">Long-term investments help build sustainable economic growth by creating employment, infrastructure, and industrial development, which are less likely to be impacted by temporary financial instability.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Sudden Stop Risk:</strong>\n    <ul>\n        <li>It occurs when capital inflows dry up suddenly, leading to a financial crisis in the host country.</li>\n        <li>This risk is more pronounced in emerging markets, where capital inflows are often used to finance current account deficits.</li>\n        <li>Examples include the <strong>Asian Financial Crisis of 1997</strong> and the <strong>Global Financial Crisis of 2008</strong>, during which several countries faced sudden capital outflows, leading to currency crises and economic downturns.</li>\n    </ul>\n    </li>\n    <li><strong>Characteristics of Long-term Investments:</strong>\n    <ul>\n        <li>Long-term investments, such as <strong>FDIs</strong>, involve investing in physical assets like factories, infrastructure, and industrial facilities.</li>\n        <li>They are less volatile and more stable compared to short-term investments like stocks and bonds.</li>\n        <li>FDIs often involve technology transfer, skill development, and long-term economic growth.</li>\n        <li>Examples include investments by multinational corporations in sectors like manufacturing, IT, and energy.</li>\n    </ul>\n    </li>\n    <li><strong>Characteristics of Short-term Investments:</strong>\n    <ul>\n        <li>Short-term investments, such as <strong>portfolio investments</strong>, involve buying and selling financial assets like stocks, bonds, and mutual funds.</li>\n        <li>They are highly liquid and can be withdrawn quickly, making them susceptible to sudden stops.</li>\n        <li>These investments are more speculative in nature, aiming for quick returns rather than long-term growth.</li>\n    </ul>\n    </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Credit Risk:</strong>\n    <ul>\n        <li>It refers to the risk of default by a borrower. While relevant in financial markets, it is not the primary concern in the context of foreign investments.</li>\n    </ul>\n    </li>\n    <li><strong>Liquidity Risk:</strong>\n    <ul>\n        <li>Liquidity risk arises when an asset cannot be quickly sold without a significant loss in value. Long-term investments may reduce liquidity risk, but it is not the main reason for preferring them.</li>\n    </ul>\n    </li>\n    <li><strong>Exchange Risk:</strong>\n    <ul>\n        <li>Exchange risk refers to potential losses due to currency fluctuations. While this is a concern in foreign investments, it is not the primary reason for preferring long-term investments.</li>\n    </ul>\n    </li>\n    <li><strong>Compliance Risk:</strong>\n    <ul>\n        <li>This risk involves potential legal or regulatory issues. It is not directly related to the preference for long-term investments.</li>\n    </ul>\n    </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4c0ffd4dd6badb7aaf2",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Foreign investment through automatic route implies absence of which requirement?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Reporting",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Pricing guidelines",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Government approval",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "FEMA compliance",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sectoral caps",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Government approval</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li data-end=\"284\" data-start=\"78\"><strong>Foreign Investment through Automatic Route:</strong> This refers to the process where foreign investors can invest in Indian companies or industries without requiring prior approval from the Indian government or the Reserve Bank of India (RBI).</li>\n    <li data-end=\"605\" data-start=\"482\">The automatic route simplifies the investment process as investors do not need to seek approval from the Ministry of Finance or any other government body. <em><span style=\"font-weight: bolder;\">Hence, government approval is not required under the automatic route.</span></em></li>\n    <li data-end=\"692\" data-start=\"610\"><strong>Reporting Requirements:</strong> Though government approval is not required, foreign investments must still adhere to reporting requirements. For example, companies need to report the details of the investment to the RBI within a specified timeline. <em><span style=\"font-weight: bolder;\">Hence, reporting is required.</span></em></li>\n    <li data-end=\"1041\" data-start=\"850\"><strong>Pricing Guidelines:</strong> Investments made under the automatic route must comply with pricing guidelines set by the RBI or other regulatory bodies. These guidelines ensure that the valuation of shares or securities is fair. <em><span style=\"font-weight: bolder;\">Hence, pricing guidelines are mandatory.</span></em></li>\n    <li data-end=\"1162\" data-start=\"1046\"><strong>FEMA Compliance:</strong> All foreign investments in India, whether through the automatic route or otherwise, must adhere to the provisions of the <strong>Foreign Exchange Management Act (FEMA), 1999.</strong> <em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, FEMA compliance is required.</span></em></li>\n    <li data-end=\"1560\" data-start=\"1323\"><strong>Sectoral Caps:</strong> Even under the automatic route, foreign investments must comply with sectoral caps, which specify the maximum percentage of foreign ownership allowed in specific sectors (e.g., 74% in private banks, 49% in the insurance sector). <em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, sectoral caps are mandatory.</span></em></li>\n    <li data-end=\"2112\" data-start=\"2076\"><em><strong>Therefore, the absence of <span style=\"color: rgb(33, 37, 41);\">government approval</span> makes the automatic route distinct from other foreign investment routes.</strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Foreign Direct Investment (FDI):</strong>\n        <ul>\n            <li data-end=\"2410\" data-start=\"2195\"><strong>FDI</strong> refers to investments made by a foreign entity in the business interests of another country. It can be made in the form of establishing business operations, acquiring business assets, or investing in an existing company in the host country.</li>\n            <li data-end=\"2684\" data-start=\"2415\">FDI in India is governed by the <strong>Foreign Exchange Management Act (FEMA), 1999,</strong> and is subject to regulations specified by the <strong>Reserve Bank of India (RBI)</strong> and the <strong>Ministry of Commerce and Industry.</strong></li>\n        </ul>\n    </li>\n    <li><strong>Routes of FDI in India:</strong>\n        <ul>\n            <li data-end=\"2860\" data-start=\"2735\"><strong>Automatic Route:</strong> Under this route, investors do not require prior government approval. However, investments must comply with sectoral caps, reporting norms, pricing guidelines, and FEMA regulations.</li>\n            <li data-end=\"3071\" data-start=\"2865\"><strong>Government Approval Route:</strong> Investments in certain sectors (e.g., defense, telecom, and media) require prior approval from the Indian government. The <strong>Foreign Investment Promotion Board (FIPB)</strong> previously handled such approvals, but this responsibility now lies with the concerned ministry.</li>\n        </ul>\n    </li>\n    <li><strong>Sectoral Caps in FDI:</strong>\n        <ul>\n            <li data-end=\"3250\" data-start=\"3076\">Different sectors in India have varying limits on the percentage of FDI allowed. For instance, <strong>100% FDI</strong> is allowed in sectors like IT, while only <strong>49% FDI</strong> is permitted in the insurance sector under the automatic route.</li>\n            <li data-end=\"3402\" data-start=\"3301\">In sensitive sectors like defense and telecom, investments exceeding the sectoral caps require <strong>government approval.</strong></li>\n        </ul>\n    </li>\n    <li><strong>Key Regulatory Bodies:</strong>\n        <ul>\n            <li data-end=\"3580\" data-start=\"3407\"><strong>Reserve Bank of India (RBI):</strong> The RBI monitors and regulates foreign exchange transactions, including FDI.</li>\n            <li data-end=\"3729\" data-start=\"3585\"><strong>Department for Promotion of Industry and Internal Trade (DPIIT):</strong> This department issues FDI policies and oversees their implementation.</li>\n        </ul>\n    </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>FDI Trends in India:</strong>\n        <ul>\n            <li data-end=\"4636\" data-start=\"4411\">India received <strong>$83.57 billion</strong> in FDI during the fiscal year <strong>2021-2022</strong>, highlighting its attractiveness as a global investment destination.</li>\n            <li data-end=\"4761\" data-start=\"4641\">Major sectors attracting FDI include <strong>computer software and hardware, services, and telecommunications.</strong></li>\n        </ul>\n    </li>\n    <li><strong>Notable Policies and Reforms:</strong>\n        <ul>\n            <li data-end=\"5043\" data-start=\"4817\">The government has eased FDI norms in sectors like <strong>defense, civil aviation, and single-brand retail</strong> to attract more foreign investments.</li>\n            <li data-end=\"5259\" data-start=\"5048\">India's <strong>Make in India</strong> initiative aims to boost domestic manufacturing and attract FDI in key sectors like electronics, automobiles, and pharmaceuticals.</li>\n        </ul>\n    </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4c043648dbd0f2a25df",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "RBI monitors ECBs closely because they directly impact which macro variable?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Fiscal deficit",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Capital account stability",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Trade balance",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Inflation expectations",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Employment",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"\" data-start=\"\">The correct answer is <u><strong>Capital account stability</strong></u>.</p>\n\n<p data-end=\"\" data-start=\"\"><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><img cdn.testbook.com=\"\" height=\"\" lms_creative_elements=\"\" resources=\"\" src=\"\" width=\"\" /><strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li data-end=\"\" data-start=\"\"><strong>External Commercial Borrowings (ECBs):</strong> ECBs are loans or borrowings made by eligible Indian companies from non-resident lenders in foreign currency. They are primarily used to finance capital-intensive projects such as infrastructure and industrial expansion in India.</li>\n\t<li data-end=\"\" data-start=\"\">The Reserve Bank of India (<strong>RBI</strong>) closely monitors ECBs because they are an important component of the <strong>capital account</strong> in the <strong>Balance of Payments (BoP)</strong>. Changes in ECBs directly impact the inflow and outflow of foreign currency, which in turn affects the stability of the capital account.</li>\n\t<li data-end=\"\" data-start=\"\">Large-scale borrowing through ECBs can lead to an increase in external debt. If not managed properly, this could cause risks to the country&#39;s capital account stability and external debt sustainability.</li>\n\t<li data-end=\"\" data-start=\"\">The RBI regulates ECBs to maintain a stable external financial position, ensuring that capital flows do not disrupt economic stability or lead to excessive dependence on external borrowings.</li>\n\t<li data-end=\"\" data-start=\"\"><strong>Capital account stability</strong> refers to maintaining a balance between the inflow and outflow of foreign capital. Sudden or excessive inflows and outflows can lead to currency volatility and macroeconomic instability.</li>\n\t<li data-end=\"\" data-start=\"\">Monitoring ECBs also helps the RBI to ensure that the borrowed funds are utilized for productive purposes and do not create repayment challenges in the future.</li>\n\t<li data-end=\"\" data-start=\"\">Other macroeconomic variables such as <strong>fiscal deficit, trade balance, inflation expectations, and employment</strong>, while important, are not directly affected by ECBs to the same extent as the capital account. Hence, these options are incorrect.</li>\n</ul>\n\n<p><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><img cdn.testbook.com=\"\" height=\"\" lms_creative_elements=\"\" resources=\"\" src=\"\" width=\"\" /><strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Key Characteristics of ECBs:</strong>\n\n\t<ul>\n\t\t<li data-end=\"\" data-start=\"\">ECBs are typically used by companies for investment in infrastructure projects, modernization of existing facilities, and expansion activities.</li>\n\t\t<li data-end=\"\" data-start=\"\">They are an important tool for businesses to access foreign capital at competitive interest rates compared to domestic loans.</li>\n\t\t<li data-end=\"\" data-start=\"\"><strong>Examples:</strong> Indian companies may borrow through ECBs from international banks, export credit agencies, or foreign collaborators.</li>\n\t</ul>\n\t</li>\n\t<li><strong>RBI&rsquo;s Role in Monitoring ECBs:</strong>\n\t<ul>\n\t\t<li data-end=\"\" data-start=\"\">The RBI sets guidelines for ECBs to ensure that they are used for productive purposes and do not create excessive foreign exchange liabilities for the country.</li>\n\t\t<li data-end=\"\" data-start=\"\">It imposes limits on the amount that can be borrowed, the sectors eligible for borrowing, and the end-use of the funds.</li>\n\t\t<li data-end=\"\" data-start=\"\">The RBI also monitors the repayment schedule of ECBs to avoid repayment risks and maintain financial stability in the country.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Other Macroeconomic Variables:</strong>\n\t<ul>\n\t\t<li data-end=\"\" data-start=\"\"><strong>Fiscal Deficit:</strong> This measures the shortfall between a government&#39;s revenue and expenditure. ECBs are not directly linked to fiscal deficits as they are private sector borrowings.</li>\n\t\t<li data-end=\"\" data-start=\"\"><strong>Trade Balance:</strong> The trade balance concerns the difference between exports and imports. While ECBs may influence foreign exchange reserves, they do not directly affect trade balance.</li>\n\t\t<li data-end=\"\" data-start=\"\"><strong>Inflation Expectations:</strong> ECBs have an indirect impact on inflation through their effect on the money supply, but this is not their primary macroeconomic impact.</li>\n\t\t<li data-end=\"\" data-start=\"\"><strong>Employment:</strong> Although ECBs may fund projects that create jobs, their impact on employment is indirect and not their primary macroeconomic role.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><img cdn.testbook.com=\"\" height=\"\" lms_creative_elements=\"\" resources=\"\" src=\"\" width=\"\" /><strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Capital Account Stability:</strong>\n\n\t<ul>\n\t\t<li>The capital account is a part of the Balance of Payments (BoP) and tracks inflows and outflows of foreign investments, external borrowings, and other financial transactions.</li>\n\t\t<li>Excessive reliance on ECBs can lead to high external debt, which may affect the country&#39;s credit rating and financial stability.</li>\n\t\t<li>RBI&#39;s monitoring helps to ensure that foreign borrowings are sustainable and do not lead to vulnerabilities in the economy.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Recent Trends:</strong>\n\t<ul>\n\t\t<li>In recent years, Indian companies have increasingly used ECBs to finance projects due to favorable interest rates and global liquidity conditions.</li>\n\t\t<li>However, the RBI has tightened its monitoring of ECBs to ensure prudent usage and to avoid external sector imbalances.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4c041394491e9054f2f",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which form of foreign investment is most closely associated with balance of payments volatility?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "FDI",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "FPI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "ODI",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ECB",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "NRI deposits",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Foreign Portfolio Investment (FPI)</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n        <li data-end=\"284\" data-start=\"78\"><strong>Foreign Portfolio Investment (FPI)</strong> is most closely associated with <strong>balance of payments (BoP) volatility</strong> due to its speculative nature and short-term investment horizon.</li>\n        <li data-end=\"605\" data-start=\"482\">FPI involves investment in <strong>financial assets</strong> like stocks, bonds, and mutual funds of a foreign country without obtaining significant control over the entities.</li>\n        <li data-end=\"692\" data-start=\"610\">These investments are highly liquid, which means investors can easily move their funds in and out of a country. This makes FPI susceptible to <strong>market fluctuations</strong> and external shocks.</li>\n        <li data-end=\"1041\" data-start=\"850\">The <strong>volatility</strong> of FPI inflows and outflows can affect the <strong>exchange rate</strong> and foreign exchange reserves of a country, leading to disruptions in the balance of payments. Hence, it is closely linked to BoP volatility.</li>\n        <li data-end=\"1162\" data-start=\"1046\">Unlike <strong>Foreign Direct Investment (FDI)</strong>, which involves long-term commitment and ownership, FPI is driven by <strong>short-term returns</strong>, further adding to its volatile nature.</li>\n        <li data-end=\"1560\" data-start=\"1323\">Significant outflows of FPI can lead to a <strong>currency depreciation</strong>, increased inflationary pressure, and a negative impact on the country's economy. These factors make FPI a major contributor to BoP volatility.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Foreign Portfolio Investment (FPI):</strong>\n        <ul>\n                <li data-end=\"2410\" data-start=\"2195\">FPI refers to investment in <strong>financial assets</strong> of foreign countries without direct control over the enterprises. Examples include investments in stocks, bonds, and mutual funds.</li>\n                <li data-end=\"2684\" data-start=\"2415\">It is highly influenced by <strong>global economic conditions, interest rates, and geopolitical stability</strong>, making it vulnerable to sudden inflows or outflows.</li>\n                <li data-end=\"3071\" data-start=\"2865\">FPI is often considered a <strong>short-term investment</strong> strategy, with investors prioritizing quick returns over long-term stability. This speculative approach amplifies its volatility.</li>\n        </ul>\n        </li>\n        <li><strong>Foreign Direct Investment (FDI):</strong>\n        <ul>\n                <li data-end=\"3250\" data-start=\"3076\">FDI involves <strong>long-term investments</strong> where investors gain significant ownership or control over companies or assets in a foreign country.</li>\n                <li data-end=\"3580\" data-start=\"3407\">FDI is generally associated with <strong>stability</strong>, as it involves establishing businesses, infrastructure, and creating jobs, which have a positive impact on the host country's economy.</li>\n        </ul>\n        </li>\n        <li><strong>Overseas Direct Investment (ODI):</strong>\n        <ul>\n                <li data-end=\"3729\" data-start=\"3585\">ODI refers to investments made by domestic companies in foreign countries, often for <strong>business expansion</strong> or strategic growth.</li>\n                <li data-end=\"3925\" data-start=\"3734\">It is usually a <strong>long-term investment</strong> and contributes less to BoP volatility compared to FPI.</li>\n        </ul>\n        </li>\n        <li><strong>External Commercial Borrowing (ECB):</strong>\n        <ul>\n                <li data-end=\"4199\" data-start=\"4008\">ECB refers to borrowing by domestic entities from international sources, typically for <strong>infrastructure projects</strong> or capital needs.</li>\n                <li data-end=\"4401\" data-start=\"4204\">While it impacts foreign exchange reserves, its contribution to BoP volatility is less than FPI due to its structured repayment plans.</li>\n        </ul>\n        </li>\n        <li><strong>Non-Resident Indian (NRI) Deposits:</strong>\n        <ul>\n                <li data-end=\"4636\" data-start=\"4411\">NRI deposits are funds deposited by Indians living abroad in Indian banks. These are relatively stable and contribute positively to foreign exchange reserves.</li>\n                <li data-end=\"4761\" data-start=\"4641\">They have minimal impact on BoP volatility as compared to FPI due to their predictable and steady nature.</li>\n        </ul>\n        </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Factors Contributing to FPI Volatility:</strong>\n        <ul>\n                <li data-end=\"5043\" data-start=\"4817\"><strong>Global Economic Trends:</strong> Changes in interest rates by global central banks, such as the <strong>Federal Reserve</strong>, significantly influence FPI flows.</li>\n                <li data-end=\"5259\" data-start=\"5048\"><strong>Political Instability:</strong> Countries experiencing political or economic turmoil often see abrupt outflows of FPI.</li>\n                <li data-end=\"5449\" data-start=\"5264\"><strong>Exchange Rate Fluctuations:</strong> Depreciation of the host country's currency can lead to FPI outflows, further exacerbating BoP volatility.</li>\n        </ul>\n        </li>\n        <li><strong>Examples of FPI Volatility:</strong>\n        <ul>\n                <li data-end=\"5699\" data-start=\"5502\">The <strong>2013 Taper Tantrum</strong> saw significant FPI outflows from emerging markets like India due to the US Federal Reserve's decision to taper its quantitative easing program.</li>\n                <li data-end=\"5909\" data-start=\"5704\">In <strong>2020</strong>, during the initial phase of the <strong>COVID-19 pandemic</strong>, emerging markets experienced massive FPI outflows due to global economic uncertainty.</li>\n        </ul>\n        </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4bfd0c2e57aae45941b",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Which authority monitors sectoral FDI limits from a policy perspective rather than prudential perspective?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "RBI",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "SEBI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "DPIIT",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ministry of Finance",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Enforcement Directorate",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"\"57\"\" data-start=\"\"0\"\">The correct answer is <u><strong>DPIIT</strong></u>.</p>\n\n<p data-end=\"\"57\"\" data-start=\"\"0\"\"><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n        <li data-end=\"\"284\"\" data-start=\"\"78\"\"><strong>DPIIT (Department for Promotion of Industry and Internal Trade)</strong> under the Ministry of Commerce and Industry monitors <strong>sectoral Foreign Direct Investment (FDI) limits</strong> from a <strong>policy perspective</strong>. This ensures alignment with the government’s objectives for economic growth and development.</li>\n        <li data-end=\"\"605\"\" data-start=\"\"482\"\">DPIIT is responsible for issuing guidelines, policies, and notifications related to <strong>FDI regulations</strong>, including deciding the permissible limits for foreign investment in various sectors.</li>\n        <li data-end=\"\"692\"\" data-start=\"\"610\"\">It plays a vital role in facilitating investment, promoting ease of doing business, and ensuring that foreign investments contribute positively to India’s economic landscape. <em><span style=\"\"font-weight: bolder;\"\">Hence, DPIIT is the correct answer.</span></em></li>\n        <li data-end=\"\"1041\"\" data-start=\"\"850\"\">Unlike agencies such as the <strong>Reserve Bank of India (RBI)</strong>, which focus on <strong>prudential measures</strong> such as controlling financial risks in foreign investments, DPIIT’s role is broader and focuses on <strong>policy formulation and implementation</strong>.</li>\n        <li data-end=\"\"1162\"\" data-start=\"\"1046\"\">DPIIT’s policy perspective ensures that foreign investments align with the goals of the <strong>Make in India initiative</strong>, sustainable development, and sector-specific needs. <em style=\"\"color: rgb(33, 37, 41);\"\"><span style=\"\"font-weight: bolder;\"\">Hence, DPIIT is the correct authority.</span></em></li>\n</ul>\n\n<p><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>DPIIT Overview:</strong>\n        <ul>\n                <li data-end=\"\"2410\"\" data-start=\"\"2195\"\"><strong>Established:</strong> DPIIT was formed in <strong>1995</strong> and later renamed in <strong>2019</strong>. It operates under the <strong>Ministry of Commerce and Industry</strong>.</li>\n                <li data-end=\"\"2684\"\" data-start=\"\"2415\"\"><strong>Functions:</strong> It formulates and implements policies to promote <strong>industrial development, foreign investment, and internal trade</strong>. It ensures that FDI policies align with the objectives of India’s economic growth.</li>\n                <li data-end=\"\"2884\"\" data-start=\"\"2690\"\"><strong>Make in India Initiative:</strong> DPIIT plays a key role in promoting domestic manufacturing and attracting foreign investment through this initiative.</li>\n        </ul>\n        </li>\n        <li><strong>Other Authorities:</strong>\n        <ul>\n                <li data-end=\"\"3071\"\" data-start=\"\"2865\"\"><strong>RBI:</strong> The <strong>Reserve Bank of India</strong> regulates foreign investments from a <strong>prudential perspective</strong>, focusing on financial stability, risk mitigation, and foreign exchange management.</li>\n                <li data-end=\"\"3250\"\" data-start=\"\"3076\"\"><strong>SEBI:</strong> The <strong>Securities and Exchange Board of India</strong> oversees FDI in listed companies and regulates the financial market to ensure investor protection and market integrity.</li>\n                <li data-end=\"\"3402\"\" data-start=\"\"3301\"\"><strong>Ministry of Finance:</strong> This ministry focuses on economic policies, taxation, and financial regulations but does not directly handle sectoral FDI limits.</li>\n                <li data-end=\"\"3580\"\" data-start=\"\"3407\"\"><strong>Enforcement Directorate:</strong> The ED ensures compliance with the <strong>Foreign Exchange Management Act (FEMA)</strong> but does not monitor or formulate FDI policies.</li>\n        </ul>\n        </li>\n</ul>\n\n<p><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n        <li><strong>FDI Policies:</strong>\n        <ul>\n                <li data-end=\"\"4636\"\" data-start=\"\"4411\"\">India permits FDI up to certain limits in various sectors such as <strong>defense, telecom, pharmaceuticals, etc.</strong> These limits are set by DPIIT based on national priorities.</li>\n                <li data-end=\"\"4761\"\" data-start=\"\"4641\"\"><strong>Automatic Route vs Government Approval Route:</strong> DPIIT distinguishes between these routes and specifies which sectors require prior government approval for foreign investments.</li>\n        </ul>\n        </li>\n        <li><strong>Recent Developments:</strong>\n        <ul>\n                <li data-end=\"\"5043\"\" data-start=\"\"4817\"\"><strong>2020:</strong> DPIIT tightened FDI norms for neighboring countries to prevent opportunistic takeovers during the COVID-19 pandemic.</li>\n                <li data-end=\"\"5259\"\" data-start=\"\"5048\"\"><strong>FDI Growth:</strong> India attracted <strong>$81.72 billion</strong> in FDI during <strong>2020-21</strong>, with DPIIT playing a significant role in policy facilitation.</li>\n        </ul>\n        </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4bf8dbed92f00060327",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "RBI regulates foreign investment in banks mainly to safeguard which macro-economic objective?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Employment",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Fiscal balance",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Financial stability",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Export competitiveness",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Inflation targeting",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Financial Stability</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li data-end=\"284\" data-start=\"78\"><strong>Financial stability</strong> refers to the condition where the financial system, including financial institutions, markets, and infrastructure, operates efficiently and withstands economic shocks without collapsing.</li>\n    <li data-end=\"605\" data-start=\"482\">The <strong>Reserve Bank of India (RBI)</strong>, as the central bank, plays a critical role in safeguarding financial stability to ensure the smooth functioning of the economy.</li>\n    <li data-end=\"692\" data-start=\"610\">The regulation of <strong>foreign investment in banks</strong> helps prevent excessive foreign control over domestic financial institutions, which could lead to risks such as destabilization, dependency, or vulnerability to global financial crises.</li>\n    <li data-end=\"1041\" data-start=\"850\"><strong>Foreign investment regulations</strong> are designed to maintain a balance between foreign participation and domestic control, ensuring that banks remain resilient and can meet domestic financial requirements effectively.</li>\n    <li data-end=\"1162\" data-start=\"1046\">The RBI sets limits on foreign ownership in banks to minimize systemic risks and ensure that decisions affecting the financial ecosystem are not overly influenced by external entities. <em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, financial stability is the primary macroeconomic objective safeguarded by the RBI.</span></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Foreign Investment in Indian Banks:</strong>\n    <ul>\n        <li data-end=\"2410\" data-start=\"2195\"><strong>Foreign Direct Investment (FDI):</strong> The Indian government allows foreign investment in the banking sector up to a certain percentage under <strong>FDI regulations</strong>. As of 2023, <strong>FDI in private banks</strong> is permitted up to <strong>74%</strong> under the automatic route, while in public sector banks, the limit is capped at <strong>20%</strong>.</li>\n        <li data-end=\"2684\" data-start=\"2415\"><strong>Foreign Portfolio Investment (FPI):</strong> FPIs are also regulated by the RBI to ensure that short-term investments do not destabilize the financial system.</li>\n    </ul>\n    </li>\n    <li><strong>Key Functions of RBI in Ensuring Financial Stability:</strong>\n    <ul>\n        <li data-end=\"2860\" data-start=\"2735\"><strong>Monitoring Financial Institutions:</strong> RBI supervises both public and private sector banks, ensuring their compliance with regulatory norms.</li>\n        <li data-end=\"3071\" data-start=\"2865\"><strong>Systemic Risk Management:</strong> The RBI assesses risks that could lead to financial crises and takes proactive measures to mitigate them.</li>\n        <li data-end=\"3250\" data-start=\"3076\"><strong>Liquidity Management:</strong> It ensures adequate liquidity in the financial system to prevent issues like credit crunches or inflation.</li>\n    </ul>\n    </li>\n    <li><strong>Examples of Financial Stability Measures:</strong>\n    <ul>\n        <li data-end=\"3402\" data-start=\"3301\">The RBI has implemented guidelines like <strong>Basel III norms</strong> to ensure banks maintain adequate capital and manage risks effectively.</li>\n        <li data-end=\"3580\" data-start=\"3407\">During global financial crises, the RBI took proactive measures such as infusing liquidity into the financial system to safeguard stability.</li>\n        <li data-end=\"3729\" data-start=\"3585\">In the case of the <strong>Yes Bank crisis</strong> in <strong>2020</strong>, the RBI intervened to restructure and stabilize the bank, ensuring the protection of depositors and preventing a ripple effect in the financial system.</li>\n    </ul>\n    </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Other Macro-Economic Objectives:</strong>\n    <ul>\n        <li data-end=\"4636\" data-start=\"4411\"><strong>Employment:</strong> While employment generation is a critical macroeconomic goal, it is not directly related to foreign investment regulation by the RBI.</li>\n        <li data-end=\"4761\" data-start=\"4641\"><strong>Fiscal Balance:</strong> Fiscal balance refers to the government’s revenue and expenditure management, which is primarily handled by the Ministry of Finance, not the RBI.</li>\n        <li data-end=\"5043\" data-start=\"4817\"><strong>Export Competitiveness:</strong> Export competitiveness is influenced by trade policies and global factors rather than foreign investment in banks.</li>\n        <li data-end=\"5259\" data-start=\"5048\"><strong>Inflation Targeting:</strong> Although the RBI is responsible for inflation targeting under its monetary policy framework, foreign investment regulation specifically aims to safeguard financial stability.</li>\n    </ul>\n    </li>\n    <li><strong>Global Practices:</strong>\n    <ul>\n        <li data-end=\"5449\" data-start=\"5264\">Countries like <strong>China</strong> and <strong>USA</strong> also regulate foreign investment in their banking sectors to maintain financial security and sovereignty.</li>\n        <li data-end=\"5580\" data-start=\"5454\">The <strong>Banking Regulation Act, 1949</strong> in India provides the RBI with the authority to regulate foreign investment in banks.</li>\n    </ul>\n    </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4beb7107dd9743c5cb9",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "FEMA governs foreign investment transactions primarily because it treats foreign exchange as:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Capital asset",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Public good",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Controlled resource",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Free commodity",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sovereign liability",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Controlled resource</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li data-end=\"284\" data-start=\"78\"><strong>Foreign Exchange Management Act (FEMA):</strong> FEMA was enacted in <strong>1999</strong> by the <strong>Parliament of India</strong> to regulate and manage foreign exchange transactions in India.</li>\n    <li data-end=\"605\" data-start=\"482\">FEMA considers foreign exchange as a <strong>controlled resource</strong> due to its critical role in the <strong>country's economic stability</strong> and international trade.</li>\n    <li data-end=\"692\" data-start=\"610\">It governs all aspects of foreign exchange transactions, including <strong>investment, export, import</strong>, and remittances, to ensure that foreign exchange is utilized effectively and responsibly. <em><span style=\"font-weight: bolder;\">Hence, foreign exchange is treated as a controlled resource.</span></em></li>\n    <li data-end=\"1041\" data-start=\"850\"><strong>Controlled Resource:</strong> FEMA treats foreign exchange as a resource that requires regulation and monitoring to prevent misuse, speculative activities, or excessive outflows that could harm the nation’s financial health.</li>\n    <li data-end=\"1162\" data-start=\"1046\">The central authority, <strong>Reserve Bank of India (RBI)</strong>, plays a significant role in ensuring compliance with FEMA regulations. <em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, the correct answer is Controlled Resource.</span></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>About FEMA:</strong>\n    <ul>\n        <li data-end=\"2410\" data-start=\"2195\"><strong>Introduced in 1999</strong>, FEMA replaced the <strong>Foreign Exchange Regulation Act (FERA)</strong> to liberalize foreign exchange management in India.</li>\n        <li data-end=\"2684\" data-start=\"2415\">It aims to facilitate external trade and payments while promoting the orderly development and maintenance of the foreign exchange market in India.</li>\n    </ul>\n    </li>\n    <li><strong>Functions of FEMA:</strong>\n    <ul>\n        <li data-end=\"2860\" data-start=\"2735\">FEMA regulates transactions involving foreign exchange and ensures proper utilization of foreign exchange resources.</li>\n        <li data-end=\"3071\" data-start=\"2865\">It provides guidelines for foreign investments, import/export transactions, and remittances.</li>\n        <li data-end=\"3250\" data-start=\"3076\"><strong>Example:</strong> FEMA regulates the inflow and outflow of foreign exchange when businesses engage in <strong>international trade</strong> or foreign direct investment.</li>\n    </ul>\n    </li>\n    <li><strong>Controlled Resource:</strong>\n    <ul>\n        <li data-end=\"3402\" data-start=\"3301\">Foreign exchange is treated as a <strong>controlled resource</strong> due to its impact on the country's economy, inflation, and balance of payments.</li>\n        <li data-end=\"3580\" data-start=\"3407\">Countries like India enforce regulations under FEMA to ensure foreign exchange is used responsibly and does not destabilize the economy.</li>\n        <li data-end=\"3729\" data-start=\"3585\"><strong>Example:</strong> FEMA regulates the permissible limits for individuals and companies to hold or transact in foreign exchange.</li>\n    </ul>\n    </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Other Options Explained:</strong>\n    <ul>\n        <li data-end=\"4636\" data-start=\"4411\"><strong>Capital Asset:</strong> Foreign exchange is not treated as a capital asset because it does not represent ownership or investment in physical or financial assets.</li>\n        <li data-end=\"4761\" data-start=\"4641\"><strong>Public Good:</strong> Foreign exchange does not qualify as a public good since it is not universally accessible or non-excludable in nature.</li>\n        <li data-end=\"5043\" data-start=\"4817\"><strong>Free Commodity:</strong> Foreign exchange is not treated as a free commodity because its availability and usage are strictly regulated under FEMA.</li>\n        <li data-end=\"5259\" data-start=\"5048\"><strong>Sovereign Liability:</strong> Foreign exchange is not a sovereign liability; rather, it is a controlled resource managed by the government and central bank.</li>\n    </ul>\n    </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4be8dbed92f00060323",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Foreign investment in banking is regulated jointly by RBI and DPIIT mainly due to which reason?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Dual ownership structure",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Financial stability concerns",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Cooperative federalism",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Fiscal implications",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Trade commitments",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Financial stability concerns</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n        <li data-end=\"284\" data-start=\"78\"><strong>Foreign investment in banking:</strong> Banks are critical to the financial stability of any nation as they play a key role in economic growth by offering services like lending, deposit management, and payment systems.</li>\n        <li data-end=\"605\" data-start=\"482\"><strong>Financial stability concerns:</strong> When foreign investments are introduced into the banking sector, there is a potential risk of destabilization, particularly if foreign entities gain significant control over domestic banks. This could lead to vulnerabilities in the financial system. <em><span style=\"font-weight: bolder;\">Hence, financial stability concerns are the primary reason for joint regulation by RBI and DPIIT.</span></em></li>\n        <li data-end=\"692\" data-start=\"610\"><strong>Role of RBI:</strong> The Reserve Bank of India (RBI) acts as the central authority for monitoring and regulating banks in India to ensure a stable and robust financial system. It assesses risks associated with foreign investments to safeguard the banking sector. <em><span style=\"font-weight: bolder;\">Hence, RBI’s involvement is crucial.</span></em></li>\n        <li data-end=\"1041\" data-start=\"850\"><strong>Role of DPIIT:</strong> The Department for Promotion of Industry and Internal Trade (DPIIT) regulates foreign direct investment (FDI) in India. DPIIT ensures that foreign investments align with India’s economic policies and priorities, while maintaining a balance between attracting foreign capital and protecting domestic interests. <em><span style=\"font-weight: bolder;\">Hence, DPIIT plays an important role.</span></em></li>\n        <li data-end=\"1162\" data-start=\"1046\"><strong>Regulation mechanism:</strong> Together, RBI and DPIIT ensure that foreign investments in banking do not compromise financial stability while fostering economic growth. They create guidelines to monitor ownership structures, management control, and capital adequacy. <em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, regulation is necessary.</span></em></li>\n        <li data-end=\"2112\" data-start=\"2076\"><em><strong>Hence, the correct answer is <span style=\"color: rgb(33, 37, 41);\">Financial stability concerns.</span></strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Foreign Direct Investment (FDI) in Banking Sector:</strong>\n        <ul>\n                <li data-end=\"2410\" data-start=\"2195\"><strong>FDI</strong> in the Indian banking sector is regulated to ensure that foreign investors do not gain undue control over domestic banks, which could potentially destabilize the financial system.</li>\n                <li data-end=\"2684\" data-start=\"2415\"><strong>Investment limits:</strong> Currently, FDI is allowed up to <strong>74%</strong> in private banks (under automatic route up to 49%, and with government approval beyond 49%). In public sector banks, FDI is capped at <strong>20%</strong>.</li>\n        </ul>\n        </li>\n        <li><strong>Reserve Bank of India (RBI):</strong>\n        <ul>\n                <li data-end=\"2860\" data-start=\"2735\"><strong>Established:</strong> RBI was established in <strong>1935</strong> under the Reserve Bank of India Act, 1934.</li>\n                <li data-end=\"3071\" data-start=\"2865\"><strong>Functions:</strong> It regulates banking operations, manages monetary policy, oversees the foreign exchange market, and ensures financial stability in the country.</li>\n        </ul>\n        </li>\n        <li><strong>Department for Promotion of Industry and Internal Trade (DPIIT):</strong>\n        <ul>\n                <li data-end=\"3250\" data-start=\"3076\"><strong>Established:</strong> DPIIT operates under the Ministry of Commerce and Industry, Government of India.</li>\n                <li data-end=\"3402\" data-start=\"3301\"><strong>Functions:</strong> It formulates policies to promote industrial growth, monitors FDI inflow, and ensures adherence to international trade commitments.</li>\n        </ul>\n        </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Dual ownership structure:</strong> While dual ownership structures (where foreign entities and domestic investors co-own banks) exist, they are not the primary concern for joint regulation.</li>\n        <li><strong>Cooperative federalism:</strong> This term is more relevant to governance rather than regulating foreign investments.</li>\n        <li><strong>Fiscal implications:</strong> Although fiscal implications exist, they are not the main reason for joint regulation of foreign investment in banking.</li>\n        <li><strong>Trade commitments:</strong> Trade commitments play a role in determining FDI policies, but financial stability remains the dominant concern.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6988e4be458667c4dbbbb050",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "FPI is considered more volatile than FDI primarily because FPIs are driven by:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Long-term growth prospects",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Policy certainty",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Interest rate differentials",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Management participation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Infrastructure creation",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"\"57\"\" data-start=\"\"0\"\">The correct answer is <u><strong>Interest rate differentials</strong></u>.</p>\n\n<p data-end=\"\"57\"\" data-start=\"\"0\"\"><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Foreign Portfolio Investment (FPI):</strong> FPI involves investment in financial assets such as stocks, bonds, or other financial instruments in another country. It does not involve direct management or control of the companies in which the investment is made.</li>\n        <li><strong>Volatility of FPI:</strong> FPI is considered more volatile than Foreign Direct Investment (FDI) because it is more liquid and can be withdrawn at any time, making it highly sensitive to market conditions and economic changes.</li>\n        <li><strong>Interest Rate Differentials:</strong> One of the primary drivers of FPI flows is the difference in interest rates between countries. Investors tend to move their funds to countries offering higher returns on investments, which are often influenced by interest rates. This makes FPI highly reactive to changes in monetary policy or interest rate fluctuations. <em><span style=\"\"font-weight: bolder;\"\">Hence, this option is correct.</span></em></li>\n        <li><strong>Comparison with FDI:</strong> Unlike FPI, Foreign Direct Investment (FDI) is less volatile because it involves long-term commitments, such as setting up factories, acquiring companies, or entering into joint ventures, which are not easily reversible.</li>\n        <li><strong>Other Factors:</strong> While long-term growth prospects, policy certainty, management participation, and infrastructure creation are important, they are more closely associated with FDI rather than driving factors for the volatility of FPI. Hence, these options are not correct.</li>\n</ul>\n\n<p><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>FPI Characteristics:</strong>\n        <ul>\n                <li>FPI refers to investments in financial assets like stocks, bonds, and mutual funds in a foreign country.</li>\n                <li>It does not provide the investor with significant control over the companies in which they invest.</li>\n                <li>FPI is highly liquid and can be easily bought or sold, making it attractive for short-term investments.</li>\n        </ul>\n        </li>\n        <li><strong>FDI Characteristics:</strong>\n        <ul>\n                <li>FDI involves investment in physical assets like factories, land, and businesses in a foreign country.</li>\n                <li>It typically entails a long-term commitment and provides the investor with a significant degree of control over the operations of the company.</li>\n                <li>FDI is considered more stable compared to FPI, as it is less influenced by short-term market fluctuations and interest rate differentials.</li>\n        </ul>\n        </li>\n        <li><strong>Interest Rate Differentials:</strong>\n        <ul>\n                <li>This refers to the difference in interest rates between two countries.</li>\n                <li>Countries with higher interest rates attract more FPI as investors seek better returns on their investments.</li>\n                <li>Changes in monetary policy, economic conditions, or inflation rates can influence interest rates, leading to fluctuations in FPI flows.</li>\n        </ul>\n        </li>\n</ul>\n\n<p><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Examples of FPI:</strong>\n        <ul>\n                <li>Investments by foreign investors in the Indian stock market.</li>\n                <li>Foreign institutional investors (FIIs) buying shares in Indian companies.</li>\n        </ul>\n        </li>\n        <li><strong>Impact of FPI Volatility:</strong>\n        <ul>\n                <li>Significant inflows of FPI can strengthen a country’s currency, while sudden outflows can lead to currency depreciation.</li>\n                <li>FPI is often influenced by global events, such as changes in the monetary policy of developed countries like the <strong>United States Federal Reserve</strong>.</li>\n        </ul>\n        </li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:56.523Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "testId": "69f9a12f36f3059d7d511ad0",
+  "title": "CT 1: Current Affairs (May 01 - May 15)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Bi - Weekly CA",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 15,
+  "totalDurationMinutes": 10,
+  "totalMarks": 15,
+  "sections": [
+    {
+      "id": "65e08bcb88a67ac9f4e57bb8",
+      "name": "Chapter Test",
+      "durationMinutes": 20,
+      "maxMarks": 15,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "69fd8ee24b49942f6f9222b8",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "According to the Health NSO Survey 2025, what is the share of cardiovascular diseases among the total diseases in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "15.3 per cent",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "25.6 per cent",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "30.1 per cent",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "37.8 per cent",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "20.0 per cent",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>25.6 per cent</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>According to the <strong>Health NSO Survey 2025</strong>, heart disease cases in India have nearly tripled over the last seven years, emerging as the biggest health challenge in the country.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Cardiovascular diseases</strong> account for the highest share of <strong>25.6 per cent</strong> of the total diseases in India, which is higher than all other categories including hormonal disturbances and blood sugar.</li>\n\t<li>The survey reveals a sharp three-fold increase in cardiovascular cases from <strong>1,333 cases per 100,000 population</strong> in 2017-18 to <strong>3,891 cases</strong> in 2025.</li>\n\t<li>Even young individuals in the <strong>15 to 29 years age group</strong> have been found vulnerable, indicating an expanding threat across the population.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Household Social Consumption: Health</strong> survey was conducted by the <strong>National Statistical Organisation (NSO)</strong> between January and December 2025.</li>\n\t<li>The impact of cardiovascular diseases increases with age: it is <strong>15.3 per cent</strong> for the 30-44 years age group, <strong>30.1 per cent</strong> for 45-59 years, and <strong>37.8 per cent</strong> for those over 60 years.</li>\n\t<li>Regarding hospitalisation costs, heart ailments average <strong>Rs 69,451</strong> in urban areas, making them more expensive than infections and respiratory diseases, though less expensive than cancer (<strong>Rs 1,04,424</strong>) and kidney failure (<strong>Rs 71,246</strong>).</li>\n\t<li>In rural areas, heart disease treatments cost an average of <strong>Rs 47,135</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The report marks a concerning decrease in infection-related diseases alongside a significant rise in non-communicable lifestyle diseases like heart ailments.</li>\n\t<li>Data clearly shows that hospitalisations due to heart diseases in cities are higher than in rural areas, with the share of men being notably higher than that of women in both demographical segments.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a070abf7367fdb9ffd91b55",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which globally recognized standards body recently accredited O.P. Jindal Global University (JGU), making it the first Institution of Eminence in India to receive this distinction for its AI and data science programmes?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Data Science Council of America (DASCA)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "World Data Science &amp; AI Initiative (WDSAI)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "DASCA Professional Certification Board (DPCB)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ethics Control Council (ECC)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "AI Board of India",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Data Science Council of America (DASCA)</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>O.P. Jindal Global University (JGU)</strong>, located in Sonipat, Haryana, has become the first <strong>Institution of Eminence</strong> in India to be accredited by the <strong>Data Science Council of America (DASCA)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Data Science Council of America (DASCA):</strong> This is the globally recognized standards and accreditation body that establishes industry-aligned benchmarks for educational programmes in data science, artificial intelligence, and analytics. It directly awarded the accreditation to JGU.</li>\n\t<li><strong>World Data Science &amp; AI Initiative (WDSAI):</strong> While relevant, WDSAI is a global platform led by DASCA under which the accreditation was awarded, rather than the primary accrediting body itself. It supports universities in adopting internationally benchmarked standards.</li>\n\t<li><strong>DASCA Professional Certification Board (DPCB) and Ethics Control Council (ECC):</strong> These entities are responsible for ensuring the rigor and ethical standards of the accredited programmes, not the primary institutions granting the university-wide accreditation.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Accredited Programmes:</strong> Seven of JGU&#39;s flagship AI and Data Science-related programmes have been aligned with <strong>DASCA standards</strong>. These include M.Sc. in AI &amp; Data Science, B.A. in AI &amp; Law, BBA (Hons.) Business Analytics, M.Des. (AI-powered UX), and three distinct MBA specializations.</li>\n\t<li><strong>Validity of Accreditation:</strong> The accreditation spans residential, non-residential, and online delivery formats, and it is valid through the year <strong>2031</strong>.</li>\n\t<li><strong>Interdisciplinary Approach:</strong> According to Prof. Padmanabha Ramanujam, JGU&#39;s approach integrates technical expertise with critical thinking, ethical reasoning, and domain-specific knowledge.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The achievement firmly positions <strong>O.P. Jindal Global University</strong> at the forefront of the integration of artificial intelligence and data science into the academic ecosystem.</li>\n\t<li>It signals to learners and employers globally that JGU is prepared to equip its students for the realities of an <strong>AI-driven world economy</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69fd8ec65eafc4feea08bdab",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Where will the headquarters of the newly notified South Coast Railway zone be located?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Vijayawada",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Secunderabad",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Visakhapatnam",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Bhubaneswar",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Tirupati",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Visakhapatnam</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Union Government</strong> has officially notified the creation of a new zonal railway, the <strong>South Coast Railway (SCoR)</strong>, with its headquarters situated in <strong>Visakhapatnam, Andhra Pradesh.</strong></li>\n\t<li>The new railway zone is set to become operational effective <strong>June 1, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>New Zone Creation:</strong> The <strong>South Coast Railway</strong> has been carved out of the existing <strong>East Coast Railway (ECoR)</strong> and <strong>South Central Railway (SCR)</strong> zones.</li>\n\t<li><strong>Statutory Backing:</strong> It was established under sub-section (4) of Section 3 of the <strong>Railways Act, 1989</strong>.</li>\n\t<li><strong>Headquarters:</strong> The headquarters of the newly formed SCoR will be in <strong>Visakhapatnam</strong>. Thus, making Visakhapatnam the correct answer.</li>\n\t<li><strong>Divisions under SCoR:</strong> It will comprise the existing <strong>Guntakal</strong>, <strong>Guntur</strong>, and <strong>Vijayawada</strong> divisions of the South Central Railway, and a truncated <strong>Waltair division</strong> (renamed as the <strong>Visakhapatnam division</strong>).</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>East Coast Railway (ECoR):</strong> Headquartered at <strong>Bhubaneswar</strong>, ECoR will retain the <strong>Sambalpur division</strong>, the reorganised <strong>Khurda Road division</strong>, and the newly constituted <strong>Rayagada division</strong>.</li>\n\t<li><strong>South Central Railway (SCR):</strong> Headquartered at <strong>Secunderabad</strong>, SCR will retain the existing <strong>Hyderabad</strong> and <strong>Nanded</strong> divisions along with a reorganised <strong>Secunderabad division</strong>.</li>\n\t<li><strong>Jurisdictional Adjustments:</strong> The Central Government has adjusted the boundaries of various divisions across SCoR, ECoR, and SCR based on operational requirements, effective <strong>June 1, 2026</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Bifurcation of Waltair Division:</strong> The existing <strong>Waltair division</strong> of ECoR is being split. One part forms the new <strong>Rayagada division</strong> under ECoR, while the remaining portion forms the <strong>Visakhapatnam division</strong> under SCoR.</li>\n\t<li><strong>Goal:</strong> The creation of this new zone is expected to significantly improve <strong>regional connectivity</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a070ad4e36bbd77c1614dd8",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the recently commissioned Indian Coast Guard Ship (ICGS) Achal:<br />\n<br />\n1. It is the latest vessel in the new-generation Adamya-class Fast Patrol Vessel series.<br />\n2. It incorporates more than 50 percent indigenous components.<br />\n3. It was formally commissioned into service by the Defence Minister of India.<br />\n<br />\nWhich of the statements given above is/are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 2 and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 1 and 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All 1, 2, and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only Statement 1",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only 1 and 2</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Indian Coast Guard</strong> marked a significant enhancement in its operational capability with the commissioning of <strong>Indian Coast Guard Ship (ICGS) Achal</strong> on <strong>May 09, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement 1 is correct</strong>: <strong>ICGS Achal</strong> is the latest vessel in the new-generation <strong>Adamya-class Fast Patrol Vessel</strong> series.</li>\n\t<li><strong>Statement 2 is correct</strong>: Representing a significant milestone in India&rsquo;s shipbuilding capabilities, the vessel incorporates <strong>more than 50 percent indigenous components</strong>.</li>\n\t<li><strong>Statement 3 is incorrect</strong>: The ship was formally commissioned into service by <strong>Shri A. Anbarasu</strong>, Additional Secretary &amp; Director General (Acquisition), Ministry of Defence, and not the Defence Minister.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The name <strong>Achal</strong> translates to <strong>&lsquo;firm&rsquo;</strong>, symbolizing steadfast commitment to safeguarding national maritime interests.</li>\n\t<li>The vessel was designed and built indigenously by <strong>Goa Shipyard Limited</strong>.</li>\n\t<li>It will undertake a wide spectrum of maritime operations, including coastal surveillance, <strong>Search and Rescue (SAR)</strong>, <strong>anti-smuggling operations</strong>, and <strong>marine pollution response</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The development of the vessel aligns with the <strong>Government of India&rsquo;s Atmanirbhar Bharat</strong> and <strong>Make in India</strong> initiatives.</li>\n\t<li>The commissioning ceremony took place in the presence of <strong>Inspector General Tekur Sashi Kumar</strong>, Commander, Coast Guard Region (North-West).</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69fd8eb6d12a1e9429c328ec",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the rare diseases management initiatives highlighted during the recent National Conference on Rare Diseases:<br />\n<br />\nI. The National Policy for Rare Diseases, launched in 2021, categorizes rare diseases into three groups based on treatment requirements and cost implications.<br />\nII. Financial assistance for patients across all categories of rare diseases has been enhanced from ₹20 lakh to ₹50 lakh.<br />\nIII. The number of Centres of Excellence (CoEs) for the diagnosis and treatment of rare diseases has been expanded to 20.<br />\n<br />\nWhich of the statements given above is/are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I and II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II and III",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only I and III",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All I, II, and III",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only I and II</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Union Ministry of Health and Family Welfare</strong> inaugurated a 2-day <strong>National Conference on Rare Diseases</strong> in <strong>New Delhi</strong> on <strong>5th and 6th May 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement I is correct:</strong> The need for addressing rare diseases was institutionalized through the launch of the <strong>National Policy for Rare Diseases in 2021</strong>. It categorizes rare diseases into <strong>three groups</strong> based on treatment requirements and cost implications, enabling a structured approach to care.</li>\n\t<li><strong>Statement II is correct:</strong> In August 2022, the Ministry significantly enhanced the financial assistance for patients across all categories of rare diseases from <strong>₹20 lakh to ₹50 lakh</strong>.</li>\n\t<li><strong>Statement III is incorrect:</strong> To strengthen institutional capacity for diagnosis and treatment, the number of <strong>Centres of Excellence (CoEs)</strong> has been expanded from <strong>8 to 15</strong> across multiple States and Union Territories (including two in <strong>North-East India</strong>), not 20.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Unique Methods for Management of Inherited Disorders (UMMID)</strong> initiative, through its <strong>NIDAN Kendras</strong>, is operationalizing genetic counselling services, successfully supporting around <strong>1,800 patients</strong> under the policy.</li>\n\t<li>Most rare diseases are genetic and manifest early in life, with nearly <strong>50% of new cases occurring in children</strong>.</li>\n\t<li>The <strong>Indian Council of Medical Research (ICMR)</strong> has identified <strong>six repurposed drugs</strong> to improve outcomes for rare diseases and is actively advancing frontier technologies like <strong>CAR-T cell therapy</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The <strong>Government of India</strong> has proactively exempted life-saving drugs for rare diseases from basic customs duty to improve accessibility and affordability.</li>\n\t<li>In <strong>2026</strong>, over <strong>50 sensitization workshops</strong> were conducted nationwide by CoEs in collaboration with the Ministry to enhance awareness and stakeholder coordination.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a070abe0843aa0a73b3df88",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Who assumed charge as the Chairman &amp; Managing Director (CMD) of Steel Authority of India Limited (SAIL) in May 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Dr. Ashok Kumar Panda",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Dr. Sandeep Kumar Gupta",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Dr. Rajesh Kumar Singh",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Dr. Anil Kumar Jain",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Soma Mondal",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Dr. Ashok Kumar Panda</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Dr. Ashok Kumar Panda</strong> assumed charge as the <strong>Chairman &amp; Managing Director (CMD)</strong> of <strong>Steel Authority of India Limited (SAIL)</strong> on <strong>09 May, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Dr. Ashok Kumar Panda</strong> previously served as the <strong>Director (Finance)</strong> of the company and held the additional charge of <strong>Director (Commercial)</strong> for about nine months prior to this appointment.</li>\n\t<li>He began his journey with <strong>SAIL</strong> in <strong>1992</strong> as a <strong>Management Trainee (Technical)</strong> after completing his B.E. in Electrical Engineering.</li>\n\t<li>Over three decades, he has held diverse responsibilities across multiple plants, gaining extensive experience in operational, financial, and commercial domains, directly making him the correct appointee for the top leadership position.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>During his tenure as <strong>Director (Finance)</strong>, Dr. Panda spearheaded strategic initiatives aimed at improving <strong>operational efficiency</strong> and <strong>profitability</strong>.</li>\n\t<li>In his role as <strong>Director (Commercial)</strong>, he focused on enhancing <strong>Net Sales Realisation (NSR)</strong>, reducing inventory levels, and strengthening product branding.</li>\n\t<li>He is widely respected as a people-centric leader with an inclusive leadership style and strong execution capabilities.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Capacity Expansion:</strong> Upon assuming charge, Dr. Panda outlined that <strong>SAIL</strong> is on track for its next phase of capacity expansion to <strong>35 MTPA</strong>.</li>\n\t<li><strong>Strategic Priorities:</strong> His immediate priorities for the company include placing the highest priority on <strong>safety</strong> across workplaces and strengthening <strong>raw material security</strong> through domestic mining and exploration of overseas assets.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69fd8ebe323442aeb137f02e",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Consider the following statements regarding World Asthma Day:</p>\n\n<p>I. It is observed every year on the first Tuesday of May.</p>\n\n<p>II. It was started in 1998 by the World Health Organization (WHO).</p>\n\n<p>III. The theme for 2026 is &ldquo;Access to anti-inflammatory inhalers for everyone with asthma, still an urgent need.&rdquo;</p>\n\n<p>Which of the statements given above is/are correct?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I and II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only I and III",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only II and III",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All I, II, and III",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only I",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only I and III</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>World Asthma Day</strong> will be observed on <strong>5 May 2026</strong>, focusing on making anti-inflammatory inhalers accessible to everyone globally.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement I is correct:</strong> World Asthma Day is observed every year on the <strong>first Tuesday of May</strong> across the world. In 2026, it falls on <strong>5 May</strong>.</li>\n\t<li><strong>Statement II is incorrect:</strong> The day was started in <strong>1998</strong> by the <strong>Global Initiative for Asthma (GINA)</strong>, not the World Health Organization (WHO), with the sole aim of improving asthma awareness and care globally.</li>\n\t<li><strong>Statement III is correct:</strong> The theme for 2026 is <strong>&ldquo;Access to anti-inflammatory inhalers for everyone with asthma, still an urgent need.&rdquo;</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Asthma</strong> is a chronic condition that affects the <strong>airways</strong>, making it difficult to breathe.</li>\n\t<li>Common <strong>asthma symptoms</strong> include <strong>shortness of breath</strong>, <strong>wheezing cough</strong>, <strong>tightness in the chest</strong>, and <strong>coughing at night</strong>.</li>\n\t<li>Uneasiness or difficulty breathing after <strong>exercise</strong> and repeated cases of <strong>chest infections</strong> are also common triggers and symptoms for asthma patients.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The 2026 theme emphasizes closing the <strong>global healthcare gap</strong> by ensuring access to essential medications regardless of a patient&#39;s <strong>geographic location</strong> or <strong>economic background</strong>.</li>\n\t<li><strong>GINA</strong> encourages governments and healthcare organizations to work collectively for better asthma management globally so that no one is denied necessary care.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a0703a30843aa0a73b34ff1",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "What is the theme of India&rsquo;s Chairship for the Kimberley Process in 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Credibility, compliance, and consumer confidence",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Conflict-free, cooperation, and community support",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Certification, commerce, and climate resilience",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Coordination, capacity building, and customs clearance",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sustainability/Growth",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Credibility, compliance, and consumer confidence</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Ministry of Commerce &amp; Industry</strong> announced that India hosted the <strong>Kimberley Process Intersessional Meeting 2026</strong> in <strong>Mumbai</strong> from May 11 to May 14, 2026.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>India&#39;s Chairship theme for 2026:</strong> The primary focus of the 2026 Chairship revolves around the <strong>3Cs &mdash; credibility, compliance, and consumer confidence</strong> in the natural diamond sector.</li>\n\t<li>This theme places a strong emphasis on strengthening the future of responsibly sourced natural diamonds through constructive dialogue and international collaboration.</li>\n\t<li><strong>KP Chair 2026:</strong> Addressing the gathering, <strong>Shri Suchindra Misra</strong> highlighted that natural diamonds represent a sustainable product and the Kimberley Process remains one of the most progressive certification systems globally.</li>\n\t<li>The deliberations focused on the <strong>implementation of the Kimberley Process Certification Scheme</strong>, monitoring and compliance mechanisms, artisanal and alluvial diamond production, and statistics.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Kimberley Process Certification Scheme (KPCS):</strong> It was established pursuant to the <strong>United Nations General Assembly Resolution 55/56 (2000)</strong>.</li>\n\t<li>The primary aim of KPCS is to prevent the flow of <strong>conflict diamonds</strong> into the legitimate global diamond trade.</li>\n\t<li><strong>Global Participation:</strong> At present, the Kimberley Process has <strong>60 Participants</strong> representing <strong>86 countries</strong>. The <strong>European Union</strong> and its Member States participate as a single bloc.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>India&#39;s Strategic Role:</strong> India formally assumed the Chairship of the Kimberley Process on <strong>January 1, 2026</strong>, reaffirming its deep commitment to transparency and responsible sourcing.</li>\n\t<li>India holds a prominent position globally as one of the world&#39;s leading centres for <strong>diamond cutting and polishing</strong>, thereby playing a critical role in advancing the objectives of the Kimberley Process.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69fd8ebf64090717a6f6aee2",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Who among the following Indian educators has been announced as the regional winner for South Asia in the 2026 Cambridge Dedicated Teacher Awards?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Soma Mandal",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Aisha Kiran",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Joanne Newman",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Shingang Ding",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rajesh Kumar",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Soma Mandal</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Soma Mandal</strong>, an Indian science teacher, has been announced as the regional winner for <strong>South Asia</strong> in the <strong>2026 Cambridge Dedicated Teacher Awards</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Soma Mandal</strong> was recognised for her outstanding work in encouraging students to actively engage with environmental issues and take part in the fight against <strong>climate change</strong>.</li>\n\t<li>She is one of the <strong>nine regional winners</strong> selected this year globally by the <strong>International Education group at Cambridge University Press &amp; Assessment</strong>.</li>\n\t<li><strong>Other Options Context:</strong>\n\t<ul>\n\t\t<li><strong>Aisha Kiran</strong> is the regional winner representing <strong>Pakistan</strong>.</li>\n\t\t<li><strong>Joanne Newman</strong> is the regional winner representing <strong>Saudi Arabia</strong>.</li>\n\t\t<li><strong>Shingang Ding</strong> is the regional winner representing <strong>China</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Cambridge Dedicated Teacher Awards</strong> are organised to recognise outstanding teachers globally. For the 2026 edition, more than <strong>12,000 nominations</strong> were received from <strong>126 countries</strong>.</li>\n\t<li>From the initial nominations, judges shortlisted <strong>90 teachers</strong>, and from that list, <strong>nine</strong> were selected as regional winners.</li>\n\t<li>One of these nine teachers will go on to become the overall global winner, chosen through <strong>public voting</strong>.</li>\n\t<li><strong>Rewards:</strong> The regional winners will receive <strong>&pound;500 worth of books</strong> for their class, a trophy, and publicity for their school over the coming year. Their names will also appear on a &ldquo;Thank you&rdquo; page in new <strong>Cambridge textbooks</strong>, which will be released in <strong>November 2026</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Soma Mandal</strong> represents <strong>India</strong> and the <strong>South Asia</strong> region at the <strong>2026 Cambridge Dedicated Teacher Awards</strong>, empowering young learners to explore climate challenges and develop practical solutions.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a0703a6bdc490e56e51f14f",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "What is the next port of call for IOS Sagar after its departure from Chattogram, Bangladesh?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Male, Maldives",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Colombo, Sri Lanka",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Yangon, Myanmar",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Port Blair, India",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Mauritius",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Colombo, Sri Lanka</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Indian Navy&rsquo;s <strong>INS Sunayna</strong>, deployed under the <strong>Indian Ocean Ship (IOS) SAGAR</strong> initiative, departed <strong>Chattogram, Bangladesh</strong>, on <strong>10 May 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>After a successful port call in <strong>Bangladesh</strong>, <strong>IOS Sagar</strong> is presently enroute to its next port of call at <strong>Colombo, Sri Lanka</strong>.</li>\n\t<li>The visit to <strong>Bangladesh</strong> was marked by professional engagements, maritime cooperation, and cultural exchanges with the <strong>Bangladesh Navy (BN)</strong>.</li>\n\t<li>Therefore, the correct destination for the ship&#39;s continued operational deployment is <strong>Colombo, Sri Lanka</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>During the visit, the Commanding Officer called on senior officials including the <strong>Commander BN Fleet (COMBAN)</strong> and <strong>Commander Chattogram Naval Area (COMCHIT)</strong>.</li>\n\t<li>The crew visited the <strong>Bangladesh Naval Academy</strong> and interacted with officer cadets and faculty members.</li>\n\t<li>Personnel from <strong>16 partner nations</strong> were embarked onboard <strong>IOS Sagar</strong> during this operational deployment.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>On departure, <strong>IOS Sagar</strong> participated in a <strong>Passage Exercise (PASSEX)</strong> with <strong>BNS Protoy</strong> and <strong>Bangladesh Navy</strong> air assets to enhance interoperability.</li>\n\t<li>The exercise included coordinated maritime drills and advanced surface manoeuvres aimed at enhancing operational cooperation.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69fd8ec21ea2c9c16f918afb",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "Which yoga posture was performed by over 6,000 participants at the Yoga Mahotsav in Hyderabad to set a new Asia Book of Records?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Tadasana",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Bhujangasana",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Vrikshasana",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Padmasana",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Surya Namaskar",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Bhujangasana</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Over <strong>6,000 participants</strong> performed <strong>Bhujangasana</strong> to set an <strong>Asia Book of Records</strong> milestone during the <strong>Yoga Mahotsav</strong> in <strong>Hyderabad</strong>.</li>\n\t<li>The event marked the <strong>50-day countdown</strong> to the <strong>International Day of Yoga (IDY) 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Bhujangasana Record:</strong> Over <strong>6,000 enthusiasts</strong> performed <strong>Bhujangasana</strong> in unison at the serene spiritual centre, <strong>Kanha Shanti Vanam</strong>.</li>\n\t<li><strong>Historic Milestone:</strong> This simultaneous performance entered the <strong>Asia Book of Records</strong> for the largest gathering performing the asana simultaneously, reflecting the spirit of collective participation.</li>\n\t<li><strong>Organisers:</strong> The event was organised by the <strong>Morarji Desai National Institute of Yoga (MDNIY)</strong> under the <strong>Ministry of Ayush</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Upcoming Event:</strong> The next <strong>Yoga Mahotsav</strong>, marking the <strong>25-day countdown</strong> to <strong>IDY 2026</strong>, will be organised at <strong>Khajuraho, Madhya Pradesh</strong>.</li>\n\t<li><strong>Yoga 365 Campaign:</strong> The <strong>Ministry of Ayush</strong>, in collaboration with <strong>Habuild</strong> and <strong>MDNIY</strong>, launched this initiative to encourage citizens to make Yoga an integral part of their daily lives.</li>\n\t<li><strong>Free Training:</strong> A 100-day free Yoga training programme is being conducted until <strong>June 21</strong>, offering <strong>Yog Mitra certification</strong> to over one lakh individuals.</li>\n\t<li><strong>Global Presence:</strong> Dignitaries from over <strong>20 countries</strong> participated, and yoga sessions are planned over six months during the <strong>World Expo 2025</strong> in <strong>Osaka, Japan</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>Union Minister <strong>Shri G. Kishan Reddy</strong> emphasized that Hyderabad should emerge as a <strong>global hub for Yoga and holistic wellness</strong>.</li>\n\t<li><strong>Shri Prataprao Jadhav</strong> highlighted that Yoga offers a practical solution to modern-day challenges and is a key to building a <strong>Viksit Bharat by 2047</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a0703aa35778908584013ad",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "With which organisation has the National University of Singapore&#39;s Institute of Systems Science (NUS-ISS) signed an MoU to build AI governance and digital leadership capacity for Indian enterprises?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Federation of Indian Chambers of Commerce &amp; Industry (FICCI)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "National Association of Software and Service Companies (NASSCOM)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Confederation of Indian Industry (CII)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Associated Chambers of Commerce and Industry of India (ASSOCHAM)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "SIDBI",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Confederation of Indian Industry (CII)</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Confederation of Indian Industry (CII)</strong> and <strong>NUS-ISS</strong> of the <strong>National University of Singapore</strong> have signed a strategic <strong>Memorandum of Understanding (MoU)</strong>.</li>\n\t<li>The partnership aims to advance <strong>digital leadership</strong> and responsible <strong>AI governance</strong> among Indian enterprises through an exclusive executive certification programme.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Joint Programme Delivery:</strong> Under the agreement, <strong>CII</strong> and <strong>NUS-ISS</strong> will jointly deliver the <strong>\"Leadership Programme on Artificial Intelligence and Governance\"</strong>.</li>\n\t<li><strong>Target Audience:</strong> The capacity-building programme is tailored to equip <strong>board members, CXOs, and senior decision-makers</strong> with insights into AI, digital governance, innovation leadership, and cybersecurity.</li>\n\t<li><strong>Future Goals:</strong> The initiative formalises and expands upon pilot runs, planning half-yearly programmes in <strong>2026, 2027, and 2028</strong>, with a target to train over <strong>100 executives</strong> by the end of <strong>2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Event Details:</strong> The MoU was exchanged at the <strong>CII Annual Business Summit 2026</strong> in <strong>New Delhi</strong>.</li>\n\t<li><strong>Key Attendees:</strong> Exchanged in the presence of Andhra Pradesh Chief Minister <strong>N Chandrababu Naidu</strong>, Singapore High Commissioner to India <strong>Simon Wong</strong>, and CII President <strong>Rajiv Memani</strong>.</li>\n\t<li><strong>Anchoring Hub:</strong> The <strong>CII Global Leadership Centre</strong> located in <strong>Amaravati, Andhra Pradesh</strong>, will anchor these joint programmes on leadership and digitalisation.</li>\n\t<li><strong>Strategic Alignment:</strong> The initiative complements the <strong>&#39;Digitalisation&#39;</strong> and <strong>&#39;Skilling&#39;</strong> pillars under the <strong>Comprehensive Strategic Partnership</strong> between <strong>India and Singapore</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Previous Success:</strong> The initiative builds on three successful pilot editions held in <strong>Singapore</strong> (Nov 2024, May 2025, Nov 2025), which trained more than <strong>65 Indian industry executives</strong>.</li>\n\t<li><strong>About NUS-ISS:</strong> Established in <strong>1981</strong>, the institute has trained over <strong>210,000 digital leaders</strong> and professionals from more than <strong>9,400 corporate organisations</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69fd8ed1aafcb82775bf661f",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "<p>Consider the following statements regarding the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0 approved by the Union Cabinet:</p>\n\n<p>I. It aims to provide credit guarantee coverage of 100% for MSMEs and 90% for non-MSMEs as well as the airline sector.</p>\n\n<p>II. It targets a total additional credit flow of Rs. 2,55,000 crore, which includes Rs. 5,000 crore for airlines.</p>\n\n<p>III. The tenor of the loan for MSMEs and non-MSMEs is 7 years from the date of the first disbursement, including a moratorium of 2 years.</p>\n\n<p>Which of the statements given above is/are correct?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I and II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II and III",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only I and III",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All I, II, and III",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only I and II</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Union Cabinet</strong>, chaired by the <strong>Prime Minister Shri Narendra Modi</strong>, has approved the <strong>Emergency Credit Line Guarantee Scheme (ECLGS) 5.0</strong>.</li>\n\t<li>The scheme provides crucial credit support to eligible business borrowers and airlines to manage short-term liquidity mismatches due to the <strong>West Asia Crisis</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement I is correct:</strong> The scheme guarantees <strong>100% coverage for MSMEs</strong> and <strong>90% coverage for non-MSMEs</strong>, as well as the <strong>airline sector</strong>.</li>\n\t<li><strong>Statement II is correct:</strong> It targets a total additional credit flow of <strong>Rs. 2,55,000 crore</strong>, which explicitly includes <strong>Rs. 5,000 crore</strong> allocated for the airline sector.</li>\n\t<li><strong>Statement III is incorrect:</strong> The tenor of the loan for <strong>MSMEs and non-MSMEs</strong> (excluding the airline sector) is <strong>5 years</strong> from the date of the first disbursement, which includes a <strong>moratorium of 1 year</strong>. The 7-year tenor with a 2-year moratorium is strictly for the <strong>airline sector</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The credit guarantee coverage is provided through the <strong>National Credit Guarantee Trustee Company Limited (NCGTC)</strong> to <strong>Member Lending Institutions (MLIs)</strong>.</li>\n\t<li>Eligible borrowers are those with existing working capital limits and standard accounts as of <strong>March 31, 2026</strong>.</li>\n\t<li>The duration of the scheme covers all loans sanctioned up to <strong>March 31, 2027</strong>, and the <strong>Guarantee Fee is Nil</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Quantum of Support:</strong> For businesses, it is up to <strong>20% of peak working capital</strong> utilized during <strong>Q4 FY 26</strong>, capped at <strong>Rs. 100 crore</strong>.</li>\n\t<li>For airlines, the additional credit goes up to <strong>100%</strong>, capped at <strong>Rs. 1,500 crore per borrower</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a070ac23be2b64c7d0a3bf3",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the India-Africa relationship and the India-Africa Forum Summit (IAFS):<br />\n<br />\nStatement I: The 4th India-Africa Forum Summit is scheduled to be hosted by New Delhi on May 31, succeeding the previous summit which was held in 2015.<br />\nStatement II: Bilateral trade between India and Africa currently stands at around $85 billion, and 39 African nations have already joined the International Solar Alliance.<br />\n<br />\nWhich of the above statements is/are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Statement I only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Statement II only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both Statement I and Statement II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neither Statement I nor Statement II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only trade data",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Both Statement I and Statement II</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>New Delhi</strong> is preparing to host the <strong>4th India-Africa Forum Summit (IAFS)</strong> after a decade, signaling a renewed push to strengthen India&rsquo;s engagement with <strong>Africa</strong> amid intensifying geopolitical competition.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement I is correct</strong>: The <strong>4th India-Africa Forum Summit (IAFS)</strong> is scheduled for <strong>May 31</strong> in <strong>New Delhi</strong>. This comes after a significant gap of a decade, as the previous summit was held in <strong>2015</strong>. The process was primarily disrupted due to the Covid-19 pandemic and shifting global priorities.</li>\n\t<li><strong>Statement II is correct</strong>: Africa is a strategically important partner for India. The current <strong>bilateral trade stands at around $85 billion</strong>. Furthermore, indicating strong energy and developmental cooperation, <strong>39 African nations</strong> have officially joined the <strong>International Solar Alliance (ISA)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Over the past decade, India has opened <strong>17 new diplomatic missions</strong> in Africa, taking its total diplomatic presence to <strong>46 countries</strong>.</li>\n\t<li>The African continent accounts for nearly <strong>10 per cent</strong> of <strong>India&rsquo;s energy imports</strong>.</li>\n\t<li>India contributes approximately <strong>5,000 peacekeepers</strong> to various <strong>UN missions in Africa</strong>.</li>\n\t<li><strong>Digital cooperation framework agreements</strong> have been signed by India with <strong>seven African countries</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The main summit on <strong>May 31</strong> will be preceded by <strong>senior officials&rsquo; meetings on May 28</strong> and a <strong>foreign ministers&rsquo; meeting on May 29</strong>.</li>\n\t<li>Following the summit, a high-profile <strong>International Big Cat Alliance meeting</strong> is scheduled on <strong>June 1</strong>, involving several African nations.</li>\n\t<li>Other engagements planned alongside the summit include <strong>think tank dialogues</strong> and an <strong>India-Africa Film Festival</strong>.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69fd8edc407a115b9acc7aaf",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the 1st International Big Cat Alliance (IBCA) Summit:<br><br>1. The summit is scheduled to be hosted by India in June 2026 in New Delhi.<br>2. The IBCA has been established exclusively for the conservation of five big cats: Lion, Tiger, Leopard, Cheetah, and Jaguar.<br>3. A key outcome of the summit will be the adoption of the first-ever global declaration on big cat conservation, titled the ‘Delhi Declaration’.<br><br>Which of the statements given above is/are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 2 and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 1 and 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All 1, 2, and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only 1 and 3</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Environment Minister launched the website and logo for the <strong>1st International Big Cat Alliance (IBCA) Summit 2026</strong>, to be held in <strong>New Delhi</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Statement 1 is correct</strong>: <strong>India</strong> will host the first <strong>IBCA Summit</strong> on <strong>1st – 2nd June 2026</strong> in <strong>New Delhi</strong>.</li><li><strong>Statement 2 is incorrect</strong>: The <strong>IBCA</strong> has been established for the conservation of <strong>seven big cats</strong> - <strong>Lion, Tiger, Leopard, Snow Leopard, Cheetah, Jaguar, and Puma</strong>, not five.</li><li><strong>Statement 3 is correct</strong>: A key outcome of the Summit would be the adoption of the first-ever global declaration on big cat conservation, titled the <strong>‘Delhi Declaration’</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The Summit is guided by the theme <strong>‘Save Big Cats, Save Humanity, Save Ecosystem’</strong>.</li><li>The <strong>IBCA</strong> is an inter-governmental international organisation headquartered in <strong>India</strong>, launched in <strong>2023</strong> by Prime Minister <strong>Shri Narendra Modi</strong>.</li><li>The logo of the summit features the <strong>seven big cat species</strong> at its core, encircled by a <strong>lotus-inspired design</strong> representing the five elements of nature.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>Union Minister for Environment, Forest and Climate Change: <strong>Shri Bhupender Yadav</strong></li></ul>",
+          "topic": "Chapter Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:26.076Z",
+    "solutionsCount": 15,
+    "isComplete": true
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0b948299c153af0e40c",
+  "title": "CT 17: General Awareness (Money Supply)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5fd3605ec59dd0a44873c989",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Value of a fiat money is defined by_____.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Government order",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Central bank",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Market&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "International Scenarios",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is: <u><strong>Government Orders</strong></u></p>\n\n<p><strong>Fiat money</strong></p>\n\n<ul>\n\t<li>The value of fiat money is defined from a government order (i.e. fiat) which means, the government decides fiat money be legal tender, which needs all individuals and firms within boundaries of the country to accept it as a means of payment. If they decline to do so, they can be fined or even put in prison by the law.</li>\n\t<li>Fiat money is not assured by any physical commodity like in commodity money. By definition, its intrinsic value is significantly lower than its face value. Therefore, the real value of fiat money is defined from the graph between supply and demand. In reality, many of the economies in the modern era are based on a fiat money system.</li>\n\t<li>Examples of fiat money are coins and bills.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5b168582be91960c246f4acd",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "What is the effect of increasing Reverse Repo Rate on money supply in the market?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Money supply will get doubled",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Money supply will increase",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Money supply will decrease",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "No effect on Money Supply",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Money supply will get halved",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Reverse repo rate is the rate at which the Reserve Bank of India (in case of India) borrows money from commercial banks. An increase in the reverse repo rate will decrease the money supply in the market.",
+          "topic": "Test"
+        },
+        {
+          "id": "5b4708507de5572fcfbfae2d",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which one of the following is not a method used by Central Monetary Authority to control Money Supply in the country?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Open Market Operations",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Reserve Ratio Requirement",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Discount Rate",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1 &amp; 3 Only",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All are used as methods to control money supply",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Options 1, 2 and 3 are the monetary supply instruments used by the Central Banks to regulate the money supply in the country. Open Market Operations is used more than the other two due to economic constraints but all of these 3 play an important role in a different manner.",
+          "topic": "Test"
+        },
+        {
+          "id": "6996cb253384fd54bea83f53",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Which type of money is declared by the government to be legal tender, requiring acceptance for all debts, public and private?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Fiduciary Money",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Commodity Money",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Fiat Money",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Commercial Bank Money",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Fiat Money.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Fiat money derives value from a government decree as legal tender, lacking intrinsic commodity backing.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Fiat currency</strong> gains acceptance through a government order mandating its use for settling public and private debts within jurisdiction.</li>\n\t<li>Unlike commodity money, fiat possesses no intrinsic value, deriving purchasing power solely from public confidence and legal status.</li>\n\t<li>Central banks control money supply through fiat mechanisms like open market operations and reserve requirements.</li>\n\t<li>Legal tender laws compel creditors to accept fiat currency for debt repayment up to specified denominations.</li>\n\t<li>Fiat systems enable flexible monetary policy implementation to manage inflation, employment, and economic growth objectives.</li>\n\t<li>Historical transitions from gold standards to fiat regimes occurred during 20th century to accommodate expanding economies.</li>\n\t<li>Modern digital fiat includes central bank digital currencies maintaining legal tender characteristics in electronic form.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><u><strong>Legal Tender</strong></u> constitutes official medium of payment that cannot be refused for settling obligations by law.\n\n\t<ul>\n\t\t<li>India: Section 26 of RBI Act 1934</li>\n\t\t<li>Unlimited for coins up to Rs. 1,000</li>\n\t</ul>\n\t</li>\n\t<li>Commodity money like gold/silver possesses intrinsic value independent of government declaration.</li>\n\t<li>Fiduciary money includes cheques and drafts redeemable in standard money on demand.</li>\n\t<li>Hyperinflation risks arise when excessive fiat printing erodes public confidence in currency value.</li>\n\t<li>Seigniorage represents government&#39;s profit from producing currency at minimal cost relative to face value.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5d455fc3fdb8bb4da7a3cea4",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "_______ is a tool used in monetary policy, primarily by the Reserve Bank of India (RBI), that allows banks to borrow money through repurchase agreements.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Liquidity Adjustment Facility",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Current Reserve ratio",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Statutory Liquidity Ratio",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Repo Rate",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><u><strong>Liquid Adjustment Facility</strong></u> is a tool used in monetary policy, primarily by the Reserve Bank of India (RBI), that allows banks to borrow money through repurchase agreements.</li>\n\t<li>The RBI introduced the LAF as a result of the Narasimham Committee on Banking Sector Reforms (1998).</li>\n\t<li>Liquidity adjustment facilities are used to aid banks in resolving any short-term cash shortages during periods of economic instability or from any other form of stress caused by forces beyond their control.</li>\n\t<li>Various banks use eligible securities as collateral through a repo agreement and use the funds to alleviate their short-term requirements, thus remaining stable.</li>\n\t<li>The RBI can use the liquidity adjustment facility to manage high levels of inflation. It does so by increasing the repo rate, which raises the cost of servicing debt. This, in turn, reduces investment and money supply in India&rsquo;s economy.</li>\n\t<li>Cash Reserve Ratio (CRR) is the amount of funds that banks have to maintain with the Reserve Bank of India (RBI) at all times.</li>\n\t<li>SLR is the ratio of deposit that the bank needs to maintain with them.</li>\n\t<li>Repo rate also known as the benchmark interest rate is the rate at which the RBI lends money to the banks for a short term.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69dff7418ad7f69a4e5db0fa",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Supply-side bottlenecks can constrain growth even when demand conditions are supportive. A supply-side bottleneck is best described as:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a constraint in production capacity, logistics, energy, skills, or input availability that limits output expansion",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "a shortage of consumer demand",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "only a balance-of-payments problem",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "a rise in stock prices caused by liquidity",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "a decline in tax rates under fiscal reform",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"\" data-start=\"\">The correct answer is <u><strong>a constraint in production capacity, logistics, energy, skills, or input availability that limits output expansion.</strong></u>.</p>\n\n<p data-end=\"\" data-start=\"\"><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li ability=\"\" data-end=\"\" data-start=\"\" energy=\"\" impede=\"\" in=\"\" increase=\"\" input=\"\" li=\"\" limitations=\"\" material=\"\" obstacles=\"\" or=\"\" production=\"\" raw=\"\" refer=\"\" skill=\"\" supply-side=\"\" that=\"\" the=\"\" these=\"\" to=\"\">Such bottlenecks occur even when demand conditions are favorable, meaning there is sufficient consumer or market demand to justify increased production.</li>\n\t<li .=\"\" constraints=\"\" data-end=\"\" data-start=\"\" demand=\"\" disruptions=\"\" examples=\"\" factors=\"\" font-weight:=\"\" from=\"\" higher=\"\" in=\"\" include=\"\" industries=\"\" is=\"\" levels=\"\" li=\"\" meeting=\"\" of=\"\" or=\"\" power=\"\" prevent=\"\" shortages=\"\" skilled=\"\" span=\"\" statement=\"\" style=\"\" supply=\"\" supply-side=\"\" the=\"\" these=\"\" transportation=\"\"><strong>Impact on economic growth:</strong> Supply-side bottlenecks can slow down economic growth as businesses struggle to increase output despite favorable market conditions. This can result in inflationary pressure due to limited supply against rising demand.</li>\n\t<li a=\"\" additional=\"\" address=\"\" align-items:=\"\" aligns=\"\" and=\"\" bottlenecks=\"\" cdn.testbook.com=\"\" characteristics=\"\" color:=\"\" correct=\"\" data-end=\"\" data-start=\"\" display:=\"\" efforts=\"\" em=\"\" energy=\"\" enhancing=\"\" ensuring=\"\" font-size:=\"\" font-weight:=\"\" gap:=\"\" height=\"\" img=\"\" improving=\"\" in=\"\" include=\"\" investments=\"\" li=\"\" lms_creative_elements=\"\" logistics=\"\" of=\"\" resources=\"\" span=\"\" src=\"\" statement=\"\" steady=\"\" style=\"\" supply-side=\"\" the=\"\" these=\"\" to=\"\" vertical-align:=\"\" width=\"\" with=\"\" workforce=\"\"><strong>Production capacity:</strong> Limited infrastructure or outdated technology can restrict the ability of industries to scale up production.</li>\n\t<li can=\"\" data-end=\"\" data-start=\"\" delays=\"\" delivery=\"\" goods=\"\" hinder=\"\" in=\"\" inefficient=\"\" li=\"\" logistical=\"\" of=\"\" or=\"\" raw=\"\" shipping=\"\" systems=\"\" timely=\"\" transportation=\"\"><strong>Energy availability:</strong> Power shortages or unreliable energy sources can disrupt manufacturing processes and overall production.</li>\n\t<li a=\"\" achieving=\"\" adequately=\"\" can=\"\" data-end=\"\" data-start=\"\" from=\"\" industries=\"\" lack=\"\" li=\"\" of=\"\" optimal=\"\" prevent=\"\" skill=\"\" trained=\"\" workers=\"\"><strong>Input constraints:</strong> Limited access to essential raw materials or components can directly impact production output.</li>\n</ul>\n\n<ul>\n\t<li><strong>Examples:</strong>\n\n\t<ul>\n\t\t<li a=\"\" and=\"\" country=\"\" data-end=\"\" data-start=\"\" disruptions=\"\" experiencing=\"\" face=\"\" in=\"\" industries=\"\" li=\"\" like=\"\" may=\"\" of=\"\" semiconductor=\"\" shortage=\"\">During the <strong>COVID-19 pandemic</strong>, supply chain disruptions caused delays in the availability of goods, raw materials, and medical equipment.</li>\n\t\t<li a=\"\" act=\"\" as=\"\" bottleneck=\"\" can=\"\" cuts=\"\" data-end=\"\" data-start=\"\" developing=\"\" energy=\"\" frequent=\"\" in=\"\" industrial=\"\" li=\"\" limited=\"\" or=\"\" policy=\"\" power=\"\" significant=\"\" to=\"\">Governments can address supply-side issues by investing in infrastructure, ensuring stable energy supplies, and promoting skill development programs.</li>\n\t\t<li>&nbsp;</li>\n\t\t<li><li data-end=\"\" 4020\"\"=\"\" data-start=\"\" 3870\"=\"\">Efforts to improve logistics, such as building highways, ports, and efficient transportation networks, can alleviate bottlenecks.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Option 2:</strong> A shortage of consumer demand refers to demand-side constraints, not supply-side bottlenecks. This option is incorrect.</li>\n\t<li><strong>Option 3:</strong> Balance-of-payments problems deal with external trade and payments, not internal production constraints. This option is incorrect.</li>\n\t<li><strong>Option 4:</strong> A rise in stock prices due to liquidity is unrelated to supply-side bottlenecks. This option is incorrect.</li>\n\t<li><strong>Option 5:</strong> A decline in tax rates under fiscal reform is a macroeconomic policy measure and does not directly describe supply-side bottlenecks. This option is incorrect.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "558db06b2a396511d048bc92",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Which of the following assets are considered as Near Money?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<p>Bonds near their redemption date</p>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<p>Equity shares</p>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<p>Treasury securities</p>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<p>Travelers cheque</p>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<p>All of the above</p>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Near money (synonym: quasi-money) is a term used in economics to describe highly liquid assets that can easily be converted into cash.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f3543e68881b70d0dbb16cf",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Among the following, which are the different components of money supply?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"  \">Currency held by people</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"  \">Demand deposits of banks</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Time deposits of banks",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"  \">Time and savings deposits with post offices</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>A correct answer is an option(e) i.e <u><strong>All of these.</strong></u></p>\n\n<p>The&nbsp;<span style=\"font-weight: 700;\">money supply</span>&nbsp;is the term used to define the<span style=\"font-weight: 700;\">&nbsp;total money which was in circulation</span>&nbsp;at a particular point of time among the people of the country. Measures of the money supply were introduced in the year&nbsp;<span style=\"font-weight: 700;\">1977&nbsp;</span>by the&nbsp;<span style=\"font-weight: 700;\">Reserve Bank of India&nbsp;</span>to measure the total supply of money in India. It was further classified as<span style=\"font-weight: 700;\">&nbsp;M1, M2, M3, M4 along with M0</span>.</p>\n\n<ul style=\"\">\n\t<li style=\"\"><span style=\"font-weight: 700;\">Reserve money(M0)</span>&nbsp;-&nbsp;<span style=\"text-align: justify;\">It is also known as High-Powered Money, monetary base, base money, etc. It is the monetary base of the economy.</span>\n\n\t<ul style=\"\">\n\t\t<li style=\"text-align: justify;\"><span style=\"font-weight: 700;\">M0</span>&nbsp;- Currency in circulation +&nbsp;&nbsp;Bankers&rsquo; Deposits with RBI + Other deposits with RBI</li>\n\t</ul>\n\t</li>\n\t<li style=\"text-align: justify;\"><span style=\"font-weight: bolder;\">Narrow Money (M1) -&nbsp;</span><span style=\"font-weight: 700;\">M1</span>&nbsp;-&nbsp;Currency with public + Demand deposits with the Banking system&nbsp;<span style=\"font-weight: 700;\">(current account, saving account)</span>&nbsp;+ Other deposits with RBI\n\t<ul style=\"\">\n\t\t<li style=\"text-align: justify;\"><span style=\"font-weight: 700;\">M2</span>&nbsp;-&nbsp;M1 + Savings deposits of post office savings banks</li>\n\t</ul>\n\t</li>\n\t<li style=\"text-align: justify;\"><span style=\"font-weight: bolder;\">Broad Money(M3) -&nbsp;</span><span style=\"font-weight: 700;\">M3&nbsp;</span>-&nbsp;M1 + Time deposits with the banking system( fixed deposit )</li>\n\t<li style=\"text-align: justify;\"><span style=\"font-weight: 700;\">M4</span>&nbsp;= M3 + All deposits with post office savings banks</li>\n</ul>\n\n<p style=\"text-align: justify;\"><strong>Components of money supply are</strong> :&nbsp;</p>\n\n<ul>\n\t<li style=\"text-align: justify;\"><span style=\"  \">Currency held by people.</span></li>\n\t<li style=\"text-align: justify;\"><span style=\"  \">Demand deposits of banks ( Current and Savings account ).</span></li>\n\t<li style=\"text-align: justify;\"><span style=\"  \">Time and savings deposits with post offices.</span></li>\n\t<li style=\"text-align: justify;\"><span style=\"  \">Time&nbsp;deposits of banks ( Fixed deposits ).</span></li>\n\t<li style=\"text-align: justify;\"><span style=\"  \">Other deposits of the RBI.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6632135cd346a14438c600a7",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Which concept describes the phenomenon where an increase in the supply of money leads to a proportional increase in prices?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Fiscal Drag",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Cost-Push Inflation",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Demand-Pull Inflation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity Theory of Money",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Phillips Curve",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Quantity Theory of Money</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Quantity Theory of Money posits that there is a direct relationship between the quantity of money in an economy and the level of prices of goods and services sold.</strong></li>\n\t<li><strong>According to this theory, if the amount of money in an economy doubles, price levels will also double, assuming the velocity of money and the number of transactions remain constant.</strong></li>\n\t<li><strong>This theory is foundational for classical economics and is used to explain long-term determinants of the price level and inflation.</strong></li>\n</ul>\n\n<p><span style=\"color: (0, 0, 0);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Fiscal Drag</span></u>\n\n\t<ul>\n\t\t<li>Refers to the effect of inflation pushing taxpayers into higher income tax brackets, increasing tax revenue without a corresponding increase in real income.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Cost-Push Inflation</span></u>\n\t<ul>\n\t\t<li>Inflation caused by an increase in prices of inputs like labour, raw material, etc. This type of inflation leads to a decrease in the supply of these inputs.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Demand-Pull Inflation</span></u>\n\t<ul>\n\t\t<li>Occurs when aggregate demand in an economy outpaces aggregate supply. It involves inflation rising as real gross domestic product rises and unemployment falls, as the economy moves along the Phillips Curve.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Phillips Curve</span></u>\n\t<ul>\n\t\t<li>Illustrates a historical inverse relationship between rates of unemployment and corresponding rates of inflation that result within an economy.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ee5f063492cd50d0f739d47",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "_____ is action taken by a country&#39;s central bank to counter the effects on the money supply caused by a balance of payments surplus or deficit.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Chartalism",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sterlization",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bimetallism",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Nominal rigidity",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dishoarding",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 2 i.e. <u>Sterlization.</u></strong></p>\n\n<p><u><strong>Sterilization is action taken by a country&#39;s central bank to counter the effects on the money supply caused by a balance of payments surplus or deficit.</strong></u></p>\n\n<ul>\n\t<li>It <strong>involves open market operations undertaken by the central bank whose aim is to neutralize the impact of associated foreign exchange operations.</strong></li>\n\t<li><strong>Unsterilized intervention is the exact opposite of sterlization</strong>. Here monetary authorities have not insulated their country&#39;s domestic money supply and internal balance against foreign exchange intervention.</li>\n\t<li>It is <strong>most often used in the context of a central bank that takes actions to negate potentially harmful impacts of capital inflows such as currency appreciation and inflation.</strong></li>\n\t<li>If a country&#39;s currency is depreciating, the country&#39;s central bank may intervene and use its foreign currency reserve to buy local currency.</li>\n\t<li>A central bank can also intervene on the foreign exchange markets to prevent currency appreciation by selling its own currency for foreign currency-denominated assets, thereby building up its foreign reserves.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:06.767Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a12d6a2801ac54c2ba8b",
+  "title": "CT 30: Quantitative Aptitude (Caselet DI)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5f5735668421b2e9e72e98a6",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "What will be ratio of money invested in&nbsp; Bank and&nbsp;<span style=\"\">share market </span>&nbsp;after 2 year?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "22 : 21",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "21 : 22",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "726 : 882",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">882 : 484</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">968 : 441</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Investment in Bank = 7.5 lakh</p>\n\n<p style=\"\">Investment in Share market = 3.75 lakh</p>\n\n<p style=\"\">Annual compound rate of interest on bank investment = 10%</p>\n\n<p style=\"\">Annual compound rate of interest on Share market investment = 5%</p>\n\n<p style=\"\"><strong style=\"\">Formula:</strong></p>\n\n<p style=\"\">P = A (1 + R / 100)<sup style=\"\"> T</sup></p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Investment in bank after 2 year = 7.5(1 + 10/100)<sup style=\"\">2</sup></p>\n\n<p style=\"\">&rArr; Investment in bank after 2 years = 907500</p>\n\n<p style=\"\">Investment in Share market after 2 years = 3.75(1 + 5/100)<sup style=\"\">2</sup></p>\n\n<p style=\"\">&rArr; Investment in Share market after 2 years = 413437.5</p>\n\n<p style=\"\">&there4; Ratio of investment in bank after 2 year: investment in share market after 2 year =</p>\n\n<p style=\"\">907500 / 413437.5</p>\n&rArr; Ratio of investment in bank after 2 year: investment in share market after 2 year = 968 : 441",
+          "topic": "Test"
+        },
+        {
+          "id": "5f5735668421b2e9e72e98a7",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "What will be the approx value of investment in the real state after 4 year?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "412405",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "358000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">357417</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "400000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "345000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Investment in the real estate = 3.75 lakh</p>\n\n<p style=\"\">Investment increase 3 year with annual rate = 5%</p>\n\n<p style=\"\">Decrease in fourth year = 5%</p>\n\n<p style=\"\"><strong style=\"\">Formula used-</strong></p>\n\n<p style=\"\">P = A (1 + R / 100)<sup style=\"\"> T</sup></p>\n\n<p style=\"\"><strong style=\"\">Calculation-</strong></p>\n\n<p style=\"\">Investment after 3 year = 3.75 (1 + 5 / 100)<sup style=\"\">3</sup></p>\n\n<p style=\"\">&rArr; Investment after 3 year = 3.75 (1 + 1 / 20)<sup style=\"\">3</sup></p>\n\n<p style=\"\">&rArr; Investment after 3 year = 434110</p>\n\n<p style=\"\">In fourth year investment decrease 5%</p>\n\n<p style=\"\">&rArr; investment in 4<sup style=\"\">th</sup> year = 434110 (1 &ndash; 5 / 100)<sup style=\"\">1</sup></p>\n\n<p style=\"\">&rArr; Investment in 4<sup style=\"\">th</sup> year = 434110&nbsp;&times; 19 / 20</p>\nHence investment after 4 year = 412405",
+          "topic": "Test"
+        },
+        {
+          "id": "5f5735668421b2e9e72e98a5",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "What will be ratio of money, invested in agriculture land and bank?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2 : 1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1 : 2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3 : 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "5 : 4&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "3 : 1",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Money invested in agriculture land = 15 lakh</p>\n\n<p style=\"\">Money invested in Bank = 7.5 Lakh</p>\n\n<p style=\"\"><strong style=\"\">Formula used;</strong></p>\n\n<p style=\"\">A : B = A / B</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Money invested in agriculture land = 15 lakh</p>\n\n<p style=\"\">Money invested in Bank = 7.5 Lakh</p>\n\n<p style=\"\">&rArr; Money Invested in agriculture: Money Invested in Bank = 15 / 7.5</p>\nHence Money Invested in agriculture:&nbsp; Money Invested in Bank = 2 : 1",
+          "topic": "Test"
+        },
+        {
+          "id": "5f5735668421b2e9e72e98a4",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "What will be the value of investment on agricultural land after 2 year?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "13 lakhs",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "12 lakhs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "18.15 lakhs",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "11.5 lakhs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "10 lakhs",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Value invested in agricultural land = 15 lakh</p>\n\n<p style=\"\">Rate of increasing of value = 10% compounded annually</p>\n\n<p style=\"\"><strong style=\"\">Formula used-</strong></p>\n\n<p style=\"\">P = A (1+R / 100)<sup style=\"\"> T </sup></p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Value of agriculture land after 2 year = 15(1 + 10/100)<sup style=\"\">2 </sup></p>\n\n<p style=\"\">&rArr; Value of agriculture land after 2 year= 15 &times; 121/100</p>\n&rArr; Value of agriculture land after 2 year= 18.15 lakh",
+          "topic": "Test"
+        },
+        {
+          "id": "5f5735668421b2e9e72e98a3",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "What will be Total value of investment of Ram Mohan on 1<sup style=\"\">st</sup> June 2011?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "35 lakhs",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "32.625 lakh",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "32 lakhs",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "40 lakhs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "42 lakhs",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Investment in land = 15 Lakh</p>\n\n<p style=\"\">Investment in bank = 7.5 lakh</p>\n\n<p style=\"\">Investment in share = 3.75 lakh</p>\n\n<p style=\"\">Investment in real-estate = 3.75 lakh</p>\n\n<p style=\"\"><strong style=\"\">Formula used-</strong></p>\n\n<p style=\"\">P = A (1+ R / 100)<sup style=\"\"> T </sup></p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Value of money invested in Agriculture land = 15 &times; 1.1 = 16.5 lakh</p>\n\n<p style=\"\">Value of money invested in Bank after one year = 7.5 &times; 1.1 = 8.25 lakh</p>\n\n<p style=\"\">Value of money invested in share after one year = 3.75 &times; 21/20 = 3.9375 lakh</p>\n\n<p style=\"\">Value of money invested in Real estate after one year = 3.75 &times; 1.05&nbsp;= 3.9375&nbsp;lakh</p>\n&rArr; Total value of the money after one year = 32.625 lakh",
+          "topic": "Test"
+        },
+        {
+          "id": "63ff37cc4e1aae4116594c18",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Find the difference between the number of Science books sold by seller Q and seller R.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "120",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "140",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "160",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "180",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "200",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Common solution:</span></p>\n\n<p style=\"\">From the given question,&nbsp;</p>\n\n<p style=\"\">Total number of books sold by seller P = 400</p>\n\n<p style=\"\">also, number of Science books sold by seller P = 220</p>\n\n<p style=\"\">Therefore, Number of Maths books sold by seller P&nbsp;= (400 - 220) = 180</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by sellers P and Q respectively is 3 : 5.</p>\n\n<p style=\"\">Therefore, number of Science books sold by seller Q = (180/3) &times;&nbsp;5 = 60&nbsp;&times;&nbsp;5 = 300</p>\n\n<p style=\"\">Also, total number of books sold by seller Q = 500</p>\n\n<p style=\"\">therefore, number of maths books sold by seller Q = (500 - 300) = 200</p>\n\n<p style=\"\">Total number of books sold by R&nbsp;is 60% of the total number of books sold by seller = 60% of 500 = 300</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by seller R is 8 : 7</p>\n\n<p style=\"\">Total number of&nbsp;books sold by R&nbsp;= 300</p>\n\n<p style=\"\">Therefore, 8x + 7x = 15x = 300</p>\n\n<p style=\"\">Therefore, number of Maths book sold by seller R is = (300/15)&nbsp;&times;&nbsp;8&nbsp;= 160</p>\n\n<p style=\"\">Also, number of Science book sold by seller R is = (300/15) &times;&nbsp;7&nbsp;= 140</p>\n\n<p style=\"\">Total number of Maths books sold by all the booksellers&nbsp;= 800</p>\n\n<p style=\"\">Total number of Science books sold by all the booksellers&nbsp;= 1000</p>\n\n<p style=\"\">Therefore, number of Maths books sold by seller S = Total number of Maths books sold by all sellers - number of Maths books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 800 - (180 + 200 + 160) = 800 - 540 = 260</p>\n\n<p style=\"\">Also, number of Science books sold by seller S =&nbsp;Total number of Science books sold by all sellers - number of Science books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 1000 - (220 + 300 + 140) = 1000 - 660 = 340</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Sellers</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Maths books&nbsp;</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Science books</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Total books sold</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">P</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">220</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Q</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">R</td>\n\t\t\t<td style=\"text-align: center;\">160</td>\n\t\t\t<td style=\"text-align: center;\">140</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">S</td>\n\t\t\t<td style=\"text-align: center;\">260</td>\n\t\t\t<td style=\"text-align: center;\">340</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">800</td>\n\t\t\t<td style=\"text-align: center;\">1000</td>\n\t\t\t<td style=\"text-align: center;\">1800</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">From above table,&nbsp;</p>\n\n<p style=\"\">Number of&nbsp;Science&nbsp;books sold by seller Q&nbsp;= 300&nbsp;</p>\n\n<p style=\"\">Number of <span style=\"\">Science</span>&nbsp;books sold by seller R&nbsp;= 140&nbsp;</p>\n\n<p style=\"\">Therefore, required difference = 300 - 140&nbsp;= 160</p>\n\n<p style=\"\">Hence, the correct answer is <strong>option 3.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63ff3575e9c739f99d628b35",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Find the ratio between the number of Science books sold by seller P to the number of Maths books sold by seller S.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7 : 9",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "11 : 13",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "13 : 15",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "15 : 17&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "17 : 19",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Common solution:</span></p>\n\n<p style=\"\">From the given question,&nbsp;</p>\n\n<p style=\"\">Total number of books sold by seller P = 400</p>\n\n<p style=\"\">also, number of Science books sold by seller P = 220</p>\n\n<p style=\"\">Therefore, Number of Maths books sold by seller P&nbsp;= (400 - 220) = 180</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by sellers P and Q respectively is 3 : 5.</p>\n\n<p style=\"\">Therefore, number of Science books sold by seller Q = (180/3) &times;&nbsp;5 = 60&nbsp;&times;&nbsp;5 = 300</p>\n\n<p style=\"\">Also, total number of books sold by seller Q = 500</p>\n\n<p style=\"\">therefore, number of maths books sold by seller Q = (500 - 300) = 200</p>\n\n<p style=\"\">Total number of books sold by R&nbsp;is 60% of the total number of books sold by seller = 60% of 500 = 300</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by seller R is 8 : 7</p>\n\n<p style=\"\">Total number of&nbsp;books sold by R&nbsp;= 300</p>\n\n<p style=\"\">Therefore, 8x + 7x = 15x = 300</p>\n\n<p style=\"\">Therefore, number of Maths book sold by seller R is = (300/15)&nbsp;&times;&nbsp;8&nbsp;= 160</p>\n\n<p style=\"\">Also, number of Science book sold by seller R is = (300/15) &times;&nbsp;7&nbsp;= 140</p>\n\n<p style=\"\">Total number of Maths books sold by all the booksellers&nbsp;= 800</p>\n\n<p style=\"\">Total number of Science books sold by all the booksellers&nbsp;= 1000</p>\n\n<p style=\"\">Therefore, number of Maths books sold by seller S = Total number of Maths books sold by all sellers - number of Maths books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 800 - (180 + 200 + 160) = 800 - 540 = 260</p>\n\n<p style=\"\">Also, number of Science books sold by seller S =&nbsp;Total number of Science books sold by all sellers - number of Science books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 1000 - (220 + 300 + 140) = 1000 - 660 = 340</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Sellers</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Maths books&nbsp;</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Science books</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Total books sold</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">P</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">220</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Q</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">R</td>\n\t\t\t<td style=\"text-align: center;\">160</td>\n\t\t\t<td style=\"text-align: center;\">140</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">S</td>\n\t\t\t<td style=\"text-align: center;\">260</td>\n\t\t\t<td style=\"text-align: center;\">340</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">800</td>\n\t\t\t<td style=\"text-align: center;\">1000</td>\n\t\t\t<td style=\"text-align: center;\">1800</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">From the table</p>\n\n<p style=\"\">Number of Science books sold by seller P =&nbsp;220&nbsp;</p>\n\n<p style=\"\"><span style=\"\">Number of Maths&nbsp;books sold by seller S&nbsp;=</span><span style=\"\">&nbsp;260&nbsp;</span></p>\n\n<p style=\"\">Therefore, required ratio = 220 : 260 = 11 : 13</p>\n\n<p style=\"\">Hence, the correct answer is <strong>option 2</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63ff3456706b71c27a40691d",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Find the number of Maths books sold by seller R.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "160",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "170",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "180",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "190",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "200",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Common solution:</strong></p>\n\n<p>From the given question,&nbsp;</p>\n\n<p>Total number of books sold by seller P = 400</p>\n\n<p>also, number of Science books sold by seller P = 220</p>\n\n<p>Therefore, Number of Maths books sold by seller P&nbsp;= (400 - 220) = 180</p>\n\n<p>The ratio of number of Maths and Science books sold by sellers P and Q respectively is 3 : 5.</p>\n\n<p>Therefore, number of Science books sold by seller Q = (180/3) &times;&nbsp;5 = 60 <span style=\"\">&times;</span>&nbsp;5 = 300</p>\n\n<p>Also, total number of books sold by seller Q = 500</p>\n\n<p>therefore, number of maths books sold by seller Q = (500 - 300) = 200</p>\n\n<p>Total number of books sold by R&nbsp;is 60% of the total number of books sold by seller = 60% of 500 = 300</p>\n\n<p>The ratio of number of Maths and Science books sold by seller R is 8 : 7</p>\n\n<p>Total number of&nbsp;books sold by R&nbsp;= 300</p>\n\n<p>Therefore, 8x + 7x = 15x = 300</p>\n\n<p>Therefore, number of Maths book sold by seller R is = (300/15) <span style=\"\">&times;</span>&nbsp;8&nbsp;= 160</p>\n\n<p><span style=\"\">Also, number of Science book sold by seller R is = (300/15) &times;&nbsp;7&nbsp;= 14</span><span style=\"\">0</span></p>\n\n<p><span style=\"\">Total number of Maths books sold by all the booksellers&nbsp;= 800</span></p>\n\n<p><span style=\"\">Total number of Science books sold by all the booksellers&nbsp;= 1000</span></p>\n\n<p><span style=\"\">Therefore, number of Maths books sold by seller S = Total number of Maths books sold by all sellers - number of Maths books sold by sellers P, Q, and R.</span></p>\n\n<p><span style=\"\">= 800 - (180 + 200 + 160) = 800 - 540 = 260</span></p>\n\n<p><span style=\"\">Also, number of Science books sold by seller S =&nbsp;Total number of Science books sold by all sellers - number of Science books sold by sellers P, Q, and R.</span></p>\n\n<p><span style=\"\">= 1000 - (220 + 300 + 140) = 1000 - 660 = 340</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Sellers</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Maths books&nbsp;</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Science books</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Total books sold</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">P</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">220</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Q</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">R</td>\n\t\t\t<td style=\"text-align: center;\">160</td>\n\t\t\t<td style=\"text-align: center;\">140</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">S</td>\n\t\t\t<td style=\"text-align: center;\">260</td>\n\t\t\t<td style=\"text-align: center;\">340</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">800</td>\n\t\t\t<td style=\"text-align: center;\">1000</td>\n\t\t\t<td style=\"text-align: center;\">1800</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>From the table</p>\n\n<p>Total number of Maths books sold by seller R&nbsp;= 160</p>\n\n<p>Hence, the correct answer is <strong>option 1.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63ff3894e9c739f99d630f43",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Find the sum of total number books sold by seller S and seller R.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "600",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1100",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "900",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "800",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Common solution:</span></p>\n\n<p style=\"\">From the given question,&nbsp;</p>\n\n<p style=\"\">Total number of books sold by seller P = 400</p>\n\n<p style=\"\">also, number of Science books sold by seller P = 220</p>\n\n<p style=\"\">Therefore, Number of Maths books sold by seller P&nbsp;= (400 - 220) = 180</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by sellers P and Q respectively is 3 : 5.</p>\n\n<p style=\"\">Therefore, number of Science books sold by seller Q = (180/3) &times;&nbsp;5 = 60&nbsp;&times;&nbsp;5 = 300</p>\n\n<p style=\"\">Also, total number of books sold by seller Q = 500</p>\n\n<p style=\"\">therefore, number of maths books sold by seller Q = (500 - 300) = 200</p>\n\n<p style=\"\">Total number of books sold by R&nbsp;is 60% of the total number of books sold by seller = 60% of 500 = 300</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by seller R is 8 : 7</p>\n\n<p style=\"\">Total number of&nbsp;books sold by R&nbsp;= 300</p>\n\n<p style=\"\">Therefore, 8x + 7x = 15x = 300</p>\n\n<p style=\"\">Therefore, number of Maths book sold by seller R is = (300/15)&nbsp;&times;&nbsp;8&nbsp;= 160</p>\n\n<p style=\"\">Also, number of Science book sold by seller R is = (300/15) &times;&nbsp;7&nbsp;= 140</p>\n\n<p style=\"\">Total number of Maths books sold by all the booksellers&nbsp;= 800</p>\n\n<p style=\"\">Total number of Science books sold by all the booksellers&nbsp;= 1000</p>\n\n<p style=\"\">Therefore, number of Maths books sold by seller S = Total number of Maths books sold by all sellers - number of Maths books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 800 - (180 + 200 + 160) = 800 - 540 = 260</p>\n\n<p style=\"\">Also, number of Science books sold by seller S =&nbsp;Total number of Science books sold by all sellers - number of Science books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 1000 - (220 + 300 + 140) = 1000 - 660 = 340</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Sellers</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Maths books&nbsp;</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Science books</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Total books sold</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">P</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">220</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Q</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">R</td>\n\t\t\t<td style=\"text-align: center;\">160</td>\n\t\t\t<td style=\"text-align: center;\">140</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">S</td>\n\t\t\t<td style=\"text-align: center;\">260</td>\n\t\t\t<td style=\"text-align: center;\">340</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">800</td>\n\t\t\t<td style=\"text-align: center;\">1000</td>\n\t\t\t<td style=\"text-align: center;\">1800</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">From above Table,&nbsp;</p>\n\n<p style=\"\">Total number of&nbsp;books sold by all seller R and seller S&nbsp;= (300 + 600) = 900</p>\n\n<p style=\"\">Hence, the correct answer is <strong>option 3.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63ff36d881153b79a984458d",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "The number of Science books sold by seller S is what percentage of the Maths books sold by seller Q?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "110%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">120%</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">170%</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">140%</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">150%</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Common solution:</span></p>\n\n<p style=\"\">From the given question,&nbsp;</p>\n\n<p style=\"\">Total number of books sold by seller P = 400</p>\n\n<p style=\"\">also, number of Science books sold by seller P = 220</p>\n\n<p style=\"\">Therefore, Number of Maths books sold by seller P&nbsp;= (400 - 220) = 180</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by sellers P and Q respectively is 3 : 5.</p>\n\n<p style=\"\">Therefore, number of Science books sold by seller Q = (180/3) &times;&nbsp;5 = 60&nbsp;&times;&nbsp;5 = 300</p>\n\n<p style=\"\">Also, total number of books sold by seller Q = 500</p>\n\n<p style=\"\">therefore, number of maths books sold by seller Q = (500 - 300) = 200</p>\n\n<p style=\"\">Total number of books sold by R&nbsp;is 60% of the total number of books sold by seller = 60% of 500 = 300</p>\n\n<p style=\"\">The ratio of number of Maths and Science books sold by seller R is 8 : 7</p>\n\n<p style=\"\">Total number of&nbsp;books sold by R&nbsp;= 300</p>\n\n<p style=\"\">Therefore, 8x + 7x = 15x = 300</p>\n\n<p style=\"\">Therefore, number of Maths book sold by seller R is = (300/15)&nbsp;&times;&nbsp;8&nbsp;= 160</p>\n\n<p style=\"\">Also, number of Science book sold by seller R is = (300/15) &times;&nbsp;7&nbsp;= 140</p>\n\n<p style=\"\">Total number of Maths books sold by all the booksellers&nbsp;= 800</p>\n\n<p style=\"\">Total number of Science books sold by all the booksellers&nbsp;= 1000</p>\n\n<p style=\"\">Therefore, number of Maths books sold by seller S = Total number of Maths books sold by all sellers - number of Maths books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 800 - (180 + 200 + 160) = 800 - 540 = 260</p>\n\n<p style=\"\">Also, number of Science books sold by seller S =&nbsp;Total number of Science books sold by all sellers - number of Science books sold by sellers P, Q, and R.</p>\n\n<p style=\"\">= 1000 - (220 + 300 + 140) = 1000 - 660 = 340</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Sellers</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Maths books&nbsp;</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Science books</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Total books sold</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">P</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">220</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Q</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">R</td>\n\t\t\t<td style=\"text-align: center;\">160</td>\n\t\t\t<td style=\"text-align: center;\">140</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">S</td>\n\t\t\t<td style=\"text-align: center;\">260</td>\n\t\t\t<td style=\"text-align: center;\">340</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Total</td>\n\t\t\t<td style=\"text-align: center;\">800</td>\n\t\t\t<td style=\"text-align: center;\">1000</td>\n\t\t\t<td style=\"text-align: center;\">1800</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">From above table,</p>\n\n<p style=\"\">Number of Science<span style=\"\">&nbsp;</span>books sold by seller S&nbsp;= 340</p>\n\n<p style=\"\">Number of Maths&nbsp;books sold by seller Q&nbsp;=&nbsp;200&nbsp;</p>\n\n<p style=\"\">Therefore, required percentage&nbsp;= (340 /&nbsp;200) &times;&nbsp;100 = 170%</p>\n\n<p style=\"\">Hence, the correct answer is <strong>option 3.</strong></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:12.101Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

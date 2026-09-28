@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e57b5bdfce3938261501",
+  "title": "Quantitative Aptitude Sectional Test 3",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "640c0985ec6e960cc95f3a3e",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p style=\"text-align: justify;\">What can be the ratio of Basic phones manufactured to Smart phones manufactured by Samsung on Monday?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4:3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "7:4",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8:5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "4:5",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5:2",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\">Number of phones manufactured on Wednesday = 3360</p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Monday:</p>\n\n<p style=\"text-align: justify;\">3360 -&nbsp;28%&nbsp;</p>\n\n<p style=\"text-align: justify;\">? - 12%</p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Monday&nbsp;= 3360 <span style=\"text-align: justify; \">&times;</span>&nbsp;(12/28) = 1440</p>\n\n<p style=\"text-align: justify;\">From the options,</p>\n\n<p style=\"text-align: justify;\">Option (1):</p>\n\n<p style=\"text-align: justify;\">Let the ratio of Basic phones to Smart phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>be 4:3.</p>\n\n<p style=\"text-align: justify;\">The number of Basic phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>= [4 / (4+3)] <span style=\"text-align: justify; \">&times;</span> 1440 is not integer.</p>\n\n<p style=\"text-align: justify;\">Option (2):</p>\n\n<p style=\"text-align: justify;\">Let the ratio of Basic phones to Smart phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>be 7:4.</p>\n\n<p style=\"text-align: justify;\">The number of Basic phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>= [7 / (7+4)] <span style=\"text-align: justify; \">&times;</span> 1440 is not integer.</p>\n\n<p style=\"text-align: justify;\">Option (3):</p>\n\n<p style=\"text-align: justify;\">Let the ratio of Basic phones to Smart phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>be 8:5.</p>\n\n<p style=\"text-align: justify;\">The number of Basic phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>= [8 / (8+5)] <span style=\"text-align: justify; \">&times;</span> 1440 is not integer.</p>\n\n<p style=\"text-align: justify;\">Option (4):</p>\n\n<p style=\"text-align: justify;\">Let the ratio of Basic phones to Smart phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>be 4:5.</p>\n\n<p style=\"text-align: justify;\"><strong>The number of Basic phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>= [4 / (4+5)] <span style=\"text-align: justify; \">&times;</span> 1440 = 640 is integer.</strong></p>\n\n<p style=\"text-align: justify;\"><strong>The number of Smart phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>= [5 / (4+5)] <span style=\"text-align: justify; \">&times;</span> 1440 = 800 is integer.</strong></p>\n\n<p style=\"text-align: justify;\">Option (5):</p>\n\n<p style=\"text-align: justify;\">Let the ratio of Basic phones to Smart phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>be 5:2.</p>\n\n<p style=\"text-align: justify;\">The number of Basic phones <span style=\"text-align: justify; \">manufactured on Monday&nbsp;</span>= [5 / (5+2)]&nbsp;<span style=\"text-align: justify;\">&times;</span>&nbsp;1440 is not integer.</p>\n\n<p style=\"text-align: justify;\"><strong>Therefore, the ratio of Basic phones to Smart phones on Monday can be 4:5.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640c0985ec6e960cc95f3a3d",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p style=\"text-align: justify;\">What is the percentage of the number of Basic phones manufactured on Friday, if the ratio of Smart phones to Basic phones manufactured on Friday is 7:5, with respect to the total number of phones manufactured on Tuesday?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "46.345%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">43.436%</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "40.536%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "45.634%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "42.635%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\">Total phones manufactured on Wednesday = 3360</p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Friday:</p>\n\n<p style=\"text-align: justify;\">3360 -&nbsp;28%&nbsp;</p>\n\n<p style=\"text-align: justify;\">? - 23%</p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Friday = 3360 &times; (23/28) = 2760</p>\n\n<p style=\"text-align: justify;\"><span style=\"font-weight: 700;\">Given that&nbsp;</span>the ratio of Smart phones to Basic phones manufactured on Friday = 7:5</p>\n\n<p style=\"text-align: justify;\">Number of Basic phones manufactured on Friday = [5 / (7+5)] <span style=\"\">&times;</span> 2760 = 1150</p>\n\n<p style=\"text-align: justify;\"><span style=\"\">Number of phones manufactured on Tuesday = 3360&nbsp;</span><span style=\"\">&times;</span><span style=\"\">&nbsp;(21/28) = 2520</span></p>\n\n<p style=\"text-align: justify;\"><strong>Required percentage = (1150/2520) <span style=\"\">&times;</span> 100 = 45.634%</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640c0985ec6e960cc95f3a3c",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p style=\"text-align: justify;\">Find the average of the number of phones manufactured by Samsung on Monday, Wednesday and Thursday together?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1940",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2140",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2240",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2440",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1840",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Phones manufactured on Wednesday = 28%</p>\n\n<p>Number of phones manufactured on Wednesday = 3360</p>\n\n<p>&rArr; 28% = 3360 ----(01)</p>\n\n<p><span style=\"color: rgb(33, 37, 41); text-align: justify;\">Phones manufactured on Monday, Wednesday and Thursday</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41); text-align: justify;\">&rArr; (12 + 28 + 16)% = 56%</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41); text-align: justify;\">From Equation(02)</span></p>\n\n<p>Number of phones manufactured on&nbsp;Monday, Wednesday and Thursday</p>\n\n<p>&rArr; 56% = 2 &times; 3360 = 6720</p>\n\n<p>Average phones manufactured on Monday, Wednesday and Thursday</p>\n\n<p>&rArr; 6720/3 = 2240</p>\n\n<p><strong>&there4; The average number of phones manufactured by Samsung on Monday, Wednesday, and Thursday is 2240.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640c0985ec6e960cc95f3a3b",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p style=\"text-align: justify;\">The ratio of Smart phones to Basic phones manufactured on Tuesday is 7:3. It also states that the ratio of the selling price of Smart phones to Basic phones on Tuesday is also 7:3. The total revenue earned from selling all the phones manufactured on Tuesday is given as Rs. 36,54,000. Find the selling price of each Basic phone.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "700",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "600",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "750",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "650",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "800",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\">Number of phones manufactured on Wednesday = 3360</p>\n\n<p style=\"text-align: justify;\"><span style=\"\">Number of phones manufactured on Tuesday:</span></p>\n\n<p style=\"text-align: justify;\"><span style=\"\">3360 - 28%</span></p>\n\n<p style=\"text-align: justify;\"><span style=\"\">? - 21%</span></p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Tuesday = 3360 <span style=\"\">&times;</span> (21/28) = 2520</p>\n\n<p style=\"text-align: justify;\">The ratio of the number of Smart phones to the number of Basic phones manufactured on Tuesday is 7:3.</p>\n\n<p style=\"text-align: justify;\">So, the number of Smart phones manufactured on Tuesday = [7/ (7+3)]&nbsp;<span style=\"\">&times;</span> 2520 = 1764</p>\n\n<p style=\"text-align: justify;\">So, the number of Basic phones manufactured on Tuesday = <span style=\"\">[3</span><span style=\"\">/ (7+3)]</span> <span style=\"\">&times;</span>&nbsp;2520 = 756</p>\n\n<p style=\"text-align: justify;\"><span style=\"\">The ratio of the selling price of Smart phones to the price of Basic phones on Tuesday is 7:3.</span></p>\n\n<p style=\"text-align: justify;\">Let the price of Smart phones and Basic phones be Rs. 7X and Rs. 3X respectively.</p>\n\n<p style=\"text-align: justify;\">According to the question,</p>\n\n<p style=\"text-align: justify;\">Revenue earned by selling all the phones = 3654000</p>\n\n<p style=\"text-align: justify;\">Therefore, 1764 <span style=\"\">&times;</span> 7X + 756 <span style=\"\">&times;</span> 3X = 3654000</p>\n\n<p style=\"text-align: justify;\">Simplifying the equation, we get: X = 250</p>\n\n<p style=\"text-align: justify;\"><strong>Hence, the price of each Basic Phone = 3X = 3 <span style=\"\">&times;</span> 250 = Rs. 750.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640c0985ec6e960cc95f3a3a",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p style=\"text-align: justify;\">What is the difference between the average number of phones produced on Monday and Wednesday combined, and the average number of phones produced on Tuesday and Thursday combined?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "220",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "160",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "200",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "180",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "240",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\"><strong>Given that </strong>number of phones manufactured on Wednesday = 3360</p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Monday:</p>\n\n<p>3360 -&nbsp;28%&nbsp;</p>\n\n<p>? - 12%</p>\n\n<p style=\"text-align: justify;\"><span style=\"\">Number of phones manufactured on Monday&nbsp;</span>= 3360 &times; (12/28) = 1440</p>\n\n<p style=\"text-align: justify;\">Similarly,</p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Tuesday = 3360 <span style=\"text-align: justify; \">&times;&times;</span> (21/28) = 2520</p>\n\n<p style=\"text-align: justify;\">Number of phones manufactured on Thursday = 3360 &times; (16/28) = 1920</p>\n\n<p style=\"text-align: justify;\">The average number of phones manufactured on Monday and Wednesday together is (1440 + 3360) / 2 = 2400.</p>\n\n<p style=\"text-align: justify;\">The average number of phones manufactured on Tuesday and Thursday together is (2520 + 1920) / 2 = 2220.</p>\n\n<p style=\"text-align: justify;\"><strong>Therefore, the difference between the two averages is 2400 - 2220 = 180.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6083e741ea7967ecefee2679",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p>I. x&nbsp;= &radic;324</p>\n\n<p>II. y<sup>2</sup> &ndash; 20y + 36 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x &ge; y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x &le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or relationship between x and y cannot be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>I. x&nbsp;= &radic;324</p>\n\n<p>&rArr; x = 18</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/confusion-points-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Confusion Points</u></span></strong></span><strong>Value coming out of square root is only positive</strong></p>\n\n<p>II. y<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;&ndash; 20y + 36 = 0</p>\n\n<p>&rArr;&nbsp;y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;&ndash; 18y&nbsp;&ndash; 2y + 36 = 0</p>\n\n<p>&rArr; y(y&nbsp;&ndash; 18)&nbsp;&ndash; 2(y&nbsp;&ndash; 18) = 0</p>\n\n<p>&rArr; (y&nbsp;&ndash; 18) (y&nbsp;&ndash; 2) = 0</p>\n\n<p>&rArr; y = 18, 2</p>\n\n<p><strong>Comparison between x and y (via tabulation):</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:68px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>X</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:68px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Y</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:69px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Relation</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:68px;height:26px;\">\n\t\t\t<p style=\"text-align: center;\">18</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:68px;height:26px;\">\n\t\t\t<p style=\"text-align: center;\">18</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:69px;height:26px;\">\n\t\t\t<p style=\"text-align: center;\">x = y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:68px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">18</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:68px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:69px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4;&nbsp;x &ge; y</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6072c4f639f3494b1130311b",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p>I.&nbsp;<span class=\"math-tex\">\\(15{x^2} + 8x + 1 = 0\\)</span></p>\n\n<p>II.&nbsp;<span class=\"math-tex\">\\(3{y^2} + 14y + 8 = 0\\)</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x &ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x &le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or relationship between x and y cannot be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>I.&nbsp;<span class=\"math-tex\">\\(15{x^2} + 8x + 1 = 0\\)</span></strong></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow 15{x^2} + 5x + 3x + 1 = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow 5x\\left( {3x + 1} \\right) + 1\\left( {3x + 1} \\right) = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow \\left( {3x + 1} \\right)\\left( {5x + 1} \\right) = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow x = - \\frac{1}{3}\\)</span>&nbsp;or&nbsp;<span class=\"math-tex\">\\( - \\frac{1}{5}\\)</span><br />\n<br />\n<strong>II.&nbsp;<span class=\"math-tex\">\\(3{y^2} + 14y + 8 = 0\\)</span></strong></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow 3{y^2} + 2y + 12y + 8 = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow y\\left( {3y + 2} \\right) + 4\\left( {3y + 2} \\right) = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow \\left( {y + 4} \\right)\\left( {3y + 2} \\right) = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow y = - 4\\)</span>&nbsp;or&nbsp;<span class=\"math-tex\">\\( - \\frac{2}{3}\\)</span></p>\n\n<p><strong>Comparison between x and y (via Tabulation):</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 250px;\" width=\"409\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:24px;\">\n\t\t\t<p align=\"center\"><strong>Value of x</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\"><strong>Value of y</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\"><strong>Relation</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:22px;\">\n\t\t\t<p align=\"center\">-1/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\">-4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\"><span style=\"text-align: -webkit-center;\">x > y</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:24px;\">\n\t\t\t<p align=\"center\">-1/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\">-2/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:22px;\">\n\t\t\t<p align=\"center\">-1/5</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\">-4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\"><span style=\"text-align: -webkit-center;\">x > y</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:24px;\">\n\t\t\t<p align=\"center\">-1/5</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\">-2/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4; Clearly y < x&nbsp;</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6072b6f649f82bcd7ceb847d",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p>I.&nbsp;<span class=\"math-tex\">\\(12{x^2} - x - 1 = 0\\)</span></p>\n\n<p>II.&nbsp;<span class=\"math-tex\">\\(20{y^2} - 41y + 20 = 0\\)</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x&nbsp;=&nbsp;y or relationship between x and y cannot be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>I.&nbsp;<span class=\"math-tex\">\\(12{x^2} - x - 1 = 0\\)</span></strong></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow 12{x^2} - 4x + 3x - 1 = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow 4x\\left( {3x - 1} \\right) + 1\\left( {3x - 1} \\right) = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow x = - \\frac{1}{4}\\,\\,or\\,\\,\\frac{1}{3}\\)</span></p>\n\n<p>&nbsp;</p>\n\n<p><strong>II.&nbsp;<span class=\"math-tex\">\\(20{y^2} - 41y + 20 = 0\\)</span></strong></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow 20{y^2} - 25y - 16y + 20 = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow 5y\\left( {4y - 5} \\right) - 4\\left( {4y - 5} \\right) = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow \\left( {5y - 4} \\right)\\left( {4y - 5} \\right) = 0\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow y = \\frac{4}{5}\\,or\\,\\frac{5}{4}\\)</span></p>\n\n<p><strong>Comparison between x and y (via Tabulation):</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 250px;\" width=\"409\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:24px;\">\n\t\t\t<p align=\"center\"><strong>Value of x</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\"><strong>Value of y</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\"><strong>Relation</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:22px;\">\n\t\t\t<p align=\"center\">-1/4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\">4/5</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\"><span style=\"text-align: -webkit-center;\">x < y</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:24px;\">\n\t\t\t<p align=\"center\">-1/4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\">5/4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\"><span style=\"text-align: -webkit-center;\">x < y</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:22px;\">\n\t\t\t<p align=\"center\">1/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\">4/5</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:22px;\">\n\t\t\t<p align=\"center\">x < y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:136px;height:24px;\">\n\t\t\t<p align=\"center\">1/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\">5/4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:137px;height:24px;\">\n\t\t\t<p align=\"center\"><span style=\"text-align: -webkit-center;\">x < y</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4; Clearly x < y&nbsp;</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fe1e1ef58b14600ad219036",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction:&nbsp;</span>Each question below is followed by two statements I and II. You have to determine whether the data given in the statement is sufficient for answering the question. You should use the data and your knowledge of Mathematics to choose the best possible answer.</p>\n\n<p>What is the profit% of the marker on selling price?</p>\n\n<p><span style=\"font-weight: 700;\">Statement I.&nbsp;</span>The marker&nbsp;is marked 15% above the cost price.</p>\n\n<p><span style=\"font-weight: 700;\">Statement II.&nbsp;</span>A discount of 4% is given and the cost price of the marker is Rs. 250.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The statement I alone is sufficient to answer the question but, statement II alone is not sufficient.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The statement II alone is sufficient to answer the question but, statement I alone is not sufficient.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both the statements I and II together are needed to answer the question.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either statement I alone or statement II alone is sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neither statement I nor statement II is sufficient to answer the question.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><b>Formula Used:</b></p>\n\n<p>SP = MRP &times;&nbsp;(1 &ndash; D%/100)</p>\n\n<p>Profit = SP&nbsp;&ndash; CP</p>\n\n<p>Profit% on SP = (P/SP)&nbsp;&times; 100</p>\n\n<p>where, MRP &rarr; Marked price, SP &rarr; Selling price, CP &rarr; Cost price, D% &rarr; Discount percent,</p>\n\n<p>P% &rarr; Profit percent</p>\n\n<p><span style=\"font-weight: 700;\">Calculations:</span></p>\n\n<p><span style=\"font-weight: 700;\">Statement I.</span></p>\n\n<p>Relation between MRP and CP is given, but the CP is not given</p>\n\n<p>&rArr; Statement I alone is not sufficient&nbsp;</p>\n\n<p><span style=\"font-weight: 700;\">Statement II.</span></p>\n\n<p>CP = Rs. 250</p>\n\n<p>MRP = Rs. (115/100)&nbsp;&times; 250</p>\n\n<p>&rArr; MRP = Rs. 287.5</p>\n\n<p>SP = MRP &times;&nbsp;(1 &ndash; D%/100)</p>\n\n<p>&rArr; SP = 287.5&nbsp;&times; (1 &ndash; 4/100)</p>\n\n<p>&rArr; SP = Rs. 276</p>\n\n<p>Profit = Rs. (276&nbsp;&ndash; 250)</p>\n\n<p>&rArr; Profit = Rs. 26</p>\n\n<p>Now,&nbsp;Profit% on SP = (P/SP)&nbsp;&times; 100</p>\n\n<p>&rArr; Profit% on SP = (26/276)&nbsp;&times; 100</p>\n\n<p>&rArr; Profit% on SP = 9.4%</p>\n\n<p><span style=\"font-weight: 700;\">&there4;</span>&nbsp;<span style=\"font-weight: 700;\">The statement I and&nbsp;</span><span style=\"font-weight: 700;\">statement II both are needed&nbsp;to</span><span style=\"font-weight: 700;\">&nbsp;answer the question.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5feb0963a2f69ff309adab81",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>The time taken by a ship to travel 1000 km upstream is 40 hours more than the time taken by it to travel the same distance in downstream. The speed of the ship in still water is 200% more than that of the speed of stream.</p>\n\n<p><strong>Quantity I: </strong>How much time the ship will take to travel the same distance in upstream?&nbsp;</p>\n<strong>Quantity II: </strong>How much time the ship will take to travel 2000 km downstream if due to wind, the speed of stream was increased by 50%?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity 1 > Quantity 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity 1 &ge; Quantity 2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity 1 < Quantity 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity 1 &le; Quantity 2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity 1 = Quantity 2",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given: </strong></p>\n\n<p>Distance travelled = 1000 km</p>\n\n<p>Time taken to travel upstream = 40 hours + time taken to travel downstream</p>\n\n<p>Speed of wind = 50% more</p>\n\n<p><strong>Calculations: </strong></p>\n\n<p>Let the speed of the stream = X km per hour</p>\n\n<p>&rArr; The speed of the ship in still water = (100 + 200)% of X</p>\n\n<p>&rArr; 300% of X</p>\n\n<p>&rArr; 3 &times; X km per hour</p>\n\n<p>According to the question,</p>\n\n<p>&rArr; (1000/(3X &ndash; X)) &ndash; (1000/(3X + X)) = 40</p>\n\n<p>&rArr; (1000/2X) &ndash; (1000/4X) = 40</p>\n\n<p>&rArr; 1000 &times; 2 = 8X &times; 40</p>\n\n<p>&rArr; X = 6.25 km/hr</p>\n\n<p><strong>Quantity I : </strong></p>\n\n<p>The required time = 1000/(3X &ndash; X)</p>\n\n<p>&rArr; 1000/2X</p>\n\n<p>&rArr; 1000/(2 &times; 6.25)</p>\n\n<p>&there4; <strong>required time = 80 hours</strong></p>\n\n<p>&rArr; New speed of stream = 1.5x&nbsp;</p>\n\n<p><strong>Quantity II : </strong></p>\n\n<p>W hen the speed of stream was increased by 50% then the new speed of the stream = 150% of x</p>\n\n<p>&rArr; New speed of stream = 1.5 &times; 6.25</p>\n\n<p>&rArr; New speed of stream = 9.375 km/hr</p>\n\n<p>&rArr; The speed of the ship in downstream = 3x + x = 4x, where x = new speed of stream&nbsp;</p>\n\n<p>&rArr; 9.375 &times; 4&nbsp;= 37.5 km/hr</p>\n\n<p>&rArr; The required time = 2000/37.5 &asymp; 53 hours</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5feb0c520e5f1946906cfbd9",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Each of the questions given below consists of a question and 2 statements numbered I and II. You have to decide whether the data is sufficient to answer the question. Read both Statements carefully and then answer the questions.</strong></p>\n\n<p>Is Andy Murray older than Rafael Nadal if one of them is at least 1 year old.</p>\n\n<p><strong>Statement I.</strong> Three times Andy Murray&rsquo;s age is 3 years less than twice Rafael Nadal&rsquo;s age.</p>\n<strong>Statement II.</strong> Five times Andy Murray&rsquo;s age is one more than 4 times Rafael Nadal&rsquo;s age.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The data in statement I alone is sufficient to answer the question, while the data in statement II alone is not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The data in statement II alone is sufficient to answer the question, while the data in statement I alone is not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The data in statement I alone or in statement II alone is sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The data in both statements I and II are not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The data in both statements I and II together are necessary to answer the question.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>For statement I:</p>\n\n<p>Let Andy Murray&rsquo;s age be x.</p>\n\n<p>Let Rafael Nadal&rsquo;s age be y.</p>\n\n<p>&rArr; 3x = 2y - 3</p>\n\n<p>&rArr; 3x + 3 = 2y</p>\n\n<p>&rArr; 3(x + 1) = 2y</p>\n\n<p>&rArr; y = (3/2)(x + 1)</p>\n\n<p>&rArr; y > x</p>\n\n<p><strong>&there4;</strong><strong> Statement I is sufficient. </strong></p>\n\n<p>5x = 4y + 1</p>\n\n<p>&rArr; x = 0.8y + 0.2</p>\n\n<p>If y = 1 then x = 1 i.e x = y.</p>\n\n<p>If y > 1 then x < y</p>\n\n<p>&there4; in either case, x is not greater than y.</p>\n\n<p><strong>&there4; Statement II is sufficient.</strong></p>\n\n<p><strong>The correct answer is option 3.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5feb0bc935f3cf5e4d69498c",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Each of the questions given below consists of a question and 2 statements numbered I and II. You have to decide whether the data is sufficient to answer the question. Read both Statements carefully and then answer the questions.</strong></p>\n\n<p>Find the value of x.</p>\n\n<p><strong>Statement I.</strong> 6y + 2xyz - 8z + 5 = 0, z = 1</p>\n<strong>Statement II.</strong> y = &radic;(125 - 116)",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The data in statement I alone is sufficient to answer the question, while the data in statement II alone is not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The data in statement II alone is sufficient to answer the question, while the data in statement I alone is not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The data in statement I alone or in statement II alone is sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The data in both statements I and II are not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The data in both statements I and II together are necessary to answer the question.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>For Statement I:</p>\n\n<p>6y + 2xyz - 8z + 5 = 0, z = 1</p>\n\n<p>&rArr; 6y + 2xy(1) - 8(1) + 5</p>\n\n<p>&rArr; 6y + 2xy - 8 + 5</p>\n\n<p>&rArr; 6y + 2xy - 3 =0</p>\n\n<p>For Statement II:</p>\n\n<p>y = &radic;(125 - 116)</p>\n\n<p>&rArr; y = &radic;9</p>\n\n<p>&rArr; y = 3</p>\n<strong>Both statements together are necessary.</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "64a7f4722e65c87dfd301ee7",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "<p>What value will come in the place of the question mark &lsquo;?&rsquo; in the following question?</p>\n\n<p>[(91/&nbsp;13) + (13 &times; 12) + (13)<sup>2</sup>] +&nbsp;[(22/&nbsp;0.5) + (810 / 90)] + 15 = (?)<sup>2</sup>&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "17",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "19",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "20",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "18",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Follow BODMAS rule to solve this question, as per the order given below.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 1: Parts of an equation enclosed in &#39;Brackets&#39; must be solved second, and following BODMAS rule in the bracket</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 2: Any mathematical &#39;Of&#39; or &#39;Exponent&#39; must be solved next.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 3: Next, the parts of the equation that contain &#39;Division&#39; and &#39;Multiplication&#39; are calculated.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 4: Last but not least, the parts of the equation that contain &#39;Addition&#39; and &#39;Subtraction&#39; should be calculated.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: 700;\">Calculations:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">[(91/&nbsp;13) + (13 &times; 12) + (13)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>] +&nbsp;[(22/&nbsp;0.5) + (810 / 90)] + 15 = (?)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;[7&nbsp;+ 156&nbsp;+ 169] +&nbsp;[44&nbsp;+ 9] + 15 = (?)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 332<span style=\"color: rgb(33, 37, 41);\">&nbsp;+ 53 + 15</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;= (?)</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 400<span style=\"color: rgb(33, 37, 41);\">&nbsp;= (?)</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; ? = 20</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, 20&nbsp;will come in the place of (?).</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6480888de3ed46987008dfcb",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p>What approximate value should come in the place of question mark (?) in the following question?</p>\n\n<p>689.09 &ndash; [16.98<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;&ndash; (122.98&nbsp;+ 156.97) &divide; 4.92<sup>2</sup>] = (266.99 - 51.99) + ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "180",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "185",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "150",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "155",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "197",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">Follow BODMAS rule to solve this question, as per the order given below.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 1: Parts of an equation enclosed in &#39;Brackets&#39; must be solved first,&nbsp;and following BODMAS rule&nbsp;in the bracket -</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 2: Any mathematical &#39;Of&#39; or &#39;Exponent&#39;&nbsp;must be solved next.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 3: Next, the parts of the equation that contain &#39;Division&#39; and &#39;Multiplication&#39; are calculated.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Step - 4: Last but not the least, the parts of the equation that contain &#39;Addition&#39; and &#39;Subtraction&#39; should be calculated.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Since, we need to find out the approximate value,&nbsp;we can write these values to their nearest integers.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Given expression is</p>\n\n<p style=\"color: rgb(33, 37, 41);\">689.09 &ndash; [16.98<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;&ndash; (122.98&nbsp;+ 156.97) &divide; 4.92<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>] = (266.99 - 51.99) + ?</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;<span style=\"color: rgb(33, 37, 41);\">690&nbsp;&ndash; [17</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;&ndash; (123&nbsp;+ 157) &divide; 5</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">] = (267&nbsp;- 52) + ?</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">690&nbsp;&ndash; [289</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;&ndash; 280&nbsp;&divide; 5</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">] = 215&nbsp;+ ?</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">690&nbsp;&ndash; [289</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;&ndash; 280&nbsp;&divide; 25</span><span style=\"color: rgb(33, 37, 41);\">] = 215&nbsp;+ ?</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">690&nbsp;&ndash; [289</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;&ndash; 11</span><span style=\"color: rgb(33, 37, 41);\">] = 215&nbsp;+ ?</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">690&nbsp;&ndash; 278</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;= 215&nbsp;+ ?</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">690&nbsp;&ndash; 278 - 215</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;= ?</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr; ? = 197</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><strong><span style=\"color: rgb(33, 37, 41);\">Hence, 197 will come in the place of (?).</span></strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "640ea3e749a0955de9e859c6",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p><span style=\"\">What approximate value should come in the place of the question mark (?) in the given question?</span></p>\n\n<p><span style=\"\">(600.03% of 10.02)&nbsp;&divide; 14.99 = ? - 11.98% of 300.01 + 9.99% of 500&nbsp;</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "-10",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "15",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "-11",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "13",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "-17",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Solution :</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used :</span></p>\n\n<p style=\"\">Follow the BODMAS rule to solve this question, as per the question is given below:</p>\n\n<p style=\"\">Step 1: Parts of an equation enclosed in &#39; Brackets &#39; must be solved first and in the bracket,</p>\n\n<p style=\"\">Step 2: Any mathematical &#39; of &#39; or &#39;exponent&#39; must be solved next,</p>\n\n<p style=\"\">Step 3: Next, The part of the equation that contains &#39;Division&#39; and &#39;multiplication&#39; are calculated,</p>\n\n<p style=\"\">Step 4: Last but not least, the parts of the equation that contains &#39;Addition &#39; and &#39;Subtraction&#39; should be calculated.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Given :</span></p>\n\n<p style=\"\">&rArr; (600.03% of 10.02)&nbsp;&divide; 14.99 = ? - 11.98% of 300.01 + 9.99% of 500&nbsp;</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Approximate the number to its nearest value&nbsp;</span></p>\n\n<p style=\"\">&rArr; (600% of 10)&nbsp;&divide; 15 = ? - 12% of 300 + 10% of 500</p>\n\n<p style=\"\">&rArr; (600&nbsp;&times; 10/100)&nbsp;&divide; 15 = ? - 12&nbsp;&times; 300/100 + 10&nbsp;&times; 500/100</p>\n\n<p style=\"\">&rArr; 60&nbsp;&divide; 15 = ? - 36 + 50</p>\n\n<p style=\"\">&rArr; 4 = ? + 14</p>\n\n<p style=\"\">&rArr; ? = 4 - 14</p>\n\n<p style=\"\">&rArr; ? = - 10</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Hence,&nbsp;<strong>-10</strong>&nbsp;is the correct answ<strong>e</strong></span><strong>r<span style=\"font-weight: 700;\">.</span></strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fbe636b13ebf18144b56120",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "<p>The ratio of Ram&rsquo;s Salary for May 2020 to his salary for June 2020 was 9 : 8 and the ratio of the salary of June 2020 to October 2020 was 3 : 4. Ram got Rs.8,000 more salary in October from May 2020, and Receive 10% of the salary as Diwali Bonus in October, Find the amount of bonus.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs.5,092",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs.5,132",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs.5,020",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs.5,120",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Ratio of Ram&rsquo;s Salary for May 2020 to his salary for June 2020 = 9 : 8</p>\n\n<p>Ratio of Ram&rsquo;s Salary for June 2020 to October 2020 = 3 : 4</p>\n\n<p><strong>Concept:</strong></p>\n\n<p>If A is x% of B</p>\n\n<p>Than, x% = (A/B) &times; 100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Salary in May : Salary in June : Salary in October = 9 &times; 3 : 8 &times; 3 : 8 &times; 4</p>\n\n<p>&rArr; 27 : 24 : 32</p>\n\n<p>Or 27x : 24x : 32x</p>\n\n<p>Ram got Rs.8,000 more salary in October from May 2020 = 32x &ndash; 27x</p>\n\n<p>&rArr; 5x = 8000</p>\n\n<p>&rArr; x = 1600</p>\n\n<p>Diwali Bonus amount in October = 10% of (32 &times; 1600)</p>\n\n<p>&rArr; Rs.5,120</p>\n\n<p><strong>&there4; Amount of bonus is Rs.5,120.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fba63ebca4f4d1be54df50e",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "A driver is driving a car from Mumbai to Pune at a speed of 50 km/h. The distance between the two cities is 300 km. By what percentage, should the driver increase the speed of the car, so that he can reach 10 minutes before the usual time he takes to complete the journey?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "11/7",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "13/7",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "23/7",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "20/7",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "18/7",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>The distance between Mumbai and Pune = 300 km</p>\n\n<p>Usual speed&nbsp;of the car = 50 km/h</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Time = Distance/Speed</p>\n\n<p>Increased Speed = [(100 + percentage increase in speed)/100]&nbsp;&times;&nbsp;usual speed</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>The usual time taken to complete the journey from Mumbai to Pune is given by:</p>\n\n<p>300/50 = 6 hours</p>\n\n<p>∵ The time taken to complete the journey should be reduced by 10 minutes,</p>\n\n<p>The required time to complete the journey, with the increased speed is given by</p>\n\n<p>6 - 10/60 = 35/6&nbsp;hours</p>\n\n<p>The increased speed = distance/reduced time</p>\n\n<p>&rArr; Increased speed =&nbsp;300/(35/6) = 360/7 km/h</p>\n\n<p>The percentage increase in speed is given by&nbsp;</p>\n\n<p>{[(360/7) - 50]/50}&nbsp;&times; 100 =&nbsp;[(360 - 350)/7]&nbsp;&times; 2</p>\n\n<p>&rArr;&nbsp;[(360 - 350)/7]&nbsp;&times; 2 = 20/7 %</p>\n\n<p><strong>&there4; The required percentage increase in the speed of the car is 20/7 %</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fa91c9d00a61ba44ae11914",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "Raktim can complete 7/16 part of a work in 21 days, then he complete the remaining with the help of Puja in 18 days. How many days will be needed to complete the total work by Raktim and Puja together?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "70 days",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "32 days",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "24 days",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "48 days",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "16 days",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Raktim can complete 7/16 part of a work in = 21 days</p>\n\n<p>Raktim and Puja can complete the remaining work together in = 18 days</p>\n\n<p><strong>Concept:</strong></p>\n\n<p>A can complete a work in =&lsquo;d&rsquo; days</p>\n\n<p>&there4; In 1 day A can do = 1/d</p>\n\n<p>&there4; In x day A can do = x/d</p>\n\n<p>Efficiency = 1/time</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let Raktim and Puja together can complete the total work in X days.</p>\n\n<p>Remaining work = (1 &ndash; 7/16) = 9/16</p>\n\n<p>Raktim and Puja can do the remaining work together in 18 days.</p>\n\n<p>Raktim and Puja 1 day&rsquo;s work = 9/(16 &times; 18) = 1/32</p>\n\n<p>Raktim and Puja can complete the total work together in = 32 days</p>\n\n<p><strong>&there4; </strong><strong>Time needed to complete the remaining work is 32 days</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f520482194009ba2e9964f3",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "In an election 15% voters did not cast their votes and 20% of the votes were declared invalid out of the remaining valid votes. A receive 60% votes and he won the election by 1632 votes. Calculate how many voters were there initially, if there were two candidates A and B.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "12000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "15000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "12300",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "14400",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "14800",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Votes by which A won the election = 1632</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Let the initial votes be x</p>\n\n<p style=\"\">15% of the voters didn&rsquo;t cast their votes and 20% of the votes were declared Invalid</p>\n\n<p style=\"\">Total valid votes = x &times; (85/100) &times; (80/100)</p>\n\n<p style=\"\">A received 60% of valid votes</p>\n\n<p style=\"\">&there4; B received 40% of valid votes</p>\n\n<p style=\"\">Difference = 60 &ndash; 40 = 20%</p>\n\n<p style=\"\">Votes by which A won the election = 1632</p>\n\n<p style=\"\">&rArr; x &times; (85/100) &times; (80/100) &times; (20/100) = 1632</p>\n\n<p style=\"\">&rArr; x = 12,000</p>\n\n<p style=\"\"><strong style=\"\">&there4;</strong><strong style=\"\"> Total voters initially was 12,000.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef0790388b73764d1e3a3ac",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "On her birthday, Priyadarshani notices that 7 years ago, Priyadarshani&#39;s mother was 7 times older than Priyadarshani and after 7 years, <span style=\"\">Priyadarshani&#39;s mother</span> will be 3 times older than Priyadarshani. Find the present age of Priyadarshani?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "14 years",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "24 years",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "34 years",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "16 years",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Can&#39;t determine.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation: </strong></p>\n\n<p>Let 7 years ago Priyadarshani&#39;s age be&nbsp;x</p>\n\n<p>7 years ago Priyadarshani&#39;s Mother age be&nbsp;7x</p>\n\n<p>According to the question</p>\n\n<p>3(x + 14) = 7x + 14</p>\n\n<p>&rArr; 3x + 42 = 7x + 14</p>\n\n<p>&rArr; 4x = 28</p>\n\n<p>&rArr; x = 7</p>\n\n<p>Present age of Priyadarshani = x + 7 =&nbsp;7 + 7</p>\n\n<p>Present age of Priyadarshani =&nbsp;14 years</p>\n\n<p>&there4; The present age of Priyadarshani is 14 years</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63c6c911fca3ab8435414bb7",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "If the number of &#39;home&#39; insurance policies sold by company &#39;C&#39; is 33.33% of the total number of insurance policies sold by the same shop then find the average number of insurance policies sold by all the companies together?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "225",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "325",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "425",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "525",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "625",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Let the total number of insurance policies sold by company &#39;D&#39; = x</p>\n\n<div style=\"\">\n<p><span style=\"\">The total number of insurance policies sold by company &#39;B&#39; = x - 200</span></p>\n\n<p><span style=\"\">The total number of insurance policies sold by company &#39;A&#39; = x - 200 + 100 = x - 100</span></p>\n\n<p><span style=\"\">The average number of total insurance policies sold by companies&nbsp;&#39;A&#39;, &#39;B&#39;, and &#39;D&#39; = 500</span></p>\n\n<p><span style=\"\">Therefore, (x + x - 200 + x - 100)/3 = 500</span></p>\n\n<p><span style=\"\">&rArr; 3x - 300 = 1500</span></p>\n\n<p><span style=\"\">&rArr; 3x = 1800</span></p>\n\n<p><span style=\"\">&rArr; x = 600</span></p>\n\n<p style=\"\">The total number of insurance policies sold by company &#39;D&#39; = 600</p>\n\n<p style=\"\">The total number of insurance policies sold by company &#39;B&#39; = 600 - 200 = 400</p>\n\n<p style=\"\">The total number of insurance policies sold by company &#39;A&#39; = 600 - 100 = 500</p>\n\n<p style=\"\"><span style=\"\">The number of &#39;health&#39; insurance policies sold by company &#39;A&#39; = 50%&nbsp;&times; 500 = 250</span></p>\n\n<p style=\"\">The total number of &#39;home&#39; insurance policies sold by company &#39;A&#39; = 500 - 250 - 50 = 200</p>\n\n<p style=\"\">The number of &#39;education&#39; insurance policies sold by company &#39;B&#39; = 25%&nbsp;&times; 400 = 100</p>\n\n<p style=\"\"><span style=\"\">The number of &#39;health&#39; insurance policies sold by company &#39;B&#39; = 400 - (150 + 100) = 150</span></p>\n\n<p style=\"\"><span style=\"\">The number of &#39;education&#39; insurance policies sold by company &#39;D&#39; = 66.66%&nbsp;&times;&nbsp;600 = 400</span></p>\n\n<p style=\"\">Putting all the known information in a table we get</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 550px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">Insurance company</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of health insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of home insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of education insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Total number of insurance policies sold</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">A</th>\n\t\t\t<td style=\"text-align: center;\">250</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">B</th>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">C</th>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">D</th>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Let the total number of insurance policies sold by company &#39;C&#39; = 300T</p>\n\n<p><span style=\"\">The number of &#39;home&#39; insurance policies sold by company &#39;C&#39; = 33.33%&nbsp;&times; 300T = 100T</span></p>\n\n<p><span style=\"\">ATQ, 100T = 200</span></p>\n\n<p><span style=\"\">&rArr; T = 2</span></p>\n\n<p><span style=\"\">The total number of insurance policies sold by company &#39;C&#39; = 300T = 600</span></p>\n\n<p><span style=\"\">The average number of insurance policies sold by all the companies together = (500 + 400 + 600&nbsp;+ 600)/4 = 525</span></p>\n\n<div><strong><span style=\"\">Hence, the correct answer is 525.</span></strong></div>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "63c6c792772649f608230616",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "If the number of &#39;motor&#39; insurance policies sold by company &#39;X&#39; is 25% more than the total number of &#39;health&#39; insurance policies sold by company &#39;A&#39; and &#39;B&#39; together, then find the number of &#39;motor&#39; insurance policies sold by company &#39;X&#39;?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "250",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "300",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "400",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "450",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "500",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Let the total number of insurance policies sold by company &#39;D&#39; = x</p>\n\n<div style=\"\">\n<p>The total number of insurance policies sold by company &#39;B&#39; = x - 200</p>\n\n<p>The total number of insurance policies sold by company &#39;A&#39; = x - 200 + 100 = x - 100</p>\n\n<p>The average number of total insurance policies sold by companies&nbsp;&#39;A&#39;, &#39;B&#39;, and &#39;D&#39; = 500</p>\n\n<p>Therefore, (x + x - 200 + x - 100)/3 = 500</p>\n\n<p>&rArr; 3x - 300 = 1500</p>\n\n<p>&rArr; 3x = 1800</p>\n\n<p>&rArr; x = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;D&#39; = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;B&#39; = 600 - 200 = 400</p>\n\n<p>The total number of insurance policies sold by company &#39;A&#39; = 600 - 100 = 500</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;A&#39; = 50%&nbsp;&times; 500 = 250</p>\n\n<p>The total number of &#39;home&#39; insurance policies sold by company &#39;A&#39; = 500 - 250 - 50 = 200</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;B&#39; = 25%&nbsp;&times; 400 = 100</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;B&#39; = 400 - (150 + 100) = 150</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;D&#39; = 66.66%&nbsp;&times;&nbsp;600 = 400</p>\n\n<p>Putting all the known information in a table we get</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 550px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">Insurance company</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of health insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of home insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of education insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Total number of insurance policies sold</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">A</th>\n\t\t\t<td style=\"text-align: center;\">250</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">B</th>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">C</th>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">D</th>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"\">The total number of &#39;health&#39; insurance policies sold by companies &#39;A&#39; and &#39;B&#39; together = 250 + 150 = 400</span></p>\n\n<p><span style=\"\">The number of &#39;motor&#39; insurance policies sold by company &#39;X&#39; = 125%&nbsp;&times; 400 = 500</span></p>\n\n<div><span style=\"font-weight: 700;\">Hence, the correct answer is 500.</span></div>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "63c6c792772649f608230615",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "If the number of &#39;home&#39; insurance policies sold by another company &#39;E&#39; is 40% more than that of company &#39;A&#39;, then find the number of &#39;home&#39; insurance policies sold by company &#39;E&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "140",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "180",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "280",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "300",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "350",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Let the total number of insurance policies sold by company &#39;D&#39; = x</p>\n\n<div style=\"\">\n<p>The total number of insurance policies sold by company &#39;B&#39; = x - 200</p>\n\n<p>The total number of insurance policies sold by company &#39;A&#39; = x - 200 + 100 = x - 100</p>\n\n<p>The average number of total insurance policies sold by companies&nbsp;&#39;A&#39;, &#39;B&#39;, and &#39;D&#39; = 500</p>\n\n<p>Therefore, (x + x - 200 + x - 100)/3 = 500</p>\n\n<p>&rArr; 3x - 300 = 1500</p>\n\n<p>&rArr; 3x = 1800</p>\n\n<p>&rArr; x = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;D&#39; = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;B&#39; = 600 - 200 = 400</p>\n\n<p>The total number of insurance policies sold by company &#39;A&#39; = 600 - 100 = 500</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;A&#39; = 50%&nbsp;&times; 500 = 250</p>\n\n<p>The total number of &#39;home&#39; insurance policies sold by company &#39;A&#39; = 500 - 250 - 50 = 200</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;B&#39; = 25%&nbsp;&times; 400 = 100</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;B&#39; = 400 - (150 + 100) = 150</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;D&#39; = 66.66%&nbsp;&times;&nbsp;600 = 400</p>\n\n<p>Putting all the known information in a table we get</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 550px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">Insurance company</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of health insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of home insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of education insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Total number of insurance policies sold</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">A</th>\n\t\t\t<td style=\"text-align: center;\">250</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">B</th>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">C</th>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">D</th>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"\">The number of &#39;home&#39; insurance policies sold by company &#39;E&#39; = 200&nbsp;&times; 1.40 = 280</span></p>\n\n<div><span style=\"font-weight: 700;\">Hence, the correct answer is 280.</span></div>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "63c6c792772649f608230614",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "If the ratio of the number of &#39;health&#39; and &#39;home&#39; insurance policies sold by company &#39;D&#39; is 3 : 2 respectively, then find the total number of &#39;home&#39; and &#39;education&#39; policies sold by company &#39;D&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "350",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "380",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "450",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "480",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "520",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Let the total number of insurance policies sold by company &#39;D&#39; = x</p>\n\n<p style=\"\">The total number of insurance policies sold by company &#39;B&#39; = x - 200</p>\n\n<div style=\"\">\n<p>The total number of insurance policies sold by company &#39;A&#39; = x - 200 + 100 = x - 100</p>\n\n<p>The average number of total insurance policies sold by companies&nbsp;&#39;A&#39;, &#39;B&#39;, and &#39;D&#39; = 500</p>\n\n<p>Therefore, (x + x - 200 + x - 100)/3 = 500</p>\n\n<p>&rArr; 3x - 300 = 1500</p>\n\n<p>&rArr; 3x = 1800</p>\n\n<p>&rArr; x = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;D&#39; = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;B&#39; = 600 - 200 = 400</p>\n\n<p>The total number of insurance policies sold by company &#39;A&#39; = 600 - 100 = 500</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;A&#39; = 50%&nbsp;&times; 500 = 250</p>\n\n<p>The total number of &#39;home&#39; insurance policies sold by company &#39;A&#39; = 500 - 250 - 50 = 200</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;B&#39; = 25%&nbsp;&times; 400 = 100</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;B&#39; = 400 - (150 + 100) = 150</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;D&#39; = 66.66%&nbsp;&times;&nbsp;600 = 400</p>\n\n<p>Putting all the known information in a table we get</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 550px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">Insurance company</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of health insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of home insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of education insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Total number of insurance policies sold</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">A</th>\n\t\t\t<td style=\"text-align: center;\">250</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">B</th>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">C</th>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">D</th>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>The number of &#39;health&#39; and &#39;home&#39; insurance policies sold by company &#39;D&#39; = 600 - 400 = 200</p>\n\n<p>The number of &#39;home&#39; insurance policies sold by company &#39;D&#39; = (2/5)&nbsp;&times; 200 = 80</p>\n\n<p><span style=\"\">The total number of &#39;home&#39; and &#39;education&#39; policies sold by company &#39;D&#39; = 400 + 80 = 480</span></p>\n\n<div><span style=\"font-weight: 700;\">Hence, the correct answer is 480.</span></div>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "63c6c2113caf8ba152757590",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "If the number of &#39;health&#39; insurance policies sold by company &#39;C&#39; is 50% of the total number of insurance policies sold by the same company then find the sum of the number of &#39;home&#39; and &#39;education&#39; policies sold by company &#39;C&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "100",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "150",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "200",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "250",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "300",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Let the total number of insurance policies sold by company &#39;D&#39; = x</p>\n\n<div style=\"\">\n<p>The total number of insurance policies sold by company &#39;B&#39; = x - 200</p>\n\n<p>The total number of insurance policies sold by company &#39;A&#39; = x - 200 + 100 = x - 100</p>\n\n<p>The average number of total insurance policies sold by companies&nbsp;&#39;A&#39;, &#39;B&#39;, and &#39;D&#39; = 500</p>\n\n<p>Therefore, (x + x - 200 + x - 100)/3 = 500</p>\n\n<p>&rArr; 3x - 300 = 1500</p>\n\n<p>&rArr; 3x = 1800</p>\n\n<p>&rArr; x = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;D&#39; = 600</p>\n\n<p>The total number of insurance policies sold by company &#39;B&#39; = 600 - 200 = 400</p>\n\n<p>The total number of insurance policies sold by company &#39;A&#39; = 600 - 100 = 500</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;A&#39; = 50%&nbsp;&times; 500 = 250</p>\n\n<p>The total number of &#39;home&#39; insurance policies sold by company &#39;A&#39; = 500 - 250 - 50 = 200</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;B&#39; = 25%&nbsp;&times; 400 = 100</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;B&#39; = 400 - (200 + 100) = 150</p>\n\n<p>The number of &#39;education&#39; insurance policies sold by company &#39;D&#39; = 66.66%&nbsp;&times;&nbsp;600 = 400</p>\n\n<p>Putting all the known information in a table we get</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 550px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">Insurance company</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of health insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of home insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Number of education insurance policies sold</th>\n\t\t\t<th scope=\"col\" style=\"text-align: center;\">Total number of insurance policies sold</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">A</th>\n\t\t\t<td style=\"text-align: center;\">250</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">B</th>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">C</th>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\" style=\"text-align: center;\">D</th>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">---</td>\n\t\t\t<td style=\"text-align: center;\">400</td>\n\t\t\t<td style=\"text-align: center;\">600</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Let the total number of insurance policies sold by company &#39;C&#39; = 100T</p>\n\n<p>The number of &#39;health&#39; insurance policies sold by company &#39;C&#39; = 50%&nbsp;&times; 300T = 50T</p>\n\n<p>ATQ, 50T = 300</p>\n\n<p>&rArr; T = 6</p>\n\n<p>The total number of insurance policies sold by company &#39;C&#39; = 100T = 600</p>\n\n<p><span style=\"\">The number of &#39;education</span><span style=\"\">&#39; insurance policies sold by company &#39;C&#39; = 600 - (300 + 200) = 100</span></p>\n\n<p><span style=\"\">The sum of the number of &#39;home&#39; and &#39;education&#39; policies sold by company &#39;C&#39; = 200 + 100 = 300</span></p>\n\n<div><span style=\"font-weight: 700;\">Hence, the correct answer is 300.</span></div>\n</div>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:18.945Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

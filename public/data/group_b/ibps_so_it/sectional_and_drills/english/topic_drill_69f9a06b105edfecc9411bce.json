@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a06b105edfecc9411bce",
+  "title": "CT 2: English Language (Fill In The Blanks - Vocabulary -1)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "60d96dbb1d65e79618a6def8",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: The sentence given below has 1 blank, the blank indicating that something has been omitted. Choose the word that would fit the blank appropriately.&nbsp;&nbsp;</span></p>\n\n<div>As the death count from a building collapse in Florida keeps rising, the relatives of missing people see their hopes ________.&nbsp;</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "submerging",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "swaying",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "dwindling",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "peaking",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "awakening",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>Dwindling</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the correct answer:\n\t<ul>\n\t\t<li><strong>Dwindling</strong>:&nbsp;<span style=\"color: rgb(34, 34, 34); \">gradually diminishing in size, amount, or strength</span></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"color: rgb(34, 34, 34); \">The <strong>sentence requires an adjective</strong> that can be used to <strong>describe the quality of the hopes people have about finding their relatives</strong> involved in the building collapse.</span></li>\n\t<li><span style=\"color: rgb(34, 34, 34); \">The sentence mentions that the <strong>death count from the incident is rising</strong> and this means that there are <strong>fewer and fewer chances of people being found alive.</strong></span></li>\n\t<li><font color=\"#222222\">News like this is <strong>bound to bring the hopes of the survivors&#39;s families down</strong> as they would not expect to find their loved ones alive.&nbsp;</font></li>\n</ul>\n\n<p><br />\n<font color=\"#222222\">Thus, the correct answer is &#39;<strong>dwindling</strong>&#39;.&nbsp;</font></p>\n\n<p><font color=\"#222222\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></font></p>\n\n<p>Let&#39;s look at the meaning of the other words:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Word</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Submerging</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(32, 33, 36); \">descend below the surface of an area of water</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Swaying</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(32, 33, 36); \">move slowly or rhythmically backwards and forwards or from side to side</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Peaking</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(32, 33, 36); \">reach the highest point, either of a specified value or at a specified time</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Awakening</em></td>\n\t\t\t<td style=\"text-align: center;\">the act of awaking/ waking up from sleep&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "610915190588bd3ae2c80972",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Two sentences are given below where&nbsp;one word can fill both the blanks.&nbsp;Fill in the blanks with the suitable word from the options.</span></p>\n\n<p>1. The stern teacher warned her students against asking&nbsp;________ questions and wasting her time.&nbsp;</p>\n\n<p>2. Michael&#39;s aim to dance until he wasn&#39;t worried about his problems seemed like a/an ________ idea.&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Vicious",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Derogatory",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Ingenious",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Disingenuous",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Inane",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>Inane</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the answer:\n\t<ul>\n\t\t<li><strong>Inane:&nbsp;<span style=\"color: rgb(34, 34, 34); \">silly; stupid</span></strong></li>\n\t</ul>\n\t</li>\n\t<li>The <strong>first sentence</strong> talks about how a strict teacher gave her students a warning against asking certain types of questions.&nbsp;\n\t<ul>\n\t\t<li>It is likely that the <u>teacher asked them to not ask silly questions as they would waste the time of the teacher and the class.&nbsp;</u></li>\n\t</ul>\n\t</li>\n\t<li>The <strong>second sentence</strong> talks about how Michael&#39;s had a plan to dance in order to worry less about his problems and this idea came off in a certain way.&nbsp;\n\t<ul>\n\t\t<li><u>Unless the problem could be solved by dancing</u>, it would seem <strong>stupid and/or silly to dance </strong>instead of trying to solve the problem.&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><br />\nHence, the correct answer is <strong>Inane</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>Let&#39;s look at the meanings of the other words:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Word</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Vicious</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">deliberately cruel or violent</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Derogatory</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">showing a critical or disrespectful attitude</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Ingenious</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">clever, original, and inventive</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>DIsingenuous</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">not candid or sincere, typically by pretending that one knows less about something than one really does</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;<br />\n<img height=\"39px\" src=\"//cdn.testbook.com/images/production/quesImage6.png\" width=\"210px\" /></p>\n\n<ul>\n\t<li>While a <strong>question </strong>asked in class <u>could be disrespectful</u>, <strong>dancing </strong>to not worry about one&#39;s problems<u> cannot be considered disrespectful.&nbsp;</u></li>\n\t<li>A <strong>question </strong>asked in class <u>could be intelligent </u>and <strong>dancing </strong>in order to worry less about one&#39;s problems <u>could come off as smart</u>, yet there is <strong>no teacher who would discourage students from asking smart questions.&nbsp;&nbsp;</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60d96f7ae23e5fedcb2c58da",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: The sentence given below has 1 blank, the blank indicating that something has been omitted. Choose the word that would fit the blank appropriately.&nbsp;&nbsp;</span></p>\n\n<div>After an ________ with staff members on board a plane, a passenger jumped off a taxing plane on a runway at a US airport.&nbsp;</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "altercation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "agreement",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "compliance",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "disagreement",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "squabble",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>Altercation</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the correct word:\n\t<ul>\n <li><strong>Altercation</strong>:&nbsp;&nbsp;<span style=\"color: (34, 34, 34); \">a noisy argument or disagreement, especially in public</span></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"color: (34, 34, 34); \">The sentence<strong> requires a noun that can be used to define the interaction the passenger had with the staff</strong> which led to him jumping off a moving plane.&nbsp;</span></li>\n\t<li><span style=\"color: (34, 34, 34); \">The <strong>blank </strong>is <strong>preceded </strong>by the <strong>article &#39;an&#39;</strong>, which is <strong>used for nouns that begin with a vowel sound i.e. a, e, i, o &amp; u.</strong> Thus, the word in the blank has to start with one of these vowel sounds.&nbsp;</span></li>\n\t<li><font color=\"#222222\"><strong>Opening the door and jumping off a moving airplane is not an easy or safe task</strong> and thus is <strong>not something people usually do</strong>, it can be assumed that <strong>there was some serious reason</strong> why the person did what they did, some kind of a fight or an issue that they had.&nbsp;</font></li>\n</ul>\n\n<p><br />\n<font color=\"#222222\">Thus, the correct answer is &#39;<strong>altercation</strong>&#39;.&nbsp;</font></p>\n\n<p><font color=\"#222222\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></font></p>\n\n<p><font color=\"#222222\">Let&#39;s look at the meaning of the other words:</font></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:400px;\">\n\t<tbody>\n <tr>\n <td style=\"text-align: center;\"><strong>Word</strong></td>\n <td style=\"text-align: center;\"><strong>Meaning</strong></td>\n </tr>\n <tr>\n <td style=\"text-align: center;\"><em>Agreement</em></td>\n <td style=\"text-align: center;\"><span style=\"color: (34, 34, 34); \">harmony or accordance in opinion or feeling</span></td>\n </tr>\n <tr>\n <td style=\"text-align: center;\"><em>Compliance</em></td>\n <td style=\"text-align: center;\"><span style=\"color: (34, 34, 34); \">the state or fact of according with or meeting rules or standards</span></td>\n </tr>\n <tr>\n <td style=\"text-align: center;\"><em>Disagreement</em></td>\n <td style=\"text-align: center;\"><span style=\"color: (34, 34, 34); \">lack of consensus or approval</span></td>\n </tr>\n <tr>\n <td style=\"text-align: center;\"><em>Squabble</em></td>\n <td style=\"text-align: center;\"><span style=\"color: (34, 34, 34); \">a noisy quarrel about something petty or trivial</span></td>\n </tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "62dfaa3e5d568aaf881a95ad",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Select the most appropriate word to fill in the blank.</strong></p>\n\n<p>Though monkeypox is caused by a virus that is _____ in a few African countries, the world took note only after it was first reported in the U.K. on May 6, 2022.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "endemic",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "contained",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "limited",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "restrained",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "suppressed",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer<strong> is &#39;endemic&#39;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The given sentence is talking about monkeypox which is caused by a virus that is found among people in a few African countries.</li>\n\t<li>Therefore, the most appropriate word to be filled in the blank is <strong>&#39;endemic&#39;.</strong></li>\n\t<li>The word <strong>&#39;endemic&#39;</strong> means<strong> <span><span>(a disease or condition) regularly found among particular people or in a certain area.</span></span></strong>\n\t<ul>\n\t\t<li><strong>Example: </strong>In no time covid-19 turned into a pandemic from an<strong> endemic.</strong></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Hence, the correct answer is<strong> Option 1.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n&nbsp; Let us <strong>explore </strong>the other options:\n\n<ul>\n\t<li><strong>contained: <span><span>have or hold (someone or something) within.</span></span></strong></li>\n\t<li><strong>limited: <span><span>restricted in size, amount, or extent; few, small, or short.</span></span></strong></li>\n\t<li><strong>restrained: kept under control.</strong></li>\n\t<li><strong>suppressed: <span><span>prevent the development, action, or expression of (a feeling, impulse, idea, etc.); restrain.</span></span></strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6267da51a5f508939d1fa480",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Select the most appropriate word to fill in the blank</span>.</p>\n\n<p style=\"\">There is nothing _______ about a Pakistani Prime Minister going out kicking and screaming having lost favor with the army.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ravel",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Hovel",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Revel",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Novel",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dwell",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><strong><span style=\"\">Novel</span></strong>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>The given sentence is saying that <strong>there is nothing new about a Pakistani PrimeMinister losing favor with the army</strong>.</li>\n\t<li>Therefore, the most appropriate word to be filled in the blank is<span style=\"font-weight: 700;\">&nbsp;&#39;Novel&#39;</span>.</li>\n\t<li>Also, the use of the word&nbsp;<span style=\"font-weight: 700;\">&#39;&#39;</span><span style=\"font-weight: 700;\">nothing</span><span style=\"font-weight: 700;\">&#39;&#39;&nbsp;</span>in the sentence<span style=\"font-weight: 700;\">&nbsp;indicates</span>&nbsp;the use of the word&nbsp;<span style=\"font-weight: 700;\">&#39;novel&#39;</span>&nbsp;in the blank.</li>\n\t<li>The word &#39;<span style=\"font-weight: 700;\">Novel</span>&#39; means&nbsp;<strong>New and different</strong>.\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Example:</span><em>&nbsp;The studio is looking for <strong>novel</strong> concepts to turn into original television series</em>.<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 4</span>.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Complete Sentence:</span>&nbsp;<em>There is nothing <strong>novel</strong> about a Pakistani Prime Minister going out kicking and screaming having lost favor with the army.</em></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\">Let</span>&nbsp;us&nbsp;<span style=\"font-weight: 700;\">explore</span>&nbsp;&nbsp;the other&nbsp;<span style=\"font-weight: 700;\">options:</span>\n\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Ravel</span>&nbsp;means <strong>To&nbsp;confuse or complicate a situation</strong>.</li>\n\t\t<li><strong><span style=\"\">Hovel</span></strong>&nbsp;means&nbsp;<strong>A house or room that is not fit to live in because it is dirty or in very bad condition</strong>.</li>\n\t\t<li><strong>Revel</strong>&nbsp;means&nbsp;<span style=\"font-weight: 700;\">To<strong>&nbsp;</strong></span><strong>get great pleasure from a situation or experience</strong>.</li>\n\t\t<li><strong>Dwell</strong>&nbsp;means&nbsp;<span style=\"font-weight: 700;\">To<strong>&nbsp;</strong></span><strong>live in or at a specified place</strong>.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "62eb94c76f0abfe798ca82d4",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Select the most appropriate word to fill in the blank</span>.</p>\n\n<p style=\"\">Perhaps the most _______ example of their broken word is the one given to Afghanistan&rsquo;s young girls &mdash; female teenage students between Classes 6 and 12 are still not allowed to go to school</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Religious",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Litigious",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Egregious",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ambiguous",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Envious",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;Egregious</span>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><span id=\"docs-internal-guid-a9dcedf5-7fff-72e5-d4ee-767302098467\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The given sentence is </span></span>talking about <strong>the outstandingly bad or shocking example of Afghanistan&rsquo;s young girls not being allowed to go to school</strong>.</li>\n\t<li><span id=\"docs-internal-guid-756efd19-7fff-9560-fbd2-f6a415069f4a\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Therefore, the most appropriate word to be filled in the blank is</span><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> &#39;</span></span><span style=\"font-weight: 700;\">Egregious</span><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&#39;</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">.</span></li>\n\t<li><span id=\"docs-internal-guid-938cb150-7fff-ba4e-9ba5-0cbc5267b8ee\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Also, the use of the phrase </span><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&#39;&#39;</span></span><strong>still not allowed</strong><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&#39;&#39; </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">in the sentence</span><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> indicates</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> the use of the word </span><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&#39;</span><strong>egregious</strong><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&#39;</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> in the blank.</span></li>\n\t<li><span id=\"docs-internal-guid-4ef106ce-7fff-e5c3-b8ab-40b6194c77e9\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The word &#39;</span></span><span style=\"font-weight: 700;\">Egregious</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&#39; means </span><strong>Outstandingly bad; shocking</strong>.\n\t<ul>\n\t\t<li><span id=\"docs-internal-guid-ebdbbf89-7fff-12c7-d4f0-7e10b0020d8f\"><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Example:</span><em><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> </span></em></span><em>It was an <strong>egregious</strong> error for a statesman to show such ignorance</em>.<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 3</span>.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Complete Sentence:</span><em>&nbsp;Perhaps the most <strong>egregious</strong> example of their broken word is the one given to Afghanistan&rsquo;s young girls &mdash; female teenage students between Classes 6 and 12 are still not allowed to go to school</em>.<br />\n<br />\n<span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\">Let</span>&nbsp;us&nbsp;<span style=\"font-weight: 700;\">explore</span>&nbsp;&nbsp;the other&nbsp;<span style=\"font-weight: 700;\">options:</span>\n\n\t<ul>\n\t\t<li><strong><span style=\"\">Religious</span></strong><span style=\"font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">means </span><strong>Relating to or believing in a religion</strong>.</li>\n\t\t<li><strong><span style=\"\">Litigious</span></strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> means </span><strong>Tending or too ready to take legal action to settle disputes</strong>.</li>\n\t\t<li><strong><span style=\"\">Ambiguous</span></strong><span style=\"font-weight: 700;\">&nbsp;</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">means </span><strong>Open to more than one interpretation; not having one obvious meaning</strong>.</li>\n\t\t<li><strong><span style=\"\">Envious</span></strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;\"><span style=\"font-weight: 700;\">&nbsp;</span><span style=\"white-space: pre-wrap;\">means </span></span><strong>Wanting something that somebody else has</strong>.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "617a3d36e3337a9d7ccb87a4",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>Directions: ​There is a blank in the sentence given below. From the words given below, choose the words/word that fits into the blank most appropriately.</strong></p>\n\n<p>Global warming does not _____ storms but makes them more destructive.</p>\n\n<p>A. beget</p>\n\n<p>B. breed</p>\n\n<p>C. restrict</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "AC",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "BC",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "AB",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct words to fill the blank are, <span style=\"font-weight: 700;\">beget</span> and <span style=\"font-weight: 700;\">breed</span>.</p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"https://cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><span style=\"font-weight: 700;\"><span style=\"vertical-align: middle;\"><u>Key Points</u></span></span></span>Now let us look at the meaning of the correct words:</p>\n\n<ul>\n\t<li><span style=\"font-weight: 700;\">beget</span>:\n\n\t<div data-dobid=\"dfn\" style=\"color:  (32, 33, 36); display: inline;\">\n\t<div data-dobid=\"dfn\" style=\"color:  (32, 33, 36);  display: inline;\">cause; bring about</div>\n\t</div>\n\t<span style=\"color:  (32, 33, 36);\">. It is a verb.</span></li>\n\t<li><span style=\"font-weight: 700;\">breed</span>:\n\t<div data-dobid=\"dfn\" style=\"color:  (32, 33, 36); display: inline;\"><span style=\"color:  (48, 51, 54);   font-variant-ligatures: no-common-ligatures; letter-spacing: 0.2px;\">to be the cause of (a situation, action) <span style=\"color:  (48, 51, 54); font-variant-ligatures: no-common-ligatures; letter-spacing: 0.2px;\">It is a verb.</span></span></div>\n\t</li>\n</ul>\n\n<p>Here both &lsquo;<span style=\"font-weight: 700;\">A</span>&#39; and &#39;<strong>B</strong>&#39; aptly fit in the context of the sentence.</p>\n\n<p>Thus the sentences are:</p>\n\n<ul>\n\t<li>\n\t<p><span style=\"color:  (58, 58, 58);\">Global warming does not <strong>beget</strong> storms but makes them more destructive</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"color:  (58, 58, 58);\">Global warming does not <strong>breed</strong> storms but makes them more destructive</span></p>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"https://cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><span style=\"font-weight: 700;\"><span style=\"vertical-align: middle;\"><u>Additional Information</u></span></span></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of other words :</li>\n\t<li><span style=\"font-weight: 700;\">restrict</span>:\n\t<div data-dobid=\"dfn\" style=\"color:  (32, 33, 36);  display: inline;\">put a limit on; keep it under control.</div>\n\t</li>\n\t<li><span style=\"color:  (32, 33, 36);\"><span style=\"font-weight: 700;\">destructive</span>: </span>\n\t<div data-dobid=\"dfn\" style=\"color:  (32, 33, 36);  display: inline;\">causing great and irreparable damage.</div>\n\t</li>\n\t<li>\n\t<div data-dobid=\"dfn\" style=\"color:  (32, 33, 36); display: inline;\"><strong>storm: </strong>\n\t<div data-dobid=\"dfn\" style=\"color:  (32, 33, 36);  display: inline;\">a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.</div>\n\t</div>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "617a3961412fc01a94dc2f78",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions:&nbsp;​There is a blank in the sentence given below. From the words given below, choose the words/word that fits into the blank most appropriately.</span></p>\n\n<p>The _______ diagnosis was skin cancer and after treatment, all seemed well.</p>\n\n<p>A. ultimate</p>\n\n<p>B. eventual</p>\n\n<p>C. premier</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "AB",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "BC",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "AC",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct words to fill the blank are,&nbsp;<span style=\"font-weight: 700;\">ultimate</span>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">endmost</span>.</p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"https://cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><span style=\"font-weight: 700;\"><span style=\"vertical-align: middle;\"><u>Key Points</u></span></span></span>Now let us look at the meaning of the correct words:</p>\n\n<ul>\n\t<li><span style=\"font-weight: 700;\">ultimate</span>:&nbsp;\n\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">being or happening at the end of a process; final</div>\n\t<span style=\"color: rgb(32, 33, 36);\">. It is an adjective.</span></li>\n\t<li><span style=\"font-weight: 700;\">eventual</span>:&nbsp;happening as a result at the end of a period of time or of a process. It is an adjective.</li>\n</ul>\n\n<p>Here both &lsquo;<span style=\"font-weight: 700;\">A</span>&#39; and &#39;<b>B</b>&#39; aptly fit in the context of the sentence.&nbsp;</p>\n\n<p>Thus the sentences are:</p>\n\n<ul>\n\t<li>The <strong>ultimate</strong> diagnosis was skin cancer and after treatment, all seemed well.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>The <b>eventual&nbsp;</b>diagnosis was skin cancer and after treatment, all seemed well.​</li>\n</ul>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"https://cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><span style=\"font-weight: 700;\"><span style=\"vertical-align: middle;\"><u>Additional Information</u></span></span></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of other words :</li>\n\t<li><span style=\"font-weight: 700;\">premier</span>:&nbsp;\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">first in importance, order, or position; leading.</div>\n\t</li>\n\t<li><span style=\"color: rgb(32, 33, 36);\"><strong>diagnosis</strong>:&nbsp;</span>\n\t<div data-dobid=\"dfn\" style=\"color: rgb(32, 33, 36);  display: inline;\">the identification of the nature of an illness or other problem by examination of the symptoms.</div>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "623fec1b8196733450508ee8",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700; \">Directions: Choose the word for the given options that could fit in the blank correctly.</span></p>\n\n<div>As society becomes more _______ in cash terms, time becomes more precious.</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "wealth",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "affluence",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "affluent",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "cheerful",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is &#39;<span style=\"font-weight: 700;\">affluent</span>&#39;</p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul style=\"\">\n\t<li>Here in the blank, we need an&nbsp;<span style=\"font-weight: 700;\">adjective </span>after the<span style=\"font-weight: 700;\"> adverb &#39;more&#39;</span>.</li>\n\t<li>Let&#39;s understand the meaning of options:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Affluent(adj)&nbsp;</span>- Having an abundant supply of money or possessions of value</li>\n\t\t<li><span style=\"font-weight: 700;\">Affluence(noun)</span>&nbsp;- Abundant wealth</li>\n\t\t<li><span style=\"font-weight: 700;\">Wealth(noun)</span>&nbsp;- The quality of profuse abundance</li>\n\t\t<li><span style=\"font-weight: 700;\">Cheerful(adj)</span>&nbsp;- Being full of or promoting cheer;</li>\n\t</ul>\n\t</li>\n\t<li>Hence, the correct answer is<span style=\"font-weight: 700;\">&nbsp;option 3</span>.</li>\n</ul>\n\n<div style=\"\"><span style=\"font-weight: 700;\">​<br />\nThe correct sentence is:</span>&nbsp;<em><span style=\"\">As society becomes more <strong>affluent </strong>in cash terms, time becomes more precious.</span></em></div>",
+          "topic": "Test"
+        },
+        {
+          "id": "6307272fc64ce00874a6c518",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Select the most appropriate word to fill in the blank.</strong><br />\nShe watched him as he began to ___&nbsp;the dark yellow drink and enjoy the evening.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "abstain",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "refrain",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Sip",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "forgo",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "withhold",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is &#39;<span style=\"font-weight: 700;\">sip</span>&#39;.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;The given sentence is talking about a woman watching a man drink a dark yellow drink.</li>\n\t<li>Therefore, the most appropriate word to be filled in the blank is &#39;<span style=\"font-weight: 700;\">sip</span>&#39;.</li>\n\t<li>The word&nbsp;<span style=\"font-weight: 700;\">&#39;sip&#39;</span>&nbsp;means&nbsp;<span style=\"font-weight: 700;\">&nbsp;to drink (a liquid) a little at a time; take small tastes of</span>\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Example</span>:&nbsp;<em>He <strong>sipped</strong> the tea and enjoyed the view of the mountains</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<div>Hence, the correct answer is <strong>Option 3</strong>.</div>\n\n<div>\n<ul style=\"margin-left: 40px;\">\n\t<li>Let us explore the other options:\n\t<ul>\n\t\t<li><span style=\"white-space: pre;\"><span style=\"font-weight: 700;\">Abstain</span></span><span style=\"font-weight: 700;\">: restrain oneself from doing or enjoying something.</span></li>\n\t\t<li><span style=\"font-weight: 700;\"><span style=\"white-space: pre;\">R</span>efrain: stop oneself from doing something.</span></li>\n\t\t<li><span style=\"font-weight: 700;\">Forgo: go without (something desirable).</span></li>\n\t\t<li><span style=\"font-weight: 700;\"><span style=\"white-space: pre;\">W</span>ithhold: refuse to give (something that is due to or is desired by another).</span></li>\n\t</ul>\n\t</li>\n</ul>\n</div>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:25.878Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

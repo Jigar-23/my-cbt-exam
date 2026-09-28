@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e569ff07279f30572565",
+  "title": "English Language Sectional Test 3",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "655c9c847850b545c453b69a",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<span id=\"docs-internal-guid-012de216-7fff-30dd-2048-676151346a69\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Based on the passage, why are ground-level monitors lacking in the Amazon Rainforest?</span></span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-58f6ab99-7fff-444d-7842-b6040d083e0a\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Due to the lack of technology.</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span id=\"docs-internal-guid-07a39262-7fff-4fac-d190-9bdeab414c7e\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Because of the dense and harsh environment</span></span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span id=\"docs-internal-guid-9bcb4814-7fff-5a24-f86e-c32d819594b5\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Because the monitors are not resistant to heatwaves.</span></span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span id=\"docs-internal-guid-ab394128-7fff-668b-acff-44b6df435f19\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Due to logistical challenges in the region.</span></span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-026770b3-7fff-7a82-0abd-3e08bc8fcb23\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">The monitors become inaccessible due to deforestation.</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;Because of the dense and harsh environment.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The question is about the reasons for the lack of ground-level monitoring in the Amazon Rainforest. The passage denotes this lack to the challenging conditions of the forest.</li>\n\t<li role=\"presentation\">Dr. Jo&atilde;o Silva, an IBAMA environmental scientist, mentions the difficulty of maintaining equipment due to the harsh environment in the deep Amazonian forests.</li>\n\t<li role=\"presentation\">This difficulty is due to the dense vegetation and extreme climate, which make data collection challenging.</li>\n\t<li role=\"presentation\">Notably, the passage does not mention any technological, heatwave resistance, logistical, or deforestation-induced accessibility issues as reasons for the dearth of monitors.</li>\n</ul>\n\n<p dir=\"ltr\">Therefore, the correct answer is<strong> &#39;Option 2&#39;.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "655c9c847850b545c453b69b",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<span id=\"docs-internal-guid-08046fc4-7fff-e561-b41b-610d46a3360b\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">According to the research, how does rapid deforestation affect local fauna?</span></span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-8ca00e15-7fff-f359-9446-4c23e7e11538\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">It contributes to urban expansion.</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span id=\"docs-internal-guid-ebb38716-7fff-fd08-925e-6e597ad51fa4\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">It aids in the growth of local fauna.</span></span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span id=\"docs-internal-guid-47c5194b-7fff-1861-94a3-839ef507d638\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">It causes a reduction in their population.</span></span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span id=\"docs-internal-guid-b45b5aa4-7fff-2349-6f4d-b533d15a6003\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">It facilitates better animal movement</span></span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-a184a290-7fff-3470-c6aa-6d11182f17c5\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">It has no significant impact on local fauna</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;It causes a reduction in their population.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The question is concerning the impact of rapid deforestation on local fauna, according to the research mentioned in the passage.</li>\n\t<li role=\"presentation\">The passage specifically states that rapid deforestation events have significantly affected local fauna populations.</li>\n\t<li role=\"presentation\">An example given is the capuchin monkey population in the southeastern Amazon, which decreased by nearly 65% following a significant deforestation event in 2021.</li>\n\t<li role=\"presentation\">The passage emphasizes that the increased human activities associated with deforestation reduce available habitats and food resources, which consequently lead to a decrease in local animal populations.</li>\n</ul>\n\n<p dir=\"ltr\">Therefore, the correct answer is<strong> &lsquo;Option 3&rsquo;</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "655c9c847850b545c453b69c",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span id=\"docs-internal-guid-5c58cca4-7fff-8fd1-c342-b45f8e25d9fb\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Based on the given information in the passage, which of the following is/are correct?</span></span></p>\n\n<p><span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. Deforestation events in the Amazon have become nearly 60% more common in the previous decade.</span></span></p>\n\n<p><span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. Amazon-deforestation events frequently happen independently.</span></span></p>\n\n<p><span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. The capuchin monkey population in the southeastern Amazon increased by nearly 65% following a substantial deforestation event in 2021.</span></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-b1bb804a-7fff-9f53-6cbe-8a27b74d9819\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only A</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span id=\"docs-internal-guid-aac8d7a1-7fff-a6c0-67fa-45fcfd21be6e\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Both A and B</span></span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span id=\"docs-internal-guid-e8deedbd-7fff-af48-6ad1-682d7c68747f\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only B</span></span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span id=\"docs-internal-guid-b4cd72fa-7fff-b7e8-9edc-1e4f045303e2\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Both A and C</span></span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-ba25b447-7fff-c991-8fde-a07941e64dc0\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only C</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;Both A and B.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\"><strong>Point A</strong> states that deforestation events in the Amazon have become nearly 60% more common in the previous decade. This is explicitly stated in the text and is thus <strong>correct</strong>.</li>\n\t<li role=\"presentation\"><strong>Point B</strong> mentions that Amazon-deforestation events frequently happen independently. This is also confirmed in the text, where it states that while major deforestation events can occur across multiple regions simultaneously, those in the Amazon usually happen independently. Hence, Point B is also <strong>correct</strong>.</li>\n\t<li role=\"presentation\"><strong>Point C </strong>claims that the capuchin monkey population in the southeastern Amazon increased by nearly 65% after a significant deforestation event in 2021. However, the passage argues the opposite: the capuchin monkey population decreased by almost 65% following substantial deforestation. Therefore, point C is <strong>incorrect</strong>.</li>\n</ul>\n\n<p dir=\"ltr\">Therefore, the correct answer is<strong> &#39;Option 2&#39;.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "655c9c847850b545c453b69d",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<span id=\"docs-internal-guid-f9b119b6-7fff-1cc4-3e18-ea05344a72f3\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">What will fit in the blank from the passage: \"Amazon deforestation events could result in up to 80% more deforestation than in non-forest regions and could _________ for over nine months.&rdquo;</span></span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-cd0694c7-7fff-2940-b51b-c941393a800b\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Continue</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Cease",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Stop",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Halt",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Terminate",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;Continue.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The sentence describes how deforestation events could result in up to 80% more deforestation than in non-forest regions &mdash; indicating a continuation or persistence of the events &mdash; and could ______ for over nine months.</li>\n\t<li role=\"presentation\">Based on the context provided, the appropriate word to fill in the blank must convey an idea of persisting or ongoing events.</li>\n\t<li role=\"presentation\">The word &#39;<strong>Continue</strong>&#39; fits this context best as it conveys the idea that the deforestation event could go on for more than nine months.</li>\n</ul>\n\n<p dir=\"ltr\">Therefore, the correct answer is<strong> &#39;Option 1&#39;.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;Cease&#39;: This word means to stop, halt or terminate, which is the opposite of what is meant in the context of the sentence. The passage intends to convey that deforestation persists for over nine months, not that it ceases. Hence, it is incorrect.</li>\n\t<li role=\"presentation\">&#39;Stop&#39;: For the same reasons as &#39;Cease,&#39; the word &#39;Stop&#39; is not suitable in this context.</li>\n\t<li role=\"presentation\">&#39;Halt&#39;: This word also means to stop or suspend, which contradicts the ongoing nature of the deforestation events mentioned in the passage, making it an incorrect choice.</li>\n\t<li role=\"presentation\">&#39;Terminate&#39;: This word also denotes an end or cessation, which is inconsistent with the continuity expressed in the passage. Therefore, it is not the right option.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "655c9c847850b545c453b69e",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<span id=\"docs-internal-guid-390cecde-7fff-c8f5-fecf-e10d4e9e87a9\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">What will fit in the blank from the passage: &ldquo;A group of scientists from the Brazilian Institute of Environment and Renewable Natural Resources (IBAMA) have conducted the first ________ of accelerated deforestation in the Amazon.&rdquo;</span></span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-f1806226-7fff-db78-0b99-35a8000136dc\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Analysis</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span id=\"docs-internal-guid-2af10184-7fff-e851-3cb4-c9bac09d7b07\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Vacation</span></span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span id=\"docs-internal-guid-264e78df-7fff-f0a8-183b-293fe08095fb\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exploration</span></span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span id=\"docs-internal-guid-2e5d3a11-7fff-f900-432b-205e1f36e10b\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Complaint</span></span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-d23b9eea-7fff-0048-cb8c-0e2904a7a0f5\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Debate</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;Analysis&#39;.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">In this context, scientists from the Brazilian Institute of Environment and Renewable Natural Resources (IBAMA) are conducting some sort of investigation or study concerning accelerated deforestation in the Amazon.</li>\n\t<li role=\"presentation\">Based on the passage&#39;s subject and context, it becomes clear that this is most likely a scientific inquiry or &#39;<strong>Analysis</strong>.&#39;</li>\n\t<li role=\"presentation\">The word &#39;<strong>Analysis</strong>&#39; accurately conveys the idea that these scientists have examined or investigated the issue of accelerated deforestation.</li>\n</ul>\n\n<p dir=\"ltr\">Therefore, the correct answer is<strong> &#39;Option 1&#39;.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;Vacation&#39;: This term does not fit the context of the sentence; scientists conducting a &#39;Vacation&#39; would be nonsensical, so it&#39;s not the correct option.</li>\n\t<li role=\"presentation\">&#39;Exploration&#39;: While this could hypothetically fit, the passage suggests a formalized, scientific study, making &#39;Analysis&#39; a stronger choice. Therefore, &#39;Exploration&#39; is not the best option.</li>\n\t<li role=\"presentation\">&#39;Complaint&#39;: The context does not suggest any form of grievance or complaint. Therefore, this word choice is incorrect.</li>\n\t<li role=\"presentation\">&#39;Debate&#39;: The context is more about conducting a study or analysis, not having a discussion or argument. Thus, this option is not suitable.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "655c9c847850b545c453b69f",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<span id=\"docs-internal-guid-5456e3bf-7fff-7961-e707-dacaf5a67c2f\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the <strong>antonym </strong>of the word &lsquo;<strong>Decline</strong>&rsquo;.</span></span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Decrease",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Fall",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Diminish",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Increase",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Drop",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;Increase.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;<strong>Decline</strong>&#39;&nbsp;means to lessen or decrease (&#39;घटना&#39;, &#39;कम होना&#39;).\n\n\t<ul>\n\t\t<li role=\"presentation\"><strong>Example:</strong> \"Due to the ongoing pandemic, there has been a noticeable <strong>decline </strong>in retail sales.\"</li>\n\t</ul>\n\t</li>\n\t<li role=\"presentation\">The correct antonym for &#39;<strong>Decline</strong>&#39; is &#39;<strong>Increase</strong>&#39;, which means to grow or rise in quantity, value, or size (&#39;<strong>बढ़ना</strong>&#39;, &#39;<strong>वृद्धि होना</strong>&#39;).\n\t<ul>\n\t\t<li role=\"presentation\"><strong>Example:</strong>&nbsp;\"There has been a steady <strong>increase </strong>in the prices of commodities.\"</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p dir=\"ltr\">Therefore, the correct answer is<strong> &#39;Option 4&#39;.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;<strong>Decrease</strong>&#39;: This word is a synonym for &#39;Decline&#39; as it also means to reduce in quantity, size, or intensity (&#39;घटना&#39;). Therefore, it is not an antonym for &#39;Decline.&#39;</li>\n\t<li role=\"presentation\">&#39;<strong>Fall</strong>&#39;: Like &#39;Decline&#39; and &#39;Decrease,&#39; &#39;Fall&#39; refers to a reduction or drop (&#39;गिरावट&#39;). It is another synonym and not an antonym of &#39;Decline.&#39;</li>\n\t<li role=\"presentation\">&#39;<strong>Diminish</strong>&#39;: This word also signifies a reduction or decrease (&#39;कम होना&#39;), making it synonymous with &#39;Decline,&#39; not antonymous.</li>\n\t<li role=\"presentation\">&#39;<strong>Drop</strong>&#39;: Like the previous words, &#39;Drop&#39; denotes a fall or reduction (&#39;गिरावट&#39;), making it another synonym for &#39;Decline,&#39; and not its antonym</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "655c9c847850b545c453b6a0",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<span id=\"docs-internal-guid-e5756df6-7fff-6760-4763-9482da2abc14\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the <strong>synonym </strong>of the term &lsquo;<strong>Rapid</strong>&rsquo;.</span></span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span id=\"docs-internal-guid-ad25b4f6-7fff-7441-3781-eeeeb54b9505\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Expeditious</span></span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span id=\"docs-internal-guid-d5c478a4-7fff-7f20-b8c0-509a60a23273\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Steady</span></span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span id=\"docs-internal-guid-67927458-7fff-88d9-0e23-9218d0fcb133\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Slow</span></span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span id=\"docs-internal-guid-8733c714-7fff-9260-3e12-c98abfef72d6\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Progressive</span></span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-34d2031e-7fff-aa91-607b-f902cd658782\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Gradual</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;Expeditious.&#39;</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;<strong>Rapid</strong>&#39;&nbsp;denotes the quick or swift.&nbsp;(&#39;तीव्र&#39;).\n\n\t<ul>\n\t\t<li role=\"presentation\"><strong>Example:</strong> \"<strong>Rapid </strong>deforestation is causing significant issues for the ecosystems and climate worldwide.\"</li>\n\t</ul>\n\t</li>\n\t<li role=\"presentation\">The synonym of this term is &#39;<strong>Expeditious</strong>.&#39; The word &#39;<strong>Expeditious</strong>&#39; refers to the quality of being quick or efficient (&#39;तीव्र&#39; or &#39;तुरंत&#39;).\n\t<ul>\n\t\t<li role=\"presentation\">For instance, \"<strong>Expeditious </strong>clearing of the Amazon rainforest endangers its rich biodiversity.\"</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p dir=\"ltr\">Therefore, the correct answer is<strong> &#39;Option 1&#39;.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">&#39;Steady&#39;: This phrase generally refers to consistent increase or development. Therefore, it is not a synonym of &#39;Rapid.&#39;</li>\n\t<li role=\"presentation\">&#39;Slow&#39;: This represents gradual or slow growth or development, making it an incorrect choice.</li>\n\t<li role=\"presentation\">&#39;Progressive&#39;: This term suggests the process of gradual and systematic growth or evolution, which is not synonymous with&nbsp;&#39;Rapid.&#39;</li>\n\t<li role=\"presentation\">&#39;Gradual&#39;: This refers to slow and incremental expansion, contrasting to the speedy nature of &#39;Rapid,&#39; making it an inappropriate synonym.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "604515204d89654b4219978f",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>A sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their places. Four options with different arrangements of these words are given. Mark the option with the correct arrangement as the answer. If there is no change required, mark &#39;No rearrangement required&#39; as your answer.</strong></p>\n\n<p>After the economy was opened up, supply <strong>settled (A)</strong> and logistical <strong>issues (B)</strong> were <strong>eased (C)</strong> and prices <strong>shortage (D)</strong> back.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "DBCA",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "CDAB",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "DBAC",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ABDC",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No rearrangement required",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<strong>DBCA.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;   background-color: rgb(255, 255, 255);\">\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Settled</span>: sorted out or resolved</li>\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Issues</span>: problems or difficulty</li>\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Eased</span>: made less severe</li>\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Shortage</span>: scarcity or insufficiency</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<p>We may consider<strong> A</strong>, <strong>B</strong>, <strong>C</strong> and <strong>D</strong> to be four blanks.<strong> A</strong> is the first blank, <strong>B</strong> is the second, <strong>C</strong> is the third and <strong>D</strong> is the last.</p>\n\n<ul>\n\t<li>From the given sentence it is clear that it is talking about some issues which were solved. The word &#39;<strong>shortage</strong>&#39; is appropriate for the first blank as it is expressing supply related problem.</li>\n\t<li>The word &#39;<strong>issues</strong>&#39; is appropriate for the second blank. The words &#39;logistical issues&#39; are grammatically and contextually correct. Thus, &#39;<strong>issues</strong>&#39; is appropriate for the second blank.</li>\n\t<li>We can understand from the given sentence that the mentioned issues were mitigated. Hence, the correct choice for the third blank is &#39;<strong>eased</strong>&#39;.</li>\n\t<li>The appropriate word for the last blank is <strong>settled</strong> as prices settled back when the issues were solved. Thus the correct choice is &#39;<strong>settled</strong>&#39;.</li>\n</ul>\n\n<p><br />\n<u><strong>The correct sentence will be</strong></u>:&nbsp;<em>After the economy was opened up, supply <strong>shortages</strong> and logistical <strong>issues </strong>were <strong>eased</strong> and prices <strong>settled </strong>back</em>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6041164186612f5623d8aeb1",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>A sentence is given with four words&nbsp;marked as (A), (B), (C) and (D). These words may or may not be placed in their places. Four options with different arrangements of these words are given. Mark the option with the correct arrangement as the answer. If there is no change required, mark &#39;No rearrangement required&#39; as your answer.</strong></p>\n\n<p>Researchers say their&nbsp;<strong>extinction</strong>&nbsp;<strong>(A)</strong>, from an&nbsp;<strong>risk</strong>&nbsp;<strong>(B)</strong> of more than 900 reef sites, shows the <strong>findings</strong> <strong>(C)</strong> of <strong>analysis</strong> <strong>(D)</strong> of individual coral species is lower than current international assessments.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ABDC",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "BDCA",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "CBAD",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "CDBA",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No Rearrangement Required",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>CDBA</strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;   background-color: rgb(255, 255, 255);\">\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Risk:</span>&nbsp;the&nbsp;possibility of something unpleasant&nbsp;happening</li>\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Findings:&nbsp;</span>information that is discovered during an examination</li>\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Analysis:</span>&nbsp;the careful examination of the details of something</li>\n</ul>\n\n<p style=\"box-sizing: border-box;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px;   background-color: rgb(255, 255, 255);\">We may consider&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">A</span>,&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">B</span>,<span style=\"box-sizing: border-box; font-weight: 700;\">&nbsp;C</span>&nbsp;and&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">D</span>&nbsp;to be&nbsp;four blanks.&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">A</span>&nbsp;is the first blank,&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">B</span>&nbsp;is the second,&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">C</span>&nbsp;is the third and&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">D</span>&nbsp;is the last.</p>\n\n<ul style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;   background-color: rgb(255, 255, 255);\">\n\t<li style=\"box-sizing: border-box;\">The word &#39;<span style=\"box-sizing: border-box; font-weight: 700;\">extinction</span>&#39; which means &#39;<u style=\"box-sizing: border-box;\">complete destruction&#39;</u>&nbsp;is not appropriate for the first because it is not making the sentence contextually meaningful. The researchers can talk about their &#39;<span style=\"box-sizing: border-box; font-weight: 700;\">findings</span>&#39;. Thus, the correct choice for the first blank&nbsp;is &#39;<span style=\"box-sizing: border-box; font-weight: 700;\">findings</span>&#39;.</li>\n\t<li style=\"box-sizing: border-box;\">The article &#39;<span style=\"box-sizing: border-box; font-weight: 700;\">an</span>&#39; is used before the second blank. The words &#39;analysis&#39; and &#39;extinction&#39; begin with vowel sounds. Clearly, the word &#39;<span style=\"box-sizing: border-box; font-weight: 700;\">analysis</span>&#39; is appropriate for the second blank as we can get information from the analysis.</li>\n\t<li style=\"box-sizing: border-box;\">From the given sentence we can understand that something unpleasant has been discovered from the analysis. Thus the word &#39;<span style=\"box-sizing: border-box; font-weight: 700;\">risk</span>&#39; is appropriate for the third blank.</li>\n\t<li style=\"box-sizing: border-box;\">The issue should be mentioned in the last blank. So, the correct word is &#39;<span style=\"box-sizing: border-box; font-weight: 700;\">extinction</span>&#39;.</li>\n</ul>\n\n<p style=\"box-sizing: border-box;\"><br />\n<u><strong>The correct sentence will be</strong></u><strong>:</strong>&nbsp;<em style=\"box-sizing: border-box;   background-color: rgb(255, 255, 255);\">Researchers say their&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">findings</span>, from an&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">analysis</span>&nbsp;of more than 900 reef sites, shows the&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">risk</span>&nbsp;of&nbsp;<span style=\"box-sizing: border-box; font-weight: 700;\">extinction</span>&nbsp;of individual coral species is lower than current international assessments</em><span style=\"box-sizing: border-box;   background-color: rgb(255, 255, 255);\">.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "618aa77f11ac7b6902f91732",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: The question below has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fit the meaning of the sentence as a whole.</span></p>\n\n<p>We must _______ our _______ on oil and find other sources of fuel and energy.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "autonomy, credence",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "reduce,&nbsp;dependency",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "faith, advance",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "trust, elevate",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "support, humble",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;&#39;</span><strong>reduce, dependency</strong>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></p>\n\n<ul>\n\t<li>The&nbsp;given sentence is talking&nbsp;about&nbsp;<span style=\"font-weight: 700;\">something related to </span><strong>oil and other sources of fuel and energy</strong>.</li>\n\t<li>​<span style=\"font-weight: 700;\">Let</span>&nbsp;us&nbsp;<span style=\"font-weight: 700;\">explore</span>&nbsp;the&nbsp;<span style=\"font-weight: 700;\">words</span>&nbsp;in the&nbsp;<span style=\"font-weight: 700;\">given options:</span>\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Reduce&#39;</span>&nbsp;means&nbsp;<strong>to make something less or smaller in quantity, price, size, etc</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Dependency&#39;</span>&nbsp;means&nbsp;<strong>the state of being unable to live without something</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><br />\n<span style=\"font-weight: 700;\">Conclusion:</span>&nbsp;To lower the demand for oil and other sources of fuel and energy we must use them in small or fewer quantities.</p>\n\n<p>Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 2</span>.</p>\n\n<p><span style=\"font-weight: 700;\">Complete Sentence:</span>&nbsp;<em>We must <span style=\"font-weight: 700;\">reduce</span> our <span style=\"font-weight: 700;\">dependency</span> on oil and find other sources of fuel and energy.</em></p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></p>\n\n<ul>\n\t<li>&nbsp;The meaning of other options:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Autonomy&#39;</span>&nbsp;means&nbsp;<strong>the right of a person, an organization, a region, etc. to govern or control his/her/its own affairs</strong>.\n\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Credence&#39;</span>&nbsp;means&nbsp;<strong>belief in or acceptance of something as true</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Faith&#39;</span>&nbsp;means&nbsp;<strong>complete trust or confidence in someone or something</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Advance&#39;</span>&nbsp;means&nbsp;<strong>make or cause to make progress</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Trust&#39;</span>&nbsp;means&nbsp;<strong>firm belief in the reliability, truth, or ability of someone or something</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Elevate&#39;</span>&nbsp;means&nbsp;<strong>to move somebody or something to a higher place or more important position</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Support&#39;</span>&nbsp;means&nbsp;<strong>to help somebody by saying that you agree with him/her/it, and sometimes giving practical help such as money</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Humble&#39;</span>&nbsp;means&nbsp;<strong>having or showing a modest or low estimate of one&#39;s importance</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "618aa89011ac7b6902f93c09",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: The question below has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fit the meaning of the sentence as a whole.</span></p>\n\n<p>Right now, the college football _______ are competing for the best _______ on the high school level.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "incumbent, beast",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "awardee, creature",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "latency, devil",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "potency, brute",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "scouts,&nbsp;prospect",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;&#39;</span><strong>scouts, prospect</strong>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></p>\n\n<ul>\n\t<li>The&nbsp;given sentence is talking about&nbsp;<span style=\"font-weight: 700;\">the&nbsp;college&#39;s&nbsp;best possible football team</span>.</li>\n\t<li>​<span style=\"font-weight: 700;\">Let</span>&nbsp;us&nbsp;<span style=\"font-weight: 700;\">explore</span>&nbsp;the&nbsp;<span style=\"font-weight: 700;\">words</span>&nbsp;in the&nbsp;<span style=\"font-weight: 700;\">given options:</span>\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Scouts&#39;</span>&nbsp;means <strong>to&nbsp;make a search for someone or something in various places</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Prospect&#39;</span>&nbsp;means&nbsp;<strong>the possibility or likelihood of some future event occurring</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><br />\n<span style=\"font-weight: 700;\">Conclusion:</span>&nbsp;The search for the best footballers&nbsp;now begins from the schools only.</p>\n\n<p>Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 5</span>.</p>\n\n<p><span style=\"font-weight: 700;\">Complete Sentence:</span>&nbsp;<em>Right now, the college football <span style=\"font-weight: 700;\">scouts</span> are competing for the best <span style=\"font-weight: 700;\">prospect</span> on the high school level.</em></p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></p>\n\n<ul>\n\t<li>&nbsp;The meaning of other options:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Incumbent&#39;</span>&nbsp;means&nbsp;<strong>necessary for someone&nbsp;as a duty or responsibility</strong>.\n\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Beast&#39;</span>&nbsp;means&nbsp;<strong>an inhumanly cruel, violent, or depraved person</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Awardee&#39;</span>&nbsp;is&nbsp;<strong>a person who is awarded something, such as a prize or payment</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Creature&#39;</span>&nbsp;is&nbsp;<strong>an animal, as distinct from a human being</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Latency&#39;</span>&nbsp;means&nbsp;<strong>the state of existing but not yet being developed or manifest; concealment</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Devil&#39;</span>&nbsp;is&nbsp;<strong>a word used to show pity, anger, etc. when you are talking about a person</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Potency&#39;</span>&nbsp;means&nbsp;<strong>the power of something to influence or make an impression</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Brute&#39;</span>&nbsp;is&nbsp;<strong>a savagely violent person or animal</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "618aa96a08e22c8fc781caaf",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: The question below has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fit the meaning of the sentence as a whole.</span></p>\n\n<p>In order to _______ the waves _______ on the beach, you must actually go to a beach, or at least see it on TV.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "uniform, perceive",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "struggle, remark",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "witness,&nbsp;rolling",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "rush, disregard",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "curl, overlook",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;&#39;</span><strong>witness, rolling</strong>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></p>\n\n<ul>\n\t<li>The&nbsp;given sentence is talking about&nbsp;<span style=\"font-weight: 700;\">the waves on the beach</span>.</li>\n\t<li>​<span style=\"font-weight: 700;\">Let</span>&nbsp;us&nbsp;<span style=\"font-weight: 700;\">explore</span>&nbsp;the&nbsp;<span style=\"font-weight: 700;\">words</span>&nbsp;in the&nbsp;<span style=\"font-weight: 700;\">given options:</span>\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Witness&#39;</span>&nbsp;means&nbsp;<strong>to see something happen and be able to tell other people about it later</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Rolling&#39;</span>&nbsp;means&nbsp;<strong>moving by turning over and over on an axis</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><br />\n<span style=\"font-weight: 700;\">Conclusion:</span>&nbsp;To see the waves&nbsp;turning over and over on an axis,&nbsp;you must actually go to a beach, or at least see it on TV.</p>\n\n<p>Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 3</span>.</p>\n\n<p><span style=\"font-weight: 700;\">Complete Sentence:</span>&nbsp;<em>In order to <span style=\"font-weight: 700;\">witness</span> the waves <span style=\"font-weight: 700;\">rolling</span> on the beach, you must actually go to a beach, or at least see it on TV</em>.</p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></p>\n\n<ul>\n\t<li>&nbsp;The meaning of other options:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">&#39;</span><strong>Uniform</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;means&nbsp;<strong>not varying; the same in all cases or at all times</strong>.\n\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;</span><strong>Perceive</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;means&nbsp;<strong>to understand or think of something in a particular way</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;</span><strong>Struggle</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;means&nbsp;<strong>to try very hard to do something, especially when it is difficult</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;</span><strong>Remark</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;means&nbsp;<strong>to say or write something; to comment</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;</span><strong>Rush</strong><span style=\"font-weight: 700;\">&#39;</span>&nbsp;means&nbsp;<strong>to move or do something with great speed, often too fast</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Disregard&#39;</span>&nbsp;means&nbsp;<strong>to take no notice of somebody or something; to treat something as unimportant</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;Curl&#39;</span>&nbsp;means&nbsp;<strong>to move round in a curve</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: 700;\">&#39;Overlook&#39;</span>&nbsp;means&nbsp;<strong>to fail to see or notice something</strong>.</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "63f4b5b680199e1f14d6dbfa",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Which of the following phrases given below in the options should replace the phrase that is underlined in the sentence to make it grammatically correct? If the sentence is correct and does not require any correction mark &#39;No correction required&#39; as your answer.</strong></p>\n\n<p>It&#39;s been six months since she last saw her family so when she saw her father she <strong><u>ran towards</u></strong>&nbsp;him.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ran within",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "sprinted beside",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "ran forward",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "sprinted from",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No correction required",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 5.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong>The underlined phrase &#39;ran towards&#39; is correct.</strong></p>\n\n<p><strong>Let&#39;s understand the meanings and&nbsp;usage of the prepositions given in the options -&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>Towards -</strong>&nbsp;</li>\n\t<li>As a preposition &#39;towards&#39; means in the direction of, or closer to someone or something.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>She walked down the aisle towards her fiance.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Within -&nbsp;</strong></li>\n\t<li>In reference to space or time, &#39;within&#39; means &lsquo;inside or not further than a particular area or space or time&#39;.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>I live within ten miles of my college campus.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Beside -&nbsp;</strong></li>\n\t<li>It means next to or at the side of.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>The book is placed on the table beside the lamp.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Forward -&nbsp;</strong></li>\n\t<li>It is used to show that something moves in the direction of its front, not its back. It also means that&nbsp; something is getting better or it is moving into the future\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>We should not sit in sorrow for long and keep moving forward with our lives.</li>\n\t</ul>\n\t</li>\n\t<li><strong>From -</strong></li>\n\t<li>It is used to refer to the place where someone or something starts or originates.\n\t<ul>\n\t\t<li><strong>For Example -</strong>&nbsp;</li>\n\t\t<li>She picked the flowers from her garden.</li>\n\t</ul>\n\t</li>\n\t<li>It is used to show who sent or gave something to somebody and It is also used to show somebody&rsquo;s position or point of view.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>The view from my room is spectacular.</li>\n\t\t<li>I received a bouquet of flowers from my boss.</li>\n\t</ul>\n\t</li>\n\t<li>&#39;From&#39; is used when making or recognizing a difference between two people or things.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Even though the colour is somewhat similar, my dress is very different from yours.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "63f4bc3772118276529940f5",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Which of the following phrases given below in the options should replace the phrase that is underlined in the sentence to make it grammatically correct? If the sentence is correct and does not require any correction mark &#39;No correction required&#39; as your answer.</strong></p>\n\n<p>There was a lot of <strong><u>conflict&nbsp;among</u></strong>&nbsp;him and his father and they never saw eye to eye with each other.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "conflict over",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "dispute with",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "dispute under",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "conflict between",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No correction required",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 4.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong>The underlined phrase &#39;conflict among&#39; is incorrect.</strong></p>\n\n<ul>\n\t<li>The word &#39;dispute&#39; given in options is a synonym of the given word &#39;conflict&#39; which means a serious disagreement or argument, typically a protracted one. <strong>(टकराव/झगड़ा)</strong></li>\n\t<li>The noun &#39;conflict&#39; can be used with different prepositions to give different meanings but in the context of the given sentence the most suitable preparation should be &#39;between&#39; because in the given sentence the conflict is between two people (him and his father).</li>\n\t<li>Hence, the preposition &#39;among&#39; given in the underlined phrase is incorrect and should be replaced with the preposition &#39;between&#39;.</li>\n\t<li>Thus, the correct sentence after phrase replacement would be - <strong>There was a lot of conflict between him and his father and they never saw eye to eye with each other.</strong></li>\n</ul>\n\n<p><strong>​</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></p>\n\n<p><strong>Let&#39;s understand the meanings and usage of the prepositions given in the options -&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>Among -&nbsp;</strong>&nbsp;</li>\n\t<li>It is used to indicate &#39;in the middle or included in a larger group of people or things&#39;. And, &#39;among&#39; is commonly followed by a plural noun.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Their beautiful house is nestled among the trees.​</li>\n\t</ul>\n\t</li>\n\t<li><strong>Over -&nbsp;</strong></li>\n\t<li>It is used to talk about movement or position at a higher level than something else.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>I saw a beautiful bird fly over me.</li>\n\t</ul>\n\t</li>\n\t<li><strong>With -&nbsp;</strong></li>\n\t<li>It means &lsquo;accompanied by&rsquo; something or someone.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Rahul is coming with his friend.</li>\n\t</ul>\n\t</li>\n\t<li>The preposition &#39;With&#39; often follows adjectives that refer to reactions and feelings.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Are you not happy with your performance in the test?</li>\n\t</ul>\n\t</li>\n\t<li>It can also be used to refer to what we use to do something.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Open the door with the key.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Under -&nbsp;</strong></li>\n\t<li>&#39;Under&#39; as a preposition is similar to &#39;below&#39;. It is used to talk about something that is below or lower than something else.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>The dog is under the table.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Between -&nbsp;</strong></li>\n\t<li>It is used to indicate that something is &#39;in or into the space that separates two places, people, or objects&#39;.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>He was sitting between his mother and his father.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "63fd9fff29f69af15b78fd5e",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700; \">Directions: Which of the following phrases given below in the options should replace the phrase that is underlined in the sentence to make it grammatically correct? If the sentence is correct and does not require any correction mark &#39;No correction required&#39; as your answer.</span></p>\n\n<p>In a recent lecture, the minister laid out the <u><strong>rational and indispensability </strong></u>of the foreign policy that had emerged since last year.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "rationale and indispensability",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "rationale and indispensable",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "rational and indispensable",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ration and indispensable",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No improvement required",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">The correct answer is option 1.</span></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;</span></span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">The underlined phrase &#39;</span><span style=\"\">&nbsp;</span><u><span style=\"font-weight: 700;\">rational and indispensability</span></u><span style=\"font-weight: 700;\">&#39; is incorrect.&nbsp;</span></p>\n\n<ul style=\"\">\n\t<li>The usage of the adjective &lsquo;<strong>rational</strong>&rsquo; is erroneous.</li>\n\t<li>The correct word in place of &lsquo;rational&rsquo; would be &lsquo;<strong>rationale</strong>&rsquo; which means &lsquo;a set of reasons or a logical basis for a course of action or belief&rsquo;. (कार्रवाई या विश्वास के लिए कारणों का एक सेट या तार्किक आधार&#39;।)</li>\n\t<li>&lsquo;<strong>Rationale and indispensability</strong>&rsquo; makes the sentence correct both <strong>grammatically and contextually.</strong></li>\n\t<li>Thus, the correct sentence after phrase replacement would be-<strong><em>&nbsp;In a recent lecture, the minister laid out the rationale and indispensability of the foreign policy that had emerged since last year.</em></strong></li>\n</ul>\n\n<p style=\"\"><span style=\"font-weight: 700;\">​</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</span></span></span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Let&#39;s understand the meanings and usage of the&nbsp;</span><span style=\"font-weight: 700;\">words&nbsp;</span><span style=\"font-weight: 700;\">given in the options -&nbsp;</span></p>\n\n<ul style=\"\">\n\t<li><strong><span style=\"\">rational</span></strong><span style=\"font-weight: 700;\">-&nbsp;</span>based on or in accordance with reason or logic.&nbsp;(कारण या तर्क के आधार पर या उसके अनुसार।)<span style=\"font-weight: 700;\">&nbsp;</span>\n\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">​Example:-&nbsp;</span>\"I&#39;m sure there&#39;s a perfectly <strong>rational </strong>explanation\"</li>\n\t</ul>\n\t</li>\n\t<li><strong><span style=\"\">indispensable</span></strong><span style=\"font-weight: 700;\">-&nbsp;</span>absolutely necessary. (बिल्कुल जरूरी।)\n\t<ul>\n\t\t<li>Example:-&nbsp;\"he made himself <strong>indispensable </strong>to the parish priest\"</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "608d9e23a87160886ca84ad1",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "<p>Which of the following words fits the blank labelled as (1)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Explicit",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Wander",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Impetuous",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Imply",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Plump",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>Imply.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong>Imply:</strong>&nbsp;<span style=\"color: rgb(32, 33, 36); \">indicate the truth or existence of (something) by suggestion</span></p>\n\n<ul>\n\t<li><span style=\"color: rgb(32, 33, 36); \">​The context talks about the fact that anger management doesn&#39;t mean that you won&#39;t feel angry again. Hence the word <u><em>Imply</em></u> fits the blank appropriately.</span></li>\n</ul>\n\n<p><span style=\"color: rgb(32, 33, 36); \">​<br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Word</strong></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Explicit</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">stated clearly and in detail, leaving no room for confusion or doubt</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Wander</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">walk or move in a leisurely or aimless way</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Impetuous</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">acting or done quickly and without thought or care</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Plump</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">having a full rounded shape</span></td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "608d9e23a87160886ca84ad2",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<p>Which of the following words fits the blank labelled as (2)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Strategies",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Inconsideration",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Taciturn",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Thrifty",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Delusion",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>Strategies.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong>Strategies:</strong>&nbsp;<span style=\"color: rgb(32, 33, 36); \">a plan of action designed to achieve a long-term or overall aim</span>&nbsp;</p>\n\n<ul>\n\t<li>The context talks about the fact that adults must learn the signs of anger and strategize them to make it productive. Therefore, the word <u><em>Strategies</em></u> fits the blank appropriately.</li>\n</ul>\n\n<p><br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Word</strong></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Inconsideration</strong></td>\n\t\t\t<td>&nbsp;a<span style=\"color: rgb(32, 33, 36);  \">&nbsp;lack of consideration for others&#39; feelings</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Taciturn</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">reserved or uncommunicative in speech; saying little</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Thrifty</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">using money and other resources carefully and not wastefully</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Delusion</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36);  \">fixed, false beliefs that conflict with reality</span></td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "608d9e23a87160886ca84ad3",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<p>Which of the following words fits the blank labelled as (3)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Elated",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Calm",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Threatened",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Frugal",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Senile",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>Threatened.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong>Threatened:</strong>&nbsp;<span style=\"color: rgb(32, 33, 36); \">caused (someone or something) to be vulnerable or at risk; endangered (</span>खतरे में<span style=\"color: rgb(32, 33, 36); \">)</span></p>\n\n<ul>\n\t<li><span style=\"color: rgb(32, 33, 36); \">​The context talks about the fact that we sometimes become angry when we feel endangered. Therefore, the word<u><em> threatened</em></u> fits the blank appropriately.</span></li>\n</ul>\n\n<p><span style=\"color: rgb(32, 33, 36); \">​<br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><font color=\"#58595b\">Word</font></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><font color=\"#58595b\">Meaning</font></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><font color=\"#58595b\">Elated</font></td>\n\t\t\t<td><font color=\"#58595b\">&nbsp;ecstatically happy (उल्लासित)</font></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><font color=\"#58595b\">Calm</font></td>\n\t\t\t<td><font color=\"#58595b\">&nbsp;not showing or feeling nervousness, anger, or other strong emotions (शांत)</font></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><font color=\"#58595b\">Frugal</font></td>\n\t\t\t<td><font color=\"#58595b\">&nbsp;sparing or economical as regards money or food (मितव्ययी)</font></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><font color=\"#58595b\">Senile</font></td>\n\t\t\t<td><font color=\"#58595b\">&nbsp;exhibiting a loss of cognitive abilities&nbsp; (मानसिक दुर्बलता)</font></td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "608d9e23a87160886ca84ad4",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "<p>Which of the following words fits the blank labelled as (4)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Furtive",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Procrastinate",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Manifest",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Conceive",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Suspend",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>Manifest.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong>Manifest:</strong>&nbsp;<span style=\"color: rgb(32, 33, 36); \">clear or obvious to the eye or mind</span></p>\n\n<ul>\n\t<li><span style=\"color: rgb(32, 33, 36); \">​The context talks about the fact that a</span>ggression may also display&nbsp;itself as grumpiness, irritability&nbsp;or sarcasm. Therefore, the word <u><em>Manifest</em></u> fits the blank appropriately.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Word</strong></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Furtive</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">attempting to avoid notice or attention</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Procrastinate</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">delay or postpone action; put off doing something</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Conceive</strong></td>\n\t\t\t<td><span style=\"color: rgb(32, 33, 36);  \">&nbsp;to form a</span>&nbsp;conception<span style=\"color: rgb(32, 33, 36);  \">&nbsp;of</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Suspend</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">temporarily prevent from continuing or being in force or effect</span></td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "608d9e23a87160886ca84ad5",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "<p>Which of the following words fits the blank labelled as (5)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Wily",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Assertive",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Meek",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Violent",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dampen",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>Assertive</strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong>Assertive:</strong>&nbsp;<span style=\"color: rgb(32, 33, 36); \">having or showing a confident and forceful personality; commanding</span></p>\n\n<ul>\n\t<li><span style=\"color: rgb(32, 33, 36); \">​The context talks about the fact that a person can be commanding of his rights and values. Therefore, the word <u><em>Assertive</em></u> fits the blank appropriately.</span></li>\n</ul>\n\n<p><br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Word</strong></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 0);\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Wily</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">skilled at gaining an advantage, especially deceitfully</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Meek</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">quiet, gentle, and easily imposed on</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Violent</strong></td>\n\t\t\t<td>&nbsp;<span style=\"color: rgb(32, 33, 36); \">using or involving physical force intended to hurt, damage, or kill&nbsp; &nbsp;someone or something</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Dampen</strong></td>\n\t\t\t<td>&nbsp;make slightly wet</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "621aedf171ab7f9ff10b97fd",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Read the sentence given below to find out if it contains an error. The error, if any, will be in one part of the sentence. if the sentence is error free, select No error or option 5. Ignore errors of punctuation if any.</span></p>\n\n<p style=\"\">Abhishek&#39;s youngest(A)&nbsp;brother is (B) fond of (C) playing a guitar. (D) No Error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;D&#39; i.e. this part of the sentence has an error.<span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></p>\n\n<ul style=\"\">\n\t<li aria-level=\"1\" dir=\"ltr\">\n\t<div dir=\"ltr\" role=\"presentation\">The error lies in<span style=\"font-weight: 700;\">&nbsp;Part D</span>&nbsp;of the sentence.</div>\n\t</li>\n\t<li aria-level=\"1\" dir=\"ltr\">\n\t<div dir=\"ltr\" role=\"presentation\">Replace&nbsp;<span style=\"font-weight: 700;\">A&nbsp;</span>with&nbsp;<span style=\"font-weight: 700;\">The</span>.</div>\n\t</li>\n\t<li>The<span style=\"font-weight: 700;\">&nbsp;definite article</span>&nbsp;&#39;<span style=\"font-weight: 700;\">the</span>&#39;<span style=\"color: (59, 62, 77);\">&nbsp;limits the meaning of a&nbsp;<span style=\"font-weight: 700;\">noun&nbsp;</span>to one particular thing, also &#39;<span style=\"font-weight: 700;\">the</span>&#39; can come&nbsp;</span><span style=\"color: (68, 68, 68);\">before&nbsp;<span style=\"font-weight: 700;\">a singular or plural noun</span></span>\n\t<ul>\n\t\t<li><span style=\"color: (59, 62, 77);\"><span style=\"font-weight: 700;\">For example</span>, your friend might ask, &ldquo;Are you going to&nbsp;</span><span style=\"font-weight: 700;\">the</span><span style=\"color: (59, 62, 77);\">&nbsp;party this weekend?&rdquo;</span></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"color: (59, 62, 77);\">As <b>Guitar&nbsp;</b>is one particular thing that we talked about in this sentence, Therefore we need to use&nbsp;<span style=\"font-weight: 700;\">The&nbsp;</span>instead of&nbsp;<span style=\"font-weight: 700;\">A.</span></span></li>\n\t<li><span style=\"color: (59, 62, 77);\"><span style=\"font-weight: 700;\">​</span>Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 4.</span></span><br />\n\t&nbsp;</li>\n</ul>\n\n<div dir=\"ltr\" role=\"presentation\" style=\"\"><span style=\"font-weight: 700;\">The correct sentence is</span>:<i>&nbsp;Abhishek&#39;s youngest brother&nbsp;is fond of playing&nbsp;<span style=\"font-weight: 700;\">the</span>&nbsp;guitar.</i></div>\n\n<div dir=\"ltr\" role=\"presentation\" style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</span></div>\n\n<div dir=\"ltr\" role=\"presentation\" style=\"\">\n<ul>\n\t<li>We use the article &#39;<span style=\"font-weight: 700;\">an&#39;</span>&nbsp;<span style=\"color: (68, 68, 68);\">before&nbsp;<span style=\"font-weight: 700;\">a singular noun beginning with a vowel sound.</span></span>\n\n\t<ul>\n\t\t<li><span style=\"color: (68, 68, 68);\"><span style=\"font-weight: 700;\">Ex:&nbsp;</span></span><em>The jury will hold&nbsp;<span style=\"font-weight: 700;\">an&nbsp;</span>emergency meeting half&nbsp;<span style=\"font-weight: 700;\">an&nbsp;</span>hour before announcing its decision.</em></li>\n\t</ul>\n\t</li>\n\t<li>We use the article &#39;<span style=\"font-weight: 700;\">a&#39;</span>&nbsp;<span style=\"color: (68, 68, 68);\">before&nbsp;<span style=\"font-weight: 700;\">a singular noun beginning with a&nbsp;</span><span style=\"font-weight: 700;\">consonant&nbsp;</span><span style=\"font-weight: 700;\">sound.</span></span>\n\t<ul>\n\t\t<li><span style=\"color: (68, 68, 68);\"><span style=\"font-weight: 700;\">Ex:<em>&nbsp;</em></span></span><em>This is&nbsp;<span style=\"font-weight: 700;\">a&nbsp;</span>car.</em></li>\n\t</ul>\n\t</li>\n</ul>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "62988768f0dbd5553a75e98f",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</span></p>\n\n<p style=\"\">UNDER</p>\n\n<p style=\"\">A.&nbsp;A last-minute <strong>under</strong> cost them the match.</p>\n\n<p style=\"\">B.&nbsp;<span style=\"\">We found her hiding&nbsp;</span><span style=\"font-weight: 700; \">under</span><span style=\"\">&nbsp;the table.</span></p>\n\n<p style=\"\">C.&nbsp;Many&nbsp;people had suffered <strong>under</strong> his rule.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span>​<strong>Both B and C</strong>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>The word &#39;<span style=\"font-weight: 700;\">Under</span>&#39;&nbsp;as a&nbsp;<span style=\"font-weight: 700;\">preposition</span>&nbsp;means<span style=\"font-weight: 700;\">&nbsp;</span><strong>In or to a position that is below something</strong>.</li>\n\t<li>The word &#39;<span style=\"font-weight: 700;\">Under</span>&#39; as&nbsp;a&nbsp;<span style=\"font-weight: 700;\">preposition&nbsp;</span>means&nbsp;<strong>Governed or controlled by somebody or something</strong>.\n\t<ul>\n\t\t<li>In&nbsp;<span style=\"font-weight: 700;\">sentence A</span>,&nbsp;the word&nbsp;&#39;<span style=\"font-weight: 700;\">Under</span>&#39;&nbsp;<span style=\"\">is&nbsp;</span><span style=\" font-weight: 700;\">inappropriately used</span><span style=\"\">&nbsp;and doesn&#39;t fit the context of the sentence.</span></li>\n\t\t<li>In&nbsp;<span style=\"font-weight: 700;\">sentence B</span>,&nbsp;the word &#39;<span style=\"font-weight: 700;\">Under</span>&#39;&nbsp;has been correctly used as a&nbsp;<span style=\"font-weight: 700;\">preposition</span>&nbsp;as the sentence&nbsp;is talking about someone hiding below the table.</li>\n\t\t<li>In&nbsp;<span style=\"font-weight: 700;\">sentence C</span>,&nbsp;the word&nbsp;&#39;<span style=\"font-weight: 700;\">Under</span>&#39;&nbsp;<span style=\"\">has been correctly used as a&nbsp;</span><span style=\" font-weight: 700;\">preposition</span><span style=\"\">&nbsp;as the sentence&nbsp;is talking about the suffering of people during particular governance.</span><br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p style=\"\">Hence,&nbsp;the only possible answer&nbsp;is&nbsp;<span style=\"font-weight: 700;\">option 4</span>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6294a4302870a265eb6252f6",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</span></p>\n\n<p style=\"\">ADOPTED</p>\n\n<p style=\"\">A.&nbsp;Millions were <strong>adopted</strong> in Swiss bank accounts.</p>\n\n<p style=\"\">B.&nbsp;They&nbsp;have <strong>adopted</strong> a baby girl.</p>\n\n<p style=\"\">C.&nbsp;The committee ultimately <strong>adopted</strong> his suggestions.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span>​<span style=\"font-weight: 700;\">Both B and C</span>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>The word &#39;<span style=\"font-weight: 700;\">Adopted</span>&#39;&nbsp;as a&nbsp;<span style=\"font-weight: 700;\">verb</span>&nbsp;means<span style=\"font-weight: 700;\">&nbsp;To</span><strong>&nbsp;take a child into your family and treat him/her as your own child by law</strong>.</li>\n\t<li>The word &#39;<span style=\"font-weight: 700;\">Adopted</span>&#39; as&nbsp;a&nbsp;<span style=\"font-weight: 700;\">verb</span><span style=\"font-weight: 700;\">&nbsp;</span>means&nbsp;<span style=\"font-weight: 700;\">To<strong>&nbsp;</strong></span><strong>choose to take up, follow, or use</strong>.\n\t<ul>\n\t\t<li>In&nbsp;<span style=\"font-weight: 700;\">sentence A</span>,&nbsp;the word&nbsp;&#39;<span style=\"font-weight: 700;\">Adopted</span>&#39;&nbsp;<span style=\"\">is&nbsp;</span><span style=\" font-weight: 700;\">inappropriately used</span><span style=\"\">&nbsp;and doesn&#39;t fit the context of the sentence.</span></li>\n\t\t<li>In&nbsp;<span style=\"font-weight: 700;\">sentence B</span>,&nbsp;the word &#39;<span style=\"font-weight: 700;\">Adopted</span>&#39;&nbsp;has been correctly used as a&nbsp;<span style=\"font-weight: 700;\">verb</span>&nbsp;as the sentence&nbsp;is talking about someone taking a baby girl into their family.</li>\n\t\t<li>In&nbsp;<span style=\"font-weight: 700;\">sentence C</span>,&nbsp;the word&nbsp;&#39;<span style=\"font-weight: 700;\">Adopted</span>&#39;&nbsp;<span style=\"\">has been correctly used as a&nbsp;</span><span style=\" font-weight: 700;\">verb</span><span style=\"\">&nbsp;as the sentence&nbsp;is talking about the committee finally following someone&#39;s suggestion.</span></li>\n\t</ul>\n\t</li>\n</ul>\n<span style=\"\">&nbsp;</span>\n\n<p style=\"\">Hence,&nbsp;the only possible answer&nbsp;is&nbsp;<span style=\"font-weight: 700;\">option 4</span>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6096d99e8136893f6b2a341a",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in the correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer. </strong></p>\n\n<p>The police were <span style=\"font-weight: 700;\">unruly</span><strong>(A)</strong> to stop the<strong>&nbsp;</strong><span style=\"font-weight: 700;\">sent</span><strong>(B)</strong> drunks from <strong>throwing(C)</strong> bottles at cars <strong>passing(D)</strong> by.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A - C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "D - C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B - D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A - B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No arrangements",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">A - B.</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<p>Let us look at the given sentence in the following manner:&nbsp;</p>\n\n<ul>\n\t<li>Police were ______<span style=\"font-weight: 700;\">(A)</span>&nbsp;to stop the ______<span style=\"font-weight: 700;\">(B)</span>&nbsp;drunks from ______<span style=\"font-weight: 700;\">(C)</span>&nbsp;bottles at cars ______<span style=\"font-weight: 700;\">(D)</span>&nbsp;by.</li>\n\t<li>From the below-given table, we get to know the meanings of the&nbsp;words in bold.&nbsp;</li>\n\t<li>In <strong>(A)</strong>&nbsp;<b><i>unruly to stop&nbsp;</i></b>and in&nbsp;<span style=\"font-weight: 700;\">(B)&nbsp;<strong><em>sent drunks</em></strong><em>&nbsp;</em></span>both are incorrect phrases.&nbsp;</li>\n\t<li>The sentence tells us that police were sent to stop the&nbsp;disruptive drunks from&nbsp;throwing&nbsp;bottles at cars&nbsp;passing&nbsp;by.</li>\n\t<li>So, <b>A&nbsp;</b>and&nbsp;<span style=\"font-weight: 700;\">B</span>&nbsp;should be interchanged to make the sentence correct.&nbsp;<br />\n\t&nbsp;</li>\n</ul>\n\n<p>Therefore the correct sentence is,&nbsp;<strong><em>Police were&nbsp;<span style=\"font-weight: 700;\">sent</span>&nbsp;to stop the&nbsp;<span style=\"font-weight: 700;\">unruly</span>&nbsp;drunks from&nbsp;<span style=\"font-weight: 700;\">throwing</span>&nbsp;bottles at cars&nbsp;<span style=\"font-weight: 700;\">passing</span>&nbsp;by.</em></strong>​<br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>To understand which word belongs to which blank we need to know&nbsp;their meanings as enlisted below:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color: rgb(255, 255, 255); width: 350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153); text-align: center;\"><span style=\"font-weight: 700;\">Words</span></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153); text-align: center;\"><span style=\"font-weight: 700;\">Meanings</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">sent</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(32, 33, 36); \">cause to go or be taken to a particular destination; arrange for the delivery of, especially by post</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">unruly</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(32, 33, 36); \">disorderly and disruptive and not amenable to discipline or control.</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">throwing</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(32, 33, 36); \">propel (something) with force through the air by a movement of the arm and hand.</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">passing</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(32, 33, 36);\">(of a period of time) going by.</span></td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "62aa72e1979436665011b153",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Select the phrase/connector from the three options that can be used to form a single sentence from the two sentences below, implying the same as expressed in the statement sentence.</span></p>\n\n<p style=\"\">I won&rsquo;t pay you. You drop me to the right stoppage.</p>\n\n<p style=\"\">1. Yet</p>\n\n<p style=\"\">2. Unless</p>\n\n<p style=\"\">3. But</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both 1 and 2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both 2 and 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">Only 2</span>.</p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;</span></span></p>\n\n<ul style=\"\">\n\t<li>Connectors&nbsp;are&nbsp;words that demonstrate the<span style=\"font-weight: 700;\">&nbsp;connection between ideas in different sentences, paragraphs, or sections</span>.</li>\n\t<li>In the sentence, it says that I will pay you when&nbsp;<span style=\"\">You will drop me to the right stoppage.</span></li>\n\t<li>So, the connector which can appropriately connect these two sentences is&nbsp;<span style=\"font-weight: 700;\">&#39;Unless&#39;</span>. We use it to refer <strong>except if (used to introduce the case in which a statement being made is not valid).</strong>\n\t<ul>\n\t\t<li><strong>​</strong>You can&#39;t get a job <strong>unless</strong> you have experience.</li>\n\t</ul>\n\t</li>\n\t<li>So, &#39;<b>unless</b>&#39; is the correct connector for the given sentence.</li>\n\t<li><span style=\"font-weight: 700;\">The correct sentence will be</span>&nbsp;-<em>&nbsp;<span style=\"\">I won&rsquo;t pay you unless you drop me to the right stoppage.</span></em></li>\n</ul>\n\n<p style=\"\"><em><em>​&nbsp;</em><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</span></em></p>\n\n<ul style=\"\">\n\t<li>The types of connectors in English are:&nbsp;<span style=\"font-weight: 700;\">coordinating conjunctions, correlative conjunctions, subordinating conjunctions, conductive adverbs and prepositional phrases.</span></li>\n\t<li><span style=\"font-weight: 700;\">&#39;Yet&#39; and &#39;but&#39;</span>&nbsp;are&nbsp;coordinating conjunctions that&nbsp;<span style=\"font-weight: 700;\">mean&nbsp;&lsquo;nevertheless</span>&rsquo;. We use it to&nbsp;<span style=\"font-weight: 700;\">show contrast</span>&nbsp;and<span style=\"font-weight: 700;\">&nbsp;&#39;yet&#39; often occurs after &#39;and&#39;.</span>\n\t<ul>\n\t\t<li>So much greenery<span style=\"font-weight: 700;\">&nbsp;</span>and&nbsp;<span style=\"font-weight: 700;\">yet</span>&nbsp;so few insects.</li>\n\t\t<li>He studied hard&nbsp;<span style=\"font-weight: 700;\">but</span>&nbsp;failed miserably.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p style=\"\"><em>&nbsp;</em></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:20.026Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

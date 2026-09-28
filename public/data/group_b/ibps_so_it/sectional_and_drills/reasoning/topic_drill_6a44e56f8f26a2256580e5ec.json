@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e56f8f26a2256580e5ec",
+  "title": "Reasoning Sectional Test 3",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Reasoning",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5efc346ebde2d60d0c50f7a5",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Who owns Wagon R?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Jay",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Garima",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Shilpa",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Kailash",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>People:- Jay, Arpita, Tarun, Mayank, Shilpa, Neeraj, Kailash and Garima.</p>\n\n<p>Colours:- Black, Red, Silver, Blue, White, Pink, Grey and Yellow</p>\n\n<p>Cars:- Mustang, Wagon R, Verna, Alto, Ciaz, Baleno, Polo and Nano</p>\n\n<p>1) Jay likes black colour and likes either Mustang or Ciaz.</p>\n\n<p>2) Arpita has Verna car and likes either White or Silver colour.</p>\n\n<p>3) Mayank likes Grey Colour and owns either Polo or Mustang.</p>\n\n<p>4) The person who likes Silver colour owns Alto.</p>\n\n<p>From this statement, we can conclude that Arpita likes White colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>5) Tarun likes either Blue or Red colour.</p>\n\n<p>6) Kailash likes either Silver or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><span style=\"text-align: center;\">Blue/Red</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver/Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>7) Garima owns either Alto or Polo.</p>\n\n<p>8) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<p>This implies that Jay owns Mustang, Tarun likes Blue colour, Mayank owns Polo and Garima owns Alto and likes Silver colour. It can also be concluded that Kailash likes Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>9) The person who likes Yellow colour owns Baleno.</p>\n\n<p>10) The person who owns Nano car likes Pink Colour.</p>\n\n<p>11) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>12) Shilpa does not own Ciaz.</p>\n\n<p>13) Shilpa likes neither Pink nor Silver colour.</p>\n\n<p>This implies that Shilpa likes yellow colour and owns Baleno. Also, Neeraj likes Pink colour and owns Nano car.</p>\n\n<p>14) The person who owns wagon R does not like Blue colour.</p>\n\n<p>This implies that Kailash owns Wagon R. and TarunownsCiaz.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Ciaz</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Yellow</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Baleno</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Pink</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Nano</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Wagon R</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Hence, Kailash owns Wagon R.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5efc346ebde2d60d0c50f7a6",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which of the following combination is correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Shilpa &ndash; Red &ndash; Baleno",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Tarun &ndash; Blue &ndash; Wagon R",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Kailash &ndash; Silver &ndash; Mustang",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Garima &ndash; Silver &ndash; Ciaz",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neeraj &ndash; Pink &ndash; Nano",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>People:- Jay, Arpita, Tarun, Mayank, Shilpa, Neeraj, Kailash and Garima.</p>\n\n<p>Colours:- Black, Red, Silver, Blue, White, Pink, Grey and Yellow</p>\n\n<p>Cars:- Mustang, Wagon R, Verna, Alto, Ciaz, Baleno, Polo and Nano</p>\n\n<p>1) Jay likes black colour and likes either Mustang or Ciaz.</p>\n\n<p>2) Arpita has Verna car and likes either White or Silver colour.</p>\n\n<p>3) Mayank likes Grey Colour and owns either Polo or Mustang.</p>\n\n<p>4) The person who likes Silver colour owns Alto.</p>\n\n<p>From this statement, we can conclude that Arpita likes White colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>5) Tarun likes either Blue or Red colour.</p>\n\n<p>6) Kailash likes either Silver or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><span style=\"text-align: center;\">Blue/Red</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver/Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>7) Garima owns either Alto or Polo.</p>\n\n<p>8) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<p>This implies that Jay owns Mustang, Tarun likes Blue colour, Mayank owns Polo and Garima owns Alto and likes Silver colour. It can also be concluded that Kailash likes Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>9) The person who likes Yellow colour owns Baleno.</p>\n\n<p>10) The person who owns Nano car likes Pink Colour.</p>\n\n<p>11) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>12) Shilpa does not own Ciaz.</p>\n\n<p>13) Shilpa likes neither Pink nor Silver colour.</p>\n\n<p>This implies that Shilpa likes yellow colour and owns Baleno. Also, Neeraj likes Pink colour and owns Nano car.</p>\n\n<p>14) The person who owns wagon R does not like Blue colour.</p>\n\n<p>This implies that Kailash owns Wagon R. and TarunownsCiaz.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Ciaz</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Yellow</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Baleno</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Pink</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Nano</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Wagon R</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Hence, correct combination is Neeraj &ndash; Pink &ndash; Nano.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5efc346ebde2d60d0c50f7a7",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Shilpa likes which colour?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Blue",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Yellow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "White",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Red",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Grey",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>People:- Jay, Arpita, Tarun, Mayank, Shilpa, Neeraj, Kailash and Garima.</p>\n\n<p>Colours:- Black, Red, Silver, Blue, White, Pink, Grey and Yellow</p>\n\n<p>Cars:- Mustang, Wagon R, Verna, Alto, Ciaz, Baleno, Polo and Nano</p>\n\n<p>1) Jay likes black colour and likes either Mustang or Ciaz.</p>\n\n<p>2) Arpita has Verna car and likes either White or Silver colour.</p>\n\n<p>3) Mayank likes Grey Colour and owns either Polo or Mustang.</p>\n\n<p>4) The person who likes Silver colour owns Alto.</p>\n\n<p>From this statement, we can conclude that Arpita likes White colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>5) Tarun likes either Blue or Red colour.</p>\n\n<p>6) Kailash likes either Silver or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><span style=\"text-align: center;\">Blue/Red</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver/Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>7) Garima owns either Alto or Polo.</p>\n\n<p>8) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<p>This implies that Jay owns Mustang, Tarun likes Blue colour, Mayank owns Polo and Garima owns Alto and likes Silver colour. It can also be concluded that Kailash likes Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>9) The person who likes Yellow colour owns Baleno.</p>\n\n<p>10) The person who owns Nano car likes Pink Colour.</p>\n\n<p>11) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>12) Shilpa does not own Ciaz.</p>\n\n<p>13) Shilpa likes neither Pink nor Silver colour.</p>\n\n<p>This implies that Shilpa likes yellow colour and owns Baleno. Also, Neeraj likes Pink colour and owns Nano car.</p>\n\n<p>14) The person who owns wagon R does not like Blue colour.</p>\n\n<p>This implies that Kailash owns Wagon R. and TarunownsCiaz.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Ciaz</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Yellow</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Baleno</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Pink</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Nano</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Wagon R</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Hence, Shilpa likes Yellow colour.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5efc346ebde2d60d0c50f7a8",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "The person who likes Blue colour owns which Car?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Polo",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Wagon R",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mustang",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Verna",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>People:- Jay, Arpita, Tarun, Mayank, Shilpa, Neeraj, Kailash and Garima.</p>\n\n<p>Colours:- Black, Red, Silver, Blue, White, Pink, Grey and Yellow</p>\n\n<p>Cars:- Mustang, Wagon R, Verna, Alto, Ciaz, Baleno, Polo and Nano</p>\n\n<p>1) Jay likes black colour and likes either Mustang or Ciaz.</p>\n\n<p>2) Arpita has Verna car and likes either White or Silver colour.</p>\n\n<p>3) Mayank likes Grey Colour and owns either Polo or Mustang.</p>\n\n<p>4) The person who likes Silver colour owns Alto.</p>\n\n<p>From this statement, we can conclude that Arpita likes White colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:52px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>5) Tarun likes either Blue or Red colour.</p>\n\n<p>6) Kailash likes either Silver or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Condition</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang/Ciaz</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><span style=\"text-align: center;\">Blue/Red</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo/Mustang</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver/Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>7) Garima owns either Alto or Polo.</p>\n\n<p>8) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<p>This implies that Jay owns Mustang, Tarun likes Blue colour, Mayank owns Polo and Garima owns Alto and likes Silver colour. It can also be concluded that Kailash likes Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"margin-left:3.3pt;\">&nbsp;</p>\n\n<p>9) The person who likes Yellow colour owns Baleno.</p>\n\n<p>10) The person who owns Nano car likes Pink Colour.</p>\n\n<p>11) The person who owns Ciaz likes either Blue colour or Red colour.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>12) Shilpa does not own Ciaz.</p>\n\n<p>13) Shilpa likes neither Pink nor Silver colour.</p>\n\n<p>This implies that Shilpa likes yellow colour and owns Baleno. Also, Neeraj likes Pink colour and owns Nano car.</p>\n\n<p>14) The person who owns wagon R does not like Blue colour.</p>\n\n<p>This implies that Kailash owns Wagon R. and TarunownsCiaz.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>People</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Colours</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cars</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Constraints</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Jay</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Black</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Mustang</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"8\">\n\t\t\t<p style=\"text-align: center;\">Alto &ndash; Silver</p>\n\n\t\t\t<p style=\"text-align: center;\">Baleno &ndash; Yellow</p>\n\n\t\t\t<p style=\"text-align: center;\">Nano &ndash; Pink</p>\n\n\t\t\t<p style=\"text-align: center;\">Ciaz &ndash; Blue / Red</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Arpita</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">White</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Verna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Tarun</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Blue</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Ciaz</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Mayank</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Grey</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Polo</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Shilpa</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Yellow</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Baleno</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Neeraj</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Pink</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Nano</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Kailash</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Red</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Wagon R</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:58px;\">\n\t\t\t<p style=\"text-align: center;\">Garima</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Silver</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">Alto&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Person who likes Blue colour owns Ciaz.</p>\n\n<p>Hence, &ldquo;None of the above&rdquo; is the correct answer.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608195994ba5addd5effdf0c",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>How F is related to I?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Daughter-in-law",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Mother-in-law",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mother",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Daughter",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sister",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>From the given information,&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/08/Common_Diagram_28.01.2020_D3.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1. A is wife of B.</p>\n\n<p>2. C is sister-in-law of A.</p>\n\n<p>3. A is mother of F and mother-in-law of G.</p>\n\n<p>4. D is sister-in-law of E and wife of G.</p>\n\n<p>5. F is mother of J.</p>\n\n<p>6. J is niece of D.</p>\n\n<p>7. H is sister-in-law of F.</p>\n\n<p>8. I has one son and one daughter.&nbsp;B is not son of I.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Sagar_Madhuri_03.05.2021_D6.png\" style=\"width: 312px; height: 172px;\" /></p>\n\n<p>Hence,&nbsp;<strong>F is Daughter-in-law</strong><strong> of I.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608195a34ba5addd5effdf34",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>How&nbsp;E is related to B?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Son",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Brother",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Son-in-law",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Father",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sister",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>From the given information,&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/08/Common_Diagram_28.01.2020_D3.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1. A is wife of B.</p>\n\n<p>2. C is sister-in-law of A.</p>\n\n<p>3. A is mother of F and mother-in-law of G.</p>\n\n<p>4. D is sister-in-law of E and wife of G.</p>\n\n<p>5. F is mother of J.</p>\n\n<p>6. J is niece of D.</p>\n\n<p>7. H is sister-in-law of F.</p>\n\n<p>8. I has one son and one daughter.&nbsp;B is not son of I.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Sagar_Madhuri_03.05.2021_D6.png\" style=\"width: 312px; height: 172px;\" /></p>\n\n<p>Hence, <strong>E</strong><span style=\"font-weight: 700;\">&nbsp;is Son-in-law</span><span style=\"font-weight: 700;\">&nbsp;of B.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608195ac4ba5addd5effdf40",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>How I is related to E?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Mother",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Father",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mother-in-law",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Brother",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Data is inadequate&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>From the given information,&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/08/Common_Diagram_28.01.2020_D3.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1. A is wife of B.</p>\n\n<p>2. C is sister-in-law of A.</p>\n\n<p>3. A is mother of F and mother-in-law of G.</p>\n\n<p>4. D is sister-in-law of E and wife of G.</p>\n\n<p>5. F is mother of J.</p>\n\n<p>6. J is niece of D.</p>\n\n<p>7. H is sister-in-law of F.</p>\n\n<p>8. I has one son and one daughter.&nbsp;B is not son of I.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Sagar_Madhuri_03.05.2021_D6.png\" style=\"width: 312px; height: 172px;\" /></p>\n\n<p>Hence, <b>We can not say that I is male or&nbsp;female so the data is</b><strong>&nbsp;inadequate.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f8d10878bb624eee618e199",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>Directions: A statement is given followed by two inferences I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given inferences, if any, follow from the given statement. </strong></p>\n\n<p><strong>Statement: </strong>It is really mocking for the largest democratic country to retain the tag of developing nations for so long.</p>\n\n<p><strong>Inference:</strong></p>\n\n<p>I. India yet has to become a developed nation.</p>\n\n<p>II.Unless, we change our perception India cannot become developed.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only inference I follows.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only inference II follows.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II follow.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either I or II follows.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neither I nor II follows.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Correct option 1.Only inference I follows.</strong></p>\n\n<p>The statement suggests that despite being the largest democracy in the world, India is still classified as a developing country.</p>\n\n<p>From the statement, it can be deduced that India is progressive and has yet to become a developed nation. Therefore, Inference I follows.</p>\n\n<p>But since the statement does not discuss the parameters of development and the criteria to assess development. We cannot deduce that a change in the perception will help India become developed. Therefore, Inference II does not follow.</p>\n\n<p>Hence, option 1 is correct.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e7b7313f60d5d29f99c80a0",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Two statements are followed by two Conclusions 1 and 2. You have to consider the statements to be true, even if they seem to be at variance from commonly known facts. You are to decide which of the following conclusions can definitely be drawn from the given statements and indicate your answer accordingly.</p>\n\n<p><strong>Statements:</strong></p>\n\n<p><strong>I:&nbsp;</strong>Fluoride makes the enamel of your teeth harder and more resistant to acid wear. Doctors advise using it externally&nbsp;to help&nbsp;in fighting tooth decay and cavities.</p>\n\n<p><strong>II: </strong>Though, any fluoride-rich food contains more than 5 mg,&nbsp;the prescribed limit of fluoride intake is not more than 2 mg a day.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p><strong>1:&nbsp;</strong>Fluoride-rich foods, if consumed daily, can help us get rid of the daily need of brushing our teeth.</p>\n\n<p><strong>2:&nbsp;</strong>Toothpaste rich in fluoride can prevent the wear and tear of teeth.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Either Conclusion 1 or 2 follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only Conclusion 1 follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Neither Conclusion 1 nor Conclusion 2 follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only Conclusion 2 follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both Conclusion 1 and Conclusion 2 follow",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The first statement mentions about making the enamel of our teeth stronger and&nbsp;brings forward its benefits over tooth decay and cavities.</p>\n\n<p>The first conclusion does not follow as eating fluoride-rich food regularly could mean that one would cross the prescribed limit.<br />\nHence, conclusion 1 does not follow.</p>\n\n<p>Since toothpaste is used externally, its usage will not cross the prescribed limit and also give the benefits mentioned in the statements. Thus, it will help prevent the wear and tear of teeth.<br />\nHence, conclusion 2 follows.</p>\n\n<p>Thus, only conclusion 2 follows.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60c48ce8080bd1f5c5aa248a",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "What is the shortest distance between E and D?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "6 m",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5 m",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "11 m",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "12 m",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "10 m",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Figure according to the information</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Neha.S_21-06-21_Savita_D3.png\" style=\"width: 420px; height: 330px;\" /></p>\n\n<p>The&nbsp;distance between E and D:</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Neha.S_21-06-21_Savita_D4.png\" /></p>\n\n<p>By using Pythagoras Theorem we get:</p>\n\n<p>EF&nbsp;= 8&nbsp;m and FD = 6&nbsp;m</p>\n\n<p>ED<sup>2</sup> = EF<sup><span style=\"\">2</span></sup> + FD<sup><span style=\"\">2</span></sup></p>\n\n<p>ED<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> = 8<sup>2</sup> + 6<sup>2&nbsp;</sup></p>\n\n<p><span class=\"math-tex\">\\(ED = \\sqrt {8^2 + 6^2}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(ED = \\sqrt {100}\\)</span></p>\n\n<p>ED = 10 m</p>\n\n<p>Hence,&nbsp;the distance between E&nbsp;and D&nbsp;is <strong>10&nbsp;m</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60c48cdd080bd1f5c5aa23ef",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "What is the direction of F with respect to point A ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "North",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "West",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "South",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "North-West",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "North-East",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Figure according to the information</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Neha.S_21-06-21_Savita_D3.png\" style=\"width: 420px; height: 330px;\" /></p>\n\n<p>Hence, the direction of F with respect to point A is&nbsp;<strong>North-West.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60c48ccf080bd1f5c5aa232e",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "What is the direction of D with respect to point A ?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "North",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "West",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "South",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "East",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "North-East",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Figure according to the information</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Neha.S_21-06-21_Savita_D3.png\" /></p>\n\n<p>Hence, the direction of D with respect to point A is in the <strong>North</strong> direction.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "64d1f911080c753649f9014c",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Which of the following combination of group is the one which is different from others in the group?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Anil, Ravi, Isha",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Hari, Deep, Isha",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Anil, Ravi, Neha",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Vihan, Isha, Neha",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Hari, Shiv, Neha",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>People</strong>: Hari, Anil, Ravi, Vihan, Deep, Shiv, Isha and Neha.</p>\n\n<p><strong>Floors</strong>: 1, 2, 3</p>\n\n<p><strong>Profession</strong>: Teacher, Businessman or Doctor.</p>\n\n<p>From three Doctors two stay on floor numbered 3. Shiv and Ravi stay on the same floor, and there&nbsp;are&nbsp;three&nbsp;businessmen.&nbsp;Therefore, there are 3&nbsp;businessmen, 3 Doctors&nbsp;and&nbsp;2 Teacher.&nbsp;In each floor, there are at least two and at most three flats. And at least two peoples are in each profession but not more than three.</p>\n\n<p>1) Hari stays on floor&nbsp;numbered&nbsp;2 and Vihan do not stay on the same floor as Hari.</p>\n\n<p>2) Both people staying on floor numbered 2 are Teachers.</p>\n\n<p>3) Shiv is Doctor but does not stay on floor&nbsp;numbered&nbsp;1.</p>\n\n<p>4) Vihan and Deep stay on different floors but not on floor&nbsp;numbered&nbsp;1 and are in different professions but not Doctor</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\"><strong>Name</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\"><strong>Floor</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\"><strong>Profession</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">&nbsp;</td>\n\t\t\t<td style=\"width:96px;height:20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">&nbsp;</td>\n\t\t\t<td style=\"width:96px;height:20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">&nbsp;</td>\n\t\t\t<td style=\"width:96px;height:19px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">&nbsp;</td>\n\t\t\t<td style=\"width:96px;height:19px;\">&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>5) From three Doctors two stay on floor numbered 3.</p>\n\n<p>6) Anil and Ravi stay on different floors but not in floor numbered 2, and both are in the same profession.</p>\n\n<p>7) Neha and Isha stay on the same floor and are in the same profession, but not Doctor.</p>\n\n<p>8) Shiv and Ravi stay on the same floor.</p>\n\n<p>Final arrangement will be&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\"><strong>Name</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\"><strong>Floor</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\"><strong>Profession</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:65px;height:19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:48px;height:19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:96px;height:19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Vihan, Isha, Neha belong to same profession except other.</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Hence&nbsp;Vihan, Isha, Neha is correct.&nbsp;</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "64d1f911080c753649f9014d",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "Which of the following statement is correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Anil and Shiv lives in same floor and work in same profession",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Deep and Ravi works in same profession",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Hari and Deep lives in same floor and work in different profession",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "None of the given statement is correct",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Deep lives in floor immediately below Vihan&#39;s floor and work in different profession&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">People</span>: Hari, Anil, Ravi, Vihan, Deep, Shiv, Isha and Neha.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Floors</span>: 1, 2, 3</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Profession</span>: Teacher, Businessman or Doctor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">From three Doctors two stay on floor numbered 3. Shiv and Ravi stay on the same floor, and there&nbsp;are&nbsp;three&nbsp;businessmen.&nbsp;Therefore, there are 3&nbsp;businessmen, 3 Doctors&nbsp;and&nbsp;2 Teacher.&nbsp;In each floor, there are at least two and at most three flats. And at least two peoples are in each profession but not more than three.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">1) Hari stays on floor&nbsp;numbered&nbsp;2 and Vihan do not stay on the same floor as Hari.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">2) Both people staying on floor numbered 2 are Teachers.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">3) Shiv is Doctor but does not stay on floor&nbsp;numbered&nbsp;1.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">4) Vihan and Deep stay on different floors but not on floor&nbsp;numbered&nbsp;1 and are in different professions but not Doctor</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"color: rgb(33, 37, 41);\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Name</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Floor</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Profession</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">5) From three Doctors two stay on floor numbered 3.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">6) Anil and Ravi stay on different floors but not in floor numbered 2, and both are in the same profession.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">7) Neha and Isha stay on the same floor and are in the same profession, but not Doctor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">8) Shiv and Ravi stay on the same floor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Final arrangement will be&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"color: rgb(33, 37, 41);\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Name</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Floor</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Profession</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">&nbsp;Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Deep lives in floor immediately below Vihan&#39;s floor and work in different profession&nbsp;</span>is the correct statement.&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "64d1f911080c753649f9014e",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "Who is not staying in Floor number 1?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Businessman</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Neha</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Isha",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ravi",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Doctor&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">People</span>: Hari, Anil, Ravi, Vihan, Deep, Shiv, Isha and Neha.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Floors</span>: 1, 2, 3</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Profession</span>: Teacher, Businessman or Doctor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">From three Doctors two stay on floor numbered 3. Shiv and Ravi stay on the same floor, and there&nbsp;are&nbsp;three&nbsp;businessmen.&nbsp;Therefore, there are 3&nbsp;businessmen, 3 Doctors&nbsp;and&nbsp;2 Teacher.&nbsp;In each floor, there are at least two and at most three flats. And at least two peoples are in each profession but not more than three.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">1) Hari stays on floor&nbsp;numbered&nbsp;2 and Vihan do not stay on the same floor as Hari.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">2) Both people staying on floor numbered 2 are Teachers.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">3) Shiv is Doctor but does not stay on floor&nbsp;numbered&nbsp;1.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">4) Vihan and Deep stay on different floors but not on floor&nbsp;numbered&nbsp;1 and are in different professions but not Doctor</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"color: rgb(33, 37, 41);\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Name</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Floor</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Profession</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">5) From three Doctors two stay on floor numbered 3.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">6) Anil and Ravi stay on different floors but not in floor numbered 2, and both are in the same profession.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">7) Neha and Isha stay on the same floor and are in the same profession, but not Doctor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">8) Shiv and Ravi stay on the same floor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Final arrangement will be&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"color: rgb(33, 37, 41);\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Name</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Floor</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Profession</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">&nbsp;Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Ravi lives on floor number three.&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "64d1f911080c753649f9014f",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "On which floor <span style=\"color: rgb(33, 37, 41);\">Businessmen&nbsp;</span>live?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Two on 1st floor and one on third floor",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">One on 1st floor and one on third floor</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">One on 1st floor and Two on Second floor</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Two on 3rd&nbsp; floor and one on First floor</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the given option is correct",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">People</span>: Hari, Anil, Ravi, Vihan, Deep, Shiv, Isha and Neha.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Floors</span>: 1, 2, 3</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Profession</span>: Teacher, Businessman or Doctor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">From three Doctors two stay on floor numbered 3. Shiv and Ravi stay on the same floor, and there&nbsp;are&nbsp;three&nbsp;businessmen.&nbsp;Therefore, there are 3&nbsp;businessmen, 3 Doctors&nbsp;and&nbsp;2 Teacher.&nbsp;In each floor, there are at least two and at most three flats. And at least two peoples are in each profession but not more than three.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">1) Hari stays on floor&nbsp;numbered&nbsp;2 and Vihan do not stay on the same floor as Hari.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">2) Both people staying on floor numbered 2 are Teachers.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">3) Shiv is Doctor but does not stay on floor&nbsp;numbered&nbsp;1.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">4) Vihan and Deep stay on different floors but not on floor&nbsp;numbered&nbsp;1 and are in different professions but not Doctor</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"color: rgb(33, 37, 41);\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Name</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Floor</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Profession</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">&nbsp;</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"color: rgb(33, 37, 41);\">&nbsp;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">5) From three Doctors two stay on floor numbered 3.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">6) Anil and Ravi stay on different floors but not in floor numbered 2, and both are in the same profession.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">7) Neha and Isha stay on the same floor and are in the same profession, but not Doctor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">8) Shiv and Ravi stay on the same floor.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Final arrangement will be&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"color: rgb(33, 37, 41);\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Name</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Floor</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: bolder;\">Profession</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Hari</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Teachers</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Anil</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Ravi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Vihan</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">&nbsp;Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Deep</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">&nbsp;Teacher</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 20px;\">\n\t\t\t<p align=\"center\">Shiv</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 20px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 20px;\">\n\t\t\t<p align=\"center\">Doctor</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Isha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 65px; height: 19px;\">\n\t\t\t<p align=\"center\">Neha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 48px; height: 19px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 96px; height: 19px;\">\n\t\t\t<p align=\"center\">Businessman</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\nBusinessmen lives on floor number one and three, Out of which&nbsp;<span style=\"color: rgb(33, 37, 41);\">Two on 1st floor and one on third floor.&nbsp;</span>",
+          "topic": "Test"
+        },
+        {
+          "id": "60a8c2fb8d50714698e6911c",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong>&nbsp;In the following question assuming the given statements to be true, find which of the conclusion among given some conclusion is/are definitely true and then give your answers accordingly:</p>\n\n<p><strong>Statement: </strong></p>\n\n<p>F > D > I < A &le; E &le; W < O &ge; Q > P = T > J < L > M</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. F > W&nbsp;</p>\n\n<p>II. W > P</p>\n\n<p>III. P < M&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only Conclusion I is True",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only Conclusion II is True",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only Conclusion III is True",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both&nbsp; Conclusion I and II is True",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the Conclusion is True",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: 700;\">Given Statement:</span></p>\n\n<p>F > D > I < A &le; E &le; W < O &ge; Q > P = T > J < L > M</p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p>I. F > W &rarr; False (F > D > I < A &le; E &le; W, as definite relationship between F and W cannot be determined).</p>\n\n<p>II. W > P &rarr; False (W < O &ge; Q > P, as definite relationship between W and P cannot be determined).</p>\n\n<p>III. P < M &rarr; False (P = T > J < L > M, as definite relationship between P and M cannot be determined).</p>\n\n<p>Hence,&nbsp;<span style=\"font-weight: 700;\">None of the Conclusion is True.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60a8caea8d50714698e6f058",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong>&nbsp;In the following question assuming the given statements to be true, find which of the conclusion among given some conclusion is/are definitely true and then give your answers accordingly:</p>\n\n<p><strong>Statement:</strong></p>\n\n<p>K < L &le; R &le; Q < T = Y < A < H > P &ge; E > G < I = D > S</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. H > L</p>\n\n<p>II. Q &le; E&nbsp;</p>\n\n<p>III. A > K</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only Conclusion I is True",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only Conclusion II is True",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both Conclusion I and II is True",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both Conclusion I and III is True",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both Conclusion II and III is True",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: 700;\">Given Statement:</span></p>\n\n<p>K < L &le; R &le; Q < T = Y < A < H > P &ge; E > G < I = D > S</p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p>I. H > L &rarr; True (L &le; R &le; Q < T = Y < A < H &rarr; L < H)</p>\n\n<p>II. Q &le; E &rarr; False (Q < T = Y < A < H > P &ge; E, as no definite relationship between Q and E can be determined).</p>\n\n<p>III. A > K &rarr; True (K < L &le; R &le; Q < T = Y < A &rarr; K < A)</p>\n\n<p>Hence,&nbsp;<span style=\"font-weight: 700;\">Both Conclusion I and III is True.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608a6c1af0bd3e1f054db161",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "Between D and H how many people are facing outside when counted from the right of D?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "One",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Four",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the given information,</p>\n\n<p>1.&nbsp;F is sitting second to the right of H.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D32.png\" style=\"width: 215px; height: 230px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D33.png\" style=\"width: 215px; height: 251px;\" /></p>\n\n<p>&nbsp;</p>\n\n<p>2.&nbsp;</p>\n\n<p>Both the people sitting between F and A face the opposite&nbsp;direction.</p>\n\n<p>It means only 2 people are sitting between F and A.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D34.png\" style=\"width: 213px; height: 229px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D35.png\" style=\"width: 224px; height: 236px;\" /></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D36.png\" style=\"width: 214px; height: 259px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/03/F1_04-3-22-Chitranshi_Savita_D1.png\" style=\"width: 215px; height: 243px;\" /></p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p>3.&nbsp;Only one person is sitting between E and F and E is facing inside.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D38.png\" style=\"width: 205px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D39.png\" style=\"width: 209px; height: 258px;\" /></p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D40.png\" style=\"width: 214px; height: 258px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D41.png\" style=\"width: 215px; height: 267px;\" /></p>\n\n<p>4.&nbsp;B sits third to the left of G and both of them are facing the same direction.&nbsp;B is the immediate neighbour of both H and F.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D42.png\" style=\"width: 230px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D43.png\" style=\"width: 230px; height: 252px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D44.png\" style=\"width: 232px; height: 261px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D45.png\" style=\"width: 225px; height: 261px;\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p>5.&nbsp;&nbsp;C is sitting second to the right of D and is facing same&nbsp;direction as&nbsp;D. G and E are the immediate neighbours of D. Here case (i) - B, case (ii) - A and case (ii) - B gets eliminated.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D46.png\" style=\"width: 229px; height: 255px;\" /></p>\n\n<p>Hence, <strong>Two is the answer.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Mistake Points</u></span></strong></span>&nbsp;</strong>We have to find out&nbsp;how many people are&nbsp;<span style=\"font-weight: 700;\">facing outside</span>&nbsp;when counted from the right of D.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608a6c56f0bd3e1f054db448",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "Who is sitting third to the right of G?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "F",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "D",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the given information,</p>\n\n<p>1.&nbsp;F is sitting second to the right of H.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D32.png\" style=\"width: 215px; height: 230px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D33.png\" style=\"width: 215px; height: 251px;\" /></p>\n\n<p>2.&nbsp;</p>\n\n<p>Both the people sitting between F and A face the opposite&nbsp;direction.</p>\n\n<p>It means only 2 people are sitting between F and A.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D34.png\" style=\"width: 213px; height: 229px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D35.png\" style=\"width: 224px; height: 236px;\" />&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D36.png\" style=\"width: 214px; height: 259px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D37.png\" style=\" width: 214px; height: 243px;\" /></p>\n\n<p>3.&nbsp;Only one person is sitting between E and F and E is facing inside.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D38.png\" style=\"width: 205px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D39.png\" style=\"width: 209px; height: 258px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D40.png\" style=\"width: 214px; height: 258px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D41.png\" style=\"width: 215px; height: 267px;\" /></p>\n\n<p>4.&nbsp;B sits third to the left of G and both of them are facing the same direction.&nbsp;B is the immediate neighbour of both H and F.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D42.png\" style=\"width: 230px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D43.png\" style=\"width: 230px; height: 252px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D44.png\" style=\"width: 232px; height: 261px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D45.png\" style=\"width: 225px; height: 261px;\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p>5.&nbsp;&nbsp;C is sitting second to the right of D and is facing same&nbsp;direction as&nbsp;D. G and E are the immediate neighbours of D. Here case (i) - B, case (ii) - A and case (ii) - B gets eliminated.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D46.png\" style=\"width: 229px; height: 255px;\" /></p>\n\n<p>Hence, <b>C is sitting third to the right of G.</b></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608a6caef0bd3e1f054db70e",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "How many alphabets will remain in the same position as before, if all the alphabets are arranged in alphabetical order starting from H in an anticlockwise direction?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "One",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the given information,</p>\n\n<p>1.&nbsp;F is sitting second to the right of H.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D32.png\" style=\"width: 215px; height: 230px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D33.png\" style=\"width: 215px; height: 251px;\" /></p>\n\n<p>2.&nbsp;</p>\n\n<p>Both the people sitting between F and A face the opposite&nbsp;direction.</p>\n\n<p>It means only 2 people are sitting between F and A.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D34.png\" style=\"width: 213px; height: 229px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D35.png\" style=\"width: 224px; height: 236px;\" />&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D36.png\" style=\"width: 214px; height: 259px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D37.png\" style=\" width: 214px; height: 243px;\" /></p>\n\n<p>3.&nbsp;Only one person is sitting between E and F and E is facing inside.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D38.png\" style=\"width: 205px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D39.png\" style=\"width: 209px; height: 258px;\" />&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D40.png\" style=\"width: 214px; height: 258px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D41.png\" style=\"width: 215px; height: 267px;\" /></p>\n\n<p>4.&nbsp;B sits third to the left of G and both of them are facing the same direction.&nbsp;B is the immediate neighbour of both H and F.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D42.png\" style=\"width: 230px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D43.png\" style=\"width: 230px; height: 252px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D44.png\" style=\"width: 232px; height: 261px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D45.png\" style=\"width: 225px; height: 261px;\" /></p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p>5.&nbsp;&nbsp;C is sitting second to the right of D and is facing same&nbsp;direction as&nbsp;D. G and E are the immediate neighbours of D. Here case (i) - B, case (ii) - A and case (ii) - B gets eliminated.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D46.png\" style=\"width: 229px; height: 255px;\" />&nbsp;&nbsp;</p>\n\n<p>Here as we can see the alphabets<strong> B</strong>, <strong>E</strong> and <strong>G</strong> are in the same position as before.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/07/newD.PNG\" style=\"width: 250px; height: 258px;\" /></p>\n\n<p>Hence, <b>Three alphabets remain in same position as before.</b></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "608a6ce3f0bd3e1f054dba28",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "Who is sitting opposite to A?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "F",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "D",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the given information,</p>\n\n<p>1.&nbsp;F is sitting second to the right of H.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D32.png\" style=\"width: 215px; height: 230px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D33.png\" style=\"width: 215px; height: 251px;\" /></p>\n\n<p>2.&nbsp;Both the people sitting between F and A face the opposite&nbsp;direction.</p>\n\n<p>It means only 2 people are sitting between F and A.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D34.png\" style=\"width: 213px; height: 229px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D35.png\" style=\"width: 224px; height: 236px;\" />&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D36.png\" style=\"width: 214px; height: 259px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D37.png\" style=\" width: 214px; height: 243px;\" /></p>\n\n<p>3.&nbsp;Only one person is sitting between E and F and E is facing inside.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D38.png\" style=\"width: 205px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D39.png\" style=\"width: 209px; height: 258px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D40.png\" style=\"width: 214px; height: 258px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D41.png\" style=\"width: 215px; height: 267px;\" /></p>\n\n<p>4.&nbsp;B sits third to the left of G and both of them are facing the same direction.&nbsp;B is the immediate neighbour of both H and F.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D42.png\" style=\"width: 230px; height: 257px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D43.png\" style=\"width: 230px; height: 252px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D44.png\" style=\"width: 232px; height: 261px;\" /><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D45.png\" style=\"width: 225px; height: 261px;\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p>5.&nbsp;&nbsp;C is sitting second to the right of D and is facing same&nbsp;direction as&nbsp;D. G and E are the immediate neighbours of D. Here case (i) - B, case (ii) - A and case (ii) - B gets eliminated.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Sagar.S_11-05-21_Savita_D46.png\" style=\"width: 229px; height: 255px;\" /></p>\n\n<p>Hence, <b>C is the answer.</b></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6172c5297c1d37eb2b1533bf",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "<p><strong>Directions</strong>:&nbsp;In the question below are given three statements followed by three&nbsp;conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><strong>Statements:</strong></p>\n\n<p>Some Books are Notebooks.</p>\n\n<p>Only a few Notebooks are Copy.</p>\n\n<p>Only a few Copy are Scales.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some Books are Copy.</p>\n\n<p>II. Some Copy are not Scales is a possibility.</p>\n\n<p>III. No Book is Copy.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only Conclusion I follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "All Conclusion follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both Conclusion I and II follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either Conclusion I and III follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both Conclusion II and III follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible Venn diagram is:</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/10/6172c5297c1d37eb2b1533bf_16354366065741.png\" /></p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p>I. Some Books are Copy&nbsp;&rarr; False (This is possible but not definite, as no direct relationship between the two is given).</p>\n\n<p>II. Some Copy are not Scales is a possibility&nbsp;&rarr; False (As, Only a few Copy are Scale is given which means Some Copy are Scale and Some Copy are not Scale, so this is a definitely true conclusion and possibility with true conclusion is false).</p>\n\n<p>III. No Book is Copy&nbsp;&rarr;&nbsp;False (This is possible but not definite, as no direct relationship between the two is given).</p>\n\n<p>Conclusion I and III forms Complementary pairs.</p>\n\n<p>Hence, <strong>Either Conclusion I and III follows.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6172aae4c7862366de6ed145",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions:</span>&nbsp;In the question below are given three statements followed by three&nbsp;conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><span style=\"font-weight: 700;\">Statements:</span></p>\n\n<p>No Carrot is Red.</p>\n\n<p>Only Red is Tomato.</p>\n\n<p>Only a few Carrot is Brinjal.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some Tomato is Red.</p>\n\n<p>II. Some Brinjal being Red is a possibility.</p>\n\n<p>III. Some Carrot are not Brinjal.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both Conclusion I and III follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both Conclusion II and III follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both Conclusion I and II follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All Conclusion follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible Venn diagram is:</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/10/6172aae4c7862366de6ed145_16354361680621.png\" /></p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p>I. Some Tomato is Red&nbsp;&rarr; True (As, Only Red is Tomato is given, so All Tomato is Red, so Some Tomato is Red is definitely true).</p>\n\n<p>II. Some Brinjal being Red is a possibility&nbsp;&rarr; True (The remaining portion of Brinjal which is not Carrot can go inside the part of Red).</p>\n\n<p>III. Some Carrot are not Brinjal&nbsp;&rarr; True (As, Only a few Carrot are Brinjal is given, which means Some Carrot are&nbsp;Brinjal and Some Carrot are&nbsp;not Brinjal, so this is definitely true).</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/10/6172aae4c7862366de6ed145_16354361680672.png\" /></p>\n\n<p>Hence, <strong>All Conclusion follows</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6172c182cb023c2adc5e3ca2",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions:</span>&nbsp;In the question below are given three statements followed by three&nbsp;conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.</p>\n\n<p><strong>Statements:</strong></p>\n\n<p>Only a few Flower&nbsp;are Grass.</p>\n\n<p>No Grass is Bush.</p>\n\n<p>Only Bush is Shrubs.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. Some Grass are not Flower.</p>\n\n<p>II. Some Shrubs are not Flower.</p>\n\n<p>III. All Grass can be Bush.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only Conclusion I follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only Conclusion III follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only Conclusion II follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both Conclusion I and II follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both Conclusion II and III follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The least possible Venn diagram is:</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/10/6172c182cb023c2adc5e3ca2_16354365107771.png\" /></p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p>I. Some Grass are not Flower&nbsp;&rarr; False (As, Only a few Flower are Grass is given, which means Some Flower are Grass and Some Flower are not Grass, which also states that Some Grass are Flower, but we don&#39;t know anything about the remaining portion of Grass whether it is Flower or not).</p>\n\n<p>II. Some Shrubs are not Flower&nbsp;&rarr; True (As, Only Bush are Shrub is given which means All Shrub are&nbsp;Bush and Shrub will not have any positive relationship with any other element except &nbsp;with Bush, so Some Shrubs are not Flowers is definitely true).&nbsp;</p>\n\n<p>III. All Grass can be Bush&nbsp;&rarr; False (This is definitely false, as both have relationship of No with each other).</p>\n\n<p>Hence, <strong>Only Conclusion II follows.</strong></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:04:57.968Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

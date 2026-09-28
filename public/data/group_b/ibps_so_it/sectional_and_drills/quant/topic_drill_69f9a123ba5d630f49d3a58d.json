@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a123ba5d630f49d3a58d",
+  "title": "CT 25: Quantitative Aptitude (Permutation & Combination)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "55bc70c2ec7b2f65f50190c3",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Three cards are drawn at random one after another from an ordinary pack of cards. Find the probability that they will consist of a king, a queen and an ace.&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "48/14785",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "16/5525",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "22/8750",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "154/23584",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>Probability of getting first card as king = 4/52</p>\n\n<p>Probability of getting second card as queen = 4/51</p>\n\n<p>Probability of getting third card as ace = 4/50</p>\n\n<p>Hence, Total probability = 3! &times; 4/52 &times; 4/51 &times; 4/50</p>\n\n<p>= 6 &times; 4/52 &times; 4/51 &times; 4/50</p>\n\n<p>= 384/132600</p>\n\n<p>= 48/16575 = 16/5525</p>\n\n<p><strong>&there4; 16/5525</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span>Number of ways of getting&nbsp;a king, a queen, and an ace =&nbsp;<sup>4</sup>C<sub>1</sub>&nbsp;&times;&nbsp;<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span>C<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>&nbsp;&times;&nbsp;<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span>C<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>&nbsp;= 4&nbsp;&times; 4&nbsp;&times; 4 = 64</p>\n\n<p>Total number of ways to select 3 cards =&nbsp;<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">52</span>C<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">3</span>&nbsp;= (52&nbsp;&times; 51&nbsp;&times; 50)/(3&nbsp;&times; 2&nbsp;&times; 1) = 22100</p>\n\n<p>&rArr; Probability of getting&nbsp;a king, a queen, and an ace = (<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span>C<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>&nbsp;&times;&nbsp;<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">4</span>C<span style=\"position: relative; line-height: 0; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>&nbsp;&times;&nbsp;<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">4</span>C<span style=\"position: relative; line-height: 0; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>)/&nbsp;<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">52</span>C<span style=\"position: relative; line-height: 0; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">3</span>&nbsp;= 64/22100</p>\n\n<p>&rArr;&nbsp;Probability of getting&nbsp;a king, a queen, and an ace = 64/22100 = 16/5525</p>\n\n<p><span style=\"font-weight: 700;\">&there4; 16/5525</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "696e159fef93688f2e8d8d25",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>A football squad has 20 players, including 2 goalkeepers, 8 defenders, 6 midfielders, and 4 forwards. Find the number of ways to select a starting 11 such that it contains 1 goalkeeper, 4 defenders, 3 midfielders, and 2 forwards?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "47200",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "11650",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "16800",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "10400",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "15600",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Total players = 20</p>\n\n<p>Goalkeepers = 2</p>\n\n<p>Defenders = 8</p>\n\n<p>Midfielders = 6</p>\n\n<p>Forwards = 4</p>\n\n<p>Required team composition:</p>\n\n<p>1 Goalkeeper, 4 Defenders, 3 Midfielders, 2 Forwards</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Number of ways = nC r</p>\n\n<p>Total ways = (Ways for GK) &times; (Ways for Defenders) &times; (Ways for Midfielders) &times; (Ways for Forwards)</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Ways to select 1 Goalkeeper from 2:</p>\n\n<p>&rArr; = 2</p>\n\n<p>Ways to select 4 Defenders from 8:</p>\n\n<p>&rArr; = 70</p>\n\n<p>Ways to select 3 Midfielders from 6:</p>\n\n<p>&rArr; = 20</p>\n\n<p>Ways to select 2 Forwards from 4:</p>\n\n<p>&rArr; = 6</p>\n\n<p>Total number of ways:</p>\n\n<p>&rArr; 2 &times; 70 &times; 20 &times; 6</p>\n\n<p>&rArr; 16800</p>\n\n<p><strong>&there4; The number of ways to select the starting 11 is 16,800.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "687b16d0a1b0c89f752501d6",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>There are 8 boys and 7 girls out of which a team of 5 players to be selected. In how many ways the team can be selected if at least 2 girls and 2 boys should be in the team?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2456",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2156",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2486",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2336",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2786",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: bolder;\">Calculation</span></p>\n\n<p>Boys = 8, Girls = 7<br />\nSelect 5 with at least 2 boys &amp; 2 girls</p>\n\n<p>Valid combinations:</p>\n\n<p>2B + 3G = 8C2 &times; 7C3 = 28 &times; 35 = 980</p>\n\n<p>3B + 2G = 8C3 &times; 7C2 = 56 &times; 21 = 1176</p>\n\n<p>Total = 980 + 1176 = 2156</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60a5352da1be428fae0e6795",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "There are 5 maths, 4 science and 4 English books to be arranged on a shelf. Books of same subjects are together. Find the number of ways if books of same subject are different.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "5! &times; 4! &times; 4! &times; 3!",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5! &times; 4! &times; 4!&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "5! &times; 4!&times; 3!",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "5! &times; 4! &times; 3! &times; 2!",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "none of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Concept:-</strong></p>\n\n<p>We consider books of maths, science and english as 1 each and arrange them. And also we arrange the books of subjects seperately.</p>\n\n<p><strong>Calculation:-</strong></p>\n\n<p>Number of ways of arranging books of different subjects = 3!</p>\n\n<p>Number of ways of arranging maths books = 5!</p>\n\n<p>Number of ways of arranging science books = 4!</p>\n\n<p>Number of ways of arranging english books = 4!</p>\n\n<p>Total number of ways = 5! &times; 4! &times; 4! &times; 3!</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60a50d8c082143cc32970d9b",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "After 5 pawns of white team and 4 pawns from black are eliminated from chess board, a square is chosen. Find the probability that the square is empty.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "43/64",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "41/64",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "47/64",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "33/64",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "39/64",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Concept:-</strong></p>\n\n<p>1. Probability = Favourable cases/Number of cases</p>\n\n<p>2. There are 32 pieces on chess board, 16 each of white and black.</p>\n\n<p><strong>Calculation:-</strong></p>\n\n<p>Total number of squares = 8 &times; 8 = 64</p>\n\n<p>Number of pieces on the board = 32 - 5 - 4 = 23</p>\n\n<p>Probability of getting empty square = (64 - 23)/64 = 41/64</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "602fbe515c673364ff457647",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "In the college, there are 48 students. Students are divided into 3 course B.com, B.sc and arts. Number of students are in B.com and B.SC courses are 8 and 16.&nbsp; A committee is formed of five students from the college in such a way that the committee contains at least one student from B.Com course.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1054296",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1234678",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2345148",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6745239",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1287654",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given</strong></p>\n\n<p>Total number of students = 48</p>\n\n<p>Number if students in B.Com and B Sc course are 8 and 16</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total number of students = 48</p>\n\n<p>Number of students in B.Com course = 8</p>\n\n<p>Number of students in B.SC course = 16</p>\n\n<p>Number of students in arts course = 48 &ndash; 8 &ndash; 16 = 24</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:582px;\" width=\"582\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:276px;\">\n\t\t\t<p><strong>B.com(number of students to form a committee of 5 students): 8 STUDENTS</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:306px;\">\n\t\t\t<p><strong>B.sc and arts(number of students to form a committee&nbsp; of students): 40 STUDENTS</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:276px;\">\n\t\t\t<p align=\"center\">1 student</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:306px;\">\n\t\t\t<p align=\"center\">4&nbsp; students</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:276px;\">\n\t\t\t<p align=\"center\">2 students</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:306px;\">\n\t\t\t<p align=\"center\">3 students</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:276px;\">\n\t\t\t<p align=\"center\">3 students</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:306px;\">\n\t\t\t<p align=\"center\">2 students</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:276px;\">\n\t\t\t<p align=\"center\">4 students</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:306px;\">\n\t\t\t<p align=\"center\">1 student</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:276px;\">\n\t\t\t<p align=\"center\">5 students</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:306px;\">\n\t\t\t<p align=\"center\">0 student</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&rArr;<sup>8</sup>C<sub>1</sub>&nbsp; &times; <sup>40</sup>C<sub>4</sub> + <sup>8</sup>C<sub>2</sub>&nbsp; &times; <sup>40</sup>C<sub>3</sub> + <sup>8</sup>C<sub>2</sub>&nbsp; &times; <sup>40</sup>C<sub>2 </sub>&nbsp;+ <sup>8</sup>C<sub>4</sub>&nbsp; &times; <sup>40</sup>C<sub>1</sub> + <sup>8</sup>C<sub>5</sub></p>\n\n<p>= 1054296</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60112d4eef004be84af77e01",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "A team of 11 members is to be formed from 8 males and 5 females. If A is the number of ways the committee must have at least 6 males and B is the number of ways the committee must have at least 3 females then;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A = B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A = 2B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A = 4B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2A = B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "4A = B",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>GIVEN:</strong></p>\n\n<p>Team members = 11</p>\n\n<p>Male = 8</p>\n\n<p>Female = 5</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p><strong>Case: A</strong></p>\n\n<p>Males = At Least 6 (6, 7, 8)</p>\n\n<p>Females = (3, 4, 5)</p>\n\n<p>Possible ways = <sup>8</sup>C<sub>8</sub> x <sup>5</sup>C<sub>3</sub> + <sup>8</sup>C<sub>7</sub> x <sup>5</sup>C<sub>4</sub> + <sup>8</sup>C<sub>6</sub> x <sup>5</sup>C<sub>5</sub></p>\n\n<p>Possible ways = A = 78</p>\n\n<p><strong>Case: B</strong></p>\n\n<p>Females = At Least 3 (3, 4, 5)</p>\n\n<p>Males = (6, 7, 8)</p>\n\n<p>Possible ways = <sup>8</sup>C<sub>8</sub> x <sup>5</sup>C<sub>3</sub> + <sup>8</sup>C<sub>7</sub> x <sup>5</sup>C<sub>4</sub> + <sup>8</sup>C<sub>6 </sub>x <sup>5</sup>C<sub>5</sub></p>\n\n<p>Possible ways = B = 78</p>\n\n<p>A = B</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f3cd27c3f5da10d0b02f5ae",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "A team of 8 members is to be formed from the group of 16 people of whom 7 are men, 5 are women and 4 are children in such a way that 4 men, 2 women, and 2 children shall be in the team. In how many different ways such a team can be formed?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1020",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1570",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2100",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2010",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">A team of 8 members is to be formed</p>\n\n<p style=\"\">Total member in group = 16</p>\n\n<p style=\"\">Men = 7, Women = 5, Children = 4</p>\n\n<p style=\"\">Team: 4 men, 2 women, and 2 children</p>\n\n<p style=\"\"><strong style=\"\">Formula used:</strong></p>\n\n<p style=\"\">Formula of combination = <sup style=\"\">n</sup>C<sub style=\"\">r</sub>&nbsp;<span class=\"math-tex\">\\(= \\frac{{n!}}{{r!\\left( {n - r} \\right)!}}\\)</span></p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Number of ways of forming the team = <sup style=\"\">7</sup>C<sub style=\"\">4</sub> &times; <sup style=\"\">5</sup>C<sub style=\"\">2</sub> &times; <sup style=\"\">4</sup>C<sub style=\"\">2</sub> =&nbsp;<span class=\"math-tex\">\\(\\frac{{7!}}{{4!\\; \\times \\;3!}} \\times \\frac{{5!}}{{2!\\; \\times \\;3!}} \\times \\frac{{4!}}{{2!\\; \\times \\;2\\;!}}\\)</span></p>\n\n<p style=\"\">= 35 &times; 10 &times; 6 = 2100 ways</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5da87cdef60d5d720f759d5b",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "In a box, there are 24 four different colour shirts i.e., Red, Blue, Black and White. Each colour of shirt has the equal number. If four shirts are taken at random, then find the probability that the chosen shirt should be one of each colour.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "24/29",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "216/1771",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "19/1771",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "19/161",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "161/261",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given,</p>\n\n<p>Total number of shirts in a box = 24</p>\n\n<p>Number of Red, Blue, Black and White shirt = 24/4 = 6 each</p>\n\n<p>Required probability =</p>\n\n<p>= (<sup>6</sup>C<sub>1</sub> &times; <sup>6</sup>C<sub>1 </sub>&times; <sup>6</sup>C<sub>1 </sub>&times; <sup>6</sup>C<sub>1</sub>) / (<sup>24</sup>C<sub>4</sub>)</p>\n\n<p>= (6 &times; 6 &times; 6 &times; 6)/[(24 &times; 23 &times; 22 &times; 21)/(4 &times; 3 &times; 2)]</p>\n\n<p>= 1296/10626</p>\n= 216/1771",
+          "topic": "Test"
+        },
+        {
+          "id": "5c0673a27c57670ca080af04",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "A committee of five members is to be formed out of 3 Teachers, 4 Assistants and 6 Students. In how many ways can it be done so that the committee either has all 4 Assistants and 1 Student or all 3 Teachers and 2 Assistants?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "18",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "6",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "12",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "24",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "8",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>4 Assistants and 1 Student can be selected in <sup>4</sup>C<sub>4</sub> &times; <sup>6</sup>C<sub>1</sub> = 6 ways</p>\n\n<p>3 Teachers and 2 Assistants can be selected in <sup>3</sup>C<sub>3</sub> &times; <sup>4</sup>C<sub>2</sub> = 6 ways</p>\n&there4; Total ways = 6 + 6 = 12",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:59.952Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

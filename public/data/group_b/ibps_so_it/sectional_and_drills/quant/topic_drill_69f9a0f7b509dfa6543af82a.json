@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0f7b509dfa6543af82a",
+  "title": "CT 3: Quantitative Aptitude (Missing Number series)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "69086d3a45bf84d4748b0cc5",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p>Find the sum of digit of missing number of series?</p>\n\n<p>119, 133,161, 203, ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "10",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "12",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "14",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "11",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "18",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given Series:&nbsp;</strong>119, 133,161, 203, ?</p>\n\n<p><strong>Logic</strong>: Each term = 7 &times; Consecutive Prime number.</p>\n\n<p>Prime numbers: 17, 19, 23, 29, 31</p>\n\n<p>7 &times; 17 = 119</p>\n\n<p>7 &times; 19 = 133</p>\n\n<p>7 &times; 23 = 161</p>\n\n<p>7 &times; 29 = 203</p>\n\n<p>Next = 7 &times; 31 = 217</p>\n\n<p>Missing number = 217</p>\n\n<p>Sum of digits = 2 + 1 + 7 = 10</p>\n\n<p>Answer: 10</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620f479e89e5642c8d2f471",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>25, 54, ?, 122, 163, 206</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "118",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "119",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "85&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "120",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "121",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern (consecutive prime numbers)</p>\n\n<p>&rArr; 25 + 29 = 54</p>\n\n<p>&rArr; 54 + 31 = <strong>85</strong></p>\n\n<p>&rArr; 85 + 37 = 122</p>\n\n<p>&rArr; 122 + 41 = 163</p>\n\n<p>&rArr; 163 + 43 = 206</p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is 85</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620ee54b246962dfca9dcf6",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>1, 7, -5, 13, ?, 19</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "37",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "35",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "- 37",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "11",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "- 11",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>&rArr; 1 + 6 = 7</p>\n\n<p>&rArr; 7 - 12 = - 5</p>\n\n<p>&rArr; - 5 + 18 = 13</p>\n\n<p>&rArr; 13 - 24 =<strong> -11</strong></p>\n\n<p>&rArr; - 11 + 30 = 19</p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is -11</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620ed41df20487a5d0ca8e1",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>12, 26, 50, 102, ?, 406</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "204",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "206",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "202",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "200",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "208",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>&rArr; 12&nbsp;&times; 2 + 2 =26</p>\n\n<p>&rArr; 26&nbsp;&times; 2 - 2 = 50</p>\n\n<p>&rArr; 50&nbsp;&times; 2 + 2 = 102</p>\n\n<p>&rArr; 102&nbsp;&times; 2 - 2 = <strong>202</strong></p>\n\n<p>&rArr; 202&nbsp;&times; 2 + 2 = 406</p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is 202</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620e5d610fb0c8e508fe773",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>6, 10, 19, 35, 60, ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "76",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "86",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "96",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "90",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>&rArr; 6 +&nbsp;2<sup>2</sup>&nbsp;= 10</p>\n\n<p>&rArr; 10 + 3<sup>2</sup>&nbsp;= 19</p>\n\n<p>&rArr; 19 + 4<sup>2</sup>&nbsp;= 35</p>\n\n<p>&rArr; 35 + 5<sup>2</sup>&nbsp;= 60</p>\n\n<p>&rArr; 60 + 6<sup>2</sup>&nbsp;= <strong>96</strong></p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is 96</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620e4e638f9bb7f376a41a9",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>8, 5, 7, 17, 72, ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "576",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "571",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "581",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "561",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "591",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>&rArr; 8&nbsp;&times; 0.5 + 1 = 5</p>\n\n<p>&rArr; 5&nbsp;&times; 1 + 2 = 7</p>\n\n<p>&rArr; 7&nbsp;&times; 2 + 3 = 17</p>\n\n<p>&rArr; 17&nbsp;&times; 4 + 4 = 72</p>\n\n<p>&rArr; 72&nbsp;&times; 8 + 5 = <strong>581</strong></p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is 581</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620d13eaebd593b678d118e",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>7, 6, 10, 27, ?, 515</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "108",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "112",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "100",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "104",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "114",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>&rArr; 7&nbsp;&times; 1 - 1 = 6</p>\n\n<p>&rArr; 6&nbsp;&times; 2 - 2 = 10</p>\n\n<p>&rArr; 10&nbsp;&times; 3 - 3 = 27</p>\n\n<p>&rArr; 27&nbsp;&times; 4 - 4 = <strong>104</strong></p>\n\n<p>&rArr; 104&nbsp;&times; 5 - 5 = 515</p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is 104</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620ce16878f4e47f7701a43",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>40, 42, 45, ?, 57, 68</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "45",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "55",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "50",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "52",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "48",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>&rArr; 40 + 2 = 42</p>\n\n<p>&rArr; 42 + 3 = 45</p>\n\n<p>&rArr; 45 + 5 = <strong>50</strong></p>\n\n<p>&rArr; 50 + 7 = 57</p>\n\n<p>&rArr; 57 + 11 = 68</p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is 50</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6620cf3c3981bdd446f4f165",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p>Find the missing number in the series</p>\n\n<p>8, 16, 48, 192, 960, ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "5560",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5650",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "5670",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "5760",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5570",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>&rArr; 8&nbsp;&times; 2 = 16</p>\n\n<p>&rArr; 16&nbsp;&times; 3 = 48</p>\n\n<p>&rArr; 48&nbsp;&times; 4 = 192</p>\n\n<p>&rArr; 192&nbsp;&times; 5 = 960</p>\n\n<p>&rArr; 960&nbsp;&times; 6 = <strong>5760</strong></p>\n\n<p><span style=\"font-weight: bolder;\">&there4; The missing number is 5760</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6343b94d469dfbad539751db",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><span style=\"\">What should come in place of the question mark &#39;?&#39; in the following number series?</span></p>\n\n<p><span style=\"\">5, ?, 104, 655, 4314</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "18",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "44",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "24",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "16",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "20",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is:&nbsp;<strong>1</strong></p>\n\n<p><b>Given:</b></p>\n\n<p><span style=\"\">5, ?, 104, 655, 4314</span></p>\n\n<p><span style=\"\"><strong>Calculation:</strong></span></p>\n\n<p>The series follows the following pattern:</p>\n\n<p>(5 + 1<sup>3</sup>) x 3 = 18</p>\n\n<p>(18 + 2<sup>3</sup>) x 4 = 104</p>\n\n<p>(104 + 3<sup>3</sup>) x 5 = 655</p>\n\n<p>(655 + 4<sup>3</sup>) x 6 = 4314</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color: rgb(32, 33, 36);   \">&there4;<strong>&nbsp;18 will come in place of ?</strong></span></p>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:07.137Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

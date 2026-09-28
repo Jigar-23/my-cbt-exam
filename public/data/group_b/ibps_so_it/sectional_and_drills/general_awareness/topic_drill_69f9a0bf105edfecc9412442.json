@@ -1,0 +1,463 @@
+{
+  "testId": "69f9a0bf105edfecc9412442",
+  "title": "CT 20: General Awareness (National Income)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "627cbf86d482fa9d5a16c657",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "The best index of economic development is provided by",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "growth in national income at current prices",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "growth in per capita real income from year to year",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "growth in savings ratio",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "improvement in balance of payments position",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong><span style=\"\">growth in per capita real income from year to year</span></strong></u></p>\n\n<p><u><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li>The best Index of Economic Development is provided by&nbsp;<strong>Per capita, Gross National Product (GNP)</strong>&nbsp;&nbsp;<em><strong>Hence option 2 is correct.</strong></em></li>\n\t<li>It can be derived by dividing the GNP of a country by its population. The higher the level of per capita income, the higher is the economic development.</li>\n\t<li>The World Bank, in its world development report 1998, classified the countries in the world on the bases of per capita GNP.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ece65fff60d5d21e5a0f89f",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "When the national income of an economy is calculated based on the input costs then it is known as National Income at _______________.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Basic Cost",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Factor Cost",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Primary Cost&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Secondary Cost",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Calibrated Cost&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\">TB Solution:</p>\n\n<p style=\"text-align: justify;\">The correct answer is&nbsp;<strong>2</strong>&nbsp;i.e.<strong><u>&nbsp;Factor Cost.&nbsp;</u></strong></p>\n\n<p style=\"text-align: justify;\"><strong>Explanation:</strong></p>\n\n<ul>\n\t<li style=\"text-align: justify;\">The value of total produced goods and services i.e.<strong> national income of any economy is calculated on either of the two parameters - &lsquo;factor cost&rsquo; or the &lsquo;market cost&rsquo;.</strong></li>\n\t<li style=\"text-align: justify;\"><strong>Factor cost is basically the input costs</strong> (like raw material, interest on loans if taken, labourer wages, etc)&nbsp;the producer or the manufacturer has to bear during the process of producing goods. Factor cost is also termed as &lsquo;factory price&rsquo;. So in a way, it can also be termed as the &lsquo;price&rsquo; of the commodity from the producer&rsquo;s side.&nbsp;</li>\n\t<li style=\"text-align: justify;\">Now <strong>when we add the taxes (indirect) to the factory cost we get &lsquo;market cost</strong>&rsquo;. So it means the cost at which the goods reach the market, i.e., showrooms (the tax paid by the producers to the union government in India). After adding the state government taxes (SGST)&nbsp;to it we get &#39;market price&rsquo; or factor price.&nbsp;</li>\n\t<li style=\"text-align: justify;\"><strong>Before 2015 officially India calculated the national income at factor cost</strong>(however the data regarding market cost was also released) but <strong>after 2015, CSO has switched over to calculating it at market price</strong> (i.e., market cost).&nbsp;</li>\n\t<li style=\"text-align: justify;\">The market price is calculated by adding the product taxes (both the state and central taxes) to the factor cost.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ece6749f60d5d21e5a0f936",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>Consider the following equation with reference to National Income:</p>\n\n<p>National Income( Market Cost) - National Income (Factor Cost) = __________</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Revenue",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Taxes",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Marked Price",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Discounted Price&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Borrowing&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">2</span>&nbsp;i.e.&nbsp;<span style=\"font-weight: 700;\"><u>Taxes</u></span>.</p>\n\n<p style=\"text-align: justify;\"><span style=\"font-weight: 700;\">Explanation:</span></p>\n\n<ul>\n\t<li style=\"text-align: justify;\">The value of total produced goods and services i.e.<span style=\"font-weight: 700;\">&nbsp;national income of any economy is calculated on either of the two parameters - &lsquo;factor cost&rsquo; or the &lsquo;market cost&rsquo;.</span></li>\n\t<li style=\"text-align: justify;\"><span style=\"font-weight: 700;\">Factor cost is basically the input costs</span>&nbsp;(like raw material, interest on loans if taken, labourer wages, etc)&nbsp; the producer or the manufacturer has to bear during the process of producing goods. Factor cost is also termed as &lsquo;factory price&rsquo;. So in a way, it can also be termed as the &lsquo;price&rsquo; of the commodity from the producer&rsquo;s side.&nbsp;</li>\n\t<li style=\"text-align: justify;\">Now&nbsp;<span style=\"font-weight: 700;\">when we add the taxes (indirect) to the factory cost we get &lsquo;market cost</span>&rsquo;.</li>\n\t<li style=\"text-align: justify;\">So it means the cost at which the goods reach the market, i.e., showrooms (the tax paid by the producers to the union government in India). After adding the state government taxes (SGST)&nbsp; to it we get &#39;market price&rsquo; or factor price.&nbsp;</li>\n\t<li style=\"text-align: justify;\"><span style=\"font-weight: 700;\">Before 2015 officially India calculated the national income at factor cost&nbsp;</span>( however the data regarding market cost was also released) but&nbsp;<span style=\"font-weight: 700;\">after 2015, CSO has switched over to calculating it at market price</span>&nbsp;(i.e., market cost).&nbsp;</li>\n\t<li style=\"text-align: justify;\">The <strong>market price is calculated by adding the product taxes (both the state and central taxes) to the factor cost.&nbsp;</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61e582e42a6e09ed17236df4",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "What does &#39;Revenue Neutral Tax Rate&#39; mean in reference to &#39;Goods and Services Tax (GST)&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The rate at which tax revenues for States and Centre will remain the same as before GST",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The tax rate will be same for the Centre and States",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The tax rate at which Central and State revenues will be same",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Proportion of tax revenue of States to Centre should increase",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above/More than one of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>option 1</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Revenue Neutral Tax Rate in GST may simply be defined as the tax rate which seeks to achieve and collect similar revenue under the newly implemented tax structure as collected from taxes which are sought to be subsumed and were in force prior to the implementation of the new tax structure.</li>\n\t<li>Thus, the basic objective of the Revenue Neutral Rate can be described to prevent the newly implemented tax structure from having negative revenue implications.</li>\n\t<li>Since the GST is primarily intended as an exercise in reforming the consumption tax in India and not an exercise for additional resource mobilisation through discretionary changes, the CGST and SGST rates should be such rates that would yield the same revenue as collected from the various taxes which will be subsumed in the CGST and SGST, that is, it should be a revenue neutral tax rates.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef493fa4fb1b40d0f65ff8a",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>What has been&nbsp;the negative outcomes of the LPG Policy of 1991?</p>\n\n<p>1. The share of agriculture has gone down drastically.</p>\n\n<p>2. Local businesses in India are facing huge competition.</p>\n\n<p>3. Globalization has resulted in destruction of environment.</p>\n\n<p>4. Widening income gaps within the country.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 2 and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 3 and 4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All 1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is option (5) i.e <u><strong>All of these</strong></u>.</p>\n\n<ul>\n\t<li><span style=\"font-size: 14px;\">In 1991, agriculture provided employment to 72 percent of the population and contributed 29.02 percent of the GDP. Now the<strong> share of agriculture in the GDP has gone down drastically to 18 percent. </strong></span></li>\n\t<li><span style=\"font-size: 14px;\">This has resulted in a <strong>lowering of the per capita income of the farmers</strong> and increasing the rural indebtedness.</span></li>\n\t<li><span style=\"font-size: 14px;\">Due to the opening up of the Indian economy to foreign competition,<strong> more MNCs are competing with local businesses and companies which are facing problems due to financial constraints</strong>, lack of advanced technology and production inefficiencies.</span></li>\n\t<li><span style=\"font-size: 14px;\">Globalization has also contributed to the <strong>destruction of the environment through pollution</strong> by emissions from manufacturing plants and clearing of vegetation cover. It further affects the health of people.</span></li>\n\t<li>\n\t<div><span style=\"font-size: 14px;\">LPG policies have lead to<strong> widening income gaps within the country.</strong> The higher growth rate is achieved by an economy at the expense of declining incomes of people who may be rendered redundant.</span></div>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6632130485bea7028b28d6e3",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "What concept in economics refers to the total market value of all final goods and services produced within a country in a specific period?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Gross Domestic Product (GDP)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Gross National Product (GNP)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Net National Product (NNP)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Consumer Price Index (CPI)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Purchasing Power Parity (PPP)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Gross Domestic Product (GDP)</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>GDP measures the economic output of a geographical area and is an important indicator of economic health.</strong></li>\n\t<li><strong>It includes the value of consumption, investment, government spending, and net exports.</strong></li>\n\t<li><strong>GDP can be calculated using three approaches: the production approach, the income approach, and the expenditure approach.</strong></li>\n</ul>\n\n<p><span style=\"color: (0, 0, 0);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Gross National Product (GNP)</span></u>\n\n\t<ul>\n\t\t<li>Measures the total economic output produced by the nationals of a country, including earnings from overseas.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Net National Product (NNP)</span></u>\n\t<ul>\n\t\t<li>GNP adjusted for depreciation, showing the net income that the nation actually earns.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Consumer Price Index (CPI)</span></u>\n\t<ul>\n\t\t<li>Measures changes in the price level of a weighted average market basket of consumer goods and services purchased by households.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Purchasing Power Parity (PPP)</span></u>\n\t<ul>\n\t\t<li>An economic theory that compares different countries&#39; currencies through a \"basket of goods\" approach.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6224e0cb081ed8a9167fa008",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Which of the following is a progressive tax?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "terminal tax",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "security tax",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Income tax",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "excise duty",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "sales tax",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is the&nbsp;<u><strong>Income-tax</strong></u>.</p>\n\n<ul>\n\t<li><u><strong><span style=\"\">Income tax&nbsp;</span>is a&nbsp;progressive tax.</strong></u></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;A progressive tax is a tax in which the tax rate increases as the taxable amount increases.&nbsp;</li>\n\t<li>That means the low tax imposed on low-income earners compared to those with a higher income.</li>\n\t<li>Excise duties, Octroi, House tax all are fixed but income tax is different for different earning people.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69f5f12242add477f2162b5a",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<span>In the calculation of National income to arrive at 'Factor Cost' from 'Market Price', we must</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span>add indirect taxes.</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span>add depreciation.</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span>subtract indirect taxes and add subsidies.</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span>add indirect taxes and subtract subsidies.</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>subtract indirect taxes and add subsidies.</strong></u>.</p>\n<div><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Key Points</u></span></strong></span></div>\n<ul>\n<li><strong>Factor Cost</strong> refers to the total cost of all factors of production used to produce a good or service. These factors include <strong>Land, Labour, Capital, and Entrepreneurship</strong>. It represents the actual income received by the producers for their contribution to the production process.</li>\n<li><strong>Market Price</strong> is the price at which a product is sold in the retail market. It is derived by adding <strong>Indirect Taxes</strong> to the <strong>Factor Cost</strong> and subtracting any <strong>Subsidies</strong> provided by the government.</li>\n<li>To arrive at <strong>Factor Cost</strong> from <strong>Market Price</strong>, we must remove the influence of the government's fiscal policy (taxes and subsidies). Since <strong>Indirect Taxes</strong> (like <strong>GST</strong>) increase the price paid by consumers, they must be <strong>subtracted</strong> from the market price. Conversely, <strong>Subsidies</strong> reduce the market price, so they must be <strong>added</strong> back to reflect the true cost of production. <em><strong>Hence, the statement 'subtract indirect taxes and add subsidies' is correct.</strong></em></li>\n<li>Adding <strong>Indirect Taxes</strong> to the <strong>Market Price</strong> (Option 1) would result in a value that includes the tax twice, which does not represent the cost of production. <em><strong>Hence, statement 1 is incorrect.</strong></em></li>\n<li>Adding <strong>Depreciation</strong> (Option 2) is used to convert <strong>Net</strong> values into <strong>Gross</strong> values (e.g., <strong>NDP</strong> to <strong>GDP</strong>). It does not play a role in the conversion between <strong>Market Price</strong> and <strong>Factor Cost</strong>. <em><strong>Hence, statement 2 is incorrect.</strong></em></li>\n<li>Adding <strong>Indirect Taxes</strong> and subtracting <strong>Subsidies</strong> (Option 4) is the mathematical process used to calculate <strong>Market Price</strong> when the <strong>Factor Cost</strong> is already known. <em><strong>Hence, statement 4 is incorrect.</strong></em></li>\n</ul>\n<div><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></div>\n<ul>\n<li><strong>Net Indirect Taxes (NIT)</strong>: This is a key economic aggregate defined as the difference between <strong>Indirect Taxes</strong> and <strong>Subsidies</strong>. The formula is <strong>NIT = Indirect Taxes - Subsidies</strong>. Therefore, the relationship can be simplified as <strong>Factor Cost = Market Price - Net Indirect Taxes</strong>.</li>\n<li><strong>Indirect Taxes</strong>: These are taxes levied by the government on the consumption of goods and services. In <strong>India</strong>, the most prominent indirect tax is the <strong>Goods and Services Tax (GST)</strong>, which was launched on <strong>July 1, 2017</strong>, to create a unified national market.</li>\n<li><strong>Subsidies</strong>: These are financial aids or grants provided by the <strong>Government of India</strong> to producers to make essential goods like <strong>Fertilizers, Food grains (under PDS), and LPG</strong> more affordable for the public. They reduce the market price below the actual cost of production.</li>\n<li><strong>National Income (NI)</strong>: In the context of <strong>India</strong>, <strong>National Income</strong> is formally defined as <strong>Net National Product at Factor Cost (NNP at FC)</strong>. It excludes <strong>Depreciation</strong> and <strong>Net Indirect Taxes</strong> but includes <strong>Net Factor Income from Abroad (NFIA)</strong>.</li>\n<li><strong>Gross Domestic Product (GDP)</strong>: This is the total market value of all final goods and services produced within a <strong>country</strong> in a specific <strong>financial year</strong>. Since <strong>2015</strong>, the <strong>Central Statistics Office (CSO)</strong> has shifted the headline growth rate to <strong>GDP at Market Prices</strong> instead of <strong>GDP at Factor Cost</strong>.</li>\n</ul>\n<div><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Important Points</u></span></strong></span></div>\n<ul>\n<li><strong>Mathematical Formulas</strong>: The three fundamental conversions in national income accounting are:\n1. <strong>Gross Value - Depreciation = Net Value</strong>.\n2. <strong>Market Price - Net Indirect Taxes = Factor Cost</strong>.\n3. <strong>Domestic Income + Net Factor Income from Abroad = National Income</strong>.</li>\n<li><strong>Nodal Agency</strong>: The <strong>National Statistical Office (NSO)</strong>, under the <strong>Ministry of Statistics and Programme Implementation (MoSPI)</strong>, is responsible for the collection, compilation, and release of <strong>National Income</strong> data in <strong>India</strong>.</li>\n<li><strong>Base Year</strong>: The current <strong>Base Year</strong> used for calculating <strong>National Income</strong> and <strong>GDP</strong> at constant prices in <strong>India</strong> is <strong>2011-12</strong>. A revision of the base year is periodically conducted to reflect changes in the economic structure.</li>\n<li><strong>GVA at Basic Prices</strong>: This is a relatively new concept in <strong>Indian</strong> statistics. <strong>Gross Value Added (GVA) at Basic Prices</strong> includes <strong>Production Taxes</strong> and excludes <strong>Production Subsidies</strong>, providing a middle ground between <strong>Factor Cost</strong> and <strong>Market Price</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef5958474b5f60d13984b1c",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "What is the term that refers to the transmission of ideas and values around the world in such a manner as to extend and intensify social relations?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Economic Globalization",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Social Globalization",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Cultural Globalization",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Political Globalization",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Financial Globalization",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is option (3) i.e&nbsp;<u><strong>Cultural Globalization</strong></u></p>\n\n<ul>\n\t<li><span style=\"font-size: 14px;\"><strong>Cultural globalization </strong>refers to the <strong>transmission of ideas, meanings, and values around the world in such a way as to extend and intensify social relations.</strong></span></li>\n\t<li><span style=\"font-size: 14px;\">This<strong> process is marked by the common consumption of cultures that have been diffused by the Internet, popular culture media, and international travel.</strong> This has added to processes of commodity exchange and colonization which have a long history of carrying cultural meaning around the globe.</span></li>\n\t<li><span style=\"font-size: 14px;\">Cultural globalization involves the formation of shared norms and knowledge with which people associate their individual and collective cultural identities.<strong> It brings increasing interconnectedness among different populations and cultures.</strong></span></li>\n\t<li><span style=\"font-size: 14px;\">A visible aspect of cultural globalization is the diffusion of certain cuisines such as American fast-food chains. <strong>The two most successful global food and beverage outlets, McDonald&#39;s and Starbucks, are American companies</strong> often cited as examples of globalization.</span></li>\n\t<li><span style=\"font-size: 14px;\">The<strong> patterns of cultural globalization is a way of spreading theories and ideas from one place to another. </strong>Although globalization has affected us economically and politically, it has also affected us socially on a wider scale.&nbsp;</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ece5fa7f60d5d21e5a0f554",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "In India who was first person to give and estimate of National Income and Per Capita Income (PCI) in 1867-68?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Sukesh Sen",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Romesh Chander Dutt",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Dadabhai Naoroji",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Gopal Krishan Gokhale",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Jamsetji Nusserwanji Tata",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<strong>3</strong>&nbsp;i.e.<strong><u>&nbsp;Dadabhai Naoroji.&nbsp;</u></strong></p>\n\n<p><strong>Explanation:</strong></p>\n\n<ul>\n\t<li style=\"text-align: justify;\">The sum total of all final goods and services produced in a country in a particular period of time (generally one year) is termed as National Income.&nbsp;</li>\n\t<li style=\"text-align: justify;\">Economist Sir William Petty from England was the first to calculate National Income. He did it in the 17th century.&nbsp;</li>\n\t<li style=\"text-align: justify;\">As far as India is concerned, <strong>In India Dadabhai Naoroji was the first to attempt to calculate national income</strong>. He estimated the National Income as&nbsp; Rs.340 crore in 1867-68, and the per capita income in that year as per him was Rs.20.</li>\n\t<li style=\"text-align: justify;\">Prof. V.K.R.V. Rao in 1931 gave the first scientific method to calculate National Income but it was not satisfactory.</li>\n\t<li style=\"text-align: justify;\">National Income Committee headed by Prof. P.C. Mahalanobis in 1949 made the first official attempt to calculate the National Income.&nbsp;</li>\n\t<li style=\"text-align: justify;\">C<strong>entral Statistical Organization (CSO) under</strong> the Ministry of Statistics and Programme Implementation <strong>(MOSPI) is entrusted with the task of calculating National Income in India.&nbsp;</strong></li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:13.919Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

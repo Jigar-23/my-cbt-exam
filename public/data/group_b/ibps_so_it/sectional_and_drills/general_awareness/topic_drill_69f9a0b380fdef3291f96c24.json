@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0b380fdef3291f96c24",
+  "title": "CT 14: General Awareness (Financial Inclusions)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6954015793d12f6cfd6ce6b3",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Who among the following is working in the field of financial inclusion in rural areas?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Self Help Group",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "State Government Financial Organizations",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Business representative",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of these",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is<u><strong>&nbsp;</strong></u><span style=\"\"><u><strong>All of these</strong></u>.</span></p>\n\n<p><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li><span style=\"\"><strong>Self Help Groups (</strong></span><strong>SHGs)</strong> are small functional groups in rural areas where 10-20 women and/or men join a group but in India, 90%of groups are formed by women.\n\n\t<ul>\n\t\t<li>The initial operation starts with collecting savings from members by collecting huge amounts that can be given to the needy members.</li>\n\t</ul>\n\t</li>\n\t<li>A <strong>state financial institution</strong> means a financial institution established by law with the objective of lending money for promoting agriculture, commerce, or industry.</li>\n\t<li>By using&nbsp;<strong><span style=\"\">Business representatives</span></strong>, banks can reach out to areas that lack formal financial services at a much faster rate and lower cost than they can by building brick-and-mortar branches.\n\t<ul>\n\t\t<li>The BC model also enables banks to offer financial services to new customers beyond their bank networks.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\"><font color=\"#202124\">T</font>he term &#39;financial inclusion&#39; was first used by the Reserve Bank of India in&nbsp;</span><span style=\"color: rgb(32, 33, 36);\"><span style=\"font-weight: 700;\">2005-06</span>.</span>\n\n\t<ul>\n\t\t<li>Financial inclusion is the process of<span style=\"font-weight: 700;\">&nbsp;ensuring access to financial products and services</span>&nbsp;needed by vulnerable groups at an affordable cost in a transparent manner by institutional players.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">The objectives of financial inclusion are to provide the following</span>:\n\t<ul>\n\t\t<li>A basic no-frills banking account for making and receiving payments</li>\n\t\t<li>Saving products (including investment and pension)</li>\n\t\t<li>Simple credit products and overdrafts linked with no-frills accounts</li>\n\t\t<li>The remittance, or money transfer facilities</li>\n\t\t<li>Microinsurance (life) and non-macro insurance (life and non-life)</li>\n\t\t<li>Micro pension</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">Pradhan Mantri Jan-Dhan Yojana (PMJDY)</span>\n\t<ul>\n\t\t<li>It is an example of financial inclusions&nbsp;programme.&nbsp;&nbsp;</li>\n\t\t<li>It is a national Mission for Financial Inclusion to ensure access to financial services, namely, a basic savings &amp; deposit accounts, remittance, credit, insurance, pension in an affordable manner.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "664b2ea368df2abcd032a6da",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Who among the following is working in the field of financial inclusion in rural areas?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Self Help Group",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "State Government Financial Organizations",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Business representative",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "More than one of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is<u><strong>&nbsp;</strong></u><span style=\"\"><u><strong>All of these</strong></u>.</span></p>\n\n<p><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li><span style=\"\"><strong>Self Help Groups (</strong></span><strong>SHGs)</strong> are small functional groups in rural areas where 10-20 women and/or men join a group but in India, 90%of groups are formed by women.\n\n\t<ul>\n\t\t<li>The initial operation starts with collecting savings from members by collecting huge amounts that can be given to the needy members.</li>\n\t</ul>\n\t</li>\n\t<li>A <strong>state financial institution</strong> means a financial institution established by law with the objective of lending money for promoting agriculture, commerce, or industry.</li>\n\t<li>By using&nbsp;<strong><span style=\"\">Business representatives</span></strong>, banks can reach out to areas that lack formal financial services at a much faster rate and lower cost than they can by building brick-and-mortar branches.\n\t<ul>\n\t\t<li>The BC model also enables banks to offer financial services to new customers beyond their bank networks.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\"><font color=\"#202124\">T</font>he term &#39;financial inclusion&#39; was first used by the Reserve Bank of India in&nbsp;</span><span style=\"color: rgb(32, 33, 36);\"><span style=\"font-weight: 700;\">2005-06</span>.</span>\n\n\t<ul>\n\t\t<li>Financial inclusion is the process of<span style=\"font-weight: 700;\">&nbsp;ensuring access to financial products and services</span>&nbsp;needed by vulnerable groups at an affordable cost in a transparent manner by institutional players.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">The objectives of financial inclusion are to provide the following</span>:\n\t<ul>\n\t\t<li>A basic no-frills banking account for making and receiving payments</li>\n\t\t<li>Saving products (including investment and pension)</li>\n\t\t<li>Simple credit products and overdrafts linked with no-frills accounts</li>\n\t\t<li>The remittance, or money transfer facilities</li>\n\t\t<li>Microinsurance (life) and non-macro insurance (life and non-life)</li>\n\t\t<li>Micro pension</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">Pradhan Mantri Jan-Dhan Yojana (PMJDY)</span>\n\t<ul>\n\t\t<li>It is an example of financial inclusions&nbsp;programme.&nbsp;&nbsp;</li>\n\t\t<li>It is a national Mission for Financial Inclusion to ensure access to financial services, namely, a basic savings &amp; deposit accounts, remittance, credit, insurance, pension in an affordable manner.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "698da39e9d208ac6300d6227",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which committee submitted recommendations specifically focused on promoting Financial Inclusion in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Malhotra Committee",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rangarajan Committee",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Narasimham Committee",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Padmanabhan Committee",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "B Shivraman Committee",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is the&nbsp;<u><strong>Rangarajan Committee.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Rangarajan Committee on Financial Inclusion.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Dr C Rangarajan Committee (2008) </strong>defined <strong>financial inclusion</strong> as access to affordable banking services.</li>\n\t<li>It recommended no-frills accounts, later evolving into Basic Savings Accounts.</li>\n\t<li>Emphasis on rural branch expansion and agent banking via Business Correspondents.</li>\n\t<li>Proposed priority sector lending targets for underserved segments like farmers.</li>\n\t<li>Suggested financial literacy campaigns to build banking awareness.</li>\n\t<li>Advocated technology use like core banking for remote access.</li>\n\t<li>Outcomes include PMJDY launching 50+ crore accounts post-report.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Financial inclusion is measured by accounts per 1000 adults.</li>\n\t<li>BC model allows banks to use local agents for last-mile delivery.</li>\n\t<li>Rangarajan also chaired the Economic Advisory Council to PM.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6847ef2e3464082e80af3ccf",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Who approved the National Strategy for Financial Inclusion (NSFI) for the period 2019-2024?<br />",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Asian Development Bank and&nbsp;<span style=\"color: rgb(33, 37, 41);\">Reserve Bank of India</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Financial Stability Development Council (FSDC)<br />",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both 1 and 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "World Bank",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "United Nations<br />",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Financial Stability Development Council (FSDC).</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The National Strategy for Financial Inclusion (NSFI) was finalized and approved by the Financial Stability Development Council (FSDC).</strong></li>\n\t<li><strong>The NSFI sets the vision and key objectives for expanding financial inclusion in India.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The NSFI was formulated by the Reserve Bank of India under the guidance of the Financial Inclusion Advisory Committee (FIAC) for the period 2019-2024.</strong></li>\n\t<li><strong>The strategy was based on wide-ranging discussions and feedback from various stakeholders in the financial sector.</strong></li>\n\t<li><strong>The NSFI aims to improve financial inclusion in India by expanding the reach of formal financial services and ensuring their sustainability.</strong></li>\n\t<li><strong>The FSDC approved the document after the finalization of inputs, and it was formally released by Shri M K Jain, Deputy Governor, RBI in January 2020.</strong></li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Financial Inclusion</span></u>\n\n\t<ul>\n\t\t<li>Financial inclusion refers to the availability and accessibility of financial services to all individuals, especially those from underserved and vulnerable sections.</li>\n\t\t<li>It is recognized as a key enabler for achieving sustainable development and economic growth.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">United Nations SDGs</span></u>\n\t<ul>\n\t\t<li>Seven of the United Nations Sustainable Development Goals (SDGs) view financial inclusion as a key enabler for achieving sustainable development by 2030.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">National Strategy for Financial Inclusion (NSFI)</span></u>\n\t<ul>\n\t\t<li>NSFI is a comprehensive plan formulated to promote financial inclusion in India, covering the period 2019-2024.</li>\n\t\t<li>The strategy aims to expand access to formal financial services, reduce vulnerability to economic shocks, and increase investments in human capital.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c4de3bcfdb8bb72f6528021",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which among the following is NOT a parameter that will be taken into account in the Financial Inclusion Index of the Government of India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Access to Financial Services&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Usage of Financial Services&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quality of Financial Services&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Depth of Financial Services&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All are the parameters of the Financial Inclusion Index&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li>The Financial Inclusion Index was launched by the Government of India in order to track the level of financial inclusion in the country.&nbsp;</li>\n\t<li>It is based on three parameters - Access to financial services, usage of financial services and the quality of financial services.&nbsp;</li>\n\t<li>This index will give an idea regarding the policy level initiatives that need to be taken up by the government to achieve financial inclusion in India.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6901ed2e3f2dc76c11a222d6",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "What was the value of RBI&#39;s Financial Inclusion Index in March 2025?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "61.2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "64.2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "67.0",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "70.1",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">70.0</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The Correct Answer is&nbsp;<u><strong>67.0</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>RBI&rsquo;s Financial Inclusion Index Rises to 67, Driven by Jan Dhan &amp; UPI Push.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul data-end=\"665\" data-start=\"369\">\n\t<li data-end=\"548\" data-start=\"369\">\n\t<p data-end=\"548\" data-start=\"371\">The <strong data-end=\"421\" data-start=\"375\">RBI&rsquo;s Financial Inclusion Index (FI-Index)</strong> rose to <strong data-end=\"438\" data-start=\"430\">67.0</strong> in <strong data-end=\"456\" data-start=\"442\">March 2025</strong>, up from <strong data-end=\"488\" data-start=\"466\">64.2 in March 2024</strong>, showing a <strong data-end=\"518\" data-start=\"500\">24.3% increase</strong> since its launch in <strong data-end=\"547\" data-start=\"539\">2021</strong>.</p>\n\t</li>\n\t<li data-end=\"665\" data-start=\"549\">\n\t<p data-end=\"665\" data-start=\"551\">The index measures <strong data-end=\"593\" data-start=\"570\">financial inclusion</strong> across <strong data-end=\"656\" data-start=\"601\">banking, investment, insurance, postal, and pension</strong> sectors.</p>\n\t</li>\n\t<li data-end=\"744\" data-start=\"694\">\n\t<p data-end=\"744\" data-start=\"696\">Index Compostion:</p>\n\n\t<ul>\n\t\t<li data-end=\"744\" data-start=\"694\">\n\t\t<p data-end=\"744\" data-start=\"696\">Ranges from <strong data-end=\"720\" data-start=\"708\">0 to 100</strong> (100 = full inclusion).</p>\n\t\t</li>\n\t\t<li data-end=\"1005\" data-start=\"745\">\n\t\t<p data-end=\"778\" data-start=\"747\">Based on <strong data-end=\"777\" data-start=\"756\">three sub-indices</strong>:</p>\n\n\t\t<ol>\n\t\t\t<li data-end=\"859\" data-start=\"781\">\n\t\t\t<p data-end=\"859\" data-start=\"784\"><strong data-end=\"794\" data-start=\"784\">Access</strong> &ndash; tracks infrastructure like <strong data-end=\"858\" data-start=\"824\">banks, PoS terminals, accounts</strong>.</p>\n\t\t\t</li>\n\t\t\t<li data-end=\"932\" data-start=\"862\">\n\t\t\t<p data-end=\"932\" data-start=\"865\"><strong data-end=\"874\" data-start=\"865\">Usage</strong> &ndash; measures use of <strong data-end=\"931\" data-start=\"893\">UPI, credit, savings, transactions</strong>.</p>\n\t\t\t</li>\n\t\t\t<li data-end=\"1005\" data-start=\"935\">\n\t\t\t<p data-end=\"1005\" data-start=\"938\"><strong data-end=\"949\" data-start=\"938\">Quality</strong> &ndash; includes <strong data-end=\"1004\" data-start=\"961\">financial literacy, grievance redressal</strong>.</p>\n\t\t\t</li>\n\t\t</ol>\n\t\t</li>\n\t\t<li data-end=\"1151\" data-start=\"1007\">\n\t\t<p data-end=\"1083\" data-start=\"1009\">The <strong data-end=\"1030\" data-start=\"1013\">2025 increase</strong> reflects <strong data-end=\"1071\" data-start=\"1040\">growth in Usage and Quality</strong>, driven by:</p>\n\n\t\t<ul data-end=\"1151\" data-start=\"1086\">\n\t\t\t<li data-end=\"1114\" data-start=\"1086\">\n\t\t\t<p data-end=\"1114\" data-start=\"1088\"><strong data-end=\"1114\" data-start=\"1088\">Digital infrastructure</strong></p>\n\t\t\t</li>\n\t\t\t<li data-end=\"1151\" data-start=\"1117\">\n\t\t\t<p data-end=\"1151\" data-start=\"1119\"><strong data-end=\"1151\" data-start=\"1119\">Financial literacy campaigns</strong></p>\n\t\t\t</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "62b959902d93c0972e99d835",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Which one of the following is not the objective of financial inclusion?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "To extend financial services to poor population",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "To unlock the door of growth potential of weaker section",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Shrinking of banking infrastructure",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "To extend financial sector into rural areas",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "​​None of the above&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>Shrinking of banking infrastructure</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Financial inclusion:</strong>\n\n\t<ul>\n\t\t<li><strong>Financial inclusion</strong> may be stated&nbsp;as the <strong>process of ensuring access to financial services and timely and adequate credit</strong> where required&nbsp;by vulnerable groups such as weaker sections and low-income groups at an affordable cost.</li>\n\t\t<li>In a&nbsp;country like India, <strong>financial inclusion is a critical part of the growth&nbsp;process.</strong></li>\n\t\t<li>Since independence, the <strong>combined efforts of successive governments, regulatory institutions, and civil society</strong> have helped in increasing the financial inclusion net in the country.</li>\n\t\t<li>The state of<strong> financial inclusion has repaired&nbsp;considerably over time.</strong></li>\n\t\t<li>However, financial inclusion hasn&rsquo;t reached the poorest of the poor and<strong> there exist many stoppages&nbsp;and challenges which need immediate attention.</strong></li>\n\t\t<li>Thus, <strong>there exists both a great need and the believable&nbsp;to tap into the unbanked population</strong> and bring them into the financial net.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Objective of financial inclusion</strong>\n\t<ul>\n\t\t<li><strong>​</strong>To extend financial services to poor population.</li>\n\t\t<li>To unlock the door of growth potential of weaker section.</li>\n\t\t<li>To extend financial sector into rural areas.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "62503e357436ddb0e78e79e1",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Which of the following is not a financial inclusion scheme?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Pradhan Mantri Jandhan Yojana",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Suraksha Bandhan Scheme",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Atal Pension Yojana",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "HRIDAY",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "​None of the above/More than one of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>HRIDAY</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><span style=\"font-weight: 700;\"><u>HRIDAY</u></span>\n\n\t<ul>\n\t\t<li>It is&nbsp;National Heritage City Development and Augmentation Yojana.</li>\n\t\t<li>The aim was to bring&nbsp;together urban planning, economic growth and heritage conservation in an inclusive manner &amp; with the objective of preserving the heritage character of the city.</li>\n\t\t<li>The Scheme has supported the development of core heritage linked civic infrastructure projects which includes revitalization of urban infrastructure for areas around heritage, religious, cultural and tourism assets of the cities.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Pradhan Mantri Jandhan Yojana</strong>\n\n\t<ul>\n\t\t<li>It is a National Mission for <strong>Financial Inclusio</strong>n to ensure access to financial services, namely, basic savings &amp; deposit accounts, remittance, credit, insurance, pension in an affordable manner.</li>\n\t\t<li>Under the scheme, a basic savings bank deposit (BSBD) account can be opened in any bank branch or Business Correspondent (Bank Mitra) outlet, by persons not having any other account.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Suraksha Bandhan Scheme</strong>\n\t<ul>\n\t\t<li>It is a drive that aims to take forward the Government&rsquo;s objective of creating a universal social security system in the country, targeted especially at the <strong>poor and the underprivileged.</strong></li>\n\t\t<li>It facilitates&nbsp;enrolment under Pradhan Mantri Suraksha Bima Yojana (PMSBY) and Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).</li>\n\t</ul>\n\t</li>\n\t<li><strong>Atal Pension Yojana</strong>\n\t<ul>\n\t\t<li>It&nbsp;was launched on 09.05.2015 to create a universal social security system for all Indians, <strong>especially the poor, the underprivileged </strong>and the workers in the unorganised sector.</li>\n\t\t<li>It is administered by Pension Fund Regulatory and Development Authority (PFRDA).</li>\n\t\t<li>It&nbsp;aims at the unorganized sector such as maids, gardeners, delivery boys, etc.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6024db35b00686fcc44bd6de",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Which of the following accounts are mostly supported by Financial Inclusion?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Savings Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Current&nbsp;Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "NRI&nbsp;Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "BSBD&nbsp;Account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>&nbsp;The Correct answer is&nbsp;<u><strong>BSBD&nbsp;Account.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><u><strong>BSBD&nbsp;​Account:</strong></u>\n\n\t<ul>\n\t\t<li>Stands for&nbsp;<strong>Basic Savings Bank Deposit Account.</strong></li>\n\t\t<li>The <strong>Basic Savings Bank Deposit (BSBD) Account</strong> was designed as a savings account that would offer certain <strong>minimum facilities, free of charge, to the holders of such accounts.</strong></li>\n\t\t<li>These types of accounts are m<strong>ostly supported by Financial Inclusion Schemes.</strong></li>\n\t\t<li>Banks are now advised to offer by RBI the following basic minimum facilities in the BSBD Account,<strong> free of charge, without any requirement of minimum balance.</strong></li>\n\t</ul>\n\t</li>\n\t<li><u>This Account also offers:-</u>\n\t<ul>\n\t\t<li>Deposit of cash at bank branch as well as <strong>ATMs/CDMs</strong></li>\n\t\t<li><strong>Receipt/ credit of money</strong> through any electronic channel or by means of deposit /collection of cheques drawn by Central/State Government agencies and departments</li>\n\t\t<li>No limit on the number and value of deposits that can be made in a month</li>\n\t\t<li><strong>Minimum of four withdrawals</strong> in a month, including ATM withdrawal</li>\n\t\t<li><strong>ATM Card or ATM-cum-Debit Card.</strong></li>\n\t\t<li>Banks are free to provide additional value-added services, including the issue of cheque book, beyond the above minimum facilities, which may/may not be priced (in a non-discriminatory manner) subject to disclosure.</li>\n\t\t<li>The holders of BSBD Account will not be eligible for opening any other savings bank deposit account in that bank. If a customer has any existing savings bank deposit account in that bank, he/she will be required to close it within 30 days from the date of opening a <strong>BSBD Account.</strong></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "66ed1cc2178e82e42b1fe218",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "The concept of financial inclusion, particularly in developing countries, revolves around providing access to banking services for underserved populations. What are the three core dimensions of financial inclusion that measure its effectiveness globally?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Access, Quality, and Usage",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Access, Reliability, and Security",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quality, Depth, and Accessibility",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Usage, Security, and Affordability",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Availability, Trust, and Literacy",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <em><u><strong> Access, Quality, and Usage.</strong></u></em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span><strong>Core Dimensions of Financial Inclusion</strong></p>\n\n<ul>\n        <li><strong>Access:</strong> This dimension measures the availability of financial services to the underserved populations. It includes the number of bank branches, ATMs, and other financial service points per capita, as well as the geographical distribution of these services. Ensuring access is the first step in financial inclusion, as it provides the basic infrastructure needed for people to engage with financial systems.</li>\n        <li><strong>Quality:</strong> This aspect focuses on the relevance and suitability of financial services provided. It evaluates how well the services meet the needs of different segments of the population, including the poor and marginalized groups. Quality is assessed through customer satisfaction, the range of products offered, and the ability of financial institutions to cater to diverse financial needs.</li>\n        <li><strong>Usage:</strong> This dimension goes beyond mere access and assesses the actual uptake and frequency of use of financial services. It includes metrics such as the number of active accounts, frequency of transactions, and the types of financial products used. High usage indicates that people find value in the financial services provided and are actively engaging with the financial system.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Financial Inclusion</strong> is a crucial aspect of economic development, especially in <strong>developing countries</strong>. It aims to ensure that everyone, regardless of their socioeconomic status, has access to useful and affordable financial products and services that meet their needs.</li>\n        <li>The <strong>World Bank</strong> and other international organizations have been actively promoting financial inclusion as a means to reduce poverty and enhance economic growth. According to the <strong>Global Findex Database</strong>, as of <strong>2017</strong>, about <strong>1.7 billion adults</strong> globally remain unbanked, highlighting the need for enhanced financial inclusion efforts.</li>\n        <li>In the context of <strong>India</strong>, the <strong>Pradhan Mantri Jan Dhan Yojana (PMJDY)</strong> is a notable initiative aimed at increasing financial inclusion. Launched in <strong>2014</strong>, it has significantly increased the number of bank accounts among the unbanked population.</li>\n        <li><strong>Technology</strong> plays a vital role in enhancing financial inclusion. Innovations such as mobile banking, digital wallets, and fintech solutions have made financial services more accessible to remote and underserved areas.</li>\n        <li><strong>Regulatory frameworks</strong> and policies are essential to support financial inclusion. Governments and financial institutions need to work together to create an enabling environment that promotes access, quality, and usage of financial services.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:59.028Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

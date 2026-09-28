@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a09d105edfecc941201e",
+  "title": "CT 3: General Awareness (Types of Bank Accounts)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "688b6f32bcce66bd08a01d9e",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p>Under the Pradhan Mantri Jan Dhan Yojana (PMJDY), which of the following types of bank account is primarily opened for beneficiaries?\n</p><p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Fixed Deposit Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Current Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Recurring Deposit Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Basic Savings Bank Deposit Account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Non-Resident External Account",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong>Option 4</strong>.\n</p><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/in_news.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>In News</u></span></strong></span></p><ul style='list-style-type: disc;'><li>PMJDY accounts are opened as zero-balance Basic Savings Bank Deposit (BSBD) accounts to ensure inclusive access.\n</li></ul><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Key Points</u></span></strong></span></p><ul style='list-style-type: disc;'><li>PMJDY primarily enables the opening of <strong>Basic Savings Bank Deposit Accounts (BSBDAs)</strong> with features like no minimum balance, debit card issuance, and DBT access. <strong>Hence, Option 4 is correct.\n</strong></li><li><strong>Fixed Deposit Accounts</strong> involve long-term saving with a fixed return and are not part of PMJDY provisions. <strong>Hence, Option 1 is incorrect.\n</strong></li><li><strong>Current Accounts</strong> are designed for businesses and are not suitable for the scheme's target population. <strong>Hence, Option 2 is incorrect.\n</strong></li><li><strong>Recurring Deposit Accounts</strong> require regular monthly contributions, which is not the structure of Jan Dhan accounts. <strong>Hence, Option 3 is incorrect.\n</strong></li><li><strong>Non-Resident External Accounts</strong> are meant for NRIs and are unrelated to PMJDY. <strong>Hence, Option 5 is incorrect.</strong></li></ul><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p><ul style='list-style-type: disc;'><li>BSBDAs are eligible for benefits like RuPay cards, accidental insurance, and overdraft after 6 months of satisfactory operation.\n</li><li>The account can be opened in public and private sector banks and even through Business Correspondents (Bank Mitras). \n</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "63c6ab0e79b3bd0bc58c949b",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which of the following types of bank accounts does NOT earn any interest for the account holder?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Recurring Deposit Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Current Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Pension Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Savings Account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;&nbsp;<strong><u>Current Account.</u></strong></p>\n\n<ul>\n\t<li><strong>Current Account derives its name from the purpose they are most suited for regular transactions.</strong></li>\n\t<li>And there is no limit on the number of transactions you can perform.</li>\n\t<li><strong>Unlike a savings account, the minimum balanced to be maintained in a current account is higher. </strong></li>\n\t<li>Moreover, <strong>the money in the account does not earn any interest (mainly because of the fluid nature of the account</strong> i.e. frequent transactions) and for certain current accounts, there is a limit on cash withdrawals.</li>\n\t<li>A current account is a must for those in business and/or profession.</li>\n\t<li>Be it a proprietorship concern, start-up, <strong>partnership firm, Limited Liability Partnership (LLP), One Person Company (OPC), private limited company, or a public limited company, </strong>everyone needs a current account.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6244499389d9e88dcbb47612",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which Payments Bank has launched &lsquo;Rewards123&rsquo; savings account?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Paytm Payments Bank",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Airtel Payments Bank",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "India Post Payments Bank",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Fino Payments Bank",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Jio Payments Bank",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is<strong>&nbsp;<span style=\"\">Airtel Payments Bank.</span></strong></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;</span></p>\n\n<p style=\"\">Airtel Payments Bank launched its new &lsquo;Rewards123&rsquo; savings account, which provides customers with perks and rewards. The Rewards123 Savings Account is built specifically that allows you to get access to a variety of perks when you save and transact digitally. The company claims that its newly introduced saving account is designed to offer consistent value, with assured rewards on different types of digital transactions throughout the year.</p>\n\n<p style=\"\">About the Rewards123 savings account:</p>\n\n<p style=\"\">Airtel Payments Bank says that its Rewards123 savings bank account will give multiple benefits to users with annual earnings of up to ₹960.</p>\n\n<p style=\"\">In addition to that, users will get 1% cashback when they load ₹1,000 through UPI in their account. Users will get a maximum of ₹10 per month as a part of this benefit.</p>\n\n<p style=\"\">Important takeaways for all competitive exams:</p>\n\n<p style=\"\">Airtel Payments Bank&rsquo;s MD and CEO: Subrata Biswas.</p>\n\n<p style=\"\">Airtel Payments Bank Headquarters: New Delhi.</p>\n\n<p style=\"\">Airtel Payments Bank Founded: January 2017.</p>\n<span id=\"cke_bm_3231E\" style=\"display: none;\">&nbsp;</span>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "689c7b6515ff82ff67917f18",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p data-end=\"153\" data-start=\"0\">In June 2025, Which of the following statements about Canara Bank&#39;s decision to remove the Minimum Balance Rule for savings bank accounts are correct?</p>\n\n<ol data-end=\"570\" data-start=\"154\">\n\t<li data-end=\"311\" data-start=\"154\">\n\t<p data-end=\"311\" data-start=\"157\">Canara Bank has removed the Average Monthly Balance (AMB) requirement for all types of savings bank accounts.</p>\n\t</li>\n\t<li data-end=\"438\" data-start=\"312\">\n\t<p data-end=\"438\" data-start=\"315\">The new rule will apply only to savings bank accounts of regular customers and will not include special account categories.</p>\n\t</li>\n\t<li data-end=\"570\" data-start=\"439\">\n\t<p data-end=\"570\" data-start=\"442\">With this move, Canara Bank becomes the first major public sector bank to remove AMB-related penalties across all account types.</p>\n\t</li>\n</ol>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both 2 and 3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both 1 and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both 1 and 2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All 1, 2 and 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Both 1 and 3.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Canara Bank removes the Minimum Balance Rule for all types of savings bank accounts, becoming the first major public sector bank to do so.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Canara Bank</strong> has abolished the Average Monthly Balance (AMB) requirement for all its savings bank accounts, including regular, salary, and NRI accounts.</li>\n\t<li>This move is in line with the bank&rsquo;s strategy to offer more convenience to customers and eliminate penalties related to AMB maintenance.</li>\n\t<li>Canara Bank has become the first major public sector bank in India to remove AMB-related penalties across all its savings account types.</li>\n\t<li>Such changes are expected to benefit customers who had previously struggled with maintaining the minimum balance required in their accounts.</li>\n\t<li>The initiative aims to make banking more accessible and customer-friendly for all segments of society.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Minimum Balance Rule</span></u>\n\n\t<ul>\n\t\t<li>The minimum balance rule requires customers to maintain a certain amount in their accounts each month. Failing to do so often results in penalties.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Public Sector Banks</span></u>\n\t<ul>\n\t\t<li>Public sector banks in India are state-owned and often play a key role in offering banking services to the masses.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Canara Bank</span></u>\n\t<ul>\n\t\t<li>Canara Bank, established in 1906</li>\n\t\t<li>Headquarter - Bengaluru</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef2e097f064bf0339707855",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which among the following is the first bank in India to introduce opening of&nbsp;current accounts through its mobile application ? (June)",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Bandhan Bank",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Union Bank of India",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Central Bank of India",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "IndusInd Bank",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "State Bank of India",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\">The correct answer is option <u><strong>4</strong></u>, i.e.&nbsp;<u><strong>IndusInd Bank.</strong></u></p>\n\n<ul>\n\t<li style=\"text-align: justify;\"><u><strong>IndusInd Bank</strong></u> is the first bank in India to introduce the opening of&nbsp;current accounts through its mobile application.</li>\n\t<li style=\"text-align: justify;\">This is a&nbsp;first-of-its-kind facility for customers. They can use&nbsp;<strong>&lsquo;Indus Corporate&rsquo;</strong> mobile app to open a current account.</li>\n\t<li style=\"text-align: justify;\">The customers would not require physical KYC documents in order to open an account. The customer would also have an option to&nbsp;choose his account number to open the account.</li>\n\t<li style=\"text-align: justify;\">Current accounts can be opened for all types of businesses including proprietorship, partnerships and private and public limited companies.</li>\n\t<li style=\"text-align: justify;\">IndusInd Bank&rsquo;s &lsquo;Indus Corporate&rsquo; mobile app makes use of&nbsp;several APIs&nbsp;which enable&nbsp;secure validation of KYC documents from authorized government platforms such as <span style=\"text-align: justify;\">National Securities Depository Limited,&nbsp;</span>Goods and Service Tax, Ministry of Corporate Affairs, Aadhaar, etc.</li>\n\t<li style=\"text-align: justify;\"><strong>IndusInd Bank&nbsp;MD &amp; CEO -&nbsp;Sumant Kathpalia</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64c8ce0cde20337546cc6820",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Which of the following is an example of a representative personal account?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Outstanding rent A/c",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Factory building A/c",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mehta and Sons A/c",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Wages and salaries A/c",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above/More than one of the above.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><u><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u><strong><span style=\"\">Personal Account :&nbsp;</span></strong></p>\n\n<ul>\n\t<li>These accounts types are related to persons. These persons may be natural persons like Raj&rsquo;s account, Rajesh&rsquo;s account, Ramesh&rsquo;s account, Suresh&rsquo;s account, etc.</li>\n\t<li>These persons can also be artificial persons like partnership firms, companies, bodies corporate, an association of persons, etc.</li>\n\t<li>For example &ndash; Rajesh and Suresh trading Co., Charitable trusts, XYZ Bank Ltd, C company Ltd, etc.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span><strong>Three Types of Personal Accounts</strong></p>\n\n<ul>\n\t<li>Real, Personal and Nominal accounts are the traditional classification of account types in accounting, however, <strong>personal accounts are further distinguished under three categories such as Natural, Artificial, and Representative.</strong></li>\n\t<li>Golden rule of accounting for personal accounts is &ndash; Debit the Receiver &amp; Credit the Giver.</li>\n</ul>\n\n<p><strong>Representative Personal Account:&nbsp;</strong>This account is different as compared to the other two types of personal accounts as it refers to accounts which represent a person or a group. (It is not directly their account but it represents &amp; is linked to them).</p>\n\n<p><strong>Examples: Outstanding expense A/C,</strong> Prepaid expense A/C, Accrued Income A/C, Income received in advance A/C, Unearned commission A/C, etc.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ol>\n\t<li><strong>Natural Personal Accounts:&nbsp;</strong>These accounts are related to human beings i.e. natural persons who are created by God. They possess a physical existence. Examples: Sam&rsquo;s A/C, Maya&rsquo;s A/C, Capital A/C, Drawings A/C, Debtor&rsquo;s A/C, Creditor&rsquo;s A/C, etc. come under the category of natural personal accounts.</li>\n\t<li><strong>Artificial Personal Accounts:&nbsp;</strong>Second among three types of personal accounts is &ldquo;Artificial&rdquo; personal account. These accounts do not have a physical existence however, they are recognized as persons in business dealings. Most often they are legal entities created by human beings. Example: Any Public or Private company A/C, Bank A/C, Club A/C, Insurance company A/C, NGO A/C, Cooperative society A/C, etc. would fall under this category.</li>\n</ol>",
+          "topic": "Test"
+        },
+        {
+          "id": "64b139033a638f43ebfc22e1",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "__________refers to a deposit into a bank account or a financial institution with no specified maturity date.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">Current Deposit</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Fixed Deposit",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Recurring Deposit",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "None of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above/More than one of the above.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<strong><u>current deposit</u></strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span>&nbsp;</strong></span></p>\n\n<ul>\n\t<li>The term current deposit refers to a <strong>deposit to a bank account or financial institution without a specified maturity date</strong>.</li>\n\t<li>These types of current deposit accounts generally only earn demand deposit interest.</li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Deposit</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Description</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Demand deposit</strong></td>\n\t\t\t<td>A demand deposit consists of a fund held in a bank account from which deposited funds can be withdrawn at any time.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Fixed deposit&nbsp;</strong></td>\n\t\t\t<td>A fixed deposit is an investment offered by the bank / NBFC where depositors get a higher rate of interest than saving accounts.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Recurring Deposit</strong></td>\n\t\t\t<td>The Recurring deposit account is an account in the bank where the depositor deposits a preset amount of money every month for a fixed time period.</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "65c4a86f6ef52a704a8f7a74",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Which of the following is a type of ledger?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Revenue ledger",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Assets ledger",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Liabilities ledger",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>ALL OF THE ABOVE.</strong></u></p>\n\n<p><u><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></u></p>\n\n<p><strong>Types of the ledger:&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>Assets Ledger: </strong>This contains accounts relating to assets only e.g. Machinery account, Building account, Furniture account, etc.</li>\n\t<li><strong>Liabilities Ledger: </strong>This contains the accounts of various liabilities e.g. Capital (Owner or partner), Loan account, Bank overdraft, etc.</li>\n\t<li><strong>Revenue Ledger: </strong>This contains the revenue accounts e.g.. Sales account, Commission earned account, Rent received an account, interest received account, etc.</li>\n\t<li><strong>Expenses Ledger: </strong>This contains the various accounts of expenses incurred, e.g. Wages account, Rent paid account, Electricity charges account, etc.</li>\n\t<li><strong>Debtors Ledger:</strong> This contains the accounts of the individual trade debtors of the business. Individuals, firms, and institutions to whom goods and services are sold on credit by business become the &lsquo;trade debtors&rsquo; of the business.</li>\n\t<li><strong>Creditors Ledger: </strong>This contains the accounts of the individual trade Creditors of the business. Individuals, firms, and institutions from whom a business purchases goods and services on credit are called &lsquo;trade creditors&rsquo; of the business.</li>\n\t<li><strong>General Ledger:</strong> This contains all those accounts which are not covered under any of the above types of the ledger. For example Landlord A/c, Prepaid insurance A/c, etc.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65e0438b9bf446b2fad7cd38",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Share Application Account is:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Personal Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Nominal Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Real Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "More than one of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<strong><u>PERSONAL ACCOUNT.</u></strong></p>\n\n<ul>\n\t<li><strong>Share application account is a personal account.</strong></li>\n\t<li>The amount of shares to be paid by intending shareholders (who apply for the share). It becomes a part of share capital is called &#39;share application money&#39;. The account where this money transfer is known as the &#39;Share application account&#39;.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Personal A/c:&nbsp;</strong>These account types are related to persons. These persons may be natural persons like Raj&rsquo;s account, Rajesh&rsquo;s account, Ramesh&rsquo;s account, Suresh&rsquo;s account, etc.</li>\n</ul>\n\n<p style=\"margin-left:36.0pt;\">These persons can also be artificial persons like partnership firms, companies, bodies corporate, an association of persons, etc. For example &ndash; Rajesh and Suresh trading Co., Charitable trusts, XYZ Bank Ltd, C company Ltd, etc. There can be personal representative accounts as well. For example &ndash; In the case of Salary, when it is payable to employees, it is known how much amount is payable to each of the employees. But collectively it is called &lsquo;Salary payable A/c&rsquo;.</p>\n\n<p style=\"margin-left:36.0pt;\"><strong>The rule for this Account<br />\nDebit the Receiver,&nbsp;Credit the Giver.</strong></p>\n\n<p style=\"margin-left:36.0pt;\">For Example&nbsp; &ndash; Goods sold to Suresh. In this transaction, Suresh is a personal account as being a natural person. His account will be debited in the entry as the receiver.</p>\n\n<ul>\n\t<li><strong>Real A/c:&nbsp;</strong>These account types are related to persons. These persons may be natural persons like Raj&rsquo;s account, Rajesh&rsquo;s account, Ramesh&rsquo;s account, Suresh&rsquo;s account, etc. These persons can also be artificial persons like partnership firms, companies, bodies corporate, an association of persons, etc. For example &ndash; Rajesh and Suresh trading Co., Charitable trusts, XYZ Bank Ltd, C company Ltd, etc.</li>\n</ul>\n\n<p style=\"margin-left:36.0pt;\">There can be personal representative accounts as well. For example &ndash; In the case of Salary, when it is payable to employees, it is known how much amount is payable to each of the employees. But collectively it is called &lsquo;Salary payable A/c&rsquo;.</p>\n\n<p style=\"margin-left:36.0pt;\"><strong>The rule for this Account<br />\nDebit the Receiver, Credit the Giver.</strong></p>\n\n<p style=\"margin-left:36.0pt;\">For Example&nbsp; &ndash; Goods sold to Suresh. In this transaction, Suresh is a personal account as being a natural person. His account will be debited in the entry as the receiver.</p>\n\n<ul>\n\t<li><strong>Nominal A/c:&nbsp;</strong>These account types are related to income or gains and expenses or losses. For example &ndash; Rent A/c, the commission received A/c, salary A/c, wages A/c, conveyance A/c, etc.</li>\n</ul>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<strong>Rules for this Account</strong></p>\n\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Debit all the expenses and losses of the business Credit the incomes and gains of business.</strong></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;For Example&nbsp; &ndash; Salary paid to employees of the entity. Salary A/c will be debited when the expenses are incurred. Whereas, when an entity receives any interest, discount, etc these are credited whenever&nbsp;these&nbsp;are received by the entity.</p>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "695e3c50d3d7b78c7c3278dd",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "What does the term &lsquo;Overdraft&rsquo; mean in banking?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The process of transferring funds between bank accounts",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The maximum withdrawal limit from an ATM&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Short-term financing facility",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The interest charged on loans",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "The correct answer is <u><strong>Short-term financing facility</strong></u>\n\n<div>\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Short-term financing facility</strong> is what the term &#39;Overdraft&#39; means in banking.</li>\n\t<li>An overdraft allows an account holder to withdraw more money than what is available in their bank account.</li>\n\t<li>It is a type of short-term loan provided by banks to help cover temporary cash shortfalls.</li>\n\t<li>The bank charges interest on the overdrawn amount, and there may also be fees associated with the overdraft facility.</li>\n\t<li>Overdrafts are useful for managing cash flow and unexpected expenses, ensuring that transactions are not declined due to insufficient funds.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The interest rate on an overdraft can be higher compared to other types of loans.</li>\n\t<li>Overdraft limits are typically set by the bank based on the customer&#39;s creditworthiness and account history.</li>\n\t<li>Exceeding the overdraft limit can result in additional penalties and higher interest rates.</li>\n\t<li>It is important for account holders to monitor their account balances regularly to avoid excessive overdraft fees.</li>\n\t<li>Some banks offer overdraft protection services, which link the primary account to another account or line of credit to cover overdrafts.</li>\n</ul>\n</div>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:32.112Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

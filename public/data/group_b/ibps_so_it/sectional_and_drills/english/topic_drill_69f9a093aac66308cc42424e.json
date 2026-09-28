@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a093aac66308cc42424e",
+  "title": "CT 22: English Language (Inference Based Questions)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6023d480b904f5a3d7cd5861",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, a situation is described followed by a list of words. Identify the correct word that can be used to describe the passage/ a part of the passage and mark the answer accordingly.</strong></p>\n\n<p>Unlike most religions, Hinduism has a heavy focus on freedom of thought. With no common doctrine or single scripture to be the source of its various teachings, it places more emphasis on orthopraxy than orthodoxy. Hinduism has very tightly defined codes of conduct and morality acting as the primary guide for its practitioners. This sets it apart from most western traditions and helps Hinduism to synthesize religion with philosophy. A large part of a Hindu&#39;s religious commitment is the search for truth. This keeps the religion from forcing its followers to declare themselves a part of one particular faith, belief, or creed. Hindus value everyone, irrespective of beliefs, as part of the truth.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Conciliatory",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Humanistic",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Laudatory",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Satirical",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Condescending",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The word \"humanistic\" aligns with the description of Hinduism emphasizing the value of individuals and the freedom of thought.</span></li>\n\t<li><span style=\"\">The passage highlights Hinduism&rsquo;s focus on morality, the search for truth, and inclusiveness, which are characteristic of a humanistic approach.</span></li>\n\t<li><span style=\"\">\"Conciliatory\" refers to making peace or resolving conflict, which does not directly relate to the passage&#39;s focus.</span></li>\n\t<li><span style=\"\">\"Laudatory\" means expressing praise, but the passage is more descriptive than explicitly praising Hinduism.</span></li>\n\t<li><span style=\"\">\"Satirical\" and \"condescending\" have negative connotations, which do not fit the tone of the passage.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Explanation:</strong> <em>The passage describes Hinduism as valuing freedom of thought, inclusivity, and morality, which aligns with the humanistic worldview.</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Conciliatory:</strong> Refers to actions intended to placate or pacify, which is not the focus of the passage.</span></li>\n\t<li><span style=\"\"><strong>Laudatory:</strong> Expressing praise, which is not the tone of this passage.</span></li>\n\t<li><span style=\"\"><strong>Satirical:</strong> Using humor or irony to criticize, which does not align with the passage&#39;s neutral and descriptive tone.</span></li>\n\t<li><span style=\"\"><strong>Condescending:</strong> Speaking with an attitude of superiority, which is irrelevant to the passage&#39;s content.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "602286bd008eb5e8474c8318",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, a situation is described followed by a list of words. Identify the correct word that can be used to describe the passage/ a part of the passage and mark the answer accordingly.</strong></p>\n\n<p>In November 2012, <span target=\"_blank\">when</span> Gangashri along with 12 other women in Parigama village in Uttar Pradesh&rsquo;s Mainpuri district voluntarily stopped cleaning dry toilets, men from the dominant Thakur caste came to their homes and threatened to deny them grazing rights and expel them from the village. Despite these threats, the women refused to return to manual scavenging. Soon after, some 20 to 30 upper-caste men from Parigama confronted the community. Gangashri recalls, &ldquo;<em>They called our men and said &lsquo;If you don&rsquo;t start sending your women to clean our toilets, we will beat them up. We will beat you up.&rsquo; They said, &lsquo;We will not let you live in peace.&rsquo; We were afraid.&rdquo; </em></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Emotional",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Angry",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Humanistic",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Conciliatory",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Pessimistic",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>&#39;Emotional&#39;.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span> </strong></p>\n\n<ul>\n\t<li>In this passage, a story has been narrated which portrays the writer&#39;s feelings of sensitivity and empathy for the manual scavengers in Mainpuri.</li>\n\t<li>It also seeks to arouse such feelings in the audience.</li>\n\t<li>Thus, this passage has an <strong>emotional </strong>tone.<br />\n\t&nbsp;</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the options given:</li>\n\t<li><strong>Pessimistic:</strong> A passage has a pessimistic tone when it discusses things from a negative point of view, pointing out flaws in something and overall leaving the reader in a negative mood.\n\t<ul>\n\t\t<li><strong>Example:</strong> <em>The recently passed farm laws are just a sham and will do more harm to the farming community than good.</em></li>\n\t</ul>\n\t</li>\n\t<li><strong>Angry: </strong>This kind of tone shows the author&rsquo;s anger towards the subject in a justified way. Such RC passages revolve around biased systems or policies followed by the authorities.</li>\n\t<li><strong>Conciliatory</strong>: Conciliatory tone means that the passage intends towards a resolution of conflicts, pacifying stance taken in the passage.\n\t<ul>\n\t\t<li><strong>Example:</strong> <em>I don&#39;t think anyone is to blame in this situation and we should rather focus on finding a solution to the problem rather than fighting among ourselves.</em></li>\n\t</ul>\n\t</li>\n\t<li><strong>Emotional: </strong>While narrating an incident/event/story, the author uses an emotional tone of writing in order to portray the feelings regarding the same.</li>\n\t<li><strong>Humanistic: </strong>A humanistic tone of writing refers to those issues which are related to welfare, values, and other such human affairs.\n\t<ul>\n\t\t<li><strong>Example: </strong><em>&ldquo;When the sun shall be folded up; and when the stars shall fall&hellip; and when the girl who hath been buried alive shall be asked for what crime she was put to death&hellip; every soul shall know what it hath wrought.&rdquo; &ndash; The Quran Infanticide, especially in case of the female child, is one of the most serious issues of human rights violation, happening all across the globe in varying numbers.</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Thus, <strong>the given passage is emotional in nature.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "602283cede0e9ae2d2ee057d",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, a situation is described followed by a list of words. Identify the correct word that can be used to describe the passage/ a part of the passage and mark the answer accordingly.</strong></p>\n\n<p>The labor code will come out as a game-changer initiative by the government and with successful implementation will give leverage to workmen uplifting their standard and condition of leaving, employers flexibility to protect the business interest and build transparency with digitalisation, and consider the interests of employees. This new Labor code will also help ease the business in India and attract foreign direct investment and attract multinational and Indian entrepreneurs to encourage strengthening the business opportunity,&nbsp;taking India to new heights.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Biased",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Angry",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Motivating",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Critical",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Conciliatory",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>&#39;Motivating</strong><strong>&#39;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>\n\t<p>The passage seems to be providing a positive assessment or report on the new labor code. It doesn&#39;t show any clear favoritism or unfairness.</p>\n\t</li>\n\t<li>\n\t<p>A suitable answer from the provided choices would be \"Motivating\".</p>\n\t</li>\n\t<li>\n\t<p><strong>The passage seems to motivate or inspire by discussing how the labor code could improve working conditions, business transparency, attract investment, and strengthen business opportunities.</strong></p>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the options given:</li>\n\t<li><span class=\"ng-binding\"><strong>Biased: </strong>While favoring one thing/person/group over the other, we tend to use a biased tone to display our inclination towards it.</span></li>\n\t<li><strong>Angry: </strong>This kind of tone shows the author&rsquo;s anger towards the subject in a justified way. Such RC passages revolve around biased systems or policies followed by the authorities.</li>\n\t<li><strong>Conciliatory</strong>: Conciliatory tone means that the passage intends towards a resolution of conflicts, pacifying stance taken in the passage.\n\t<ul>\n\t\t<li><strong>Example</strong>: <em>I don&#39;t think anyone is to blame in this situation and we should rather focus on finding a solution to the problem rather than fighting among ourselves.</em></li>\n\t</ul>\n\t</li>\n\t<li><strong>Critical: </strong>E<span style=\"color: rgb(32, 33, 36);  \">xpressing adverse or disapproving comments or judgements.</span></li>\n\t<li><strong>Motivating: </strong>A motivating tone of writing aims to inspire and propel you by the use of influential quotes and examples. Such passages may present examples of some popular personalities and incidents from their lives.</li>\n</ul>\n\n<p>Thus, <strong>the passage can be described </strong><strong>as motivating in nature.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5eb8e9d2f60d5d2d189298e5",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Read the passage given below and select the inference(s) that hold true based on the facts in the passage.</p>\n\n<p><strong>Passage:</strong></p>\n\n<p>People, not computers, create computer threats. Computer predators victimize others for their own gain. Give a predator access to the Internet &mdash; and to your PC &mdash; and the threat they pose to your security increases exponentially. Computer hackers are unauthorized users who break into computer systems in order to steal, change or destroy information, often by installing dangerous malware without your knowledge or consent directly if you are not protected by a firewall. Their clever tactics and knowledge help them access the information you really don&rsquo;t want them to have.</p>\n\n<p><strong>Inferences:</strong></p>\n\n<p><strong>I:</strong> Hackers have detailed technical knowledge about computers.</p>\n\n<p><strong>II:</strong> Firewall software help us to prevent hacking.</p>\n\n<p><strong>III:</strong> Hacking can be done by everyone.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only inference I follows.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only inference II follows.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II follow.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of them follow.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of them follows.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The passage above talks about <strong><em>the concept of hacking and hackers</em></strong>.</li>\n\t<li>From the information given above, we can infer that hackers have detailed technical knowledge about computers due to which they can easily get inside the system of other users.</li>\n\t<li>Hence, <strong>inference I follows.</strong></li>\n\t<li>Similarly, the fourth line of the passage helps us to infer that having a Firewall software will help us to prevent our system from being hacked.</li>\n\t<li>Hence, <strong>inference II also follows</strong>.</li>\n\t<li>The last option says that hacking can be done by anyone which is nowhere mentioned in the passage.</li>\n\t<li>Hence, <strong>inference III does not follows</strong>.</li>\n\t<li>Hence, <strong>both I and II follow</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "602285134de9b389780854d6",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, a situation is described followed by a list of words. Identify the correct word that can be used to describe the passage/ a part of the passage and mark the answer accordingly.</strong></p>\n\n<p>In the 21st century, peace, harmony, and non-discrimination on the grounds of religion, race, and gender are almost becoming&nbsp;universal values. Though it must be highlighted that the communal divide that India has been facing since British times is not something that existed before.</p>\n\n<p>In fact, going a few centuries back in time, when the Timurid prince&nbsp;<span>Babur</span>&nbsp;invaded northern India in 1526, was it not the case that he had attacked a Muslim ruler, Sultan Ibrahim Lodhi, and not a Hindu ruler? If Muslims were indeed a single nation, then why would Babur mount the attack?&nbsp;Being Muslim did not represent political unity. If they shared a common religion, history, social mores, and cultural values, why were Muslims unable to live in peace and harmony with each other?&nbsp;Was religion unable to bridge differences in ethnicity, language, culture, history, and geography?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Emotional",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Humanistic",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Euphemistic",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Conciliatory",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Technical",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>&#39;Humanistic&#39;</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The given passage gives a reaction against communalism and the Hindu-Muslim divide.</li>\n\t<li>Here, the writer talks about&nbsp;universal values of peaceful coexistence among communities and justifies how the Hindu-Muslim divide was not there in pre-British India.</li>\n\t<li>This is the characteristic of <strong>humanistic </strong>writing.</li>\n\t<li>Thus, this passage can be described as <strong>humanistic.</strong><br />\n\t&nbsp;</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of the options given:<strong> </strong></li>\n\t<li><strong>Emotional: </strong>While narrating an incident/event/story, the author uses an emotional tone of writing in order to portray the feelings regarding the same.</li>\n\t<li><strong><span style=\"font-weight: 700;\">Humanistic:&nbsp;</span>A humanistic tone of writing refers to those issues which are related to welfare, values, and other such human affairs.</strong>\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Example:&nbsp;</span><em>&ldquo;When the sun shall be folded up; and when the stars shall fall&hellip; and when the girl who hath been buried alive shall be asked for what crime she was put to death&hellip; every soul shall know what it hath wrought.&rdquo; &ndash; The Quran Infanticide, especially in case of the female child, is one of the most serious issues of human rights violation, happening all across the globe in varying numbers.</em></li>\n\t</ul>\n\t</li>\n\t<li><strong>Angry: </strong>This kind of tone shows the author&rsquo;s anger towards the subject in a justified way. Such RC passages revolve around biased systems or policies followed by the authorities.</li>\n\t<li><strong>Conciliatory:</strong> Conciliatory tone means that the passage intends towards a resolution of conflicts, pacifying stance taken in the passage.\n\t<ul>\n\t\t<li><strong>Example:</strong> <em>I don&#39;t think anyone is to blame in this situation and we should rather focus on finding a solution to the problem rather than fighting among ourselves.</em></li>\n\t</ul>\n\t</li>\n\t<li><strong>Technical:</strong> A technical tone is recognized by the usage of words especially pertaining to a particular subject matter/ field of study that an ordinary person or someone not familiar with the field may have a problem understanding.\n\t<ul>\n\t\t<li>This type of tone is generally used to discuss the core ideas of particular fields of study. Such passages are generally accompanied by a lot of facts and figures.</li>\n\t\t<li><strong>For example:</strong> <em>Quantum computers are well suited to simulating similarly intricate systems like economic market forces, astrophysical dynamics, or genetic mutation patterns in organisms, to name only a few</em>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Thus, <strong>the given passage can be described as humanistic</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ebadeaaf60d5d76ccb8c6c0",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Read the passage given below and select the inference(s) that hold true based on the facts in the passage.</p>\n\n<p><strong>Passage:</strong></p>\n\n<p>Rivers are the arteries of our planet, but the threats to our rivers and freshwater are multiplying. A dangerous combination of climate change, dams, diversions and pollution is transforming our rivers from vibrant waterways to stagnant dead zones. Freshwater ecosystems have lost an astonishing 81% of their aquatic populations since 1970, the highest rate for any ecosystem.</p>\n\n<p><strong>Inferences:</strong></p>\n\n<p><strong>I:</strong> The rivers need protection from pollution.</p>\n\n<p><strong>II:</strong> We will soon face scarcity of freshwater.</p>\n\n<p><strong>III:</strong> Rivers are a very important natural resource.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only inference I follows.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only inference II follows.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both II and III follow.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of them follow.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of them follows.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The passage above deals with rivers and its importance.</p>\n\n<p>From the information given to us in the passage, we can easily infer that we will be facing a scarcity of fresh water very soon.<br />\nThe last line helps us to infer this fact.<br />\nHence, inference II holds true.</p>\n\n<p>Similarly, if we are facing scarcity, we will definitely try to protect the rivers from pollution.<br />\nHence, inference I also follows.</p>\n\n<p>The comparison of rivers with arteries is enough to understand the importance of the rivers.<br />\nTherefore, we can easily infer that it is one of the most important natural resources available to us.<br />\nHence, all the inferences are true.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60240debd1767d84f89b868b",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, a situation is described followed by a list of words. Identify the correct word that can be used to describe the passage/ a part of the passage and mark the answer accordingly.</strong></p>\n\n<p>INS Kavaratti (P31) is an <span title=\"Anti-submarine warfare\">anti-submarine warfare</span> <span title=\"Corvette\">corvette</span> of the <span title=\"Indian Navy\">Indian Navy</span> built under <span title=\"Project 28 Anti-Submarine Warfare corvette\">Project 28</span>. It is the last of four <span title=\"Kamorta-class corvette\">Kamorta-class corvettes</span> under various stages of induction with the Indian Navy, other three kamorta-class corvettes are <span title=\"INS Kamorta\">INS Kamorta</span>, <span title=\"INS Kadmatt\">INS Kadmatt,</span> and <span title=\"INS Kiltan\">INS Kiltan</span>. The ship was built by the <span title=\"Garden Reach Shipbuilders and Engineers\">Garden Reach Shipbuilders and Engineers</span>, <span title=\"Kolkata\">Kolkata</span>, and launched on 19 May 2015. Kavaratti represents a leap forward in the Navy&#39;s attempts at <span title=\"Indigenisation\">indigenisation</span> with as much as 90% of its content drawn from <span title=\"India\">India</span> itself. It was commissioned into the <span title=\"Indian Navy\">Navy</span> on 22 October 2020 in <span title=\"Visakhapatnam\">Visakhapatnam</span>.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Pedestrian",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Technical",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Laudatory",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Populist",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Euphemistic",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><span class=\"ng-binding\">The correct answer is <strong>&#39;Technical&#39;.</strong></span></p>\n\n<p><span class=\"ng-binding\"><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span> </strong></span></p>\n\n<ul>\n\t<li><span class=\"ng-binding\">This passage is about&nbsp;</span>anti-submarine warfare corvettes, mainly Kavaratti.</li>\n\t<li><span class=\"ng-binding\">In doing so, it employs a highly technical language.</span></li>\n\t<li><span class=\"ng-binding\">Thus, this passage is <strong>technical</strong> in nature.<br />\n\t&nbsp;</span></li>\n</ul>\n\n<p><span class=\"ng-binding\"><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></span></p>\n\n<ul>\n\t<li><span class=\"ng-binding\">Let&#39;s look at the meaning of the options given:</span></li>\n\t<li><span class=\"ng-binding\"><strong>Pedestrian: </strong>When a passage appears neither interesting nor complex, it has a pedestrian tone of writing. In other words, this kind of tone is used when the RC passage talks about commonplace things and ideas.</span></li>\n\t<li><strong><span class=\"ng-binding\">Technical: A technical tone is recognized by the usage of words especially pertaining to a particular subject matter/ field of study that ordinary person or someone not familiar with the field may have problem understanding. </span></strong>\n\t<ul>\n\t\t<li><span class=\"ng-binding\">This type of tone is generally used to discuss the core ideas of particular fields of study. Such passages are generally accompanied by a lot of facts and figures.</span></li>\n\t\t<li><span class=\"ng-binding\"><strong>For example</strong>: <em>Quantum computers are well suited to simulating similarly intricate systems like economic market forces, astrophysical dynamics, or genetic mutation patterns in organisms, to name only a few</em>.</span></li>\n\t</ul>\n\t<span class=\"ng-binding\"> </span></li>\n\t<li><span class=\"ng-binding\"><strong>Laudatory: </strong>Laudatory tone is used to praise a person/thing and also to discuss a particular subject with justifications.</span></li>\n\t<li><span class=\"ng-binding\"><strong>Populist: </strong>A populist tone is used to discuss theories and characteristics exhibited by general populace. The author of the passage utilizes a populist tone to explain features and behavior of common people.&nbsp;</span></li>\n\t<li><span class=\"ng-binding\"><strong>Euphemistic: </strong>It implies a tone where you express your disliking or disagreement without being offensive or blunt. </span>\n\t<ul>\n\t\t<li><span class=\"ng-binding\">In this kind of tone, there is a use of indirect and implicit statements.</span></li>\n\t\t<li><span class=\"ng-binding\"><strong>Example: </strong><em>&#39;We&#39;re letting you go&#39; is a euphemistic way of saying &#39;You&#39;re fired.&#39;</em></span></li>\n\t</ul>\n\t<span class=\"ng-binding\"> </span></li>\n</ul>\n<span class=\"ng-binding\">Thus, <strong>this passage can be described as technical.</strong></span>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ebb4e33f60d5d1c52b792d7",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Read the passage given below and select the inference(s) that hold true based on the facts in the passage.</p>\n\n<p><strong>Passage:</strong></p>\n\n<p>Lighting is important in video and film production because cameras do not respond to lights in the same way that the human eye does. The finite detail and lighting contrast a human eye can see are incredibly developed, and cameras cannot process or pick up on this as well. Additional lighting is necessary to make the definition of a video or film&rsquo;s definition of comparable quality to what the human eye sees naturally. The correct lighting can determine the mood of the scene and can evoke a more dramatic or subtle palette for the film.</p>\n\n<p><strong>Inferences:</strong></p>\n\n<p><strong>I:</strong> Lighting is one of the key factors involved in effective cinematography.</p>\n\n<p><strong>II:</strong> The more advanced the video and film production, the more advanced the lighting behind it.</p>\n\n<p><strong>III:</strong> Sunlight is best for shooting a film.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only III follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only inference II follows.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Only inference I follows</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of them follow.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of them follows.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is Option 3.&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;In the context of the provided passage, Inference I states \"Lighting is one of the key factors involved in effective cinematography.\" The passage directly supports this by discussing the crucial role of lighting in video and film production.</li>\n\t<li>The passage mentions that cameras cannot respond to lights in the same way as the human eye, hence additional lighting is necessary to achieve comparable quality.</li>\n\t<li>Further, the passage talks about how the correct lighting can determine the mood of the scene, which is all part of effective filmmaking or cinematography. Thus, Inference I accurately represents knowledge from the passage</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ebb5e4df60d5d1c52b79674",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Read the passage given below and select the inference(s) that hold true based on the facts in the passage.</p>\n\n<p><strong>Passage:</strong></p>\n\n<p>Sanitation is important for all, helping to maintain health and increase life-spans. However, it is especially important for children. Around the world, over 800 children under age five die every day from preventable diarrhoea-related diseases caused by lack of access to water, sanitation and hygiene. The overall purposes of sanitation are to provide a healthy living environment for everyone, to protect the natural resources (such as surface water, groundwater, soil), and to provide safety, security and dignity for people when they defecate or urinate.</p>\n\n<p><strong>Inferences:</strong></p>\n\n<p><strong>I:</strong> Sanitation is one of the important aspects of community well-being.</p>\n\n<p><strong>II: </strong>Sanitation avoids exposure to countless diseases.</p>\n\n<p><strong>III:</strong> Sanitation is treated as the most important disease prevention tool in America.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only inference I follows.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only inference II follows.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II follow.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of them follow.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of them follows.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The passage highlights the significance of sanitation, especially in maintaining community well-being and preventing diseases.</span></li>\n\t<li><span style=\"\">Inference I is valid as the passage explicitly states that sanitation ensures a healthy living environment for everyone.</span></li>\n\t<li><span style=\"\">Inference II is valid as the passage mentions sanitation helps prevent diarrhoea-related diseases and promotes hygiene.</span></li>\n\t<li><span style=\"\">Inference III does not follow because the passage does not specifically mention sanitation being treated as the most important disease prevention tool in America.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Explanation:</strong> <em>Both Inference I and Inference II are supported by the passage, but Inference III lacks evidence in the passage.</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Inference I:</strong> \"Sanitation is one of the important aspects of community well-being\" &ndash; This directly aligns with the passage&#39;s emphasis on creating a healthy living environment for all.</span></li>\n\t<li><span style=\"\"><strong>Inference II:</strong> \"Sanitation avoids exposure to countless diseases\" &ndash; This is supported by the passage mentioning that sanitation prevents diarrhoea-related diseases and promotes hygiene.</span></li>\n\t<li><span style=\"\"><strong>Inference III:</strong> \"Sanitation is treated as the most important disease prevention tool in America\" &ndash; This is not mentioned or implied in the passage, making it invalid.</span></li>\n\t<li><span style=\"\">Only Inference I and Inference II follow, making Option 3 the correct choice.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ebb493cf60d5d1c52b7920a",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Read the passage given below and select the inference(s) that hold true based on the facts in the passage.</p>\n\n<p><strong>Passage:</strong></p>\n\n<p>School boosts confidence and teaches us to establish and maintain friendships, and helps us learn how to work together as a team, which is a primary tenet of any successful society. Without school, knowledge would not spread as quickly, and our access to new ideas and people could easily be cut off.</p>\n\n<p><strong>Inferences:</strong></p>\n\n<p><strong>I:</strong> Apart from academic teachings, the school also helps us develop our personality.</p>\n\n<p><strong>II:</strong> Schools take a large amount of money as fees.</p>\n\n<p><strong>III:</strong> A school&rsquo;s infrastructure plays an important role in a student&rsquo;s life.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only inference I follows.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only inference II follows.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both&nbsp;I and&nbsp;II follow.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of them follow.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of them follows.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is <strong>Option 1</strong>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li>The passage above deals with schools and their importance.</li>\n\t<li>From the information given to us in the passage, we can easily infer that apart from just providing us with academic knowledge, the schools also help us to develop our personality. The first line of the passage helps us to infer this fact.\n\t<ul>\n\t\t<li>Hence, inference I follows.</li>\n\t</ul>\n\t</li>\n\t<li>But the second option talks about the excessive fee which cannot be inferred from the limited information provided in the passage.\n\t<ul>\n\t\t<li>Hence, inference II does not follow.</li>\n\t</ul>\n\t</li>\n\t<li>Similarly, no knowledge about the school&rsquo;s infrastructure and its impact on the students is shared in the passage.</li>\n\t<li>Therefore, we cannot infer the fact mentioned in the third option.\n\t<ul>\n\t\t<li>Hence, inference III does not follow.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:10.982Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

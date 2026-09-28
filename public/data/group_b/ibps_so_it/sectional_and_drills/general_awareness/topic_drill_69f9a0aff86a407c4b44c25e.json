@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0aff86a407c4b44c25e",
+  "title": "CT 12: General Awareness (NBFC)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a0efcf9b835398b15c65d10",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "LIC Housing Finance is registered with which regulatory authority as a Housing Finance Company?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "SEBI",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "RBI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "IRDAI",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "National Housing Bank (NHB)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "NABARD",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>National Housing Bank (NHB)</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>LIC Housing Finance Limited (LIC HFL)</strong> is one of the largest and most prominent <strong>Housing Finance Companies (HFCs)</strong> in India, incorporated on <strong>19th June 1989</strong> under the <strong>Companies Act, 1956</strong>.</li>\n\t<li>It is registered with the <strong>National Housing Bank (NHB)</strong>, which was established under the <strong>National Housing Bank Act, 1987</strong> to regulate and promote housing finance institutions in the country.</li>\n\t<li>The company was promoted by the <strong>Life Insurance Corporation of India (LIC)</strong>, which remains its parent organization and holds a significant shareholding stake.</li>\n\t<li>The primary <strong>function</strong> of <strong>LIC HFL</strong> is to provide long-term financial assistance to individuals for the <strong>purchase, construction, repair, and renovation</strong> of houses or flats for residential purposes.</li>\n\t<li>The <strong>headquarters</strong> of <strong>LIC Housing Finance Limited</strong> is located in <strong>Mumbai, Maharashtra</strong>, and it operates through a massive network of marketing units and back offices across <strong>India</strong> and abroad.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>National Housing Bank (NHB):</strong>\n\n\t<ul>\n\t\t<li>Established on <strong>July 9, 1988</strong>, the <strong>NHB</strong> is an <strong>apex-level institution</strong> for housing finance.</li>\n\t\t<li>Initially, it was a wholly-owned subsidiary of the <strong>Reserve Bank of India (RBI)</strong>, but following an amendment in <strong>2019</strong>, the <strong>Government of India</strong> took over the entire <strong>100% stake</strong>.</li>\n\t\t<li>Its <strong>location</strong> is in <strong>New Delhi</strong>, and it serves as the principal agency to promote housing finance institutions at both local and regional levels.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Reserve Bank of India (RBI) and HFCs:</strong>\n\t<ul>\n\t\t<li>In the <strong>Union Budget 2019-20</strong>, the regulatory authority over <strong>Housing Finance Companies</strong> was shifted from <strong>NHB</strong> to <strong>RBI</strong> to ensure better oversight.</li>\n\t\t<li>Despite the shift in <strong>regulation</strong>, the <strong>registration</strong> and supervision framework often involves <strong>NHB</strong> as a secondary oversight body acting under <strong>RBI</strong> guidelines.</li>\n\t</ul>\n\t</li>\n\t<li><strong>SEBI (Securities and Exchange Board of India):</strong>\n\t<ul>\n\t\t<li>Since <strong>LIC HFL</strong> is a publicly-traded entity listed on the <strong>Bombay Stock Exchange (BSE)</strong> and the <strong>National Stock Exchange (NSE)</strong> since <strong>1994</strong>, it is also governed by <strong>SEBI</strong> regulations regarding disclosures and market conduct.</li>\n\t\t<li><strong>SEBI</strong> was established as a statutory body on <strong>January 30, 1992</strong>, in accordance with the <strong>SEBI Act, 1992</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>IRDAI (Insurance Regulatory and Development Authority of India):</strong>\n\t<ul>\n\t\t<li><strong>IRDAI</strong> is the statutory body responsible for regulating the <strong>insurance sector</strong> in <strong>India</strong>, established under the <strong>IRDAI Act, 1999</strong>.</li>\n\t\t<li>While it does not directly regulate <strong>LIC HFL</strong>, it regulates its parent company, <strong>LIC of India</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Product Portfolio:</strong> <strong>LIC HFL</strong> offers various <strong>loan products</strong> including <strong>Griha Shakti</strong> (for salaried and self-employed), <strong>Griha Varishtha</strong> (for retired employees), and specific schemes for <strong>NRIs</strong> located in places like <strong>Dubai</strong> and <strong>Kuwait</strong>.</li>\n\t<li><strong>Credit Rating:</strong> The company consistently maintains the highest <strong>credit ratings</strong> such as <strong>AAA/Stable</strong> from <strong>CRISIL</strong> and <strong>CARE</strong>, indicating a high degree of safety regarding timely servicing of financial obligations.</li>\n\t<li><strong>Data and Reach:</strong> As of the latest financial reports, <strong>LIC HFL</strong> manages assets (<strong>AUM</strong>) worth over <strong>2.8 trillion INR</strong>, showcasing its dominant <strong>market share</strong> in the <strong>Indian</strong> housing finance industry.</li>\n\t<li><strong>Digital Transformation:</strong> To improve <strong>customer experience</strong>, the company launched the <strong>HOMY mobile app</strong>, allowing for digital <strong>sanctioning of loans</strong> and efficient document management.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69f83e694db18a9d599265c8",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which of the following best defines a Non-Banking Financial Company (NBFC) under the Companies Act?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A company that accepts demand deposits like banks",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A company involved in agriculture or industrial activity as its principal business",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A company engaged in the business of loans, advances, and acquisition of shares/bonds",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A company that issues cheques drawn on itself",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>A company engaged in the business of loans, advances, and acquisition of shares/bonds</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li>A <strong>Non-Banking Financial Company (NBFC)</strong> is a company registered under the <strong>Companies Act, 1956</strong> or the <strong>Companies Act, 2013</strong> of <strong>India</strong>.</li>\n    <li>The principal business of an <strong>NBFC</strong> involves the <strong>acquisition of shares, stocks, bonds, debentures, and securities</strong> issued by the <strong>Government</strong> or local authorities, or other marketable securities of a like nature. Hence, statement C is correct.</li>\n    <li>It also engages in activities such as <strong>loans and advances</strong>, <strong>hire-purchase</strong>, <strong>leasing</strong>, <strong>insurance business</strong>, and <strong>chit business</strong>.</li>\n    <li>An institution is not considered an <strong>NBFC</strong> if its <strong>principal business</strong> consists of <strong>agriculture activity</strong>, <strong>industrial activity</strong>, or the <strong>purchase and sale of any goods</strong> (other than securities). Hence, statement B is incorrect.</li>\n    <li>To be classified as an <strong>NBFC</strong> by the <strong>Reserve Bank of India (RBI)</strong>, a company must satisfy the <strong>50-50 test</strong>, where its <strong>financial assets</strong> constitute more than <strong>50%</strong> of its total assets and <strong>income</strong> from these assets constitutes more than <strong>50%</strong> of its gross income.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Difference between Banks and NBFCs:</strong>\n        <ul>\n            <li>Unlike traditional banks, <strong>NBFCs</strong> cannot accept <strong>demand deposits</strong> (repayable on demand like savings or current accounts). Hence, statement A is incorrect.</li>\n            <li><strong>NBFCs</strong> do not form part of the <strong>payment and settlement system</strong> and therefore cannot <strong>issue cheques</strong> drawn on themselves. Hence, statement D is incorrect.</li>\n            <li>The <strong>deposit insurance facility</strong> provided by the <strong>Deposit Insurance and Credit Guarantee Corporation (DICGC)</strong> is <strong>not available</strong> to the depositors of <strong>NBFCs</strong>.</li>\n        </ul>\n    </li>\n    <li><strong>Regulatory Framework:</strong>\n        <ul>\n            <li><strong>NBFCs</strong> are regulated and supervised by the <strong>Reserve Bank of India</strong> under the <strong>RBI Act, 1934</strong>, specifically under <strong>Chapter III-B</strong>.</li>\n            <li>Every <strong>NBFC</strong> must obtain a <strong>Certificate of Registration (CoR)</strong> from the <strong>RBI</strong> and maintain a minimum <strong>Net Owned Fund (NOF)</strong> of <strong>₹2 crore</strong> (this <strong>numerical value</strong> may vary based on specific categories like <strong>NBFC-MFIs</strong>).</li>\n        </ul>\n    </li>\n    <li><strong>Types of NBFCs:</strong>\n        <ul>\n            <li><strong>Asset Finance Company (AFC):</strong> Financial institution whose principal business is the financing of physical assets supporting economic activity, such as <strong>automobiles</strong> or <strong>tractors</strong>.</li>\n            <li><strong>Investment Company (IC):</strong> Any company which is a financial institution carrying on as its principal business the <strong>acquisition of securities</strong>.</li>\n            <li><strong>Loan Company (LC):</strong> A financial institution carrying on as its principal business the providing of <strong>finance</strong> whether by making <strong>loans or advances</strong>.</li>\n            <li><strong>Infrastructure Finance Company (IFC):</strong> An <strong>NBFC</strong> which deploys at least <strong>75%</strong> of its total assets in <strong>infrastructure loans</strong>.</li>\n        </ul>\n    </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Scale Based Regulation (SBR):</strong>\n        <ul>\n            <li>In <strong>October 2021</strong>, the <strong>RBI</strong> introduced a <strong>four-layered regulatory structure</strong> for <strong>NBFCs</strong> based on their size, activity, and perceived riskiness.</li>\n            <li>The layers are <strong>Base Layer (NBFC-BL)</strong>, <strong>Middle Layer (NBFC-ML)</strong>, <strong>Upper Layer (NBFC-UL)</strong>, and <strong>Top Layer (NBFC-TL)</strong>.</li>\n        </ul>\n    </li>\n    <li><strong>Systemically Important NBFCs:</strong>\n        <ul>\n            <li><strong>NBFCs</strong> with an <strong>asset size</strong> of <strong>₹500 crore</strong> or more (as per the last audited balance sheet) are considered <strong>systemically important NBFCs</strong>.</li>\n            <li>These institutions are subject to stricter <strong>capital adequacy</strong> and <strong>prudential norms</strong> to ensure the stability of the <strong>financial system</strong> of the <strong>country</strong>.</li>\n        </ul>\n    </li>\n    <li><strong>Inclusion in Financial Inclusion:</strong>\n        <ul>\n            <li><strong>NBFCs</strong> play a vital role in <strong>last-mile delivery</strong> of <strong>credit</strong>, especially to the <strong>MSME sector</strong> and <strong>rural areas</strong> where traditional banking presence is limited.</li>\n            <li>They contribute significantly to the <strong>GDP</strong> of <strong>India</strong> by providing specialized <strong>financial services</strong> like <strong>microfinance</strong> and <strong>housing finance</strong>.</li>\n        </ul>\n    </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67876bbb0798bd2dab6ec89d",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which one of the following is the main objective of IFCI ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "To offer both small and large investors the means of acquiring shares in the widening&nbsp;prosperity resulting from the steady industrial growth of the country.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "To upgrade technology, modernization and to promote marketing of products of small&nbsp;scale sector.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "To serve as the apex institution for term finance for industry with coordination,&nbsp;regulation and supervision of the working of other financial institution.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "To provide medium and long term financial assistance to industrial undertakings,&nbsp;particularly in those circumstances in which banking accommodation is in appropriate&nbsp;or resource to capital market is impracticable.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"text-align: justify;\"><strong>IFCI (Industrial Finance Corporation of India) </strong>is the first most developmental financial institution set up by the <strong>Government of India on July 1, 1948</strong>. IFCI is a <strong>Non-Banking Financial Company</strong> in the public sector.</p>\n\n<p style=\"text-align: justify;\"><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage56.png\" style=\"text-align: justify;\" /></p>\n\n<p style=\"text-align: justify;\"><strong>IFCI:</strong></p>\n\n<ul>\n\t<li style=\"text-align: justify;\">The main aim of IFCI&nbsp;<span style=\"color: rgb(32, 33, 36);  \">was to provide long-term finance to the manufacturing and industrial sector of the country.</span></li>\n\t<li style=\"text-align: justify;\">The main objective of IFCI is to&nbsp;<strong>provide medium and long-term financial assistance to large-scale&nbsp;industrial undertakings,&nbsp;particularly in those circumstances in which banking accommodation is inappropriate&nbsp;or a resource to the capital market is impracticable</strong> i.e. finance could not be raised by the concerned issue of shares.</li>\n</ul>\n\n<p style=\"text-align: justify;\"><strong>Therefore, to provide medium and long-term financial assistance to industrial undertakings,&nbsp;particularly in those circumstances in which banking accommodation is inappropriate&nbsp;or a resource to the capital market is impracticable is the main objective of IFCI.</strong></p>\n\n<p style=\"text-align: justify;\"><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage398.png\" style=\"text-align: justify;\" /></p>\n\n<p style=\"text-align: justify;\"><strong>Functions of IFCI:</strong></p>\n\n<ul>\n\t<li>The corporation grants loans and advances to industrial concerns.</li>\n\t<li>The granting of loans must be both in rupees and foreign currencies.</li>\n\t<li>The corporation underwrites the issue of stocks, bonds, shares, etc.</li>\n\t<li>The corporation can grant loans only to public limited companies and co-operatives but not to private limited companies or partnership firms.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "675aa3fe5c9d2677259517b7",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<strong>What is the maximum exposure limit for NBFCs in the Base Layer (BL) to a single borrower or party?</strong>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "15% of Tier 1 Capital",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20% of Tier 1 Capital",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "25% of Tier 1 Capital",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "40% of Tier 1 Capital",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong><span style=\"color: (33, 37, 41);\">25% of Tier 1 Capital.</span></strong></u></p>\n\n<p><u><strong><span style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>The exposure limit for a single borrower or party for NBFCs in the Base Layer is capped at 25% of Tier 1 Capital.</strong></li>\n\t<li>This limit aims to reduce concentration risk and promote diversified lending practices.</li>\n\t<li>The Tier 1 Capital serves as the basis for determining exposure limits, enhancing regulatory consistency.</li>\n\t<li>Any exposure exceeding this limit requires additional regulatory oversight or exemptions.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "675aa27d94e4f88d55299530",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<strong>What is the maximum period a sub-standard asset can remain classified as such for NBFCs in the Middle Layer (ML)?</strong>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "6 months",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "12 months",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "18 months",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "24 months",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong><span style=\"color: (33, 37, 41);\">12 months.</span></strong></u></p>\n\n<p><u><strong><span style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>For NBFCs in the Middle Layer (ML), an asset classified as sub-standard can remain so for a maximum of 12 months.</strong></li>\n\t<li>Sub-standard assets are loans or advances that have become non-performing for up to 12 months.</li>\n\t<li>This regulation ensures timely recognition of financial stress and appropriate resolution measures.</li>\n\t<li>The 12-month period aligns with stricter norms for higher asset size NBFCs.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67406bde3e5910f62be7585a",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Which of the following is NOT a type of NBFC?<br />\n&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Investment Company",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Asset Finance Company",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Infrastructure Finance Company",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Payment Bank",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is payment bank.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;</strong></p>\n\n<p>Payment Banks are not considered as a type of NBFC (Non-Banking Financial Company). While they do offer some financial services similar to those offered by NBFCs, such as loans, savings accounts, and insurance products, Payment Banks are regulated by the Reserve Bank of India (RBI) under a separate category from NBFCs.</p>\n\n<p>Payment Banks were introduced by the RBI in 2014 to promote financial inclusion and extend banking services to unbanked and underbanked areas of the country.</p>\n\n<p>Payment Banks are allowed to accept deposits of up to Rs. 2 lakhs per customer, issue debit cards, offer online and mobile banking services, and provide basic financial products such as savings accounts, remittance services, and bill payments.</p>\n\n<p>However, they are not permitted to issue credit cards, provide loans or overdraft facilities, or engage in other types of lending activities that are commonly offered by NBFCs.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<p><strong>Investment Banks:</strong> Investment banks are financial institutions that provide a range of services to corporations, governments, and other organizations. These services can include underwriting of securities, mergers and acquisitions, trading and brokerage services, and investment advice. In India, investment banks are regulated by the Securities and Exchange Board of India (SEBI) and the Reserve Bank of India (RBI).</p>\n\n<p><strong>Asset Finance Companies:</strong> Asset finance companies specialize in providing financing for the purchase or leasing of specific assets, such as equipment, machinery, or vehicles. These companies may also offer other financial products like loans, insurance, and leasing services. In India, asset finance companies are regulated by the Reserve Bank of India (RBI).</p>\n\n<p><strong>Infrastructure Finance Companies: </strong>Infrastructure finance companies provide long-term financing for infrastructure projects such as roads, ports, airports, power plants, and telecommunications networks. These companies may also provide advisory services related to project development, financing, and risk management. In India, infrastructure finance companies are regulated by the Reserve Bank of India (RBI) and the National Housing Bank (NHB).</p>\n\n<p><b>Hence, the correct answer is Payment Bank.</b></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "67406bde25a379e1475516a7",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Non - Banking Financial Companies can be classified as:</p>\n\n<p>1. Asset Finance Company (AFC)</p>\n\n<p>2. Investment Company (IC)</p>\n\n<p>3. Loan Company (LC)</p>\n\n<p>4. Foreign Trade Company (FTC)</p>\n\n<p>Choose the correct answer from the options given below:</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2, 3 and 4",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1, 3 and 4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1, 2 and 4",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1, 2, 3 and 4",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"color: rgb(0, 0, 0);   text-align: justify;\"><strong>A Non-Banking Financial Company (NBFC) </strong>is a company registered under the <strong>Companies Act, 1956 </strong>engaged in the business of loans and advances, acquisition of shares/stocks/bonds/debentures/securities issued by Government or local authority or other marketable securities of a like nature, leasing, hire-purchase, insurance business, chit business but does not include any institution whose principal business is that of agriculture activity, industrial activity, purchase or sale of any goods (other than securities) or providing any services and sale/purchase/construction of the immovable property.</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><span style=\"color: rgb(0, 0, 0);   text-align: justify;\"><strong>NBFCs are categorized</strong> a) in terms of the type of liabilities into Deposit and Non-Deposit accepting NBFCs, b) non-deposit taking NBFCs by their size into systemically important and other non-deposit holding companies (NBFC-NDSI and NBFC-ND) and c) by the kind of activity they conduct. Within this broad categorization the different types of NBFCs are as follows:</span></p>\n\n<p style=\"color: rgb(0, 0, 0);   text-align: justify; margin: 5px 5px 8px !important;\">I. <strong>Asset Finance Company (AFC)</strong>:</p>\n\n<ul>\n\t<li style=\"color: rgb(0, 0, 0); text-align: justify; margin: 5px 5px 8px !important;\">An AFC is a company which is a financial institution carrying on as its principal business the financing of physical assets supporting productive/economic activity, such as automobiles, tractors, lathe machines, generator sets, earthmoving, and material handling equipment, moving on own power and general purpose industrial machines.</li>\n\t<li style=\"color: rgb(0, 0, 0); text-align: justify; margin: 5px 5px 8px !important;\">Principal business for this purpose is defined as an aggregate of financing real/physical assets supporting economic activity and income arising therefrom is not less than 60% of its total assets and total income respectively.</li>\n</ul>\n\n<p style=\"color: rgb(0, 0, 0);   text-align: justify; margin: 5px 5px 8px !important;\">II.<strong> Investment Company (IC</strong>): IC means any company which is a financial institution carrying on as its principal business the acquisition of securities,</p>\n\n<p style=\"color: rgb(0, 0, 0);   text-align: justify; margin: 5px 5px 8px !important;\">III. <strong>Loan Company (LC)</strong>: LC means any company which is a financial institution carrying on as its principal business the providing of finance whether by making loans or advances or otherwise for any activity other than its own but does not include an Asset Finance Company.</p>\n\n<p style=\"color: rgb(0, 0, 0);   text-align: justify; margin: 5px 5px 8px !important;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<p><strong>Foreign Trade Company (FTC):</strong> FTCs are companies that cover all import and export operations and procedures. This type of company buys products from one country and sells the same to other countries where it has its own distribution networks. They are not part of NBFCs.</p>\n\n<p><strong>Thus, Option 1 is the correct option.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "67406bdd94b55df031f1df2a",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>Microcredit is delivered through a variety of institutional channels, including:</p>\n\n<p>(i) Small finance banks</p>\n\n<p>(ii) Regional rural banks</p>\n\n<p>(iii) Non-banking finance companies</p>\n\n<p>(iv) Cooperative banks</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">(i), (ii) and (iii)</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Both (i) and (ii)</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Both (iii) and (iv)</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">(i), (ii), (iii) and (iv)</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is <strong>&#39;</strong><span style=\"\"><strong>(i), (ii), (iii) and (iv)&#39;</strong>.</span></p>\n\n<p style=\"\"><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span><u><strong>Microcredit</strong></u></span></p>\n\n<ul>\n\t<li style=\"\">The meaning of micro credit varies from country to country.</li>\n\t<li style=\"\">Its services include<strong> micro-loans, micro-savings and micro-insurance</strong>.</li>\n\t<li>In India, all loans <strong>below Rs 1 lakh</strong> can be considered microloans or microloans.</li>\n\t<li style=\"\">Micro Finance Institutions (MFIs) provide small loans to people who belong to the deprived and weaker sections of society and who do not have access to banking facilities.</li>\n\t<li style=\"\">Micro Finance Institutions (MFIs) are those companies that provide loans to <strong>low-income group people at affordable interest rates</strong> to start their businesses.</li>\n\t<li style=\"\"><strong>Microcredit is delivered through a variety of institutional channels, including:</strong>\n\t<ul>\n\t\t<li style=\"\"><strong>​</strong><strong>Small finance banks</strong></li>\n\t\t<li style=\"\"><strong>Regional rural banks</strong></li>\n\t\t<li style=\"\"><strong>Non-banking finance companies</strong></li>\n\t\t<li style=\"\"><strong>Cooperative banks</strong></li>\n\t</ul>\n\t</li>\n\t<li style=\"\">Non-Banking Financial Companies and MFIs in India are regulated by the <strong>Reserve Bank of India</strong>&#39;s Non-Banking Financial Company - Micro Finance Institutions (Reserve Bank) Directions, 2011.</li>\n</ul>\n\n<p style=\"\">Thus, the correct answer is&nbsp;<u><span style=\"font-weight: 700; \">(i), (ii), (iii) and (iv)</span></u></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "66912c219a67975da5bb141a",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Which of the following is incorrect about NBFC?&nbsp;&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "It does not need to maintain CRR and SLR&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "It can accept demand deposits&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "It can give only medium and long-term loans",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "&nbsp;It is allowed to accept/renew public deposits",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "It cannot offer interest rates higher than the ceiling rate prescribed by RBI",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"color: rgb(33, 37, 41);\">The correct answer is</span><strong><span style=\"color: rgb(33, 37, 41);\"> It can accept demand deposits.</span></strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>It can accept demand deposits:</strong>\n\n\t<ul>\n\t\t<li>NBFCs are not allowed to accept demand deposits. Demand deposits are payable on demand, such as savings accounts, but this is restricted to banks as per the regulatory guidelines.</li>\n\t\t<li>Allowing NBFCs to accept demand deposits would blur the regulatory distinctions between banks and NBFCs, impacting the stability of the financial system.</li>\n\t\t<li>For financial enterprises, this restriction ensures clear regulatory boundaries and maintains financial stability and consumer protection.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>It does not need to maintain CRR (Cash Reserve Ratio) and SLR (Statutory Liquidity Ratio):</strong>\n\n\t<ul>\n\t\t<li>NBFCs are not required to maintain CRR and SLR, which are regulatory reserves required for banks to ensure liquidity and control inflation.</li>\n\t\t<li>This allows NBFCs more flexibility in managing their resources compared to banks.</li>\n\t</ul>\n\t</li>\n\t<li><strong>It can give only medium and long-term loans:</strong>\n\t<ul>\n\t\t<li>NBFCs typically provide medium to long-term financing, acting as a crucial component in infrastructure development and other long-term investment sectors.</li>\n\t</ul>\n\t</li>\n\t<li><strong>It is allowed to accept/renew public deposits:</strong>\n\t<ul>\n\t\t<li>With regulatory approval, certain categories of NBFCs can accept and renew public deposits, subject to compliance with Reserve Bank of India (RBI) guidelines.</li>\n\t</ul>\n\t</li>\n\t<li><strong>It cannot offer interest rates higher than the ceiling rate prescribed by RBI:</strong>\n\t<ul>\n\t\t<li>NBFCs are regulated in terms of the interest rate they can offer on deposits, and they must comply with the ceiling rates prescribed by the RBI.</li>\n\t\t<li>This ensures that NBFCs remain competitive yet do not overreach in interest offerings, protecting the financial system&#39;s integrity.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "667a6a2041ab4845c6e7c4ea",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Which of the following institutions do NOT come under the control of the RBI?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">Co-operative banks</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Co-operative societies</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">National housing banks</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "More than one of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The Correct answer is <u><strong>Co-operative Societies.</strong></u><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>&nbsp;Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Co-Operative society was incorporated in 2011 under the 97th Constitutional Amendment Act.</strong></li>\n\t<li>The state legislature may make provisions for the <strong>incorporation, regulation, and winding-up of cooperative societies</strong> based on the principle of voluntary formation, democratic member control, member economic participation, and autonomous functioning.</li>\n\t<li><strong>The Cooperative societies are regulated by the State government, not by the RBI.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>​The Reserve Bank Of India was established on April 1, 1935, in accordance with the provisions of the RBI Act,1934.</strong></li>\n\t<li>The Central office of the Reserve Bank was initially established in Kolkatta but was permanently moved to Mumbai in 1937.</li>\n\t<li>It plays a multi-function role such as<strong> </strong><strong>overseeing monetary policy, Issuing currency, managing foreign exchange, and working as a bank of government</strong></li>\n\t<li>It also plays a vital role in <strong>ensuring financial and economical stability.&nbsp;</strong></li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:54.071Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

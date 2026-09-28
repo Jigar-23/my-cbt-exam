@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a08180341203d677f33a",
+  "title": "CT 13: English Language (Fill In The Blanks Grammar - 1)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "605a055ceb7236acab4ce5c6",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>He hardly does any work, ________</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "doesn&#39;t he?",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "isn&#39;t he?",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "aren&#39;t he?",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "does he?",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "did he?",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;<strong>&#39;</strong></span><strong>does he?</strong><span style=\"font-weight: 700;\"><strong>&#39;</strong>.&nbsp;</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The given sentence is in the form of a&nbsp;<span style=\"font-weight: 700;\">question tag.</span>&nbsp;&nbsp;A&nbsp;<span class=\"hi rend-b\" style=\"overflow-wrap: break-word; margin: 0px; padding: 0px; border: 0px; font-weight: bold;\">question tag</span><span style=\"color: rgb(0, 0, 0);\">&nbsp;is a very short clause at the end of a statement that changes the statement into a question.&nbsp;</span></li>\n\t\t<li>Here, the helping verb used here is &lsquo;<span style=\"font-weight: 700;\">does&rsquo;. </span>So, the tag will also have the same verb.&nbsp;</li>\n\t\t<li>Here, the word &#39;hardly&#39; implies the use &#39;not&#39; or it means <strong>negative</strong>. As the sentence is in a negative sense, the tag used will be&nbsp;<strong>positive.&nbsp;</strong></li>\n\t\t<li>So,<span style=\"font-weight: 700;\">&nbsp;&#39;does he&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>​<span style=\"color: rgb(74, 74, 74); font-weight: 700;\">So the correct sentence is,&nbsp;</span><em>He hardly does any work,&nbsp;<strong>does he?</strong></em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li>I<span style=\"color: rgb(32, 33, 36);\">f the main clause is&nbsp;</span><span style=\"font-weight: 700;\">positive</span><span style=\"color: rgb(32, 33, 36);\">, the&nbsp;</span><span style=\"font-weight: 700;\">question tag</span><span style=\"color: rgb(32, 33, 36);\">&nbsp;is&nbsp;</span><span style=\"font-weight: 700;\">negative</span><span style=\"color: rgb(32, 33, 36);\">, and if the main clause is&nbsp;</span><span style=\"font-weight: 700;\">negative</span><span style=\"color: rgb(32, 33, 36);\">, it&#39;s&nbsp;</span><span style=\"font-weight: 700;\">positive</span><span style=\"color: rgb(32, 33, 36);\">.</span></li>\n\t<li>Whenever words like<strong> &#39;hardly&#39;, &#39;seldom&#39;, &#39;scarcely&#39; </strong>are used they imply a <strong>negative</strong> sense used instead of a &#39;not&#39; so the question tag used will be <strong>positive</strong>.&nbsp;&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "605a0848e8e35077aace2cb4",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>The herd of cows&nbsp;________ grazing in the field.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "were",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "is",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "are",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "been",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;&#39;</span>​<span style=\"font-weight: 700;\">is</span><span style=\"font-weight: 700;\">&#39;.&nbsp;</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The sentence talks about cows grazing their field.&nbsp;</li>\n\t\t<li><span style=\"color: rgb(32, 33, 36);\">Here, the word <strong>&#39;herd&#39;</strong>&nbsp;means&nbsp;a typically large group of animals of one kind kept together under human control&nbsp;</span></li>\n\t\t<li><font color=\"#202124\">&#39;<strong>herd</strong>&#39; is a collective noun and&nbsp;it collectively means&nbsp;a single unit.&nbsp;</font></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><span style=\"font-weight: 700;\">&#39;is&#39;&nbsp;</span></span>is<span style=\"color: rgb(74, 74, 74);\">&nbsp;the present tense&nbsp;of the&nbsp;<span style=\"font-weight: 700;\">&#39;to+be&#39;&nbsp;</span>form used for singular nouns.&nbsp;</span></li>\n\t\t<li>So,&nbsp;<span style=\"font-weight: 700;\">&#39;is&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"color: rgb(74, 74, 74); font-weight: 700;\">So the correct sentence is,&nbsp;</span><em>The&nbsp;herd of cows&nbsp;<strong>is</strong> grazing in the field.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li>Let us look at the use of other words:\n\t<ul>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><span style=\"font-weight: 700;\">were</span>&nbsp;is the past tense of the &#39;to+be&#39; form used with plural nouns.&nbsp;</span></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><span style=\"font-weight: 700;\">are&nbsp;</span></span>is<span style=\"color: rgb(74, 74, 74);\">&nbsp;the&nbsp;present tense of the &#39;to+be&#39; form used with plural nouns.&nbsp;</span></li>\n\t\t<li><strong>been</strong> is the participle form of the verb &#39;to+be&#39;.&nbsp;</li>\n\t\t<li><strong>being</strong> is the continuous form of the verb &#39;to+be&#39;.&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><strong>Collective nouns&nbsp;</strong>will always have&nbsp;<strong>singular verbs.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "605a024c8b141990de4dcaf4",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p><span style=\"color: rgb(40, 40, 40);  \">Peter wants to come ______ us this summer.</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "at",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "with",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "by",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "in",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "into",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is &#39;<strong>with​&#39;.</strong><span style=\"font-weight: 700;\">&nbsp;</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The sentence talks about peter who wants to spend summer.&nbsp;</li>\n\t\t<li>Here, peter wants to accompany them this summer.&nbsp;</li>\n\t\t<li><b>&#39;with&#39;&nbsp;</b>means&nbsp;<span style=\"color: rgb(32, 33, 36); \">accompanied by (another person or thing).</span></li>\n\t\t<li>So,&nbsp;<span style=\"font-weight: 700;\">&#39;with&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"color: rgb(74, 74, 74); font-weight: 700;\">So the correct sentence is,&nbsp;</span><em><span style=\"color: rgb(40, 40, 40);\">Peter wants to come <strong>with</strong> us this summer.</span></em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li>Let us look at the use of other words:\n\t<ul>\n\t\t<li><strong>at</strong> is used to express&nbsp;<span style=\"color: rgb(32, 33, 36); \">location or arrival in a particular place or position.</span></li>\n\t\t<li><span style=\"color: rgb(32, 33, 36); \"><strong>by</strong> is used to identify&nbsp;the agent performing an action.</span></li>\n\t\t<li><strong>in</strong> is used to express&nbsp;<span style=\"color: rgb(32, 33, 36); \">the situation of something that is or appears to be enclosed or surrounded by something else.</span></li>\n\t\t<li><strong>into</strong> means&nbsp;<span style=\"color: rgb(32, 33, 36);  \">to or toward the inside of (something),&nbsp;in the direction of (something)&nbsp;</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "605a0337044936abd498d1bf",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>Everyone has come, ___________.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "haven&#39;t they?",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "hasn&#39;t they?",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "is they?",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "are they?",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "has they?",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<strong> &#39;haven&#39;t they?<span style=\"font-weight: 700;\">&#39;.&nbsp;</span></strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The given sentence is in the form of a&nbsp;<span style=\"font-weight: 700;\">question tag.</span>&nbsp;A&nbsp;<span class=\"hi rend-b\" style=\"overflow-wrap: break-word; margin: 0px; padding: 0px; border: 0px; font-weight: bold;\">question tag</span><span style=\"color: (0, 0, 0);\">&nbsp;is a very short clause at the end of a statement that changes the statement into a question.</span></li>\n\t<li>Here, the sentence is in present tense and Everyone is&nbsp;<span style=\"font-weight: 700;\">singular</span>.&nbsp;</li>\n\t<li>The helping verb used here is &#39;<strong>has</strong>&#39; which is singular but the tag used must be plural as <em><strong>the context for everyone is always plural.</strong></em></li>\n\t<li>&#39;have&#39; is the plural form of &#39;to have.&nbsp;</li>\n\t<li>As the sentence is positive, the tag will be negative.&nbsp;</li>\n\t<li>So,<strong>&nbsp;&#39;haven&#39;t they?<span style=\"font-weight: 700;\">​&#39;</span>&nbsp;</strong>is the correct word for the blank.&nbsp;<br />\n\t&nbsp;</li>\n</ul>\n\n<p><span style=\"color: (74, 74, 74); font-weight: 700;\">So the correct sentence is,&nbsp;</span><em>Everyone has come,&nbsp;<strong>haven&#39;t they?</strong></em></p>\n\n<p><em><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></em></p>\n\n<ul>\n\t<li><span style=\"color: (32, 33, 36);  \">These words &ldquo;</span><b style=\"color: (32, 33, 36);  \">everybody</b><span style=\"color: (32, 33, 36);  \">&rdquo; and &ldquo;<strong>nobody</strong>&#39; are indefinite pronouns, meaning they don&#39;t refer to a particular person. Both these indefinite pronouns are&nbsp;</span><b style=\"color: (32, 33, 36);  \">singular</b><span style=\"color: (32, 33, 36);  \">.</span></li>\n\t<li>Words like&nbsp;<span style=\"font-weight: 700;\">&#39;Everyone&#39;, &#39;everybody&#39;, &#39;no one&#39;, &#39;none&#39;, &#39;each&#39;, &#39;every&#39;</span>&nbsp;are singular so the verb and pronoun used must be singular but the question&nbsp;tags used must be plural for them.&nbsp;\n\t<ul>\n\t\t<li>For example,&nbsp;<em>Everybody can speak English, can&rsquo;t they?</em></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6059d94ee9b776c2ec5b951a",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>Science has ________&nbsp;us many new inventions.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Give",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Giving",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Gone",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Gave",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Given",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">Given.&nbsp;</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The sentence tells about the new inventions by science.&nbsp;</li>\n\t\t<li>The sentence is in the present tense as it has&nbsp;<strong>&#39;has&#39;&nbsp;</strong>before the blank.&nbsp;</li>\n\t\t<li>Whenever <strong>has/have/had</strong> is used the verb following them must be in its past participle form.&nbsp;</li>\n\t\t<li>So,&nbsp;<span style=\"font-weight: 700;\">&#39;Given&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"color: rgb(74, 74, 74); font-weight: 700;\">So the correct sentence is,</span><em style=\"color: rgb(74, 74, 74); font-weight: 700;\">&nbsp;</em><em>Science has <strong>given</strong>&nbsp;us many new inventions.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li>Let us look at the use of other words:\n\t<ul>\n\t\t<li><strong>Give</strong>&nbsp;is the simple present tense of the verb&nbsp;<strong>&#39;give&#39;.&nbsp;</strong></li>\n\t\t<li><b>Giving&nbsp;</b>is the continuous tense&nbsp;of the verb&nbsp;<span style=\"font-weight: 700;\">&#39; give&#39;.&nbsp;</span></li>\n\t\t<li><b>Gone&nbsp;</b>is the past participle&nbsp;of the verb&nbsp;<span style=\"font-weight: 700;\">&#39;go&#39;.&nbsp;</span></li>\n\t\t<li><strong>Gave </strong>is the simple past tense of the verb&nbsp;<span style=\"font-weight: 700;\">&#39;give&#39;.&nbsp;</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "605a08c89b60242fd02be6bb",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>Either Ram or his friends&nbsp;________&nbsp;come.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "have",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "has",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "went",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "was&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "is",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;&#39;</span><span style=\"font-weight: 700;\">have</span><span style=\"font-weight: 700;\">&#39;.&nbsp;</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The sentence talks about Ram and his friends.&nbsp;</li>\n\t\t<li>Here, the subject <strong>&#39;friends&#39;&nbsp;</strong>is plural so the verb used must also be plural.(<strong>nearest subject logic</strong>)</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;have&#39;&nbsp;</span>is used in the present tense for plural nouns except for&nbsp;<span style=\"color: rgb(74, 74, 74);\">&#39;I&#39;, &#39;we&#39;, &#39;you&#39; etc.&nbsp;</span></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\">The sentence is in the present tense.&nbsp;</span></li>\n\t\t<li>So,&nbsp;<span style=\"font-weight: 700;\">&#39;have&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"font-weight: 700;\"><span style=\"color: rgb(74, 74, 74);\">So the correct sentence is,<em>&nbsp;</em></span></span><em>Either Ram or his friends&nbsp;<strong><span style=\"font-weight: 700;\">have</span></strong>&nbsp;come.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><b style=\"color: rgb(32, 33, 36);  \">Correlative conjunctions</b><span style=\"color: rgb(32, 33, 36);  \">&nbsp;include pairs such as &ldquo;both/and,&rdquo; &ldquo;</span><b style=\"color: rgb(32, 33, 36);  \">either</b><span style=\"color: rgb(32, 33, 36);  \">/or,&rdquo; &ldquo;</span><b style=\"color: rgb(32, 33, 36);  \">neither</b><span style=\"color: rgb(32, 33, 36);  \">/nor,&rdquo; &ldquo;not/but&rdquo; and &ldquo;not only/but also\".&nbsp;</span></li>\n\t<li><span style=\"color: rgb(32, 33, 36);  \">Whenever correlative conjunctions are used, the verb always follows the&nbsp;<strong>subject</strong> nearest to the verb.</span></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li>Let us look at the use of other words:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">has</span>&nbsp;is used with third-person singular nouns or pronouns&nbsp;<span style=\"color: rgb(74, 74, 74);\">&nbsp;(</span><i style=\"padding: 0px; margin: 0px; outline: 0px;\">he</i><span style=\"color: rgb(74, 74, 74);\">,&nbsp;</span><i style=\"padding: 0px; margin: 0px; outline: 0px;\">she</i><span style=\"color: rgb(74, 74, 74);\">, and&nbsp;</span><i style=\"padding: 0px; margin: 0px; outline: 0px;\">it</i><span style=\"color: rgb(74, 74, 74);\">)<span style=\"display: none;\">&nbsp;</span></span></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><strong>was</strong> is the past tense of the &#39;be&#39; form used for singular nouns or pronouns</span></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><strong>were</strong> is the&nbsp;past tense of the &#39;be&#39; form used for plural nouns or pronouns</span></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><strong>&#39;is&#39;&nbsp;</strong></span>is<span style=\"color: rgb(74, 74, 74);\">&nbsp;the present tense&nbsp;of the &#39;be&#39; form used for singular nouns or pronouns</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "605a05097501e1b2ced11814",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>Drive the car _______&nbsp;unless you want to die.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "slowing",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "slow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "slowly",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "slowed",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "slows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<strong>slowly.&nbsp;</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The sentence tells us how he should drive the car if he doesn&#39;t want to die.&nbsp;</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;slowly&#39;&nbsp;</span><span style=\"color: rgb(68, 68, 68);\">is an adverb that means&nbsp;</span><span style=\"color: rgb(32, 33, 36); \">at a slow speed; not quickly. It comes under the adverb of manner.&nbsp;</span></li>\n\t\t<li>&#39;unless&#39; means&nbsp;<span style=\"color: rgb(32, 33, 36); \">except if. Here, he needs to slow down the car so that he doesn&#39;t die.&nbsp;</span></li>\n\t\t<li>So,&nbsp;<span style=\"font-weight: 700;\">&#39;slowly&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"font-weight: 700;\">So, the correct sentence is,&nbsp;</span><em>Drive the car&nbsp;<strong>slowly</strong>&nbsp;unless you want to die.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><span style=\"color: rgb(32, 33, 36);\">An&nbsp;</span><span style=\"font-weight: 700;\">adverb</span><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a word that modifies (describes) a verb, an adjective, another&nbsp;</span><span style=\"font-weight: 700;\">adverb</span><span style=\"color: rgb(32, 33, 36);\">, or even a whole sentence&nbsp;</span></li>\n\t<li>Types of adverbs are,&nbsp;Conjunctive Adverbs,&nbsp;<span style=\"font-weight: 700;\">Sentence Adverbs,&nbsp;</span>Adverbs of Time/<span style=\"font-weight: 700;\">Frequency</span>&nbsp;(When?), Adverbs of Place/Direction (Where?), Adverbs of&nbsp;<span style=\"font-weight: 700;\">Degree</span>&nbsp;(How Much?), Adverbs of&nbsp;<span style=\"font-weight: 700;\">Manner</span>&nbsp;(How?) and adverbs of&nbsp;<span style=\"font-weight: 700;\">Reason&nbsp;</span>(Why?).&nbsp;</li>\n\t<li>&nbsp;Adverb of manner&nbsp;describes the manner of action is called&nbsp;adverb of manner. It answers the question &ndash;&nbsp;How&nbsp;is the action carried out?</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li>Let us look at the use of other words:\n\t<ul>\n\t\t<li><strong>Slow</strong> means&nbsp;<span style=\"color: rgb(32, 33, 36); \">moving or operating, or designed to do so, only at a low speed; not quick or fast.</span></li>\n\t\t<li><font color=\"#202124\"><strong>Slowing</strong> is the continuous tense of the verb&nbsp;<strong>&#39;slow&#39;.&nbsp;</strong></font>It is its gerund and particle.&nbsp;</li>\n\t\t<li><strong>Slowed</strong> is the past tense of the verb&nbsp;<strong>&#39;slow&#39;.&nbsp;</strong></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "605a077f2561f5ba8a3b227f",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>The Captain along with the sailors _____ drowned.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "were",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "are",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "had",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "is",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "been",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;&#39;</span>​<strong>had</strong><span style=\"font-weight: 700;\">&#39;.&nbsp;</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The sentence talks about the captain and his sailors drowning.&nbsp;</li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><span style=\"font-weight: 700;\">had</span>&nbsp;is the past tense of the &#39;to+have&#39; form.</span></li>\n\t\t<li><span style=\"color: rgb(32, 33, 36);\">Here, the&nbsp;<strong>&#39;drowned&#39;&nbsp;</strong>is in the past tense so the sentence is in the past tense.&nbsp;</span></li>\n\t\t<li>So,&nbsp;<span style=\"font-weight: 700;\">&#39;had&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"color: rgb(74, 74, 74); font-weight: 700;\">So the correct sentence is,&nbsp;</span><em>The Captain along with the sailors <b>had&nbsp;</b>drowned.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li>Let us look at the use of other words:\n\t<ul>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><span style=\"font-weight: 700;\">were</span>&nbsp;is the&nbsp;past tense of the &#39;to+be&#39; form used for plural nouns.&nbsp;</span></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><span style=\"font-weight: 700;\">&#39;is&#39;&nbsp;</span></span>is<span style=\"color: rgb(74, 74, 74);\">&nbsp;the present tense&nbsp;of the &#39;to+be&#39; form used for singular nouns.</span></li>\n\t\t<li><span style=\"color: rgb(74, 74, 74);\"><span style=\"font-weight: 700;\">are&nbsp;</span></span>is<span style=\"color: rgb(74, 74, 74);\">&nbsp;the&nbsp;present tense of the &#39;to+be&#39; form used for plural nouns.&nbsp;</span></li>\n\t\t<li><span style=\"font-weight: 700;\">been</span>&nbsp;is the participle form of the verb &#39;to+be&#39;.&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">​​</span>Whenever words like: &lsquo;as well as&rsquo;, &lsquo;with&rsquo;, &lsquo;along with, &lsquo;together with&rsquo;, &lsquo;and not&rsquo;, &lsquo;In addition to&rsquo;, &lsquo;but&rsquo;, &lsquo;besides&rsquo;, &lsquo;except&rsquo;, &lsquo;rather than&rsquo;, &lsquo;accompanied by&rsquo;, &lsquo;like&rsquo;, &lsquo;unlike&rsquo;, &lsquo;no less than&rsquo;, &lsquo;nothing but&rsquo; is used the&nbsp;<span style=\"font-weight: 700;\">verb&nbsp;</span>follows the first&nbsp;<span style=\"font-weight: 700;\">subject</span>.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "605a03cac5413137fcd74c95",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the most appropriate word from the options given below:</strong></p>\n\n<p>Open the door, _________.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "can you?",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "would you?",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "has they?",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "have they?",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "won&#39;t you?",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;&#39;</span><strong>would you?<span style=\"font-weight: 700;\">&#39;.&nbsp;</span></strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Reading the given sentence we find out that:\n\t<ul>\n\t\t<li>The given sentence is in the form of a&nbsp;<span style=\"font-weight: 700;\">question tag.</span>&nbsp;Here, the verb is &lsquo;<span style=\"font-weight: 700;\">open&rsquo;</span>&nbsp;which doesn&rsquo;t have any helping verb.</li>\n\t\t<li>The given sentence is an&nbsp;imperative sentence. Whenever the tone of the sentence is of offer/request the tag used will be&nbsp;<strong>will you/would you?&nbsp;&nbsp;</strong></li>\n\t\t<li>So,<span style=\"font-weight: 700;\">&nbsp;&#39;would you?&#39;&nbsp;</span>is the correct word for the blank.&nbsp;<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"color: rgb(74, 74, 74); font-weight: 700;\">So the correct sentence is,&nbsp;</span><em>Open the door,&nbsp;<strong>would you?</strong></em></p>\n\n<p><em><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></em></p>\n\n<ul>\n\t<li>In an imperative sentence, the tag used must be,&nbsp;<strong>will you?/would you?. &#39;would you?&#39;&nbsp;</strong>is the most appropriate tag as past form of an modal signifies a more polite way.&nbsp;</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li><strong>&#39;won&#39;t you?&#39;</strong> will be used for other imperative sentences.&nbsp;</li>\n\t<li>All other tags are used by looking at the <strong>helping</strong> <strong>verb</strong> of the sentence.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6059db9f3d0f7fcdb50ce914",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: Pick out the most appropriate word from the words given below each sentence to complete it meaningfully.</span></p>\n\n<div>_______ are being collected to be handed to the children&#39;s welfare society.</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Money",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Monies",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Money&#39;s",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Coin",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Penny",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is &#39;<strong>monies</strong>&#39;.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&#39;<strong>Monies</strong>&#39; is the plural form of money which means amounts of money.\n\n\t<ul>\n\t\t<li><strong>For eg.-&nbsp; Monies </strong>have been deposited for the charity event.</li>\n\t</ul>\n\t</li>\n\t<li>Thus we will use &#39;<strong>monies</strong>&#39; to fill in the blank to complete the sentence meaningfully.</li>\n\t<li>Hence, <strong>option 2</strong> is the correct answer.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Penny</strong> is&nbsp;a British bronze coin and monetary unit equal to one-hundredth of a pound.\n\n\t<ul>\n\t\t<li><strong>For eg.-&nbsp;</strong>&nbsp;On the king&#39;s birthday each bedesman received a new blue gown, a loaf, a bottle of ale, and a leathern purse containing a <strong>penny&nbsp;</strong>for every year of the king&#39;s life.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:50.452Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

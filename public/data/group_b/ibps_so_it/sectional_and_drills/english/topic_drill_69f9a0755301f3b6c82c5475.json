@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0755301f3b6c82c5475",
+  "title": "CT 7: English Language (Reading Comprehension- 1)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "685c365648006bc2daf542ec",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "What significant discovery did William Henry Perkin make in 1856?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "He discovered the first synthetic fabric.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "He invented the process of dyeing fabrics.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "He accidentally created the first synthetic dye.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "He discovered a method to make natural dyes more vibrant.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "He introduced a new type of textile machine.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The passage explicitly states in the second paragraph: \"The breakthrough in modern dye technology came in 1856 with the accidental discovery of mauveine, the first synthetic dye, by British chemist William Henry Perkin.\"</span></li>\n\t<li><span style=\"\">This sentence directly answers the question about Perkin&#39;s significant discovery in 1856.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1</strong> is incorrect because Perkin discovered a synthetic dye, not a synthetic fabric.</span></li>\n\t<li><span style=\"\"><strong>Option 2</strong> is incorrect because the process of dyeing fabrics existed long before Perkin&#39;s discovery; he introduced a new type of dye.</span></li>\n\t<li><span style=\"\"><strong>Option 4</strong> is incorrect because his discovery was of a synthetic dye, not a method to enhance natural dyes.</span></li>\n\t<li><span style=\"\"><strong>Option 5</strong> is incorrect because his contribution was in chemistry, not textile machinery.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "685c365748006bc2daf542ee",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "What was the primary reason for the shift from natural to synthetic dyes in the textile industry?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Natural dyes were too expensive.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Synthetic dyes were more stable and cheaper to produce.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Natural dyes were too difficult to extract from plants.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "People preferred synthetic dyes due to their colors.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Synthetic dyes could be produced in larger quantities.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The first paragraph mentions the limitations of natural dyes: \"While these natural dyes were often vibrant and rich, they were also labor-intensive, expensive, and limited in color range. The need for more accessible, durable, and varied colors led to significant innovations in dyeing techniques.\"</span></li>\n\t<li><span style=\"\">The third paragraph explicitly states the advantages of synthetic dyes: \"These dyes are more stable, have a wider range of colors, and are less costly to produce. They also offer better consistency, which made mass production of textiles feasible.\"</span></li>\n\t<li><span style=\"\">Combining these points, the primary reasons for the shift were the superior practical benefits of synthetic dyes over natural ones. Option 2, \"Synthetic dyes were more stable and cheaper to produce,\" directly addresses key advantages that led to this shift.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1</strong> (Natural dyes were too expensive) is true, but it&#39;s only one part of the reason.</span></li>\n\t<li><span style=\"\"><strong>Option 3</strong> (Natural dyes were too difficult to extract from plants) is implied by \"labor-intensive,\" but again, it&#39;s not the complete picture.</span></li>\n\t<li><span style=\"\"><strong>Option 4</strong> (People preferred synthetic dyes due to their colors) describes a consequence of the wider range of colors, not the fundamental reason for the industrial shift.</span></li>\n\t<li><span style=\"\"><strong>Option 5</strong> (Synthetic dyes could be produced in larger quantities) is true as they \"made mass production of textiles feasible,\" but this is a result of their consistency and lower cost, making Option 2 a more fundamental reason.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "685c365748006bc2daf542ef",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Before the introduction of synthetic dyes in the 19th century, what did people primarily use for color?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Petroleum-based chemicals",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Advanced textile machines<br />",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Natural sources like plants, minerals, and insects",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Specially formulated laboratory compounds",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Newly invented artificial pigments",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The first paragraph of the passage explicitly states: \"Before the introduction of synthetic dyes in the 19th century, people relied on natural sources for color, such as plants, minerals, and insects.\"</span></li>\n\t<li><span style=\"\">This sentence directly answers the question about what people primarily used for color before synthetic dyes.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1: Petroleum-based chemicals</strong> &ndash; This is incorrect. The passage states that synthetic dyes, which came later, are made from petroleum-based chemicals.</span></li>\n\t<li><span style=\"\"><strong>Option 2: Advanced textile machines</strong> &ndash; This is incorrect. The passage does not mention textile machines as sources of color.</span></li>\n\t<li><span style=\"\"><strong>Option 4: Specially formulated laboratory compounds</strong> &ndash; This is incorrect. This describes synthetic compounds, which were introduced after the period in question.</span></li>\n\t<li><span style=\"\"><strong>Option 5: Newly invented artificial pigments</strong> &ndash; This is incorrect. Similar to option 4, artificial pigments refer to synthetic colors, which came later.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "685c365748006bc2daf542f0",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "What advancement in dye technology ensured that colors became more durable and resistant to fading?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The development of fiber-reactive and acid dyes.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The invention of eco-friendly dyes.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The use of plant-based materials for dyeing.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The creation of dyeing machines for mass production.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The discovery of synthetic dyes made from petroleum-based chemicals.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 1</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The fourth paragraph of the passage directly addresses advancements in dye technology in the 20th century.</span></li>\n\t<li><span style=\"\">It states: \"New methods, such as fiber-reactive and acid dyes, enabled better bonding between the dye and the fabric, ensuring longer-lasting colors and reducing fading.\"</span></li>\n\t<li><span style=\"\">This clearly indicates that the development of fiber-reactive and acid dyes was the advancement that made colors more durable and resistant to fading.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>1</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 2: The invention of eco-friendly dyes</strong> &ndash; While mentioned as a 20th-century development, their purpose was related to environmental concerns, not specifically improved durability or fade resistance.</span></li>\n\t<li><span style=\"\"><strong>Option 3: The use of plant-based materials for dyeing</strong> &ndash; This refers to natural dyes, which were used before modern advancements and were known for being less durable and having limited color range.</span></li>\n\t<li><span style=\"\"><strong>Option 4: The creation of dyeing machines for mass production</strong> &ndash; The passage mentions mass production became feasible due to synthetic dyes&#39; consistency, but it doesn&#39;t link machines directly to improved color durability or fade resistance.</span></li>\n\t<li><span style=\"\"><strong>Option 5: The discovery of synthetic dyes made from petroleum-based chemicals</strong> &ndash; This was the initial breakthrough in the 19th century, which brought general stability and a wider color range. However, the specific further advancements in the 20th century (fiber-reactive and acid dyes) are credited with ensuring longer-lasting colors and reducing fading through better bonding.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "685c365748006bc2daf542f1",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Why has there been increasing research into sustainable alternatives to synthetic dyes?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Because synthetic dyes were more expensive than natural dyes.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Due to the water pollution caused by synthetic dyes.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Because synthetic dyes did not provide a wide range of colors.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Due to the lack of consistent results in synthetic dyeing.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Because synthetic dyes were not durable and faded quickly.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The last paragraph of the passage directly addresses the reason for increased research into sustainable alternatives: \"While synthetic dyes have made significant contributions to the industry, their environmental impact&mdash;particularly in the form of water pollution&mdash;has led to increased research into sustainable alternatives.\"</span></li>\n\t<li><span style=\"\">This clearly identifies water pollution as the primary environmental concern driving the research.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1: Because synthetic dyes were more expensive than natural dyes</strong> &ndash; This is incorrect. The passage states synthetic dyes are \"less costly to produce\" than natural ones.</span></li>\n\t<li><span style=\"\"><strong>Option 3: Because synthetic dyes did not provide a wide range of colors</strong> &ndash; This is incorrect. The passage states synthetic dyes \"have a wider range of colors.\"</span></li>\n\t<li><span style=\"\"><strong>Option 4: Due to the lack of consistent results in synthetic dyeing</strong> &ndash; This is incorrect. The passage states synthetic dyes \"offer better consistency.\"</span></li>\n\t<li><span style=\"\"><strong>Option 5: Because synthetic dyes were not durable and faded quickly</strong> &ndash; This is incorrect. The passage states synthetic dyes are \"more stable\" and that advancements led to \"longer-lasting colors and reducing fading.\"</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6852e8bd3d154e66ad1dcd91",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "What is the main reason dictators often rise to power?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "They are elected by the people",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "They promise to solve economic problems",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "They are born into royal families",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "They take advantage of times of crisis",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "They always have military support",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 4</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><strong><span style=\"\">Dictators often rise to power by taking advantage of times of crisis, such as economic collapse or war, when people are desperate for stability.</span></strong></li>\n\t<li><strong><span style=\"\">During these times, dictators promise to solve the nation&#39;s problems, and once in power, they do not allow anyone to challenge their authority.</span></strong></li>\n\t<li><strong><span style=\"\">This is the main reason they rise to power, as they exploit the vulnerability of the nation during crises.</span></strong></li>\n\t<li><strong><span style=\"\">Other options, such as being elected or born into royal families, are not mentioned in the passage as the reasons for dictators rising to power.</span></strong></li>\n</ul>\n\n<div><strong><span style=\"\">Therefore, the correct answer is <strong>Option 4</strong>.</span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><strong>Correct Sentence:</strong> <em>\"Dictators often rise to power in times of crisis, such as economic collapse or war, where they promise stability but do not allow challenges once in power.\"</em></span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></strong></div>\n\n<ul>\n\t<li><strong><span style=\"\"><strong>A: \"They are elected by the people\" </strong>&ndash; The passage does not mention that dictators are typically elected by the people, so this option is incorrect.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>B: \"They promise to solve economic problems\" </strong>&ndash; While economic issues may be part of a crisis, the passage focuses on how dictators take advantage of such situations, not just economic promises.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>C: \"They are born into royal families\" </strong>&ndash; The passage does not mention any connection between dictatorships and royal families, making this option incorrect.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>E: \"They always have military support\" </strong>&ndash; Military support is not a primary reason discussed in the passage for dictators to rise to power.</span></strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6852e8be3d154e66ad1dcd92",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "How does a dictator&rsquo;s fear of losing power influence their actions?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "They encourage democratic participation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "They surround themselves with loyal supporters",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "They give the people more freedom",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "They focus on international relations",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "They become more transparent with the public",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><strong><span style=\"\">A dictator&rsquo;s fear of losing power leads them to surround themselves with loyal supporters to protect their position.</span></strong></li>\n\t<li><strong><span style=\"\">This fear makes it difficult for them to trust others, prompting them to take extreme measures to maintain control.</span></strong></li>\n\t<li><strong><span style=\"\">The passage clearly states that dictators use their fear of losing power to isolate themselves and rely on supporters for protection.</span></strong></li>\n\t<li><strong><span style=\"\">Other options, such as encouraging democratic participation or becoming transparent, contradict the typical behavior of dictators, who seek to maintain control rather than promote freedom or openness.</span></strong></li>\n</ul>\n\n<div><strong><span style=\"\">Therefore, the correct answer is <strong>Option 2</strong>.</span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><strong>Correct Sentence:</strong> <em>\"Dictators, driven by the fear of losing power, often surround themselves with loyal supporters to safeguard their position and avoid challenges to their authority.\"</em></span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></strong></div>\n\n<ul>\n\t<li><strong><span style=\"\"><strong>A: \"They encourage democratic participation\" </strong>&ndash; This is inaccurate because dictators typically suppress democratic processes to maintain control.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>C: \"They give the people more freedom\" </strong>&ndash; This contradicts the passage, as dictators do not allow freedom of opposition and tend to limit people&#39;s rights.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>D: \"They focus on international relations\" </strong>&ndash; The passage does not mention that dictators focus primarily on international relations; their main focus is maintaining internal power.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>E: \"They become more transparent with the public\" </strong>&ndash; Dictators typically hide their actions and limit transparency to keep control, as suggested by the passage.</span></strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6852e8be3d154e66ad1dcd93",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "What role do personal experiences play in the development of a dictator&rsquo;s character?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "They have no effect on a dictator&#39;s actions",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Early life struggles can increase their desire for power",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Positive childhood experiences make them more democratic",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Personal experiences often lead them to quit politics",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Experiences with failure can make them more humble",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><strong><span style=\"\">The passage clearly states that some dictators grow up in difficult conditions or face early struggles, which shape their desire for power.</span></strong></li>\n\t<li><strong><span style=\"\">These early life struggles can make them feel that gaining control over others will help them overcome their insecurities or failures.</span></strong></li>\n\t<li><strong><span style=\"\">This desire for control often becomes stronger when they are exposed to ideas about nationalism or military power.</span></strong></li>\n\t<li><strong><span style=\"\">The other options do not align with the passage&rsquo;s explanation of how personal experiences influence a dictator&rsquo;s character.</span></strong></li>\n</ul>\n\n<div><strong><span style=\"\">Therefore, the correct answer is <strong>Option 2</strong>.</span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><strong>Correct Sentence:</strong> <em>\"Early life struggles can increase a dictator&#39;s desire for power, as they may feel that controlling others helps them overcome personal failures.\"</em></span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></strong></div>\n\n<ul>\n\t<li><strong><span style=\"\"><strong>A: \"They have no effect on a dictator&#39;s actions\" </strong>&ndash; This contradicts the passage, as it emphasizes the influence of early struggles on the dictator&#39;s desire for power.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>C: \"Positive childhood experiences make them more democratic\" </strong>&ndash; The passage does not suggest that positive experiences make dictators more democratic; rather, it highlights how struggles can increase the thirst for control.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>D: \"Personal experiences often lead them to quit politics\" </strong>&ndash; This is not mentioned in the passage; the focus is on how personal struggles drive them to seek power.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>E: \"Experiences with failure can make them more humble\" </strong>&ndash; The passage indicates that failure can make dictators more determined to gain control, not humble.</span></strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6852e8be3d154e66ad1dcd94",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "How do dictators use propaganda to maintain control?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "By encouraging people to think for themselves",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "By promoting ideas of unity and equality",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "By creating fear and convincing people they are the only solution",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "By encouraging free speech and open discussion",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "By distributing free education materials",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><strong><span style=\"\">The passage explains that dictators use propaganda to manipulate the public and create a sense of fear.</span></strong></li>\n\t<li><strong><span style=\"\">They convince people that they are the only ones who can keep the country safe, using propaganda to maintain control.</span></strong></li>\n\t<li><strong><span style=\"\">Other options, such as encouraging free speech or promoting unity, contradict the behavior of dictators, who typically suppress opposition and free expression.</span></strong></li>\n</ul>\n\n<div><strong><span style=\"\">Therefore, the correct answer is <strong>Option 3</strong>.</span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><strong>Correct Sentence:</strong> <em>\"Dictators use propaganda to manipulate the public, creating fear and convincing people that they are the only solution to the country&#39;s problems.\"</em></span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></strong></div>\n\n<ul>\n\t<li><strong><span style=\"\"><strong>A: \"By encouraging people to think for themselves\" </strong>&ndash; This is incorrect because dictators suppress free thought and encourage blind loyalty, not independent thinking.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>B: \"By promoting ideas of unity and equality\" </strong>&ndash; While dictators may use ideas of unity, they typically do so to maintain control, not to promote true equality or collective welfare.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>D: \"By encouraging free speech and open discussion\" </strong>&ndash; Dictators usually suppress free speech and control public discourse to avoid any challenges to their power.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>E: \"By distributing free education materials\" </strong>&ndash; Dictators may control education to promote their own agenda, but they are not likely to distribute materials that promote freedom of thought or equality.</span></strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6852e8be3d154e66ad1dcd95",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Why might a dictator be seen as a solution during a national crisis?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "They are seen as able to provide stability and order",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "They encourage the formation of political parties",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "They focus on reducing military power",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "They allow citizens to vote on important issues",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "They promote environmental sustainability",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 1</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><strong><span style=\"\">The passage explains that dictators rise to power in times of crisis, such as economic collapse or war, when the population is desperate for someone to provide stability.</span></strong></li>\n\t<li><strong><span style=\"\">During such crises, dictators promise to solve the nation&#39;s problems and are seen as solutions for providing order and stability.</span></strong></li>\n\t<li><strong><span style=\"\">Other options, such as encouraging political parties or allowing citizens to vote, contradict the typical actions of dictators, who usually suppress opposition and control the political environment.</span></strong></li>\n</ul>\n\n<div><strong><span style=\"\">Therefore, the correct answer is <strong>Option 1</strong>.</span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><strong>Correct Sentence:</strong> <em>\"In times of national crisis, dictators may be seen as a solution because they promise stability and order, appealing to a population desperate for leadership.\"</em></span></strong></div>\n\n<div>&nbsp;</div>\n\n<div><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></strong></div>\n\n<ul>\n\t<li><strong><span style=\"\"><strong>B: \"They encourage the formation of political parties\" </strong>&ndash; Dictators typically suppress the formation of political parties to maintain control and prevent opposition.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>C: \"They focus on reducing military power\" </strong>&ndash; Dictators often strengthen military power rather than reduce it to maintain control over the country.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>D: \"They allow citizens to vote on important issues\" </strong>&ndash; Dictators generally do not allow free elections or voting, as they wish to maintain their own control without opposition.</span></strong></li>\n\t<li><strong><span style=\"\"><strong>E: \"They promote environmental sustainability\" </strong>&ndash; The passage does not mention anything about dictators promoting environmental sustainability as a reason for their rise to power.</span></strong></li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:37.028Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

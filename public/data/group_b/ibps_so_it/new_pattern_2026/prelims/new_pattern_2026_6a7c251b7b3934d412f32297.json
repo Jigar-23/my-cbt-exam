@@ -1,0 +1,4455 @@
+{
+  "testId": "6a7c251b7b3934d412f32297",
+  "title": "All India IBPS SO (HR) : Ultimate Mega Live Test 02",
+  "exam": "IBPS SO IT Officer",
+  "pattern": "NEW_PATTERN_2026",
+  "stage": "PRELIMS",
+  "hasITInPrelims": true,
+  "totalQuestions": 100,
+  "totalDurationMinutes": 80,
+  "totalMarks": 125,
+  "sections": [
+    {
+      "id": "6a44c7f5087f33e29533357d",
+      "name": "English Language",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "63cfbddc23f0a01ca59bd5bf",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong><span style=\"color: rgb(34, 34, 34);   \">Directions: Read the following sentence and find out the part that has an error in it. If the sentence is error-free, choose &#39;no error&#39; as your answer.</span></strong></p>\n\n<p><span style=\"color: rgb(34, 34, 34);   \">I reminded my brother to buy the tickets <strong>(A)</strong> for the game that were available last week, <strong>(B)</strong> but he missed that boat by waiting till today <strong>(C)</strong> to buy and now all the tickets are sold out. <strong>(D)</strong></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "63cfbfede31eb1aaaeffaa73",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong><span style=\"color: rgb(34, 34, 34);   \">Directions: Read the following sentence and find out the part that has an error in it. If the sentence is error-free, choose &#39;no error&#39; as your answer.</span></strong></p>\n\n<p><span style=\"color: rgb(34, 34, 34);   \">The security guards of the city museum were very vigilant <strong>(A)</strong> yet did not saw the thieves coming in <strong>(B)</strong> from the front door of the museum and stealing <strong>(C)</strong> valuable objects of great historic significance. <strong>(D)</strong></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "60abe687f95bb678aff4db16",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Read the following sentence and determine whether there is any error in it. The error, if any, will be in one part of the sentence. If the sentence is error-free, select &lsquo;No error&rsquo; as your answer.</span></p>\n\n<p>More than one (A)/ student in our class (B)/ have learned a lot (C)/ for the final examination.(D)/</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "60abe4e8a646ed367ccfd8ad",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Read the following sentence and determine whether there is any error in it. The error, if any, will be in one part of the sentence. If the sentence is error-free, select &lsquo;No error&rsquo; as your answer.</span></p>\n\n<p>Everyone were supposed (A)/&nbsp;to ride out in a (B)/ different direction, but (C)/ Bordeaux never left her side.(D)/</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5e9020b63ab0500d2e57c1c7",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p style=\"text-align: justify;\"><strong>In the following question, two columns are given, containing three phrases each. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a correct sentence. If none of the phrases make a correct sentence, mark &lsquo;None of these&rsquo; as your answer.</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"height:300px;width:250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Column 1</td>\n\t\t\t<td>Column 2</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>A.&nbsp;The positive news is that&nbsp;</td>\n\t\t\t<td>D. prevent debt default, bankruptcy and job losses.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>B.&nbsp;Central banks are trying to help with multi-trillion dollar packages of fiscal and monetary support to&nbsp;</td>\n\t\t\t<td>E. a strong recovery is possible.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>C.&nbsp;The war creates no absolutely new situation and simply&nbsp;</td>\n\t\t\t<td>F.&nbsp;aggravates the permanent human situation.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-F",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B-E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5e901b6c90166f6fb39eed3a",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p style=\"text-align: justify;\"><strong>In the following question, two columns are given, containing three phrases each. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a correct sentence. If none of the phrases make a correct sentence, mark &lsquo;None of these&rsquo; as your answer.</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Column 1</td>\n\t\t\t<td>Column 2</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>A. Governments and central banks are trying to mitigate</td>\n\t\t\t<td>D. the pandemic&rsquo;s economic fallout&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>B. As motorways cleared and factories closed, dirty brown pollution belts&nbsp;</td>\n\t\t\t<td>E.&nbsp;were first visible from space.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>C.&nbsp;The environmental changes wrought by the coronavirus&nbsp;</td>\n\t\t\t<td>F. shrunk over cities and industrial centres in country after country.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B-F",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5cd6d1c7fdb8bb52f67ecbab",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In each of the following sentences, a sentence is given with certain words in bold. Choose the pair/s of such words which need to be interchanged so as to make the sentence grammatically correct and meaningful.</strong></p>\n\n<p>Expanding agriculture by <b>cutting(A)&nbsp;</b>down forests has <strong>variants(B)</strong>&nbsp;food volumes, and mining feeds many industries, but these have <strong>severely(C)&nbsp;</strong>affected other functions such as water availability, pollination, maintenance of wild <b>raised(D)&nbsp;</b>of domesticated plants, and climate regulation.&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a-d",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "a-c",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "c-d",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "b-d",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5cd6cf6dfdb8bb52f67ecba9",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In each of the following sentences, a sentence is given with certain words in bold. Choose the pair/s of such words which need to be interchanged so as to make the sentence grammatically correct and meaningful.</strong></p>\n\n<p>Nature provides <strong>ecosystem (A)&nbsp;</strong>services, but these are often not included in productivity <strong>absorption (B)</strong>&nbsp;they are vital for food production, for clean air and water, <strong>provision (C)&nbsp;</strong>of fuel for millions, <strong>estimates (D)</strong> of carbon in the atmosphere, and climate moderation.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a-b",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "b-d",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "c-d",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "d-a",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<p>None of the above.</p>",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5cd6cd79fdb8bb52f67ecba8",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In each of the following sentences, a sentence is given with certain words in bold. Choose the pair/s of such words which need to be interchanged so as to make the sentence grammatically correct and meaningful.</strong></p>\n\n<p>While ecosystem losses have (a)&nbsp;<strong>accelerated </strong>over the past five decades universally, there is particular worry over the (b)&nbsp;<strong>integrity</strong> occurring in tropical areas, which are (c)&nbsp;<strong>endowed </strong>with greater biodiversity than others; only a quarter of the land worldwide now retains its ecological and evolutionary (d)&nbsp;<strong>devastation</strong>, largely spared of human impact.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a-b",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "b-c",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "b-d",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "d-a",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5cd6cc9ffdb8bb52f67ecba7",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In each of the following sentences, a sentence is given with certain words in bold. Choose the pair/s of such words which need to be interchanged so as to make the sentence grammatically correct and meaningful.</strong></p>\n\n<p>Catastrophic <strong>erosion</strong>&nbsp;(A) of ecosystems is being driven by <strong>harvesting </strong>(B) use of land and water, direct <strong>unsustainable&nbsp;</strong>(C) of species, climate change, pollution, and <strong>release</strong>&nbsp;(D) of alien plants and animals in new habitats.&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a-d",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "b-a",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "c-d",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "b-c",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5cd6cac6fdb8bb52f67ecba6",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "<p>In each of the following sentences, a sentence is given with certain words in bold. Choose the pair/s of such words which need to be interchanged so as to make the sentence grammatically correct and meaningful.</p>\n\n<p>If the world continues to (a)&nbsp;<strong>factoring&nbsp;</strong>the current model of economic growth without (b)&nbsp;<strong>pursue</strong>&nbsp;in environmental costs, one million species could go (c)&nbsp;<strong>extinct</strong>, many in a matter of (d)&nbsp;<strong>decades</strong>.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a-d",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "d-c",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "a-b",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "b-d",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "620f4b88d6bcb2a0ca4db41e",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word. Choose option 5 &#39;&#39;None of the above&#39;&#39; if the word is not suitable in any of the sentences.</span></p>\n\n<p style=\"\">FOIL</p>\n\n<p style=\"\">A.&nbsp;Please wrap the sandwich in aluminum <strong>foil</strong>.</p>\n\n<p style=\"\">B.&nbsp;A hospital is to fit newborn babies with electronic tags to <strong>foil</strong> kidnappers.</p>\n\n<p style=\"\">C.&nbsp;The <strong>foil</strong> side of the treatment is that it can make patients feel very tired.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "620f4be2f6cdf73c4b1c5675",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word. Choose option 5 &#39;&#39;None of the above&#39;&#39; if the word is not suitable in any of the sentences.</span></p>\n\n<p style=\"\">CLIP</p>\n\n<p style=\"\">A.&nbsp;The trade deficit is the <strong>clip</strong> side of a rapidly expanding economy.</p>\n\n<p style=\"\">B.&nbsp;She enjoyed watching a <strong>clip</strong> from my vlog.</p>\n\n<p style=\"\">C.&nbsp;My mom is going to <strong>clip</strong> my hair.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "63492974fe6c65fd3eb3be1a",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p><strong>Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word.</strong></p>\n\n<p>Complaisant<b>.</b></p>\n\n<p>A. Rita is an old-fashioned wife, entirely <strong>complaisant </strong>to her husband&#39;s will.</p>\n\n<p>B. Don&#39;t be <strong>complaisant </strong>about your health just because you are young and agile.</p>\n\n<p>C. How can you be so <strong>complaisant </strong>to the threats you are receiving?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only C",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "620f476b8a4d509fed4508a0",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that express(es) the meaning of the word. Choose option 5 &#39;&#39;None of the above&#39;&#39; if the word is not suitable in any of the sentences.</strong></p>\n\n<p>MINE</p>\n\n<p>A.&nbsp;The closure of the <strong>mine</strong> led to large-scale redundancies.</p>\n\n<p>B.&nbsp;Don&#39;t put new <strong>mine</strong> into old bottles.</p>\n\n<p>C.&nbsp;Her parents were far more liberal than <strong>mine</strong>.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Both B and C</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Both A and C</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5b9c3c7fb09f610c463b9b26",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "<p>After the rearrangement, which of the following sentence should be <strong>FIRST</strong>?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "T",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5b9c3c7fb09f610c463b9b27",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<p>After the rearrangement, which of the following sentence should be <strong>SECOND</strong>?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "T",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5b9c3c7fb09f610c463b9b28",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<p>After the rearrangement, which of the following sentence should be <strong>THIRD</strong>?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "T",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5b9c3c7fb09f610c463b9b29",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "<p>After the rearrangement, which of the following sentence should be <strong>FOURTH</strong>?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "T",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "5b9c3c7fb09f610c463b9b2a",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "After the rearrangement, which of the following sentence should be <strong>FIFTH</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "T",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "62e32a18021d35bf69836f5f",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;  vertical-align: baseline; white-space: pre-wrap;\">Choose the </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;  font-weight: 700; vertical-align: baseline; white-space: pre-wrap;\">synonym </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;  vertical-align: baseline; white-space: pre-wrap;\">of the word &#39;</span><span style=\" font-weight: 700;\">Ominous</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;  vertical-align: baseline; white-space: pre-wrap;\">&#39;.</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Menacing",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Promising",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Propitious",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Auspicious",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Providential",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "62e32da4af38f528e19f16d5",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "<span style=\"\">Choose the&nbsp;</span><span style=\" font-weight: 700;\">antonym</span><span style=\"\">&nbsp;of the word &#39;</span><span style=\" font-weight: 700;\">Detrimental</span><span style=\"\">&#39;.</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Inimical",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Deleterious",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Ruinous",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Pernicious",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Innocuous",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "62e33892cc5aecbe960f9189",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "<span style=\"\">According to the passage,&nbsp;</span><span style=\" font-weight: 700;\">who faces a</span><strong>&nbsp;high probability of extinction</strong><span style=\"\">?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Large and isolated populations.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Large and integrated populations.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Those who are part of larger landscapes with other such populations that are connected.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Small and isolated populations.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Those who live together.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "62e33892cc5aecbe960f918a",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Which of the following </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;\">is/are incorrect </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">according to the given passage?</span></p>\n\n<p style=\"\"><span id=\"docs-internal-guid-1f86cd08-7fff-d737-82dc-97f1f2bfb639\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">A. </span></span>Populations that are larger have a high probability of extinction.</p>\n\n<p style=\"\"><span id=\"docs-internal-guid-c0508e35-7fff-0280-f6d0-310008d76b98\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">B. </span></span>Tiger numbers have decreased since 2005.</p>\n\n<p style=\"\"><span id=\"docs-internal-guid-8decac85-7fff-26dd-8e5a-3de8765e0e84\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">C. </span></span>Individuals in small populations are more likely to be related to inbreeding.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only C",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        },
+        {
+          "id": "62e33892cc5aecbe960f918b",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;  vertical-align: baseline; white-space: pre-wrap;\">What is the </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;  font-weight: 700; vertical-align: baseline; white-space: pre-wrap;\">central theme </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;  vertical-align: baseline; white-space: pre-wrap;\">of the passage?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Tiger numbers have decreased over the last 15 years.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "India ensuring&nbsp;the extinction of tigers.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Numbers do not reveal tiger conservation.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The export of large number of tigers from India.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The effect of COVID-19 on tigers.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "English Language"
+        }
+      ]
+    },
+    {
+      "id": "6a44c7f5087f33e29533357e",
+      "name": "Reasoning",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "60d3037d5c6c95ea6a3c8dc8",
+          "questionNumber": 26,
+          "type": "mcq",
+          "text": "What is the profession of D?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Businessman",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Lawyer",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Housewife",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Cannot be determined",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Pilot",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "60d3037d5c6c95ea6a3c8dc9",
+          "questionNumber": 27,
+          "type": "mcq",
+          "text": "Who is the wife of A?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "X",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cannot be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "60d3037d5c6c95ea6a3c8dca",
+          "questionNumber": 28,
+          "type": "mcq",
+          "text": "Which colour does the pilot likes?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Brown",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Green",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Yellow",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Purple",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Orange",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "60d3037d5c6c95ea6a3c8dcb",
+          "questionNumber": 29,
+          "type": "mcq",
+          "text": "Who likes red colour?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Housewife",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Doctor",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "G",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Lecturer",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "600ec25869a252079b1e2efa",
+          "questionNumber": 30,
+          "type": "mcq",
+          "text": "<p><strong>Statements:</strong></p>\n\n<p>M @ N, H &amp;&nbsp;Q, Q @ M.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>H&nbsp;&copy; M</p>\n\n<p>Q @ N</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<p>Only I follows</p>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Either I or II follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neither I nor II follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both I and II follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "600ec25869a252079b1e2efb",
+          "questionNumber": 31,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Statements:</span></p>\n\n<p>C % B, L #&nbsp;S, S &amp; C</p>\n\n<p><b>Conclusions:</b></p>\n\n<p>B % S</p>\n\n<p>C % L</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Either I or II follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neither I nor II follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both I and II follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "5fd374b215d361a2a3daa4d9",
+          "questionNumber": 32,
+          "type": "mcq",
+          "text": "Four of the following five are alike in a certain way based on the given arrangement and thus form a group. Which is the one that does not belong to that group ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P &ndash; White",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "R &ndash; Orange",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "&nbsp;U &ndash; Red",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "W &ndash; Blue",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "S &ndash; Black",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "5fd374b215d361a2a3daa4da",
+          "questionNumber": 33,
+          "type": "mcq",
+          "text": "Which of the following is true with respect to the given box arrangement ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Box S is in white color.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Box R is just below the Box Q.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "There are two boxes between White and Blue color Box.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Box U is just below Blue color box",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "&nbsp;Box T is not on the bottom of the arrangement.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "5fd374b215d361a2a3daa4db",
+          "questionNumber": 34,
+          "type": "mcq",
+          "text": "How many Boxes are there between the Black Color box and W?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "5fd374b215d361a2a3daa4dc",
+          "questionNumber": 35,
+          "type": "mcq",
+          "text": "What is the color of the top most box?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Yellow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "White",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Red",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Green",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Purple",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "60015d19af8054d7ea1c0955",
+          "questionNumber": 36,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\">&nbsp;How many such pairs of letters are there in the word <span id=\"docs-internal-guid-045ccc83-7fff-da17-36d6-e9db36f3e718\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&lsquo; MATHEMATICAL </span></span>&rsquo;, each of which has as many letters between them in the word ( both forward and backward direction ) as they have between them in the English Alphabet?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Six",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "6087e76cbbbfd3b51ab25d59",
+          "questionNumber": 37,
+          "type": "mcq",
+          "text": "Who belongs to Delhi?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Durgesh",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Aman",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Hina",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Radhika",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neha",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "6087e7f2bbbfd3b51ab261ca",
+          "questionNumber": 38,
+          "type": "mcq",
+          "text": "Who is third to the right of Aman?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Hina",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Neha",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Abdul",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Radhika",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Kavita",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "6087e886bbbfd3b51ab26642",
+          "questionNumber": 39,
+          "type": "mcq",
+          "text": "<p>Who belongs to Chennai?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Kavita",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Aman",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Abdul",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Radhika",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Durgesh",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "6087e912bbbfd3b51ab26b40",
+          "questionNumber": 40,
+          "type": "mcq",
+          "text": "Who is sitting between Radhika and Abdul?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Kavita",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sita",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Aman",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neha",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Hina",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "6087e9a8bbbfd3b51ab271ad",
+          "questionNumber": 41,
+          "type": "mcq",
+          "text": "Who belongs to Jaipur?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Kavita",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Aman",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Hina",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Radhika",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sita",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "6076d6788b22a3fa665e04e4",
+          "questionNumber": 42,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction:</span>&nbsp;In following question&nbsp;two conclusions have been given followed by 5 sets of possible Statements. You have to take the given Conclusions to be true even if they seem to be at variance with the commonly known facts and then decide for the given Conclusions logically follows from the which of the given statements disregarding commonly known facts.</p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p align=\"left\">I. No Heroes are Zeroes.</p>\n\n<p align=\"left\">II. Some Joker are Zeroes.</p>\n\n<p align=\"left\"><span style=\"font-weight: 700;\">Statements:</span></p>\n\n<p>I. All Heroes are Top. Some Zeroes are Joker. No Joker is Heroes.</p>\n\n<p>II. Some Zeroes are Heroes. Some Zeroes are Joker&nbsp;. No Top is a Heroes.</p>\n\n<p>III. Some Top are Zeroes. No Zeroes is a Heroes. All Top is a Joker.</p>\n\n<p>IV. All Joker are Heroes. No Top is a Heroes. All Zeroes are Top.</p>\n\n<p>V. All Top are Joker. Some Zeroes are Joker. Some Zeroes is Heroes.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only statement II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only statement I",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only statement IV",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only statement V",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only statement III",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "6076befd19c1722e694afb28",
+          "questionNumber": 43,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction:</span>&nbsp;In following question&nbsp;two conclusions have been given followed by 5 sets of possible Statements. You have to take the given Conclusions to be true even if they seem to be at variance with the commonly known facts and then decide for the given Conclusions logically follows from the which of the given statements disregarding commonly known facts.</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p><strong>&nbsp;I</strong><strong>.</strong>&nbsp;Some yellow are black.</p>\n\n<p>&nbsp;<strong>II.</strong>&nbsp;All brown are pink.</p>\n\n<p align=\"left\"><strong>Statements:</strong></p>\n\n<p>I. No pink is black. Some black are brown. All pink are yellow.</p>\n\n<p>II. No pink is yellow. All yellow are black. Some black are brown.</p>\n\n<p>III. Some pink are black. Some black are yellow. No yellow is brown.</p>\n\n<p>IV. All brown are black. All black are pink. Some yellow are brown.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"color: rgb(0, 0, 0);\">only statement III</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(0, 0, 0);\">only statement IV</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(0, 0, 0);\">only statement II</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"color: rgb(0, 0, 0);\">only statement I</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "60868853a5cbc1f03c2af4fe",
+          "questionNumber": 44,
+          "type": "mcq",
+          "text": "How many females are there in the family?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Six",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Seven",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cannot be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "60868852a5cbc1f03c2af4fd",
+          "questionNumber": 45,
+          "type": "mcq",
+          "text": "How Fei is related to Yue?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Brother",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sister",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Aunt",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Uncle&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "60868852a5cbc1f03c2af4fc",
+          "questionNumber": 46,
+          "type": "mcq",
+          "text": "How Zhi is related to Ruo?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Husband",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Wife",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Spouse&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Cannot be determined&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "64c1156d7659d231ff85a659",
+          "questionNumber": 47,
+          "type": "mcq",
+          "text": "<p><strong>Direction:</strong> In each question below a statement (or a passage) is followed by two assumptions number I and II. An assumption is something supposed or taken for granted. You have to consider the statement and the following assumptions and then decide which of the assumptions is implicit in the statement.&nbsp;</p>\n\n<p><strong>Statement:</strong> Paper shortages around the nation, mostly brought on by a lack of foreign reserves to purchase paper, led to some schools announcing that their term/mid-year exams would be postponed indefinitely. Due to paper shortages and associated price increases, the daily ceased print publishing and shifted to e-papers.&nbsp;<br />\n<strong>Assumption I: </strong>Irregularity in the supply of wood fibers is being caused by rising competition for the material from a variety of industries, including building, textiles, and energy.&nbsp;<br />\n<strong>Assumption II:</strong> The second premise is that the ideal way to administer exams in these situations is digitally.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I is implicit&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Only II is implicit</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Both I and II are implicit</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Neither I nor II is implicit</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Either I or II is implicit</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "5f925e46a37e731879dfde58",
+          "questionNumber": 48,
+          "type": "mcq",
+          "text": "What is shortest distance between the P and Q?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "25 m",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "125 m",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<p>5&radic;5 m</p>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25&radic;5 m",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "15 m",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "5f925f8584233d1cbc3b0502",
+          "questionNumber": 49,
+          "type": "mcq",
+          "text": "<p>Four of the five following are alike in a certain way forming a group, which one doesn&#39;t belong to the group?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "OQ",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "XS",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "QR",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "NZ",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "OX",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        },
+        {
+          "id": "5f9261f221c225c4bdf799b6",
+          "questionNumber": 50,
+          "type": "mcq",
+          "text": "If a person buy some things in S, then he is going to buy some things in shop N. How far will he need to travel if he cross shops X and Z?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "25 m",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "40 m",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "35 m",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "45 m",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "30 m",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Reasoning"
+        }
+      ]
+    },
+    {
+      "id": "6a44c7f5087f33e29533357f",
+      "name": "Quantitative Aptitude",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": true,
+      "questions": [
+        {
+          "id": "6410b9c4c3ddb4a7c58b6ca9",
+          "questionNumber": 51,
+          "type": "mcq",
+          "text": "<p><span style=\"\">What approximate value should come in place of the question mark (?) in the following question?</span></p>\n\n<p><span style=\"\">79.96% of 200.20 + 50.10 x 3.11 = ? + 25.20% of 60.13</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "275",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "285",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "295",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "310",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "315",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "6410b9085eb3e6ad6aa00c14",
+          "questionNumber": 52,
+          "type": "mcq",
+          "text": "<p><span style=\"\">What approximate value should come in place of the question mark (?) in the following question?</span></p>\n\n<p><span style=\"\"><span class=\"math-tex\">\\(\\sqrt1023.98\\)</span></span>&nbsp;x 15.20 + 11.12 x 3.2 x 1.98 + 9.09% of 131.92 = ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "548",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "568",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "558",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "546",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "533",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "640c9bad1414b1888a6c0b06",
+          "questionNumber": 53,
+          "type": "mcq",
+          "text": "The price per candy of the Jellybean candies sold by shop C is Rs 5. Then find the total revenue generated by shop C by selling 60% of the Jellybean.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 520",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Rs. 540</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Rs. 560</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">Rs. 600</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">Rs. 620</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "640ca230f16e84d9756c1980",
+          "questionNumber": 54,
+          "type": "mcq",
+          "text": "Find the total number of all types of candies sold by shop B.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "685",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "725",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "715",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "735",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "705",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "640ca148be5163e0ab37c87b",
+          "questionNumber": 55,
+          "type": "mcq",
+          "text": "Find the ratio of total Milkybar candies sold by shop D to the total Jellybean candies sold by shop A.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "12 : 13",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">13 : 14</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">11 : 14</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">14 : 11</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">14 : 13</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "640c9f80f4fc2074e8bbeb0e",
+          "questionNumber": 56,
+          "type": "mcq",
+          "text": "If shop D sold 40% of the Lollipop candies for Rs 5. per piece. Then find the total revenue generated by shop D by selling all the remaining Lollipop candies at the price of Rs. 8.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 1360&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Rs. 1380&nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Rs. 1400&nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">Rs. 1420</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">Rs. 1440</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "640c9d72f4fc2074e8bb9573",
+          "questionNumber": 57,
+          "type": "mcq",
+          "text": "The price for each Cotton candy sold by all the shops is Rs.10. Then find the total revenue generated by all the shop by selling the Cotton candies.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 7200&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Rs. 7800&nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Rs. 8000&nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">Rs. 8200&nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">Rs. 8400&nbsp;</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "5ff690553102aa56f538171d",
+          "questionNumber": 58,
+          "type": "mcq",
+          "text": "<strong><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">Jerry is noticed by the tom from a distance of 400m. The jerry starts running and the tom chases him. The jerry and the tom run at the rate of 20 km/h and 21 km/h respectively. The time taken by tom to catch the jerry is .</span></strong>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<strong><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">12 mins</span></strong>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<strong><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">18 mins</span></strong>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<strong><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">24 mins</span></strong>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<strong><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;\">28 mins</span></strong>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "22 mins",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "63482a6b25f323f9dc2b93e3",
+          "questionNumber": 59,
+          "type": "mcq",
+          "text": "<p>Meena&rsquo;s capital is 2/3 times more than Mira&rsquo;s capital. Mira invested her capital at 40% per annum for 2 years (compounded annually). At what rate of interest per annum at simple interest should Meena invest her capital so that after 2 years, they both have the same amount of capital?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "8.2%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "7.8%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8.4%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<p style=\"\">8.6%</p>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "8.8%",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "5efb9b72d948c10d0c3fae7d",
+          "questionNumber": 60,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p><strong>I.</strong> 4x<sup>2</sup> &ndash; 10x + 6 = 0</p>\n\n<p><strong>II. </strong>24y<sup>2</sup> &ndash; 38y + 15 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x&nbsp;=&nbsp;y or relationship between x and y cannot be established.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "5f047a449f2c470d10c55bfb",
+          "questionNumber": 61,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p><strong>I.</strong> x<sup>2</sup> &ndash; 38x + 360 = 0</p>\n\n<p><strong>II.</strong> y<sup>2</sup> + 10y + 24 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x&nbsp;=&nbsp;y or relationship between x and y cannot be established.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "5ffc489ecd6d590678d29731",
+          "questionNumber": 62,
+          "type": "mcq",
+          "text": "The ratio of cost price of two articles is 4&nbsp;∶ 9. The articles are marked up by 40% and and 15% respectively and the ratio of their Marked price is 112&nbsp;∶ 207.If the discount of 12.5% and 11.11% is given respectively the profit earned on first article is Rs.270. What is the profit earned on second article?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs.40",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs.150",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs.60",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs.80",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs.200",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "60758e2df3001d3f5840e51a",
+          "questionNumber": 63,
+          "type": "mcq",
+          "text": "A container contains 60 liters of milk. Ramu a dishonest milkman decided to mix water in the mixture. From this container, 6 liters of milk was taken out and replaced by water. This process was further repeated two times. How much milk is left in the container in the end of the total replacements?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "43.74 litre",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "42.60 litre",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "41.50 litre",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "43 litre",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "44 litre",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "6081748b1e05c327de020507",
+          "questionNumber": 64,
+          "type": "mcq",
+          "text": "<p>In a family of four members A, B, C, and D, Rs. 50,000 was divided among them. A took 2/3 of the money, B took 1/5 of the remaining amount, and the rest was divided between C and D in the ratio of 2 : 3 respectively. How much(approx.) did C get as his share?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 5,334",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 5,000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 6,000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 7,000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "5fa3ce20559b0814e045c92b",
+          "questionNumber": 65,
+          "type": "mcq",
+          "text": "Men are 30% less efficient than women and 50% less efficient then Children workers. It requires 10 men working 9 hours to complete a task in 35 days. Find out number of days require completing same piece of work if 1 man, 7 women and 5 Children workers are working for 10 hours a day and ratio of efficiency of women to Children workers.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "20 days, 5 : 3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "10 days, 7 : 5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "16 days, 4 : 7",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "15 days , 5 : 7",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "10&nbsp;days, 5 : 7",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "6070127b8d5551f7e688be02",
+          "questionNumber": 66,
+          "type": "mcq",
+          "text": "<p>What should come in place of the question mark (?) in the following number series?</p>\n\n<p>25, ?, 30, 9, 35, 11, 40, 13</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "7",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "608825597f6254ac6ddc0260",
+          "questionNumber": 67,
+          "type": "mcq",
+          "text": "<p>Find the missing number in series</p>\n\n<p>5, 10, 16, 23, 31, 40, ?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "95",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "100",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "50",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "105",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "120",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "63693fc3dab3bbd6794edd08",
+          "questionNumber": 68,
+          "type": "mcq",
+          "text": "<p style=\"\">The total number of students in classes I and III is approximately what percentage of the total number of students in the school?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "41%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "45%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "44%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "48%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "50%",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "63693fc3dab3bbd6794edd07",
+          "questionNumber": 69,
+          "type": "mcq",
+          "text": "<p>What is the total number of students in classes II, IV and V of the school?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "800",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "810",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "820",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "830",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "840",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "63693fc3dab3bbd6794edd0b",
+          "questionNumber": 70,
+          "type": "mcq",
+          "text": "<p style=\"\">The total number of students in class V is approximately what percentage more/less than the total number of students in classes II and IV together?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "50% more",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "52% less",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "62% more",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "54% less",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "48% less",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "63693fc3dab3bbd6794edd0a",
+          "questionNumber": 71,
+          "type": "mcq",
+          "text": "<p style=\"\">What is the ratio of the total number of boys in classes I, II and IV to the total number of girls in the same classes?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "41:28",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "40:27",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "40:29",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "40:21",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "41:21",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "63693fc3dab3bbd6794edd09",
+          "questionNumber": 72,
+          "type": "mcq",
+          "text": "<p style=\"\">Find the difference between the total number of boys in classes I, III and V together and the total number of girls in classes II, IV and V together.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "100",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "112",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "104",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "114",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "124",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "6081539fcbb1fbb77d8c881c",
+          "questionNumber": 73,
+          "type": "mcq",
+          "text": "<p>Average age of P, Q and R is 90 years. When S joins them the average age becomes 86 years. A new person T whose age is 6 years more than S, replaces P and the average of Q, R, S and T becomes 84 years. What is the age of P?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "88 years&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "90 years&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "99 years&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "95 years&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "609e330d7d8cfcdfacabec22",
+          "questionNumber": 74,
+          "type": "mcq",
+          "text": "<p>The total area of a rectangle and a circle is 3970 cm<sup>2</sup>. The radius of the circle is equal to the semi perimeter of the triangle. The perimeter of the triangle is 70 cm and the length of the rectangle is 3/7<sup>th</sup> of the radius of the circle.&nbsp; Then, what is the ratio of the perimeter of the rectangle to the perimeter of the circle?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "23 : 110",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "33 : 115",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3 : 5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2 : 11",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        },
+        {
+          "id": "608eb7e0427f583552cc5ec6",
+          "questionNumber": 75,
+          "type": "mcq",
+          "text": "In an exam, Sonu got 156 marks which was 16 marks more than the pass marks. Rekha got 64% of marks which was 116 marks more than the pass marks. What is the minimum pass percentage in the exam?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "25%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "35%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "30%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "20%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Quantitative Aptitude"
+        }
+      ]
+    },
+    {
+      "id": "6a44c7f5087f33e295333580",
+      "name": "Professional Knowledge",
+      "durationMinutes": 20,
+      "maxMarks": 50,
+      "isProfessionalIT": true,
+      "questions": [
+        {
+          "id": "6a82bb357a9c042c0c86524a",
+          "questionNumber": 76,
+          "type": "mcq",
+          "text": "Planning is considered the ________ function of management because it provides the framework for all other managerial activities.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Secondary",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Tertiary",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Primary",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Final",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb35b73b1f784506b32c",
+          "questionNumber": 77,
+          "type": "mcq",
+          "text": "In the context of the management process, which resource is considered the most vital for achieving organizational effectiveness?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Financial Resources",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Material Resources",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Human Resources",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Technological Resources",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Natural Resources",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb36c83700da8a32ef00",
+          "questionNumber": 78,
+          "type": "mcq",
+          "text": "<div><span style='color: rgb(33, 37, 41);'>Which of the following is not an internal recruiting source?</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<div><span style='color: rgb(33, 37, 41);'>Employee Referrals</span></div>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<div><span style='color: rgb(33, 37, 41);'>Promotions</span></div>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<div><span style='color: rgb(33, 37, 41);'>Employee Recommendations</span></div>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<div><span style='color: rgb(33, 37, 41);'>Executive Search Firms</span></div>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb36681189ac9789ac93",
+          "questionNumber": 79,
+          "type": "mcq",
+          "text": "What are the three fundamental elements of coordination?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Planning, Organizing, and Controlling",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Balancing, Timing, and Integrating",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Managing, Directing, and Motivating",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Evaluating, Standardizing, and Directing",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Leading, Delegating, and Monitoring&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb36790bd622031aa6d2",
+          "questionNumber": 80,
+          "type": "mcq",
+          "text": "In controlling process, the next stage after setting performance standards is",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "measurement of actual performance",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "comparing actual performance with standards",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "analysing deviations",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "taking corrective action",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb37f1c829720e51a0a4",
+          "questionNumber": 81,
+          "type": "mcq",
+          "text": "_________ are the approaches to the study of leadership which emphasize the personality of the leader:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">Contingency theories</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Group theories</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Trait theories</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">Inspirational theories</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Behavioral theories",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb37be9390b897beaf4b",
+          "questionNumber": 82,
+          "type": "mcq",
+          "text": "Which management theory assumes that employees are inherently self-motivated, seek responsibility, and exercise self-direction?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Theory X",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Theory Y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Scientific Management",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Bureaucracy",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3760fa02a8e4a2677a",
+          "questionNumber": 83,
+          "type": "mcq",
+          "text": "Which characteristic of the organising function ensures that every structural decision and resource allocation is aligned with the specific objectives of the business?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Structure-Based Approach",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Goal-Oriented Process",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Flexibility and Adaptability",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Coordination and Specialization",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb38790bd622031aa6d7",
+          "questionNumber": 84,
+          "type": "mcq",
+          "text": "Which concept is described by Henry Fayol as the &#39;essence of management&#39; that binds all other functions together?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Cooperation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Coordination",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Centralization",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Command",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb38f76e63d45d4099d3",
+          "questionNumber": 85,
+          "type": "mcq",
+          "text": "<p>Which principle of Human Resource Management emphasizes achieving maximum output with minimum human fatigue?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Principle of Standardization",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Principle of Human Dignity",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Principle of Efficiency",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Principle of Equity",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Principle of Individual Development&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3850ebd36e1bd28615",
+          "questionNumber": 86,
+          "type": "mcq",
+          "text": "Which performance appraisal method involves gathering feedback from supervisors, peers, subordinates, and sometimes clients?<br />",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "&nbsp;Management by Objectives (MBO)<br />",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Critical Incident Method",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Behaviorally Anchored Rating Scales (BARS)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "360-Degree Feedback",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb38d9d9b7815c52c8f3",
+          "questionNumber": 87,
+          "type": "mcq",
+          "text": "Which of the following best represents an effective career development system in organizations?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Employees independently manage careers without organizational support",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Career progression is based solely on tenure</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Integration of individual career goals with organizational succession planning</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Promotions are based only on immediate performance outcomes</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb39462eedfcf0454f65",
+          "questionNumber": 88,
+          "type": "mcq",
+          "text": "Which of the following is not an importance of controlling function?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "It ensures order and discipline",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "It restricts co-ordination in action",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "It helps in judging accuracy of standards",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "It improves employee motivation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb397a9c042c0c865251",
+          "questionNumber": 89,
+          "type": "mcq",
+          "text": "Which of the following doesn&#39;t represent the &#39;Importance of Management&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "It creates a dynamic organisation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">It helps in achieving group goals</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "It&nbsp;increases efficiency",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "It helps in&nbsp;practice and creativity",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb39462eedfcf0454f68",
+          "questionNumber": 90,
+          "type": "mcq",
+          "text": "<span>In terms of Change Management, which one of the following statements is incorrect?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span>Organization that are not able to adjust to change may have difficult time in the future.</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span>Change Management takes place at both organizational and personnel level.</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span>The forces for change may come from the external and internal environment.</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span>Change Management comprises only evolutionary transformation.</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Resistance to change is a natural behavioral response that managers must anticipate.&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3a99bfc75c55820790",
+          "questionNumber": 91,
+          "type": "mcq",
+          "text": "Which of the following is not an organisational development intervention program?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Team building&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Survey feedback&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Leadership development&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sensitivity training&nbsp;&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3a16bf175c1dd9d808",
+          "questionNumber": 92,
+          "type": "mcq",
+          "text": "Which one of the following is not a job related performance data to identify the performance of an employee?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Attitude Surveys",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Late deliveries",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Grievances",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Absenteeism",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3a659c6290e9a51ecf",
+          "questionNumber": 93,
+          "type": "mcq",
+          "text": "<span>The Industrial Policy Resolution (1956), adopted during the Second Five Year Plan, aimed at which of the following?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span>Promoting only consumer goods industries</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span>Reducing public sector involvement</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span>Privatization of heavy industries</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span>Establishing a socialist pattern of society</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dismantling the industrial licensing system",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3b0d7dfbfdf881fbeb",
+          "questionNumber": 94,
+          "type": "mcq",
+          "text": "Which of the statements relating to the Grievance Redressal Committee under the Industrial Disputes Act, 1947 is not correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "It shall consist of equal number of members from among employer and workmen",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "&nbsp;It shall be constituted in an industrial establishment employing twenty or more workmen",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The Chairperson of the Committee shall be nominated by the Appropriate Government",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The total members of the Committee shall not be more than six",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Any workman aggrieved by the decision of the Committee can appeal to the employer within a stipulated timeframe.",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3bf607b15f4355de8b",
+          "questionNumber": 95,
+          "type": "mcq",
+          "text": "Which of the following is NOT the nature of employment in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Unfair wages",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Irregularity in employment",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Fair wages",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Inactively engaged in employment",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Absence of social security benefits",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3b734b44416f768c51",
+          "questionNumber": 96,
+          "type": "mcq",
+          "text": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"6295\" data-start=\"6208\">Which of the following statements regarding Organizational Culture are correct?</p>\n\n<p data-end=\"6547\" data-start=\"6297\">A.Artifacts are the most visible manifestation of culture.<br />\nB.Espoused values always correspond with enacted values.<br />\nC.Basic assumptions operate largely at the unconscious level.<br />\nD.Culture influences employees&#39; interpretation of organizational events.</p>\n\n<p data-end=\"6604\" data-start=\"6549\">Choose the correct answer from the options given below:</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A, C and D only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">A, B and D only</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">B, C and D only</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">A, B, C and D</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3c844e8460c38f1d9d",
+          "questionNumber": 97,
+          "type": "mcq",
+          "text": "Consider the following statements regarding organizational communication:<br />\nStatement 1: Formal communication is characterized by documentation and follows the official chain of command.<br />\nStatement 2: Informal communication, often called the &#39;Grapevine,&#39; is generally slower than formal communication because it lacks a structured path.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both statements are true.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both statements are false.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Statement 1 is true, but Statement 2 is false.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Statement 1 is false, but Statement 2 is true.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3c659c6290e9a51f3d",
+          "questionNumber": 98,
+          "type": "mcq",
+          "text": "Arrange the following initial steps of the Staffing process in their correct chronological sequence:<br />\nA. Recruitment<br />\nB. Selection<br />\nC. Estimating Manpower Requirements<br />\nD. Training and Development<br />\nChoose the correct answer from the options given below:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A, B, C, D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "C, A, B, D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B, C, A, D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A, C, B, D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">B, A, C, D</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3c35058c46062c62b8",
+          "questionNumber": 99,
+          "type": "mcq",
+          "text": "Regarding management as a profession, evaluate the following statements:<br />\nStatement 1: Management is a full-fledged profession like Medicine or Law because it has a compulsory licensing authority.<br />\nStatement 2: Management lacks a universally enforced, binding code of ethics that applies to all managers globally.<br />\nChoose the most appropriate answer from the options given below:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both statements are true.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both statements are false.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Statement 1 is true, but Statement 2 is false.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Statement 1 is false, but Statement 2 is true.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        },
+        {
+          "id": "6a82bb3d5b32b602dac40085",
+          "questionNumber": 100,
+          "type": "mcq",
+          "text": "Arrange the following levels of management in descending order of their authority and strategic responsibility:<br />\nA. Lower-Level Management<br />\nB. Top-Level Management<br />\nC. Middle-Level Management<br />\nChoose the correct answer from the options given below:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A, C, B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B, C, A",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C, B, A",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B, A, C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": null,
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Official explanation pending attempt sync.",
+          "topic": "Professional Knowledge"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T09:12:13.248Z",
+    "imagesPreserved": 0,
+    "answersIncluded": false,
+    "solutionsCount": 0
+  }
+}

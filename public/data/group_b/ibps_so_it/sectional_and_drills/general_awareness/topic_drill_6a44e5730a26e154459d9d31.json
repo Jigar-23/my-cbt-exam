@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e5730a26e154459d9d31",
+  "title": "General Awareness & Banking Industry Sectional Test 2",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a3d12c7d46a242bd3fd8727",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "On the occasion of its 23rd Foundation Day, which of the following is the primary purpose of the AI-Powered WHOIS Screening Platform launched by the National Internet Exchange of India (NIXI)?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "To manage the auctioning process of premium .IN domain names",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "To facilitate domain registrations in 22 different Indian languages",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "To enhance domain name security and strengthen the detection of suspicious websites",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "To track and promote the adoption of IPv6 across India's internet ecosystem",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "To provide real-time analytics on internet traffic and user demographics for websites using .IN domains",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>To enhance domain name security and strengthen the detection of suspicious websites</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>National Internet Exchange of India (NIXI)</strong> celebrated its <strong>23rd Foundation Day</strong> on June 19, 2026.</li><li>On this occasion, the Secretary of the <strong>Ministry of Electronics and Information Technology (MeitY)</strong> launched four new digital initiatives to boost transparency and security in India's internet ecosystem.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>AI-Powered WHOIS Screening Platform</strong>: This specific platform was launched to enhance <strong>domain name security</strong> and strengthen the detection of <strong>suspicious websites</strong>, thereby securing the <strong>.in domain space</strong>.</li><li>The other three portals launched include the <strong>IX Portal</strong>, <strong>myIRINN Portal</strong>, and the <strong>.IN Auction Portal</strong>.</li><li>These initiatives aim to improve <strong>operational efficiency</strong>, <strong>transparency</strong>, and monitoring processes across the internet infrastructure in India.</li><li>Hence, the correct option is the one related to security and detection of suspicious activity.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>NIXI</strong> currently manages over <strong>39 lakh+ .IN domain names</strong>.</li><li>It operates <strong>79 Internet Exchange Points (IXPs)</strong> across India.</li><li>India has reached approximately <strong>78.34% IPv6 adoption</strong>, making it a global leader in this transition.</li><li>NIXI also supports domain registrations in <strong>22 Indian languages</strong> to make the internet more inclusive.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>NIXI</strong> is a <strong>not-for-profit organization</strong> under the aegis of <strong>MeitY</strong>.</li><li>It manages the <strong>.IN and .भारत (.Bharat)</strong> country-code top-level domains.</li><li>The initiatives align with the vision of <strong>Viksit Bharat 2047</strong>, focusing on <strong>internet resilience</strong> and a secure digital ecosystem.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a33923653d6d90b9910c23e",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "In June 2026, Prime Minister Narendra Modi and French President Emmanuel Macron jointly inaugurated which landmark event in Nice, France?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "VivaTech 2026",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Bharat Innovates",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "G7 Summit",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "India-Slovakia Strategic Dialogue",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "India-EU Digital Partnership Summit",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Bharat Innovates</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Prime Minister <strong>Narendra Modi</strong> arrived in <strong>Nice</strong>, France, to begin a diplomatic tour that includes co-inaugurating the <strong>&lsquo;Bharat Innovates&rsquo;</strong> event with President <strong>Emmanuel Macron</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>&lsquo;Bharat Innovates&rsquo;</strong> event was held in <strong>Nice</strong> on <strong>June 14, 2026</strong>.</li>\n\t<li>The initiative is designed to connect <strong>India&rsquo;s leading start-ups</strong> with <strong>global investors</strong>.</li>\n\t<li>It aims to serve as an accelerator for innovations emerging from <strong>India&rsquo;s higher education ecosystem</strong>.</li>\n\t<li>The event is being held against the backdrop of the <strong>India-France Year of Innovation</strong>.</li>\n\t<li>While PM Modi will attend <strong>VivaTech</strong> and the <strong>G7 Summit</strong> during the same tour, <strong>&lsquo;Bharat Innovates&rsquo;</strong> is the specific event he will co-inaugurate in <strong>Nice</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>PM Modi&rsquo;s visit to <strong>Slovakia</strong> (Bratislava) is the first by an Indian Prime Minister since the country&rsquo;s independence in <strong>1993</strong>.</li>\n\t<li>In <strong>Paris</strong>, the Prime Minister will attend the <strong>VivaTech 2026</strong> summit, where India is set to have the <strong>largest national pavilion</strong>.</li>\n\t<li>The <strong>G7 Summit</strong>, which India has been invited to for the <strong>eighth consecutive time</strong>, is being held in <strong>Evian</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The bilateral relationship was elevated to a <strong>Special Global Strategic Partnership</strong> earlier in <strong>2026</strong> during President Macron&#39;s visit to India.</li>\n\t<li>India&rsquo;s participation in the <strong>G7 Summit</strong> is intended to give voice to the aspirations of the <strong>Global South</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2002615574fe27fdc347ec",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "On which date is the birth anniversary of Lokmata Ahilyabai Holkar observed, according to the tribute paid by the Prime Minister?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "May 25",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "May 31",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "June 05",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "April 30",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>May 31</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Prime Minister <strong>Shri Narendra Modi</strong> paid tributes to <strong>Lokmata Ahilyabai Holkar</strong> on her birth anniversary on <strong>May 31</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The birth anniversary of <strong>Lokmata Ahilyabai Holkar</strong> is observed on <strong>May 31</strong>.</li><li>The Prime Minister emphasized her <strong>wisdom, compassion, and unwavering commitment</strong> to public welfare.</li><li>Her life is considered an exemplary model of <strong>good governance, patriotism, and cultural pride</strong>.</li><li>She is particularly remembered for her <strong>unparalleled contribution</strong> to the <strong>reconstruction of sacred temples</strong> and pilgrimage sites across the country.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>She led with <strong>courage and a strong sense of duty</strong> to ensure justice for all.</li><li>Her dedication to <strong>society and culture</strong> is highlighted as a source of inspiration for every generation.</li><li>The Prime Minister noted that her work significantly <strong>strengthened India’s cultural consciousness</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The official tribute was shared by the <strong>PIB Delhi</strong> via the Prime Minister's Office.</li><li>The message was shared in multiple regional languages including <strong>Urdu, Marathi, Bengali, and Tamil</strong> to reflect the national reach of her legacy.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a200239c36a420de962744a",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "What is the total financial outlay approved by the Central Government for the umbrella scheme <strong>SARTHAK-PDS</strong> for the next five years?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 15,530 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 25,530 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 35,530 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 45,530 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 55,530 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs. 25,530 crore</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Cabinet Committee on Economic Affairs (CCEA)</strong>, chaired by Prime Minister <strong>Shri Narendra Modi</strong>, has approved the integration and continuation of two schemes under the umbrella scheme <strong>SARTHAK-PDS</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Financial Outlay:</strong> The Central Government has sanctioned an outlay of <strong>Rs. 25,530 crore</strong> as the Central share for the <strong>SARTHAK-PDS</strong> scheme for the next five years.</li>\n\t<li><strong>Integration of Schemes:</strong> The umbrella scheme integrates <strong>\"Assistance to State Agencies for intra-State movement of foodgrains and FPS dealers&rsquo; margin under NFSA\"</strong> and the <strong>\"Scheme for Modernization and Reforms through Technology in Public Distribution System (SMART PDS)\"</strong>.</li>\n\t<li><strong>Implementation Period:</strong> The merged scheme is set to operate during the <strong>16th Finance Commission</strong> cycle award period and will remain functional up to <strong>31.03.2031</strong>.</li>\n\t<li><strong>Beneficiaries:</strong> The initiative aims to support the government&#39;s commitment to provide food and nutritional security to <strong>81.35 crore persons</strong> covered under the <strong>National Food Security Act (NFSA), 2013</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Full Form:</strong> <strong>SARTHAK-PDS</strong> stands for <strong>Scheme for Assistance in Ration Transport and Handling-Income with Automation in PDS</strong>.</li>\n\t<li><strong>Technological Focus:</strong> The scheme seeks to optimize <strong>PDS</strong> operations using advanced technologies such as <strong>Artificial Intelligence (AI)</strong>, <strong>Machine Learning (ML)</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Blockchain</strong>.</li>\n\t<li><strong>Modernization:</strong> It includes the creation of <strong>State Command Control Centres</strong> for data-driven oversight and <strong>ISO-certified</strong> process frameworks to ensure transparency and security.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The core goal of <strong>SARTHAK-PDS</strong> is to ensure <strong>last-mile service delivery</strong>, minimize leakages, and provide assured financial support for handling and <strong>FPS dealer&#39;s margins</strong>.</li>\n\t<li>Since <strong>1st April 2023</strong>, the <strong>SMART PDS</strong> scheme has enabled complete digitization of ration cards and <strong>FPS automation</strong> through <strong>e-PoS</strong> across 36 States/UTs.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2bae2fe38a9ed6436bb5c8",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which initiative was awarded the <strong>2026 Food Planet Prize</strong>, the world’s largest environmental award for food systems, receiving a prize of <strong>USD 1.5 million</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Conscious Kitchen",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "NoPalm Ingredients",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "AP Community Managed Natural Farming (APCNF)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Savanna Institute",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Global Food Security Project",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>AP Community Managed Natural Farming (APCNF)</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>AP Community Managed Natural Farming (APCNF)</strong> programme has won the prestigious <strong>2026 Food Planet Prize</strong> for its nature-positive global farming model.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>Food Planet Prize</strong> is considered the world’s largest environmental award focused on transforming global food systems.</li><li>The award, worth <strong>USD 1.5 million</strong> (approximately <strong>Rs 14 crore</strong>), was presented by the <strong>Curt Bergfors Foundation</strong> on <strong>June 2</strong> in <strong>Båstad, Sweden</strong>.</li><li><strong>APCNF</strong> emerged as the winner among four global finalists. The other three finalists—<strong>Conscious Kitchen (US)</strong>, <strong>NoPalm Ingredients (Netherlands)</strong>, and <strong>Savanna Institute (US)</strong>—received <strong>USD 150,000</strong> each.</li><li>The jury praised <strong>APCNF</strong> for its nature-positive model, which has helped <strong>1.8 million farmers</strong> in <strong>8,000 villages</strong> adopt natural farming over the last decade.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>Executive Vice Chairman <strong>T Vijay Kumar</strong> attributed the success to <strong>women’s Self-Help Groups (SHGs)</strong> and rural communities.</li><li>Chief Minister <strong>N Chandrababu Naidu</strong> hailed the award as a <strong>first for India</strong>.</li><li>The programme is recognized as one of the world’s largest <strong>agroecology movements</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The Andhra Pradesh government has pledged to make the state a <strong>100% natural farming State by 2047</strong>.</li><li>The <strong>Food Planet Prize</strong> recognition reflects the alignment of <strong>government policy</strong>, <strong>scientific knowledge</strong>, and <strong>community institutions</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69cbc84e04d30b31eaa74a8c",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "The Depositor Education and Awareness (DEA) Fund in India, aimed at promoting depositor awareness, is maintained by which regulatory body?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ministry of Finance",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "RBI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "SEBI",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "NITI Aayog",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Ministry of Home Affairs",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>RBI.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Depositor Education and Awareness Fund is maintained by the Reserve Bank of India.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Reserve Bank of India</strong> maintains the <strong>Depositor Education and Awareness Fund</strong> using unclaimed deposits transferred from banks after 10 years of dormancy.</li>\n\t<li>This fund supports initiatives to educate depositors on safe banking practices and financial literacy programs across India.</li>\n\t<li>Banks must transfer the amount of unclaimed deposits along with interest to the DEA Fund on a quarterly basis as per RBI guidelines.</li>\n\t<li>The RBI utilizes the fund for nationwide awareness campaigns, workshops, and materials to prevent fraud and enhance depositor protection.</li>\n\t<li>Any claimant whose deposit is transferred to the fund can still approach their bank for reimbursement, which then recovers from the RBI.</li>\n\t<li>The DEA Fund was established under Section 26A of the Banking Regulation Act, 1949, to ensure public money benefits education efforts.</li>\n\t<li>As of recent updates, the fund has grown significantly, enabling expanded RBI-led financial literacy drives in rural and urban areas.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><u><strong>Reserve Bank of India</strong></u> serves as India&#39;s central bank regulating monetary policy and banking operations.\n\n\t<ul>\n\t\t<li>Established in - 1935</li>\n\t\t<li>HQ - Mumbai</li>\n\t\t<li>Governor - Sanjay Malhotra</li>\n\t</ul>\n\t</li>\n\t<li>Unclaimed deposits refer to balances in inactive accounts where the depositor has not transacted for over 10 years.</li>\n\t<li>RBI&#39;s financial literacy centers operate nationwide to disseminate knowledge on banking products and risks.</li>\n\t<li>The fund excludes amounts from current accounts, foreign currency deposits, and certain exempted categories.</li>\n\t<li>Banks report unclaimed deposit data to RBI annually for transparency and monitoring purposes.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a200234a559b63dc25683ad",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "What is the primary objective of the Memorandum of Understanding (MoU) signed between the Reserve Bank of India (RBI) and the State Bank of Vietnam (SBV) on May 5, 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Establishing a joint sovereign wealth fund for infrastructure projects",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Creating a unified maritime security framework for the South China Sea",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Promoting cooperation in financial innovation and digital payments",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Setting up a bilateral trade corridor for agricultural exports",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Developing a unified physical credit card network for bilateral commodity trade",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Promoting cooperation in financial innovation and digital payments</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>On <strong>May 5, 2026</strong>, the <strong>Reserve Bank of India (RBI)</strong> and the <strong>State Bank of Vietnam (SBV)</strong> signed a Memorandum of Understanding (MoU) to strengthen bilateral cooperation in the financial sector.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The core focus of the MoU is to promote cooperation in <strong>financial innovation</strong> and <strong>digital payments</strong>.</li><li>It includes <strong>information sharing</strong>, <strong>regulatory coordination</strong>, and the development of <strong>payment system connectivity</strong> for <strong>cross-border QR Code-based merchant payments</strong>.</li><li>The agreement aims to facilitate <strong>real-time</strong>, <strong>cost-efficient</strong>, and <strong>transparent</strong> cross-border transactions between India and Vietnam.</li><li>The other options, such as sovereign wealth funds, maritime security, or agricultural corridors, are not mentioned as objectives of this specific MoU between the two central banks.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The MoU was signed by the <strong>Deputy Governor</strong> of the <strong>Reserve Bank of India</strong> and the <strong>Deputy Governor</strong> of the <strong>State Bank of Vietnam</strong>.</li><li>The agreement received the formal approval of the <strong>Union Cabinet</strong> prior to the signing.</li><li>The scope covers <strong>emerging market trends</strong>, <strong>standards</strong>, and <strong>best practices</strong> in digital payments and innovative technologies.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>This partnership is expected to position <strong>India as a major fintech hub</strong> and enhance <strong>trade and tourism</strong> between the two nations.</li><li>The framework envisages a mechanism for <strong>cooperation and information exchange</strong> in the area of <strong>fast payment systems</strong>, <strong>messaging systems</strong>, and <strong>card switches</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20023aa559b63dc25683ce",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Which ministry&#39;s services have been proposed as a new addition to the focus sectors under the NeSDA 2025 assessment framework?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ministry of Civil Aviation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Ministry of Corporate Affairs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Ministry of Rural Development",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ministry of External Affairs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Ministry of Communications",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Ministry of Corporate Affairs</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Department of Administrative Reforms and Public Grievances (DARPG)</strong> launched the portal for the <strong>National e-Governance Service Delivery Assessment (NeSDA) 2025</strong> on <strong>May 28, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Expansion of Scope:</strong> The framework for <strong>NeSDA 2025</strong> proposes an expansion of focus sectors with the specific addition of services from the <strong>Ministry of Corporate Affairs</strong>.</li>\n\t<li><strong>Service Coverage:</strong> In the 2025 cycle, a total of <strong>59 mandatory services</strong> will be assessed for every <strong>State &amp; UT</strong>, and <strong>43 services</strong> will be assessed for <strong>Central Ministries/Departments</strong>.</li>\n\t<li><strong>Sectoral Focus:</strong> The framework already covers sectors such as <strong>Finance</strong>, <strong>Labour &amp; Employment</strong>, <strong>Education</strong>, <strong>Local Governance</strong>, <strong>Social Welfare</strong>, <strong>Environment</strong>, <strong>Tourism</strong>, and <strong>Transport</strong>.</li>\n\t<li><strong>Purpose:</strong> The assessment aims to measure the <strong>depth and effectiveness</strong> of online service delivery mechanisms from a <strong>citizen&rsquo;s perspective</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Framework Basis:</strong> NeSDA is based on the <strong>Online Service Index (OSI)</strong> of the <strong>UN e-Government Survey</strong> and is customized for the <strong>Indian federal structure</strong>.</li>\n\t<li><strong>Frequency:</strong> It is a <strong>biennial assessment</strong> (conducted every two years) to benchmark e-Governance progress.</li>\n\t<li><strong>Portal Categories:</strong> Assessed portals are classified into <strong>State/UT/City/Central Ministry Portals</strong> and <strong>Service Portals</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Assessment Parameters:</strong> Key parameters include <strong>Accessibility</strong>, <strong>Ease of Use</strong>, <strong>Information Security and Privacy</strong>, <strong>Integrated Service Delivery</strong>, <strong>Open Government Data (OGD)</strong>, and <strong>Leveraging Emerging Technologies</strong>.</li>\n\t<li><strong>Digital Governance:</strong> NeSDA helps in identifying <strong>gaps</strong> and promoting <strong>best practices</strong> to improve the user experience for citizens accessing public services online.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3390c11dbdc1c1604af57d",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "According to the data released by the Commerce Ministry, what was the total value of India&#39;s merchandise exports during the cumulative period of April-May 2026-27?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "$45.2 billion",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "$73.41 billion",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "$88.91 billion",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "$28.21 billion",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "$95.67 billion",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>$88.91 billion</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>India&#39;s <strong>merchandise exports</strong> registered a significant growth in <strong>May 2026</strong>, while the <strong>trade deficit</strong> widened due to higher imports.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>India&#39;s merchandise exports</strong> reached <strong>$88.91 billion</strong> during the <strong>April-May 2026-27</strong> period, marking a <strong>16.09 per cent growth</strong> over the same period in the previous year.</li>\n\t<li>The exports for the single month of <strong>May 2026</strong> stood at <strong>$45.2 billion</strong>, which is an <strong>18 per cent</strong> increase.</li>\n\t<li><strong>Imports</strong> in <strong>May 2026</strong> grew by <strong>20.62 per cent</strong> to reach <strong>$73.41 billion</strong>.</li>\n\t<li>The <strong>trade deficit</strong> for <strong>May 2026</strong> was recorded at <strong>$28.21 billion</strong>.</li>\n\t<li>Hence, the value of <strong>$88.91 billion</strong> specifically refers to the cumulative exports for the <strong>April-May</strong> period of the <strong>2026-27</strong> fiscal year.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>West Asia Trade:</strong> Exports to <strong>West Asia</strong> in <strong>May 2026</strong> saw a marginal decline, reaching <strong>$5.30 billion</strong> compared to <strong>$5.38 billion</strong> in <strong>May 2025</strong>.</li>\n\t<li>The data was provided by Commerce Secretary <strong>Rajesh Agrawal</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Monthly Export Growth:</strong> 18% (May 2026).</li>\n\t<li><strong>Cumulative Export Growth (April-May):</strong> 16.09%.</li>\n\t<li><strong>May 2026 Trade Deficit:</strong> $28.21 billion.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20026210122b6c63748442",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Which of the following players were among the award winners in the 2026 Indian Premier League (IPL)?<br><br>1. <strong>Vaibhav Sooryavanshi</strong><br>2. <strong>Kagiso Rabada</strong><br>3. <strong>Sai Sudharsan</strong><br>4. <strong>Mohammed Siraj</strong><br><br>Select the answer using the code given below:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 and 2 only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1, 2 and 4 only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1, 2, 3 and 4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2, 3 and 4 only",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1 and 3 only",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1, 2, 3 and 4</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>2026 Indian Premier League (IPL)</strong> concluded on <strong>May 31, 2026</strong>, with <strong>Royal Challengers Bengaluru (RCB)</strong> winning the title for the second consecutive year.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Vaibhav Sooryavanshi (Rajasthan Royals):</strong> He secured multiple awards including the <strong>Orange Cap</strong> (776 runs), <strong>Most Valuable Player (MVP)</strong> (436.5 points), and <strong>Emerging Player</strong> award. He also won <strong>Super Striker</strong> and <strong>Super Sixes</strong> awards.</li><li><strong>Kagiso Rabada (Gujarat Titans):</strong> He was the recipient of the <strong>Purple Cap</strong> for taking the most wickets (<strong>29 wickets</strong>) in the season.</li><li><strong>Sai Sudharsan (Gujarat Titans):</strong> He won the award for hitting the <strong>Most Fours</strong> in the 2026 season, totaling <strong>75 fours</strong>.</li><li><strong>Mohammed Siraj (Gujarat Titans):</strong> He received the <strong>Green Dot Ball Award</strong> for bowling <strong>172 dot balls</strong> during the tournament.</li><li>Since all four players listed in the question received individual awards, the correct code is <strong>1, 2, 3 and 4</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Manish Pandey (RCB)</strong> won the <strong>Catch of the Season</strong> for his one-handed catch to dismiss Tim David.</li><li><strong>Punjab Kings</strong> received the <strong>Fair Play Award</strong> for their exemplary conduct on the field.</li><li>The <strong>Cricket Association of Bengal</strong> won the Pitch & Ground award for venues hosting 5+ matches, while the <strong>Himachal Pradesh Cricket Association</strong> won for venues hosting fewer than 4 matches.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Royal Challengers Bengaluru (RCB)</strong> defeated <strong>Gujarat Titans (GT)</strong> by <strong>5 wickets</strong> in the final held at the <strong>Narendra Modi Stadium, Ahmedabad</strong>.</li><li><strong>Virat Kohli</strong> was named the <strong>Player of the Match</strong> in the final.</li><li><strong>Vaibhav Sooryavanshi</strong> made history as the <strong>youngest player</strong> to win the Orange Cap (15 years old) and the first to achieve the <strong>MVP + Emerging Player</strong> double in a single season.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "690828da11d05e988d2a33a6",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "DigiLocker, a flagship initiative under the Digital India program aimed at providing citizens with a secure platform to store and access important documents digitally, is developed by which organisation responsible for promoting e-governance in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ministry of Home Affairs",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "National e-Governance Division",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "NITI Aayog",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Unique Identification Authority of India",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "National Informatics Centre",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>National e-Governance Division (NeGD).</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>DigiLocker, under the Digital India program, is developed and managed by the National e-Governance Division (NeGD) to provide a secure digital document storage and sharing platform for Indian citizens.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>DigiLocker </strong>is a key initiative of the Government of India&rsquo;s Digital India program launched to empower citizens with digital document management.</li>\n\t<li>The platform enables storage, access, and sharing of government-issued documents and certificates in a digital locker linked to the Aadhaar identity.</li>\n\t<li>It is developed and maintained by the <strong>National e-Governance Division (NeGD),</strong> an autonomous arm under the Ministry of Electronics and Information Technology (MeitY).</li>\n\t<li>The National e-Governance Division (NeGD) also provides technical and policy support to various e-governance projects across India.</li>\n\t<li>DigiLocker enhances citizen convenience by eliminating the need for physical document submission during various services.</li>\n\t<li>The initiative promotes paperless governance, improves transparency, and facilitates secure data exchange among departments.</li>\n\t<li>DigiLocker complies with security standards and includes features like digital signatures and secure access.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>National e-Governance Division (NeGD) operates under the Ministry of Electronics and Information Technology (MeitY), India.</li>\n\t<li>DigiLocker leverages Aadhaar-based authentication to provide secure access to documents.</li>\n\t<li>The platform supports digital sharing of documents with government and private agencies, reducing fraud risk.</li>\n\t<li>NeGD also oversees other e-governance initiatives like the Common Services Centres (CSC) and e-District projects.</li>\n\t<li>DigiLocker was launched in 2015 and has since expanded to include over hundreds of government departments and private service providers.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3390c1bbe923b0aedd566d",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "<p>According to the World Bank assessment released in June 2026, what is the projected GDP growth rate for <strong>India</strong> for the year <strong>2026</strong>?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "6.6%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4.2%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2.5%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">9%</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>6.6%</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>World Bank</strong> has released its updated global growth forecast, maintaining <strong>India</strong> as the world&#39;s fastest-growing major economy despite a downgrade in the global outlook.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>India&#39;s Growth:</strong> The World Bank projected <strong>India&#39;s GDP growth</strong> at <strong>6.6%</strong> for the year <strong>2026</strong>. This follows a <strong>7% expansion</strong> projected for <strong>2025</strong>.</li>\n\t<li><strong>Global Growth:</strong> The lender cut the global growth forecast for <strong>2026</strong> to <strong>2.5%</strong>, primarily due to geopolitical tensions and the conflict in the <strong>Middle East</strong> involving <strong>Iran</strong>.</li>\n\t<li><strong>Comparison with China:</strong> While India is expected to grow at 6.6%, <strong>China&#39;s economy</strong> is forecast to grow at <strong>4.2%</strong> in 2026.</li>\n\t<li><strong>Risk Factors:</strong> The report warns that global growth could further slow to <strong>1.3%</strong> if energy supply disruptions, particularly related to the <strong>Strait of Hormuz</strong>, intensify.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Oil Price Assumptions:</strong> The baseline scenario assumes <strong>Brent crude oil</strong> prices will average <strong>$94 per barrel</strong> this year, a <strong>36% increase</strong> from 2025 levels.</li>\n\t<li><strong>Regional Slump:</strong> The <strong>MENA</strong> (Middle East, North Africa, Afghanistan, and Pakistan) region&#39;s growth forecast was slashed to <strong>1.6%</strong> for 2026, down from 4% in 2025.</li>\n\t<li><strong>Major Economies:</strong> Growth in the <strong>United States</strong> is forecast at <strong>2.2%</strong>, the <strong>euro zone</strong> at <strong>0.8%</strong>, and <strong>Japan</strong> at <strong>0.7%</strong> for 2026.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>World Bank Chief Economist <strong>Indermit Gill</strong> stated that India is expected to remain a high-growth economy for the next <strong>two decades</strong>.</li>\n\t<li>The <strong>World Bank</strong> highlighted that the global economy today is <strong>less resilient</strong> than it was in <strong>2008</strong> or <strong>2018</strong> due to persistent policy uncertainty and high interest rates.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a193829da7a3028517c009b",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "What is the primary objective of the eight-member &#39;Q-SAFE&#39; committee recently constituted by the Reserve Bank of India (RBI)?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "To establish a national cryptocurrency framework for inter-bank settlements",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "To evaluate quantum technology risks and recommend a roadmap for a secure financial ecosystem",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "To mandate the transition of all digital payments to a quantum-linked blockchain network",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "To design a quantum-powered firewall exclusively for the Reserve Bank&#39;s internal data centers",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "To oversee the installation of biometric verification hardware across physical ATMs",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>To evaluate quantum technology risks and recommend a roadmap for a secure financial ecosystem</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Reserve Bank of India (RBI)</strong> has formed the <strong>Q-SAFE</strong> committee to assess <strong>quantum technology risks</strong> and evaluate the financial sector&#39;s preparedness.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Q-SAFE:</strong> The acronym stands for <strong>Quantum Secure and Adaptive Financial Ecosystem</strong>.</li>\n\t<li><strong>Primary Objective:</strong> The <strong>eight-member</strong> expert committee is tasked with exploring the potential <strong>benefits, risks, and challenges</strong> of quantum technology in the financial sector. It will specifically recommend a <strong>roadmap and framework</strong> to secure the Indian financial system.</li>\n\t<li><strong>Risk Assessment:</strong> The panel will examine vulnerabilities in <strong>existing cryptographic systems</strong> and evaluate the <strong>cryptographic inventory</strong> through a <strong>Cryptography Bill of Materials (CBOM)</strong>.</li>\n\t<li><strong>Preparedness:</strong> It will assess <strong>industry preparedness</strong> for adopting <strong>quantum-safe cryptography</strong>, including the maturity of vendor tools. Hence, the correct answer focuses on risk evaluation and the creation of a secure roadmap.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Composition:</strong> The committee includes members like <strong>Anil Prabhakar</strong> (IIT Madras), <strong>Sunil Kumar</strong> (DST), <strong>Satish Rao Nagesh</strong> (SBI), and <strong>Dilip Asbe</strong> (NPCI).</li>\n\t<li><strong>Timeline:</strong> The committee is expected to submit its report within <strong>six months</strong> of its first meeting.</li>\n\t<li><strong>Quantum Mechanics:</strong> Quantum technology leverages principles such as <strong>superposition</strong> and <strong>entanglement</strong> to solve complex financial problems like portfolio optimization and risk assessment.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Cryptographic Standards:</strong> A major concern cited by the RBI is that quantum technologies could undermine <strong>certain existing cryptographic standards</strong> currently used to protect financial data.</li>\n\t<li><strong>Cross-country Analysis:</strong> The panel will also undertake a <strong>cross-country analysis</strong> and assess the adequacy of <strong>regulatory frameworks</strong> for quantum application deployment.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2002367319d718a25c95e8",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "What was the total gross Goods and Services Tax (GST) collection recorded in May 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "₹1.67 lakh crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "₹1.88 lakh crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "₹1.94 lakh crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "₹2.43 lakh crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "₹2.15 lakh crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>₹1.94 lakh crore</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Gross <strong>GST collections</strong> in <strong>May 2026</strong> rose by <strong>3.2%</strong> to exceed <strong>₹1.94 lakh crore</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>₹1.94 lakh crore</strong>: This was the total <strong>gross GST collection</strong> reported for the month of <strong>May 2026</strong>, driven by improved supplies and imports.</li>\n\t<li><strong>₹1.88 lakh crore</strong>: This represents the <strong>gross GST collection</strong> recorded in the same month of the previous year (<strong>May 2025</strong>).</li>\n\t<li><strong>₹1.67 lakh crore</strong>: This was the <strong>net GST revenue</strong> in May 2026 after adjusting for <strong>refunds</strong>, showing a <strong>3.3%</strong> growth.</li>\n\t<li><strong>₹2.43 lakh crore</strong>: This figure refers to the <strong>all-time high</strong> GST mop-up recorded in <strong>April 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Breakdown of May 2026 collections: <strong>CGST</strong> stood at <strong>₹37,397 crore</strong>, <strong>SGST</strong> at <strong>₹45,143 crore</strong>, and <strong>IGST</strong> at <strong>₹51,990 crore</strong> from domestic transactions.</li>\n\t<li><strong>IGST from imports</strong> rose by <strong>19.1%</strong> to reach <strong>₹59,654 crore</strong>, indicating an expansion in industrial capacity.</li>\n\t<li><strong>GST refunds</strong> during this period grew by <strong>2.6%</strong> to <strong>₹27,281 crore</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The <strong>taxable supplies of goods</strong> grew significantly by <strong>26.9%</strong>, reflecting strong <strong>domestic demand</strong>.</li>\n\t<li>The <strong>services sector</strong> saw a growth of <strong>22.2%</strong> in taxable supplies, demonstrating <strong>structural resilience</strong> in domestic consumption.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2bae2ed7c0bdddb746a2fa",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "Which nodal laboratory of the Defence Research & Development Organisation (DRDO) was primarily responsible for the indigenous development of the RudraM-II Air-to-Surface Missile?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Defence Research and Development Laboratory (DRDL)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Research Centre Imarat (RCI), Hyderabad",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "High Energy Materials Research Laboratory (HEMRL)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Armament Research & Development Establishment (ARDE)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Combat Vehicles Research and Development Establishment (CVRDE)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Research Centre Imarat (RCI), Hyderabad</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Defence Research & Development Organisation (DRDO)</strong> and the <strong>Indian Air Force (IAF)</strong> successfully conducted flight-tests of the <strong>RudraM-II Air-to-Surface Missile</strong> from an airborne platform.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>RudraM-II</strong> has been indigenously developed by the <strong>Research Centre Imarat (RCI), Hyderabad</strong>, serving as the <strong>nodal DRDO laboratory</strong> for this project.</li><li>The development was carried out in collaboration with sister laboratories, including the <strong>Defence Research and Development Laboratory (DRDL)</strong>, <strong>High Energy Materials Research Laboratory (HEMRL)</strong>, and <strong>Armament Research & Development Establishment (ARDE)</strong>.</li><li>The missile tests were conducted under <strong>extreme release conditions</strong>, and it successfully hit a <strong>predefined target</strong> with <strong>pin-point accuracy</strong>.</li><li>Flight data for the mission was captured by range instruments at the <strong>Integrated Test Range (ITR), Chandipur</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>Significant contributions were made by <strong>Hindustan Aeronautics Limited (HAL)</strong>, <strong>Regional Centre for Military Airworthiness</strong>, and the <strong>Missile System Quality Assurance Agency</strong>.</li><li><strong>Development cum Production Partners (DcPPs)</strong> and various private industries also played a crucial role in the missile's development and testing.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The successful test demonstrates the <strong>maturity of indigenous defence technologies</strong> and supports the <strong>Aatmanirbharta</strong> (self-reliance) initiative in <strong>advanced weapon systems</strong>.</li><li>The <strong>RudraM-II</strong> is an <strong>Air-to-Surface Missile</strong>, a critical component for the <strong>Indian Air Force's</strong> offensive capabilities.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2bac26e4e2d5b390a68325",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "According to the announcement by the Ministry of Commerce & Industry, the base year for the Wholesale Price Index (WPI) has been revised from 2011–12 to which of the following years?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2019–20",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2020–21",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2021–22",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2022–23",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>2022–23</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n<ul>\n  <li>The <strong>Ministry of Commerce & Industry</strong> announced that the competent authority approved the revision of the <strong>Base Year</strong> of the <strong>Wholesale Price Index (WPI)</strong> from <strong>2011-12 to 2022-23</strong> on May 25, 2026.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n<ul>\n  <li>The <strong>Office of Economic Adviser, DPIIT</strong>, will release the revised series of WPI with the base year <strong>2022-23</strong> on <strong>June 15, 2026</strong>.</li>\n  <li>The new series will replace the existing series that used <strong>2011-12</strong> as the base year.</li>\n  <li>The number of items in the WPI basket has been increased from <strong>697 to 957</strong> in the new <strong>2022-23</strong> series.</li>\n  <li>The transition aims to align price measurement with current economic realities and global best practices recommended by the <strong>International Monetary Fund (IMF)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<ul>\n  <li>Along with WPI, the government is introducing <strong>Producer Price Indices (PPIs)</strong>, including <strong>Output PPI</strong>, <strong>Input PPI</strong>, and <strong>Service PPI</strong> for seven specific services.</li>\n  <li>The <strong>Service PPI</strong> covers sectors like <strong>Banking, Securities Transaction, Insurance, Management of Pension Funds, Railways, Air (Passenger), and Telecom</strong>.</li>\n  <li>New and renewable energy sources such as <strong>Solar, Wind, and Nuclear electricity</strong> have been added to the 'Electricity' group in the revised WPI.</li>\n  <li><strong>Crude Petroleum and Natural Gas</strong> have been shifted from 'Primary Articles' to the <strong>'Fuel and Power'</strong> group for better alignment.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n<ul>\n  <li>The revised WPI will be released for <strong>five years</strong> alongside the PPI to allow users to switch between the indices before WPI is eventually discontinued.</li>\n  <li>The methodology for weights has shifted from <strong>Net Traded Value</strong> to <strong>Gross Value of Output (GVO)</strong>, which better reflects domestic production significance.</li>\n  <li>A <strong>Linking Factor</strong> based on the financial year <strong>2024-25</strong> will be provided to connect the old and new series.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12c6e2f2ed35b0cee095",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<p>Consider the following statements regarding the <strong>&#39;PFRDA Pension Sahayak&#39;</strong> portal:</p>\n\n<p>A. It is an <strong>AI-powered</strong> platform that supports <strong>22 Indian languages</strong> and enables <strong>voice-based grievance submission</strong> for pension subscribers.<br />\nB. The platform includes an <strong>automated escalation mechanism</strong> for grievances that are not resolved within the prescribed timelines.</p>\n\n<p>Which of the above statements is/are correct?</p>\n\n<p>Select the code for the correct answer from the options given below:</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neither A nor B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The platform is exclusively available to government employees and does not cater to private sector pension subscribers.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Both A and B</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Pension Fund Regulatory and Development Authority (PFRDA)</strong> has launched an <strong>AI-enabled</strong> grievance redressal platform called <strong>&#39;PFRDA Pension Sahayak&#39;</strong> to enhance digital transformation in the pension sector.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement A is correct:</strong> The <strong>&#39;PFRDA Pension Sahayak&#39;</strong> platform integrates with <strong>Bhashini</strong> to support <strong>22 Indian languages</strong>. It allows for <strong>voice-based grievance filing</strong>, specifically designed to make pension services more accessible for senior citizens and rural subscribers.</li>\n\t<li><strong>Statement B is correct:</strong> A key functional feature of the portal is the <strong>automated escalation mechanism</strong>. This ensures that any grievances not resolved within the <strong>prescribed timelines</strong> are automatically escalated to higher levels, thereby increasing <strong>accountability</strong> and ensuring timely resolution.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The platform aligns with the principles of <strong>accessibility, transparency, and accountability</strong> as envisioned under the Centre&#39;s <strong>NextGen CPGRAMS</strong>.</li>\n\t<li>Subscribers can receive responses in their <strong>preferred regional language</strong> and utilize <strong>audio-based communication</strong> for better inclusivity.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The initiative marks a significant step toward <strong>citizen-centric digital governance</strong>.</li>\n\t<li>It integrates multiple <strong>pension service touchpoints</strong> into a single, unified <strong>digital ecosystem</strong>.</li>\n\t<li>The <strong>PFRDA</strong> is the primary regulatory body overseeing these enhancements for pension subscribers across <strong>India</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12c6c857bb6ce6024a1d",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "What is the annual interest rate offered by Federal Bank on its newly launched 'FCNR Max Deposit Scheme' for US dollar-denominated deposits?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "5.25% per annum",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "6.25% per annum",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "7.25% per annum",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "4.25% per annum",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "8.25% per annum",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>6.25% per annum</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>Federal Bank</strong> has launched a new US dollar-denominated <strong>FCNR Max Deposit Scheme</strong> on <strong>June 16, 2026</strong>, to tap into <strong>NRI (Non-Resident Indian)</strong> investment demand.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>FCNR Max Deposit Scheme</strong> offers a fixed annual return of <strong>6.25%</strong> for <strong>US dollar-denominated</strong> deposits.</li><li>The tenure for these deposits ranges between <strong>three and five years</strong>.</li><li>The scheme is specifically designed for <strong>NRI customers</strong> looking for higher-yield investment avenues while maintaining exposure to foreign currency.</li><li>This initiative is part of the bank's strategy to strengthen its <strong>NRI deposit franchise</strong> amid evolving global interest rate dynamics.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The scheme includes a <strong>lock-in period of one year</strong> from the date of opening.</li><li>If deposits are withdrawn after the lock-in period but before maturity, the interest will be paid at a rate <strong>1% below the applicable rate</strong> for the actual period the deposit remained with the bank.</li><li><strong>Federal Bank</strong> has an international presence with representative offices in <strong>Dubai</strong> and <strong>Abu Dhabi</strong>, and an <strong>IFSC Banking Unit</strong> at <strong>GIFT City</strong>.</li><li>As of <strong>March 31, 2026</strong>, the bank reported a total business mix (deposits and advances) of <strong>₹5.78 lakh crore</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Joy P. V.</strong> is the <strong>Country Head – Retail Liabilities</strong> at Federal Bank.</li><li>The bank operates more than <strong>1,600 banking outlets</strong> across India.</li><li>The product aims to provide <strong>value and reliability</strong> in foreign currency investments for the NRI clientele.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12e55eb98e400981acdc",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "To which African country is the <strong>51st locomotive engine</strong>, manufactured at the <strong>Marhowrah plant</strong> in Bihar, being exported under the 'Make in India' initiative?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ethiopia",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Guinea",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Nigeria",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sudan",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Kenya",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Guinea</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Minister of Railways <strong>Ashwini Vaishnaw</strong> announced a record railway budget of over <strong>Rs 10,000 crore</strong> for Bihar and highlighted the state's growing role in global exports.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The Minister noted that <strong>Bihar</strong> has become a hub for global locomotive exports under the <strong>'Make in India'</strong> initiative.</li><li>The <strong>51st locomotive engine</strong> manufactured at the <strong>Marhowrah plant</strong> in Bihar is scheduled to be exported to the African nation of <strong>Guinea</strong>.</li><li>The export signifies the technical capability and manufacturing strength of the railway sector in the state of Bihar.</li><li>Other options like <strong>Ethiopia</strong>, <strong>Nigeria</strong>, and <strong>Sudan</strong> are incorrect as the specific news report mentions only <strong>Guinea</strong> as the recipient of the 51st locomotive.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>Total ongoing railway projects in <strong>Bihar</strong> are valued at approximately <strong>Rs 1.15 lakh crore</strong>.</li><li>A new station with <strong>five new platforms</strong> is being developed at <strong>Hardinge Park</strong> in the Patna area to increase capacity.</li><li>A new express train service has been launched connecting <strong>Chhapra</strong> to <strong>Delhi</strong>, fulfilling a long-standing demand of the region.</li><li>Development projects are also underway at <strong>Fatuha</strong> near Patna.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The railway budget allocation for Bihar (<strong>Rs 10,000 crore</strong>) represents a record high for the state's rail infrastructure development.</li><li>The <strong>Marhowrah plant</strong> is a critical facility for the production of high-capacity locomotives intended for both domestic use and <strong>international export</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20023c6e7df9b9be68f453",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "Who emerged as the winner of the <strong>2026 Scripps National Spelling Bee</strong> title after a dramatic 90-second lightning-round tiebreaker?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ishaan Gupta",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sohum Sukhatankar",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Shrey Parikh",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sarv Dharavane",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dev Shah",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Shrey Parikh</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Indian-origin teenager <strong>Shrey Parikh</strong> won the <strong>2026 Scripps National Spelling Bee</strong> title in a dramatic fashion in the United States.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Shrey Parikh</strong>, a 14-year-old from <strong>Rancho Cucamonga</strong>, California, secured the championship by winning a 90-second <strong>\"spell-off\"</strong> tiebreaker.</li>\n\t<li>He correctly spelled <strong>32 words</strong> during the decisive round, while his opponent <strong>Ishaan Gupta</strong> managed 25 words.</li>\n\t<li>For his victory, Shrey received a prize money of <strong>$52,500</strong>, which is approximately <strong>Rs 50 lakh</strong>.</li>\n\t<li>The competition involved high-pressure scenarios where Shrey demonstrated years of intense preparation and elite coaching.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Shrey Parikh&#39;s family immigrated to the United States from <strong>Telangana</strong>, India.</li>\n\t<li>Shrey had previously finished tied for <strong>89th place</strong> in 2022 and joint <strong>third-place</strong> in 2024.</li>\n\t<li>He was coached by <strong>Sam Evans</strong> (who coached the last three champions) and <strong>Sohum Sukhatankar</strong> (2019 co-champion).</li>\n\t<li>Apart from spelling, Shrey is a percussionist and qualified for the <strong>California state Mathcounts</strong> competition.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Ishaan Gupta</strong>, a 12-year-old seventh-grader from Jersey City, finished as the runner-up.</li>\n\t<li><strong>Sarv Dharavane</strong>, a sixth-grader from Dunwoody, finished in <strong>third place</strong> for the second consecutive year.</li>\n\t<li>Shrey&#39;s favorite word is <strong>\"muntjac,\"</strong> which refers to a species of small deer native to Southeast Asia.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12c52a26892f2be48bc2",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "As per the revised guidelines issued by the <strong>Reserve Bank of India (RBI)</strong> in <strong>June 2026</strong>, what is one of the primary objectives of the overhauled <strong>Lead Bank Scheme (LBS)</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Enhancing the flow of credit to priority sectors for inclusive growth",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Automating the credit appraisal process for large corporate borrowers",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Phasing out the role of Lead District Managers in rural areas",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Establishing a centralized tax collection system for rural businesses",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Implementing a uniform interest rate for all types of loans across districts.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Enhancing the flow of credit to priority sectors for inclusive growth</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Reserve Bank of India (RBI)</strong> has overhauled the <strong>Lead Bank Scheme (LBS)</strong> through revised guidelines issued on <strong>June 19, 2026</strong>, following a comprehensive review of the scheme.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>RBI</strong> stated that the revamped <strong>Lead Bank Scheme</strong> seeks to achieve two key objectives: <strong>enhancing the flow of credit to priority sectors</strong> for achieving inclusive growth and <strong>deepening financial inclusion</strong> through improved access and usage of financial services.</li><li>Under the new framework, a <strong>Lead Bank</strong> in every district will coordinate the efforts of banks, government agencies, and other institutions to improve credit flow and promote <strong>financial inclusion</strong>.</li><li>The revised guidelines mandate every <strong>Lead Bank</strong> to appoint a <strong>Lead District Manager (LDM)</strong> to exclusively oversee and coordinate the scheme's implementation in the district.</li><li>A <strong>three-tier structure</strong> comprising <strong>Block Level Bankers' Committees</strong>, <strong>District Consultative Committees</strong>, and <strong>State Level Bankers' Committees (SLBCs)</strong> has been introduced to strengthen coordination.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Lead Bank Scheme</strong> was originally introduced by the <strong>RBI</strong> in <strong>December 1969</strong>.</li><li>Historically, the scheme has played a vital role in <strong>branch expansion</strong>, <strong>deposit mobilisation</strong>, and lending in <strong>rural</strong> and <strong>semi-urban</strong> regions across India.</li><li>The <strong>2026 guidelines</strong> supersede all earlier instructions issued by the <strong>Reserve Bank of India</strong> regarding the <strong>LBS</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>District-level committees</strong> are tasked with preparing and reviewing <strong>District Credit Plans</strong> and resolving operational issues related to implementation.</li><li>The review process for these new guidelines included examining <strong>public feedback</strong> received on a draft framework released earlier in the year.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12c60dce4b74a893f2d4",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "Which organization has partnered with Punjab National Bank (PNB) to launch biodegradable co-branded twin credit cards to target the younger consumer segment?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Razorpay Software Private Ltd",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Zaggle Prepaid Ocean Services Ltd",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Pine Labs Private Ltd",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "BharatPe Financial Services",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Paytm Payments Bank Limited",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Zaggle Prepaid Ocean Services Ltd</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>Punjab National Bank (PNB)</strong> has partnered with <strong>Zaggle Prepaid Ocean Services Ltd</strong> to launch <strong>biodegradable co-branded twin credit cards</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Partnership:</strong> The public sector lender <strong>PNB</strong> has collaborated with <strong>Zaggle Prepaid Ocean Services Ltd</strong> to strengthen its presence in India's underpenetrated credit card market.</li><li><strong>Sustainability:</strong> The cards are manufactured using <strong>biodegradable materials</strong>, aligning with eco-friendly and sustainable practices.</li><li><strong>Twin-Card Proposition:</strong> Customers will have access to both <strong>Visa</strong> and <strong>RuPay</strong> networks through this single offering, combining global acceptance with UPI-enabled convenience.</li><li><strong>Target Audience:</strong> The initiative specifically targets <strong>Gen Z and Millennials</strong>, who represent a significant growth opportunity for the bank.</li><li><strong>Logic:</strong> While other options like <strong>Razorpay</strong>, <strong>Pine Labs</strong>, and <strong>BharatPe</strong> are prominent fintech players, the news specifically mentions <strong>Zaggle Prepaid Ocean Services Ltd</strong> as the partner for this launch.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Leadership:</strong> The launch was announced by <strong>Ashok Chandra</strong>, MD and CEO of <strong>PNB</strong>, and <strong>Avinash Ramesh Godkhindi</strong>, MD and CEO of <strong>Zaggle</strong>.</li><li><strong>Accessibility:</strong> The cards will be available through the <strong>zagg.money</strong> application.</li><li><strong>Benefits:</strong> The cards offer perks such as <strong>railway and airport lounge access</strong>, <strong>OTT subscriptions</strong>, <strong>fuel surcharge waivers</strong>, and a <strong>1.5 per cent discount on jewellery purchases</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>PNB-Zaggle</strong> twin card combines the <strong>global travel privileges of Visa</strong> with the <strong>lifestyle benefits and UPI convenience of RuPay</strong>.</li><li>The partnership aims to accelerate <strong>customer acquisition</strong> and enhance engagement through <strong>robust digital infrastructure</strong> and <strong>streamlined onboarding</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2002617319d718a25c97f3",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "In May 2026, which Indian Air Force strategic airlift aircraft was utilized to transport the sacred relics of Arahant Sariputta and Arahant Mahamoggallana to Mongolia?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "C-17 Globemaster III",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "IL-76 Gajraj",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-130J Super Hercules",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "An-32",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "C-295MW",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>IL-76 Gajraj</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Indian Air Force (IAF)</strong> airlifted the sacred Buddhist relics of <strong>Arahant Sariputta</strong> and <strong>Arahant Mahamoggallana</strong> to <strong>Mongolia</strong> in May 2026.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>On <strong>30 May 2026</strong>, an <strong>Indian Air Force IL-76 strategic airlift aircraft</strong>, known as <strong>Gajraj</strong>, transported the relics from <strong>Delhi</strong> to <strong>Mongolia</strong>.</li><li>The aircraft undertook an overnight flight and landed in Mongolia at <strong>1125 hrs IST</strong>.</li><li>This mission was conducted to support India's efforts to <strong>strengthen cultural ties</strong> with friendly nations.</li><li>The use of the <strong>IL-76 Gajraj</strong> reflects the IAF's capability to support national objectives and <strong>global cultural outreach</strong>. Hence, option 2 is the correct answer.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The relics belong to <strong>Arahant Sariputta</strong> and <strong>Arahant Mahamoggallana</strong>, who were the <strong>chief disciples of Gautama Buddha</strong>.</li><li>The mission highlights the intersection of military logistics and <strong>cultural diplomacy</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>IL-76</strong> is a heavy-duty strategic aircraft used by the IAF for large-scale transport operations.</li><li>The initiative aligns with India's broader <strong>Act East policy</strong> and cultural engagement with Buddhist nations.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a33923583a7b49c5941ab61",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "Who has been nominated by the Central government as a Director on the Central Board of the <strong>Reserve Bank of India (RBI)</strong> and <strong>State Bank of India (SBI)</strong> with effect from June 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Nagaraju Maddirala",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rajiv Mani",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Sanjay Lohiya",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Manoj Govil",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Ajay Bhushan Pandey",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Sanjay Lohiya</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The Central government has nominated <strong>Sanjay Lohiya</strong> as a Director on the Central Boards of the <strong>RBI</strong> and <strong>SBI</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Sanjay Lohiya</strong>: He is currently serving as the <strong>Secretary</strong> of the <strong>Department of Financial Services (DFS)</strong> under the <strong>Ministry of Finance</strong>. He assumed this role on <strong>June 1, 2026</strong>.</li><li><strong>Nomination</strong>: He has been nominated as a Director on the Central Board of the <strong>Reserve Bank of India (RBI)</strong> and the <strong>State Bank of India (SBI)</strong> with immediate effect and until further orders.</li><li><strong>Reason for Vacancy</strong>: His nomination follows the superannuation of <strong>Nagaraju Maddirala</strong>, who retired as the DFS Secretary on <strong>May 31, 2026</strong>.</li><li><strong>Comparison with Options</strong>: <strong>Nagaraju Maddirala</strong> is the predecessor who superannuated. <strong>Rajiv Mani</strong> and <strong>Manoj Govil</strong> are not the individuals nominated for these specific board positions according to the news provided.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Department of Financial Services (DFS)</strong> oversees the functioning of public sector banks, financial institutions, and insurance companies in India.</li><li>The <strong>Central Board of the RBI</strong> is the primary body responsible for the overall direction of the central bank's affairs.</li><li>The <strong>State Bank of India (SBI)</strong> is the country's largest commercial bank, and its board includes government nominees to ensure regulatory and policy alignment.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Sanjay Lohiya</strong> succeeds <strong>Nagaraju Maddirala</strong> as a Director on the boards of <strong>RBI</strong> and <strong>SBI</strong>.</li><li>The appointment is effective from <strong>June 2026</strong> following his takeover as <strong>DFS Secretary</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12c5e7df320109f3af8d",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "BSE Index Services recently launched the <strong>BSE Saatvik 100</strong>, India&#39;s first index designed to promote ethical and value-based investing. According to the index composition, which specific sector has been identified as the single-largest contributor with a weight of <strong>37.55%</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Energy",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Consumer Discretionary",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Financial Services",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Healthcare",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Information Technology",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Financial Services</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>BSE Index Services Pvt. Ltd.</strong> announced the launch of <strong>BSE Saatvik 100</strong>, which is <strong>India&#39;s first Saatvik Index</strong> aimed at promoting value-based and ethical investing.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Financial Services</strong> sector holds the <strong>highest weight</strong> in the <strong>BSE Saatvik 100 Index</strong> at <strong>37.55%</strong>, making it the single-largest contributor.</li>\n\t<li>The index is derived from the constituents of the <strong>BSE 500 Index</strong> that align with <strong>ethical</strong> and <strong>value-based principles</strong>.</li>\n\t<li>Following <strong>Financial Services</strong>, the next major sectors are <strong>Consumer Discretionary</strong> and <strong>Energy</strong>.</li>\n\t<li>Among individual stocks, <strong>HDFC Bank</strong> holds the largest weight, followed by <strong>ICICI Bank</strong> and <strong>Reliance Industries</strong>.</li>\n\t<li>The launch aligns with the growing interest in <strong>Environmental, Social, and Governance (ESG)</strong> investing in India.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>BSE Index Services</strong>, formerly known as <strong>Asia Index</strong>, is a wholly owned subsidiary of <strong>BSE</strong> that manages various indices including the <strong>Sensex</strong>.</li>\n\t<li>The index can be used for passive investment strategies such as <strong>Exchange-Traded Funds (ETFs)</strong> and <strong>index funds</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The word <strong>\"Saatvik\"</strong> in the index name signifies <strong>purity, responsibility, and ethical conduct</strong> in investment decisions.</li>\n\t<li>Other key sectors included in the index are <strong>commodities, industrials, utilities, telecommunication, services, FMCG, and healthcare</strong>.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:23.647Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

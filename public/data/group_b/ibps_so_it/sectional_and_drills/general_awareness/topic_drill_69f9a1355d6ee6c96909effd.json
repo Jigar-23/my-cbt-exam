@@ -1,0 +1,689 @@
+{
+  "testId": "69f9a1355d6ee6c96909effd",
+  "title": "CT 4: Current Affairs (June 16 - June 30)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Bi - Weekly CA",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 15,
+  "totalDurationMinutes": 10,
+  "totalMarks": 15,
+  "sections": [
+    {
+      "id": "65e08bcb88a67ac9f4e57bb8",
+      "name": "Chapter Test",
+      "durationMinutes": 20,
+      "maxMarks": 15,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a339216b56b0edee45ac86e",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "According to the CAG report 'State Finances 2024-25', what was the total combined liability of all 28 Indian states as of March 31, 2025?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 51.20 lakh crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs 90.51 lakh crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs 40.52 lakh crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 20.31 lakh crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs 75.85 lakh crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs 90.51 lakh crore</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Comptroller and Auditor General (CAG)</strong> of India, <strong>K Sanjay Murthy</strong>, released the report titled <strong>'State Finances 2024-25'</strong>, which provides a decade-long assessment of state finances from 2015-16 to 2024-25.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The report highlighted that the combined liabilities of all <strong>28 states</strong> rose to <strong>Rs 90.51 lakh crore</strong> as of <strong>March 31, 2025</strong>.</li><li>In the financial year 2024-25, <strong>all 28 states</strong> reported <strong>fiscal deficits</strong>, showing deep fiscal stress across the country.</li><li>Out of these 28 states, <strong>15 states</strong> recorded a fiscal deficit above <strong>3 per cent</strong> of their <strong>Gross State Domestic Product (GSDP)</strong>.</li><li>The report noted that while revenue mobilisation improved, the growing fiscal burden remains a challenge due to high levels of <strong>committed liabilities</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>States' Own Tax Revenue (SOTR)</strong>: Accounted for nearly <strong>50%</strong> of the combined revenue receipts of <strong>Rs 40.52 lakh crore</strong> in 2024-25.</li><li><strong>State GST</strong>: It contributed more than <strong>43%</strong> of the total own tax revenues, showing an improved growth in tax collections post-GST.</li><li><strong>Expenditure Patterns</strong>: The combined budgetary expenditure of all states was <strong>Rs 51.20 lakh crore</strong>, with <strong>revenue expenditure</strong> making up nearly <strong>80%</strong> of total spending.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Nagaland</strong> had the highest committed expenditure at <strong>74%</strong> of its revenue expenditure, whereas <strong>Maharashtra</strong> had the lowest at <strong>29%</strong>.</li><li><strong>Subsidies</strong> alone accounted for over <strong>10%</strong> of revenue expenditure in 2024-25.</li><li>The <strong>Economic sector</strong> accounted for <strong>63%</strong> of total capital outlay, with a focus on infrastructure, while <strong>Education</strong> remained the largest head among functional sectors.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a33921761e269530e4a11ec",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which Gram Panchayat has been conferred the <strong>Gold Award</strong> under the category <strong>'Grassroots-Level Initiatives by Gram Panchayats'</strong> at the National Awards for e-Governance (NAeG) 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Bijoy Nagar Gram Panchayat",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Kadepur Gram Panchayat",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rohini Gram Panchayat",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "West Majlishpur Gram Panchayat",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rampur Gram Panchayat",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Kadepur Gram Panchayat</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Ministry of Panchayati Raj</strong> announced that four Panchayati Raj-related initiatives have been selected for the <strong>National Awards for e-Governance (NAeG) 2026</strong>.</li><li>The awards will be presented at the <strong>29th National Conference on e-Governance</strong> in <strong>Jaipur, Rajasthan</strong>, scheduled for 1–2 July 2026.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Kadepur Gram Panchayat (Maharashtra):</strong> Located in <strong>Sangli District</strong>, it won the <strong>Gold Award</strong> for its end-to-end digital governance ecosystem, delivering over <strong>1,355 services online</strong> and adopting policies on <strong>AI, Blockchain, and Robotics</strong>.</li><li><strong>Bijoy Nagar Gram Panchayat (Tripura):</strong> Located in <strong>West Tripura District</strong>, it secured the <strong>Silver Award</strong> in the same category for its participatory governance and achieving <strong>100% digital literacy among women</strong>.</li><li><strong>Rohini Gram Panchayat (Maharashtra):</strong> This panchayat was the <strong>Gold Awardee</strong> in the same category in the previous year, <strong>NAeG 2025</strong>.</li><li><strong>West Majlishpur Gram Panchayat (Tripura):</strong> This panchayat was the <strong>Silver Awardee</strong> in the <strong>NAeG 2025</strong> cycle.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The conference theme is <strong>“Viksit Bharat 2047: AI-Enabled, Data-Driven and Secure Digital Governance.”</strong></li><li>It is jointly organized by the <strong>DARPG</strong>, <strong>MeitY</strong>, and the <strong>Government of Rajasthan</strong>.</li><li><strong>Incentives:</strong> Gold Awardees receive <strong>₹10 lakhs</strong>, while Silver Awardees receive <strong>₹5 lakhs</strong> for project implementation or welfare.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Panchayat Advancement Index (PAI):</strong> An initiative of the <strong>Ministry of Panchayati Raj</strong>, it won the <strong>Gold Award</strong> at the National Level for Data-Driven Governance.</li><li><strong>e-Aarogya Dhamni:</strong> An initiative by <strong>Zilla Parishad Nandurbar (Maharashtra)</strong>, it won the <strong>Gold Award</strong> for District-Level Initiatives in e-Governance.</li><li>The dedicated <strong>Gram Panchayat category</strong> was introduced for the first time in <strong>NAeG 2025</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12ca6b43d15ff761b8c9",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>Consider the following statements regarding the <strong>GARUDA (Green-Channel: AIF Rollout Upon Document Acknowledgement)</strong> mechanism recently approved by <strong>SEBI</strong>:</p><p>A. Under the <strong>GARUDA</strong> mechanism, <strong>Regular Schemes</strong> of Alternative Investment Funds (AIFs) will benefit from a compressed <strong>10-working-day</strong> approval window.<br />B. Under the prior regulatory regime, fund managers faced a rigid <strong>30-day</strong> waiting period alongside high compliance costs.<br />C. <strong>Angel Funds</strong> and <strong>Accredited Investor-only</strong> schemes must now obtain mandatory <strong>merchant banker certification</strong> before launch.</p><p>Which of the above statements is/are correct?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A and C only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B and C only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A and B only",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A, B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "A and B only, but with a 15-working-day approval window instead of 10 days.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>A and B only</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n<ul>\n    <li>The <strong>Securities and Exchange Board of India (SEBI)</strong> has approved the <strong>GARUDA</strong> mechanism to overhaul the <strong>Alternative Investment Fund (AIF)</strong> framework.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n<ul>\n    <li><strong>Statement A is correct:</strong> Under the overhauled structure, <strong>Regular Schemes</strong> of AIFs will benefit from a vastly compressed <strong>10-working-day</strong> approval window.</li>\n    <li><strong>Statement B is correct:</strong> Under the prior (static) regime, fund managers faced a rigid <strong>30-day</strong> waiting period and high compliance costs driven by <strong>merchant banker diligence</strong>.</li>\n    <li><strong>Statement C is incorrect:</strong> <strong>Angel Funds</strong> and <strong>Accredited Investor-only (AI-only)</strong> schemes can now launch immediately once the <strong>Private Placement Memorandum (PPM)</strong> is filed, completely <strong>bypassing</strong> the previously mandatory <strong>merchant banker certification</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<ul>\n    <li>The <strong>GARUDA</strong> mechanism transitions the AIF framework from a traditional <strong>pre-clearance model</strong> to a fast-track, <strong>accountability-driven disclosure model</strong>.</li>\n    <li>For specialized funds like <strong>Angel Funds</strong>, the responsibility of compliance shifts to <strong>self-certification</strong> by the fund&rsquo;s <strong>CEO</strong> and <strong>Compliance Officer</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n<ul>\n    <li><strong>Large Value Funds (LVFs)</strong> will continue to operate under their pre-existing <strong>fast-track waivers</strong>.</li>\n    <li>The liability for misleading or incomplete disclosures now falls directly on <strong>fund managers</strong> due to the reduction in upfront vetting for sophisticated investors.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12cb9f60eca7e7765018",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Which of the following portals was launched by Union Minister Shri Amit Shah specifically for the inventory management of pulses and oilseeds?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NAFEX.in",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "DRISHTI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "NAFED-KALYAN",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ERP portal",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "e-Bhavan Portal",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>DRISHTI</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Home Minister and Minister of Cooperation <strong>Shri Amit Shah</strong> is scheduled to launch several digital and farmer-centric initiatives of <strong>NAFED</strong>, including the <strong>DRISHTI</strong> portal, on <strong>23 June 2026</strong> in <strong>New Delhi</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>DRISHTI portal</strong>: This specific portal has been designed for the <strong>inventory management of pulses and oilseeds</strong> to bring more efficiency to NAFED's operations.</li><li><strong>NAFEX.in</strong>: This is an <strong>auction portal</strong> aimed at strengthening transparency and digital processes in <strong>agricultural produce auctions</strong>.</li><li><strong>NAFED-KALYAN</strong>: This is a <strong>scholarship scheme</strong> intended to support the <strong>education of farmers' children</strong>.</li><li><strong>ERP portal</strong>: This portal focuses on strengthening <strong>enterprise resource planning</strong> within the organization.</li><li>The launch of these initiatives is part of the government's effort to modernize <strong>cooperative institutions</strong> through technology and transparency.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The event is held at <strong>Atal Akshay Urja Bhawan</strong>, New Delhi, with the presence of Union Minister of Agriculture and Farmers Welfare <strong>Shri Shivraj Singh Chouhan</strong>.</li><li>The leadership of NAFED attending includes Chairman <strong>Shri Jethabhai Ahir</strong> and Managing Director <strong>Shri Deepak Agarwal</strong>.</li><li>The initiatives align with the Prime Minister's vision of <strong>\"Sahkar Se Samriddhi\"</strong> (Prosperity through Cooperation).</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>NAFEX.in</strong> specifically targets <strong>transparency and ease of operations</strong> in the auctioning process for stakeholders.</li><li>The <strong>NAFED-KALYAN</strong> initiative involves the distribution of <strong>scholarship cheques</strong> to children of farmers during the launch program.</li><li>A <strong>live registration demonstration</strong> on the auction portal marks the formal commencement of the digital auction process.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12cbe864f40b5f749dab",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "According to the 8th edition of NITI Aayog&#39;s &#39;Trade Watch Quarterly&#39; report, what was India&#39;s position among the world&#39;s largest services exporters in 2025?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Fifth-largest",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Eighth-largest",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Tenth-largest",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sixth-largest",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Third-largest",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Eighth-largest</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Shri Ashok Kumar Lahiri</strong>, Vice-Chairman of <strong>NITI Aayog</strong>, released the <strong>eighth edition</strong> of the <strong>&ldquo;Trade Watch Quarterly&rdquo;</strong> for <strong>Quarter 4 of FY&rsquo;2025-26</strong> in <strong>New Delhi</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>India retained its position as the world&rsquo;s <strong>eighth-largest services exporter</strong> in <strong>2025</strong>.</li>\n\t<li>The report highlights that services trade remained a key source of strength, with <strong>services exports growing by 9.0%</strong> during <strong>Q4 FY&rsquo;2025&ndash;26</strong>.</li>\n\t<li>This growth in services outpaced import growth, helping to sustain a strong <strong>services surplus</strong> for the nation.</li>\n\t<li>The other options (Fifth, Tenth, Sixth) are incorrect based on the data provided in the report which explicitly mentions the <strong>8th position</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>India&#39;s <strong>services exports</strong> recorded a <strong>Compound Annual Growth Rate (CAGR) of 10.3%</strong> during the decade <strong>2015&ndash;2025</strong>, which is significantly higher than the global average.</li>\n\t<li>India&rsquo;s total <strong>merchandise and services trade</strong> reached <strong>$1.84 trillion</strong> during <strong>FY2025&ndash;26</strong>, expanding by <strong>5.4% year-on-year</strong>.</li>\n\t<li>The thematic focus of this edition is the <strong>pharmaceutical sector</strong>, identifying it as a strategic pillar of the Indian economy.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>Overall exports for <strong>FY2025&ndash;26</strong> grew by <strong>4.2%</strong>, while imports increased by <strong>6.5%</strong>.</li>\n\t<li>The <strong>pharmaceutical sector</strong> analysis shows that while India is a leader in <strong>generic medicines</strong>, global demand for <strong>APIs and pharma products</strong> is estimated at <strong>$1.3 trillion</strong>, with India&#39;s share being <strong>$35.8 billion</strong>.</li>\n\t<li><strong>Telangana, Gujarat, and Maharashtra</strong> were identified as the key pillars driving India&rsquo;s pharmaceutical industry production and exports.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12cc2a26892f2be48bdc",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "India and France have partnered for the joint TRISHNA satellite mission which is designed to contribute significantly to global water and food security. During his address to the Indian diaspora in Paris, in which year did Prime Minister Narendra Modi announce this mission would be launched?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2025",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2026",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2027",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2028",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2024",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>2027</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Prime Minister <strong>Narendra Modi</strong> announced that <strong>India and France</strong> will jointly launch the <strong>TRISHNA satellite</strong> in <strong>2027</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>TRISHNA satellite</strong> mission is specifically designed to contribute to <strong>global water and food security</strong>.</li><li>The announcement was made by the Prime Minister while addressing the <strong>Indian diaspora in Paris</strong> during the final leg of his visit to <strong>France and Slovakia</strong>.</li><li>The project is described as a natural extension of the cooperation demonstrated at the <strong>AI Summits</strong> co-hosted in <strong>Paris</strong> and <strong>Delhi</strong>.</li><li>Therefore, the scheduled launch year is <strong>2027</strong>, making option 3 the correct choice.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Bharat Innovates</strong> program held in <strong>Nice</strong> featured <strong>120 leading Indian deep tech startups</strong> and facilitated approximately <strong>1,400 B2B meetings</strong>.</li><li>India has successfully created unique <strong>digital health IDs</strong> for around <strong>90 crore citizens</strong> to ensure secure healthcare delivery.</li><li>PM Modi also addressed <strong>VivaTech 2026</strong>, which is one of Europe’s largest technology and innovation conferences.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>During the <strong>G7 meeting in Evian</strong>, PM Modi emphasized partnerships based on <strong>trust</strong> and <strong>inclusive global governance</strong>.</li><li>He highlighted that <strong>global growth</strong> must be shared to be sustainable and <strong>technology</strong> must be trusted to benefit humanity.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a33921a83a7b49c5941a7c2",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Regarding the recently launched indigenous AI model <strong>Varya</strong>, developed by <strong>Avataar.ai</strong> under the <strong>IndiaAI Mission</strong>, what is the specific efficiency gain achieved in the video generation process?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Reduction of generation steps from 100 steps to 10 steps",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Reduction of generation steps from 50 steps to 4 steps",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Reduction of generation steps from 25 steps to 2 steps",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Reduction of generation steps from 75 steps to 15 steps",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Reduction of generation steps from 60 steps to 8 steps",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Reduction of generation steps from 50 steps to 4 steps</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Ministry of Electronics & IT (MeitY)</strong>, under the <strong>IndiaAI Mission</strong>, launched <strong>Varya</strong>, an indigenous video story generating AI model developed by <strong>Avataar.ai</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Varya</strong> is a <strong>distilled video model</strong> designed to make high-quality video AI affordable and accessible for India's population scale.</li><li>The model uses a <strong>distillation technique</strong> that significantly optimizes performance by reducing the video generation process from the standard <strong>50 steps to just 4 steps</strong>.</li><li>This reduction makes the model <strong>ten times more efficient</strong> than several leading global video models currently in the market.</li><li>By skipping redundant computations through the <strong>student-teacher model</strong> replication, <strong>Varya</strong> maintains high output quality while drastically lowering the <strong>inference cost</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The model can generate video at a highly affordable rate of <strong>₹0.48 per second</strong>.</li><li>It was unveiled in <strong>New Delhi</strong> in the presence of <strong>Shri S. Krishnan</strong>, Secretary, <strong>Ministry of Electronics and Information Technology (MeitY)</strong>.</li><li><strong>Avataar.ai</strong> was selected by the <strong>IndiaAI Mission</strong> to build indigenous foundation AI capabilities, utilizing <strong>subsidized national AI compute infrastructure</strong>.</li><li>The product workflow is designed around the promise: <strong>Idea → Video → Story</strong>, allowing users to convert text prompts or images into videos.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Distilled Video Generation:</strong> A compression technique where a compact <strong>student model</strong> replicates a larger <strong>teacher model</strong> to eliminate redundant steps.</li><li><strong>Varya</strong> is claimed to be <strong>India's first distilled video model</strong>, marking a milestone in <strong>frugal innovation</strong> and deep-tech ecosystem development.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12cd9f60eca7e7765096",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Which country officially became the 10th member of the New Development Bank (NDB) and the first from the Central Asian region in June 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Egypt",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Bangladesh",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Uzbekistan",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Algeria",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Turkey",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Uzbekistan</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Republic of Uzbekistan</strong> has officially joined the <strong>New Development Bank (NDB)</strong> as a shareholder, effective from <strong>June 5, 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Uzbekistan</strong> has become the <strong>10th member</strong> of the NDB and is the <strong>first country from Central Asia</strong> to join the institution.</li><li>The membership became effective after the country ratified the <strong>NDB Articles of Agreement</strong> and fulfilled all necessary requirements on <strong>June 5, 2026</strong>.</li><li>Uzbek President <strong>Shavkat Mirziyoyev</strong> signed the law for accession on <strong>May 21</strong>, aiming to expand trade, economic, and investment cooperation.</li><li>The NDB plans to explore investment projects in Uzbekistan later this year, focusing on <strong>energy, water management, transport, and municipal infrastructure</strong>.</li><li>Between 2023 and 2025, Uzbekistan's economy showed strong performance with an <strong>average annual growth of more than 6.7 per cent</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>New Development Bank (NDB)</strong> was established in <strong>2015</strong> by the <strong>BRICS nations</strong> (Brazil, Russia, India, China, and South Africa).</li><li>As of June 2026, the NDB has approved <strong>139 projects</strong> worth approximately <strong>US $43 billion</strong>.</li><li>Beyond the founding BRICS members, the bank now includes <strong>Egypt, the UAE, Bangladesh, Algeria, and Uzbekistan</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The NDB intends to use its strengths such as <strong>financing in national currencies</strong> and applying <strong>national procurement procedures</strong> for its operations in Uzbekistan.</li><li><strong>Andrey Bokarev</strong>, Director General of the <strong>NDB Eurasian Regional Centre</strong>, noted that Central Asia is one of the world's most dynamically developing regions.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12cf9e3e76b1cbbd02aa",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Who has been re-appointed as the <strong>Solicitor General (SG)</strong> of India for a further term of <strong>three years</strong> starting from July 1, 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Shri Suryaprakash V. Raju",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Shri N. Venkataraman",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Tushar Mehta",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Shri Vikramji Banerjee",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Shri Mukul Rohatgi",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Tushar Mehta</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Appointments Committee of the Cabinet (ACC)</strong> has approved the re-appointment of senior advocate <strong>Tushar Mehta</strong> as the <strong>Solicitor General (SG)</strong> of India for a further term of <strong>three years</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Tushar Mehta</strong> has been re-appointed as the <strong>Union Government's second-highest law officer</strong>.</li><li>His fresh term will take effect from <strong>July 1, 2026</strong>.</li><li>The other options provided, such as <strong>Shri Suryaprakash V. Raju</strong> and <strong>Shri N. Venkataraman</strong>, have been re-appointed as <strong>Additional Solicitor Generals (ASGs)</strong>, not the Solicitor General.</li><li><strong>Shri Vikramji Banerjee</strong> has been re-appointed as an <strong>Additional Solicitor General</strong> for the <strong>Supreme Court</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Tushar Mehta</strong> assumed the <strong>Solicitor General</strong> office in <strong>2018</strong> and is set to complete <strong>eleven years</strong> in this role by the end of his new tenure.</li><li>The <strong>ACC</strong> also extended the tenure of <strong>Additional Solicitor Generals</strong> including <strong>Ms. Aishwarya Bhati</strong> and <strong>Shri K.M. Nataraj</strong> for three years.</li><li><strong>Shri Chetan Sharma</strong> was re-appointed as <strong>ASG</strong> for the <strong>High Court of Delhi</strong> for a term of <strong>six months</strong> effective from <strong>July 1, 2026</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>Solicitor General</strong> is the <strong>second-highest law officer</strong> in India, subordinate to the Attorney General.</li><li>The appointments of high-ranking law officers are processed through the <strong>Ministry of Personnel, Public Grievances and Pensions</strong> and approved by the <strong>Appointments Committee of the Cabinet</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12d2c475db7632e51b78",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Who was honored with the prestigious Global Prestige Award at the House of Lords, UK Parliament, in June 2026 for contributions toward the vision of Viksit Bharat 2047?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Vaibhav Sooryavanshi",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Akshara Gupta",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Harsh Vardhan",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sandeep Kumar",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rohit Malhotra",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Harsh Vardhan</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>Bihar Cricket Association (BCA)</strong> President <strong>Harsh Vardhan</strong> was recently honored with the <strong>Global Prestige Award</strong> at the <strong>House of Lords</strong>, UK Parliament.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Harsh Vardhan</strong>, the President of the <strong>Bihar Cricket Association</strong>, received the award for his contribution towards the vision of <strong>Viksit Bharat 2047</strong>.</li><li>The theme of the event was <strong>\"Visionaries of Change: Charting the Course to Viksit Bharat 2047,\"</strong> which celebrated Indian leaders working towards transforming India by the centenary of its independence.</li><li>He made history as the <strong>youngest President</strong> in the history of the <strong>Bihar Cricket Association</strong> after being elected unopposed in <strong>September 2025</strong>.</li><li>The other options like <strong>Vaibhav Sooryavanshi</strong> and <strong>Akshara Gupta</strong> are emerging cricketers from Bihar but were not the recipients of this specific leadership award. <strong>Vaibhav Sooryavanshi</strong> is a rising star, while <strong>Akshara Gupta</strong> recently made news for scoring an unbeaten <strong>306 runs</strong> in a domestic tournament.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Global Prestige Award</strong> recognizes individuals worldwide for leadership, innovation, and dedication to global peace and development.</li><li>Under Harsh Vardhan's leadership, the <strong>BCA</strong> has focused on <strong>grassroots development</strong> and building a strong sporting ecosystem in Bihar.</li><li><strong>Akshara Gupta's</strong> record-breaking innings of 306 runs included <strong>55 fours and 8 sixes</strong> at a strike rate of <strong>242.86</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The award ceremony took place at the <strong>House of Lords, UK Parliament</strong> on <strong>June 20, 2026</strong>.</li><li>The primary goal of the recognition was to celebrate <strong>Indian changemakers</strong> contributing to a <strong>developed India (Viksit Bharat)</strong> by 2047.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3d12d3a3907fd86f983caa",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "Which company was recently upgraded to become the 28th Navratna Central Public Sector Enterprise (CPSE) in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Indian Oil Corporation Ltd",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Mangalore Refinery and Petrochemicals Ltd",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Chennai Petroleum Corporation Ltd",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Oil and Natural Gas Corporation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Bharat Petroleum Corporation Ltd",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Chennai Petroleum Corporation Ltd</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>Chennai Petroleum Corporation Ltd (CPCL)</strong> has been officially upgraded to <strong>Navratna Central Public Sector Enterprise (CPSE)</strong> status.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The upgrade was approved by <strong>Union Finance Minister Nirmala Sitharaman</strong> and announced by the <strong>Department of Public Enterprises (DPE)</strong>.</li><li>With this elevation, <strong>CPCL</strong> becomes the <strong>28th Navratna</strong> enterprise among all CPSEs in India.</li><li>The company previously held <strong>Miniratna Category-I</strong> status and operates under the <strong>Ministry of Petroleum and Natural Gas</strong>.</li><li>In <strong>FY 2025-26</strong>, CPCL recorded an annual turnover of <strong>Rs 59,400 crore</strong>.</li><li>The <strong>Navratna</strong> tag grants the company greater financial and operational autonomy, allowing it to invest up to <strong>Rs 1,000 crore</strong> or <strong>15% of its net worth</strong> on a single project without prior government approval.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>CPCL</strong> (formerly Madras Refineries Limited) was formed in <strong>1965</strong> as a joint venture.</li><li>It became a subsidiary of <strong>Indian Oil Corporation (IOCL)</strong> in <strong>2001</strong>, with <strong>IOCL</strong> currently holding a <strong>51.89% stake</strong>.</li><li>The company's primary facility is the <strong>Manali refinery</strong> in South India, which has an installed refining capacity of <strong>10.5 MMTPA</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>To qualify for <strong>Navratna</strong> status, a CPSE must be a <strong>Miniratna-I</strong> entity, have a positive net worth, and score <strong>60 or more points</strong> on key financial indicators.</li><li>CPCL produces specialized products like <strong>JP-5 fuel</strong> for fighter jets and <strong>missile fuels</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a33923c3260ca18d4fded59",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Which organization organized the International Business Summit & Awards 2026 that recently concluded in Jaipur?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "National Institute for Entrepreneurship and Small Business Development",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Federation of Indian Chambers of Commerce and Industry",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Indian Council for Entrepreneurship & Innovation (ICEI)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Small Industries Development Bank of India",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Confederation of Indian Industry",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Indian Council for Entrepreneurship & Innovation (ICEI)</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>International Business Summit & Awards 2026</strong> concluded successfully in <strong>Jaipur</strong>, Rajasthan, after three days of leadership sessions and networking.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The event was organized by the <strong>Indian Council for Entrepreneurship & Innovation (ICEI)</strong> to strengthen India’s growing startup and <strong>MSME ecosystem</strong>.</li><li>The summit brought together over <strong>150 entrepreneurs</strong>, startup founders, and <strong>MSME leaders</strong> from more than <strong>15 states</strong> across India.</li><li>The inaugural ceremony was graced by <strong>Smt. Manju Sharma</strong>, Hon’ble Member of <strong>Lok Sabha</strong>, who served as the Chief Guest and emphasized the role of innovation in India’s development.</li><li>The event provided a platform for <strong>business collaboration</strong>, investment opportunities, and leadership development over its <strong>three-day</strong> duration.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Founders of ICEI</strong> are <strong>CA Abhishek Jain</strong> and <strong>Puneet Sethi</strong>.</li><li>The summit featured prestigious <strong>ICEI honours</strong>, including the <strong>Diamond, Gold, and Silver Honours</strong>, recognizing excellence across diverse industries.</li><li>Distinguished speakers like <strong>Dr. Sanjay Kathuria</strong> and <strong>Basesh Gala</strong> shared insights on digital transformation and working capital management during the first day.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>A <strong>Live Startup Pitching Session</strong> was a major highlight, where more than <strong>20 startups</strong> presented ideas to a panel of esteemed investors including <strong>Anil Joshi</strong> and <strong>Mahavir Pratap Sharma</strong>.</li><li>The concluding day featured <strong>Shri Suresh Singh Rawat</strong>, Hon’ble Cabinet Minister for <strong>Water Resources Department</strong>, Government of Rajasthan, as the Chief Guest.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a33923a8a8c39801e11afe6",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "What is the total route length sanctioned for the installation of the <strong>Kavach</strong> system in the <strong>Ambala Division</strong> of Northern Railway, as per the recent approval in June 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "598 route kilometres",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "702 route kilometres",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "811 route kilometres",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "48 route kilometres",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "950 route kilometres",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>811 route kilometres</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Indian Railways has approved the installation of the <strong>Kavach</strong> system for the <strong>Ahmedabad Division</strong> and the <strong>Ambala Division</strong> to enhance rail safety.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Ambala Division Project:</strong> Indian Railways has sanctioned the installation of Kavach on the balance <strong>Broad Gauge sections</strong> of the <strong>Ambala Division</strong> (Northern Railway) covering <strong>811 route kilometres</strong>. Hence, the correct answer is 811 route kilometres.</li><li>The project for the Ambala Division has been sanctioned at a cost of <strong>₹201 crore</strong>.</li><li><strong>Ahmedabad Division Project:</strong> In a separate approval, <strong>Kavach Version 4.0</strong> was sanctioned for <strong>598 route kilometres</strong> of the <strong>Ahmedabad Division</strong> (Western Railway) at a cost of <strong>₹140 crore</strong>.</li><li>The Ahmedabad project covers <strong>48 block sections</strong>, and previously <strong>702 route kilometres</strong> had already been sanctioned in this division.</li><li><strong>Kavach System:</strong> It is an indigenously developed <strong>Automatic Train Protection (ATP)</strong> system designed to prevent <strong>Signal Passing at Danger (SPAD)</strong> and reduce the risk of collisions.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The work is being executed under an umbrella programme featuring an <strong>LTE-based communication backbone</strong>.</li><li>The Ambala Division routes connect key states including <strong>Haryana</strong>, <strong>Punjab</strong>, and <strong>Himachal Pradesh</strong>.</li><li>Specific sections in Ambala include <strong>Ambala Cantonment–Ludhiana</strong>, <strong>Kalka–Chandigarh–New Morinda–Sahnewal</strong>, and <strong>Rajpura–Bathinda–Shri Ganganagar</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Kavach</strong> automatically applies brakes when required to avert unsafe situations and controls train speed in critical conditions.</li><li>The system is part of Indian Railways' effort to <strong>modernise train operations</strong> on high-density and strategically important routes.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a3392375d0fa05598d24125",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p>Based on the <strong>Periodic Labour Force Survey (PLFS)</strong> data for <strong>May 2026</strong>, which of the following statements is <strong>INCORRECT</strong>?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The overall unemployment rate at the national level in May 2026 was estimated at 5.5 per cent, remaining unchanged from May 2025.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The urban unemployment rate for persons aged 15 years and above declined to 6.4 per cent in May 2026 compared to 6.9 per cent in May 2025.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "In May 2026, the Labour Force Participation Rate (LFPR) was recorded at 49.8 per cent in rural areas and 56.6 per cent in urban areas.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The overall Worker Population Ratio (WPR) for May 2026 was estimated at 51.4 per cent, showing a decline from 52.2 per cent in April 2026.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The gender gap in the Labour Force Participation Rate (LFPR) narrowed significantly in May 2026, with female LFPR surpassing male LFPR for the first time.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>In May 2026, the Labour Force Participation Rate (LFPR) was recorded at 49.8 per cent in rural areas and 56.6 per cent in urban areas.</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>National Statistical Office (NSO)</strong> released the <strong>Periodic Labour Force Survey (PLFS)</strong> data for <strong>May 2026</strong>, showing overall steady unemployment at <strong>5.5%</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Statement 1 is correct:</strong> The overall <strong>unemployment rate</strong> at the national level was estimated at <strong>5.5 per cent</strong> in <strong>May 2026</strong>, which remained unchanged compared to the corresponding month in 2025.</li><li><strong>Statement 2 is correct:</strong> The <strong>urban unemployment rate</strong> for persons aged 15 years and above fell to <strong>6.4 per cent</strong> in <strong>May 2026</strong> from <strong>6.9 per cent</strong> in <strong>May 2025</strong>.</li><li><strong>Statement 3 is incorrect:</strong> According to the data, the <strong>Labour Force Participation Rate (LFPR)</strong> was recorded at <strong>56.6 per cent in rural areas</strong> and <strong>49.8 per cent in urban areas</strong>. The statement incorrectly swaps these figures.</li><li><strong>Statement 4 is correct:</strong> The <strong>Worker Population Ratio (WPR)</strong>, which measures the proportion of employed persons, was estimated at <strong>51.4 per cent</strong> in <strong>May 2026</strong>, down from <strong>52.2 per cent</strong> in <strong>April 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>rural unemployment rate</strong> increased marginally to <strong>5.1 per cent</strong> in May 2026 from <strong>4.6 per cent</strong> in April.</li><li>The <strong>urban female LFPR</strong> stood at <strong>24.8 per cent</strong> in May 2026, while the <strong>overall female LFPR</strong> was recorded at <strong>32.8 per cent</strong>.</li><li>The monthly estimates are based on information collected from <strong>3,73,887 individuals</strong> across India.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>PLFS</strong> is conducted by the <strong>National Statistical Office (NSO)</strong> under the <strong>Ministry of Statistics and Programme Implementation</strong>.</li><li>Since <strong>January 2025</strong>, the survey methodology has been revised to provide <strong>monthly and quarterly</strong> labour market estimates at the national level.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a339237f78c79add43fe0e2",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "The late Professor Robert A.F. Thurman, a Padma Shri awardee who recently passed away, was a prominent scholar associated with which specific field of study?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Indo-Tibetan Buddhist Studies",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Modern West Asian History",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Vedic Science and Astronomy",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Classical European Architecture",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Comparative Mythology and Folklore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Indo-Tibetan Buddhist Studies</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Renowned American scholar <strong>Professor Robert A.F. Thurman</strong>, a <strong>Padma Shri</strong> awardee and noted Buddhist scholar, passed away at the age of <strong>84</strong> in <strong>Woodstock, New York</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Robert A.F. Thurman</strong> was the <strong>Jey Tsong Khapa Professor of Indo-Tibetan Buddhist Studies</strong> in the Department of Religion at <strong>Columbia University</strong>.</li><li>He was a co-founder and President of <strong>Tibet House US</strong> and the <strong>American Institute of Buddhist Studies</strong>.</li><li>The Indian government conferred the <strong>Padma Shri</strong> upon him in recognition of his lifelong dedication to <strong>Indo-Tibetan Buddhist studies</strong> and his role in bringing Buddhist wisdom to global audiences.</li><li>He was particularly recognized for <strong>translating and interpreting</strong> Tibetan Buddhist philosophical and religious texts, including the <strong>Vimalakirti Sutra</strong> from the Tibetan Kagyur.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>Thurman was a longtime friend of the <strong>Dalai Lama</strong> and the father of Hollywood actress <strong>Uma Thurman</strong>.</li><li>In <strong>1997</strong>, he was named among the <strong>25 most influential Americans</strong> by Time magazine, and in <strong>2006</strong>, New York Magazine included him among its influential religious figures.</li><li>Prime Minister <strong>Narendra Modi</strong> met Professor Thurman in <strong>New York</strong> in <strong>June 2023</strong> to discuss how <strong>Buddhist values</strong> could address global challenges.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>Consulate General of India</strong> in New York described him as one of the world’s foremost scholars of Buddhism and a great <strong>friend of India</strong>.</li><li>His academic work significantly contributed to the <strong>dissemination of Tibetan Buddhism</strong> and the preservation of India’s <strong>spiritual heritage</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:33.188Z",
+    "solutionsCount": 15,
+    "isComplete": true
+  }
+}

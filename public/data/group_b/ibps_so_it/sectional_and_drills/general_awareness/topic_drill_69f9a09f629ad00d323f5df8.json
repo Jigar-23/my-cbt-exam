@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a09f629ad00d323f5df8",
+  "title": "CT 4: General Awareness (NPA)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a0f10b0471ce89a8c62abb0",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which of the following best describes a &#39;Special Mention Account (SMA)&#39; in the context of early NPA identification?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "An account where borrower has requested loan restructuring",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "An account showing signs of stress before it becomes NPA",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "An account flagged for fraud investigation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "An account written off partially by the bank",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "An account of wilful defaulters only",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>An account showing signs of stress before it becomes NPA</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Special Mention Accounts (SMA)</strong> were introduced by the <strong>Reserve Bank of India (RBI)</strong> to identify <strong>incipient stress</strong> in the assets of banks and financial institutions at an early stage.</li>\n\t<li>An account is classified as <strong>SMA</strong> when the <strong>principal</strong> or <strong>interest</strong> payment is overdue or the account shows symptoms of bad health, even if it has not yet completed the <strong>90-day</strong> period required to be classified as a <strong>Non-Performing Asset (NPA)</strong>. <em><strong>Hence, statement B is correct.</strong></em></li>\n\t<li>The <strong>SMA</strong> classification is divided into three sub-categories based on the duration of the delay in payment: <strong>SMA-0</strong>, <strong>SMA-1</strong>, and <strong>SMA-2</strong>.</li>\n\t<li><strong>SMA-0</strong>: This represents accounts where the <strong>principal</strong> or <strong>interest</strong> payment is not overdue for more than <strong>30 days</strong>, but the account shows signs of <strong>incipient stress</strong>.</li>\n\t<li><strong>SMA-1</strong>: This includes accounts where the <strong>overdue</strong> period is between <strong>31 to 60 days</strong>.</li>\n\t<li><strong>SMA-2</strong>: This category covers accounts where the <strong>overdue</strong> period is between <strong>61 to 90 days</strong>.</li>\n\t<li>Loan restructuring is a <strong>remedial measure</strong> taken after identifying stress or default, rather than the definition of the account category itself. <em><strong>Hence, statement A is incorrect.</strong></em></li>\n\t<li><strong>SMA</strong> is a classification for credit risk and <strong>liquidity stress</strong>, whereas <strong>fraud investigation</strong> involves different regulatory protocols like <strong>Red Flagged Accounts (RFA)</strong>. <em><strong>Hence, statement C is incorrect.</strong></em></li>\n\t<li>An account that is <strong>written off</strong> is removed from the balance sheet as an unrecoverable loss, which occurs long after the <strong>SMA</strong> and <strong>NPA</strong> stages. <em><strong>Hence, statement D is incorrect.</strong></em></li>\n\t<li>A <strong>wilful defaulter</strong> is a specific legal designation for a borrower who has the <strong>ability to pay</strong> but deliberately avoids repayment; <strong>SMA</strong> applies to all accounts showing stress regardless of the borrower&#39;s intent. <em><strong>Hence, statement E is incorrect.</strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>RBI</strong> introduced the <strong>SMA</strong> framework in <strong>2014</strong> as part of the \"Framework for Revitalizing Distressed Assets in the Economy.\"</li>\n\t<li>The <strong>Central Repository of Information on Large Credits (CRILC)</strong> was established to collect, store, and disseminate data on all systemic exposures of <strong>Rs. 5 crore</strong> and above.</li>\n\t<li>Banks are required to report <strong>credit information</strong> to <strong>CRILC</strong> on a <strong>monthly</strong> basis, including the <strong>SMA</strong> status of large borrowers, to ensure <strong>transparency</strong> and early collective action.</li>\n\t<li>The <strong>90-day norm</strong> for <strong>NPAs</strong> means that if an account remains in the <strong>SMA-2</strong> stage and exceeds <strong>90 days</strong> of overdue, it must be downgraded to a <strong>Sub-standard asset</strong>.</li>\n\t<li>The primary objective of <strong>SMA</strong> categorization is to trigger a <strong>Corrective Action Plan (CAP)</strong>, which may include <strong>rectification</strong>, <strong>restructuring</strong>, or <strong>recovery</strong> proceedings.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Incipient Stress Indicators</strong>: Apart from payment delays, <strong>SMA-0</strong> can be triggered by <strong>non-financial signals</strong> such as a drop in <strong>credit rating</strong>, frequent <strong>cheque bounces</strong>, or a significant <strong>delay in project completion</strong>.</li>\n\t<li><strong>Asset Classification</strong>: Once an account stays as an <strong>NPA</strong> for a period up to <strong>12 months</strong>, it is called a <strong>Sub-standard asset</strong>. If it remains <strong>NPA</strong> for more than <strong>12 months</strong>, it becomes a <strong>Doubtful asset</strong>.</li>\n\t<li><strong>Provisioning</strong>: Banks must set aside <strong>capital</strong> (provisions) based on the classification. While <strong>SMA</strong> accounts do not always require higher <strong>provisioning</strong> like <strong>NPAs</strong>, they serve as a <strong>buffer</strong> for banks to manage <strong>liquidity risk</strong>.</li>\n\t<li><strong>Regulatory Updates</strong>: In <strong>2021</strong>, the <strong>RBI</strong> clarified that the <strong>out-of-order</strong> status for <strong>Cash Credit/Overdraft (CC/OD)</strong> accounts is also a critical metric for <strong>SMA</strong> and <strong>NPA</strong> identification to prevent <strong>evergreening</strong> of loans.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f1084205404a71f2788d8",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Under IBC 2016, which authority oversees the insolvency resolution process for corporate debtors?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "RBI",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "SEBI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "National Company Law Tribunal (NCLT)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Debt Recovery Tribunal",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Supreme Court of India",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>National Company Law Tribunal (NCLT)</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>National Company Law Tribunal (NCLT)</strong> is the designated <strong>Adjudicating Authority</strong> for the <strong>Corporate Insolvency Resolution Process (CIRP)</strong> and <strong>liquidation</strong> of <strong>corporate debtors</strong> under the <strong>Insolvency and Bankruptcy Code (IBC), 2016</strong>. <em><strong>Hence, the statement regarding NCLT is correct.</strong></em></li>\n\t<li>The <strong>Insolvency and Bankruptcy Code, 2016</strong> was enacted to provide a <strong>time-bound</strong> process for resolving insolvency in <strong>India</strong>, aiming to maximize the value of assets and promote entrepreneurship.</li>\n\t<li>The <strong>Reserve Bank of India (RBI)</strong> acts as the central banking institution and regulator of the banking system but does not oversee the insolvency resolution process itself; however, it can initiate the process for <strong>Financial Service Providers</strong> under specific rules. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n\t<li>The <strong>Securities and Exchange Board of India (SEBI)</strong> is the regulatory body for the securities market in <strong>India</strong> and does not function as an adjudicating authority for corporate insolvency under the <strong>IBC</strong>. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n\t<li>The <strong>Debt Recovery Tribunal (DRT)</strong> serves as the adjudicating authority for insolvency resolution and bankruptcy of <strong>individuals</strong> and <strong>partnership firms</strong>, rather than corporate bodies, under the <strong>IBC 2016</strong>. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n\t<li>The <strong>Supreme Court of India</strong> is the highest judicial body and acts as the final <strong>appellate authority</strong> for cases arising from the <strong>NCLAT</strong>, but it does not oversee the primary resolution process of corporate debtors. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Establishment of NCLT:</strong> The <strong>National Company Law Tribunal</strong> was constituted on <strong>1 June 2016</strong> under <strong>Section 408</strong> of the <strong>Companies Act, 2013</strong>. It has several benches across <strong>India</strong>, with the <strong>Principal Bench</strong> located in <strong>New Delhi</strong>.</li>\n\t<li><strong>The IBC Ecosystem:</strong> The <strong>Insolvency and Bankruptcy Board of India (IBBI)</strong>, established on <strong>1 October 2016</strong>, is the regulatory body that oversees <strong>Insolvency Professionals (IP)</strong>, <strong>Insolvency Professional Agencies (IPA)</strong>, and <strong>Information Utilities (IU)</strong>.</li>\n\t<li><strong>Appellate Authority:</strong> Any person aggrieved by an order of the <strong>NCLT</strong> may file an appeal with the <strong>National Company Law Appellate Tribunal (NCLAT)</strong>. Appeals against <strong>NCLAT</strong> orders are further heard by the <strong>Supreme Court of India</strong> on a point of law.</li>\n\t<li><strong>Resolution Timelines:</strong> Initially, the <strong>IBC</strong> mandated a <strong>180-day</strong> period for the <strong>CIRP</strong>, extendable by <strong>90 days</strong>. The <strong>Insolvency and Bankruptcy Code (Amendment) Act, 2019</strong>, later specified that the process must be completed within a mandatory total period of <strong>330 days</strong>, including any extension and time taken in legal proceedings.</li>\n\t<li><strong>Moratorium:</strong> Upon the admission of an application by the <strong>NCLT</strong>, a <strong>moratorium</strong> is declared under <strong>Section 14</strong>, which prohibits the institution of suits or continuation of pending suits against the corporate debtor to ensure a smooth resolution.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Corporate Debtor:</strong> Refers to a corporate person who owes a debt to any person. The <strong>IBC</strong> applies to companies incorporated under the <strong>Companies Act</strong> or any previous company law, and <strong>Limited Liability Partnerships (LLP)</strong>.</li>\n\t<li><strong>Committee of Creditors (CoC):</strong> Once the <strong>IRP</strong> is appointed, they constitute a <strong>CoC</strong> consisting of all <strong>financial creditors</strong>. The <strong>CoC</strong> holds the power to approve or reject a <strong>Resolution Plan</strong> with a minimum <strong>66% voting share</strong>.</li>\n\t<li><strong>Insolvency Professionals (IPs):</strong> These are licensed professionals who take over the management of the <strong>corporate debtor</strong> during the <strong>CIRP</strong>, ensuring the company remains a <strong>going concern</strong> while a resolution is sought.</li>\n\t<li><strong>Information Utilities (IU):</strong> These are centralized repositories of financial information that validate and store data regarding loans and defaults, helping the <strong>NCLT</strong> quickly ascertain the occurrence of a <strong>default</strong>.</li>\n\t<li><strong>Financial vs. Operational Creditors:</strong> <strong>Financial Creditors</strong> (like <strong>banks</strong>) are those whose relationship is a pure financial contract, while <strong>Operational Creditors</strong> (like <strong>suppliers</strong>) are those whose liabilities arise from the provision of goods or services.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f105d0f618830b2034ac4",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "The Insolvency and Bankruptcy Code (IBC) was enacted in which year for time-bound resolution of stressed assets and NPAs?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2014",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2015",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2016",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2017",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2018",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>2016</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Insolvency and Bankruptcy Code (IBC)</strong> was enacted by the <strong>Parliament of India</strong> in <strong>May 2016</strong> to consolidate the existing framework by creating a single law for insolvency and bankruptcy. <em>Hence, the year 2016 is correct.</em></li>\n\t<li>The bill was introduced in the <strong>Lok Sabha</strong> in <strong>December 2015</strong> and was subsequently passed by the <strong>Lok Sabha</strong> on <strong>5th May 2016</strong> and by the <strong>Rajya Sabha</strong> on <strong>11th May 2016</strong>.</li>\n\t<li>The <strong>IBC 2016</strong> received the <strong>Presidential assent</strong> on <strong>28th May 2016</strong>, marking a significant reform in the Indian economic legal landscape to handle <strong>Non-Performing Assets (NPAs)</strong> and <strong>stressed assets</strong>.</li>\n\t<li>The code was formulated based on the recommendations of the <strong>Bankruptcy Law Reforms Committee (BLRC)</strong>, which was headed by <strong>Dr. T. K. Viswanathan</strong>.</li>\n\t<li>It aims to promote entrepreneurship and the availability of credit by ensuring the <strong>time-bound resolution</strong> of insolvency cases, which was previously delayed under multiple laws like <strong>SICA 1985</strong> and <strong>SARFAESI 2002</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Insolvency and Bankruptcy Board of India (IBBI)</strong>:\n\n\t<ul>\n\t\t<li>Established on <strong>1st October 2016</strong>, the <strong>IBBI</strong> serves as the regulatory body for overseeing insolvency proceedings and entities like <strong>Insolvency Professionals (IPs)</strong> and <strong>Information Utilities (IUs)</strong>.</li>\n\t\t<li>It has regulatory oversight over the <strong>Insolvency Professional Agencies (IPAs)</strong> and is responsible for the implementation of the <strong>IBC</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Adjudicating Authorities</strong>:\n\t<ul>\n\t\t<li>The <strong>National Company Law Tribunal (NCLT)</strong> acts as the adjudicating authority for <strong>corporate persons</strong> and <strong>Limited Liability Partnerships (LLPs)</strong>.</li>\n\t\t<li>The <strong>Debt Recovery Tribunal (DRT)</strong> is the adjudicating authority for <strong>individuals</strong> and <strong>unlimited partnership firms</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Corporate Insolvency Resolution Process (CIRP)</strong>:\n\t<ul>\n\t\t<li>Under <strong>Section 4</strong> of the code, <strong>CIRP</strong> can be initiated if the default amount is at least <strong>Rs. 1 crore</strong> (increased from <strong>Rs. 1 lakh</strong> in <strong>2020</strong> to protect <strong>MSMEs</strong>).</li>\n\t\t<li>The process must be completed within a mandatory period of <strong>330 days</strong>, which includes any time taken in legal proceedings.</li>\n\t</ul>\n\t</li>\n\t<li><strong>The Committee of Creditors (CoC)</strong>:\n\t<ul>\n\t\t<li>The <strong>CoC</strong>, primarily comprising <strong>financial creditors</strong>, is the supreme decision-making body in the resolution process.</li>\n\t\t<li>A resolution plan requires the approval of <strong>66%</strong> of the voting share of the <strong>CoC</strong> to be implemented.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Section 29A</strong>: This was an amendment introduced in <strong>November 2017</strong> to disqualify <strong>wilful defaulters</strong> and certain other persons from submitting a resolution plan, ensuring that defaulting promoters do not regain control of the company at a discount.</li>\n\t<li><strong>Pre-packaged Insolvency Resolution Process (PIRP)</strong>: Introduced in <strong>April 2021</strong>, this provides an efficient alternative resolution mechanism for <strong>Micro, Small, and Medium Enterprises (MSMEs)</strong>, allowing for a quicker, consensual restructuring.</li>\n\t<li><strong>Waterfall Mechanism</strong>: Under <strong>Section 53</strong>, the code specifies the priority of distribution of assets during <strong>liquidation</strong>, where <strong>secured creditors</strong> and <strong>workmen&#39;s dues</strong> for <strong>24 months</strong> are given top priority after the costs of the insolvency process.</li>\n\t<li><strong>Global Context</strong>: The <strong>IBC 2016</strong> significantly improved <strong>India&#39;s</strong> ranking in the <strong>World Bank&#39;s Ease of Doing Business Index</strong>, particularly in the \"Resolving Insolvency\" parameter, moving from <strong>136th</strong> to <strong>52nd</strong> position within a few years of implementation.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f104433a6a35112cc6af8",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Under RBI guidelines, which of the following is a tool used by banks to resolve NPAs by converting debt into equity shares of the borrower company?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "One Time Settlement (OTS)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Debt Restructuring",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Strategic Debt Restructuring (SDR)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "SARFAESI enforcement",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "&nbsp;Lok Adalat settlement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Strategic Debt Restructuring (SDR)</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Strategic Debt Restructuring (SDR)</strong> was introduced by the <strong>Reserve Bank of India (RBI)</strong> in <strong>June 2015</strong> to provide <strong>banks</strong> with more power to recover <strong>loans</strong> from stressed companies.</li>\n\t<li>Under this scheme, the <strong>Joint Lenders&#39; Forum (JLF)</strong> or the consortium of <strong>banks</strong> was authorized to convert a portion of the <strong>borrower company&rsquo;s debt</strong> into <strong>equity shares</strong>. <em><strong>Hence, the statement regarding debt-to-equity conversion is correct.</strong></em></li>\n\t<li>The primary <strong>function</strong> of <strong>SDR</strong> was to allow <strong>banks</strong> to take over <strong>management control</strong> of a defaulting company by holding at least <strong>51%</strong> of the <strong>equity shares</strong>. This was intended to facilitate the sale of the company to a new <strong>promoter</strong>.</li>\n\t<li>One-Time Settlement (OTS) involves a <strong>compromise</strong> where the <strong>bank</strong> agrees to accept a <strong>payment</strong> less than the total <strong>dues</strong> to settle the <strong>loan</strong> account. This does not involve <strong>converting debt into equity</strong>. <em><strong>Hence, this option is not the primary tool for conversion.</strong></em></li>\n\t<li><strong>SARFAESI enforcement</strong> refers to the <strong>Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002</strong>, which allows <strong>banks</strong> to <strong>seize and sell collateral</strong> assets without <strong>court intervention</strong>. <em><strong>Hence, this is an enforcement tool rather than a restructuring conversion tool.</strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Non-Performing Assets (NPAs)</strong>:\n\n\t<ul>\n\t\t<li>An <strong>NPA</strong> is a <strong>loan or advance</strong> for which the <strong>principal or interest payment</strong> remained <strong>overdue</strong> for a period of <strong>90 days</strong>.</li>\n\t\t<li><strong>Classification</strong>: <strong>NPAs</strong> are categorized into <strong>Sub-standard assets</strong> (less than or equal to <strong>12 months</strong>), <strong>Doubtful assets</strong> (exceeding <strong>12 months</strong>), and <strong>Loss assets</strong> (identified as uncollectible by the <strong>bank</strong> or <strong>RBI</strong>).</li>\n\t</ul>\n\t</li>\n\t<li><strong>The SARFAESI Act, 2002</strong>:\n\t<ul>\n\t\t<li>Enacted in <strong>2002</strong>, this <strong>Act</strong> empowers <strong>banks</strong> and <strong>financial institutions</strong> to recover their <strong>Non-Performing Assets (NPAs)</strong> by seizing the <strong>security</strong> provided by the <strong>borrower</strong>.</li>\n\t\t<li>It is <strong>applicable</strong> only to <strong>secured loans</strong> where the <strong>loan amount</strong> is more than <strong>Rs. 1 Lakh</strong> and the <strong>remaining debt</strong> is more than <strong>20%</strong> of the <strong>principal and interest</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Insolvency and Bankruptcy Code (IBC), 2016</strong>:\n\t<ul>\n\t\t<li>The <strong>IBC</strong> was introduced in <strong>2016</strong> to provide a <strong>time-bound</strong> process (usually <strong>180 to 270 days</strong>) for <strong>insolvency resolution</strong>.</li>\n\t\t<li>It replaced several older <strong>mechanisms</strong> including <strong>SDR</strong> and <strong>CDR</strong> to streamline the <strong>recovery process</strong> through the <strong>National Company Law Tribunal (NCLT)</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Corporate Debt Restructuring (CDR)</strong>:\n\t<ul>\n\t\t<li>A <strong>mechanism</strong> established in <strong>2001</strong> for the <strong>reorganization</strong> of <strong>liabilities</strong> of <strong>companies</strong> facing <strong>financial stress</strong>.</li>\n\t\t<li>It aimed to provide <strong>liquidity</strong> and <strong>viability</strong> to the <strong>debtor</strong> by adjusting the <strong>repayment schedule</strong> or reducing the <strong>interest rate</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Feb 12, 2018 Circular</strong>: The <strong>RBI</strong> issued a landmark <strong>circular</strong> on <strong>February 12, 2018</strong>, which <strong>abolished</strong> all existing <strong>restructuring schemes</strong> like <strong>SDR</strong>, <strong>S4A (Scheme for Sustainable Structuring of Stressed Assets)</strong>, and <strong>CDR</strong>.</li>\n\t<li><strong>Lok Adalats</strong>: These are <strong>alternative dispute resolution</strong> forums. For <strong>banks</strong>, they are generally used for the <strong>settlement</strong> of <strong>NPAs</strong> where the <strong>loan amount</strong> does not exceed <strong>Rs. 20 Lakhs</strong>.</li>\n\t<li><strong>Asset Reconstruction Companies (ARCs)</strong>: These are specialized <strong>financial institutions</strong> that buy the <strong>NPAs</strong> from <strong>banks</strong> at a <strong>discounted rate</strong> and attempt to <strong>recover</strong> the <strong>dues</strong> directly from the <strong>borrowers</strong>.</li>\n\t<li>The <strong>SDR framework</strong> required <strong>banks</strong> to find a <strong>new buyer</strong> for the <strong>equity</strong> within <strong>18 months</strong> of the <strong>reference date</strong> to avoid <strong>asset classification</strong> downgrades.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f101bd50c12865dccd580",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Net NPA is calculated as?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Gross NPA &minus; Total Advances",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Gross NPA &minus; Provisions held against NPAs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Gross NPA + Provisions held",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Total Advances &minus; Standard Assets",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Gross NPA &minus; Written-off accounts only",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Gross NPA &minus; Provisions held against NPAs</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Net NPA (Non-Performing Asset)</strong> is a financial metric used by banks to reflect the actual value of their <strong>bad loans</strong> after accounting for the safety cushions or <strong>provisions</strong> set aside.</li>\n\t<li><strong>Gross NPA</strong> represents the total value of all loan assets that have been classified as non-performing according to the <strong>RBI (Reserve Bank of India)</strong> guidelines, typically when interest or principal remains overdue for more than <strong>90 days</strong>.</li>\n\t<li><strong>Provisions</strong> are the funds that banks must set aside from their <strong>profits</strong> to cover potential losses arising from bad loans. This act of setting aside capital is known as <strong>provisioning</strong>.</li>\n\t<li>The calculation <strong>Gross NPA &minus; Provisions</strong> provides a more realistic picture of the bank&#39;s financial health, as it shows the <strong>net loss</strong> exposure that is not yet covered by capital buffers. <em><strong>Hence, the statement regarding Option B is correct.</strong></em></li>\n\t<li>The <strong>Net NPA Ratio</strong> is often calculated as <strong>(Net NPAs &divide; Net Advances) &times; 100</strong>, which helps investors and regulators understand the asset quality of the <strong>banking institution</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Asset Classification:</strong> Banks in <strong>India</strong> categorize assets into four groups: <strong>Standard Assets</strong> (regular payments), <strong>Sub-standard Assets</strong> (NPA for &le; <strong>12 months</strong>), <strong>Doubtful Assets</strong> (NPA for > <strong>12 months</strong>), and <strong>Loss Assets</strong> (identified as uncollectible by the bank or <strong>RBI</strong>).</li>\n\t<li><strong>Provision Coverage Ratio (PCR):</strong> This is the ratio of provisioning to <strong>Gross NPAs</strong>. A higher <strong>PCR</strong> (typically above <strong>70%</strong>) indicates that the bank is well-buffered against potential defaults and has a lower <strong>Net NPA</strong>.</li>\n\t<li><strong>SARFAESI Act, 2002:</strong> The <strong>Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act</strong> allows banks to auction residential or commercial properties of borrowers to recover <strong>NPAs</strong> without the intervention of a court.</li>\n\t<li><strong>Insolvency and Bankruptcy Code (IBC), 2016:</strong> This <strong>legislation</strong> was introduced to provide a time-bound process for <strong>insolvency resolution</strong> of corporate debtors, significantly aiding in the reduction of <strong>Gross NPAs</strong> in the <strong>Indian banking sector</strong>.</li>\n\t<li><strong>Impact on Profitability:</strong> High <strong>NPAs</strong> lead to increased <strong>provisioning requirements</strong>, which directly reduces the <strong>Net Profit</strong> of the bank and limits its capacity to lend further, creating a <strong>liquidity crunch</strong> in the economy.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Provisioning Norms:</strong> For <strong>Sub-standard assets</strong>, a general provision of <strong>15%</strong> is required. For <strong>Doubtful assets</strong>, the provisioning varies from <strong>25% to 100%</strong> depending on the period for which the asset has remained doubtful and the availability of <strong>security/collateral</strong>.</li>\n\t<li><strong>Written-off Accounts:</strong> These are loans that the bank no longer expects to recover and removes from its <strong>balance sheet</strong>. While they reduce the <strong>Gross NPA</strong> figure, the bank continues its <strong>recovery efforts</strong> against the borrower.</li>\n\t<li><strong>Capital Adequacy Ratio (CAR):</strong> High <strong>Net NPAs</strong> can erode a bank&#39;s capital, making it difficult to maintain the <strong>CAR</strong> mandated by <strong>Basel III norms</strong>, which currently stands at a minimum of <strong>9%</strong> for <strong>Indian banks</strong>.</li>\n\t<li><strong>Twin Balance Sheet Problem:</strong> A term coined in the <strong>Economic Survey of India</strong>, referring to the stressed balance sheets of both <strong>Public Sector Banks (PSBs)</strong> due to <strong>NPAs</strong> and corporate sectors due to over-leveraged <strong>debt</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f0f9a461696fe4da9942c",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "&nbsp;What is the full form of PCR in the context of NPA management?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Provisioning Credit Ratio",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Provisioning Coverage Ratio",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Principal Credit Recovery",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Probable Credit Risk",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Permanent Credit Reversal",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Provisioning Coverage Ratio</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Provisioning Coverage Ratio (PCR)</strong> is a vital financial metric used in the banking sector to measure the extent to which a bank has set aside funds to cover potential losses from <strong>Non-Performing Assets (NPAs)</strong>.</li>\n\t<li>It is calculated as the ratio of the total <strong>provisions</strong> held by a bank (excluding technical write-offs) to its <strong>Gross NPAs</strong>, expressed as a <strong>percentage</strong>.</li>\n\t<li>A higher <strong>PCR</strong> indicates that the bank has a larger buffer to manage the credit risk associated with bad loans, making it more resilient to asset quality shocks. <em><span style=\"font-weight: bolder;\">Hence, option B is the correct definition.</span></em></li>\n\t<li>The <strong>Reserve Bank of India (RBI)</strong> historically suggested a benchmark <strong>PCR</strong> of <strong>70%</strong> for banks to ensure financial stability and transparency in their balance sheets.</li>\n\t<li>This ratio helps investors and regulators assess the health of a bank&rsquo;s loan portfolio and its ability to absorb <strong>loan losses</strong> without impacting its core <strong>capital</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Non-Performing Assets (NPA):</strong>\n\n\t<ul>\n\t\t<li>An asset becomes an <strong>NPA</strong> when the principal or interest payment remains overdue for a period of more than <strong>90 days</strong> in the case of a term loan.</li>\n\t\t<li><strong>NPAs</strong> are further classified into three categories: <strong>Sub-standard assets</strong> (overdue for &le; <strong>12 months</strong>), <strong>Doubtful assets</strong> (overdue for > <strong>12 months</strong>), and <strong>Loss assets</strong> (identified as uncollectible by the bank or <strong>RBI</strong>).</li>\n\t</ul>\n\t</li>\n\t<li><strong>Gross NPA vs. Net NPA:</strong>\n\t<ul>\n\t\t<li><strong>Gross NPA</strong> is the total value of all loan defaults by the bank&#39;s customers across all branches.</li>\n\t\t<li><strong>Net NPA</strong> is calculated by subtracting the <strong>provisions</strong> (the <strong>PCR</strong> amount) from the <strong>Gross NPA</strong>. It represents the actual burden of bad loans on the bank&rsquo;s books.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Provisioning Norms:</strong>\n\t<ul>\n\t\t<li>The <strong>RBI</strong> mandates banks to follow specific provisioning norms based on the age of the <strong>NPA</strong>. For instance, a <strong>15%</strong> provision is usually required for <strong>Sub-standard</strong> (unsecured) assets, while <strong>100%</strong> is required for <strong>Loss assets</strong>.</li>\n\t\t<li>The <strong>Insolvency and Bankruptcy Code (IBC), 2016</strong> has also played a significant role in the recovery process of these <strong>NPAs</strong> in <strong>India</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Financial Stability Report (FSR):</strong> The <strong>RBI</strong> publishes the <strong>FSR</strong> twice a <strong>year</strong>, which provides <strong>data</strong> on the <strong>PCR</strong> levels of <strong>Scheduled Commercial Banks (SCBs)</strong> to monitor the systemic risk in the <strong>Indian</strong> economy.</li>\n\t<li><strong>Capital Adequacy Ratio (CAR):</strong> While <strong>PCR</strong> focuses on covering specific loan losses, the <strong>CAR</strong> (or <strong>CRAR</strong>) ensures that the bank has enough <strong>equity capital</strong> to protect depositors. Both are critical for a bank&#39;s survival during an <strong>economic slowdown</strong>.</li>\n\t<li><strong>Evolution of PCR:</strong> In recent <strong>years</strong> (specifically post-<strong>2018</strong>), many <strong>Indian</strong> banks have significantly increased their <strong>PCR</strong>, often exceeding <strong>75-80%</strong>, to clean up their balance sheets following the <strong>Asset Quality Review (AQR)</strong>.</li>\n\t<li><strong>Impact on Profitability:</strong> Higher provisioning (resulting in a higher <strong>PCR</strong>) reduces a bank&rsquo;s <strong>Net Profit</strong> in the short term, as more <strong>income</strong> is diverted to create the reserve, but it strengthens the long-term sustainability of the <strong>organization</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f0f3e98950246b8c9726e",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "A loan account where the borrower has paid all overdue amounts and the account has been regular for a specified period is called?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Restructured Asset",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Written-off Asset",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Upgraded Asset",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rescheduled Asset",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Watch-list Asset",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Upgraded Asset</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>An <strong>Upgraded Asset</strong> is a loan account that was previously classified as a <strong>Non-Performing Asset (NPA)</strong> but has been reclassified as a <strong>Standard Asset</strong>. This happens when the <strong>borrower</strong> pays all the <strong>overdue interest</strong> and <strong>principal</strong> amounts, making the account <strong>regular</strong>. <em><strong>Hence, statement C is correct.</strong></em></li>\n\t<li>According to <strong>Reserve Bank of India (RBI)</strong> guidelines, an <strong>NPA</strong> can be <strong>upgraded</strong> to a <strong>standard asset</strong> only if the entire <strong>arrears</strong> of <strong>interest</strong> and <strong>principal</strong> are paid by the <strong>borrower</strong>.</li>\n\t<li>The process of <strong>upgradation</strong> ensures that the <strong>bank&rsquo;s</strong> <strong>balance sheet</strong> reflects the improved <strong>creditworthiness</strong> of the <strong>borrower</strong>. It allows the <strong>financial institution</strong> to reduce its <strong>provisioning</strong> requirements, thereby increasing its <strong>net profit</strong>.</li>\n\t<li>Once a <strong>loan</strong> is <strong>upgraded</strong>, it is no longer subject to the strict <strong>monitoring</strong> and <strong>legal recovery</strong> processes associated with <strong>distressed assets</strong>, provided the <strong>borrower</strong> continues to meet future <strong>repayment</strong> schedules.</li>\n\t<li>A <strong>Restructured Asset</strong> is an account where the <strong>bank</strong> grants <strong>concessions</strong> to a <strong>borrower</strong> facing <strong>financial difficulties</strong>, such as extending the <strong>repayment period</strong> or reducing <strong>interest rates</strong>. It does not necessarily mean the <strong>account</strong> has been <strong>regularized</strong> by full <strong>payment</strong> of <strong>dues</strong>. <em><strong>Hence, statement A is incorrect.</strong></em></li>\n\t<li>A <strong>Written-off Asset</strong> is a <strong>loan</strong> that the <strong>bank</strong> considers <strong>uncollectible</strong> and removes from its <strong>active books</strong> to <strong>clean up</strong> the <strong>balance sheet</strong>, although <strong>recovery efforts</strong> may still continue through <strong>legal channels</strong>. <em><strong>Hence, statement B is incorrect.</strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Non-Performing Asset (NPA):</strong> In <strong>India</strong>, an <strong>asset</strong> becomes <strong>non-performing</strong> when it ceases to generate <strong>income</strong> for the <strong>bank</strong>. For most <strong>loans</strong>, this period is defined as <strong>90 days</strong> of <strong>overdue</strong> status for <strong>interest</strong> or <strong>principal</strong>.</li>\n\t<li><strong>Asset Classification:</strong> <strong>Banks</strong> are required to classify <strong>NPAs</strong> into <strong>three</strong> categories: <strong>Sub-standard</strong> (overdue for less than or equal to <strong>12 months</strong>), <strong>Doubtful</strong> (overdue for more than <strong>12 months</strong>), and <strong>Loss Assets</strong> (where <strong>loss</strong> is identified but not <strong>written off</strong>).</li>\n\t<li><strong>Special Mention Accounts (SMA):</strong> Before an <strong>account</strong> turns into an <strong>NPA</strong>, it is classified as <strong>SMA</strong> to alert the <strong>bank</strong>. <strong>SMA-0</strong> covers <strong>1-30 days</strong>, <strong>SMA-1</strong> covers <strong>31-60 days</strong>, and <strong>SMA-2</strong> covers <strong>61-90 days</strong> of <strong>overdue</strong>.</li>\n\t<li><strong>SARFAESI Act, 2002:</strong> This <strong>Act</strong> allows <strong>banks</strong> and <strong>financial institutions</strong> to <strong>auction</strong> <strong>residential</strong> or <strong>commercial properties</strong> to <strong>recover loans</strong> when the <strong>borrower</strong> defaults on <strong>repayments</strong>.</li>\n\t<li><strong>Provisioning:</strong> <strong>Banks</strong> must set aside a specific <strong>percentage</strong> of <strong>funds</strong> from their <strong>profits</strong> as a <strong>buffer</strong> against <strong>bad loans</strong>. For a <strong>Standard Asset</strong>, the <strong>provision</strong> is typically <strong>0.40%</strong>, whereas for <strong>Sub-standard assets</strong>, it can be <strong>15%</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Specified Period:</strong> For <strong>restructured accounts</strong>, the <strong>account</strong> must demonstrate <strong>satisfactory performance</strong> during a <strong>specified period</strong> (usually <strong>one year</strong>) before it can be <strong>upgraded</strong> to <strong>standard</strong>.</li>\n\t<li><strong>Income Recognition:</strong> According to <strong>RBI</strong> norms, <strong>banks</strong> can only recognize <strong>income</strong> from <strong>NPAs</strong> on a <strong>cash basis</strong> (when actually received), but for <strong>Standard</strong> or <strong>Upgraded Assets</strong>, <strong>income</strong> can be recognized on an <strong>accrual basis</strong>.</li>\n\t<li><strong>Watch-list Assets:</strong> These are <strong>Standard Assets</strong> where the <strong>bank</strong> perceives a <strong>high risk</strong> of <strong>slippage</strong> into the <strong>NPA</strong> category due to <strong>industry-specific</strong> or <strong>borrower-specific</strong> issues. <em><strong>Hence, statement E is incorrect.</strong></em></li>\n\t<li><strong>Rescheduled Asset:</strong> This involves modifying the <strong>repayment schedule</strong> of a <strong>loan</strong>, often by granting a <strong>moratorium</strong>, without necessarily <strong>regularizing</strong> the <strong>arrears</strong> immediately. <em><strong>Hence, statement D is incorrect.</strong></em></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f0f18cf23a15bf6d2da3b",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Which of the following accounts will NOT be classified as NPA even if overdue for more than 90 days?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Term Loan account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Cash Credit account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Agricultural loan account during natural calamity with RBI relaxation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Housing loan account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Personal loan account",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Agricultural loan account during natural calamity with RBI relaxation</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>According to the <strong>Reserve Bank of India (RBI)</strong> guidelines, a <strong>Non-Performing Asset (NPA)</strong> is a loan or an advance where the interest and/or installment of principal remains overdue for a period of more than <strong>90 days</strong> in respect of a <strong>Term Loan</strong>. <em><span><strong>Hence, statement A is incorrect.</strong></span></em></li>\n\t<li>In the case of <strong>Cash Credit (CC)</strong> or <strong>Overdraft (OD)</strong>, an account is classified as <strong>NPA</strong> if it remains <strong>out of order</strong> for a period of more than <strong>90 days</strong>. <em><span><strong>Hence, statement B is incorrect.</strong></span></em></li>\n\t<li>For <strong>Agricultural Loans</strong>, the <strong>NPA</strong> classification is linked to crop seasons instead of the <strong>90-day</strong> rule. A loan granted for <strong>short duration crops</strong> is treated as <strong>NPA</strong> if the installment remains overdue for <strong>two crop seasons</strong>, while for <strong>long duration crops</strong>, the period is <strong>one crop season</strong>.</li>\n\t<li>When a <strong>natural calamity</strong> (such as floods, drought, etc.) occurs, the <strong>RBI</strong> issues specific <strong>Master Circulars</strong> allowing banks to <strong>restructure</strong> or <strong>reschedule</strong> loans. In such cases, the account is not classified as <strong>NPA</strong> even if the overdue exceeds <strong>90 days</strong>, provided the restructuring is done as per <strong>RBI</strong> relaxations. <em><span><strong>Hence, statement C is correct.</strong></span></em></li>\n\t<li><strong>Housing loans</strong> and <strong>Personal loans</strong> are generally categorized under retail loans and strictly follow the <strong>90-day</strong> overdue norm for <strong>NPA</strong> classification unless specific moratoriums are announced by the <strong>Government of India</strong> or <strong>RBI</strong>. <em><span><strong>Hence, statements D and E are incorrect.</strong></span></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Asset Classification Categories:</strong>\n\n\t<ul>\n\t\t<li><strong>Standard Assets:</strong> These are accounts which do not disclose any problems and which do not carry more than <strong>normal risk</strong> attached to the business.</li>\n\t\t<li><strong>Sub-standard Assets:</strong> An asset which has remained <strong>NPA</strong> for a period less than or equal to <strong>12 months</strong>.</li>\n\t\t<li><strong>Doubtful Assets:</strong> An asset would be classified as doubtful if it has remained in the <strong>sub-standard category</strong> for a period of <strong>12 months</strong>.</li>\n\t\t<li><strong>Loss Assets:</strong> These are assets where loss has been identified by the <strong>bank</strong>, <strong>internal/external auditors</strong>, or the <strong>RBI inspection</strong> but the amount has not been written off wholly.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Special Mention Accounts (SMA):</strong>\n\t<ul>\n\t\t<li>Before a loan account turns into an <strong>NPA</strong>, it is classified as <strong>SMA</strong> to alert the bank about potential default.</li>\n\t\t<li><strong>SMA-0:</strong> Principal or interest payment not overdue for more than <strong>30 days</strong> but showing signs of incipient stress.</li>\n\t\t<li><strong>SMA-1:</strong> Overdue between <strong>31 to 60 days</strong>.</li>\n\t\t<li><strong>SMA-2:</strong> Overdue between <strong>61 to 90 days</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Relief Measures for Natural Calamities:</strong> Under the <strong>RBI Master Direction</strong> on <strong>Relief Measures by Banks in Areas Affected by Natural Calamities</strong>, banks are permitted to convert <strong>Short-Term Production Loans</strong> into <strong>Medium-Term Loans</strong>.</li>\n\t<li><strong>Moratorium Period:</strong> In areas affected by <strong>natural calamities</strong>, banks may grant a moratorium period of at least <strong>one year</strong>, and the <strong>rescheduled installment</strong> will not be treated as overdue for the purpose of <strong>NPA</strong> classification.</li>\n\t<li><strong>Income Recognition:</strong> For any <strong>NPA</strong> account, interest income is recognized by banks only when it is <strong>actually realized</strong> (Cash Basis), whereas for <strong>Standard Assets</strong>, it is recognized on an <strong>accrual basis</strong>.</li>\n\t<li><strong>Provisioning Norms:</strong> Banks are required to set aside a certain percentage of their profits as <strong>provisions</strong> for <strong>NPAs</strong>. For <strong>Sub-standard assets</strong>, a general provision of <strong>15%</strong> is required, while for <strong>Doubtful assets</strong>, it ranges from <strong>25% to 100%</strong> depending on the period for which the asset has remained doubtful.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f0ee9b835398b15c75553",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Which committee&#39;s recommendations formed the basis for NPA norms and prudential regulations introduced in India in the early 1990s?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rangarajan Committee",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Narasimham Committee",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Kelkar Committee",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Raghuram Rajan Committee",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Deepak Mohanty Committee",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "The correct answer is <u><strong>Narasimham Committee</strong></u>. <span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>\n\n<ul>\n\t<li>The <strong>Narasimham Committee I</strong> (Committee on the Financial System) was appointed by the <strong>Government of India</strong> in <strong>August 1991</strong> under the chairmanship of <strong>M. Narasimham</strong>, the <strong>13th Governor</strong> of the <strong>Reserve Bank of India (RBI)</strong>. <em><strong>Hence, this committee is the correct basis for NPA norms.</strong></em></li>\n\t<li>The committee&rsquo;s recommendations aimed at enhancing the <strong>transparency</strong> and <strong>efficiency</strong> of the banking sector, leading to the introduction of <strong>Prudential Norms</strong> for <strong>Income Recognition</strong>, <strong>Asset Classification</strong>, and <strong>Provisioning</strong>.</li>\n\t<li>It proposed the categorization of <strong>Non-Performing Assets (NPAs)</strong> into four groups: <strong>Standard Assets</strong>, <strong>Sub-standard Assets</strong>, <strong>Doubtful Assets</strong>, and <strong>Loss Assets</strong>, based on the duration for which the <strong>principal</strong> or <strong>interest</strong> remained overdue.</li>\n\t<li>A major recommendation was the reduction of the <strong>Statutory Liquidity Ratio (SLR)</strong> from <strong>38.5%</strong> to <strong>25%</strong> and the <strong>Cash Reserve Ratio (CRR)</strong> to facilitate better liquidity flow into the productive sectors of the <strong>economy</strong>.</li>\n\t<li>The committee also advocated for the adoption of the <strong>Capital Adequacy Ratio (CAR)</strong> in alignment with the <strong>Basel I</strong> standards, initially setting a target of <strong>8%</strong> to strengthen the <strong>capital base</strong> of Indian banks.</li>\n</ul>\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>\n\n<ul>\n\t<li><strong>Rangarajan Committee</strong>: This committee, headed by <strong>C. Rangarajan</strong>, is primarily known for its reports on <strong>Disinvestment of Shares in Public Sector Enterprises (1993)</strong> and the <strong>Methodology for Measurement of Poverty (2012)</strong>. It did not formulate the initial 1990s NPA norms. <em><strong>Hence, statement A is incorrect.</strong></em></li>\n\t<li><strong>Kelkar Committee</strong>: Led by <strong>Vijay Kelkar</strong>, this committee is renowned for its recommendations on <strong>Tax Reforms</strong> (Direct and Indirect taxes) in <strong>2002</strong> and <strong>Revisiting and Revitalizing the Public-Private Partnership (PPP) model</strong> in <strong>2015</strong>. <em><strong>Hence, statement C is incorrect.</strong></em></li>\n\t<li><strong>Raghuram Rajan Committee</strong>: Formed in <strong>2007</strong> and submitting its report in <strong>2008</strong>, the <strong>Committee on Financial Sector Reforms (CFSR)</strong> proposed \"A Hundred Small Steps\" to improve financial inclusion and promote a <strong>market-led</strong> financial system. <em><strong>Hence, statement D is incorrect.</strong></em></li>\n\t<li><strong>Deepak Mohanty Committee</strong>: This committee was constituted by the <strong>RBI</strong> in <strong>2015</strong> to work on the <strong>Medium-term Path on Financial Inclusion</strong>. It also worked on the <strong>Base Rate</strong> system and <strong>monetary policy transmission</strong>. <em><strong>Hence, statement E is incorrect.</strong></em></li>\n</ul>\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span>\n\n<ul>\n\t<li>The <strong>Narasimham Committee II</strong> (Committee on Banking Sector Reforms) was established in <strong>1998</strong> to review the progress of the <strong>1991</strong> reforms and suggested the creation of <strong>Asset Reconstruction Companies (ARCs)</strong> to handle bad debts.</li>\n\t<li>Under current <strong>RBI</strong> guidelines, a <strong>loan</strong> or <strong>advance</strong> is classified as an <strong>NPA</strong> if the interest or installment remains overdue for a period of more than <strong>90 days</strong>.</li>\n\t<li>The implementation of these norms in the early <strong>1990s</strong> marked the transition of the Indian <strong>banking system</strong> from <strong>social banking</strong> to <strong>commercial banking</strong> based on <strong>profitability</strong> and <strong>sustainability</strong>.</li>\n\t<li>These reforms were part of the broader <strong>Liberalization, Privatization, and Globalization (LPG)</strong> strategy initiated by the then <strong>Finance Minister</strong> <strong>Dr. Manmohan Singh</strong> during the <strong>Narasimha Rao government</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0f0eb56e3c6c59e312c4de",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "As per RBI&#39;s IRAC norms, the full form of IRAC is?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Income Recognition and Asset Classification",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Interest Rate and Credit Classification",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Income Reversal and Asset Control",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Interest Recognition and Accounting Classification",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Income Reporting and Asset Categorisation",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Income Recognition and Asset Classification</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>IRAC</strong> stands for <strong>Income Recognition and Asset Classification</strong>. These norms are the prudential guidelines issued by the <strong>Reserve Bank of India (RBI)</strong> to ensure that the financial statements of banks reflect their actual financial health.</li>\n\t<li>The primary objective of <strong>IRAC</strong> norms is to provide a uniform and consistent framework for <strong>Indian banks</strong> to recognize income and classify their <strong>assets</strong> (loans and advances) based on the associated credit risk. <em><span style=\"font-weight: bolder;\">Hence, the correct option is Income Recognition and Asset Classification.</span></em></li>\n\t<li>Under <strong>Income Recognition</strong>, banks are prohibited from recognizing income on <strong>Non-Performing Assets (NPAs)</strong> on an accrual basis. Instead, such income should be recognized only when it is actually realized or received.</li>\n\t<li><strong>Asset Classification</strong> refers to the process where banks categorize their credit facilities into <strong>Standard Assets</strong> and <strong>Non-Performing Assets (NPAs)</strong>. This classification is further divided into <strong>Sub-standard</strong>, <strong>Doubtful</strong>, and <strong>Loss assets</strong> based on the period for which the asset has remained non-performing.</li>\n\t<li>The <strong>RBI</strong> issues these guidelines through a <strong>Master Circular</strong> titled \"Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances,\" which is updated periodically to maintain the stability of the <strong>banking sector</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Non-Performing Asset (NPA)</strong>: An asset, including a leased asset, becomes non-performing when it ceases to generate income for the bank. For <strong>term loans</strong>, it is classified as an <strong>NPA</strong> if the interest or installment of principal remains overdue for more than <strong>90 days</strong>.</li>\n\t<li><strong>Classification Categories</strong>:\n\t<ul>\n\t\t<li><strong>Standard Assets</strong>: These are performing assets that do not disclose any problems and do not carry more than normal risk.</li>\n\t\t<li><strong>Sub-standard Assets</strong>: An asset that has remained an <strong>NPA</strong> for a period less than or equal to <strong>12 months</strong>.</li>\n\t\t<li><strong>Doubtful Assets</strong>: An asset that has remained in the sub-standard category for a period exceeding <strong>12 months</strong>.</li>\n\t\t<li><strong>Loss Assets</strong>: Assets where loss has been identified by the bank, internal/external auditors, or the <strong>RBI</strong> inspectors, but the amount has not been written off yet.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Provisioning Norms</strong>: Based on the <strong>IRAC</strong> classification, banks are required to make provisions. For <strong>Standard Assets</strong>, the provision usually ranges from <strong>0.25% to 1.00%</strong> depending on the sector. For <strong>Sub-standard</strong> assets, a general provision of <strong>15%</strong> of the outstanding amount is required.</li>\n\t<li><strong>Out of Order</strong>: For <strong>Cash Credit (CC)</strong> or <strong>Overdraft (OD)</strong> accounts, the account is treated as \"out of order\" if the outstanding balance remains continuously in excess of the sanctioned limit for <strong>90 days</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Special Mention Accounts (SMA)</strong>: Before a loan becomes an <strong>NPA</strong>, it is categorized under <strong>SMA</strong> to identify incipient stress.\n\n\t<ul>\n\t\t<li><strong>SMA-0</strong>: Principal or interest payment not overdue for more than <strong>30 days</strong> but showing signs of incipient stress.</li>\n\t\t<li><strong>SMA-1</strong>: Overdue between <strong>31 to 60 days</strong>.</li>\n\t\t<li><strong>SMA-2</strong>: Overdue between <strong>61 to 90 days</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Agricultural Advances</strong>: The <strong>90-day norm</strong> does not apply here. Instead, a loan is an <strong>NPA</strong> if the installment remains overdue for <strong>two crop seasons</strong> for short-duration crops or <strong>one crop season</strong> for long-duration crops.</li>\n\t<li><strong>Provisioning Coverage Ratio (PCR)</strong>: This is the ratio of provisioning to gross <strong>NPAs</strong>, indicating the cushion a bank has to absorb losses. The <strong>RBI</strong> often monitors this to ensure <strong>financial stability</strong>.</li>\n\t<li><strong>Income Reversal</strong>: If an account becomes an <strong>NPA</strong>, any interest calculated and credited to the income account in the previous periods but not realized must be reversed or provided for in the <strong>current period</strong>.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:34.396Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

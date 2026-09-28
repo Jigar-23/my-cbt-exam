@@ -1,0 +1,909 @@
+{
+  "testId": "69f9a0f1b509dfa6543af80d",
+  "title": "IBPS SO Quantitatitve Aptitude (Mock Test)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 20,
+  "totalDurationMinutes": 16,
+  "totalMarks": 20,
+  "sections": [
+    {
+      "id": "64f829d3585b8ffaaac8d5c7",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 20,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "605c1284b02b6b7b4f2796a0",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Find the total number of females died in 2020.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "83,000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "43,000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "62,000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "73,000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "40,000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>States</td>\n\t\t\t<td>Number of persons died</td>\n\t\t\t<td>Number of males died</td>\n\t\t\t<td>Number of females died</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Rajasthan</td>\n\t\t\t<td>70,000</td>\n\t\t\t<td>35,000</td>\n\t\t\t<td>35,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Kerala</td>\n\t\t\t<td>10,000</td>\n\t\t\t<td>&nbsp; 2,000</td>\n\t\t\t<td>&nbsp; &nbsp;8,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Delhi</td>\n\t\t\t<td>40,000</td>\n\t\t\t<td>16,000</td>\n\t\t\t<td>24,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mumbai</td>\n\t\t\t<td>80,000</td>\n\t\t\t<td>64,000</td>\n\t\t\t<td>16,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Total</td>\n\t\t\t<td>2,00,000</td>\n\t\t\t<td>1,17,000</td>\n\t\t\t<td>83,000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><strong>&there4; The total number of females died in 2020 due to COVID - 19 is 83,000.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605c1284b02b6b7b4f2796a1",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Find the ratio of males died in Kerala and Delhi together to the females died in Delhi and Mumbai together.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 : 10",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "9 : 20",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4 : 5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7 : 6",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1 : 5",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color: rgb(255, 255, 255); width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>States</td>\n\t\t\t<td>Number of persons died</td>\n\t\t\t<td>Number of males died</td>\n\t\t\t<td>Number of females died</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Rajasthan</td>\n\t\t\t<td>70,000</td>\n\t\t\t<td>35,000</td>\n\t\t\t<td>35,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Kerala</td>\n\t\t\t<td>10,000</td>\n\t\t\t<td>&nbsp; 2,000</td>\n\t\t\t<td>&nbsp; &nbsp;8,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Delhi</td>\n\t\t\t<td>40,000</td>\n\t\t\t<td>16,000</td>\n\t\t\t<td>24,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mumbai</td>\n\t\t\t<td>80,000</td>\n\t\t\t<td>64,000</td>\n\t\t\t<td>16,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Total</td>\n\t\t\t<td>2,00,000</td>\n\t\t\t<td>1,17,000</td>\n\t\t\t<td>83,000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Total number of males died in Kerala and Delhi = 2000 + 16000</p>\n\n<p>&rArr;18000</p>\n\n<p>Total number of females died in Delhi and Mumbai together = 24,000 + 16,000</p>\n\n<p>&rArr; 40,000</p>\n\n<p>Required ratio = 18,000 : 40,000</p>\n\n<p>&rArr; 9 : 20</p>\n\n<p><strong>&there4; The ratio of males died in Kerala and Delhi together to the females died in Delhi and Mumbai together is 9&nbsp;∶ 20</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605c1284b02b6b7b4f2796a2",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "What is the percentage of males died in total number of persons died due to COVID - 19?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "70%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "34%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "58.5%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "50%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "20%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>Number of males died = (35/100&nbsp;&times; 1/2 + 5/100&nbsp;&times; 1/5 + 20/100&nbsp;&times; 2/5 + 40/100&nbsp;&times; 4/5)&nbsp;&times; 200000 = 1,17,000</p>\n\n<p>Total number of persons died = 2,00,000</p>\n\n<p>Required percentage = (1,17,000/2,00,000) &times; 100</p>\n\n<p>&rArr; 58.5%</p>\n\n<p><strong>&there4; The percentage of males died in total number of persons died due to COVID - 19 is 58.5%</strong></p>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605c1284b02b6b7b4f2796a3",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Number of persons died in Kerala is what percent of persons died in Delhi?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "35%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "45%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "67%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "10%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color: rgb(255, 255, 255); width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>States</td>\n\t\t\t<td>Number of persons died</td>\n\t\t\t<td>Number of males died</td>\n\t\t\t<td>Number of females died</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Rajasthan</td>\n\t\t\t<td>70,000</td>\n\t\t\t<td>35,000</td>\n\t\t\t<td>35,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Kerala</td>\n\t\t\t<td>10,000</td>\n\t\t\t<td>&nbsp; 2,000</td>\n\t\t\t<td>&nbsp; &nbsp;8,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Delhi</td>\n\t\t\t<td>40,000</td>\n\t\t\t<td>16,000</td>\n\t\t\t<td>24,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mumbai</td>\n\t\t\t<td>80,000</td>\n\t\t\t<td>64,000</td>\n\t\t\t<td>16,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Total</td>\n\t\t\t<td>2,00,000</td>\n\t\t\t<td>1,17,000</td>\n\t\t\t<td>83,000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Number of persons field in Kerala = 10,000</p>\n\n<p>Number of persona died in Delhi = 40,000</p>\n\n<p>Required percentage = (10,000/40,000) &times; 100</p>\n\n<div>25%</div>\n\n<div><strong>&there4; Number of persons died in Kerala is 25 percent of persons died in Delhi.</strong></div>",
+          "topic": "Test"
+        },
+        {
+          "id": "605c1284b02b6b7b4f2796a4",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Find the average number of females died in Delhi and Mumbai.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "20,000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "14,000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "15,000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "17,000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "4,000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color: rgb(255, 255, 255); width: 500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>States</td>\n\t\t\t<td>Number of persons died</td>\n\t\t\t<td>Number of males died</td>\n\t\t\t<td>Number of females died</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Rajasthan</td>\n\t\t\t<td>70,000</td>\n\t\t\t<td>35,000</td>\n\t\t\t<td>35,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Kerala</td>\n\t\t\t<td>10,000</td>\n\t\t\t<td>&nbsp; 2,000</td>\n\t\t\t<td>&nbsp; &nbsp;8,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Delhi</td>\n\t\t\t<td>40,000</td>\n\t\t\t<td>16,000</td>\n\t\t\t<td>24,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mumbai</td>\n\t\t\t<td>80,000</td>\n\t\t\t<td>64,000</td>\n\t\t\t<td>16,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Total</td>\n\t\t\t<td>2,00,000</td>\n\t\t\t<td>1,17,000</td>\n\t\t\t<td>83,000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Number of females died in Delhi = 24,000</p>\n\n<p>Number of females died in Mumbai = 16,000</p>\n\n<p>Required average = (24,000 + 16,000)/2</p>\n\n<p>40,000/2</p>\n\n<p>20,000</p>\n\n<p><strong>&there4;&nbsp; The average number of females died in Delhi and Mumbai is 20,000</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "610a8b03c0c8798d2f5e2524",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Apples sold by vendors A and B in monsoon is approximately what % more than the apples sold by vendors C and D in summer?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "25%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "43%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "35%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "15%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>Apples sold by vendors A and B in monsoon = (300 + 400)</p>\n\n<p>&rArr; 700</p>\n\n<p>Apples sold by vendors C and D = (240 + 250)</p>\n\n<p>&rArr; 490</p>\n\n<p>Required percentage = [(700&nbsp;&ndash; 490)/490]&nbsp;&times; 100</p>\n\n<p>&rArr; [210 / 490]&nbsp;&times; 100</p>\n\n<p>&rArr; 42.85% &asymp;&nbsp;43%</p>\n\n<p><strong>&there4; The required percentage is 43%</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f873139d6d0a27d0e15bb8a",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p style=\"\">Solve the given quadratic equations and establish the relation between them.</p>\n\n<p style=\"\">I: a<sup style=\"\">2 </sup>+ 38a + 345 = 0</p>\n\n<p style=\"\">II: 6b<sup style=\"\">2</sup> + 153b + 345 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a &le; b",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "b &le; a",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "a < b",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "b < a",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "a = b, or relation cannot be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">I: a<sup style=\"\">2 </sup>+ 38a + 345 = 0</p>\n\n<p style=\"\">&rArr; (a +&nbsp;23)&nbsp;&times; (a + 15) = 0</p>\n\n<p style=\"\">&rArr; a = (-23), (-15)</p>\n\n<p style=\"\">II: 6b<sup style=\"\">2</sup> + 153b + 345 = 0</p>\n\n<p style=\"\">&rArr; 6b &times; b + 138b + 15b + 15 &times; 23 = 0</p>\n\n<p style=\"\">&rArr; 6b &times; (b + 23) + 15 &times; (b + 23) = 0</p>\n\n<p style=\"\">&rArr; (b + 23) &times; (6b + 15) = 0</p>\n\n<p style=\"\">&rArr; b = (-23), (-15)/6</p>\n\n<p style=\"\">&nbsp;Comparing the values of a and b,</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"\">\n\t<tbody style=\"\">\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:95px;\">\n\t\t\t<p align=\"center\" style=\"\">Value of a</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:76px;\">\n\t\t\t<p align=\"center\" style=\"\">relation</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:104px;\">\n\t\t\t<p align=\"center\" style=\"\">Value of b</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:95px;\">\n\t\t\t<p align=\"center\" style=\"\">-23</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:76px;\">\n\t\t\t<p align=\"center\" style=\"\">=</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:104px;\">\n\t\t\t<p align=\"center\" style=\"\">-23</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:95px;\">\n\t\t\t<p align=\"center\" style=\"\">-23</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:76px;\">\n\t\t\t<p align=\"center\" style=\"\"><&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:104px;\">\n\t\t\t<p align=\"center\" style=\"\">-15/6</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:95px;\">\n\t\t\t<p align=\"center\" style=\"\">-15</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:76px;\">\n\t\t\t<p align=\"center\" style=\"\">>&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:104px;\">\n\t\t\t<p align=\"center\" style=\"\">-23</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:95px;\">\n\t\t\t<p align=\"center\" style=\"\">-15</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:76px;\">\n\t\t\t<p align=\"center\" style=\"\"><&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:104px;\">\n\t\t\t<p align=\"center\" style=\"\">-15/6</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><strong style=\"\">&there4;</strong><strong style=\"\"> We can say, a = b or relation cannot be established.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f5631a2dad70fc3fb68e242",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p style=\"\">In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p style=\"\"><strong style=\"\">I. </strong>14x<sup style=\"\">2</sup> &ndash; 31x + 15 = 0</p>\n<strong style=\"\">II. </strong>27y<sup style=\"\">2</sup> &ndash; 57y + 28 = 0",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x&nbsp;=&nbsp;y or the relationship between x and y cannot be established.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">By equation I. 14x<sup style=\"\">2</sup> &ndash; 31x + 15 = 0</p>\n\n<p style=\"\">&rArr; 14x<sup style=\"\">2</sup> &ndash; 10x &ndash; 21x + 15 = 0</p>\n\n<p style=\"\">&rArr; 2x (7x &ndash; 5) &ndash; 3(7x &ndash; 5) = 0</p>\n\n<p style=\"\">&rArr; (2x &ndash; 3) (7x &ndash; 5) = 0</p>\n\n<p style=\"\">&rArr; 2x &ndash; 3 = 0 or 7x &ndash; 5 = 0</p>\n\n<p style=\"\">&rArr; x = 3/2 or x = 5/7</p>\n\n<p style=\"\">By equation II. 27y<sup style=\"\">2</sup> &ndash; 57y + 28 = 0</p>\n\n<p style=\"\">&rArr; 27y<sup style=\"\">2</sup> &ndash; 21y &ndash; 36y + 28 = 0</p>\n\n<p style=\"\">&rArr; 3y (9y &ndash; 7) &ndash; 4(9y &ndash; 7) = 0</p>\n\n<p style=\"\">&rArr; (3y &ndash; 4) (9y &ndash; 7) = 0</p>\n\n<p style=\"\">&rArr; 3y &ndash; 4 = 0 or 9y &ndash; 7 = 0</p>\n\n<p style=\"\">&rArr; y = 4/3 or y = 7/9</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"\">\n\t<tbody style=\"\">\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">Value of x</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">Value of y</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">Relation </strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:97px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">3/2</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">4/3</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">x > y</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">3/2</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">7/9</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">x > y</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">5/7</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">4/3</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:29px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">x < y</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:97px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">5/7</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">7/9</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:97px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong style=\"\">x < y</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\n<strong style=\"\">&there4; x > y and x < y so the relationship between x and y cannot be established</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f58fbc637d721262298548a",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p style=\"\">In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p style=\"\">I. x<sup style=\"\">2</sup> + 27x + 180 = 0</p>\n\n<p style=\"\">II. y<sup style=\"\">2</sup> + 11y + 28 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x &ge; y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "y > x",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "y &ge; x",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y, Relation doesn&rsquo;t exist",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">According to given equations</p>\n\n<p style=\"\">I. x<sup style=\"\">2</sup> + 27x + 180 = 0</p>\n\n<p style=\"\">&rArr; x<sup style=\"\">2</sup> + 15x + 12x + 180 = 0</p>\n\n<p style=\"\">&rArr; x(x + 15) + 12(x + 15) = 0</p>\n\n<p style=\"\">&rArr; (x + 15) (x + 12) = 0</p>\n\n<p style=\"\">&rArr; x = -12, -15</p>\n\n<p style=\"\">II. y<sup style=\"\">2</sup> + 11y + 28 = 0</p>\n\n<p style=\"\">&rArr; y<sup style=\"\">2 </sup>+ 7y + 4y + 28 = 0</p>\n\n<p style=\"\">&rArr; y(y + 7) + 4(y + 7) = 0</p>\n\n<p style=\"\">&rArr; (y + 4) (y + 7) = 0</p>\n\n<p style=\"\">&rArr; y = -4, -7</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 200px;\">\n\t<tbody style=\"\">\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:120px;\">\n\t\t\t<p align=\"center\" style=\"\"><strong style=\"\">x</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:117px;\">\n\t\t\t<p align=\"center\" style=\"\"><strong style=\"\">y</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:113px;\">\n\t\t\t<p align=\"center\" style=\"\"><strong style=\"\">Relation</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:120px;height:13px;\">\n\t\t\t<p align=\"center\" style=\"\">-12</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:117px;height:13px;\">\n\t\t\t<p align=\"center\" style=\"\">-4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:113px;height:13px;\">\n\t\t\t<p align=\"center\" style=\"\">x < y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:120px;\">\n\t\t\t<p align=\"center\" style=\"\">-12</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:117px;\">\n\t\t\t<p align=\"center\" style=\"\">-7</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:113px;\">\n\t\t\t<p align=\"center\" style=\"\">x < y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:120px;\">\n\t\t\t<p align=\"center\" style=\"\">-15</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:117px;\">\n\t\t\t<p align=\"center\" style=\"\">-4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:113px;\">\n\t\t\t<p align=\"center\" style=\"\">x < y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"\">\n\t\t\t<td style=\"width:120px;\">\n\t\t\t<p align=\"center\" style=\"\">-15</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:117px;\">\n\t\t\t<p align=\"center\" style=\"\">-7</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:113px;\">\n\t\t\t<p align=\"center\" style=\"\">x < y</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">&nbsp;<strong style=\"\">&there4;</strong> y > x</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fa54745106e7b4efd3edd6c",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><span data-sheets-userformat=\"{\"2\":14849,\"3\":{\"1\":0},\"12\":0,\"14\":[null,2,3355443],\"15\":\"Arial\",\"16\":11}\" data-sheets-value=\"{\"1\":2,\"2\":\"In each of the following number series, the wrong number is given, find out that number.\"}\" style=\" \">In each of the following number series, the wrong number is given, find out that number.</span></p>\n\n<p>1, 6, 21, 65, 201, 606, 1821</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "21",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "65",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "201",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "606",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>1, 6, 21, 65, 201, 606, 1821</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>The series follows the following pattern</p>\n\n<p>1 &times; 3 + 3 = 6</p>\n\n<p>6 &times; 3 + 3 = 21</p>\n\n<p><strong>21 &times; 3 + 3 = 66 &ne; 65</strong></p>\n\n<p>66 &times; 3 + 3 = 201</p>\n\n<p>201 &times; 3 + 3 = 606</p>\n\n<p>606 &times; 3 + 3 = 1821</p>\n\n<p><strong>&there4;</strong><strong> 65 is wrong and should be replaced by 66</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f30ec5535b5050d10cd51e0",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "<p style=\"\">Find out the wrong term in the given number series.</p>\n5, 7, 11, 20, 27, 43, 69",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "11",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "27",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "43",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "69",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">(5 + 7) &ndash; 1 = 11</p>\n\n<p style=\"\">(7 + 11) &ndash; 1 = <strong style=\"\">17</strong></p>\n\n<p style=\"\">(11 + 17) &ndash; 1 = 27</p>\n\n<p style=\"\">(17 + 27) &ndash; 1 = 43</p>\n\n<p style=\"\">(27 + 43) &ndash; 1 = 69</p>\n&there4; 4<sup style=\"\">th</sup> term of the series should be <strong style=\"\">17 not 20</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f30eaa77c790e0d0ad32c38",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "<p style=\"\">Find out the wrong term in the given number series.</p>\n7, 9, 18, 30, 47, 87, 145",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "145",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "47",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "18",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "30",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "87",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">(7 + 9) + 2 = 18</p>\n\n<p style=\"\">(18 + 9) + 3 = 30</p>\n\n<p style=\"\">(30 + 18) + 4 = <strong style=\"\">52</strong></p>\n\n<p style=\"\">(52 + 30) + 5 = 87</p>\n\n<p style=\"\">(87 + 52) + 6 = 145</p>\n\n<p style=\"\">&there4; 5<sup style=\"\">th</sup> terms of the series should be <strong style=\"\">52 not 47</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e206d1bf60d5d56bdcd0d1b",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "<p>What should come in place of the question mark &#39;?&#39; in the following number series?</p>\n190, 177, ?, 112, 60, -5",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "169",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "155",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "161",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "151",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "159",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The series follows the following pattern:</p>\n\n<p>190 &ndash; 13 = 177</p>\n\n<p>177 &ndash; 26 = <strong>151</strong></p>\n\n<p>151 &ndash; 39 = 112</p>\n\n<p>112 &ndash; 52 = 60</p>\n\n<p>60 &ndash; 65 = -5</p>\n&there4; The required term in the series will be 151",
+          "topic": "Test"
+        },
+        {
+          "id": "5e206d61f60d5d56bdcd0d29",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p>What should come in place of the question mark &#39;?&#39; in the following number series?</p>\n7, 128, 272, 441, ?, 862",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "637",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "529",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "591",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "675",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "589",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The series follows the following pattern:</p>\n\n<p>7 + 11<sup>2</sup> = 128</p>\n\n<p>128 + 12<sup>2</sup> = 272</p>\n\n<p>272 + 13<sup>2</sup> = 441</p>\n\n<p>441 + 14<sup>2</sup> = <strong>637</strong></p>\n\n<p>637 + 15<sup>2</sup> = 862&nbsp;&nbsp;&nbsp;</p>\n&there4; The required term in the series will be 637.",
+          "topic": "Test"
+        },
+        {
+          "id": "5e26a272f60d5d3b87e1f1b3",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p>What should come in place of the question mark &#39;?&#39; in the following number series?</p>\n\n<p>2.5, 6.5, 15.5, 31.5, ?, 92.5&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "58.5",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "62.5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "56.5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "60.5",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "48.5",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The series follows the following pattern:</p>\n\n<p>2.5 + 2<sup>2</sup> = 6.5</p>\n\n<p>6.5 + 3<sup>2</sup> = 15.5</p>\n\n<p>15.5 + 4<sup>2</sup> = 31.5</p>\n\n<p>31.5 + 5<sup>2</sup> = <strong>56.5</strong></p>\n\n<p>56.5 + 6<sup>2</sup> = 92.5&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>&there4; The required term in the series will be 56.5</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e70c76af60d5d6bc4c8f77b",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "The side of a cube is 50% more than the radius of a cylinder. If the curved surface area of the cylinder is 1408 cm<sup>2</sup> and its height is 350% of its radius, then find the ratio between the numerical value of volume and the surface area of the cube.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2 : 1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4 : 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3 : 1",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "3 : 2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2 : 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span id=\"docs-internal-guid-458125ab-7fff-48da-eb23-2d68b724f180\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">GIVEN :</span></span></p>\n\n<p>The side of a cube is 50% more than the radius of a cylinder.</p>\n\n<p>If the curved surface area of the cylinder is 1408 cm<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;</p>\n\n<p>Its height is 350% of its radius.</p>\n\n<p><strong>ASSUMPTION :</strong></p>\n\n<p>Let the radius of the cylinder (r) = a</p>\n\n<p>So, the height of the cylinder (h) = a &times; 350/100 = 7a/2</p>\n\n<p><span id=\"docs-internal-guid-c2e3b7d3-7fff-7b30-c30d-459591ff8781\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">FORMULA USED :</span></span></p>\n\n<p>Curved surface area of the cylinder =&nbsp;2 &times; &pi; &times; r &times; h</p>\n\n<p><span id=\"docs-internal-guid-f9c83e0f-7fff-3b59-8c59-0c6d4b0b36f3\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">CALCULATION :</span></span></p>\n\n<p>According to the question :</p>\n\n<p>&rArr; 2&pi;rh = 1408</p>\n\n<p>&rArr; 2 &times; (22/7) &times; a &times; (7a/2) = 1408</p>\n\n<p>&rArr; 22a<sup>2</sup> = 1408</p>\n\n<p>&rArr; a<sup>2</sup> = 64</p>\n\n<p>&rArr; a = 8</p>\n\n<p>The side of the cube = 8 &times; 150/100 = 12 cm</p>\n\n<p>So, the volume of the cube = 12 &times; 12 &times; 12 cm<sup>3</sup></p>\n\n<p>And the whole surface area of the cube = 6 &times; 12 &times; 12 cm<sup>2</sup></p>\n&there4; Required ratio = (12 &times; 12 &times; 12) : (6 &times; 12 &times; 12) = 2 : 1",
+          "topic": "Test"
+        },
+        {
+          "id": "640e121c257030f2e0d9d24c",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "ABC private limited purchased a square plot of land for Rs.5120000&nbsp; at the rate of Rs.800 sq.m. What is the time in which the man will complete running 3 laps along the sides of the plot when is man is moving with a speed of 14.4 kmph?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">2 minutes</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">3 minutes</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4 minutes",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">3.33 minutes</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "3 minutes and 12 seconds",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>A square plot of land purchased for = Rs. 5120000</p>\n\n<p>Rate per square meter of land&nbsp; = Rs. 800</p>\n\n<p>Speed of the man = 14.4 kmph = 14.4&nbsp;x (5/18) = 4 m/s.</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Area of land = Total money for land / Rate per square meter</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Area of square plot&nbsp;= 5120000/800</p>\n\n<p>a<sup>2</sup>&nbsp; =&nbsp; &nbsp;6400</p>\n\n<p>a&nbsp;=&nbsp;80m</p>\n\n<p>Now, the side of the square plot = 80m</p>\n\n<p>So the length of 1 lap = 4&nbsp;<span style=\"\">x&nbsp;</span>80 = 320m</p>\n\n<p>So the length of 3 laps = 320&nbsp;<span style=\"\">x&nbsp;</span>&nbsp;3 = 960m.</p>\n\n<p>So the time in which 960m is covered = 960/4 = 240 seconds = 4 minutes.</p>\n\n<p><strong>Hence, the time in which 3 laps are covered is 4 minutes.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f3130473f92820d1780b9a5",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<span lang=\"EN-IN\" style=\" line-height: 107%;   background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">A boat covers a distance of 32 km in water flow. The initial speed of the boat in downstream 1 km/hr. But due to a wave after every 2 hours, his speed increases by 2 km/hr, and on his return, his speed becomes 1/2 of his average speed of downstream and no wave is there in return. To find the average speed of his entire journey. (Approximately).</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3.5 km/hr",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2.67 km/hr",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "21.33 km/hr",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "5.67 km/hr",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">A boat covers a distance of 32 km in water flow.</p>\n\n<p style=\"\">Due to a wave after every 2 hours his speed increases by 2 km/hr.</p>\n\n<p style=\"\">On his return, his speed becomes 1/2 of his average speed of downstream.</p>\n\n<p style=\"\">The initial speed of the boat in downstream 1 km/hr.</p>\n\n<p style=\"\"><strong style=\"\">Concept:</strong></p>\n\n<p style=\"\">The direction along the stream is called downstream.</p>\n\n<p style=\"\">The direction against the stream is called upstream.</p>\n\n<p style=\"\"><strong style=\"\">Formula used:</strong></p>\n\n<p style=\"\">Distance = speed &times; time</p>\n\n<p style=\"\">Average speed = total distance/total time</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">The initial speed of the boat in downstream 1 km/hr.</p>\n\n<p style=\"\">Due to a wave after every 2 hours his speed increases by 2 km/hr.</p>\n\n<p style=\"\">Distance covered by boat in first 2 hours</p>\n\n<p style=\"\">&rArr; Speed &times; time</p>\n\n<p style=\"\">&rArr; 1 &times; 2 = 2 km</p>\n\n<p style=\"\">Now his speed increase by 2 km/hr</p>\n\n<p style=\"\">Speed = 1 + 2 = 3 km/hr</p>\n\n<p style=\"\">Distance covered by boat in next 2 hours</p>\n\n<p style=\"\">&rArr; 2 &times; 3 = 6 km</p>\n\n<p style=\"\">Similarly in next 2 hour</p>\n\n<p style=\"\">&rArr; 2 &times; 5 = 10 km</p>\n\n<p style=\"\">Similarly in next 2 hour</p>\n\n<p style=\"\">&rArr; 2 &times; 7 = 14 km</p>\n\n<p style=\"\">Now the total distance that he covered</p>\n\n<p style=\"\">&rArr; 2 + 6 + 10 + 14 = 32 km</p>\n\n<p style=\"\">Total time taken by boat to cover distance</p>\n\n<p style=\"\">&rArr; 2 + 2 + 2 + 2 = 8 hours</p>\n\n<p style=\"\">Now the average speed of boat in downstream</p>\n\n<p style=\"\">&rArr; Total distance/total time</p>\n\n<p style=\"\">&rArr; 32/8 = 4 km/hr</p>\n\n<p style=\"\">On his return his speed becomes 1/2 of the earlier speed</p>\n\n<p style=\"\">So upstream speed of boat is</p>\n\n<p style=\"\">&rArr; 4 &times; (1/2) = 2 km/hr</p>\n\n<p style=\"\">Time taken by boat in upstream to cover distance</p>\n\n<p style=\"\">&rArr; Total distance/speed</p>\n\n<p style=\"\">&rArr; 32/2 = 16 hours</p>\n\n<p style=\"\">Thus the average speed of his entire journey</p>\n\n<p style=\"\">&rArr; Total distance/total time</p>\n\n<p style=\"\">&rArr; (32 + 32)/(8 + 16)</p>\n\n<p style=\"\">&rArr; 64/24 = 2.67 km/hr</p>\n<strong style=\"\">&there4; The average speed of his entire journey is 2.67 km/hr.</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "60aa8393f5aacc7d069ff632",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "A tub contains&nbsp;15&nbsp;black balls and&nbsp;10&nbsp;white balls out of which&nbsp;4&nbsp;black balls and&nbsp;2&nbsp;white balls are defective. If a person takes two balls at random, what is the probability that either both are black balls or both are good balls?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "221/301",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "221/300",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "312/401",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "321/401",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "222/301",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>A tub contains&nbsp;15&nbsp;black balls and&nbsp;10&nbsp;white balls out of which&nbsp;4&nbsp;black balls and&nbsp;2&nbsp;white balls are defective</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>The classical definition of probability.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Probability = Favorable Outcome/Total Outcome.</p>\n\n<p>P(E) = n(E)/n(S)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Number of ways in which two balls can be taken from&nbsp;25&nbsp;balls&nbsp;=&nbsp;<sup>2</sup><sup>5</sup>C<sub>2</sub>&nbsp;</p>\n\n<p>Number of ways in which two black balls can be taken from&nbsp;15&nbsp;black balls&nbsp;=&nbsp;<sup>1</sup><sup>5</sup>C<sub>2</sub>&nbsp;</p>\n\n<p>P(both are black balls)&nbsp;=&nbsp;<sup>1</sup><sup>5</sup>C<sub>2</sub>/<sup>2</sup><sup>5</sup>C<sub>2</sub></p>\n\n<p>Number of ways in which two balls can be taken from&nbsp;19&nbsp;good balls&nbsp;=&nbsp;<sup>19</sup>C<sub>2</sub>&nbsp;</p>\n\n<p>Total good balls&nbsp;= (15 + 10)&nbsp;-&nbsp;(4 + 2) = 19</p>\n\n<p>P(both are good)&nbsp;=&nbsp;<sup>1</sup><sup>9</sup>C<sub>2</sub>/<sup>2</sup><sup>5</sup>C<sub>2</sub></p>\n\n<p>There are&nbsp;11&nbsp;good black balls. Number of ways in which two black balls can be taken from these&nbsp;11&nbsp;good black balls&nbsp;=&nbsp;<sup>1</sup><sup>1</sup>C<sub>2</sub></p>\n\n<p>P(both are black balls and both are good)&nbsp;=&nbsp;<sup>1</sup><sup>1</sup>C<sub>2</sub>/<sup>2</sup><sup>5</sup>C<sub>2</sub></p>\n\n<p>P(both are black balls or both are good) = P(both are black balls) + P(both are good) &ndash; P(both are black balls and both are good)</p>\n\n<p>(<sup>1</sup><sup>5</sup>C<sub>2</sub>/<sup>2</sup><sup>5</sup>C<sub>2</sub>) + (<sup>19</sup>C<sub>2</sub>/<sup>2</sup><sup>5</sup>C<sub>2</sub>)&nbsp;&minus; (<sup>11</sup>C<sub>2</sub>/<sup>2</sup><sup>5</sup>C<sub>2</sub>)</p>\n\n<p>&rArr;&nbsp;(<sup>1</sup><sup>5</sup>C<sub>2 </sub>+ <sup>1</sup><sup>9</sup>C<sub>2 </sub>&ndash; <sup>11</sup>C<sub>2</sub>)/<sup>2</sup><sup>5</sup>C<sub>2</sub></p>\n\n<p>&rArr;&nbsp;[{(15 &times; 14)/(2 &times; 1)} + {(19 &times; 18)/(2 &times; 1)} &ndash; {(11 &times; 10)/(2 &times; 1)}]/[{(25 &times; 24)/(2 &times; 1)}]</p>\n= 221/300",
+          "topic": "Test"
+        },
+        {
+          "id": "5feb219744f49367a822b683",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "The speed of a boat in still water is 8 km/h and the speed of a stream is 1.5 km/h. A man rows to a place at a distance of 61.75 km and comes back to the starting point. What is the total time taken by him?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "15 h",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20 h",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "16 h",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "10 h",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "28 h",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Speed of stream = 1.5 km/h</p>\n\n<p>Speed of a boat in still water = 8 km/h</p>\n\n<p>Distance = 61.75 km</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; Rate Upstream = 8 &ndash; 1.5 = 6.5 km/h</p>\n\n<p>&rArr; Rate Downstream = 8 + 1.5 = 9.5 km/h</p>\n\n<p>&rArr; Time take to go upstream = 61.75/6.5 = 9.5 h</p>\n\n<p>&rArr; Time take to go downstream = 61.75/9.5 = 6.5 h</p>\n\n<p>&rArr; Total time = 9.5 + 6.5 = 16 h</p>\n<strong>Total time taken by the man is 16 hours.</strong>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:00.241Z",
+    "solutionsCount": 20,
+    "isComplete": true
+  }
+}

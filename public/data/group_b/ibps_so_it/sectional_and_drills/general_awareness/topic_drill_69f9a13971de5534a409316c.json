@@ -1,0 +1,689 @@
+{
+  "testId": "69f9a13971de5534a409316c",
+  "title": "CT 6: Current Affairs (July 16 - July 31)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Bi - Weekly CA",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 15,
+  "totalDurationMinutes": 10,
+  "totalMarks": 15,
+  "sections": [
+    {
+      "id": "65e08bcb88a67ac9f4e57bb8",
+      "name": "Chapter Test",
+      "durationMinutes": 20,
+      "maxMarks": 15,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a6b4839e1b1e0f9a0da5a03",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Under the 'increasing cover' feature of the Promise2Secure life insurance plan launched by Canara HSBC Life Insurance, what is the maximum percentage up to which the sum assured can grow relative to the original amount?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "50%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "75%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "100%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "200%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>100%</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>Canara HSBC Life Insurance</strong> has announced the launch of <strong>Promise2Secure</strong>, a comprehensive <strong>non-linked, non-participating individual pure risk premium life insurance plan</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Increasing Cover Feature:</strong> Under this feature, the <strong>sum assured grows by 10% annually</strong>. This growth continues until it reaches <strong>100% of the original sum assured</strong> over a <strong>ten-year period</strong>. This is designed to help policyholders keep pace with inflation.</li><li><strong>Block Your Premium:</strong> The plan also offers a <strong>Block Your Premium</strong> rate feature, which allows customers to increase the sum assured by up to <strong>100%</strong> within the first <strong>five years</strong>.</li><li><strong>Plan Variants:</strong> The product is available in two options: <strong>Life Secure</strong> and <strong>Life Secure with Return of Premium</strong>.</li><li>The other options (50%, 75%, and 200%) do not align with the specific growth cap defined in the product features.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Canara HSBC Life Insurance</strong> was incorporated in <strong>2007</strong> and is a joint venture between <strong>Canara Bank (36.5%)</strong> and <strong>HSBC Insurance (Asia Pacific) Holdings Limited (25.5%)</strong>.</li><li>The company is headquartered in <strong>Gurugram, Haryana</strong>.</li><li>The plan includes coverage for <strong>40 specified critical illnesses</strong> and provides a <strong>waiver of future premiums</strong> upon the diagnosis of a <strong>terminal illness</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>Premium Deferment:</strong> The plan offers a facility to <strong>defer premiums for up to 12 months</strong> without impacting the risk cover.</li><li><strong>Insta Payout:</strong> It features an <strong>Insta payout feature</strong> for eligible <strong>death claims</strong> to provide immediate financial support.</li><li><strong>Value Added Services:</strong> Includes <strong>online will preparation</strong> for legacy planning and a <strong>health and wellness ecosystem</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a6b483ca7a928fb8d8a70d7",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "With the inscription of the Ancient Buddhist Site of Sarnath in July 2026, what is the total number of UNESCO World Heritage Sites now located in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "42",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "45",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "48",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "50",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "47",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>45</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Ancient Buddhist Site of Sarnath</strong> in <strong>Uttar Pradesh</strong> was inscribed on the <strong>UNESCO World Heritage List</strong> on <strong>25 July 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>With the inclusion of Sarnath, India now has a total of <strong>45 World Heritage sites</strong>.</li><li>The decision was announced during the <strong>48th session</strong> of the <strong>World Heritage Committee</strong> held in <strong>Busan, Republic of Korea</strong>.</li><li>Sarnath is historically significant as the place where the <strong>Buddha delivered his first sermon</strong> in the <strong>sixth century BCE</strong>.</li><li>The property includes major archaeological remains such as the <strong>Chaukhandi Stupa</strong>, <strong>Dhamek Stupa</strong>, and <strong>Dharmarajika Stupa</strong>.</li><li>Hence, the correct number of sites in India after this update is 45.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>World Heritage List</strong> currently includes <strong>1,248 properties</strong> across <strong>170 countries</strong> globally.</li><li>The site of Sarnath is also referred to in sacred texts by names such as <strong>Rishipatana</strong>, <strong>Isipatana</strong>, and <strong>Mrigadava</strong> (Deer Park).</li><li>The <strong>World Heritage Committee</strong> is responsible for implementing the <strong>1972 World Heritage Convention</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>India's 45th Site:</strong> Sarnath.</li><li><strong>Session:</strong> 48th session of the World Heritage Committee.</li><li><strong>Location of Announcement:</strong> Busan, Republic of Korea.</li><li><strong>Historical Context:</strong> Marks the beginning of the spread of <strong>Buddhist teachings</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a6b483abb13cd9dd930efa2",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Where is India's first bank-led Quantum Finance Hub being established following the Memorandum of Understanding (MoU) between the Government of Andhra Pradesh and Punjab National Bank (PNB)?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Visakhapatnam",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Amaravati",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Hyderabad",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Vijayawada",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Tirupati",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Amaravati</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Government of Andhra Pradesh</strong> and <strong>Punjab National Bank (PNB)</strong> signed a landmark MoU to establish the <strong>PNB Quantum Finance Hub</strong> at <strong>Amaravati Quantum Valley (AQV)</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The MoU marks the launch of <strong>India's first bank-led Quantum Finance Hub</strong>.</li><li>The agreement was exchanged in the presence of Andhra Pradesh Chief Minister <strong>N. Chandrababu Naidu</strong> and PNB Managing Director and CEO <strong>Ashok Chandra</strong>.</li><li>The Hub is situated at <strong>Amaravati Quantum Valley (AQV)</strong> in <strong>Amaravati</strong>, reflecting the state's vision to become a global center for deep technologies.</li><li>The collaborative platform will bring together industry, academia, startups, and research institutions to develop practical solutions for <strong>cybersecurity</strong>, <strong>fraud detection</strong>, and <strong>digital financial systems</strong>.</li><li>Other options like <strong>Visakhapatnam</strong>, <strong>Hyderabad</strong>, and <strong>Vijayawada</strong> are incorrect as the news explicitly identifies <strong>Amaravati</strong> as the location for this hub.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Punjab National Bank</strong> is the first bank in India to partner with a state government for such a dedicated Quantum Finance Hub.</li><li>The hub aims to harness <strong>Quantum Computing</strong> and <strong>Artificial Intelligence (AI)</strong> to reshape the financial landscape and improve <strong>risk management</strong>.</li><li>It focuses on building a <strong>skilled workforce</strong> capable of driving digital transformation in the banking sector.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The establishment of this hub is a milestone in <strong>Amaravati's</strong> development as an <strong>innovation ecosystem</strong> for deep technologies.</li><li>Key focus areas include <strong>next-generation technologies</strong>, <strong>optimising business operations</strong>, and <strong>enhancing customer experience</strong> in banking.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b874ba8b4acb5321942",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Which organization collaborated with the <strong>Office of the Chief Controller of Accounts (CCA)</strong> to develop the <strong>AI-enabled Rural Internal Audit Portal</strong> launched in June 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "National Informatics Centre (NIC)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Office of the Controller General of Accounts (CGA)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Union Ministry of Finance",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "NITI Aayog",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Reserve Bank of India (RBI)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>National Informatics Centre (NIC)</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Rural Development Minister <strong>Shivraj Singh Chouhan</strong> launched an <strong>artificial intelligence (AI)-enabled Rural Internal Audit Portal</strong> on <strong>June 28, 2026</strong>, to strengthen financial oversight.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>Rural Internal Audit Portal</strong> was conceived by the <strong>Office of the Chief Controller of Accounts (CCA)</strong> and developed in collaboration with the <strong>National Informatics Centre (NIC)</strong>.</li><li>It is a <strong>unified digital platform</strong> designed for the <strong>end-to-end management</strong> of internal audits, replacing manual and paper-based processes.</li><li>The portal covers both <strong>risk-based</strong> and <strong>compliance audits</strong>, integrating planning, execution, reporting, and monitoring into one ecosystem.</li><li>The use of <strong>AI and machine learning</strong> tools within the portal facilitates <strong>risk assessment</strong>, audit prioritization, and decision support.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Office of the Controller General of Accounts (CGA)</strong>, Ministry of Finance, has granted <strong>in-principle approval</strong> for the portal to be adopted across all civil ministries and departments.</li><li>The platform features <strong>interactive dashboards</strong> for real-time monitoring of <strong>Action Taken Reports (ATRs)</strong> and financial irregularities.</li><li>It aims to enhance <strong>transparency and accountability</strong> in government spending through data-driven management systems.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The portal is the <strong>first-of-its-kind</strong> unified digital platform for comprehensive internal audit management in the government sector.</li><li>AI-powered capabilities support <strong>predictive analytics</strong> and <strong>pattern recognition</strong> for identifying high-risk entities.</li><li>Future upgrades are expected to include deeper <strong>AI integration</strong> and <strong>advanced risk-scoring mechanisms</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a58a592ba8dbe8b3180349e",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which global fashion sourcing platform signed a Letter of Intent (LoI) with the Bharat Tex Trade Federation (BTTF) during the inauguration of Bharat Tex 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Milan Unica",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Première Vision Paris",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Texworld New York City",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Intertextile Shanghai",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "London Fashion Connect",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Première Vision Paris</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Union Minister of Textiles, <strong>Shri Giriraj Singh</strong>, inaugurated <strong>Bharat Tex 2026</strong> at <strong>Bharat Mandapam</strong>, <strong>New Delhi</strong>, which included the signing of a strategic partnership agreement.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>During the inaugural ceremony of <strong>Bharat Tex 2026</strong>, a <strong>Letter of Intent (LoI)</strong> was exchanged between the <strong>Bharat Tex Trade Federation (BTTF)</strong> and <strong>Première Vision Paris</strong>.</li><li><strong>Première Vision Paris</strong> is recognized as one of the world's foremost textile and fashion sourcing platforms.</li><li>The LoI was signed by <strong>Ms. Florence Rousson</strong> (CEO, Fashion Division, Première Vision SA) and <strong>Shri Naren Goenka</strong> (Chairman, BTTF) in the presence of the Union Minister.</li><li>The partnership focuses on <strong>deepening India-Europe collaboration</strong> in innovation, sustainability, design excellence, and global market access.</li><li>The agreement establishes a framework for <strong>exhibition partnerships</strong>, <strong>joint export promotion</strong>, and a <strong>Joint Steering Committee</strong> to guide implementation.</li><li>Other options like Milan Unica, Texworld, and Intertextile Shanghai are international textile platforms but were not the ones that signed this specific LoI at Bharat Tex 2026.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Bharat Tex 2026</strong> featured over <strong>6,000 buyers</strong> from more than <strong>130 countries</strong> and <strong>1.3 lakh trade visitors</strong>.</li><li>The event spanned more than <strong>1.6 million sq. ft.</strong> of exhibition space, showcasing over <strong>20,000 textile products</strong>.</li><li><strong>Eight Sponsor States</strong> participated: Madhya Pradesh, Bihar, Uttar Pradesh, Punjab, Maharashtra, Gujarat, Karnataka, and Tamil Nadu.</li><li>International delegations from countries including <strong>Russia</strong>, <strong>New Zealand</strong>, <strong>USA</strong>, and <strong>Japan</strong> attended the event to reinforce global trade dialogues.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The event aligns with the <strong>Prime Minister's 5F Vision</strong>: <strong>Farm to Fibre to Factory to Fashion to Foreign</strong>.</li><li>The <strong>CITI Textile Sustainability Awards 2026</strong> were also hosted during the event to recognize responsible business practices.</li><li>The platform facilitated over <strong>4,000 B2B meetings</strong> and the signing of more than <strong>30 MoUs</strong> across the textile value chain.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a466b8b8d68564f211d839f",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Through which legislative amendment was the Improvement Notice mechanism introduced under the Legal Metrology Act, 2009, to promote Ease of Doing Business?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Consumer Protection (Regulatory Reform) Act, 2025",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Jan Vishwas (Amendment of Provisions) Act, 2026",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Legal Metrology (Facilitation and Compliance) Act, 2024",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ease of Doing Business (Statutory Returns) Act, 2023",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Business Reforms (Simplification of Procedures) Act, 2027",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Jan Vishwas (Amendment of Provisions) Act, 2026</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Department of Consumer Affairs</strong> has introduced the <strong>Improvement Notice mechanism</strong> under the <strong>Legal Metrology Act, 2009</strong>, as a reform to promote trust-based governance.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Legislative Basis:</strong> The Improvement Notice mechanism was introduced through the <strong>Jan Vishwas (Amendment of Provisions) Act, 2026</strong>, which modifies the implementation of the <strong>Legal Metrology Act, 2009</strong>.</li>\n\t<li><strong>Mechanism Purpose:</strong> It allows businesses (manufacturers, importers, packers, etc.) to correct <strong>specified first-time procedural or regulatory non-compliances</strong> within a reasonable time before any penal proceedings are initiated.</li>\n\t<li><strong>Enforcement:</strong> If the entity fails to comply with the <strong>Improvement Notice</strong> within the prescribed period, or in cases of <strong>repeated violations</strong> or <strong>tampering</strong>, action under the original provisions of the <strong>Legal Metrology Act</strong> will continue.</li>\n\t<li><strong>Impact:</strong> The reform aims to reduce <strong>unnecessary litigation</strong> and <strong>compliance costs</strong> while maintaining strong consumer protection standards.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The mechanism covers several sections of the <strong>Legal Metrology Act</strong>, including <strong>Section 31 (Non-production of documents)</strong>, <strong>Section 32 (Failure to obtain model approval)</strong>, and <strong>Section 45 (Manufacture of weights and measures without registration)</strong>.</li>\n\t<li>It applies to <strong>MSMEs</strong>, traders, and various regulated entities to support <strong>honest businesses</strong> in achieving compliance without the immediate threat of penalties.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Date of Introduction:</strong> The reform was officially posted by the <strong>PIB Delhi</strong> on <strong>29 June 2026</strong>.</li>\n\t<li><strong>Governance Philosophy:</strong> It aligns with the government&#39;s vision of <strong>\"Minimum Government, Maximum Governance\"</strong> by shifting towards a facilitative regulatory framework.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a509077cfd73088cf8c1f72",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "According to the International Monetary Fund’s (IMF) July 2026 World Economic Outlook (WEO) Update, what is the projected GDP growth rate for India in FY2026-27?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3.4 per cent",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "6.4 per cent",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4.6 per cent",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7.5 per cent",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5.8 per cent",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>6.4 per cent</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>International Monetary Fund (IMF)</strong> released its <strong>July 2026 World Economic Outlook (WEO) Update</strong>, providing revised growth projections for the global economy and individual nations.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>India's Projection:</strong> The <strong>IMF</strong> has projected that <strong>India's GDP</strong> will expand by <strong>6.4 per cent</strong> in <strong>FY2026-27</strong>.</li><li><strong>Growth Drivers:</strong> This growth is expected to be supported by <strong>strong private consumption</strong> and <strong>robust services sector activity</strong>.</li><li><strong>Global Context:</strong> India continues to be one of the <strong>fastest-growing major economies</strong>, outperforming others despite global trade disruptions.</li><li><strong>Comparison with other options:</strong><ul><li><strong>3.4 per cent:</strong> This is the projected <strong>global economic growth</strong> for <strong>2027</strong>.</li><li><strong>4.6 per cent:</strong> This is the projected growth for <strong>China</strong> in <strong>2026</strong>.</li><li><strong>7.5 per cent:</strong> This is the upwardly revised growth forecast for <strong>Vietnam</strong>.</li></ul></li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Global Growth:</strong> Projected to slow to <strong>3.0 per cent</strong> in <strong>2026</strong> before recovering slightly in <strong>2027</strong>.</li><li><strong>World Trade Volume:</strong> Expected to decelerate to <strong>3.5 per cent</strong> in <strong>2026</strong> from 5.0 per cent in 2025.</li><li><strong>Inflation:</strong> Global headline inflation is projected to rise to <strong>4.7 per cent</strong> in <strong>2026</strong>, driven by energy and food prices, before easing to 3.9 per cent in 2027.</li><li><strong>Other Economies (2026):</strong> The <strong>United States</strong> is projected at <strong>2.3 per cent</strong>, the <strong>United Kingdom</strong> at <strong>1.0 per cent</strong>, and <strong>Japan</strong> at <strong>0.6 per cent</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>IMF</strong> highlights that while <strong>India</strong> remains a bright spot, global growth is facing headwinds from <strong>trade disruptions</strong>, <strong>geopolitical uncertainties</strong>, and <strong>higher tariffs</strong>.</li><li>Inflation targets in major economies like the <strong>US</strong> and <strong>UK</strong> are expected to be achieved only by <strong>mid-to-late 2027</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a5090786a2467c106535dc2",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "According to the news report, where did the center of Typhoon Maysak make landfall in Vietnam in July 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Hoang Sa Special Zone",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Bach Long Vi Island",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mong Cai",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Co To Island",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Phu Quoc Island",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Mong Cai</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Typhoon Maysak</strong>, the first storm of <strong>2026</strong> in the <strong>East Sea</strong>, weakened into a <strong>tropical depression</strong> after moving inland over <strong>China&rsquo;s Guangxi Province</strong> following its landfall in <strong>Vietnam</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The storm&#39;s center approached the <strong>Quang Ninh</strong> coastline and remained nearly stationary for over two hours before making landfall near <strong>Mong Cai</strong> at approximately <strong>10 p.m</strong>.</li>\n\t<li><strong>Mong Cai</strong> recorded significant wind speeds of <strong>88 kph</strong> with gusts reaching up to <strong>133 kph</strong> and received nearly <strong>250 mm</strong> of rain in less than 24 hours.</li>\n\t<li><strong>Hoang Sa Special Zone</strong> (Paracel Islands) was the area northwest of which the storm originally developed from a tropical depression.</li>\n\t<li><strong>Bach Long Vi Island</strong> and <strong>Co To Island</strong> recorded strong winds and gusts but were not the locations of the primary landfall.</li>\n\t<li>By <strong>2 a.m.</strong> on Sunday, the storm had crossed into <strong>southern Guangxi Province</strong>, China, where it eventually weakened into a tropical depression by midday Sunday.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Preliminary reports from <strong>Quang Ninh</strong> authorities indicated that the storm damaged <strong>600 hectares</strong> of aquaculture farms and toppled <strong>850 trees</strong>.</li>\n\t<li>The storm also tore roofs off <strong>30 houses</strong> and caused damage to various public works and vehicles.</li>\n\t<li><strong>Maysak</strong> was characterized by its slow movement, which prolonged its impact and allowed heavy rain and strong winds to persist across <strong>northeastern Vietnam</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>Vietnam&#39;s <strong>2026 rainy and typhoon season</strong> is forecast to have <strong>fewer storms</strong> and tropical depressions than the long-term average and fewer than in <strong>2025</strong>.</li>\n\t<li>Meteorological authorities warned that <strong>climate change</strong> makes storm tracks and intensity highly unpredictable.</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a509079e29487b6a4cf3d85",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Under the new funding agreement with Bukhman Philanthropies, what is the revised total prize money for the winner of the newly renamed Bukhman International Booker Prize?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "50,000 Pounds",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "75,000 Pounds",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "100,000 Pounds",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "150,000 Pounds",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "200,000 Pounds",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>100,000 Pounds</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>International Booker Prize</strong> is being renamed the <strong>Bukhman International Booker Prize</strong> following a funding commitment for the next decade from <strong>Bukhman Philanthropies</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>As part of the agreement with <strong>Bukhman Philanthropies</strong>, the winner's prize money has doubled from 50,000 Pounds to <strong>100,000 Pounds</strong> (approximately <strong>Rs 1.28 crore</strong>).</li><li>The prize money is designed to be <strong>shared equally</strong> between the <strong>author</strong> and the <strong>translator(s)</strong>, highlighting the collaborative effort in translated literature.</li><li>Every <strong>shortlisted title</strong> will also receive <strong>5,000 Pounds</strong> (Rs 6.4 lakh), which is also split evenly between the author and translator.</li><li>The first winner under this new title and increased prize amount will be announced in <strong>May 2027</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Bukhman Philanthropies</strong> was founded by <strong>Dmitry Bukhman</strong>, co-founder of the mobile gaming company <strong>Playrix</strong>, and his wife <strong>Daria Bukhman</strong>.</li><li>Dmitry Bukhman was ranked among the <strong>UK's ten richest people under 40</strong> in 2025.</li><li>The <strong>2027 judging panel</strong> will be chaired by novelist <strong>Katie Kitamura</strong>, and includes members like Caleb Azumah Nelson and Tessa Thompson.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>2026 International Booker Prize</strong> was won by <strong>Taiwan Travelogue</strong>, which was translated from Mandarin by <strong>Lin King</strong>.</li><li>The prize focuses on <strong>fiction translated into English</strong> and published in the <strong>UK or Ireland</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a630066e8bfd0f2a9ef8717",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Which organization has been engaged as the Development Cum Production Partner (DcPP) for Mission Systems under the Airborne Early Warning & Control (AEW&C) MK-II programme?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "AI Engineering Services Limited (AIESL)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Adani Defence Systems and Technologies (ADSTL)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Airbus Defence & Space",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Directorate General of Aeronautical Quality Assurance",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Hindustan Aeronautics Limited (HAL)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Adani Defence Systems and Technologies (ADSTL)</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>On <strong>July 22, 2026</strong>, the <strong>Centre for Air Borne Systems (CABS)</strong>, under <strong>DRDO</strong>, signed two major contracts with industry partners to boost the <strong>AEW&C MK-II programme</strong> as part of the <strong>Aatmanirbhar Bharat</strong> initiative.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Adani Defence Systems and Technologies (ADSTL):</strong> A contract was signed with <strong>ADSTL</strong>, Ahmedabad, to act as the <strong>Development Cum Production Partner (DcPP)</strong> for the <strong>Mission Systems</strong> specifically designed for the <strong>AEW&C MKII</strong> Programme.</li><li><strong>AI Engineering Services Limited (AIESL):</strong> This New Delhi-based entity signed a contract for the <strong>conversion of six A321 Aircraft</strong> from <strong>commercial to green configuration</strong>.</li><li><strong>Integration Role:</strong> CABS, DRDO, with support from <strong>ADSTL</strong>, is responsible for integrating these mission systems onto the modified <strong>AEW&C MK II Platform</strong>, which is delivered by the Original Equipment Manufacturer, <strong>Airbus Defence & Space</strong>.</li><li><strong>Certification:</strong> The <strong>CABS</strong> and <strong>ADSTL</strong> will perform flight testing alongside the <strong>Indian Air Force</strong> to obtain airworthiness certification from <strong>CEMILAC</strong> and <strong>DGAQA</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>AEW&C MK II System</strong> is designed to provide <strong>enhanced endurance</strong>, advanced <strong>airborne surveillance</strong>, and <strong>secure communication</strong>.</li><li>It aims to improve <strong>situational awareness</strong> and provide enhanced <strong>command and control</strong> capabilities for air defence.</li><li>The signing ceremony took place in <strong>New Delhi</strong> in the presence of <strong>Defence Secretary</strong> and Chairman DRDO, <strong>Shri Rajesh Kumar Singh</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The programme involves the modification of <strong>six A321 Aircraft</strong> for military usage.</li><li>The collaboration reaffirms the government's commitment to <strong>self-reliance</strong> and fostering a robust ecosystem for <strong>defence manufacturing</strong> within India.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a58a59534e2f99014393b50",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "In which city was the <strong>International Centre for Civilizational Studies \"Manas and Mahabharata\"</strong> inaugurated in July 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "New Delhi",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Astana",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bishkek",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Tashkent",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Almaty",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Bishkek</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>An Indian delegation visited <strong>Kyrgyzstan</strong> from <strong>July 4 to 7, 2026</strong>, to participate in the inauguration of the <strong>International Centre for Civilizational Studies \"Manas and Mahabharata\"</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The centre was established by the <strong>Manas National Academy</strong> (Kyrgyzstan) in collaboration with the <strong>Centre for Studies of International Relations (CSIR)</strong>, New Delhi.</li><li>The inauguration took place in <strong>Bishkek</strong>, the capital of <strong>Kyrgyzstan</strong>, during a visit where the Indian delegation held high-level bilateral meetings with Kyrgyz officials like <strong>Oktyabr Kapalbayev</strong>.</li><li>During the event, trilateral cooperation agreements were signed between the <strong>Manas National Academy</strong>, the <strong>CSIR</strong>, and <strong>seven universities</strong> in Kyrgyzstan, such as <strong>KNU</strong> and <strong>AUCA</strong>.</li><li><strong>Sunil Ambekar</strong>, a member of the National Executive Committee of the <strong>RSS</strong>, served as the chief guest at the ceremony.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The event featured the release of the first <strong>Hindi translation</strong> of the Kyrgyz epic <strong>Manas</strong>, translated by <strong>Professor Hem Chandra Pande</strong> and <strong>Professor Ramakant Dwivedi</strong>.</li><li>The translation is based on a Russian poetic retelling by <strong>Mar Baizhiev</strong> and covers all three parts of the epic: <strong>Manas</strong>, <strong>Semetey</strong>, and <strong>Seitek</strong>.</li><li>The Indian delegation included scholars such as <strong>Dr. Punit Gaur</strong> and was supported by the <strong>Indian Embassy in Kyrgyzstan</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The establishment of this centre is a historic initiative that aligns with <strong>Prime Minister Narendra Modi's</strong> proposal to establish a <strong>Civilizational Dialogue Forum</strong>.</li><li>The centre aims to foster <strong>humanitarian diplomacy</strong>, international scientific cooperation, and training for researchers in <strong>epic traditions</strong> and <strong>intercultural dialogue</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a58a595222fbe0ba2928bbf",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Mannathu Padmanabhan, whose statue was recently unveiled by Vice President Shri C. P. Radhakrishnan in New Delhi, was the founder of which organization?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Travancore Social Service Society",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Nair Service Society (NSS)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Kerala Renaissance Council",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "People’s Education Society",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sree Narayana Dharma Paripalana (SNDP) Yogam",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Nair Service Society (NSS)</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>Vice President <strong>Shri C. P. Radhakrishnan</strong> unveiled the statue of social reformer and freedom fighter <strong>Mannathu Padmanabhan</strong> and inaugurated the <strong>Mannam Smrithi Mandapam</strong> in <strong>New Delhi</strong> on <strong>July 12, 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Mannathu Padmanabhan</strong> was a distinguished <strong>social reformer</strong> and <strong>freedom fighter</strong> who dedicated his life to society's upliftment through <strong>education</strong>, <strong>social reform</strong>, and <strong>self-reliance</strong>.</li><li>He was the founder of the <strong>Nair Service Society (NSS)</strong>, an organization dedicated to community service and social progress.</li><li>The statue and the <strong>Mannam Smrithi Mandapam</strong> were established at the <strong>Mannam International Centre</strong> in <strong>Dwarka</strong>, New Delhi, by <strong>NSS Delhi</strong>.</li><li>The Vice President highlighted that Padmanabhan believed <strong>great institutions</strong> are built by <strong>great commitment</strong> rather than just wealth, citing his use of humble contributions to build educational institutions.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>NSS Delhi</strong> has expanded to <strong>25 branches</strong> across the <strong>Delhi-NCR</strong> region and boasts nearly <strong>25,000 members</strong>.</li><li>The organization is also involved in preserving Kerala’s cultural heritage, including traditional arts like <strong>Kalaripayattu</strong>, <strong>Kathakali</strong>, and <strong>Mohiniyattam</strong>.</li><li>During the event, a sapling was planted as part of the nationwide <strong>‘Ek Ped Maa Ke Naam’</strong> campaign for environmental conservation, organized by the <strong>Ministry of Petroleum and Natural Gas</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>Mannam Smrithi Mandapam</strong> is described as a memorial that serves as a living tribute to a visionary whose ideals of <strong>social justice</strong> and <strong>equality</strong> transcend caste and region.</li><li>The unveiling ceremony was attended by several dignitaries, including Union Minister of State <strong>Shri Suresh Gopi</strong> and NSS Delhi President <strong>Shri M. K. G. Pillai</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a6b484be1026aef1c25058f",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Under the <strong>Delhi Lakshmi Yojana</strong>, what is the mandatory amount to be deposited into a recurring deposit (RD) account from the total monthly financial assistance?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "₹1,000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "₹1,500",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "₹2,000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "₹2,500",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "₹3,000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>₹1,500</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Delhi government</strong> has approved the <strong>Delhi Lakshmi Yojana</strong>, a new initiative aimed at providing monthly financial assistance to eligible women in the capital.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The scheme provides a total monthly assistance of <strong>₹2,500</strong> to eligible women.</li><li>Out of this amount, <strong>₹1,500</strong> is mandatorily deposited into a <strong>recurring deposit (RD) account</strong>, while the remaining <strong>₹1,000</strong> can be withdrawn by the beneficiary.</li><li>The recurring deposit has a <strong>three-year lock-in period</strong>, after which the accumulated amount and interest are credited to the beneficiary's bank account.</li><li>The initiative aims to help women build a <strong>financial cushion</strong> and ensure long-term <strong>financial stability</strong> for families.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Eligibility:</strong> Women aged between <strong>21 and 60 years</strong> are eligible. Only <strong>one woman per household</strong> (the eldest if multiple qualify) can apply.</li><li><strong>Income Criteria:</strong> The combined family income must be less than <strong>₹2.5 lakh</strong> per annum.</li><li><strong>Exclusions:</strong> Government employees, income tax payers, <strong>pensioners</strong>, and owners of <strong>four-wheelers</strong> are not eligible for the scheme.</li><li><strong>Verification:</strong> Applicants must have been residents of Delhi for at least <strong>10 years</strong> and have no criminal records in the family.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The portal for the scheme is scheduled to be launched on <strong>August 1</strong>.</li><li>Delhi Chief Minister <strong>Rekha Gupta</strong> stated that the government intends to release the first instalment by <strong>Raksha Bandhan</strong>.</li><li>Required documents include <strong>Aadhaar cards</strong>, <strong>voter identity cards</strong>, and a 10-year residency self-declaration.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a6b484d0b2816480da8a5f7",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p>In July 2026, which of the following sites was inscribed as the first-ever addition to the UNESCO World Heritage List from South Sudan?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ancient capitals of Asuka and Fujiwara",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Boma-Badingilo Migratory Landscape",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "D-Day landing beaches of Normandy",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Mount Olympus Cultural Landscape",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Great Wall of China",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Boma-Badingilo Migratory Landscape</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>In <strong>July 2026</strong>, a <strong>UNESCO</strong> committee meeting held in <strong>Busan, South Korea</strong>, added several new sites to the <strong>World Heritage List</strong>, including the first-ever site from <strong>South Sudan</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Boma-Badingilo Migratory Landscape:</strong> This site was inscribed as <strong>South Sudan's</strong> first addition to the <strong>World Heritage List</strong>. It is home to one of the world's largest land mammal migrations, featuring <strong>white-eared kob</strong>, <strong>tiang</strong>, and <strong>Mongalla gazelles</strong>. Hence, Option 2 is correct.</li><li><strong>Asuka and Fujiwara:</strong> These represent ancient <strong>Japanese capitals</strong> in the <strong>Nara prefecture</strong>, dating from the 6th to 8th century, and were also added to the list during the same meeting. Hence, Option 1 is incorrect.</li><li><strong>D-Day landing beaches:</strong> Located in <strong>Normandy, France</strong>, these sites (Omaha, Utah, Sword, Gold, and Juno) were added to recognize their role in <strong>World War II</strong>. Hence, Option 3 is incorrect.</li><li><strong>Mount Olympus:</strong> Greece's tallest mountain and the mythical home of the <strong>12 Olympian gods</strong> was rewarded with a <strong>mixed cultural and natural heritage</strong> status. Hence, Option 4 is incorrect.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>Boma-Badingilo</strong> site encompasses wetlands, flood plains, and savannas, providing habitat for <strong>elephants</strong>, <strong>lions</strong>, and <strong>cheetahs</strong>.</li><li>An estimated <strong>6 million</strong> animals move across the South Sudanese landscape in response to changing environmental conditions.</li><li>The <strong>ICOMOS</strong> (International Council on Monuments and Sites) evaluates submissions for the heritage committee regarding cultural importance.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The <strong>D-Day beaches</strong> designation includes <strong>Pointe du Hoc</strong>, where Allied troops landed on <strong>June 6, 1944</strong>.</li><li><strong>Mount Olympus</strong> rises <strong>2,918 metres</strong> and was inscribed after a <strong>12-year effort</strong> by Greece.</li><li>The Japanese sites of <strong>Asuka</strong> and <strong>Fujiwara</strong> reflect a centralized state model inspired by <strong>Chinese systems</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "6a6b484e3e60cd3b2e598e89",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "Which two Indian cities are currently being considered as potential host cities for the <strong>2029 World Abilitysport Games</strong> following the MoU signed between the PCI and CPSFI?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Bengaluru and New Delhi",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Mumbai and Hyderabad",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Chennai and Bhubaneshwar",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Pune and Ahmedabad",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Kolkata and Chandigarh",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Chennai and Bhubaneshwar</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Paralympic Committee of India (PCI)</strong> and the <strong>Cerebral Palsy Sports Federation of India (CPSFI)</strong> signed a Memorandum of Understanding (MoU) to jointly bid for the <strong>2029 World Abilitysport Games</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>As part of the bid process, <strong>Chennai</strong> and <strong>Bhubaneshwar</strong> are currently being considered as the <strong>potential host cities</strong> for the event.</li><li>Discussions will be held with the respective State Governments to assess <strong>sporting infrastructure</strong>, <strong>accessibility</strong>, <strong>accommodation</strong>, and <strong>transport</strong> before a final recommendation is made to <strong>World Abilitysport</strong>.</li><li>The proposed 2029 Games are expected to attract over <strong>1,500 athletes</strong>, officials, and support personnel from across the globe.</li><li>The games will feature disciplines such as <strong>Para Athletics</strong>, <strong>Para Swimming</strong>, <strong>Para Badminton</strong>, <strong>Para Fencing</strong>, <strong>CP Football</strong>, <strong>Para Table Tennis</strong>, and <strong>Para Wheelchair Basketball (3-a-side)</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>India previously hosted the <strong>IWAS World Games</strong> in <strong>Bengaluru</strong> in the year <strong>2009</strong>.</li><li>The current President of the <strong>Paralympic Committee of India (PCI)</strong> is <strong>Devendra Jhajharia</strong>.</li><li>The President of the <strong>Cerebral Palsy Sports Federation of India (CPSFI)</strong> is <strong>Rajesh Tomar</strong>.</li><li>The initiative aims to create a lasting legacy for <strong>Para sport</strong> in India through enhanced capacity building and <strong>sports tourism</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The partnership between <strong>PCI</strong> and <strong>CPSFI</strong> is a strategic move to strengthen India's position in the <strong>global Paralympic movement</strong>.</li><li>The 2029 bid represents an opportunity to welcome the international Para sport community to India after a gap of <strong>two decades</strong>.</li></ul>",
+          "topic": "Chapter Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:38.124Z",
+    "solutionsCount": 15,
+    "isComplete": true
+  }
+}

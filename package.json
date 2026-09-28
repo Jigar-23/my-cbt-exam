@@ -1,26 +1,107 @@
 {
-  "name": "test",
-  "version": "0.1.0",
+  "name": "cbt-exam-master-2026",
+  "version": "1.0.0",
+  "description": "Unified Cross-Platform Computer Based Test (CBT) Simulator & Analytics Platform",
+  "author": "CBT Exam Master Team",
   "private": true,
+  "main": "electron/main.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "desktop": "concurrently \"next dev\" \"wait-on http://localhost:3000 && electron .\"",
+    "desktop:start": "electron .",
+    "desktop:build": "next build && CSC_IDENTITY_AUTO_DISCOVERY=false electron-builder",
+    "android:sync": "next build && cap sync android",
+    "android:open": "cap open android",
+    "android:build": "next build && cap sync android && cd android && ./gradlew assembleDebug",
+    "ios:sync": "next build && cap sync ios",
+    "ios:open": "cap open ios",
+    "ios:build": "next build && cap sync ios && xcodebuild -project ios/App/App.xcodeproj -scheme App -configuration Debug -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build"
+  },
+  "build": {
+    "appId": "com.cbt.exammaster",
+    "productName": "CBT Exam Master 2026",
+    "files": [
+      "out/**/*",
+      "electron/**/*",
+      "package.json",
+      "!node_modules"
+    ],
+    "nodeGypRebuild": false,
+    "npmRebuild": false,
+    "compression": "normal",
+    "directories": {
+      "output": "dist"
+    },
+    "mac": {
+      "icon": "build/icon.icns",
+      "category": "public.app-category.education",
+      "target": [
+        "dmg",
+        "zip"
+      ]
+    },
+    "win": {
+      "icon": "build/icon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64",
+            "arm64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64",
+            "arm64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico",
+      "installerHeaderIcon": "build/icon.ico",
+      "differentialPackage": false,
+      "oneClick": true,
+      "perMachine": false
+    }
   },
   "dependencies": {
+    "@capacitor/android": "^8.5.0",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/cli": "^8.5.0",
+    "@capacitor/core": "^8.5.0",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/ios": "^8.5.2",
+    "@capacitor/status-bar": "^8.0.3",
+    "canvas-confetti": "^1.9.4",
+    "clsx": "^2.1.1",
+    "katex": "^0.18.4",
+    "lucide-react": "^1.33.0",
     "next": "16.3.1",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/katex": "^0.16.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "concurrently": "^10.0.5",
+    "electron": "^43.4.1",
+    "electron-builder": "^26.15.3",
     "eslint": "^9",
     "eslint-config-next": "16.3.1",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wait-on": "^9.1.0"
   }
 }

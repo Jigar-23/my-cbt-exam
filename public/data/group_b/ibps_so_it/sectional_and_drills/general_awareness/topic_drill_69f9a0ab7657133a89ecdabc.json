@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0ab7657133a89ecdabc",
+  "title": "CT 10: General Awareness (Basel Accord)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5ccae938fdb8bb3ca19196ad",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which of the following agreement/accord is related to banking reforms?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Vienna agreement",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Basel accord",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Nagoya Protocol",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Cartagena Protocol",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Basel Accord:&nbsp;</strong></p>\n\n<ul>\n\t<li>It is a series of <strong>banking regulation set by the Basel Committee</strong> on Bank Supervision (BCBS).&nbsp;</li>\n\t<li>The committee provides recommendations on <strong>banking regulations, specifically, concerning capital risk, market risk, and operational risk.</strong></li>\n\t<li>The accords are designed to <strong>ensure that financial institutions have enough capital</strong> on account to meet obligations and absorb unexpected losses</li>\n\t<li>The latest accord is Basel III, which was agreed in November 2010. Basel III requires banks to have a <strong>minimum amount of common equity and a minimum liquidity ratio.</strong></li>\n</ul>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Accord</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Description</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Basel 1</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>issued in 1988&nbsp;</li>\n\t\t\t\t<li>focused on the <strong>capital adequacy of financial institutions.</strong></li>\n\t\t\t\t<li>The capital adequacy risk categorizes the assets of financial institutions into <strong>five risk categories</strong> (0%, 10%, 20%, 50% and 100%).</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Basel 2</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>&nbsp;It focused on three main areas: <strong>minimum capital requirements, supervisory review of an institution&#39;s capital adequacy and internal assessment process</strong></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Basel 3</td>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Basel III requires banks to have a <strong>minimum amount of common equity and a minimum liquidity ratio.</strong></li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "5be95cb1192e1c0cbb623eca",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>Basel guidelines refer to broad supervisory standards formulated by the group of central banks called the __________.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Basel Committee on Banking Supervision (BCBS)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "International Committee on Banking Supervision (ICBS)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Basel Committee on International Banking (BCIB)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Basel Committee on Indian Banking (BCIB)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Basel guidelines refer to broad supervisory standards formulated by these groups of central banks &ndash; called the <u><strong>Basel Committee on Banking Supervision (BCBS)</strong></u>.</p>\n\n<ul>\n\t<li>The set of the agreement by the BCBS, which mainly focuses on risks to banks and the financial system, is called Basel accords/Basel Norms.</li>\n\t<li>The purpose of the accord is to ensure that financial institutions have enough capital on account to meet obligations and absorbs unexpected losses.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5be95b46badb2d0cbe160cae",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>Basel Norms came after the name of the city - Basel located in which of the following countries?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "India",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Germany",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Russia",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Switzerland",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "France",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>Switzerland</strong></u></p>\n\n<p><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border: none; display: inline-block; overflow: hidden; width: 39px; height: 39px;\"><img height=\"39\" src=\"https://lh5.googleusercontent.com/v7tYS_BIPnkcsDAGwX3-f2qQiAREyg1BhPyR5Jl5diDeqAPnKFEAtnugtICmXNiR10PIfsqEGLUhaVSqNXRXeCmi6nHuCokIg5OITBc47pFuyo23rqV75GXCUmA5Vc3MltKnzcA\" style=\"margin-left: 0px; margin-top: 0px;\" width=\"39\" /></span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; font-weight: 700; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">Explanation</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;\">:</span></p>\n\n<ul>\n\t<li><span style=\"font-weight: 700;\">Basel is a city in Switzerland.&nbsp;</span>It is the headquarters of the&nbsp;<span style=\"font-weight: 700;\">Bureau of International Settlement (BIS)</span>, which fosters cooperation among central banks with a common goal of financial stability and common standards of banking regulations. Every two months BIS hosts a meeting of the governor and senior officials of central banks of member countries.</li>\n\t<li>Basel guidelines refer to broad supervisory standards formulated by these groups of central banks &ndash; called the&nbsp;<span style=\"font-weight: 700;\">Basel Committee on Banking Supervision (BCBS).</span>&nbsp;The set of the agreement by the BCBS, which mainly focuses on risks to banks and the financial system is called&nbsp;<span style=\"font-weight: 700;\">Basel accords/Basel Norms.&nbsp;</span>The purpose of the accord is to ensure that financial institutions have enough capital on account to meet obligations and absorbs unexpected losses.&nbsp;<span style=\"font-weight: 700;\">India has accepted Basel Norms for Banking.&nbsp;</span>In fact, on a few parameters, the RBI has prescribed stringent norms as compared to the norms prescribed by BCBS.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Basel norms are international banking regulations issued by the <strong>Basel Committee on Banking Supervision (BCBS).</strong></li>\n\t<li>The Basel norms is an effort to <strong>coordinate banking regulations across the globe</strong>, with the goal of strengthening the international banking system.</li>\n\t<li>The Basel Committee on Banking Supervision (BCBS) consists of representatives from central banks and regulatory authorities of <strong>27 countries (including India).</strong></li>\n\t<li>Its secretariat (administrative office) is located at the Bank of International Settlements (BIS) headquartered in <b>the city of Basel in Switzerland.&nbsp;</b>Hence, the name Basel norms.</li>\n\t<li>The Basel Committee has issued three sets of regulations as of 2018 known as Basel-I, II, and III.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5be95d28badb2d0cbe165aa9",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p>Basel Committee on Banking Supervision (BCBS) introduced capital measurement system called Basel capital accord, also called Basel I was introduced in which of the following year?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1977",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1988",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1991",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1999",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2009",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><span style=\"font-weight: 700;\">1988</span></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In <strong>1988</strong>, BCBS introduced a capital measurement system called Basel capital accord, also called <strong>Basel 1</strong>.&nbsp;<span style=\"font-weight: 700;\">It focused almost entirely on credit risk</span>. It defined capital and structure of risk weights for banks. The minimum capital requirement was fixed at 8% of risk-weighted assets (RWA). RWA means assets with different risk profiles. For e.g.: An asset-backed by collateral would carry lesser risks as compared to personal loans, which have no collateral.\n\n\t<ul>\n\t\t<li>Assets of banks were classified and grouped into five categories according to credit risk, carrying risk weights of:</li>\n\t\t<li>0% (for example cash, a home country debt like Treasuries),</li>\n\t\t<li>20% (securitizations such as MBS rated AAA)</li>\n\t\t<li>50%,</li>\n\t\t<li>100% (for example, most corporate debt), and</li>\n\t\t<li>Some assets are given no rating</li>\n\t\t<li><span style=\"font-weight: 700;\">India adopted Basel 1 guidelines in 1999.</span></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Banks lend to different types of borrowers and each carries its own<span style=\"font-weight: 700;\">&nbsp;risk</span>. They lend the deposits of the public as well as money raised from the market &ndash;&nbsp;<span style=\"font-weight: 700;\">equity and debt</span>. The inter-mediation activity exposes the bank to a variety of risks. Cases of big banks collapsing due to their&nbsp;<span style=\"font-weight: 700;\">inability to sustain the risk exposures</span>&nbsp;are readily available. Therefore, Banks have to keep aside a certain percentage of capital as security against the risk of non &ndash; recovery.&nbsp;<span style=\"font-weight: 700;\">Basel committee has produced norms called Basel Norms for Banking to tackle the risk.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fe2243510c372b1b758468a",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "There are ________ BASEL Accords that have been introduced.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>3.</strong></u></p>\n\n<p><strong>Basel Accord</strong></p>\n\n<ul>\n\t<li>The Basel Accords are three series of banking regulations (Basel I, II, and III) set by the Basel Committee on Bank Supervision (BCBS). The committee provides recommendations on banking regulations, specifically, concerning capital risk, market risk, and operational risk. The accords ensure that financial institutions have enough capital on account to absorb unexpected losses.</li>\n</ul>\n\n<p><strong>Basel I</strong></p>\n\n<ul>\n\t<li>The first Basel Accord, known as Basel I, was issued in 1988 and focused on the capital adequacy of financial institutions. The capital adequacy risk (the risk that an unexpected loss with hurt a financial institution), categorizes the assets of financial institutions into five risk categories (0%, 10%, 20%, 50% and 100%). Under Basel I, banks that operate internationally are required to have a risk weight of 8% or less.</li>\n</ul>\n\n<p><strong>Basel II</strong></p>\n\n<ul>\n\t<li>The second Basel Accord, called the Revised Capital Framework but better known as Basel II, served as an update of the original accord. It focused on three main areas: minimum capital requirements, supervisory review of an institution&#39;s capital adequacy and internal assessment process, and the effective use of disclosure as a lever to strengthen market discipline and encourage sound banking practices including supervisory review. Together, these areas of focus are known as the three pillars.</li>\n</ul>\n\n<p><strong>Basel III</strong></p>\n\n<ul>\n\t<li>In the wake of the Lehman Brothers collapse of 2008 and the ensuing financial crisis, the BCBS decided to update and strengthen the Accords. The BCBS considered poor governance and risk management, inappropriate incentive structures, and an overleveraged banking industry as reasons for the collapse. In November 2010, an agreement was reached regarding the overall design of the capital and liquidity reform package. This agreement is now known as Basel III.</li>\n\t<li>Basel III is a continuation of the three pillars along with additional requirements and safeguards. For example, Basel III requires banks to have a minimum amount of common equity and a minimum liquidity ratio. Basel III also includes additional requirements for what the Accord calls \"systemically important banks\" or those financial institutions that are considered \"too big to fail.\"</li>\n\t<li>The Basel Committee on Banking Supervision agreed on the terms of Basel III in November 2010, and it was scheduled to be introduced from 2013 until 2015. Basel III implementation has been extended repeatedly, and the latest completion date is expected to be January 2022.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64a80845f22761c03c109672",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>With reference to Additional Tier-1 (AT1) bonds, consider the following statements:</p>\n\n<p>1. These bonds are unsecured bonds that have perpetual tenors.</p>\n\n<p>2. They are issued by banks and have a maturity date of one month.</p>\n\n<p>3.&nbsp;These bonds were introduced by the Basel accord.</p>\n\n<p>Which of the statements given above is/are correct?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 and 2 only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2 and 3 only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">1 and 3 only</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <em><u><strong>1 and 3 only.</strong></u></em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Recently, the Bombay High Court Friday quashed the write-off of Additional Tier-1 (AT1) bonds worth Rs 8,400 crore issued by Yes Bank Ltd, bringing relief to investors.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><strong><span style=\"\">Additional Tier-1(</span>AT1) bonds</strong></p>\n\n<ul>\n\t<li>These bonds are <strong>unsecured bonds </strong>that have perpetual tenors, are<strong> issued by banks, and have no maturity date.<em> Hence, statement 1 is correct and 2 is incorrect.</em></strong></li>\n\t<li>They have a <strong>call option,</strong> which can be used by the banks to buy these bonds back from investors.&nbsp;</li>\n\t<li>These bonds are <strong>typically used by banks to bolster their core or tier-1 capital.</strong></li>\n\t<li>These AT1 bonds are<strong> subordinate to all other debt and only senior to common equity.</strong></li>\n\t<li>These bonds were<strong> introduced by the Basel accord </strong>after the global financial crisis to protect depositors.&nbsp;<span style=\"font-weight: 700; \"><em>Hence, statement 3&nbsp;is correct.&nbsp;</em></span></li>\n\t<li><span style=\"\">Banks use this to augment their core equity base and thus comply with Basel III norms.&nbsp;</span></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p><strong><span style=\"\">Basel accords</span></strong></p>\n\n<ul style=\"\">\n\t<li>Basel norms or Basel accords are the international banking regulations issued by the Basel Committee on Banking Supervision.</li>\n\t<li>The Basel norms are an effort to coordinate banking regulations across the globe, with the goal of strengthening the international banking system.</li>\n\t<li>It is the set of the agreement by the Basel Committee of Banking Supervision which focuses on the risks to banks and the financial system.</li>\n\t<li>In<span style=\"font-weight: 700;\">&nbsp;2010,</span>&nbsp;Basel III guidelines were released.</li>\n\t<li>These guidelines were&nbsp;<span style=\"font-weight: 700;\">introduced in response to the financial crisis of 2008.</span></li>\n\t<li>A need was felt to further strengthen the system as banks in the developed economies were under-capitalized, over-leveraged and had a greater reliance on short-term funding.</li>\n\t<li>It was also felt that the&nbsp;<span style=\"font-weight: 700;\">quantity and quality of capital under Basel II&nbsp;</span>were deemed i<span style=\"font-weight: 700;\">nsufficient&nbsp;</span>to contain any further risk.</li>\n\t<li>The guidelines aim to promote a more resilient banking system by&nbsp;<span style=\"font-weight: 700;\">focusing on four vital banking parameters viz. capital, leverage, funding and liquidity.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ea13d2cf60d5d3022feea62",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "________________ risk arises due to losses in on-balance sheet and off-balance sheet positions arising from movements in market prices as per Basel III accords.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Credit",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Liquidity",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Pricing",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Market",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Reinvestment",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 4 i.e. <u>Market.</u></strong></p>\n\n<p><u><strong>Market Risk is the risk of losses in on-balance sheet and off-balance sheet positions arising from movements in market prices.</strong></u></p>\n\n<ul>\n\t<li>Basel III accords <strong>focus&nbsp;on bank capital adequacy, stress testing, and market liquidity risk.</strong></li>\n\t<li>The accords were formed after the<strong> 2008 financial crisis.</strong></li>\n\t<li>They <strong>were first published in 2010, </strong>and were scheduled to be implemented in 2013,<strong> but has been pushed to 2022.</strong></li>\n\t<li>It <strong>also introduces requirements on liquid asset holdings and funding stability,</strong> thereby seeking to mitigate the risk of customers withdrawing money from the banks.</li>\n\t<li><u><strong>Given below are the key principles of Basel III accords:</strong></u></li>\n</ul>\n\n<ol style=\"margin-left: 40px;\">\n\t<li><u><strong>Minimum Capital Requirements</strong></u>:&nbsp;The Basel III accord<strong> raised the minimum capital requirements for banks from 2% in Basel II to 4.5% </strong>of common equity, as a percentage of the bank&rsquo;s risk-weighted assets.</li>\n\t<li><u><strong>Leverage Ratio</strong></u>:<strong>&nbsp;</strong>Basel III introduced a <strong>non-risk-based leverage ratio</strong> to serve as a backstop to the <strong>risk-based capital requirements.</strong> Banks are required to hold a leverage ratio in excess of 3%.</li>\n\t<li><u><strong>Liquidity Requirements</strong></u>:&nbsp;Basel III introduced the usage of <strong>two liquidity ratios &ndash; the <u>Liquidity Coverage Ratio and the Net Stable Funding Ratio</u>. </strong>Under the Liquidity Coverage Ratio<strong> banks were required to hold sufficient high-quality liquid assets to cover its total net cash outflows </strong>over 30 days and under the&nbsp;Net Stable Funding Ratio was to require the available amount of stable funding to exceed the required amount of stable funding over a one-year period of extended stress.</li>\n</ol>\n\n<ul>\n\t<li><strong>In India, the accords were implemented on April 1, 2013.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5b8d3512c139c3621b9ef753",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "The Basel Norms for capital adequacy of banks was introduced in 1988. India adopted the Basel I norms in the year &ndash;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1998",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1999",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2005",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2006",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><span style=\"font-weight: 700;\">1999</span></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In 1988, BCBS introduced a capital measurement system called Basel capital accord, also called Basel 1. <strong>It focused almost entirely on credit risk</strong>. It defined capital and structure of risk weights for banks. The minimum capital requirement was fixed at 8% of risk-weighted assets (RWA). RWA means assets with different risk profiles. For e.g.: An asset-backed by collateral would carry lesser risks as compared to personal loans, which have no collateral.\n\n\t<ul>\n\t\t<li>Assets of banks were classified and grouped into five categories according to credit risk, carrying risk weights of:</li>\n\t\t<li>0% (for example cash, a home country debt like Treasuries),</li>\n\t\t<li>20% (securitizations such as MBS rated AAA)</li>\n\t\t<li>50%,</li>\n\t\t<li>100% (for example, most corporate debt), and</li>\n\t\t<li>Some assets are given no rating</li>\n\t\t<li><strong>India adopted Basel 1 guidelines in 1999.</strong></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Banks lend to different types of borrowers and each carries its own<strong> risk</strong>. They lend the deposits of the public as well as money raised from the market &ndash; <strong>equity and debt</strong>. The inter-mediation activity exposes the bank to a variety of risks. Cases of big banks collapsing due to their <strong>inability to sustain the risk exposures</strong> are readily available. Therefore, Banks have to keep aside a certain percentage of capital as security against the risk of non &ndash; recovery. <strong>Basel committee has produced norms called Basel Norms for Banking to tackle the risk.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5d4ce5a2fdb8bb0402bb338e",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Which of the following norms does Bank Capitalization belongs to?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Basel I norms",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Basel II norms",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Basel III norms",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Basel IV norms",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><u><strong>Bank Capitalization belongs to&nbsp;Basel III norms</strong></u>.</li>\n\t<li>Basel III is an international regulatory accord that introduced a <strong>set of reforms designed to improve the regulation, supervision and risk management within the banking sector. </strong></li>\n\t<li>The Basel Committee on Banking Supervision published the first version of Basel III in&nbsp;2009, giving banks approximately three years to satisfy all requirements.</li>\n\t<li>Largely in response to the credit crisis, banks are required to maintain proper leverage ratios and meet certain minimum capital requirements.</li>\n\t<li>Indian banks as per RBI direction are required to maintain 5.5 per cent Common Equity Tier 1 (CET 1) as against 4.5 per cent required under the Basel III framework.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5be95fd1faa6fb0ca8e390fc",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>in which of the following year, Basel II guidelines were published?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1996",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1999",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2001",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2003",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2004",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>In 2004, Basel II guidelines were published by BCBS, which were considered to be the refined and reformed versions of Basel I accord.</p>\n\n<ul>\n\t<li>The Basel II was based on the three basic parameters that a bank must follow in order to do safe operation in banking system.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:49.144Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

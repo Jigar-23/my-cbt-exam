@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a077348b3193baae0683",
+  "title": "CT 8: English Language (Fill In The Blanks - Vocabulary - 2)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6100810a196326a1e541b142",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: There are two blanks in the sentence given below. From the pair of words given in the options, choose the one that fits into the blanks most appropriately.</span></p>\n\n<p>The proposal met with vehement ______ from all the ______ of the Prime Minister.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Defiance, denigrators",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Veneration, loyalists",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "discourage, supporters",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Admiration, enemies",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Ingenuity, votaries",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct words to fill the blanks are<strong> defiance and&nbsp;denigrators<font color=\"#3c4043\">.</font></strong></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<div>&nbsp;Now let us look at the meaning of the correct words:</div>\n\n<ul>\n\t<li>\n\t<div>Defiance:&nbsp;open resistance; bold disobedience. It is a noun.</div>\n\t</li>\n\t<li>\n\t<div>Denigrators:&nbsp;a person who criticizes someone or something unfairly. It is&nbsp;a noun.​</div>\n\t</li>\n</ul>\n\n<div>Thus both the words of option 1&nbsp;aptly fit in the context. Here the sentence means that the proposal received intense resistance from the critics of the Prime Minister.</div>\n\n<p><u>Thus the sentence is:</u>&nbsp;<em>The proposal met with vehement </em><strong>defiance</strong><span style=\"font-weight: 700;\"><span style=\"color: rgb(32, 33, 36);\">&nbsp;</span></span><em>from all the </em><strong>denigrators</strong><span style=\"font-weight: 700;\"><span style=\"color: rgb(60, 64, 67);\">&nbsp;</span></span><em>of the Prime Minister.</em></p>\n\n<p><em><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></em></p>\n\n<p>Let us look at the meanings of the other options:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color: rgb(255, 255, 255); width: 380px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153); text-align: center;\"><span style=\"font-weight: 700;\">Word</span></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153); text-align: center;\"><span style=\"font-weight: 700;\">Meaning</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"display: none;\">&nbsp;</span>Appreciation<span style=\"display: none;\">&nbsp;</span></td>\n\t\t\t<td>great respect; reverence</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Loyalists</td>\n\t\t\t<td>a person who remains loyal to the established ruler or government, especially in the face of a revolt</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Vehement</td>\n\t\t\t<td>showing strong feeling; forceful, passionate, or intense</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Admiration</td>\n\t\t\t<td>respect and warm approval</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Ingenuity</td>\n\t\t\t<td>the quality of being clever, original, and inventive</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Votaries</td>\n\t\t\t<td>a devoted follower, adherent, or advocate of someone or something</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "61a999b8e5d090f85120c4b5",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: There is a blank in the sentence given below. From the words given below, choose the words/word that fits into the blank most appropriately.</span></p>\n\n<p>It took several hours for the celebrity to _______, but he eventually showed his face at the event.</p>\n\n<p>A. Appear</p>\n\n<p>B. Spearhead</p>\n\n<p>C. Emerge</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "BC",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "AB",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "AC",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><span style=\"\">AC</span>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></p>\n\n<ul>\n\t<li>Now let us look at the meaning of the correct words:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">​Appear: </span>to come into sight; become visible or noticeable.</li>\n\t\t<li><span style=\"font-weight: 700;\">Emerge:&nbsp;</span>to appear or come out from somewhere.</li>\n\t</ul>\n\t</li>\n\t<li>​Here, both &#39;<span style=\"font-weight: 700;\">A</span>&#39; and &#39;<span style=\"font-weight: 700;\">C</span>&#39; aptly fit in the context of the sentence. The sentence means the celebrity appearing in front of the public at an event after several hours.<br />\n\t&nbsp;</li>\n</ul>\n\n<p>Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 5</span>.</p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></p>\n\n<ul>\n\t<li>The word &#39;<span style=\"font-weight: 700;\">Spearhead</span>&#39; means&nbsp;<span style=\"font-weight: 700;\">to&nbsp;</span><strong>lead an attack or movement</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "610120aa5a81033f467a4c03",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: There are two blanks in the sentence given below. From the pair of words given in the options, choose the one that fits into the blanks most appropriately.</span></p>\n\n<p>One of the most wonderful ______ of mathematics is that mathematical communication crosses the ______ at which languages stop.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Satire, core",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Ironies, borders",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Expediency, margins",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Facets, marges",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(32, 33, 36);  \">Coalesce</span>, crux",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<strong>facets and&nbsp;marges</strong><strong>.</strong></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<div>&nbsp;Now let us look at the meaning of the correct words:</div>\n\n<ul>\n\t<li><strong>Facets</strong><span style=\"font-weight: 700;\">:&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">a particular aspect or feature of something. It is a noun.</span></li>\n\t<li><b style=\"color: rgb(60, 64, 67); \">Marges</b><span style=\"font-weight: 700;\">:&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">an edge; the furthest limit of possibility. It is&nbsp;a noun.<span style=\"font-weight: 700;\">​</span></span></li>\n</ul>\n\n<p>Thus both the words of option 4&nbsp;aptly fit in the context. Here the sentence&nbsp;means that mathematical communication is one of the most wonderful feature&nbsp;of mathematics that goes beyond the line at which languages stop.</p>\n\n<p><u>Thus the sentence is:</u><em>&nbsp;One of the most wonderful&nbsp;</em><span style=\"font-weight: 700;\"><em>facets</em>&nbsp;</span><em>of mathematics is that mathematical communication crosses the&nbsp;<span style=\"font-weight: 700;\">marges&nbsp;</span>at which languages stop.</em></p>\n\n<p><em><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></em></p>\n\n<div>Let us look at the meanings of the other options:</div>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color: rgb(255, 255, 255); width: 350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153); text-align: center; width: 20%;\"><strong>Word</strong></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153); text-align: center;\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Satire</strong></td>\n\t\t\t<td style=\"text-align: center;\">the use of humour, irony, exaggeration, or ridicule to expose and criticize people&#39;s stupidity or vices, particularly in the context of contemporary politics and other topical issues.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Ironies</strong></td>\n\t\t\t<td style=\"text-align: center;\">the expression of one&#39;s meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Borders</strong></td>\n\t\t\t<td style=\"text-align: center;\">a line separating two countries, administrative divisions, or other areas</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Expediency</strong></td>\n\t\t\t<td style=\"text-align: center;\">the quality of being convenient and practical despite possibly being improper or immoral; convenience</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Coalesce</strong></td>\n\t\t\t<td style=\"text-align: center;\">combine (elements) in a mass or whole; unification; consolidation</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Crux</strong></td>\n\t\t\t<td style=\"text-align: center;\">the decisive or most important point at issue</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "61a99948741e848884518b88",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: There is a blank in the sentence given below. From the words given below, choose the words/word that fits into the blank most appropriately.</span></p>\n\n<p>The old lady has received an _______ order from the council for non-payment of rent.</p>\n\n<p>A. Expulsion</p>\n\n<p>B. Eviction</p>\n\n<p>C. Employment</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "BC",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "AC",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "AB",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;AB</span>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></p>\n\n<ul>\n\t<li>Now let us look at the meaning of the correct words:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">​Expulsion:&nbsp;</span>the action or process of forcing someone to leave a place.</li>\n\t\t<li><span style=\"font-weight: 700;\">Eviction:&nbsp;</span>the action of expelling or forcing out someone from a property or&nbsp;a place.</li>\n\t</ul>\n\t</li>\n\t<li>​Here, both &#39;<span style=\"font-weight: 700;\">A</span>&#39; and &#39;<span style=\"font-weight: 700;\">B</span>&#39; aptly fit in the context of the sentence. The sentence means the old lady has been forced to leave the place due to non-payment of rent.<br />\n\t&nbsp;</li>\n</ul>\n\n<p>Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 3</span>.</p>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></p>\n\n<ul>\n\t<li>The word &#39;<span style=\"font-weight: 700;\">Employment</span>&#39; means&nbsp;<strong>the state of having paid work or&nbsp;a paid job</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6336aad6861b1f4cfbb7f2f8",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with three blanks. From the options given below, choose the option which contains the most suitable words for&nbsp;the blanks.</span></p>\n\n<p style=\"\">Our marketing team will _______ the _______ Annual Sales _______ in Mumbai.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Malpractice<span style=\"\">, </span>Tenacious<span style=\"\">, </span>Impropriety<span style=\"\">.</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">O</span>rganize<span style=\"\">, </span>Upcoming<span style=\"\">, </span>Convention<span style=\"\">.</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Tenacious</span><span style=\"\">,&nbsp;</span><span style=\"\">Upcoming</span><span style=\"\">,&nbsp;</span><span style=\"\">Convention</span><span style=\"\">.</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">Stout, Convention, Malpractice.</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">Tenacious</span><span style=\"\">,&nbsp;</span><span style=\"\">Impropriety,&nbsp;</span><span style=\"\">Convention</span><span style=\"\">.</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><strong>Organize, Upcoming, Convention</strong>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>The given sentence is about&nbsp;<span style=\"font-weight: 700;\">something related to Annual Sales by the marketing team in Mumbai</span>.</li>\n\t<li>Therefore, from the given options, the words in the second option will be the most suitable words for the blanks:\n\t<ul>\n\t\t<li><strong><span style=\"\">O</span><span style=\"\">rganize</span></strong>&nbsp;means&nbsp;<span style=\"font-weight: 700;\">To<strong>&nbsp;</strong></span><strong>make arrangements or preparations for an event or activity</strong>.</li>\n\t\t<li><strong><span style=\"\">Upcoming</span></strong><span style=\"font-weight: 700;\">&nbsp;</span>means&nbsp;<strong>About to happen; forthcoming</strong>.</li>\n\t\t<li><strong><span style=\"\">Convention</span></strong>&nbsp;means&nbsp;<strong>A large meeting or conference, especially of members of&nbsp;a particular profession or group</strong>.<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 2</span>.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Complete Sentence:</span>&nbsp;<em>Our marketing team will <strong>organize</strong> the <strong>upcoming</strong> Annual Sales <strong>Convention</strong> in Mumbai</em>.<br />\n<br />\n<span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\">Let</span>&nbsp;us&nbsp;<span style=\"font-weight: 700;\">explore</span>&nbsp;the other&nbsp;<span style=\"font-weight: 700;\">options:</span>\n\n\t<ul>\n\t\t<li><strong><span style=\"\">Malpractice</span></strong>&nbsp;means&nbsp;<strong>Improper, illegal, or negligent professional behavior</strong>.</li>\n\t\t<li><strong><span style=\"\">Tenacious</span></strong>&nbsp;means<span style=\"font-weight: 700;\">&nbsp;T</span><strong>ending to keep a firm hold of something; clinging or adhering closely</strong>.</li>\n\t\t<li><strong><span style=\"\">Impropriety</span></strong><span style=\"color: rgb(32, 33, 36); white-space: pre-wrap;\"><span style=\"font-weight: 700;\"> </span>means </span><strong>Failure to observe standards of honesty or modesty; improper behavior or character</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">Stout</span>&nbsp;means&nbsp;<span style=\"font-weight: bold;  \">fat and solid-looking;&nbsp;physically or materially strong.</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc37b33440740b097a08e3a",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">The given question has one blank indicating that something has been omitted. Choose the word from the given options that could fit in the blank correctly.</span></p>\n\n<div>The Eskimos risked severe _________ as they stepped out of their igloos without any safety gear.&nbsp;</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Frostbite",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sunburn",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Starvation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Fatigue",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Pneumonia",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>frostbite</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Frostbite:</strong> Injury to body tissue caused by exposure to extreme cold, usually affects the nose, mouth and fingers.&nbsp;</li>\n</ul>\n\n<p>It should be read as:</p>\n\n<p><em>The Eskimos risked severe frostbite as they stepped out of their igloos without any safety gear on.&nbsp;</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<p>The mention of the terms <strong>&#39;Eskimos&#39; and &#39;igloos&#39; should give the reader a hint as to the habitat </strong>in which Eskimos reside in igloos.&nbsp;</p>\n\n<p>It is important here that the reader have the general knowledge that Eskimos are native to cold climates.&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>Let&#39;s look at the meaning of the other words:</p>\n\n<ul>\n\t<li><strong>Sunburn: </strong>Reddening and inflammation of the skin due to overexposure to the UV rays of the sun</li>\n\t<li><strong>Starvation:</strong> Suffering or death caused by hunger</li>\n\t<li><strong>Fatigue:</strong> Extreme tiredness due to mental and/or physical exertion</li>\n\t<li><strong>Pneumonia:</strong>&nbsp;&nbsp;A lung infection cause by a bacteria o</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "632d59fb7949aeefec67f99e",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>Find out the most effective word from the given options to fill in the blanks of the following questions.</strong></p>\n\n<p>1. She tried to ______&nbsp;more plants through her house plants.</p>\n\n<p>2. The religious group tried to ______ their beliefs through print and social media.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "distribute",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "propagate",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "suppress",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "clone",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "broadcast",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is &#39;<span style=\"font-weight: 700; \">propagate</span>&#39;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;The meaning of the verb &#39;<span style=\"font-weight: 700; \">propagate</span>&#39; is\n\n\t<ul>\n\t\t<li>a. to breed specimens of (a plant or animal) by natural processes from the parent stock.</li>\n\t\t<li>b. to spread and promote (an idea, theory, etc.) widely.</li>\n\t</ul>\n\t</li>\n\t<li>In the first sentence, the meaning of the word &#39;<strong>Propagate&#39;</strong> is that the woman tries to breed specimens of the house plant from the already existing ones.</li>\n\t<li>In the second sentence, the meaning of the word &#39;<strong>Propagate&#39;</strong> is that the religious group is trying to promote its beliefs through print and social media.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Let us explore the meaning of the given options:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700; \">Distribute:<strong>&nbsp;</strong></span><strong>give a share or a unit of (something) to each of a number of recipients.</strong></li>\n\t\t<li><strong><span style=\"font-weight: 700; \">Suppress:&nbsp;</span>prevent the development, action, or expression of (a feeling, impulse, idea, etc.); restrain.</strong></li>\n\t\t<li><strong><span style=\"font-weight: 700; \">Clone:&nbsp;</span>an organism or cell, or group of organisms or cells, produced asexually from one ancestor or stock, to which they are genetically identical.</strong></li>\n\t\t<li><strong><span style=\"font-weight: 700; \">Broadcast:&nbsp;</span>transmit (a programme or some information) by radio or television.</strong></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Hence the sentence can be rewritten as</strong></u>:</p>\n\n<p>1.&nbsp;She tried to <u><strong>propagate</strong></u> more plants through her house plants</p>\n\n<p>2.&nbsp;The religious group tried to <strong><u>propagate</u></strong> their beliefs through print and social media.</p>\n\n<p>Hence the correct answer is <strong>option 2</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fa403ad86233ea4c64c6020",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Find out the most effective word from the given options to fill the blanks of the following questions.</span></p>\n\n<div>1. Experts failed to understand the__________behind the decision to move coal by road when there is enough rail capacity in this sector.</div>\n\n<div>2. The__________that underpins this behavior is that global consumers and investors will buy&nbsp;Amazon&#39;s conflict commodities no matter what.</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ideology",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Judgement",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rationale",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Politics",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Logistics",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer<em><strong>&nbsp;Rationale.&nbsp;</strong></em></p>\n\n<p><em><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></em></p>\n\n<ul>\n\t<li>The word <em><u><strong>&#39;Rationale&#39; </strong></u></em>means &#39;<span style=\"\"><strong>a set of reasons or a logical basis for a course of action or belief</strong>&#39;.</span></li>\n</ul>\n\n<p>Hence, the correct sentences would be:</p>\n\n<ol>\n\t<li>Experts failed to understand the<em><u><strong> rationale </strong></u></em>behind the decision to move coal by road when there is enough rail capacity in this sector.</li>\n\t<li>The<em><u><strong> rationale </strong></u></em>that&nbsp;underpins this behavior is that global consumers and investors will buy Amazon&#39;s conflict commodities no matter what.&nbsp;</li>\n</ol>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Option 1) i.e. <em><u><strong>&#39;Ideology&#39;</strong></u></em> means a set of beliefs, especially the political beliefs on which people, parties, or countries base their actions.\n\n\t<ul>\n\t\t<li>Example: Naresh says that the election is not about <em><strong>ideology.&nbsp;</strong></em></li>\n\t</ul>\n\t</li>\n\t<li><em><strong>​</strong></em>Option 2)&nbsp;i.e. <em><u><strong>&#39;Judgement&#39;</strong></u></em> means &#39;<span style=\"\">the ability to make considered decisions or come to sensible conclusions; an opinion or conclusion&#39;.</span>\n\t<ul>\n\t\t<li>Example: Our<em><strong> judgment</strong></em> as to the cause of his failure must rest on the evidence.&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li>Option 4) i.e. <u><em><strong>&#39;Politics&#39;</strong></em></u>&nbsp;means the actions or activities concerned with achieving and using power in a country or society.\n\t<ul>\n\t\t<li>Example: Many people think that Trump transformed American <em><strong>politics.&nbsp;</strong></em></li>\n\t</ul>\n\t</li>\n\t<li><em><strong>​</strong></em>Option 5) i.e.&nbsp;<strong><u><em>&#39;Logistics&#39;</em></u></strong>&nbsp;means &#39;<span style=\"\">the detailed organization and implementation of a complex operation&#39;.</span>\n\t<ul>\n\t\t<li>Example: The skills and <em><strong>logistics</strong></em> of getting such a big show on the road pose enormous practical problems.&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60fc038278978de4e09f0d40",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Two sentences are given below where&nbsp;one word can fill both the blanks.&nbsp;Fill in the blanks with the suitable word from the options.</span></p>\n\n<p>1.<span style=\"font-weight: 700;\">&nbsp;</span><span style=\"color: rgb(80, 74, 75);\">Without any decorations, the Christmas tree looked _______.&nbsp;</span></p>\n\n<p><span style=\"color: rgb(80, 74, 75);\">2.&nbsp;A monk chooses to live a/an ______ life because of his religious beliefs</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Austere",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Shrunken",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Derogatory",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Dishevelled",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Dogmatic",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>Austere</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;Let&#39;s look at the meaning of the answer (the term has multiple meanings based on the context):\n\t<ul>\n\t\t<li><strong>Austere</strong>:&nbsp;<em><span style=\"color: rgb(34, 34, 34); \">having an extremely plain and simple style or appearance; unadorned</span></em></li>\n\t\t<li><span style=\"color: rgb(34, 34, 34); \"><strong>Austere</strong>:&nbsp;<em>having no comforts or luxuries; harsh or ascetic</em></span></li>\n\t</ul>\n\t</li>\n\t<li>The <strong>first sentence</strong> talks about how a Christmas tree looked without any decorations.&nbsp;\n\t<ul>\n\t\t<li>The <strong>essence of a Christmas tree</strong> comes from the <u>tradition of family and friends decorating the tree</u> (with lights, ornaments, etc.) <u>without which it would just be a regular, plain tree and hence not representative of Christmas.&nbsp;</u></li>\n\t</ul>\n\t</li>\n\t<li>The <strong>second sentence</strong> talks about how a monk chooses to live&nbsp;a certain type because of his religious beliefs.&nbsp;\n\t<ul>\n\t\t<li><strong>Monks are known for their Buddhist lifestyle</strong> which involves <u>freedom from all materialistic and worldly possessions</u> and hence leads to a <u>simple, plain life without any pomp or show</u> and often involves the <u>implementation of strict rules and harsh circumstances.&nbsp;&nbsp;</u></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><br />\nThus, the correct answer is <strong>Austere</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></p>\n\n<p>Let&#39;s look at the meaning of the other words:<strong>&nbsp;</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Word</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Meaning</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Shrunken</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">become or make smaller in size or amount</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>&nbsp;Derogatory&nbsp;</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">showing a critical or disrespectful attitude</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Disheveled</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">(of a person&#39;s hair, clothes, or appearance) untidy; disordered</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><em>Dogmatic</em></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"color: rgb(34, 34, 34); \">inclined to lay down principles as incontrovertibly true</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/confusion-points-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Confusion Points</u></span></strong></span></p>\n\n<ul>\n\t<li>While a monk may have a &#39;<strong>dogmatic</strong>&#39; outlook on life, it is <u>impossible a Christmas tree (a non-living thing) would have any kind of perspective on anything.</u></li>\n\t<li>It is possible that a&nbsp;<strong>Christmas tree looks &#39;disheveled&#39;</strong> but is<strong> impossible to live a &#39;disheveled&#39; life</strong> as it is<u> only something that someone looks like</u>.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6336a836861b1f4cfbb7c0d0",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: In the following question, a sentence is given with three blanks. From the options given below, choose the option which contains the most suitable words for&nbsp;the blanks.</span></p>\n\n<p style=\"\">There is a broad _______ of opinion about the _______ which should be _______.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Dissent<span style=\"\">, </span>Pursued, Policies.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Discord<span style=\"\">, </span>Strife<span style=\"\">, </span>Dissent<span style=\"\">.</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Policies<span style=\"\">, Discord, Hassle.</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Consensus<span style=\"\">, </span>Policies<span style=\"\">, </span>Pursued<span style=\"\">.</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Consensus, Policies, Strife.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><strong>Consensus, Policies, Pursued</strong>​.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>The given sentence is about&nbsp;<span style=\"font-weight: 700;\">a kind of broad opinion about something</span>.</li>\n\t<li>Therefore, from the given options, the words in the fourth option will be the most suitable words for the blanks:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Consensus</span>&nbsp;means&nbsp;<strong>A general agreement</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">Policies&nbsp;</span>means&nbsp;<strong>A course or principle of actions adopted or proposed by an organization or individual</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">Pursued</span>&nbsp;means&nbsp;<strong>To try to achieve something or to continue to do something over a period of time</strong>.<br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 4</span>.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Complete Sentence:</span>&nbsp;<em>There is a broad <strong>consensus</strong> of opinion about the <strong>policies</strong> which should be <strong>pursued</strong></em>.<br />\n<br />\n<span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\">Let</span>&nbsp;us&nbsp;<span style=\"font-weight: 700;\">explore</span>&nbsp;the other&nbsp;<span style=\"font-weight: 700;\">options:</span>\n\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Dissent</span>&nbsp;means&nbsp;<span style=\"font-weight: 700;\">To<strong> </strong></span><strong>hold or express opinions that are at variance with those commonly or officially held</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">Discord</span>&nbsp;means<span style=\"font-weight: 700;\">&nbsp;</span><strong>Disagreement between people</strong>.</li>\n\t\t<li><strong>Strife</strong><span style=\"color: rgb(32, 33, 36); white-space: pre-wrap;\"><span style=\"font-weight: 700;\"> </span>means </span><strong>Angry or bitter disagreement over fundamental issues; conflict</strong>.</li>\n\t\t<li><span style=\"font-weight: 700;\">Hassle</span>&nbsp;means&nbsp;<strong>Deliberate harassment</strong>.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:39.279Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

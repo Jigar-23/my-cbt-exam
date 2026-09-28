@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0c39797da7f70fec6a4",
+  "title": "CT 22: General Awareness (General Knowledge II)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a070abe0843aa0a73b3df88",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Who assumed charge as the Chairman &amp; Managing Director (CMD) of Steel Authority of India Limited (SAIL) in May 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Dr. Ashok Kumar Panda",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Dr. Sandeep Kumar Gupta",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Dr. Rajesh Kumar Singh",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Dr. Anil Kumar Jain",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Soma Mondal",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Dr. Ashok Kumar Panda</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Dr. Ashok Kumar Panda</strong> assumed charge as the <strong>Chairman &amp; Managing Director (CMD)</strong> of <strong>Steel Authority of India Limited (SAIL)</strong> on <strong>09 May, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Dr. Ashok Kumar Panda</strong> previously served as the <strong>Director (Finance)</strong> of the company and held the additional charge of <strong>Director (Commercial)</strong> for about nine months prior to this appointment.</li>\n\t<li>He began his journey with <strong>SAIL</strong> in <strong>1992</strong> as a <strong>Management Trainee (Technical)</strong> after completing his B.E. in Electrical Engineering.</li>\n\t<li>Over three decades, he has held diverse responsibilities across multiple plants, gaining extensive experience in operational, financial, and commercial domains, directly making him the correct appointee for the top leadership position.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>During his tenure as <strong>Director (Finance)</strong>, Dr. Panda spearheaded strategic initiatives aimed at improving <strong>operational efficiency</strong> and <strong>profitability</strong>.</li>\n\t<li>In his role as <strong>Director (Commercial)</strong>, he focused on enhancing <strong>Net Sales Realisation (NSR)</strong>, reducing inventory levels, and strengthening product branding.</li>\n\t<li>He is widely respected as a people-centric leader with an inclusive leadership style and strong execution capabilities.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Capacity Expansion:</strong> Upon assuming charge, Dr. Panda outlined that <strong>SAIL</strong> is on track for its next phase of capacity expansion to <strong>35 MTPA</strong>.</li>\n\t<li><strong>Strategic Priorities:</strong> His immediate priorities for the company include placing the highest priority on <strong>safety</strong> across workplaces and strengthening <strong>raw material security</strong> through domestic mining and exploration of overseas assets.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0ed93926d83fcca910e5bd",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which bank has partnered with Mahindra &amp; Mahindra (M&amp;M) to launch the first-of-its-kind sustainability-linked dealer financing program in the Indian automotive sector?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "HDFC Bank",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "ICICI Bank",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "DBS Bank India",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "State Bank of India",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Bank of Baroda",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>DBS Bank India</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Mahindra &amp; Mahindra Ltd (M&amp;M)</strong> has signed a Memorandum of Understanding (MoU) with <strong>DBS Bank India</strong> to launch a <strong>sustainability-linked dealer financing program</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The initiative is the <strong>first-of-its-kind</strong> in the <strong>Indian automotive sector</strong>, aimed at incentivizing authorized M&amp;M dealers to adopt sustainable business practices.</li>\n\t<li>Dealers will be offered <strong>favourable interest rates</strong> on loans for the purchase of <strong>passenger and commercial vehicles</strong> based on their environmental performance.</li>\n\t<li>The program&#39;s criteria are aligned with <strong>M&amp;M&rsquo;s Green Dealership Program</strong>, monitoring parameters such as <strong>greenhouse gas emissions</strong>, <strong>water consumption</strong>, <strong>renewable energy use</strong>, and <strong>waste management</strong>.</li>\n\t<li>Additional evaluation factors include the provision of <strong>Electric Vehicle (EV) charging facilities</strong> and the number of <strong>eSUVs</strong> sold by the dealership.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>DBS Bank India</strong> was recognized as the <strong>Best Bank for Corporate Banking in India</strong> by <strong>Crisil Coalition Greenwich</strong> in both <strong>2025 and 2026</strong>.</li>\n\t<li>The bank also received the award for <strong>Best Bank for Sustainable Finance &ndash; India</strong> by <strong>Global Finance</strong> in <strong>2024</strong>.</li>\n\t<li><strong>Mahindra &amp; Mahindra</strong> secured a leadership position in the <strong>2026 DJSI, S&amp;P Global Sustainability Yearbook</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The initiative supports the Indian Government&rsquo;s <strong>Nationally Determined Contribution (NDC)</strong> targets under the <strong>Paris Agreement</strong> to reach <strong>net-zero emissions by 2070</strong>.</li>\n\t<li>The program framework allows dealership operations to be measured against specific sustainability parameters to ensure transparency and accountability.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69ce6dffe28a302a2d1adb2f",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which driver finished in the second position at the 2026 Japanese Grand Prix held at the Suzuka Circuit?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Charles Leclerc",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Oscar Piastri",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "George Russell",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Lando Norris",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Max Verstappen",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Oscar Piastri.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Oscar Piastri of McLaren secured the second position at the Japanese Grand Prix 2026.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0);\">Oscar Piastri (Australia), driving for McLaren, earned 18 points for his second-place finish.</span></strong></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">The race was won by <strong>Kimi Antonelli</strong>, who became the youngest driver to lead the Formula 1 World Championship.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\"><strong>Charles Leclerc</strong> of Ferrari finished in third place, rounding out the podium.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\"><u><span style=\"font-weight: bolder;\">Top 3 Finishers - Japanese GP 2026</span></u></span>\n\t<ul>\n\t\t<li>1st Place: Kimi Antonelli (Italy)</li>\n\t\t<li>2nd Place: Oscar Piastri (Australia)</li>\n\t\t<li>3rd Place: Charles Leclerc (Monaco)</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Oscar Piastri</span></u>\n\n\t<ul>\n\t\t<li>Nationality: Australian</li>\n\t\t<li>Team: McLaren</li>\n\t\t<li>Career Highlight: Known for his rapid rise through the junior categories (F3 and F2 champion).</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Suzuka Circuit</span></u>\n\t<ul>\n\t\t<li>Country: Japan</li>\n\t\t<li>Design: Famous for its unique &#39;figure-eight&#39; layout.</li>\n\t\t<li>History: First utilized for F1 in 1963.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Championship Standing</span></u>\n\t<ul>\n\t\t<li>Kimi Antonelli&#39;s win moved him to the top of the standings, making him the youngest leader in F1 history.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a509076dd34e403598563ac",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Under which category did the <strong>ICMR-MINDS</strong> initiative receive the <strong>Gold Award</strong> at the <strong>National Awards for e-Governance 2026</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Excellence in Government Process Re-engineering for Digital Transformation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Innovation by Use of AI and Other New Age Technologies for Providing Citizen-Centric Services",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Digital Transformation in Public Sector Undertakings",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Outstanding Research on Citizen Centric Services by Research Institutions",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Leveraging Blockchain Technology for Transparent Governance",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Innovation by Use of AI and Other New Age Technologies for Providing Citizen-Centric Services</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Indian Council of Medical Research (ICMR)</strong> initiative, <strong>ICMR-MINDS</strong>, was conferred the <strong>Gold Award</strong> at the <strong>National Awards for e-Governance 2026</strong> held in <strong>Jaipur, Rajasthan</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>The <strong>ICMR-MINDS</strong> project received the award under <strong>Category 2</strong>, which is titled <strong>Innovation by Use of AI and Other New Age Technologies for Providing Citizen-Centric Services</strong>.</li><li>The initiative utilizes an <strong>AI-enabled</strong> digital platform and a <strong>Clinical Decision Support System (CDSS)</strong> to empower frontline healthcare workers in delivering standardized <strong>mental healthcare</strong>.</li><li>The platform allows for <strong>task-shifting</strong>, where non-specialist providers can perform screenings and routine management, reducing the dependence on limited specialists.</li><li>The award was presented by <strong>Dr Jitendra Singh</strong>, Union Minister of State for Personnel, Public Grievances & Pensions, during the <strong>29th National Conference on e-Governance (NCeG) 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The <strong>National Awards for e-Governance</strong> are instituted by the <strong>Department of Administrative Reforms and Public Grievances (DARPG)</strong>.</li><li>The conference took place on <strong>July 1–2, 2026</strong>, in <strong>Jaipur</strong>, in the presence of various state and central dignitaries.</li><li><strong>ICMR-MINDS</strong> is designed as an implementation research study to integrate mental and substance use disorder management with <strong>non-communicable diseases</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms<em>creative</em>elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The initiative is active across <strong>seven states</strong>: <strong>Assam, Gujarat, Haryana, Karnataka, Madhya Pradesh, Odisha, and Punjab</strong>.</li><li>Collaborating institutions include <strong>AIIMS Guwahati</strong>, <strong>GIMH Ahmedabad</strong>, <strong>AIIMS New Delhi</strong>, <strong>St. John’s Medical College</strong>, <strong>AIIMS Bhopal</strong>, <strong>AIIMS Bhubaneswar</strong>, and <strong>PGIMER Chandigarh</strong>.</li><li>Key features of the platform include <strong>multilingual interfaces</strong>, <strong>offline functionality</strong>, and <strong>real-time administrative dashboards</strong>.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a466b8a93c3c19b4f89b806",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which platform has emerged as India&#39;s <strong>\"One Nation, One Digital Platform\"</strong> for school education, according to the recent announcement by the Centre?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NISHTHA",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "DAISY",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "DIKSHA",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "CIET",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "SARTHAQ",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>DIKSHA</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The Centre stated that the <strong>Digital Infrastructure for Knowledge Sharing (DIKSHA)</strong> has become India&#39;s <strong>\"One Nation, One Digital Platform\"</strong> for school education.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>DIKSHA</strong>: Launched in <strong>2017</strong>, this platform is led by the <strong>National Council of Educational Research and Training (NCERT)</strong> and the <strong>Central Institute of Educational Technology (CIET)</strong>. It provides digital resources linked to curricula for students from foundational literacy to senior secondary classes.</li>\n\t<li><strong>One Nation, One Digital Platform</strong>: The platform serves as a unified digital infrastructure adopted by almost all states and <strong>Union Territories</strong> to ensure continuity of learning.</li>\n\t<li><strong>Logic for Options</strong>:\n\t<ul>\n\t\t<li><strong>NISHTHA</strong>: This refers to the <strong>National Initiative for School Heads&#39; and Teachers&#39; Holistic Advancement</strong>, which is a training programme for teachers hosted <strong>on</strong> the DIKSHA platform, but it is not the platform itself.</li>\n\t\t<li><strong>DAISY</strong>: Standing for <strong>Digital Accessible Information System</strong>, this is a specific digital format used on the platform to make materials accessible to <strong>differently-abled</strong> students.</li>\n\t\t<li><strong>CIET</strong>: The <strong>Central Institute of Educational Technology</strong> is an organization that collaborates with <strong>NCERT</strong> to lead DIKSHA, rather than being the platform name.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Content Variety</strong>: The platform hosts <strong>QR-coded Energised Textbooks</strong>, 2D/3D animations, <strong>augmented reality (AR)</strong> content, and <strong>Indian Sign Language</strong> videos.</li>\n\t<li><strong>Federated Model</strong>: DIKSHA allows states to customize and upload regional language content aligned with their specific curricula while <strong>CIET-NCERT</strong> manages quality checks.</li>\n\t<li><strong>Offline Accessibility</strong>: To ensure uninterrupted access, the platform allows for <strong>offline downloads</strong> and preloading on smart classroom boards.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>DIKSHA supports <strong>personalised learning</strong> through <strong>competency-based question banks</strong>, adaptive assessments, and detailed solutions.</li>\n\t<li>It enables teachers to complete <strong>self-paced certified training</strong> modules online.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a1938255185378b08e3bf90",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>As per the news report, what is the record surplus transfer declared by the Reserve Bank of India (RBI) to the government for the financial year ended March 31, 2026 (FY26)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 2.69 lakh crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs 3.16 lakh crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs 2.87 lakh crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 1.09 lakh crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs 2.11 lakh crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs 2.87 lakh crore</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Reserve Bank of India (RBI)</strong> has announced a record dividend payout to the central government for <strong>FY26</strong> to help manage economic pressures.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>RBI</strong> declared a record surplus transfer of <strong>Rs 2.87 lakh crore</strong> to the government for <strong>FY26</strong>, providing a vital fiscal buffer amid rising energy prices.</li>\n\t<li><strong>Rs 2.69 lakh crore</strong>: This was the surplus transfer amount for the previous year (last year), which was 27% higher than its preceding year.</li>\n\t<li><strong>Rs 3.16 lakh crore</strong>: This was the total dividend receipt <strong>estimate</strong> mentioned in the <strong>Union Budget</strong> from state-owned enterprises and the central bank combined.</li>\n\t<li><strong>Rs 1.09 lakh crore</strong>: This is the specific amount the Central Board approved to be transferred to the <strong>Contingent Risk Buffer (CRB)</strong> for FY26, which is significantly higher than the Rs 44,861.70 crore transferred in the previous year.</li>\n\t<li>The record surplus was primarily driven by <strong>foreign exchange gains</strong> (due to a 10% fall in the US dollar) and a <strong>60% surge in gold prices</strong> during FY26.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>RBI&rsquo;s balance sheet</strong> expanded by <strong>20.61%</strong> to reach <strong>Rs 91.97 lakh crore</strong> as of March 31, 2026.</li>\n\t<li>The <strong>gross income</strong> of the Reserve Bank rose by <strong>26.42%</strong> compared to the previous year.</li>\n\t<li>The <strong>Revised Economic Capital Framework (ECF)</strong> stipulates that the <strong>Contingent Risk Buffer (CRB)</strong> must be maintained within a range of <strong>4.5% to 7.5%</strong> of the total balance sheet.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>Despite the record payout, economists suggest it may not be enough for the government to meet its <strong>fiscal deficit target of 4.3%</strong>.</li>\n\t<li>The <strong>10-year bond yield</strong> has climbed to <strong>7.10%</strong>, and the <strong>rupee</strong> has weakened nearly <strong>7%</strong> so far this year.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a33921b8a8c39801e11ae3d",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Consider the following statements regarding <strong>Exercise Pitch Black 2026</strong>:</p><p>1. It is the <strong>Royal Australian Air Force’s (RAAF)</strong> premier and largest international air combat exercise.<br>2. The <strong>Indian Air Force (IAF)</strong> is scheduled to participate in the 2026 edition, which will be held in <strong>Australia’s Northern Territory</strong>.<br>3. The exercise is specifically designed to strengthen relationships exclusively among the four <strong>Quad</strong> member nations (India, Australia, Japan, and the USA).</p><p>Which of the above statements is/are correct?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 and 2 only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2 and 3 only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1 and 3 only",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1 only",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1 and 2 only</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Indian Air Force (IAF)</strong> will participate in <strong>Exercise Pitch Black 2026</strong>, which was announced by the <strong>Australian High Commissioner to India</strong>, Philip Green OAM.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Statement 1 is correct:</strong> <strong>Exercise Pitch Black</strong> is the <strong>Royal Australian Air Force’s (RAAF)</strong> largest international exercise and its premier multinational air combat exercise.</li><li><strong>Statement 2 is correct:</strong> The <strong>IAF</strong> will participate in the exercise scheduled to be held in <strong>Australia’s Northern Territory</strong> from <strong>July 20 to August 7, 2026</strong>.</li><li><strong>Statement 3 is incorrect:</strong> The exercise is not exclusive to <strong>Quad</strong> nations. It involves <strong>19 allied and partner nations</strong>, including Brunei, Canada, Fiji, Finland, France, Indonesia, Malaysia, New Zealand, Papua New Guinea, the Philippines, Republic of Korea, Singapore, Spain, Sweden, Thailand, and the UK, along with the Quad members.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>The exercise will bring together more than <strong>100 aircraft</strong> and personnel from the participating nations.</li><li>It is designed to enhance <strong>operational interoperability</strong>, strengthen military cooperation, and refine <strong>air combat tactics</strong> in realistic and complex scenarios.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The exercise aims to strengthen <strong>regional interoperability</strong> across the <strong>Indo-Pacific</strong>.</li><li><strong>Exercise Commander Air Commodore Matt McCormack</strong> stated that the drill is vital for the <strong>collective security</strong> and preparedness of Australia and the region.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a33921dd831cda7d69f62de",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "In which city in France was the <strong>Unified Payments Interface (UPI)</strong> recently launched at the <strong>Galeries Lafayette</strong> department store?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Paris",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Nice",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Lyon",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Marseille",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Toulouse",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Nice</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>India launched the <strong>Unified Payments Interface (UPI)</strong> at <strong>Galeries Lafayette</strong>, a famous department store in <strong>Nice, France</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li>Union Minister of Commerce and Industry <strong>Piyush Goyal</strong> launched the service at the <strong>Galeries Lafayette Nice Massena</strong>, located near the iconic <strong>Place Massena</strong> in <strong>Nice</strong>.</li><li>This initiative is part of UPI's global expansion and follows an earlier launch at the <strong>Eiffel Tower</strong> in <strong>Paris</strong> in early <strong>2024</strong>.</li><li>The project involves the participation of <strong>Lyra Collect</strong> and <strong>NIPL (NPCI International Payments Limited)</strong> to provide seamless digital payment solutions.</li><li>The store in Nice offers over <strong>600 brands</strong> across fashion, beauty, and lifestyle, making it a premier retail destination for Indian travellers to use the platform.</li><li>Therefore, the correct city is <strong>Nice</strong>, as specified in the news content regarding the latest launch at Galeries Lafayette.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>With the addition of <strong>France</strong>, UPI is now accepted in <strong>nine countries</strong>: <strong>Singapore, UAE, France, Mauritius, Nepal, Bhutan, Qatar, Sri Lanka, and Cambodia</strong>.</li><li>The launch aims to strengthen <strong>economic and technological ties</strong> between India and France as part of their <strong>strategic partnership</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li><strong>UPI Global Footprint:</strong> Acceptance in major international markets allows Indian tourists to pay via familiar platforms without relying solely on foreign currency or cards.</li><li><strong>Bilateral Cooperation:</strong> The partnership between <strong>India and France</strong> reflects growing ambitions in the digital economy and fintech sector.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12d0d194bf335b7a68c6",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p>Which university recently became the first in India to be awarded four internationally recognized ISO Management System Certifications simultaneously by the Bureau of Indian Standards (BIS)?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Anna University",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Osmania University",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Jawaharlal Nehru University",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Banaras Hindu University",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Delhi University",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Osmania University</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li><strong>Osmania University</strong>, Hyderabad, has achieved a historic milestone by becoming the <strong>first university in India</strong> to receive <strong>four internationally recognized ISO Management System Certifications simultaneously</strong> from the <strong>Bureau of Indian Standards (BIS)</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Osmania University:</strong> The institution was awarded these certifications in recognition of its commitment to quality, sustainability, and global management standards during its <strong>109-year legacy</strong>.</li><li><strong>Simultaneous Certifications:</strong> It is the first Indian university to be granted four specific ISO licences at once by the <strong>National Standards Body</strong>.</li><li><strong>The Four Certifications include:</strong><ul><li><strong>IS ISO 21001:2018:</strong> Educational Organizations Management System (EOMS).</li><li><strong>IS ISO 14001:2015:</strong> Environmental Management System (EMS).</li><li><strong>IS ISO 50001:2018:</strong> Energy Management System (EnMS).</li><li><strong>IS ISO 22000:2018:</strong> Food Safety Management System (FSMS).</li></ul></li><li><strong>Presenter:</strong> The certificates were presented by <strong>Shri Sandeep Kumar Kanogia</strong>, Scientist-F and Deputy Director General (Southern Region), <strong>BIS</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li><strong>Bureau of Indian Standards (BIS):</strong> It operates under the <strong>Ministry of Consumer Affairs, Food and Public Distribution</strong>, Government of India.</li><li><strong>Vice-Chancellor:</strong> <strong>Sr. Prof. Kumar Molugaram</strong> emphasized that these certifications reaffirm the university's commitment to being a <strong>future-ready</strong> and <strong>globally competitive</strong> institution.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The evaluation process involved a <strong>rigorous and independent assessment</strong> of institutional policies, operational procedures, and internal audits.</li><li>These certifications act as a <strong>benchmark for excellence</strong> in higher education governance across the country.</li></ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a3d12d4792da07b220185aa",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Who has been assigned the additional charge of Managing Director and Chief Executive Officer (MD &amp; CEO) of UCO Bank in June 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ashwani Kumar",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rajendra Kumar Saboo",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Sanjay Malhotra",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Vivek Joshi",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Anil Kumar Sharma",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rajendra Kumar Saboo</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Rajendra Kumar Saboo</strong>, the Executive Director of <strong>UCO Bank</strong>, has been assigned the additional charge of <strong>MD &amp; CEO</strong> of the bank.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Department of Financial Services (DFS)</strong>, under the <strong>Ministry of Finance</strong>, Government of India, issued the order for this additional charge.</li>\n\t<li><strong>Rajendra Kumar Saboo</strong> is currently serving as the <strong>Executive Director</strong> of <strong>UCO Bank</strong>.</li>\n\t<li>The appointment follows the vacancy created after <strong>Ashwani Kumar</strong> completed his term as <strong>MD &amp; CEO</strong> on <strong>May 31, 2026</strong>.</li>\n\t<li>Saboo will hold the additional charge until <strong>August 31, 2026</strong>, or until a regular incumbent is appointed, or until further orders.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>UCO Bank</strong> is a <strong>Kolkata-based</strong> public sector lender.</li>\n\t<li>The announcement regarding the additional charge was made on <strong>Friday, June 21, 2026</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Rajendra Kumar Saboo</strong> takes over the responsibilities from the former head, <strong>Ashwani Kumar</strong>.</li>\n\t<li>The <strong>Ministry of Finance</strong> oversees the top-level appointments and additional charges in <strong>Public Sector Banks (PSBs)</strong> through the <strong>DFS</strong>.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:18.604Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

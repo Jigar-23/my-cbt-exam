@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e5adba1d49fe4b022f84",
+  "title": "IBPS SO IT Prelims Sectional Test 2",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "ST (Professional Knowledge)",
+  "subsectionCategory": "IT Officer",
+  "pattern": "MAINS_IT_SECTIONAL",
+  "stage": "MAINS",
+  "hasITInPrelims": true,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 50,
+  "sections": [
+    {
+      "id": "6a44c919e61a47bbb4745ded",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 50,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6944fa0daaa559d470e818f1",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "What does the TRUNCATE TABLE command do to a table like &#39;logs&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Adds new columns to the table",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Removes all rows quickly without logging each one",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Updates values in specific rows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Creates a new table copy",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Joins it with another table",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: , );\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">Removes all rows quickly without logging each one</span><strong><span style=\"color: rgb(33, 37, 41);\">(Option 2)</span></strong><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: ();\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: (, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">TRUNCATE TABLE</span></u>&nbsp;is a SQL command used to remove all rows from a table efficiently.</li>\n\t<li>It is faster than the&nbsp;<span style=\"font-weight: bolder;\">DELETE</span>&nbsp;statement as it does not log individual row deletions.</li>\n\t<li>The table structure, along with its columns, constraints, and indexes, is retained.</li>\n\t<li>The action is&nbsp;<span style=\"font-weight: bolder;\">irreversible</span>, so caution is advised before executing it.</li>\n\t<li>Unlike&nbsp;<span style=\"font-weight: bolder;\">DELETE</span>, it does not activate triggers associated with the table.</li>\n</ul>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: (33, 37, 41);\"><strong>DELETE Command:</strong>\n\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">Used to delete specific rows based on a condition.</li>\n\t\t<li style=\"color: (33, 37, 41);\">It logs individual row deletions and can activate triggers.</li>\n\t</ul>\n\t</li>\n\t<li><strong>DROP TABLE Command:</strong>\n\t<ul>\n\t\t<li>Completely removes a table, including its structure and all associated data.</li>\n\t\t<li>This operation is irreversible and should be used with caution.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: (33, 37, 41);\"><strong>ALTER TABLE Command:</strong>\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">Used to modify a table&#39;s structure, such as adding or removing columns.</li>\n\t\t<li style=\"color: (33, 37, 41);\">It does not affect the existing data within the table.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "697c8b39d1f12595e481dd9b",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "TRUE regarding string length &amp; substring operations",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Substring always creates new copy",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Length changes after substring",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Indices inclusive on both ends",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Incorrect index may cause runtime exception",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Regex fixes index errors",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <u><strong>Incorrect index may cause runtime exception</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Incorrect index may cause runtime exception:</strong> When performing substring operations, if the index values provided are out of bounds, it leads to a runtime exception. This ensures the program fails at execution time rather than producing incorrect results.</li>\n\t<li>Substring operations do not alter the original string length but rather create a new string based on the specified indices.</li>\n\t<li>Indices are generally inclusive of the start index and exclusive of the end index for substring operations.</li>\n\t<li>Regex (Regular Expressions) cannot fix index errors directly but can be used to validate strings or extract specific substrings based on patterns.</li>\n\t<li>It is important to ensure indices are within the valid range to avoid runtime errors during substring operations.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Substring Operation Details:</strong>\n\n\t<ul>\n\t\t<li><strong>Inclusive Start Index:</strong> The substring operation starts at the index specified and includes the character at this index.</li>\n\t\t<li><strong>Exclusive End Index:</strong> The operation stops at the end index but does not include the character at this index.</li>\n\t\t<li>Example: For a string \"HelloWorld\" and indices 0 to 5, the substring will be \"Hello\".</li>\n\t</ul>\n\t</li>\n\t<li><strong>Common Errors:</strong>\n\t<ul>\n\t\t<li>Providing an index greater than the string length leads to <strong>IndexOutOfBoundsException</strong>.</li>\n\t\t<li>Negative indices are not allowed and result in runtime errors.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Best Practices:</strong>\n\t<ul>\n\t\t<li>Always validate indices before performing substring operations.</li>\n\t\t<li>Use utility methods or libraries to handle edge cases and exceptions.</li>\n\t\t<li>Leverage regex patterns for complex substring extraction requirements.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61e6790d82c191ffd8cbf306",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "_____ occurs when two transactions that access the same database items have their operations interleaved in a way that makes the value of some database items incorrect.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Starvation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Deadlock",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Disk Failure",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Lost update problem",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">Atomicity</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><b><span lang=\"EN-IN\">Deadlock:<o:p></o:p></span></b></p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li class=\"MsoNormal\" style=\"margin-left: 0in; text-indent: 0in; line-height: 150%;\">D<span lang=\"EN-IN\">eadlock&nbsp; occurs when each transaction t in a set of two or more transaction is waiting for some item that is locked by some other transaction in the set.<b><o:p></o:p></b></span></li>\n</ul>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><br />\n<b><span lang=\"EN-IN\">Starvation:<o:p></o:p></span></b></p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li class=\"MsoNormal\" style=\"margin-left: 0in; text-indent: 0in; line-height: 150%;\"><span lang=\"EN-IN\">Starvation is nothing but one transaction is getting chances again and again and other are waiting for their turn and we cannot say when will they get chance to execute&nbsp; this is nothing but indefinite period of time waiting.<o:p></o:p></span></li>\n</ul>\n\n<p class=\"MsoNormal\" style=\"line-height:150%;mso-list:none;tab-stops:.5in\"><br />\n<b><span lang=\"EN-IN\">Lost Update Problem:<o:p></o:p></span></b></p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li class=\"MsoNormal\" style=\"line-height: 150%;\"><span lang=\"EN-IN\">Several problems can occur because of concurrent execution of transactions.<b><o:p></o:p></b></span></li>\n\t<li class=\"MsoNormal\" style=\"line-height: 150%;\"><span lang=\"EN-IN\">Two transactions that access the same database items have their operations interleaved in a way that makes the value of some database items incorrect.<b><o:p></o:p></b></span></li>\n\t<li class=\"MsoNormal\" style=\"line-height: 150%;\"><span lang=\"EN-IN\">Similar kind of problems<b><o:p></o:p></b></span><!--[if !supportLists]--></li>\n</ul>\n\n<ol style=\"margin-left: 40px;\">\n\t<li class=\"MsoNormal\" style=\"line-height: 150%;\"><span lang=\"EN-IN\">The incorrect summary problem<b><o:p></o:p></b></span><!--[if !supportLists]--></li>\n\t<li class=\"MsoNormal\" style=\"line-height: 150%;\"><span lang=\"EN-IN\">The temporary update problem<b><o:p></o:p></b></span></li>\n</ol>\n\n<p class=\"MsoNormal\" style=\"line-height:150%;mso-list:none;tab-stops:.5in\"><br />\n<b><span lang=\"EN-IN\">Explanation:<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\" style=\"line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">Example of Lost Update Problem:<o:p></o:p></span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>&nbsp;T<span lang=\"EN-IN\">ransaction ( T1 )<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:\n  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.95pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">Transaction ( T2 )<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:1;height:17.3pt\">\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">Read ( X )<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:2;height:17.95pt\">\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:17.95pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">X = X + 2<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.95pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:3;height:17.3pt\">\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">Read ( X )<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:4;height:17.95pt\">\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:17.95pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.95pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">X = X + 3<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:5;height:17.3pt\">\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">Write ( X )<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:6;height:14.65pt\">\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:14.65pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.65pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">Write ( X )<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:7;mso-yfti-lastrow:yes;height:17.3pt\">\n\t\t\t<td style=\"width:79.9pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:79.9pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:17.3pt\" valign=\"top\" width=\"107\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">&nbsp;</span></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">So here we can see that item X has an incorrect value because it is updated by T1 is lost or overwritten by T2, hence the updated value resulting from T1 is lost.<o:p></o:p></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6944fa0681b480aed37225b5",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Which join returns unmatched rows from both tables?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "INNER JOIN",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "LEFT JOIN",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "RIGHT JOIN",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">CROSS JOIN&nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">FULL OUTER JOIN</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">FULL OUTER JOIN</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li>A <u><span style=\"font-weight: bolder;\">FULL OUTER JOIN</span></u>&nbsp;returns unmatched rows from both tables along with the matched rows.</li>\n\t<li>This join includes all records from the left and right tables and fills in NULLs for missing matches on either side.</li>\n\t<li>It is the combination of a LEFT JOIN and a RIGHT JOIN.</li>\n\t<li>FULL OUTER JOIN is useful when you need a complete dataset with all potential matches and unmatched records from both tables.</li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>INNER JOIN:</strong>\n\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">It returns only the rows where there is a match in both tables.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Unmatched rows are excluded from the result set.</li>\n\t</ul>\n\t</li>\n\t<li><strong>LEFT JOIN:</strong>\n\t<ul>\n\t\t<li>It returns all rows from the left table and matched rows from the right table.</li>\n\t\t<li>Unmatched rows from the left table are included with NULLs for missing matches.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>RIGHT JOIN:</strong>\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">It returns all rows from the right table and matched rows from the left table.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Unmatched rows from the right table are included with NULLs for missing matches.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>CROSS JOIN:</strong>\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">It returns the Cartesian product of two tables, combining all rows from both tables.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">No conditions are applied in a CROSS JOIN.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61cade55b01b5dd2f38e417f",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which of the following can be overloaded ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Variable",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Objects",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Class",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Function",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of above&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <strong>option4.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;Both <strong>functions and operators</strong> can be overloaded. C++ allows you to specify more than one definition for a function name or an operator in the same scope, which is called<strong> function overloading and operator overloading</strong> respectively.</p>\n\n<p><strong>Hence the correct answer is</strong><em><strong> </strong>f<span style=\"background-color: rgb(255, 255, 255);\">unction.</span></em></p>\n\n<p><em><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</span></em>Types of overloading in C++ are:</p>\n\n<ul>\n\t<li>Function overloading.</li>\n\t<li>Operator overloading.</li>\n</ul>\n\n<p><strong>Function Overloading:</strong></p>\n\n<p>Function Overloading is defined as the process of having two or more functions with the same name, but different parameters are known as function overloading in C++.</p>\n\n<p><strong>Operators Overloading:</strong></p>\n\n<p>Operator overloading is a compile-time polymorphism in which the operator is overloaded to provide a special meaning to the user-defined data type. Operator overloading is used to overload or redefine most of the operators available in C++.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "61e68af94077be9bb88160f1",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "A complete binary tree with 5 levels has how many nodes? (Root is Level 1)",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "15",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "25",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "63",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "32",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "31",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>\n\n<p>&nbsp;A complete binary tree is a binary tree in which all the levels are completely filled except possibly the lowest one, which is filled from the left. A complete binary tree is just like a full binary tree, but with two major differences. All the leaf elements must lean towards the left.</p>\n\n<p>A complete binary tree has (2<sup>h</sup>&nbsp;&ndash; 1) nodes in total where h is the height of the tree.</p>\n\n<p>Sa cocomplete binary tree with 5 levels has =31 nodes.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/12/F1_Shraddha_Harshita_31.12.2021_D1.png\" style=\"width: 460px; height: 186px;\" /></p>\n\n<p><strong>Hence the correct answer is</strong><em><strong> </strong>31.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "69713af30baaf66aa29d6ed5",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Which of the following sorting technique is an example of Divide and Conquer technique?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Selection sort",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quick sort",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bubble sort",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Insertion sort&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p dir=\"auto\" style=\"white-space-collapse: preserve;\">The correct answer is <strong>2) Quick sort</strong>.</p>\n\n<p dir=\"auto\" style=\"white-space-collapse: preserve;\"><u><strong>Explanation</strong>: </u></p>\n\n<p dir=\"auto\" style=\"white-space-collapse: preserve;\">The <strong>Divide and Conquer</strong> technique involves breaking a problem into smaller subproblems, solving them independently, and then combining the solutions. In the context of sorting algorithms, <strong>Quick sort</strong> is a classic example of a Divide and Conquer algorithm because it works by:</p>\n\n<ol dir=\"auto\">\n\t<li><strong>Dividing</strong>: Selecting a pivot element and partitioning the array into two subarrays (elements less than the pivot and elements greater than the pivot).</li>\n\t<li><strong>Conquering</strong>: Recursively sorting the subarrays.</li>\n\t<li><strong>Combining</strong>: Since the subarrays are sorted in place, no explicit combining step is needed.</li>\n</ol>",
+          "topic": "Test"
+        },
+        {
+          "id": "6935afd7bc611552b87b0662",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "In a hybrid OLAP system for investment portfolio analysis, why does combining ROLAP and MOLAP conceptually balance scalability with performance for both sparse and dense query patterns?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ROLAP handles all dense cubes in memory exclusively",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "MOLAP accelerates dense analytics while ROLAP manages sparse relational queries",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both use the same storage to avoid integration overhead",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "HOLAP prioritizes ETL over query optimization",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "It eliminates the need for dimensional modeling",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <u><strong><span style=\"color: rgb(33, 37, 41);\">MOLAP accelerates dense analytics while ROLAP manages sparse relational queries.</span></strong></u></p>\n\n<p><u><strong><span style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>Hybrid OLAP (HOLAP) combines the strengths of both ROLAP (Relational OLAP) and MOLAP (Multidimensional OLAP).</strong></li>\n\t<li><strong>ROLAP:</strong> It is efficient for managing sparse data and executes queries directly on relational databases, providing scalability for data stored in large relational tables.</li>\n\t<li><strong>MOLAP:</strong> It is optimized for dense data and pre-aggregates data into multidimensional cubes, providing faster query performance for dense analytics.</li>\n\t<li><strong>By combining ROLAP and MOLAP:</strong> HOLAP enables scalability for large datasets (handled by ROLAP) while accelerating query performance for dense patterns (handled by MOLAP).</li>\n\t<li>This balance ensures that the system performs well for both sparse and dense query patterns.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>ROLAP:</strong> Uses relational database systems and SQL for querying large datasets but may have slower performance for dense queries.</li>\n\t<li><strong>MOLAP:</strong> Stores data in pre-aggregated cubes, enabling faster querying but can be inefficient for sparse datasets due to storage overhead.</li>\n\t<li><strong>HOLAP:</strong> Combines the two approaches, leveraging the strengths of each and minimizing their weaknesses.</li>\n\t<li>Option 2 is correct because it accurately describes the conceptual design of HOLAP, where MOLAP accelerates dense analytics, and ROLAP efficiently handles sparse queries.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ff74d5ff09e989a40524b8f",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Which of following problems cannot be solved using greedy approach?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Minimum spanning tree problem",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Single source shortest path problem",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Huffman code problem",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "0-1 knapsack problem",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>Greedy algorithm</strong> <o:p></o:p></p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>It is a technique to solve the problem and goal is to make optimal solution.<o:p></o:p></li>\n</ul>\n\n<p><br />\nExample of greedy approach:<o:p></o:p></p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>Minimum Spanning tree ( Prim&rsquo;s and kruskal&rsquo;s )<o:p></o:p></li>\n\t<li>Single source shortest path problem ( Dijkastra&rsquo;s algorithm )<o:p></o:p></li>\n\t<li>Huffman code problem<o:p></o:p></li>\n\t<li>Fractional knapsack problem<o:p></o:p></li>\n\t<li>Job sequencing problem<o:p></o:p></li>\n\t<li>Max flow problem and many more problems can be solved using Greedy method.<o:p></o:p></li>\n</ul>\n\n<p><br />\n<strong>Explanation:</strong><o:p></o:p></p>\n\n<p>0-1 knapsack problem cannot be solved by the greedy method because it is enabled to fill the knapsack to full capacity so here greedy algorithm is not optimal. 0-1 knapsack problem is solved by Dynamic programming approach.<o:p></o:p></p>\n\n<p><strong>Note: </strong>&nbsp;<o:p></o:p></p>\n\n<p>Fractional knapsack problem is different from 0-1 knapsack problem.<o:p></o:p></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "69713aff78145634ab04042b",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Which of the following algorithms can be used to reverse the order of elements in an array?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Two-pointer technique",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Bubble sort</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Binary search</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Insertion sort</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <u><strong>Two-pointer technique</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Two-pointer technique</strong> involves using two pointers, one starting from the beginning of the array and the other from the end. These pointers move towards each other, swapping the elements at each step until they meet in the middle.</li>\n\t<li>This technique is efficient and can reverse the array in O(n) time complexity, where n is the number of elements in the array.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Bubble sort:</strong> This algorithm is primarily used for sorting elements in an array. It compares adjacent elements and swaps them if they are in the wrong order. Although it can be adapted to reverse an array, it is not the most efficient method for this task.</li>\n\t<li><strong>Binary search:</strong> This algorithm is used to find the position of a target element within a sorted array. It repeatedly divides the search interval in half, making it efficient for search operations but not suitable for reversing an array.</li>\n\t<li><strong>Insertion sort:</strong> This algorithm builds the sorted array one element at a time by repeatedly inserting the next element into its correct position. It is designed for sorting rather than reversing the order of elements in an array.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "694505d9fad8bfd26c16e60b",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "Which LAN technology uses a logical ring topology but a physical star topology?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ethernet",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Token Ring",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "FDDI",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ATM",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Wi-Fi",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: , );\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">Token Ring</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: ();\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: (, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">Token Ring</span></u>&nbsp;uses a logical ring topology but a physical star topology.</li>\n\t<li>In a Token Ring network, data is transmitted sequentially between nodes following a circular path.</li>\n\t<li>The physical star topology is achieved by connecting devices to a central hub called a Multi-Station Access Unit (MSAU).</li>\n\t<li>Token Ring technology avoids collisions by using a token-passing mechanism.</li>\n\t<li>It was standardized by IEEE as&nbsp;<span style=\"font-weight: bolder;\">IEEE 802.5.</span></li>\n\t<li>Although outdated and replaced by Ethernet, Token Ring was popular in the 1980s and 1990s.</li>\n</ul>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: (33, 37, 41);\"><strong>Ethernet:</strong>\n\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">Ethernet uses a physical star topology and a logical bus topology.</li>\n\t\t<li style=\"color: (33, 37, 41);\">It is the most widely used LAN technology today.</li>\n\t</ul>\n\t</li>\n\t<li><strong>FDDI:</strong>\n\t<ul>\n\t\t<li>FDDI (Fiber Distributed Data Interface) uses a dual-ring topology for high-speed data transfer.</li>\n\t\t<li>It is primarily used in large networks or as a backbone for LANs.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: (33, 37, 41);\"><strong>ATM:</strong>\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">Asynchronous Transfer Mode (ATM) is a high-speed networking standard designed for voice, video, and data transmission.</li>\n\t\t<li style=\"color: (33, 37, 41);\">It uses a cell-based architecture rather than a packet-based one.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Wi-Fi:</strong>\n\t<ul>\n\t\t<li>Wi-Fi uses a wireless topology and is commonly used for local area wireless networking.</li>\n\t\t<li>It adheres to IEEE 802.11 standards.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd19a83454360b15047fc64",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Consider a relation R(A, B, C), which of the following statements is&nbsp;<strong>not</strong>&nbsp;true according to inference rules for functional dependencies?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "If A&nbsp;&rarr; B and B&nbsp;&rarr; C, then A&nbsp;&rarr; C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "If AB&nbsp;&rarr; C, then A&nbsp;&rarr; B and B&nbsp;&rarr; C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "If A&nbsp;&rarr; B and A&nbsp;&rarr; C, then A&nbsp;&rarr; BC",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "If A&nbsp;&rarr; B, then AC&nbsp;&rarr; BC",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "If A&nbsp; &nbsp;&rarr;&nbsp; BC&nbsp;then&nbsp; A&nbsp; &rarr; B&nbsp;and A&nbsp; &rarr; C&nbsp; &nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<ul>\n\t<li>Armstrong&#39;s axioms are the basic inference rule. Armstrong&#39;s axioms are used to conclude functional dependencies on a relational database.</li>\n\t<li>inference rules for functional dependencies are transitive, union, augmentation, reflexive, and decomposition</li>\n</ul>\n\n<p><u><strong>Option 1:</strong></u> True:</p>\n\n<p><span style=\"font-weight: 700;\">Transitive Rule</span></p>\n\n<p>In the transitive rule, if A&nbsp;determines B&nbsp;and B&nbsp;determines C, then A&nbsp;must also determine C.</p>\n\n<p><span style=\"font-weight: 700;\">If A&nbsp; &nbsp;&rarr;&nbsp; &nbsp;B&nbsp;and B&nbsp; &rarr;&nbsp; C&nbsp;then A&nbsp;&rarr;&nbsp;C&nbsp; </span></p>\n\n<p><u><span style=\"font-weight: 700;\">Option 3:</span></u>&nbsp;True:</p>\n\n<p><span style=\"font-weight: 700;\">Union Rule</span></p>\n\n<p>Union rule says, if A&nbsp;determines B&nbsp;and A&nbsp;determines C, then A&nbsp;must also determine B&nbsp;and C.</p>\n\n<p><span style=\"font-weight: 700;\">If A&nbsp; &nbsp; &rarr;&nbsp; B&nbsp;and A&nbsp; &nbsp;&rarr;&nbsp; C&nbsp;then A&nbsp; &rarr;&nbsp; &nbsp;BC&nbsp;</span></p>\n\n<p><u><span style=\"font-weight: 700;\">Option 4:</span></u>&nbsp;True:</p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"color: rgb(51, 51, 51);\">Augmentation Rule</span></span></p>\n\n<p>The augmentation is also called a partial dependency. In augmentation, if A&nbsp;determines C, then AC&nbsp;determines BC&nbsp;for any&nbsp;C.</p>\n\n<p><span style=\"font-weight: 700;\">If A&nbsp;&rarr;&nbsp;C&nbsp;then AC&nbsp;&nbsp;&rarr;&nbsp; BC&nbsp;&nbsp;</span></p>\n\n<p>Hence Option 2 is the correct Answer</p>\n\n<p><u><span style=\"font-weight: 700;\">Option 5:</span></u>&nbsp;True</p>\n\n<p><strong>Decomposition Rule</strong></p>\n\n<p>The decomposition rule is also known as the project rule. It is the reverse of union rule.</p>\n\n<p style=\"color: rgb(0, 0, 0);  \">This rule says, if A&nbsp;determines B&nbsp;and C, then A&nbsp;determines B&nbsp;and A&nbsp;determines C&nbsp;separately.</p>\n\n<p style=\"color: rgb(0, 0, 0);  \"><strong><span style=\"margin: 0px; padding: 0px; border: none; background-color: inherit;\">If A&nbsp; &nbsp;&rarr;&nbsp; &nbsp;BC&nbsp;then&nbsp; A&nbsp; &rarr;&nbsp; &nbsp;B&nbsp;and A&nbsp; &rarr;&nbsp; C&nbsp; &nbsp;</span></strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6683bdaad7454155c6698357",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Which collision resolution technique involves placing collided elements in the next available empty slot in the hash table?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Linear probing",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quadratic probing&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Separate chaining",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Double hashing&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong><span style=\"color: rgb(33, 37, 41);\">Linear probing</span></strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Linear Probing:</strong>\n\n\t<ul>\n\t\t<li>When a collision occurs (two elements hash to the same location), linear probing involves placing the collided element in the next available (unoccupied) slot in the hash table.</li>\n\t\t<li>If that slot is also occupied, it continues to search for the next empty slot in a linear fashion (moving one slot at a time) until an empty slot is found.</li>\n\t\t<li>Linear probing can lead to clustering, where consecutive elements form clusters in the hash table.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Quadratic Probing:</strong>\n\n\t<ul>\n\t\t<li>Similar to linear probing, but instead of moving one slot at a time, quadratic probing uses a quadratic function to determine the next position to check.</li>\n\t\t<li>If the slot at the hash index is occupied, it checks slots at positions incremented by successive squares.</li>\n\t\t<li>Quadratic probing helps to reduce clustering compared to linear probing.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Separate Chaining:</strong>\n\t<ul>\n\t\t<li>Instead of placing collided elements in the next available slot in the hash table, separate chaining involves maintaining a linked list at each slot in the hash table.</li>\n\t\t<li>When a collision occurs, the collided elements are added to the linked list at that slot.</li>\n\t\t<li>Each slot contains a separate data structure (like a linked list or a tree) to handle collisions.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Double Hashing:</strong>\n\t<ul>\n\t\t<li>In double hashing, a secondary hash function is used to determine the step size between probe attempts.</li>\n\t\t<li>If a collision occurs, the algorithm uses the secondary hash function to calculate a new index to probe.</li>\n\t\t<li>This helps to avoid clustering and provides a more systematic way to find an empty slot.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61ea4eec39cf1ecdf8a58d91",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "Which of the following symbols is used as a prefix to access the value stored in a variable in shell scripting?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "@",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "#",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "$",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "&amp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "*",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>To access the value stored in a variable, prefix its name with the dollar sign ($).</p>\n\n<p>For example, the following script will access the value of defined variable NAME and print it on STDOUT</p>\n\n<p><u>Code</u></p>\n\n<p>#!/bin/sh</p>\n\n<p>NAME = \"Testbook\"</p>\n\n<p>echo $NAME</p>\n\n<p>The above script will produce the following value &minus;</p>\n\n<p>Testbook</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60686af2105a600886d261ce",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p>Consider the following declaration of an array in &lsquo;C&rsquo; language:</p>\n\n<p>int A[6] = {1, 2, 3, 5};</p>\nWhich of the following statements is true?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A[2] and 2[A] represent the value 2.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A[2] and 2[A] represent the value 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A[2] is the correct way to access an element of A, but 2[A] will give an error",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The last two elements of the array A are 3 and 5",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><u><span lang=\"EN-IN\">Concept:<o:p></o:p></span></u></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">An array is a data structure that contains a group of elements. These elements are all of the same data type, such as an integer.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">To access an element from an array subscript[index]&nbsp;and array name is required<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><u><span lang=\"EN-IN\">Explanation:<o:p></o:p></span></u></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">Array name: A</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoTableGrid\" style=\"border: none; width: 200px;\">\n\t<tbody>\n\t\t<tr style=\"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:19.1pt\">\n\t\t\t<td style=\"width:51.2pt;border:solid windowtext 1.0pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.1pt\" valign=\"top\" width=\"68\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">index<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.2pt;border:solid windowtext 1.0pt;\n  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:\n  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.1pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">0<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.25pt;border:solid windowtext 1.0pt;\n  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:\n  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.1pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">1<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.25pt;border:solid windowtext 1.0pt;\n  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:\n  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.1pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">2<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.25pt;border:solid windowtext 1.0pt;\n  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:\n  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.1pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">3<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"mso-yfti-irow:1;mso-yfti-lastrow:yes;height:18.4pt\">\n\t\t\t<td style=\"width:51.2pt;border:solid windowtext 1.0pt;\n  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;\n  padding:0in 5.4pt 0in 5.4pt;height:18.4pt\" valign=\"top\" width=\"68\">\n\t\t\t<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\n  mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">element<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.2pt;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.4pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">1<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.25pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.4pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">2<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.25pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.4pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">3<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:51.25pt;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;\n  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:18.4pt\" valign=\"top\" width=\"68\">\n\t\t\t<p align=\"center\" class=\"MsoNormal\" style=\"margin-left:0in;text-align:center;\n  text-indent:0in;line-height:150%;mso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">5<o:p></o:p></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span lang=\"EN-IN\">To access 3<sup>rd</sup> element in an array A[2] or 2[A] is used.&nbsp; Therefore Both A[2] and 2[A] represent the value 3<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><u><span lang=\"EN-IN\">Important point:<o:p></o:p></span></u></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0in;text-indent:0in;line-height:150%;\nmso-list:none;tab-stops:.5in\"><span lang=\"EN-IN\">A[0] represent the value 1<sup>st</sup> element<o:p></o:p></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "61eecd7e44a415830bf6b787",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "Which of the following is not a Meta Character of Regex in data analytics?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "[ ]",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "^",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "{ }",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "#",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "*",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <strong>option 4.</strong></p>\n\n<p><strong>Concept:</strong></p>\n\n<p><strong>A Regular Expressions (RegEx)</strong> is a special sequence of characters that uses a search pattern to find a string or set of strings. It can detect the presence or absence of a text by matching it with a particular pattern, and also can split a pattern into one or more sub-patterns. Python provides a <strong>re module</strong> that supports the use of regex in Python.</p>\n\n<p>To understand the RE analogy, MetaCharacters are useful, important, and will be used in functions of module re. Below is the list of meta-characters:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>MetaCharacters<span style=\"white-space:pre\"> </span></strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong><span style=\"\">Description</span></strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">\\</td>\n\t\t\t<td style=\"text-align: center;\">Used to drop the special meaning of character following it</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">[ ]<span style=\"white-space:pre\"> </span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"text-align: center; \">Represent a character class</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">^</td>\n\t\t\t<td style=\"text-align: center;\">Matches the beginning</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">$</td>\n\t\t\t<td style=\"text-align: center;\">Matches the end</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">.</td>\n\t\t\t<td style=\"text-align: center;\">Matches any character except newline</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">|</td>\n\t\t\t<td style=\"text-align: center;\">\n\t\t\t<p>Means OR (Matches with any of the characters separated by it.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">?</td>\n\t\t\t<td style=\"text-align: center;\">Matches zero or one occurrence</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">*</td>\n\t\t\t<td style=\"text-align: center;\">Any number of occurrences (including 0 occurrences)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">+</td>\n\t\t\t<td style=\"text-align: center;\">One or more occurrences</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">{}</td>\n\t\t\t<td style=\"text-align: center;\">Indicate the number of occurrences of a preceding regex to match.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">()</td>\n\t\t\t<td style=\"text-align: center;\">Enclose a group of Regex</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Hence the correct answer is</strong> <em>#.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "61f2ebda0c0d31f6f6f01d15",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "Consider the binary search tree with n elements. The time required to search given element is: _______",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "&theta; (log n)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "&theta; (n log n)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "&theta; (n<sup>2</sup>)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "&theta; (n<sup>2</sup> log n)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">&theta; (n</span><span style=\"\">)</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong><u>Concept:</u></strong></p>\n\n<p>In Binary search tree, searching of a given element depends on height of BST.</p>\n\n<p><u><strong>Explanation:</strong></u></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/06/F1_R.S_19.5.20_Pallavi_D1.png\" /></p>\n\n<p>Height of BST in Worst case: O ( n )</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/06/F1_R.S_19.5.20_Pallavi_D2.png\" style=\"width: 285px; height: 182px;\" /></p>\n\n<p>Height of BST in Best case: Ω ( log n )</p>\n\n<p>Height of BST in Average case: Ө ( log n )</p>\n\n<p>Hence option 1 is the correct answer.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6944fa0fe67267f738011021",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "To check if a sub-department exists before selecting main departments, which clause is used?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "SELECT ... WHERE sub_dept IN (SELECT name FROM sub_depts)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "GROUP BY sub_dept",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "ORDER BY sub_dept",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "HAVING sub_dept",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "UNION sub_dept",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">SELECT ... WHERE sub_dept IN (SELECT name FROM sub_depts)</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">SELECT ... WHERE sub_dept IN (SELECT name FROM sub_depts)</span></u>&nbsp;is used to check if a sub-department exists before selecting main departments.</li>\n\t<li>This clause allows querying a nested SELECT statement to verify the presence of sub-department names.</li>\n\t<li>The nested SELECT retrieves data from the sub_depts table to validate sub_dept entries in the main query.</li>\n\t<li>It ensures the integrity of the query by filtering data based on the existence of corresponding sub-departments.</li>\n\t<li>This approach is commonly used in SQL queries for efficient and accurate data filtering.</li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>GROUP BY:</strong>\n\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Used to group data based on column values for aggregation.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Commonly paired with aggregate functions like SUM, COUNT, etc.</li>\n\t</ul>\n\t</li>\n\t<li><strong>ORDER BY:</strong>\n\t<ul>\n\t\t<li>Used to sort query results in ascending or descending order.</li>\n\t\t<li>Applicable to one or multiple columns in the result set.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>HAVING:</strong>\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Filters groups after aggregation using conditions.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Primarily used with GROUP BY for conditional filtering.</li>\n\t</ul>\n\t</li>\n\t<li><strong>UNION:</strong>\n\t<ul>\n\t\t<li>Combines results from multiple SELECT queries.</li>\n\t\t<li>Removes duplicate rows unless UNION ALL is used.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61c082cf5103041e23b37cc3",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "___________exception is creating your own exception class and throws that exception using &lsquo;throw&rsquo; keyword?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ArithmeticException",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "ArrayIndexOutOfBounds Exception",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "FileNotFound Exception",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "User Defined Exception",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "RuntimeException",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>Concept:</strong><br />\n<strong>User-Defined Exception in Java:</strong></p>\n\n<p>&nbsp;<strong>User-Defined Exception or custom exception</strong> is creating your own exception class and throwing that exception using the &lsquo;throw&rsquo; keyword. This can be done by extending the class Exception.<br />\n<strong>Hence the correct answer is</strong><em> </em><em><span style=\"background-color: rgb(255, 255, 255);\">User Defined Exception</span>.</em></p>\n\n<p><em><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;J</em>ava defines several types of exceptions that relate to its various class libraries. Java also allows users to define their own exceptions.&nbsp;The exception are two types.</p>\n\n<p><strong>Built-in Exceptions:</strong>&nbsp;</p>\n\n<p>Built-in exceptions are the exceptions that are available in Java libraries. These exceptions are suitable to explain certain error situations. Below is the list of important built-in exceptions in Java.</p>\n\n<ul>\n\t<li>ArithmeticException&nbsp;</li>\n\t<li>ArrayIndexOutOfBoundsException</li>\n\t<li>ClassNotFoundException&nbsp;</li>\n\t<li>FileNotFoundException&nbsp;</li>\n\t<li>IOException&nbsp;</li>\n\t<li>InterruptedException&nbsp;</li>\n\t<li>NoSuchFieldException&nbsp;</li>\n\t<li>NoSuchMethodException&nbsp;</li>\n\t<li>NullPointerException&nbsp;</li>\n\t<li>NumberFormatException&nbsp;</li>\n\t<li>RuntimeException&nbsp;</li>\n\t<li>StringIndexOutOfBoundsException&nbsp;</li>\n</ul>\n\n<p><strong>User-Defined Exceptions:</strong></p>\n\n<p>&nbsp; &nbsp;User-Defined Exception or custom exception is creating your own exception class and throwing that exception using the &lsquo;throw&rsquo; keyword. This can be done by extending the class Exception.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "64d245d7062357a48b7f15c4",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "Which of the following file stream classes of C++ provides support for only input operations ?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ofstream",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "ifstream",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "fstream",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "fstreambase",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above/More than one of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <strong>option 2</strong></p>\n\n<p><u><strong>Concept:</strong></u></p>\n\n<p><u><strong>ifstream:</strong></u></p>\n\n<p>The ifstream is an input stream class provided by C++ to work on files and is used to read information from files.</p>\n\n<p><strong>Default Open Mode for ofstream :</strong></p>\n\n<p>ifstream ios::in</p>\n\n<p><u><strong>Syntax:</strong></u></p>\n\n<p>ifstream fin(filename,openmode)</p>\n\n<p>by default open mode</p>\n\n<p>ifstream fin(\"filename\");</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p><u><strong>ofstream:</strong></u></p>\n\n<p>This data type represents the output file stream and is used to create files and to write information to files.</p>\n\n<p><span style=\"font-weight: 700;\">Default Open Mode for ofstream :</span></p>\n\n<p>ofstream ios::out</p>\n\n<p><u><strong>fstream:</strong></u></p>\n\n<p>This data type represents the file stream generally , and has the capabilities of both ofstream and ifstream which means it can create files,write information to files, and read information from files.</p>\n\n<p><strong>Default Mode:</strong></p>\n\n<p>fstream ios::in | ios::out</p>\n\n<p><u><strong>fstreambase:</strong></u></p>\n\n<p>The fstreambase class is a base class that provides common functionality for the three file-based classes, i<strong>fstream, ofstream, fstream.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "69713afd78145634ab04041f",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "<p>What will be the status of list (given below) after pass 2 using Bubble sort list?</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">8</td>\n\t\t\t<td style=\"text-align: center;\">7</td>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">1</td>\n\t\t\t<td style=\"text-align: center;\">-9</td>\n\t\t\t<td style=\"text-align: center;\">4</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);text-align:var(--bs-body-text-align);width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">7</td>\n\t\t\t<td style=\"text-align: center;\">8</td>\n\t\t\t<td style=\"text-align: center;\">1</td>\n\t\t\t<td style=\"text-align: center;\">-9</td>\n\t\t\t<td style=\"text-align: center;\">4</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"color: rgb(33, 37, 41);   font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); width: 330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">7</td>\n\t\t\t<td style=\"text-align: center;\">1</td>\n\t\t\t<td style=\"text-align: center;\">-9</td>\n\t\t\t<td style=\"text-align: center;\">4</td>\n\t\t\t<td style=\"text-align: center;\">8</td>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"color: rgb(33, 37, 41);   font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); width: 330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">1</td>\n\t\t\t<td style=\"text-align: center;\">-9</td>\n\t\t\t<td style=\"text-align: center;\">4</td>\n\t\t\t<td style=\"text-align: center;\">7</td>\n\t\t\t<td style=\"text-align: center;\">8</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"color: rgb(33, 37, 41);   font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); width: 330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">-9</td>\n\t\t\t<td style=\"text-align: center;\">1</td>\n\t\t\t<td style=\"text-align: center;\">4</td>\n\t\t\t<td style=\"text-align: center;\">8</td>\n\t\t\t<td style=\"text-align: center;\">7</td>\n\t\t\t<td style=\"text-align: center;\">13</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<h4>The correct answer is <u><strong>Option 2</strong></u>.</h4>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong> </span></p>\n\n<ul>\n\t<li>Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.</li>\n\t<li>Each pass through the list is repeated until the list is sorted.</li>\n\t<li>After the first pass, the largest element is bubbled to the end of the list.</li>\n\t<li>After the second pass, the second largest element is bubbled to the second last position.</li>\n</ul>\n\n<p>Let&#39;s see the list and the process in detail:</p>\n\n<ol>\n\t<li>Initial List: [8, 7, 12, 1, -9, 4]</li>\n\t<li>After Pass 1:\n\t<ul>\n\t\t<li>Compare 8 and 7, swap: [7, 8, 12, 1, -9, 4]</li>\n\t\t<li>Compare 8 and 12, no swap: [7, 8, 12, 1, -9, 4]</li>\n\t\t<li>Compare 12 and 1, swap: [7, 8, 1, 12, -9, 4]</li>\n\t\t<li>Compare 12 and -9, swap: [7, 8, 1, -9, 12, 4]</li>\n\t\t<li>Compare 12 and 4, swap: [7, 8, 1, -9, 4, 12]</li>\n\t</ul>\n\t</li>\n\t<li>After Pass 2:\n\t<ul>\n\t\t<li>Compare 7 and 8, no swap: [7, 8, 1, -9, 4, 12]</li>\n\t\t<li>Compare 8 and 1, swap: [7, 1, 8, -9, 4, 12]</li>\n\t\t<li>Compare 8 and -9, swap: [7, 1, -9, 8, 4, 12]</li>\n\t\t<li>Compare 8 and 4, swap: [7, 1, -9, 4, 8, 12]</li>\n\t\t<li>12 is already in its correct position</li>\n\t</ul>\n\t</li>\n</ol>\n\n<p>Therefore, after the second pass, the list will be: <strong>[7, 1, -9, 4, 8, 12]</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong> </span></p>\n\n<ul>\n\t<li>Bubble sort has a time complexity of O(n^2) in the average and worst case scenarios.</li>\n\t<li>It is not suitable for large datasets but can be useful for small or almost sorted datasets.</li>\n\t<li>It is a stable sorting algorithm, meaning that it maintains the relative order of equal elements.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c345957fdb8bb0ecc77c0e3",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "Which of the following can be traversed in both forward and backward direction?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "singly linked list",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "doubly linked list",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "circular linked list",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "queue",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "stack",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The&nbsp;link&nbsp;fields of a&nbsp;doubly linked list&nbsp;node are often called next and previous or forward and backward. The references stored in the&nbsp;link&nbsp;fields are usually implemented as pointers, but&nbsp;they may also be address offsets or indices into an array where the nodes live.</p>\n\n<p><strong>Representation of Double linked List:</strong></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/01/F2_Harshita_18-1-22_Savita_D1.png\" style=\"height: 73px; width: 463px;\" /></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5feaca5a35f3cf5e4d65c8cd",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "<p>Which of the following is/are short-circuit logical operators in Java?</p>\n\n<p>I. &amp;&amp;</p>\n\n<p>II. &amp;</p>\n\n<p>III. |</p>\nIV. ||",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I and IV",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II and III",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only I, III and IV",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "I, II, III, and IV",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<ul style=\"list-style-type: disc;\">\n\t<li>Java has two special logical operators&nbsp;which other programming language doesn&rsquo;t have, that is, short-circuit AND (&amp;&amp;) operator and short-circuit OR (||) operator to return a Boolean value</li>\n\t<li>If any of the given operators is false it doesn&rsquo;t check the other operator and returns false</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>A</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>B</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>A &amp;&amp; B</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:154px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>Description</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"3\" style=\"width:154px;height:16px;\">\n\t\t\t<p align=\"center\">if A is false no need to check for B and vice versa</p>\n\n\t\t\t<p align=\"center\">Output: false</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:154px;height:17px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>If any of the given operators is true it doesn&rsquo;t check the other operator and returns true</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>A</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>B</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>A || B</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:160px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>Description</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:160px;height:16px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td rowspan=\"3\" style=\"width:160px;height:17px;\">\n\t\t\t<p align=\"center\">if A is true no need to check for B and vice versa</p>\n\n\t\t\t<p align=\"center\">Output: True</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">False</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:16px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:71px;height:17px;\">\n\t\t\t<p align=\"center\">True</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>&amp; is a AND operator and | is OR operator which evaluates both the expression before returning a Boolean value. &amp; and | is not a short-circuit operator</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e19b208f60d5d2d6cf182a6",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "<p>Match the following:</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:139px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>&nbsp;Number</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:147px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Architecture of LANs</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:139px;\">\n\t\t\t<p style=\"text-align: center;\">A. IEEE 802.4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:147px;\">\n\t\t\t<p style=\"text-align: center;\">I. Wi-Fi</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:139px;\">\n\t\t\t<p style=\"text-align: center;\">B. IEEE 802.3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:147px;\">\n\t\t\t<p style=\"text-align: center;\">II. Ethernet</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:139px;\">\n\t\t\t<p style=\"text-align: center;\">C. IEEE 802.11</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:147px;\">\n\t\t\t<p style=\"text-align: center;\">III. Token bus</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A &rarr; I B &rarr; II C &rarr; III",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A &rarr; I B &rarr; III C &rarr; II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A &rarr; III B &rarr; II C&rarr; I",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A &rarr; III B &rarr; I C &rarr; II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "A &rarr; II B &rarr; III C &rarr; II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<ul>\n\t<li>Token Bus (IEEE 802.4) is a popular standard for the token passing LANs</li>\n\t<li>In a token bus LAN, the physical media is a bus, or a tree and a logical ring is created using coaxial cable</li>\n\t<li>Ethernet is a family of computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN); It is standardized as IEEE 802.3</li>\n\t<li>IEEE 802.11 is part of the IEEE 802 set of LANs protocols and specifies the set of media access control (MAC) and physical layer (PHY) protocols for implementing wireless local area network (WLAN) Wi-Fi computer communication in various frequencies</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e14658d22597c0d1151ede5",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "Which of the following commands in UNIX remove files or directories?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ls",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "cd",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "pwd",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "rm",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "del",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>&lsquo;ls&rsquo; command is used to display all the files in the current directory.</p>\n\n<p>&lsquo;cd&rsquo; command is used to change the directory.</p>\n\n<p>A command &#39;pwd&#39; prints the current working directory or simply the directory user is, at present.</p>\n&lsquo;rm&rsquo; command is used to delete files and directories. \"rm-r\" is used to delete just the directory. It deletes both the folder and the files it contains when using only the rm command.",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:03:51.871Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

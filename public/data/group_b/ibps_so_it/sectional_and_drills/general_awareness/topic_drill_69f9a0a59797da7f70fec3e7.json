@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0a59797da7f70fec3e7",
+  "title": "CT 7: General Awareness (Accounts of NRI/PIO)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a16c3ba56bd587203d7a50c",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which of the following statements regarding NRE accounts is correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Interest earned is taxable in India",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Account can only be opened in foreign currency",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Funds are fully repatriable",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only resident Indians can open the account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Account cannot be maintained jointly",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Funds are fully repatriable</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Definition of NRE Account</strong>: A <strong>Non-Resident External (NRE)</strong> account is a bank account opened in <strong>India</strong> in the name of an <strong>NRI (Non-Resident Indian)</strong> or <strong>OCI (Overseas Citizen of India)</strong> to park their <strong>foreign earnings</strong> in <strong>Indian Rupees (INR)</strong>.</li>\n\t<li><strong>Repatriability of Funds</strong>: One of the most significant features of an <strong>NRE account</strong> is that both the <strong>principal amount</strong> and the <strong>interest earned</strong> are <strong>fully and freely repatriable</strong>. This means the account holder can transfer the entire balance back to their <strong>foreign country</strong> of residence without any restrictions or regulatory hurdles. <em><strong>Hence, Statement C is correct.</strong></em></li>\n\t<li><strong>Taxation Policy</strong>: The <strong>interest income</strong> earned on an <strong>NRE account</strong> is <strong>completely tax-free</strong> in <strong>India</strong>. According to <strong>Section 10(4)</strong> of the <strong>Income Tax Act, 1961</strong>, such interest is not included in the total income of the individual, provided they are a person resident outside <strong>India</strong>. <em><strong>Hence, Statement A is incorrect.</strong></em></li>\n\t<li><strong>Currency of Maintenance</strong>: Although the funds are deposited in <strong>foreign currency</strong> (such as <strong>USD</strong>, <strong>GBP</strong>, or <strong>Euro</strong>), they are converted and maintained in <strong>Indian Rupees (INR)</strong> at the prevailing <strong>exchange rate</strong>. It is not a foreign currency account like an <strong>FCNR</strong> account. <em><strong>Hence, Statement B is incorrect.</strong></em></li>\n\t<li><strong>Eligibility for Opening</strong>: <strong>NRE accounts</strong> can only be opened by <strong>Non-Resident Indians (NRIs)</strong> and <strong>Overseas Citizens of India (OCIs)</strong>. <strong>Resident Indians</strong> are not eligible to open or hold these accounts. <em><strong>Hence, Statement D is incorrect.</strong></em></li>\n\t<li><strong>Joint Holding</strong>: An <strong>NRE account</strong> can be held <strong>jointly</strong> with other <strong>NRIs</strong> or with a <strong>resident Indian</strong> relative. However, in the case of a resident relative, the account must be operated on a <strong>\"former or survivor\"</strong> basis. <em><strong>Hence, Statement E is incorrect.</strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Governing Regulations</strong>: These accounts are strictly governed by the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, and the guidelines issued by the <strong>Reserve Bank of India (RBI)</strong>. The rules ensure the seamless flow of <strong>foreign exchange</strong> into the <strong>Indian banking system</strong>.</li>\n\t<li><strong>Comparison with NRO Account</strong>: Unlike the <strong>NRE</strong> account, the <strong>NRO (Non-Resident Ordinary)</strong> account is used to manage income earned within <strong>India</strong>, such as <strong>rent</strong>, <strong>pension</strong>, or <strong>dividends</strong>. In an <strong>NRO</strong> account, the <strong>interest</strong> is <strong>taxable</strong> at <strong>30%</strong> (plus applicable surcharge and cess), and there are limits on <strong>repatriation</strong> (up to <strong>USD 1 million</strong> per <strong>financial year</strong>).</li>\n\t<li><strong>Types of NRE Accounts</strong>: Banks in <strong>India</strong> offer <strong>NRE</strong> facilities in various formats, including <strong>Savings Accounts</strong>, <strong>Current Accounts</strong>, <strong>Recurring Deposits</strong>, and <strong>Fixed Deposits</strong> (often referred to as <strong>Term Deposits</strong>).</li>\n\t<li><strong>Exchange Rate Risk</strong>: Since the <strong>NRE account</strong> is maintained in <strong>Indian Rupees (INR)</strong>, the account holder is exposed to <strong>currency fluctuation risk</strong>. If the <strong>Rupee depreciates</strong> against the <strong>foreign currency</strong>, the value of the funds in terms of the foreign currency might decrease at the time of <strong>repatriation</strong>.</li>\n\t<li><strong>FCNR (B) Accounts</strong>: For those looking to avoid <strong>exchange rate risk</strong>, the <strong>Foreign Currency Non-Resident (Bank)</strong> account is an alternative where funds are maintained in the <strong>original foreign currency</strong> and are also <strong>tax-exempt</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Permissible Credits</strong>: The <strong>NRE account</strong> can be credited with <strong>fresh remittances</strong> from abroad through <strong>banking channels</strong>, transfers from other <strong>NRE/FCNR</strong> accounts, and <strong>interest</strong> or <strong>dividends</strong> on investments made from the account.</li>\n\t<li><strong>Nomination Facility</strong>: Account holders can nominate either a <strong>resident Indian</strong> or a <strong>non-resident</strong>. If a <strong>resident Indian</strong> is the <strong>nominee</strong>, the funds inherited upon the death of the account holder are typically credited to an <strong>NRO account</strong> and are subject to <strong>repatriation limits</strong>.</li>\n\t<li><strong>Impact of Change in Status</strong>: If an <strong>NRI</strong> returns to <strong>India</strong> for a <strong>permanent stay</strong>, the <strong>NRE account</strong> must be designated as a <strong>resident account</strong> or the funds must be transferred to a <strong>Resident Foreign Currency (RFC)</strong> account immediately to comply with <strong>FEMA</strong> rules.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c327386de8b658034740",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Under FEMA, PIO stands for:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Person in Occupation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Person of Indian Origin",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Public Indian Officer",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Permanent Indian Occupant",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Person in Overseas India",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Person of Indian Origin</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The term <strong>PIO</strong> stands for <strong>Person of Indian Origin</strong>. Under the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, this definition is crucial for identifying individuals who are not <strong>Indian citizens</strong> but have a lineage or historical connection to <strong>India</strong> for the purpose of financial transactions.</li>\n\t<li>A <strong>PIO</strong> is defined as a person (other than a citizen of <strong>Pakistan</strong>, <strong>Bangladesh</strong>, <strong>Sri Lanka</strong>, <strong>Afghanistan</strong>, <strong>China</strong>, <strong>Iran</strong>, <strong>Nepal</strong>, or <strong>Bhutan</strong>) who has at any time held an <strong>Indian Passport</strong>. <em><span><strong>Hence, the option Person of Indian Origin is correct.</strong></span></em></li>\n\t<li>It also includes any person whose <strong>father</strong> or <strong>grandfather</strong> was a citizen of <strong>India</strong> by virtue of the <strong>Constitution of India</strong> or the <strong>Citizenship Act, 1955</strong>.</li>\n\t<li>The classification of <strong>PIO</strong> is used by the <strong>Reserve Bank of India (RBI)</strong> to regulate the <strong>acquisition and transfer of immovable property</strong> in <strong>India</strong> and the opening of specific types of <strong>bank accounts</strong>.</li>\n\t<li>Under <strong>FEMA</strong>, <strong>PIOs</strong> are granted various facilities similar to <strong>Non-Resident Indians (NRIs)</strong>, such as the ability to invest in <strong>Indian shares</strong>, <strong>debentures</strong>, and <strong>mutual funds</strong> on a <strong>repatriable</strong> or <strong>non-repatriable</strong> basis.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Foreign Exchange Management Act (FEMA), 1999</strong>:\n\n\t<ul>\n\t\t<li><strong>FEMA</strong> replaced the older <strong>Foreign Exchange Regulation Act (FERA)</strong> in <strong>June 2000</strong>.</li>\n\t\t<li>Its primary objective is to consolidate and amend the law relating to <strong>foreign exchange</strong> to facilitate <strong>external trade</strong> and payments and promote the orderly development of the <strong>foreign exchange market</strong> in <strong>India</strong>.</li>\n\t\t<li>Unlike <strong>FERA</strong>, which was a <strong>prohibitive</strong> law, <strong>FEMA</strong> is a <strong>civil law</strong> that focuses on <strong>management</strong> rather than regulation through criminal penalties.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Merging of PIO and OCI Cards</strong>:\n\t<ul>\n\t\t<li>On <strong>January 9, 2015</strong>, the <strong>Government of India</strong> discontinued the <strong>PIO Card scheme</strong> and merged it with the <strong>Overseas Citizen of India (OCI) Card scheme</strong>.</li>\n\t\t<li>Currently, most individuals previously classified as <strong>PIOs</strong> are treated as <strong>OCI cardholders</strong> under the <strong>Citizenship (Amendment) Act, 2015</strong>.</li>\n\t\t<li><strong>OCI cardholders</strong> enjoy benefits such as a <strong>multi-purpose, multiple-entry, lifelong visa</strong> for visiting <strong>India</strong> and exemption from registration with <strong>Foreigners Regional Registration Officer (FRRO)</strong> for any length of stay.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Distinction between NRI and PIO</strong>:\n\t<ul>\n\t\t<li>An <strong>NRI (Non-Resident Indian)</strong> is an <strong>Indian citizen</strong> who resides outside <strong>India</strong> for the purpose of <strong>employment</strong>, carrying on <strong>business</strong>, or for any other purpose indicating an indefinite stay.</li>\n\t\t<li>A <strong>PIO</strong> is a <strong>foreign citizen</strong> (except for specific neighboring countries) who has <strong>Indian ancestry</strong> or has held an <strong>Indian passport</strong> in the past.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Investment Limitations</strong>: <strong>PIOs</strong> are generally permitted to purchase <strong>residential or commercial property</strong> in <strong>India</strong>. However, they are strictly prohibited from purchasing <strong>agricultural land</strong>, <strong>plantation property</strong>, or <strong>farmhouses</strong> without prior approval from the <strong>RBI</strong>.</li>\n\t<li><strong>Banking Accounts</strong>: <strong>PIOs</strong> can open <strong>Non-Resident External (NRE)</strong> accounts, <strong>Non-Resident Ordinary (NRO)</strong> accounts, and <strong>Foreign Currency Non-Resident (FCNR)</strong> accounts with <strong>authorized dealers</strong> in <strong>India</strong>.</li>\n\t<li><strong>Repatriation</strong>: Under <strong>FEMA</strong>, <strong>PIOs</strong> can <strong>repatriate</strong> (send back to their home country) the sale proceeds of <strong>immovable property</strong> in <strong>India</strong>, subject to certain conditions and a limit of <strong>USD 1 million</strong> per <strong>financial year</strong>.</li>\n\t<li><strong>Taxation</strong>: Income earned by a <strong>PIO</strong> in <strong>India</strong> (such as <strong>rent</strong>, <strong>dividends</strong>, or <strong>interest</strong>) is subject to <strong>Indian Income Tax</strong> laws and the <strong>Double Taxation Avoidance Agreement (DTAA)</strong> between <strong>India</strong> and their country of residence.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c2ffef51f598d579c298",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which account is suitable for returning NRIs to maintain foreign currency funds in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "RFC Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "NRO Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Current Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "PMJDY Account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Demat Account",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>RFC Account</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>RFC (Resident Foreign Currency) Account</strong> is a scheme specifically designed for <strong>Returning Indians</strong> (NRIs who have returned to India for permanent settlement) to maintain their <strong>foreign currency funds</strong>. <em><strong>Hence, this statement is correct.</strong></em></li>\n\t<li>This account allows individuals to park their foreign earnings, such as <strong>pension</strong>, <strong>monetary gifts</strong>, or <strong>proceeds from assets</strong> held outside <strong>India</strong>, in a foreign currency without the immediate need for conversion into <strong>Indian Rupees (INR)</strong>.</li>\n\t<li>Funds from <strong>NRE (Non-Resident External)</strong> and <strong>FCNR (Foreign Currency Non-Resident)</strong> accounts can be easily transferred into an <strong>RFC account</strong> upon a person&rsquo;s change of status from <strong>Non-Resident</strong> to <strong>Resident</strong>.</li>\n\t<li>The account can be maintained in any freely convertible <strong>foreign currency</strong>, including <strong>USD (US Dollar)</strong>, <strong>GBP (Great British Pound)</strong>, <strong>Euro</strong>, <strong>JPY (Japanese Yen)</strong>, and <strong>CAD (Canadian Dollar)</strong>.</li>\n\t<li>The <strong>RFC account</strong> is governed by the guidelines of the <strong>Reserve Bank of India (RBI)</strong> under the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NRO (Non-Resident Ordinary) Account:</strong>\n\n\t<ul>\n\t\t<li>This account is used by <strong>NRIs</strong> to manage their <strong>Indian income</strong>, such as <strong>rent</strong>, <strong>dividends</strong>, or <strong>pension</strong> earned within <strong>India</strong>.</li>\n\t\t<li>Unlike the <strong>RFC account</strong>, the <strong>NRO account</strong> is maintained in <strong>Indian Rupees (INR)</strong>. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n\t\t<li>Interest earned on <strong>NRO accounts</strong> is subject to <strong>Tax Deducted at Source (TDS)</strong> at a rate of <strong>30%</strong> plus applicable surcharges and cess.</li>\n\t</ul>\n\t</li>\n\t<li><strong>PMJDY (Pradhan Mantri Jan Dhan Yojana) Account:</strong>\n\t<ul>\n\t\t<li>Launched on <strong>28 August 2014</strong>, it is a <strong>National Mission for Financial Inclusion</strong> to ensure access to financial services for all <strong>Indian residents</strong>.</li>\n\t\t<li>It provides a <strong>Basic Savings Bank Deposit (BSBD)</strong> account with no minimum balance requirement. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n\t\t<li>Key features include a <strong>RuPay Debit Card</strong>, <strong>accident insurance</strong> cover of <strong>Rs. 2 lakh</strong>, and an <strong>overdraft facility</strong> of up to <strong>Rs. 10,000</strong> for eligible holders.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Demat (Dematerialized) Account:</strong>\n\t<ul>\n\t\t<li>A <strong>Demat account</strong> is used to hold <strong>shares and securities</strong> in electronic format, replacing physical share certificates. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n\t\t<li>It is essential for <strong>trading</strong> in the <strong>Indian Stock Market</strong> and is regulated by the <strong>Securities and Exchange Board of India (SEBI)</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Current Account:</strong>\n\t<ul>\n\t\t<li>This is a type of bank account intended for <strong>businessmen</strong>, <strong>firms</strong>, and <strong>companies</strong> that have a high volume of daily <strong>transactions</strong>.</li>\n\t\t<li>These accounts generally do not earn <strong>interest</strong> and are maintained in <strong>Indian currency</strong>. <em><strong>Hence, this statement is incorrect.</strong></em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Taxation on RFC:</strong> The <strong>interest</strong> earned on an <strong>RFC account</strong> is <strong>exempt</strong> from tax as long as the individual holds the status of <strong>Resident but Not Ordinarily Resident (RNOR)</strong>. Once they become a full <strong>Resident</strong>, the interest becomes taxable.</li>\n\t<li><strong>Flexibility:</strong> Funds in an <strong>RFC account</strong> are fully <strong>repatriable</strong>, meaning they can be moved back outside <strong>India</strong> for any <strong>bonafide purpose</strong> if the account holder decides to move abroad again.</li>\n\t<li><strong>Joint Holding:</strong> An <strong>RFC account</strong> can be held <strong>jointly</strong> with <strong>resident relatives</strong> as defined under the <strong>Companies Act, 2013</strong>, on a \"former or survivor\" basis.</li>\n\t<li><strong>Term of Deposit:</strong> <strong>RFC accounts</strong> can be opened as <strong>Savings</strong>, <strong>Current</strong>, or <strong>Term Deposits</strong> with maturity periods typically ranging from <strong>1 year</strong> to <strong>3 years</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c2db7706eca69af2c47a",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Which of the following accounts can be jointly opened with a resident relative on a former or survivor basis?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NRE Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "FCNR Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "NRO Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both NRE and NRO Accounts",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "EEFC Account",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Both NRE and NRO Accounts</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Reserve Bank of India (RBI)</strong>, under the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, allows <strong>Non-Resident Indians (NRIs)</strong> and <strong>Persons of Indian Origin (PIOs)</strong> to open and maintain bank accounts in India.</li>\n\t<li>An <strong>NRE (Non-Resident External) Account</strong> can be opened jointly with a <strong>resident relative</strong> on a <strong>&lsquo;Former or Survivor&rsquo;</strong> basis. This means the <strong>NRI</strong> is the primary holder (Former) and the resident relative can operate the account only after the demise of the NRI. <em>Hence, the statement regarding NRE accounts is correct.</em></li>\n\t<li>An <strong>NRO (Non-Resident Ordinary) Account</strong> can also be opened or held jointly with a <strong>resident relative</strong> on a <strong>&lsquo;Former or Survivor&rsquo;</strong> basis. This helps in managing local earnings in India through a resident relative. <em>Hence, the statement regarding NRO accounts is correct.</em></li>\n\t<li>The <strong>&lsquo;Former or Survivor&rsquo;</strong> clause ensures that during the lifetime of the <strong>NRI</strong> holder, the resident relative cannot operate the account as a joint owner but can do so only as a <strong>Power of Attorney (PoA)</strong> holder for restricted activities.</li>\n\t<li>As per <strong>RBI</strong> guidelines, both <strong>NRE</strong> and <strong>NRO</strong> accounts are eligible for this joint holding facility with resident relatives to provide flexibility in managing funds. <em>Hence, the combined option of both accounts is correct.</em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NRE (Non-Resident External) Account:</strong>\n\n\t<ul>\n\t\t<li>This account is maintained in <strong>Indian Rupees (INR)</strong>.</li>\n\t\t<li>It is primarily used to park <strong>foreign earnings</strong> remitted to India.</li>\n\t\t<li>The <strong>principal amount</strong> and the <strong>interest earned</strong> are <strong>fully and freely repatriable</strong> outside India.</li>\n\t\t<li>The interest income earned in this account is <strong>exempt from income tax</strong> in India under the <strong>Income Tax Act, 1961</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>NRO (Non-Resident Ordinary) Account:</strong>\n\t<ul>\n\t\t<li>This account is also maintained in <strong>Indian Rupees (INR)</strong> but is used to manage <strong>income earned within India</strong>, such as <strong>rent</strong>, <strong>dividends</strong>, or <strong>pension</strong>.</li>\n\t\t<li>While funds can be deposited in foreign currency, they are stored in <strong>INR</strong>.</li>\n\t\t<li>Repatriation is limited to <strong>USD 1 million</strong> per <strong>financial year</strong> (April to March) for all legitimate purposes, subject to payment of applicable taxes.</li>\n\t\t<li>Interest earned on an <strong>NRO account</strong> is <strong>taxable</strong> at a base rate of <strong>30%</strong> plus applicable <strong>surcharge</strong> and <strong>cess</strong> (TDS).</li>\n\t</ul>\n\t</li>\n\t<li><strong>EEFC (Exchange Earners&#39; Foreign Currency) Account:</strong>\n\t<ul>\n\t\t<li>This is a <strong>foreign currency account</strong> maintained by <strong>residents</strong> (exporters, etc.) to park their <strong>foreign exchange earnings</strong>.</li>\n\t\t<li>It does not earn any <strong>interest</strong> and is not designed for <strong>NRIs</strong> to hold jointly with residents on a former or survivor basis in the same context as <strong>NRE/NRO</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Definition of Relative:</strong> For the purpose of these accounts, the term <strong>&lsquo;relative&rsquo;</strong> is defined under <strong>Section 2(77)</strong> of the <strong>Companies Act, 2013</strong>. It includes <strong>spouse</strong>, <strong>parents</strong>, <strong>children</strong>, <strong>step-children</strong>, <strong>siblings</strong>, etc.</li>\n\t<li><strong>FCNR (B) Account:</strong> The <strong>Foreign Currency Non-Resident (Bank)</strong> account also allows joint holding with a <strong>resident relative</strong> on a <strong>&lsquo;Former or Survivor&rsquo;</strong> basis. These accounts are maintained in <strong>foreign currencies</strong> like <strong>USD</strong>, <strong>GBP</strong>, or <strong>Euro</strong> to avoid exchange rate risks.</li>\n\t<li><strong>Operational Authority:</strong> Even if a resident relative is a joint holder on a <strong>&lsquo;Former or Survivor&rsquo;</strong> basis, their right to operate the account independently only arises after the <strong>NRI</strong> holder&#39;s death. Prior to that, any operation by the resident is usually via a <strong>Power of Attorney</strong> for specific local payments.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c2b81498c888db316af4",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "What is the minimum tenure generally prescribed for FCNR fixed deposits?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7 days",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "15 days",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1 year",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "10 years",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "6 months",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1 year</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Foreign Currency Non-Resident (Bank)</strong> account, commonly known as <strong>FCNR (B)</strong>, is a fixed deposit account opened by <strong>Non-Resident Indians (NRIs)</strong> and <strong>Overseas Citizens of India (OCIs)</strong> in Indian banks.</li>\n\t<li>As per the guidelines issued by the <strong>Reserve Bank of India (RBI)</strong>, the <strong>minimum tenure</strong> for an <strong>FCNR (B)</strong> deposit is <strong>1 year</strong>. Any deposit made for a period less than this duration does not qualify for interest payments.</li>\n\t<li>The <strong>maximum tenure</strong> allowed for such deposits is generally <strong>5 years</strong>. This ensures that the funds remain stable within the <strong>Indian banking system</strong> for a medium-term duration.</li>\n\t<li>These accounts must be maintained in <strong>foreign currency</strong> and not in <strong>Indian Rupees (INR)</strong>. Common allowable currencies include the <strong>US Dollar (USD)</strong>, <strong>Pound Sterling (GBP)</strong>, <strong>Euro (EUR)</strong>, <strong>Japanese Yen (JPY)</strong>, <strong>Australian Dollar (AUD)</strong>, and <strong>Canadian Dollar (CAD)</strong>.</li>\n\t<li>One of the primary benefits of this scheme is that the <strong>interest income</strong> earned on <strong>FCNR accounts</strong> is <strong>exempt from income tax</strong> in <strong>India</strong> under current <strong>tax laws</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Repatriability:</strong> Both the <strong>principal amount</strong> and the <strong>accumulated interest</strong> in an <strong>FCNR account</strong> are <strong>fully and freely repatriable</strong>, meaning the account holder can transfer the entire sum back to their <strong>country of residence</strong> without any restrictions.</li>\n\t<li><strong>Exchange Rate Risk:</strong> Since the funds are held in <strong>foreign currency</strong>, the depositor is protected against <strong>currency fluctuations</strong> or the <strong>depreciation</strong> of the <strong>Indian Rupee</strong>. The risk of <strong>exchange rate conversion</strong> is borne by the bank at the time of maturity if converted to <strong>INR</strong>.</li>\n\t<li><strong>Eligibility:</strong> The account can be opened <strong>jointly</strong> in the names of two or more <strong>NRIs/OCIs</strong>. It can also be held jointly with a <strong>resident relative</strong> (as defined under the <strong>Companies Act, 2013</strong>) on a \"former or survivor\" basis.</li>\n\t<li><strong>Interest Rates:</strong> The <strong>interest rates</strong> for <strong>FCNR (B)</strong> deposits are regulated by the <strong>RBI</strong> and are usually linked to international benchmarks such as <strong>LIBOR (London Interbank Offered Rate)</strong> or <strong>SOFR (Secured Overnight Financing Rate)</strong>, depending on the currency and the <strong>tenure</strong>.</li>\n\t<li><strong>Comparison with NRE Accounts:</strong> Unlike <strong>Non-Resident External (NRE)</strong> accounts which are maintained in <strong>Indian Rupees</strong>, <strong>FCNR</strong> accounts mitigate <strong>forex risk</strong> because the <strong>valuation</strong> remains in the original <strong>foreign currency</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Premature Withdrawal:</strong> In the event of <strong>premature withdrawal</strong> before the completion of the <strong>minimum period</strong> of <strong>1 year</strong>, <strong>no interest</strong> is payable to the depositor. Banks may also levy a <strong>penalty</strong> for withdrawals made after <strong>1 year</strong> but before the <strong>maturity date</strong>.</li>\n\t<li><strong>Loan Facility:</strong> Depositors can avail of <strong>loans</strong> against the security of <strong>FCNR (B)</strong> deposits in <strong>India</strong> or <strong>abroad</strong>, subject to specific <strong>RBI</strong> regulations and <strong>margin requirements</strong>.</li>\n\t<li><strong>Nomination:</strong> The facility of <strong>nomination</strong> is available for these accounts, allowing the <strong>account holder</strong> to designate a person to receive the <strong>funds</strong> in the event of their death.</li>\n\t<li><strong>Status Change:</strong> If the <strong>NRI</strong> returns to <strong>India</strong> for permanent settlement, the <strong>FCNR (B)</strong> account can continue until <strong>maturity</strong> at the contracted rate of <strong>interest</strong>, after which it must be converted into a <strong>Resident Foreign Currency (RFC)</strong> account or a regular <strong>resident account</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c2961804a3821ae79e2b",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Interest earned on which of the following accounts is generally taxable in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NRO Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "NRE Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "FCNR Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "RFC Account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "EEFC Account",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>NRO Account</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Non-Resident Ordinary (NRO) Account</strong> is a savings or fixed deposit account held in <strong>India</strong> by a <strong>Non-Resident Indian (NRI)</strong> to manage their income earned within the <strong>country</strong>. Unlike other NRI accounts, the <strong>interest earned</strong> on an <strong>NRO account</strong> is <strong>fully taxable</strong> in <strong>India</strong>. <em><strong>Hence, the option NRO Account is correct.</strong></em></li>\n\t<li>Taxation on this account is governed by the <strong>Income Tax Act, 1961</strong>. The <strong>interest income</strong> is subject to a <strong>Tax Deducted at Source (TDS)</strong> rate of <strong>30%</strong>, along with applicable <strong>surcharge</strong> and <strong>education cess</strong>. This makes the effective tax rate approximately <strong>31.2%</strong>.</li>\n\t<li>The primary <strong>function</strong> of an <strong>NRO account</strong> is to allow <strong>NRIs</strong> to deposit Indian earnings such as <strong>rent</strong>, <strong>pensions</strong>, <strong>dividends</strong>, or <strong>professional fees</strong>. These accounts are maintained in <strong>Indian Rupees (INR)</strong>.</li>\n\t<li>The <strong>repatriability</strong> of funds from an <strong>NRO account</strong> is restricted. While the <strong>interest</strong> is freely repatriable, the <strong>principal amount</strong> has a <strong>limit</strong> of <strong>USD 1 million</strong> per <strong>financial year</strong> (April to March) for all bona fide purposes, subject to <strong>payment of applicable taxes</strong>.</li>\n\t<li>An <strong>NRO account</strong> can be held <strong>jointly</strong> with a <strong>resident Indian</strong> on a &#39;former or survivor&#39; basis, providing flexibility for family members residing in <strong>India</strong> to manage local expenses.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Non-Resident External (NRE) Account:</strong>\n\n\t<ul>\n\t\t<li>An <strong>NRE account</strong> is used by <strong>NRIs</strong> to park their <strong>foreign earnings</strong> in <strong>India</strong>. The <strong>interest earned</strong> on this account is <strong>exempt from tax</strong> in <strong>India</strong> under <strong>Section 10(4)</strong> of the <strong>Income Tax Act</strong>.</li>\n\t\t<li>These accounts are <strong>fully and freely repatriable</strong>, meaning both the <strong>principal</strong> and <strong>interest</strong> can be moved back to the <strong>foreign country</strong> of residence without any <strong>numerical limit</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Foreign Currency Non-Resident (FCNR) Account:</strong>\n\t<ul>\n\t\t<li><strong>FCNR(B)</strong> accounts allow <strong>NRIs</strong> to maintain <strong>fixed deposits</strong> in <strong>foreign currencies</strong> like <strong>USD</strong>, <strong>GBP</strong>, <strong>EUR</strong>, <strong>JPY</strong>, <strong>CAD</strong>, and <strong>AUD</strong>.</li>\n\t\t<li>Similar to <strong>NRE accounts</strong>, the <strong>interest income</strong> is <strong>tax-free</strong> in <strong>India</strong> as long as the status of the individual remains <strong>NRI</strong> or <strong>RNOR (Resident but Not Ordinarily Resident)</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Resident Foreign Currency (RFC) Account:</strong>\n\t<ul>\n\t\t<li>This account is designed for <strong>NRIs</strong> who have returned to <strong>India</strong> for <strong>permanent settlement</strong>. It allows them to hold <strong>foreign currency</strong> assets acquired while they were <strong>non-residents</strong>.</li>\n\t\t<li>The <strong>interest</strong> on an <strong>RFC account</strong> is <strong>exempt from tax</strong> only if the holder qualifies as a <strong>Resident but Not Ordinarily Resident (RNOR)</strong>. Once they become a <strong>full resident</strong>, the interest becomes <strong>taxable</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Exchange Earners&#39; Foreign Currency (EEFC) Account:</strong>\n\t<ul>\n\t\t<li>An <strong>EEFC account</strong> is maintained by <strong>resident exporters</strong> to credit a <strong>percentage</strong> of their <strong>foreign exchange earnings</strong>. These are <strong>non-interest bearing</strong> accounts; therefore, the question of interest taxability usually does not arise for this specific category.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Double Taxation Avoidance Agreement (DTAA):</strong> <strong>NRIs</strong> residing in <strong>countries</strong> that have a <strong>DTAA</strong> with <strong>India</strong> can avail of a <strong>lower rate of TDS</strong> on their <strong>NRO account</strong> interest. This <strong>tax treaty</strong> prevents the same income from being taxed in two different <strong>countries</strong>.</li>\n\t<li><strong>FEMA Guidelines:</strong> All NRI accounts are regulated by the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, which is overseen by the <strong>Reserve Bank of India (RBI)</strong>. Compliance with <strong>KYC (Know Your Customer)</strong> norms is mandatory for opening and maintaining these accounts.</li>\n\t<li><strong>Designation Change:</strong> If a <strong>resident Indian</strong> moves abroad to become an <strong>NRI</strong>, their existing <strong>savings accounts</strong> must be <strong>designated</strong> as <strong>NRO accounts</strong> as per <strong>RBI</strong> regulations. Failing to do so can lead to <strong>penalties</strong> under <strong>FEMA</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c2701804a3821ae79926",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Who regulates NRI and PIO banking accounts in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "SEBI",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "NABARD",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "RBI",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "SIDBI",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "IRDAI",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>RBI</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Reserve Bank of India</strong> (<strong>RBI</strong>) is the supreme regulatory body in <strong>India</strong> responsible for overseeing <strong>banking operations</strong> and <strong>foreign exchange management</strong>, including accounts held by <strong>NRIs</strong> (Non-Resident Indians) and <strong>PIOs</strong> (Persons of Indian Origin).</li>\n\t<li>Under the powers conferred by the <strong>Foreign Exchange Management Act</strong> (<strong>FEMA</strong>), <strong>1999</strong>, the <strong>RBI</strong> frames the rules and regulations regarding the opening, maintaining, and operation of <strong>bank accounts</strong> by persons resident outside <strong>India</strong>.</li>\n\t<li>The <strong>RBI</strong> issues <strong>Master Directions</strong> and <strong>circulars</strong> that dictate the <strong>permissible credits</strong>, <strong>debits</strong>, and <strong>repatriation</strong> limits for different types of <strong>non-resident accounts</strong>.</li>\n\t<li>It ensures that <strong>Authorized Dealer</strong> (<strong>AD</strong>) banks comply with <strong>Know Your Customer</strong> (<strong>KYC</strong>) norms and <strong>Anti-Money Laundering</strong> (<strong>AML</strong>) standards specifically tailored for <strong>NRI</strong> customers to maintain financial stability.</li>\n\t<li>The <strong>RBI</strong> also monitors the <strong>interest rate frameworks</strong> offered on <strong>foreign currency deposits</strong> to ensure they remain aligned with the <strong>country&#39;s</strong> external <strong>debt management</strong> policies and <strong>monetary policy</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NRE (Non-Resident External) Account</strong>:\n\n\t<ul>\n\t\t<li>This is a <strong>Rupee-denominated</strong> account where funds are maintained in <strong>Indian Rupees</strong>.</li>\n\t\t<li>A major <strong>feature</strong> is that both the <strong>principal</strong> amount and the <strong>interest</strong> earned are <strong>fully repatriable</strong> to the <strong>foreign country</strong> of the holder.</li>\n\t\t<li>The <strong>interest income</strong> earned in an <strong>NRE account</strong> is <strong>exempt from income tax</strong> in <strong>India</strong> under the <strong>Income Tax Act, 1961</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>NRO (Non-Resident Ordinary) Account</strong>:\n\t<ul>\n\t\t<li>This account is primarily used to manage <strong>legitimate Indian income</strong> such as <strong>rent</strong>, <strong>dividends</strong>, or <strong>pension</strong>.</li>\n\t\t<li>Unlike NRE accounts, the <strong>interest income</strong> is <strong>taxable</strong> at <strong>source</strong> (TDS) at a rate of <strong>30%</strong> (plus applicable surcharge and cess), unless modified by <strong>Double Taxation Avoidance Agreements</strong> (<strong>DTAA</strong>).</li>\n\t\t<li>The <strong>repatriation</strong> from <strong>NRO accounts</strong> is restricted to a <strong>numerical value</strong> of <strong>USD 1 million</strong> per <strong>financial year</strong> (April to March).</li>\n\t</ul>\n\t</li>\n\t<li><strong>FCNR(B) (Foreign Currency Non-Resident Bank) Account</strong>:\n\t<ul>\n\t\t<li>These are <strong>term deposits</strong> maintained in <strong>freely convertible foreign currencies</strong> such as <strong>USD</strong>, <strong>GBP</strong>, <strong>EUR</strong>, <strong>JPY</strong>, <strong>CAD</strong>, and <strong>AUD</strong>.</li>\n\t\t<li>The primary <strong>function</strong> of this account is to protect the depositor from <strong>exchange rate fluctuations</strong>, as the funds are held in <strong>foreign currency</strong>.</li>\n\t\t<li>The <strong>tenure</strong> for these deposits typically ranges from <strong>1 year</strong> to <strong>5 years</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Definition of NRI and PIO</strong>:\n\t<ul>\n\t\t<li>An <strong>NRI</strong> is an <strong>Indian citizen</strong> residing outside <strong>India</strong> for employment, business, or vocation for an uncertain <strong>period</strong>.</li>\n\t\t<li>A <strong>PIO</strong> refers to a person (other than a citizen of <strong>Pakistan</strong> or <strong>Bangladesh</strong>) who has held an <strong>Indian passport</strong> at any time or whose parents/grandparents were <strong>citizens of India</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>FEMA, 1999</strong>: This <strong>Act</strong> was enacted in the <strong>year 1999</strong> and became effective from <strong>June 1, 2000</strong>, replacing the more stringent <strong>FERA</strong> (Foreign Exchange Regulation Act) to facilitate <strong>external trade</strong>.</li>\n\t<li><strong>Role of Authorized Dealers</strong>: While <strong>RBI</strong> is the regulator, the actual <strong>functions</strong> of opening accounts are carried out by <strong>Category-I Authorized Dealer banks</strong>, which are commercial banks licensed by the <strong>RBI</strong>.</li>\n\t<li><strong>Regulatory Oversight</strong>: The <strong>RBI</strong> uses the <strong>Liberalised Remittance Scheme</strong> (<strong>LRS</strong>) guidelines to oversee the <strong>outward remittance</strong> of funds by resident individuals, which often interacts with <strong>NRI account</strong> regulations during <strong>status changes</strong> (e.g., when a resident becomes an <strong>NRI</strong>).</li>\n\t<li><strong>Establishment</strong>: The <strong>Reserve Bank of India</strong> was established on <strong>April 1, 1935</strong>, and is headquartered in <strong>Mumbai</strong>, <strong>Maharashtra</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c24d1804a3821ae795ef",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "FCNR accounts are maintained in which of the following forms?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only Indian Rupees",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Gold deposits",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Foreign Currency",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Cryptocurrency",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Digital Rupee",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Foreign Currency</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>FCNR(B)</strong> stands for <strong>Foreign Currency Non-Resident (Bank)</strong> account, which is a specialized financial instrument intended for <strong>Non-Resident Indians (NRIs)</strong> and <strong>Persons of Indian Origin (PIOs)</strong>.</li>\n\t<li>Unlike other NRI accounts, <strong>FCNR accounts</strong> are strictly maintained in <strong>Foreign Currency</strong>. This means the funds are held in the currency in which the deposit was made, and not converted into <strong>Indian Rupees (INR)</strong>.</li>\n\t<li>The account is only permitted to be opened in the form of <strong>Term Deposits</strong> (Fixed Deposits). It cannot be opened as a savings, current, or recurring deposit account.</li>\n\t<li>The permissible <strong>tenure</strong> for an <strong>FCNR</strong> deposit ranges from a minimum of <strong>1 year</strong> to a maximum of <strong>5 years</strong>.</li>\n\t<li>Commonly accepted currencies for <strong>FCNR</strong> accounts include the <strong>US Dollar (USD)</strong>, <strong>Great Britain Pound (GBP)</strong>, <strong>Euro (EUR)</strong>, <strong>Japanese Yen (JPY)</strong>, <strong>Canadian Dollar (CAD)</strong>, and <strong>Australian Dollar (AUD)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Comparison with NRE and NRO Accounts</strong>:\n\n\t<ul>\n\t\t<li><strong>Non-Resident External (NRE)</strong> accounts and <strong>Non-Resident Ordinary (NRO)</strong> accounts are both maintained in <strong>Indian Rupees (INR)</strong>, whereas <strong>FCNR</strong> is maintained in <strong>Foreign Currency</strong>.</li>\n\t\t<li>In an <strong>NRE</strong> account, the <strong>exchange rate risk</strong> is borne by the depositor, while in <strong>FCNR</strong>, there is no exchange risk because the currency is not converted.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Taxation Benefits</strong>: According to the <strong>Income Tax Act, 1961</strong>, the interest earned on <strong>FCNR</strong> deposits is entirely <strong>tax-free</strong> in <strong>India</strong>. This makes it a highly attractive investment option for <strong>NRIs</strong> looking to park their surplus foreign earnings.</li>\n\t<li><strong>Repatriability</strong>: One of the primary features of the <strong>FCNR</strong> account is that both the <strong>principal</strong> amount and the <strong>accrued interest</strong> are fully and freely <strong>repatriable</strong>. This means the funds can be transferred back to the foreign country of residence at any time without any regulatory hurdles.</li>\n\t<li><strong>Regulatory Framework</strong>: <strong>FCNR</strong> accounts are governed by the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>. The <strong>Reserve Bank of India (RBI)</strong> issues guidelines regarding the <strong>interest rates</strong> and the <strong>types of currencies</strong> that banks in <strong>India</strong> can accept for these deposits.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Protection against Devaluation</strong>: Since <strong>FCNR</strong> accounts are held in <strong>foreign currency</strong>, depositors are protected against the potential <strong>devaluation</strong> of the <strong>Indian Rupee</strong>. If the <strong>INR</strong> weakens against the <strong>USD</strong>, the value of the <strong>FCNR</strong> deposit remains stable in <strong>USD</strong> terms.</li>\n\t<li><strong>Joint Ownership</strong>: An <strong>NRI</strong> is allowed to open an <strong>FCNR</strong> account jointly with other <strong>NRIs</strong>. Furthermore, they can open it with a <strong>resident Indian relative</strong> on a <strong>former or survivor</strong> basis, as defined under the <strong>Companies Act, 2013</strong>.</li>\n\t<li><strong>Loan Facilities</strong>: Banks in <strong>India</strong> often allow depositors to take <strong>loans</strong> against the security of their <strong>FCNR</strong> deposits. These loans can be utilized for personal or business purposes in <strong>India</strong>, subject to specific <strong>RBI</strong> regulations.</li>\n\t<li><strong>Nomination</strong>: Account holders have the facility to appoint a <strong>nominee</strong>, who can be either a <strong>resident</strong> or a <strong>non-resident</strong>, to receive the funds in the event of the account holder&#39;s death.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c229f1116074ba645e31",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Which type of account is primarily used by NRIs to manage income earned in India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NRE Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "FCNR Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "NRO Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "EEFC Account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "RFC Account",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>NRO Account</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NRO (Non-Resident Ordinary) Account</strong> is primarily used by <strong>Non-Resident Indians (NRIs)</strong> to manage and park their income earned within <strong>India</strong>. This includes earnings such as <strong>house rent</strong>, <strong>dividends</strong> from shares, <strong>pension</strong>, or <strong>interest</strong> from other investments. <em><strong>Hence, this option is correct.</strong></em></li>\n\t<li>The currency of an <strong>NRO account</strong> is always <strong>Indian Rupees (INR)</strong>. Even if foreign currency is deposited, it is automatically converted into <strong>rupees</strong> at the prevailing <strong>exchange rate</strong>.</li>\n\t<li>One of the distinct features of this account is that it can be held <strong>jointly</strong> with a <strong>Resident Indian</strong> on a <strong>&lsquo;former or survivor&rsquo;</strong> basis, facilitating easier management of local expenses.</li>\n\t<li>Under the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>, there are specific limits on <strong>repatriation</strong> (transferring money abroad) from an <strong>NRO account</strong>, which is currently capped at <strong>USD 1 million</strong> per <strong>financial year</strong> (from <strong>April</strong> to <strong>March</strong>).</li>\n\t<li>The <strong>interest</strong> earned on the balance in an <strong>NRO account</strong> is <strong>taxable</strong> in <strong>India</strong>. It attracts <strong>Tax Deducted at Source (TDS)</strong> at a rate of <strong>30%</strong> plus applicable <strong>surcharge</strong> and <strong>cess</strong>, as per the <strong>Income Tax Act, 1961</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NRE (Non-Resident External) Account:</strong>\n\n\t<ul>\n\t\t<li>This account is used by <strong>NRIs</strong> to park their earnings made <strong>outside India</strong>. The funds are held in <strong>Indian Rupees (INR)</strong>. <em><strong>Hence, this statement is incorrect in the context of managing Indian-earned income.</strong></em></li>\n\t\t<li>The biggest advantage is that both the <strong>principal</strong> and the <strong>interest</strong> are <strong>fully and freely repatriable</strong> (can be moved out of the country without limits).</li>\n\t\t<li>The <strong>interest income</strong> earned in an <strong>NRE account</strong> is completely <strong>tax-free</strong> in <strong>India</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>FCNR (Foreign Currency Non-Resident) Account:</strong>\n\t<ul>\n\t\t<li>This is a <strong>fixed deposit</strong> account that allows <strong>NRIs</strong> to maintain funds in <strong>foreign currencies</strong> like <strong>USD</strong>, <strong>GBP</strong>, <strong>EUR</strong>, <strong>JPY</strong>, <strong>CAD</strong>, and <strong>AUD</strong>. <em><strong>Hence, this statement is incorrect as it is not for local income management.</strong></em></li>\n\t\t<li>Since the funds are held in foreign currency, the depositor is protected against <strong>exchange rate fluctuations</strong>.</li>\n\t\t<li>Like <strong>NRE</strong> accounts, the <strong>interest income</strong> is <strong>tax-exempt</strong> in <strong>India</strong> and the funds are <strong>fully repatriable</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>EEFC (Exchange Earners&#39; Foreign Currency) Account:</strong>\n\t<ul>\n\t\t<li>This account is maintained by <strong>resident Indians</strong> who are <strong>exchange earners</strong> (like exporters) to keep their <strong>foreign currency</strong> earnings. <em><strong>Hence, this statement is incorrect as it is not meant for NRIs managing Indian income.</strong></em></li>\n\t\t<li>It is a <strong>non-interest bearing</strong> current account.</li>\n\t</ul>\n\t</li>\n\t<li><strong>RFC (Resident Foreign Currency) Account:</strong>\n\t<ul>\n\t\t<li>This account is for <strong>NRIs</strong> who have <strong>returned to India</strong> for permanent settlement. <em><strong>Hence, this statement is incorrect for active NRIs managing Indian-sourced income.</strong></em></li>\n\t\t<li>It allows them to keep their <strong>foreign assets</strong> and <strong>foreign currency</strong> earned while they were <strong>non-residents</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Reserve Bank of India (RBI)</strong>: All these accounts are regulated under the guidelines issued by the <strong>RBI</strong> and the provisions of <strong>FEMA</strong>.</li>\n\t<li><strong>DTAA (Double Taxation Avoidance Agreement)</strong>: <strong>NRIs</strong> residing in countries that have a <strong>DTAA</strong> with <strong>India</strong> can avail of <strong>lower tax rates</strong> on the <strong>interest</strong> earned in their <strong>NRO accounts</strong> by submitting required documents like the <strong>Tax Residency Certificate (TRC)</strong>.</li>\n\t<li><strong>Tenure</strong>: While <strong>NRO</strong> and <strong>NRE</strong> accounts can be <strong>savings</strong>, <strong>current</strong>, or <strong>fixed deposits</strong>, <strong>FCNR</strong> is strictly a <strong>term deposit</strong> (fixed deposit) for a period ranging from <strong>1 to 5 years</strong>.</li>\n\t<li><strong>Conversion</strong>: If an <strong>Indian resident</strong> moves abroad with the intention of staying for an indefinite period, their existing <strong>resident bank accounts</strong> must be converted into <strong>NRO accounts</strong> as per <strong>banking regulations</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a16c1eda548ad6f1b7a2e97",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Which of the following accounts allows Non-Resident Indians (NRIs) to repatriate both principal and interest freely outside India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NRO Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "NRE Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Resident Savings Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "FCNR Account only for interest",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "RFC Account",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>NRE Account</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>NRE Account (Non-Resident External)</strong> is a savings, current, or fixed deposit account opened in <strong>India</strong> by a <strong>Non-Resident Indian (NRI)</strong> to park their foreign earnings in <strong>Indian Rupees (INR)</strong>.</li>\n\t<li>A primary feature of the <strong>NRE Account</strong> is that it is <strong>fully and freely repatriable</strong>, meaning both the <strong>principal amount</strong> deposited and the <strong>interest earned</strong> can be moved back to the foreign country without any restrictions or prior approval from the <strong>Reserve Bank of India (RBI)</strong>. <strong><em>Hence, option B is correct.</em></strong></li>\n\t<li>The <strong>NRO Account (Non-Resident Ordinary)</strong> is used to manage income earned within <strong>India</strong>, such as <strong>rent, dividends, or pension</strong>. While interest is repatriable, the <strong>principal amount</strong> has a repatriation limit of <strong>USD 1 million</strong> per <strong>financial year</strong>. <strong><em>Hence, option A is incorrect.</em></strong></li>\n\t<li>The <strong>Resident Savings Account</strong> is intended only for individuals residing in <strong>India</strong>. Once a person&#39;s status changes to <strong>NRI</strong>, they are legally required under <strong>FEMA</strong> to convert these into <strong>NRO accounts</strong>. <strong><em>Hence, option C is incorrect.</em></strong></li>\n\t<li>The <strong>FCNR Account (Foreign Currency Non-Resident)</strong> is a <strong>fixed deposit</strong> account maintained in <strong>foreign currencies</strong> like <strong>USD, GBP, or EUR</strong>. While it allows full repatriation of both principal and interest, it is not a standard savings account for daily transactions, and the option provided in the question specifically limited it to interest. <strong><em>Hence, option D is incorrect.</em></strong></li>\n\t<li>The <strong>RFC Account (Resident Foreign Currency)</strong> is designed for <strong>returning NRIs</strong> who wish to maintain their foreign earnings in <strong>foreign currency</strong> after becoming residents of <strong>India</strong> again. <strong><em>Hence, option E is incorrect.</em></strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Taxation Benefits:</strong> One of the most significant advantages of the <strong>NRE Account</strong> is that the <strong>interest income</strong> is <strong>100% tax-free</strong> in <strong>India</strong> under <strong>Section 10(4)</strong> of the <strong>Income Tax Act, 1961</strong>. In contrast, <strong>NRO account</strong> interest is subject to <strong>Tax Deducted at Source (TDS)</strong> at a rate of <strong>30%</strong> plus applicable surcharges.</li>\n\t<li><strong>Currency Conversion:</strong> Funds in an <strong>NRE account</strong> are maintained in <strong>INR</strong>. When an <strong>NRI</strong> deposits <strong>foreign currency</strong>, it is converted at the prevailing <strong>exchange rate</strong>. This exposes the account holder to <strong>exchange rate risk</strong> if the <strong>Rupee</strong> depreciates against the foreign currency at the time of repatriation.</li>\n\t<li><strong>FCNR Features:</strong> Unlike <strong>NRE accounts</strong>, <strong>FCNR (B) accounts</strong> are maintained in <strong>foreign currency</strong>, which eliminates <strong>exchange rate fluctuations</strong>. These are strictly <strong>term deposits</strong> with a maturity period ranging from <strong>1 year</strong> to <strong>5 years</strong>.</li>\n\t<li><strong>NRO Limitations:</strong> The <strong>NRO account</strong> is essential for <strong>NRIs</strong> who have financial liabilities or income sources in <strong>India</strong>. However, the <strong>repatriation</strong> of funds from an <strong>NRO account</strong> requires a certificate from a <strong>Chartered Accountant (Form 15CB)</strong> and an online declaration <strong>(Form 15CA)</strong> to ensure taxes are paid.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Joint Accounts:</strong> An <strong>NRI</strong> can open an <strong>NRE account</strong> jointly with another <strong>NRI</strong>. They can also open it with a <strong>resident Indian relative</strong> (as defined in the <strong>Companies Act, 2013</strong>) on a <strong>\"Former or Survivor\"</strong> basis.</li>\n\t<li><strong>FEMA Guidelines:</strong> All <strong>NRI accounts</strong> are governed by the <strong>Foreign Exchange Management Act (FEMA), 1999</strong>. It is mandatory for individuals to update their <strong>residential status</strong> with the bank within a reasonable timeframe (usually <strong>30 days</strong>) after moving abroad to avoid penalties.</li>\n\t<li><strong>Nomination Facility:</strong> <strong>NRIs</strong> are allowed to nominate either a <strong>resident</strong> or a <strong>non-resident</strong> as a nominee for these accounts. In the event of the account holder&#39;s death, the <strong>resident nominee</strong> can inherit the funds in <strong>Indian Rupees</strong>, while a <strong>non-resident nominee</strong> can repatriate the funds after <strong>RBI</strong> clearance.</li>\n\t<li><strong>Permissible Credits:</strong> <strong>NRE accounts</strong> can only be credited with <strong>inward remittances</strong> from abroad, transfers from other <strong>NRE or FCNR accounts</strong>, or interest earned on the account itself. Local funds earned in <strong>India</strong> cannot be deposited into an <strong>NRE account</strong>.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:41.950Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

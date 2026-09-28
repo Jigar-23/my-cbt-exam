@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0b7ef1f1d1d76a4e5a5",
+  "title": "CT 16: General Awareness (Financial Institutions (FIs) & Regulators)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5898479503282171d92d7ce0",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Pension Fund Regulatory and Development Authority (PFRDA) is authorized by?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "GOI",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "RBI",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Ministry of Commerce",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ministry of Finance",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "SEBI",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Pension Fund Regulatory and Development Authority (PFRDA) is authorized by Ministry of Finance, Department of Financial Services.",
+          "topic": "Test"
+        },
+        {
+          "id": "675bdb642d2def1815c09126",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>Which of the following statements about NBFC financing under RBI guidelines are correct?</strong></p>\n\n<p>1. Banks can finance NBFCs for priority sector lending.<br />\n2. Banks must ensure NBFCs comply with statutory liquidity ratio (SLR) requirements.<br />\n3. Banks are not permitted to issue guarantees on behalf of NBFCs.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 and 2 only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1 and 3 only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3 only",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong><span style=\"color: (33, 37, 41);\">1 and 3 Only</span></strong></u></p>\n\n<p><u><strong><span style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>Banks are allowed to finance NBFCs for priority sector lending, enhancing credit flow to underserved sectors.</strong></li>\n\t<li><strong>Banks cannot issue guarantees on behalf of NBFCs for any activity.</strong></li>\n\t<li>NBFCs are not subject to SLR requirements, which apply primarily to scheduled banks.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69dffcff93a608e06fefb9e7",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Financial institutions contribute to financial deepening when they widen the range, access, and efficiency of savings and investment channels in the economy. Financial deepening broadly implies:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "complete substitution of capital markets by banks",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "elimination of informal finance overnight",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "higher inflation due to rapid monetization",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "decline in saving behavior because of easy credit",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "expansion and greater sophistication of financial intermediation and access in the economy",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>expansion and greater sophistication of financial intermediation and access in the economy</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li data-end=\"284\" data-start=\"78\"><strong>Financial deepening</strong> refers to the process by which financial institutions expand their services to provide a broader range of products, improve accessibility, and enhance efficiency in savings and investment channels. This is a correct statement and central to the concept.</li>\n\t<li data-end=\"605\" data-start=\"482\">The correct option implies <strong>greater sophistication and expansion of financial intermediation</strong>, such as diversifying financial services, increasing access to formal financial systems, and improving financial literacy. This leads to better capital allocation and economic growth.</li>\n\t<li data-end=\"692\" data-start=\"610\">It does not mean eliminating informal finance overnight, replacing banks with capital markets, or increasing inflation. Instead, it focuses on the overall improvement and development of financial systems to make them more inclusive and efficient.</li>\n\t<li data-end=\"1041\" data-start=\"850\">Financial deepening contributes to <strong>economic development</strong> by providing businesses and individuals with better access to credit and investment opportunities, enabling them to grow and contribute to the economy.</li>\n\t<li data-end=\"1162\" data-start=\"1046\">The expansion of financial intermediation involves the creation of new financial products, services, and markets tailored to the needs of different economic agents. This ensures the mobilization of idle resources into productive uses.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Features of Financial Deepening:</strong>\n\n\t<ul>\n\t\t<li data-end=\"2410\" data-start=\"2195\"><strong>Wider access:</strong> Financial deepening ensures that previously unbanked populations have access to financial services, such as savings accounts, loans, and insurance.</li>\n\t\t<li data-end=\"2684\" data-start=\"2415\"><strong>Greater efficiency:</strong> With the development of financial systems, transaction costs are reduced, and capital is allocated more effectively to productive sectors.</li>\n\t\t<li data-end=\"2684\" data-start=\"2415\"><strong>Market sophistication:</strong> It involves the creation of advanced financial instruments such as derivatives, bonds, and mutual funds to provide diverse investment avenues.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Benefits of Financial Deepening:</strong>\n\t<ul>\n\t\t<li data-end=\"2860\" data-start=\"2735\"><strong>Economic growth:</strong> By mobilizing savings and channeling them into productive investments, financial deepening fosters economic development.</li>\n\t\t<li data-end=\"3071\" data-start=\"2865\"><strong>Reduction in inequality:</strong> Financial inclusion helps bridge the gap between different socio-economic groups by providing access to credit and financial services.</li>\n\t\t<li data-end=\"3250\" data-start=\"3076\"><strong>Stability:</strong> A well-developed financial system contributes to economic stability by spreading risks across a broader base.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Examples of Financial Deepening:</strong>\n\t<ul>\n\t\t<li data-end=\"3402\" data-start=\"3301\"><strong>India:</strong> The Pradhan Mantri Jan Dhan Yojana (PMJDY) is a financial inclusion initiative aimed at bringing unbanked populations into the formal financial system.</li>\n\t\t<li data-end=\"3580\" data-start=\"3407\"><strong>Global:</strong> Countries like South Korea and Singapore have achieved significant economic development through financial deepening by creating robust financial markets and institutions.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Option 1:</strong> Complete substitution of capital markets by banks is not a characteristic of financial deepening. Instead, financial deepening focuses on enhancing both capital markets and banking systems to complement each other.</li>\n\t<li><strong>Option 2:</strong> The elimination of informal finance overnight is unrealistic. Financial deepening aims to gradually reduce reliance on informal finance by improving the accessibility and attractiveness of formal financial systems.</li>\n\t<li><strong>Option 3:</strong> Higher inflation due to rapid monetization is not related to financial deepening. Financial deepening seeks to stabilize and strengthen financial systems rather than create economic instability.</li>\n\t<li><strong>Option 4:</strong> A decline in saving behavior due to easy credit is not a result of financial deepening. Instead, it aims to balance saving and credit availability to ensure sustainable economic growth.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69dffcffc6f28e07738fc8c5",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "A microfinance institution is often discussed separately from mainstream banks because its operational model is designed around:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "wholesale treasury dealing",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "long-tenor project loans to infrastructure SPVs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "sovereign debt management",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "small-ticket financial services for underserved borrowers with different appraisal and collection structures",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "high-frequency trading in bond markets",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>small-ticket financial services for underserved borrowers with different appraisal and collection structures</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li data-end=\"284\" data-start=\"78\"><strong>Microfinance institutions (MFIs)</strong> are distinct from mainstream banks due to their focus on providing <strong>small-ticket financial services</strong>, such as microloans, micro-savings, and micro-insurance, to <strong>underserved borrowers</strong> who lack access to traditional banking systems.</li>\n\t<li data-end=\"605\" data-start=\"482\">They cater to individuals and small businesses in low-income groups, especially in <strong>rural and semi-urban areas</strong>, where mainstream banks often fail to reach.</li>\n\t<li data-end=\"692\" data-start=\"610\">The <strong>operational model</strong> of MFIs is designed to accommodate <strong>different appraisal and collection structures</strong>, such as group lending, peer monitoring, and simplified documentation, ensuring accessibility for borrowers with limited financial literacy. <em><span style=\"font-weight: bolder;\">Hence, the statement is correct.</span></em></li>\n\t<li data-end=\"1041\" data-start=\"850\">Unlike mainstream banks that focus on large-scale funding like wholesale treasury dealing or infrastructure loans, MFIs concentrate on <strong>small-scale, high-touch financial services</strong>, which are essential for empowering economically vulnerable communities.</li>\n\t<li data-end=\"1162\" data-start=\"1046\">Their loan sizes are typically small, often starting from amounts as low as <strong>$50 to $500</strong>, and are tailored to meet the specific needs of borrowers, such as funding small businesses, agriculture, or education. <em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, the operational model aligns with the description.</span></em></li>\n\t<li data-end=\"1560\" data-start=\"1323\">MFIs also emphasize <strong>social impact</strong> over profitability, aiming to promote financial inclusion, reduce poverty, and empower women, who form a significant portion of their client base.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Characteristics of Microfinance Institutions:</strong>\n\n\t<ul>\n\t\t<li data-end=\"2410\" data-start=\"2195\">MFIs target <strong>low-income individuals</strong> and small businesses, especially those excluded from mainstream financial services due to lack of collateral or credit history.</li>\n\t\t<li data-end=\"2684\" data-start=\"2415\">They often operate in <strong>developing countries</strong>, where financial inclusion remains a challenge. Examples include countries like <strong>India, Bangladesh, Kenya, and the Philippines</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Special Appraisal and Collection Structures:</strong>\n\t<ul>\n\t\t<li data-end=\"2860\" data-start=\"2735\"><strong>Group lending:</strong> Borrowers form groups, and loans are distributed collectively, with group members ensuring repayment.</li>\n\t\t<li data-end=\"3071\" data-start=\"2865\"><strong>Peer monitoring:</strong> Borrowers within the group monitor each other&rsquo;s repayment behavior, reducing default risks.</li>\n\t\t<li data-end=\"3250\" data-start=\"3076\"><strong>Simplified documentation:</strong> MFIs prioritize ease of access, requiring minimal paperwork compared to traditional banks.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Comparison with Mainstream Banks:</strong>\n\t<ul>\n\t\t<li data-end=\"3402\" data-start=\"3301\">Mainstream banks often focus on large-scale financial activities like <strong>wholesale treasury dealing</strong>, <strong>long-tenor infrastructure loans</strong>, and <strong>high-frequency trading</strong>, which require significant capital and expertise.</li>\n\t\t<li data-end=\"3580\" data-start=\"3407\">MFIs, on the other hand, concentrate on financial inclusion, offering services tailored to the needs of <strong>economically vulnerable groups</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Examples of Microfinance Institutions:</strong>\n\t<ul>\n\t\t<li data-end=\"3729\" data-start=\"3585\"><strong>Grameen Bank:</strong> Founded by <strong>Mohammed Yunus</strong> in <strong>Bangladesh</strong>, it pioneered the concept of group lending.</li>\n\t\t<li data-end=\"3860\" data-start=\"3735\"><strong>Bandhan Bank:</strong> One of India&rsquo;s leading MFIs, focusing on microloans for rural entrepreneurs.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Key Differences:</strong>\n\n\t<ul>\n\t\t<li data-end=\"4636\" data-start=\"4411\">MFIs focus on <strong>social upliftment</strong> and financial inclusion, while mainstream banks prioritize large-scale financial operations and profitability.</li>\n\t\t<li data-end=\"4761\" data-start=\"4641\">The operational model of MFIs is more flexible and community-oriented, whereas banks rely on rigid structures and creditworthiness assessments.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Global Impact:</strong>\n\t<ul>\n\t\t<li data-end=\"5043\" data-start=\"4817\">MFIs have played a significant role in reducing poverty and empowering women, especially in regions like <strong>South Asia, Sub-Saharan Africa</strong>, and <strong>Southeast Asia</strong>.</li>\n\t\t<li data-end=\"5259\" data-start=\"5048\">They support the <strong>United Nations Sustainable Development Goals (SDGs)</strong>, particularly <strong>Goal 1: No Poverty</strong> and <strong>Goal 5: Gender Equality.</strong></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "698b399a97d5b5e3253ea9ff",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which of the following correctly matches the regulator with its primary supervised entities?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NHB – Commercial Banks",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "EXIM Bank – NBFCs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "IRDAI – Insurance companies and intermediaries",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "SIDBI – Cooperative banks",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "NABARD – Payment banks",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>IRDAI – Insurance companies and intermediaries</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li data-end=\"284\" data-start=\"78\"><strong>IRDAI (Insurance Regulatory and Development Authority of India)</strong> is the apex regulatory body responsible for the <strong>regulation, supervision, and development of the insurance sector in India</strong>. It oversees both life and non-life insurance companies, as well as intermediaries like agents and brokers.</li>\n    <li data-end=\"605\" data-start=\"482\">IRDAI was formed under the <strong>Insurance Regulatory and Development Authority Act, 1999</strong>, and began operations in the year <strong>2000</strong>.</li>\n    <li data-end=\"692\" data-start=\"610\">Its primary role is to <strong>ensure the protection of policyholders</strong>, promote fair practices, and foster the growth of the insurance industry. <em><span style=\"font-weight: bolder;\">Hence, this statement is correct.</span></em></li>\n    <li data-end=\"1041\" data-start=\"850\"><strong>NHB (National Housing Bank)</strong> supervises housing finance companies and not commercial banks. Commercial banks are regulated by the <strong>Reserve Bank of India (RBI)</strong>. <em><span style=\"font-weight: bolder;\">Hence, this option is incorrect.</span></em></li>\n    <li data-end=\"1162\" data-start=\"1046\"><strong>EXIM Bank (Export-Import Bank of India)</strong> focuses on <strong>facilitating and promoting India’s international trade and investment</strong>. It does not regulate NBFCs (Non-Banking Financial Companies); NBFCs are under the purview of the <strong>RBI</strong>. <em><span style=\"font-weight: bolder;\">Hence, this option is incorrect.</span></em></li>\n    <li data-end=\"1560\" data-start=\"1323\"><strong>SIDBI (Small Industries Development Bank of India)</strong> provides financial support to MSMEs (Micro, Small, and Medium Enterprises) but does not supervise cooperative banks. Cooperative banks are regulated by the <strong>RBI</strong> and the state governments. <em><span style=\"font-weight: bolder;\">Hence, this option is incorrect.</span></em></li>\n    <li data-end=\"1654\" data-start=\"1565\"><strong>NABARD (National Bank for Agriculture and Rural Development)</strong> focuses on the development of the agriculture and rural sectors but does not regulate payment banks. Payment banks are regulated by the <strong>RBI</strong>. <em><span style=\"font-weight: bolder;\">Hence, this option is incorrect.</span></em></li>\n    <li data-end=\"2112\" data-start=\"2076\"><em><strong>Hence, the correct answer is IRDAI – Insurance companies and intermediaries.</strong></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Roles and Functions of IRDAI:</strong>\n        <ul>\n            <li data-end=\"2410\" data-start=\"2195\">IRDAI ensures the financial stability of insurance companies and regulates their activities to safeguard the <strong>interests of policyholders</strong>.</li>\n            <li data-end=\"2684\" data-start=\"2415\">It monitors insurance-related intermediaries such as <strong>agents, brokers, and third-party administrators</strong> to ensure they comply with regulations.</li>\n            <li data-end=\"2860\" data-start=\"2735\">IRDAI promotes competition in the insurance market to improve customer services and ensure fair pricing.</li>\n        </ul>\n    </li>\n    <li><strong>Key Functions of Other Regulatory Bodies:</strong>\n        <ul>\n            <li data-end=\"3071\" data-start=\"2865\"><strong>NHB:</strong> Supervises and regulates housing finance companies, ensuring the development of the housing sector in India. It does not regulate commercial banks.</li>\n            <li data-end=\"3250\" data-start=\"3076\"><strong>EXIM Bank:</strong> Provides financial assistance to exporters and importers for international trade. It does not supervise NBFCs.</li>\n            <li data-end=\"3402\" data-start=\"3301\"><strong>SIDBI:</strong> Focuses on the development of MSMEs by providing financial and developmental support. It does not regulate cooperative banks.</li>\n            <li data-end=\"3580\" data-start=\"3407\"><strong>NABARD:</strong> Specializes in agriculture and rural development but does not regulate payment banks.</li>\n        </ul>\n    </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Insurance Sector in India:</strong>\n        <ul>\n            <li data-end=\"4636\" data-start=\"4411\">India’s insurance sector is one of the largest in the world, with <strong>24 life insurance companies</strong> and <strong>34 non-life insurance companies</strong> as of <strong>2023</strong>.</li>\n            <li data-end=\"4761\" data-start=\"4641\">IRDAI ensures compliance with international standards, such as those set by the <strong>International Association of Insurance Supervisors (IAIS)</strong>.</li>\n        </ul>\n    </li>\n    <li><strong>Examples of Insurance Companies:</strong>\n        <ul>\n            <li data-end=\"5043\" data-start=\"4817\">Life Insurance Corporation of India (LIC) – The largest life insurer in India.</li>\n            <li data-end=\"5259\" data-start=\"5048\">General Insurance Corporation of India (GIC Re) – A leading reinsurance company.</li>\n            <li data-end=\"5449\" data-start=\"5264\">ICICI Lombard General Insurance and HDFC Life Insurance – Prominent private sector insurers.</li>\n        </ul>\n    </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "698b399aec2c59763d519d89",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "IRDAI’s developmental mandate differs from its regulatory mandate primarily because the developmental role focuses on:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Licensing insurers",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Protecting policyholders",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Expanding insurance penetration",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Solvency supervision",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Product approval",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Expanding insurance penetration</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n        <li data-end=\"284\" data-start=\"78\"><strong>IRDAI’s developmental mandate:</strong> The Insurance Regulatory and Development Authority of India (<strong>IRDAI</strong>) was established under the <strong>IRDA Act, 1999</strong>. Its developmental mandate focuses primarily on <strong>expanding insurance penetration</strong> to ensure that insurance products reach wider sections of society.</li>\n        <li data-end=\"605\" data-start=\"482\"><strong>Difference between developmental and regulatory mandates:</strong> While the regulatory mandate involves oversight and compliance (e.g., licensing insurers, solvency supervision, and product approvals), the developmental role is aimed at increasing the accessibility and utilization of insurance services across <strong>India</strong>. <em><span style=\"font-weight: bolder;\">Hence, expanding insurance penetration is central to its developmental mandate.</span></em></li>\n        <li data-end=\"692\" data-start=\"610\"><strong>Expanding insurance penetration:</strong> This involves creating awareness about insurance, promoting financial literacy, incentivizing insurers to develop affordable products, and addressing challenges such as lack of accessibility in <strong>rural areas</strong>. <em><span style=\"font-weight: bolder;\">Hence, option 3 is correct.</span></em></li>\n        <li data-end=\"1041\" data-start=\"850\"><strong>Other options:</strong> Licensing insurers (option 1), protecting policyholders (option 2), solvency supervision (option 4), and product approval (option 5) are primarily part of the regulatory mandate rather than the developmental role.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>IRDAI’s Developmental Role:</strong>\n        <ul>\n                <li data-end=\"2410\" data-start=\"2195\"><strong>Objective:</strong> To promote insurance penetration and density in India, especially in <strong>rural and underinsured areas</strong>.</li>\n                <li data-end=\"2684\" data-start=\"2415\"><strong>Strategies:</strong> Collaborating with the government to launch schemes like <strong>Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)</strong> and <strong>Pradhan Mantri Suraksha Bima Yojana (PMSBY)</strong>, which provide affordable insurance coverage to the masses.</li>\n        </ul>\n        </li>\n        <li><strong>Regulatory Role of IRDAI:</strong>\n        <ul>\n                <li data-end=\"2860\" data-start=\"2735\">The regulatory mandate ensures compliance with laws, transparency, and ethical functioning of insurers. This includes licensing insurers, protecting policyholders, solvency supervision, and product approvals.</li>\n                <li data-end=\"3250\" data-start=\"3076\"><strong>Example:</strong> IRDAI ensures that insurers maintain <strong>adequate solvency margins</strong> to meet claims and avoid financial instability.</li>\n        </ul>\n        </li>\n        <li><strong>Insurance Penetration in India:</strong>\n        <ul>\n                <li data-end=\"3402\" data-start=\"3301\"><strong>Current status:</strong> As of <strong>2023</strong>, India’s insurance penetration rate stands at <strong>4.2%</strong>, which is lower compared to developed nations like the <strong>US</strong> and <strong>UK</strong>.</li>\n                <li data-end=\"3580\" data-start=\"3407\"><strong>Challenges:</strong> Low awareness, lack of access in rural areas, and affordability issues.</li>\n                <li data-end=\"3729\" data-start=\"3585\"><strong>Measures:</strong> IRDAI promotes innovative insurance products and digital platforms to improve accessibility.</li>\n        </ul>\n        </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Government Initiatives:</strong>\n        <ul>\n                <li data-end=\"4636\" data-start=\"4411\"><strong>Pradhan Mantri Fasal Bima Yojana (PMFBY):</strong> A scheme aimed at protecting farmers against crop losses due to natural calamities.</li>\n                <li data-end=\"4761\" data-start=\"4641\"><strong>Ayushman Bharat:</strong> A health insurance scheme providing coverage to economically weaker sections of society.</li>\n        </ul>\n        </li>\n        <li><strong>Global Perspective:</strong>\n        <ul>\n                <li data-end=\"5043\" data-start=\"4817\"><strong>Insurance penetration rates:</strong> In developed nations like <strong>Switzerland</strong>, insurance penetration exceeds <strong>10%</strong>, showcasing the importance of focused developmental efforts in emerging markets like India.</li>\n                <li data-end=\"5449\" data-start=\"5264\"><strong>Digital insurance:</strong> Increasing adoption of digital platforms globally highlights the role of technology in expanding insurance penetration.</li>\n        </ul>\n        </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69d6c0085ac4935e6f2a6324",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "NABARD, SIDBI, NHB, EXIM Bank, and similar institutions are often grouped as specialized financial institutions because each performs a targeted role within the broader financial system. NABARD is most closely associated with:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "housing finance and refinancing urban mortgages",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "export credit and overseas buyer&rsquo;s credit",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "agriculture, rural development, and refinancing support to rural credit institutions",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "industrial restructuring and stressed asset acquisition",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "pension fund regulation and retirement savings",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>agriculture, rural development, and refinancing support to rural credit institutions</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li data-end=\"284\" data-start=\"78\"><strong>NABARD (National Bank for Agriculture and Rural Development)</strong> was established in <strong>1982</strong> under the recommendations of the <strong>B. Sivaraman Committee</strong>. It focuses on the <strong>development of agriculture and rural infrastructure</strong>.</li>\n\t<li data-end=\"605\" data-start=\"482\">The primary mandate of NABARD is to provide <strong>credit facilities</strong> to rural sectors, including agriculture, cottage industries, and small-scale businesses.</li>\n\t<li data-end=\"692\" data-start=\"610\">NABARD plays a critical role in <strong>refinancing regional rural banks (RRBs)</strong>, cooperative banks, and other rural financial institutions to ensure the flow of credit to farmers and rural entrepreneurs.&nbsp;<em><span style=\"font-weight: bolder;\">Hence, NABARD is most closely associated with agriculture and rural development.</span></em></li>\n\t<li data-end=\"1041\" data-start=\"850\"><strong>Rural Infrastructure Development Fund (RIDF)</strong>: NABARD manages the RIDF, which provides funds to state governments for rural infrastructure projects like roads, bridges, irrigation systems, and drinking water facilities.</li>\n\t<li data-end=\"1162\" data-start=\"1046\">It supports the <strong>implementation of government schemes</strong> like the <strong>Pradhan Mantri Fasal Bima Yojana</strong> and <strong>Pradhan Mantri Awas Yojana</strong>, ensuring financial inclusion in rural areas.&nbsp;<em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Thus, NABARD aligns with agriculture and rural development.</span></em></li>\n\t<li data-end=\"1560\" data-start=\"1323\">NABARD also facilitates <strong>training programs</strong> and offers technical assistance to rural financial institutions and farmer organizations for capacity building and better financial management.</li>\n\t<li data-end=\"1654\" data-start=\"1565\">The institution&#39;s efforts are aimed at strengthening <strong>self-help groups (SHGs)</strong>, farmer producer organizations (FPOs), and rural enterprises to promote sustainable development.&nbsp;<em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, NABARD is instrumental in rural progress.</span></em></li>\n\t<li data-end=\"1999\" data-start=\"1809\">Through its multiple initiatives and schemes, NABARD ensures <strong>equitable growth</strong> and helps bridge the gap between urban and rural development.&nbsp;<em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Therefore, the correct answer is agriculture, rural development, and refinancing support to rural credit institutions.</span></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Other Specialized Financial Institutions:</strong>\n\n\t<ul>\n\t\t<li data-end=\"2410\" data-start=\"2195\"><strong>SIDBI (Small Industries Development Bank of India):</strong> Established in <strong>1990</strong>, SIDBI focuses on providing financial support to <strong>micro, small, and medium enterprises (MSMEs)</strong> to promote industrial development.</li>\n\t\t<li data-end=\"2684\" data-start=\"2415\"><strong>NHB (National Housing Bank):</strong> Established in <strong>1988</strong>, NHB is dedicated to <strong>housing finance</strong> and works to promote affordable housing and refinance urban mortgages.</li>\n\t\t<li data-end=\"3071\" data-start=\"2865\"><strong>EXIM Bank (Export-Import Bank of India):</strong> Founded in <strong>1982</strong>, EXIM Bank focuses on <strong>export credit</strong>, providing financial assistance to Indian exporters and overseas buyers to boost international trade.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Functions and Features of NABARD:</strong>\n\t<ul>\n\t\t<li data-end=\"3250\" data-start=\"3076\">NABARD operates as the <strong>apex financial institution</strong> for rural development, coordinating with state governments, banks, and NGOs.</li>\n\t\t<li data-end=\"3580\" data-start=\"3407\">It is headquartered in <strong>Mumbai</strong>, Maharashtra, and operates through its regional offices across the country.</li>\n\t\t<li data-end=\"3729\" data-start=\"3585\">NABARD also undertakes <strong>research and studies</strong> to analyze rural challenges and propose innovative solutions.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Key Characteristics of NABARD:</strong>\n\n\t<ul>\n\t\t<li data-end=\"4636\" data-start=\"4411\">NABARD was formed under the <strong>National Bank for Agriculture and Rural Development Act, 1981</strong>, and commenced operations in <strong>1982</strong>.</li>\n\t\t<li data-end=\"4761\" data-start=\"4641\">It primarily focuses on <strong>long-term and short-term credit</strong> for agriculture and rural development activities.</li>\n\t\t<li data-end=\"5043\" data-start=\"4817\">NABARD&#39;s initiatives include promoting <strong>financial inclusion</strong>, supporting innovation in rural enterprises, and ensuring sustainable development.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Impact:</strong>\n\t<ul>\n\t\t<li data-end=\"5259\" data-start=\"5048\">NABARD has played a pivotal role in transforming India&#39;s rural economy by funding key projects and schemes for agriculture and allied sectors.</li>\n\t\t<li data-end=\"5449\" data-start=\"5264\">It has been instrumental in poverty alleviation, capacity building, and enhancing the standard of living in rural areas.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "698b3999bd08011fb86c7fec",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "EXIM Bank’s Lines of Credit (LoCs) extended to foreign governments primarily serve which dual objective of India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Financial inclusion and exports",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Diplomacy and trade promotion",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Monetary stability and growth",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Capital account liberalisation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Infrastructure financing",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"57\" data-start=\"0\">The correct answer is <u><strong>Diplomacy and trade promotion</strong></u>.</p>\n\n<p data-end=\"57\" data-start=\"0\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n        <li data-end=\"284\" data-start=\"78\"><strong>EXIM Bank’s Lines of Credit (LoCs):</strong> The Export-Import Bank of India (EXIM Bank) extends Lines of Credit (LoCs) to foreign governments, financial institutions, and other entities to facilitate bilateral relations and economic cooperation.</li>\n        <li data-end=\"605\" data-start=\"482\">The LoCs serve as a tool to promote <strong>diplomatic ties</strong> by strengthening relationships between India and other nations. This creates goodwill and fosters mutual understanding, enhancing India's global influence.</li>\n        <li data-end=\"692\" data-start=\"610\">Another key objective is <strong>trade promotion</strong>. These LoCs enable recipient countries to import goods, services, and technologies from India, thus boosting Indian exports and contributing to economic growth. <em><span style=\"font-weight: bolder;\">Hence, the correct answer is Diplomacy and trade promotion.</span></em></li>\n        <li data-end=\"1041\" data-start=\"850\"><strong>Mechanism:</strong> Under the LoC framework, EXIM Bank provides concessional loans to foreign entities, which are repaid over a specified period. This helps develop infrastructure and industries in recipient countries while promoting Indian businesses.</li>\n        <li data-end=\"1162\" data-start=\"1046\">The LoCs are aligned with India's foreign policy goals, ensuring that both economic and strategic objectives are met. This includes improving geopolitical alliances and fostering regional cooperation. <em style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Hence, the purpose is twofold: diplomacy and trade promotion.</span></em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n        <li><strong>EXIM Bank Overview:</strong>\n        <ul>\n                <li data-end=\"2410\" data-start=\"2195\">The <strong>Export-Import Bank of India</strong> was established in <strong>1982</strong> under the Export-Import Bank of India Act, 1981. It is headquartered in <strong>Mumbai</strong>.</li>\n                <li data-end=\"2684\" data-start=\"2415\">Its primary objective is to facilitate and promote <strong>India’s international trade</strong> by providing financial assistance to exporters and importers.</li>\n        </ul>\n        </li>\n        <li><strong>Diplomatic Impact of LoCs:</strong>\n        <ul>\n                <li data-end=\"2860\" data-start=\"2735\">The LoCs serve as a strategic tool for <strong>foreign diplomacy</strong>, enabling India to strengthen political and economic alliances with developing nations in <strong>Africa, Latin America, and Asia.</strong></li>\n                <li data-end=\"3071\" data-start=\"2865\">For example, India has extended LoCs to several African nations to support projects in <strong>healthcare, agriculture, and education</strong>, showcasing India's commitment to global development.</li>\n        </ul>\n        </li>\n        <li><strong>Trade Promotion via LoCs:</strong>\n        <ul>\n                <li data-end=\"3250\" data-start=\"3076\">The LoCs encourage recipient countries to source goods and services from Indian companies, thus boosting <strong>export volumes</strong>. Industries like <strong>pharmaceuticals, engineering, and textiles</strong> often benefit from these trade agreements.</li>\n                <li data-end=\"3402\" data-start=\"3301\">This mechanism also helps Indian exporters penetrate new markets and diversify their export base.</li>\n        </ul>\n        </li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n        <li><strong>Characteristics of Other Options:</strong>\n        <ul>\n                <li data-end=\"4636\" data-start=\"4411\"><strong>Option 1: Financial inclusion and exports</strong> – While LoCs indirectly promote exports, their primary goal is diplomacy and trade promotion, not financial inclusion.</li>\n                <li data-end=\"4761\" data-start=\"4641\"><strong>Option 3: Monetary stability and growth</strong> – LoCs do not directly aim to stabilize monetary systems or promote growth; their focus is more on external trade and diplomacy.</li>\n                <li data-end=\"5043\" data-start=\"4817\"><strong>Option 4: Capital account liberalisation</strong> – LoCs are unrelated to liberalizing capital accounts; they serve as a concessional financing instrument for trade and diplomacy.</li>\n                <li data-end=\"5259\" data-start=\"5048\"><strong>Option 5: Infrastructure financing</strong> – LoCs may support infrastructure projects in recipient countries, but this is a secondary objective within the broader goals of diplomacy and trade promotion.</li>\n        </ul>\n        </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "698b3997ec2c59763d519cf6",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "NHB derives its statutory powers mainly from which legislation, distinguishing it from RBI’s general banking regulation framework?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "RBI Act, 1934",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Banking Regulation Act, 1949",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "National Housing Bank Act, 1987",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Companies Act, 2013",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "FEMA, 1999",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p data-end=\"\"57\"\" data-start=\"\"0\"\">The correct answer is <u><strong>National Housing Bank Act, 1987</strong></u>.</p>\n\n<p data-end=\"\"57\"\" data-start=\"\"0\"\"><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li data-end=\"\"284\"\" data-start=\"\"78\"\">The <strong>National Housing Bank (NHB)</strong> derives its statutory powers primarily from the <strong>National Housing Bank Act, 1987</strong>, which provides the legislative framework for its operations.</li>\n    <li data-end=\"\"605\"\" data-start=\"\"482\"\">The <strong>NHB Act, 1987</strong> established the <strong>National Housing Bank</strong> as an apex financial institution for housing finance in <strong>India</strong>. It was aimed at promoting housing finance institutions and ensuring their financial stability.</li>\n    <li data-end=\"\"692\"\" data-start=\"\"610\"\">Unlike the <strong>RBI Act, 1934</strong> or the <strong>Banking Regulation Act, 1949</strong>, which regulate general banking activities, the <strong>NHB Act</strong> specifically caters to the housing finance sector. <em><span style=\"\"font-weight: bolder;\"\">Hence, statement is correct.</span></em></li>\n    <li data-end=\"\"1041\"\" data-start=\"\"850\"\">The Act empowers NHB to supervise, regulate, and promote housing finance companies, ensuring they operate efficiently and contribute to India's housing sector.</li>\n    <li data-end=\"\"1162\"\" data-start=\"\"1046\"\">The <strong>NHB Act</strong> also enables NHB to provide financial assistance to housing finance institutions and address housing shortages in the country. <em style=\"\"color: rgb(33, 37, 41);\"\"><span style=\"\"font-weight: bolder;\"\">Hence, the choice of National Housing Bank Act, 1987 is correct.</span></em></li>\n</ul>\n\n<p><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>National Housing Bank Act, 1987:</strong>\n        <ul>\n            <li data-end=\"\"2410\"\" data-start=\"\"2195\"\">The <strong>NHB Act</strong> was enacted by the Government of India in <strong>1987</strong> with the primary objective of promoting housing finance institutions and supporting housing development.</li>\n            <li data-end=\"\"2684\"\" data-start=\"\"2415\"\">The Act governs the functioning of NHB as the apex housing finance institution in India and provides it with powers to regulate housing finance companies.</li>\n            <li data-end=\"\"2860\"\" data-start=\"\"2735\"\">Under the Act, NHB can provide refinancing facilities to banks and housing finance institutions to ensure the availability of long-term funds for housing projects.</li>\n        </ul>\n    </li>\n    <li><strong>Role of NHB:</strong>\n        <ul>\n            <li data-end=\"\"3071\"\" data-start=\"\"2865\"\">NHB plays a crucial role in regulating and promoting housing finance companies to ensure sustainable housing development in India.</li>\n            <li data-end=\"\"3250\"\" data-start=\"\"3076\"\">It aids in providing affordable housing for all sections of society, including economically weaker sections and low-income groups.</li>\n        </ul>\n    </li>\n    <li><strong>Comparison with other legislations:</strong>\n        <ul>\n            <li data-end=\"\"3402\"\" data-start=\"\"3301\"\"><strong>RBI Act, 1934:</strong> Focuses on the regulation of banking and monetary policy, not specifically on housing finance.</li>\n            <li data-end=\"\"3580\"\" data-start=\"\"3407\"\"><strong>Banking Regulation Act, 1949:</strong> Provides regulation and supervision of commercial banks but does not specifically cater to the housing finance sector.</li>\n            <li data-end=\"\"3729\"\" data-start=\"\"3585\"\"><strong>Companies Act, 2013:</strong> Governs corporate affairs but has no direct relation to housing finance regulation.</li>\n            <li data-end=\"\"3920\"\" data-start=\"\"3734\"\"><strong>FEMA, 1999:</strong> Deals with foreign exchange management and is unrelated to housing finance.</li>\n        </ul>\n    </li>\n</ul>\n\n<p><span style=\"\"display: flex;gap: 6px;align-items: center;\"\"><img height=\"\"26px\"\" src=\"\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\"\" width=\"\"26px\"\" /><strong><span style=\"\"vertical-align: middle;font-size: 21px;\"\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Historical Background:</strong>\n        <ul>\n            <li data-end=\"\"4636\"\" data-start=\"\"4411\"\">The <strong>National Housing Bank</strong> was set up under the <strong>NHB Act, 1987</strong> as part of the government's efforts to address housing finance needs in India.</li>\n            <li data-end=\"\"4761\"\" data-start=\"\"4641\"\">It started functioning on <strong>July 9, 1988</strong> and is headquartered in <strong>New Delhi</strong>.</li>\n        </ul>\n    </li>\n    <li><strong>Key Functions:</strong>\n        <ul>\n            <li data-end=\"\"5043\"\" data-start=\"\"4817\"\">NHB provides financial assistance, refinancing, and guarantees to housing finance institutions.</li>\n            <li data-end=\"\"5259\"\" data-start=\"\"5048\"\">It regulates and promotes housing finance companies to ensure stability and growth in the housing sector.</li>\n            <li data-end=\"\"5449\"\" data-start=\"\"5264\"\">NHB works towards improving credit flow for housing, particularly for weaker sections of society.</li>\n        </ul>\n    </li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "675bd83c393e59c1854862ee",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<strong>Which type of NBFC activities are not eligible for bank credit?</strong>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Investments in shares and debentures",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Factoring activities under the Factoring Regulation Act",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Infrastructure lending",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Equipment leasing",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong><span style=\"color: (33, 37, 41);\">Investments in shares and debentures.</span></strong></u></p>\n\n<p><u><strong><span style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li>Investments in shares and debentures by NBFCs are not eligible for bank credit, except for stock broking companies holding such securities as stock-in-trade.</li>\n\t<li>This restriction reduces speculative exposure and enhances financial discipline.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:04.380Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e571b282f2c7c2176c3c",
+  "title": "General Awareness & Banking Industry Sectional Test 1",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6a2002381b42358c140f21c5",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Who co-chaired the <strong>16th India-Singapore Defence Policy Dialogue</strong> (DPD) on May 28, 2026, alongside India&#39;s Defence Secretary, <strong>Shri Rajesh Kumar Singh</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Mr Ng Eng Hen",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Mr Joseph Leong",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mr Chan Chun Sing",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Mr Lawrence Wong",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Mr Ong Ye Kung",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Mr Joseph Leong</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>16th India-Singapore Defence Policy Dialogue</strong> (DPD) was held in <strong>Singapore</strong> on <strong>May 28, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The dialogue was co-chaired by India&#39;s Defence Secretary <strong>Shri Rajesh Kumar Singh</strong> and Singapore&rsquo;s Permanent Secretary (Defence) <strong>Mr Joseph Leong</strong>.</li>\n\t<li>The meeting involved a comprehensive review of ongoing defence engagements, <strong>military engagements</strong>, and <strong>defence industry collaboration</strong>.</li>\n\t<li>The discussions focused on <strong>capacity building</strong> and regional security issues, aiming to strengthen the <strong>strategic relationship</strong> between the two nations.</li>\n\t<li>Both sides explored expanding cooperation in <strong>niche and emerging domains</strong> such as <strong>cyber security</strong>, <strong>artificial intelligence (AI)</strong>, and <strong>maritime security</strong>.</li>\n\t<li>The correct answer is <strong>Mr Joseph Leong</strong> as he is the designated official who co-led the dialogue from the Singaporean side as per the official release.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The Defence Secretary visited the <strong>Digital Operations Technology Centre</strong> of the <strong>Digital and Intelligence Service</strong> of the Singapore Armed Forces.</li>\n\t<li>This visit aimed to explore the potential for collaboration in <strong>niche and emergent domains of warfare</strong>.</li>\n\t<li>Cooperation within the <strong>ADMM-Plus</strong> (ASEAN Defence Ministers&rsquo; Meeting-Plus) framework and other <strong>ASEAN-led mechanisms</strong> was also appreciated during the dialogue.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>Both countries reiterated their commitment to an <strong>open, inclusive, and rule-based regional security architecture</strong> in the <strong>Indo-Pacific region</strong>.</li>\n\t<li>The dialogue underscored the importance of <strong>innovation-driven partnerships</strong> to address evolving global security challenges.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69fd8eea0e17f80e96a4e775",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the Second Employment Working Group (EWG) Meeting under India&rsquo;s BRICS Presidency 2026:<br />\n<br />\nI. The meeting was held in Hyderabad, Telangana, in May 2026.<br />\nII. It was attended by representatives from BRICS Member States, including Saudi Arabia, Egypt, Ethiopia, Iran, Indonesia, and the United Arab Emirates.<br />\n<br />\nWhich of the statements given above are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Neither I nor II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only I is correct regarding the city",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Only II</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Second Employment Working Group (EWG) Meeting</strong> under <strong>India&rsquo;s BRICS Presidency 2026</strong> successfully concluded in <strong>Thiruvananthapuram, Kerala</strong>.</li>\n\t<li>The gathering advanced discussions on global labour markets, worker welfare, and social security.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement I is incorrect:</strong> The Second EWG Meeting under <strong>India&rsquo;s BRICS Presidency 2026</strong> was held in <strong>Thiruvananthapuram, Kerala</strong>, from <strong>6&ndash;7 May 2026</strong>.</li>\n\t<li><strong>Statement II is correct:</strong> The meeting witnessed participation from a broad spectrum of <strong>BRICS Member States</strong> dealing with labour and employment. The attendees included <strong>Brazil, Russia, India, China, South Africa</strong>, along with <strong>Saudi Arabia, Egypt, Ethiopia, Iran, Indonesia, and the United Arab Emirates</strong>.</li>\n\t<li>The technical inputs were <strong>not</strong> provided by the World Bank and IMF. Instead, they were shared by key international knowledge partners including the <strong>International Labour Organization (ILO)</strong>, the <strong>International Social Security Association (ISSA)</strong>, and the <strong>United Nations Resident Coordinator Office</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The overarching discussions were structured across four priority themes: <strong>Social Protection, Gender Inclusion, Skills and Employability, and Digital Integration</strong>.</li>\n\t<li>The dialogue prioritized leveraging <strong>digital public infrastructure</strong>, supporting <strong>women&#39;s employment</strong>, improving <strong>digital skilling</strong>, and extending services to gig and platform workers.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>This Second Meeting built upon the foundations laid during the <strong>First EWG Meeting held in March 2026</strong>.</li>\n\t<li>The deliverables are expected to be finalized in the upcoming <strong>Third EWG Meeting</strong> and will be adopted at the <strong>BRICS Labour and Employment Ministers&rsquo; Meeting</strong> scheduled for <strong>July 2026</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "66239867a07ce8b2b60447f9",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which of the following is the initiative supported by NITI Aayog, aimed to finance 50,000 electric vehicles for MSMEs?&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ELECTRO",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "EVOLVE",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "EVPURE",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "EVWORLD",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "EVNITI",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>EVOLVE.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>EVOLVE is the initiative supported by NITI Aayog aimed at financing 50,000 electric vehicles for MSMEs.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>EVOLVE is designed to accelerate the adoption of electric vehicles among MSMEs.</li>\n\t<li>The initiative provides financial support and incentives for purchasing electric vehicles.</li>\n\t<li>NITI Aayog collaborates with financial institutions to facilitate affordable financing options.</li>\n\t<li>This initiative aims to promote sustainable transportation and reduce carbon emissions.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "662549230451d1193d128d3c",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p>Which one of the following statements are correct regarding the PM KUSUM Scheme?</p>\n\n<p>1. It seeks to increase the farmers income</p>\n\n<p>2. The scheme comprises of 3- components.</p>\n\n<p>3. It works towards decreasing the environmental pollution.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both 2 &amp; 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both 1 &amp; 2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All 1, 2 and 3&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>All 1, 2 and 3.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>PM KUSUM Scheme aims to increase farmers&#39; income, comprises of 3 components, and works towards decreasing environmental pollution.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The scheme seeks to increase farmers&#39; income by promoting renewable energy sources.</li>\n\t<li>It comprises three components: solar pumps, grid-connected solar power plants, and solarization of agricultural feeders.</li>\n\t<li>The scheme helps reduce environmental pollution by promoting clean energy.</li>\n\t<li>It also aims to reduce the dependence on diesel and grid power for irrigation.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69fd8edf419a82462b51e09b",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which portal has been developed to provide a single-window clearance system for live event permissions according to the 4th Live Events Development Cell meeting?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "India Cine Hub (ICH) portal",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "National Events Management (NEM) portal",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bharat Live Events (BLE) portal",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Central Media and Events (CME) portal",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E-Suvidha Portal",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>India Cine Hub (ICH) portal</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Ministry of Information &amp; Broadcasting (MIB)</strong> hosted the <strong>4th meeting of the Live Events Development Cell (LEDC)</strong> to review the roadmap to position India as a global hub for live events.</li>\n\t<li>During the meeting, it was announced that a single-window clearance system has been developed on the <strong>India Cine Hub (ICH) portal</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Single-Window Clearance:</strong> To ensure faster, transparent, and efficient approvals for live events, a single-window clearance system was explicitly developed on the <strong>India Cine Hub (ICH) portal</strong>.</li>\n\t<li><strong>Adoption by States:</strong> The adoption of the <strong>ICH portal</strong> by various states and Union Territories will facilitate the digitization of the live event permissions process, streamlining operations across the country.</li>\n\t<li>This initiative serves the broader aim of the <strong>Live Events Development Cell (LEDC)</strong> to promote ease of doing business in the media and entertainment sector by minimizing bureaucratic delays.</li>\n\t<li>Therefore, the correct answer is the <strong>India Cine Hub (ICH) portal</strong>, as stated in the news content. The other options are fabricated portals not mentioned in the official statement.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Live Events Development Cell (LEDC):</strong> Set up in <strong>July 2025</strong> under the chairpersonship of the Secretary, MIB, to make India a global hub for live events by <strong>2030</strong>.</li>\n\t<li><strong>Economic Projections:</strong> The organised live events sector is valued at <strong>₹145 billion in 2025</strong> and is projected to grow at <strong>10% to ₹196 billion by 2028</strong>. The LEDC aims to generate <strong>15-20 million additional jobs</strong>.</li>\n\t<li><strong>Model Executive Order:</strong> States and UTs have been actively urged to adopt the \"<strong>Model Executive Order for Streamlining Licensing and Permissions for Live Events in India, 2026</strong>\" by the target date of <strong>31st May 2026</strong>.</li>\n\t<li><strong>Skilling Initiatives:</strong> The <strong>Indian Institute of Mass Communication (IIMC)</strong>, in collaboration with MESC and EEMA, is set to introduce certificate courses to skill professionals in live events.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The 4th LEDC meeting was held on <strong>30th April 2026</strong> at <strong>Vigyan Bhavan</strong>, New Delhi.</li>\n\t<li>The meeting was chaired by <strong>Shri Chanchal Kumar</strong>, Secretary, Ministry of Information and Broadcasting (MIB).</li>\n\t<li>The live events sector has emerged as the highest growth segment within the Indian Media and Entertainment industry.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2002325574fe27fdc3430b",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>Consider the following statements regarding the <strong>LIC&rsquo;s New Jeevan Sathi</strong> joint life insurance savings plans launched in May 2026:</p>\n\n<ol>\n\t<li>Both <strong>Single Premium</strong> and <strong>Limited Premium</strong> versions are <strong>non-par</strong> and <strong>non-market linked</strong> plans.</li>\n\t<li>The <strong>Single Premium</strong> plan offers <strong>guaranteed additions</strong> at the rate of <strong>Rs 70</strong> for every <strong>Rs 1,000</strong> basic sum assured.</li>\n\t<li>The <strong>Limited Premium</strong> plan provides a <strong>premium waiver</strong> on the first death during the premium paying term.</li>\n\t<li>These plans entitle policyholders to <strong>discretionary benefits</strong> like <strong>bonuses</strong> or a <strong>share in surplus</strong>.</li>\n</ol>\n\n<p>Which of the statements given above are correct?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1, 2, and 4",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2, 3, and 4",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1, 2, and 3",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1, 3, and 4",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1, 2, and 3</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Life Insurance Corporation of India (LIC)</strong> has launched two new joint life insurance savings plans: <strong>LIC&rsquo;s New Jeevan Sathi Single Premium</strong> and <strong>LIC&rsquo;s New Jeevan Sathi Limited Premium</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement 1 is correct:</strong> Both plans are <strong>non-par</strong> (non-participating), <strong>non-market linked</strong>, individual life savings plans designed for couples.</li>\n\t<li><strong>Statement 2 is correct:</strong> For the <strong>Single Premium</strong> plan, <strong>guaranteed additions</strong> are provided throughout the policy duration at the rate of <strong>Rs 70</strong> per <strong>Rs 1,000</strong> basic sum assured.</li>\n\t<li><strong>Statement 3 is correct:</strong> The <strong>Limited Premium</strong> plan includes a specific benefit where the <strong>premium is waived</strong> on the first death occurring during the premium paying term.</li>\n\t<li><strong>Statement 4 is incorrect:</strong> As these are <strong>non-par products</strong>, the benefits payable on death or survival are <strong>guaranteed and fixed</strong>. The news explicitly states that the policy is <strong>not entitled</strong> to any <strong>discretionary benefits</strong> like <strong>bonus</strong> or <strong>share in surplus</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>In the <strong>Limited Premium</strong> plan, <strong>guaranteed additions</strong> are provided at the rate of <strong>7%</strong> of the total tabular annual premium.</li>\n\t<li>Both plans offer flexibility to choose risk cover from two <strong>Death Benefit Options</strong>.</li>\n\t<li>Liquidity needs are addressed through <strong>loan facilities</strong> available under both plans.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The plans offer coverage for a <strong>married person and their spouse</strong> under a single policy.</li>\n\t<li>Policyholders have the option to enhance coverage by opting for <strong>rider benefits</strong> on payment of additional premiums.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20023b65047e452bd2b7b2",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "What is the target year set by the Government of India to realize the vision of &lsquo;Housing for All&rsquo; under the Pradhan Mantri Awaas Yojana-Gramin (PMAY-G) as per the recent announcement by the Ministry of Rural Development?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "March 2027",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "March 2030",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "March 2029",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "March 2025",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>March 2029</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Union Minister for Rural Development <strong>Shri Shivraj Singh Chouhan</strong> released a Mother Sanction of <strong>₹10,021.42 crore</strong> to <strong>12 States</strong> under the <strong>Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The vision for <strong>&lsquo;Housing for All&rsquo;</strong> is targeted to be achieved by <strong>March 2029</strong>.</li>\n\t<li>The PMAY-G scheme was launched in <strong>2016</strong> with the goal of ensuring no poor person lives in a kutcha house.</li>\n\t<li>Against a total target of <strong>4.95 crore houses</strong>, approvals for <strong>3.91 crore houses</strong> have been granted.</li>\n\t<li>To date, the construction of more than <strong>3.05 crore houses</strong> has been successfully completed under the scheme.</li>\n\t<li>The <strong>12 states</strong> receiving the sanction include <strong>Assam, Chhattisgarh, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Nearly <strong>75 per cent</strong> of the houses sanctioned under <strong>PMAY-G</strong> are in the name of <strong>women</strong> or under <strong>joint ownership</strong>, promoting women&#39;s empowerment.</li>\n\t<li>The government is focusing on convergence with other welfare schemes to provide amenities like <strong>roads, electricity, drinking water, LPG connections, and toilets</strong>.</li>\n\t<li>A prior Mother Sanction of <strong>₹11,121 crore</strong> was already released for the financial year <strong>2026-27</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The Union Minister urged states to complete house approvals for the <strong>2024-25 and 2025-26</strong> cycles by <strong>30 June 2026</strong>.</li>\n\t<li>Beneficiaries were encouraged to plant a sapling under the <strong>&lsquo;Ek Ped Maa Ke Naam&rsquo;</strong> campaign on <strong>World Environment Day (5 June 2026)</strong>.</li>\n\t<li>The housing target for the <strong>current year</strong> is <strong>three times higher</strong> than the previous year.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20023b9b5a8748bdcb73ae",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "With which organization did the Steel Authority of India Limited (SAIL) sign a Memorandum of Understanding (MoU) in May 2026 to establish &#39;Smart Digital Classrooms&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "National Informatics Centre (NIC)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Bharat Electronics Limited (BEL)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "EdCIL (India) Limited",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "NITI Aayog",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Central Board of Secondary Education (CBSE)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>EdCIL (India) Limited</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>On <strong>26th May, 2026</strong>, <strong>Steel Authority of India Limited (SAIL)</strong> and <strong>EdCIL (India) Limited</strong> signed a Memorandum of Understanding (MoU) to promote inclusive education.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The primary objective of the MoU is to establish <strong>&#39;Smart Digital Classrooms&#39;</strong> in schools located around <strong>SAIL&rsquo;s operational areas</strong>.</li>\n\t<li>This initiative is part of SAIL&rsquo;s <strong>Corporate Social Responsibility (CSR)</strong> activities to enhance learning outcomes and promote <strong>inclusive education</strong>.</li>\n\t<li>The project aligns with the <strong>National Education Policy (NEP) 2020</strong> and the <strong>United Nations&#39; Sustainable Development Goal - 4 (SDG-4)</strong>.</li>\n\t<li>The MoU was signed in the presence of <strong>Shri K. K. Singh</strong>, Director (Personnel), SAIL, along with other senior officials from both organizations.</li>\n\t<li><strong>EdCIL (India) Limited</strong> is a public sector undertaking under the <strong>Ministry of Education</strong>, making it the correct collaborating partner for this educational initiative.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Steel Authority of India Limited (SAIL)</strong> is a <strong>Maharatna company</strong> and is the country&#39;s largest public sector steel producer under the <strong>Ministry of Steel</strong>.</li>\n\t<li><strong>SDG-4</strong> specifically aims to ensure <strong>inclusive, equitable, quality education</strong> and learning opportunities for all.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The collaboration leverages <strong>EdCIL&rsquo;s</strong> expertise in education consultancy and <strong>SAIL&rsquo;s</strong> commitment to community development through <strong>CSR</strong>.</li>\n\t<li>The focus is on schools near <strong>operational areas</strong>, ensuring that the local communities benefit directly from <strong>digital infrastructure</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6618f4bf80d129946db3a3d8",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "What was the initial capital of NABARD when it was established?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "₹100 crores",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "₹200 crores",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "₹500 crores",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "₹1000 crores",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "₹1500 crores",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>₹100 crores</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Initially, <strong>NABARD </strong>was set up with a capital of <strong>₹100 crores</strong>.</li>\n\t<li>This capital contribution was split between the <strong>Government of India</strong> and the <strong>Reserve Bank of India (RBI)</strong>.</li>\n\t<li>The aim was to provide adequate credit for <strong>agriculture and rural development</strong>, showing government commitment to these sectors.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2002380a4e0e6e60211c89",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>With reference to the <strong>12th round of India-Korea Comprehensive Economic Partnership Agreement (IK CEPA)</strong> upgrade negotiations, consider the following statements:</p>\n\n<ol>\n\t<li>The negotiations were held in <strong>New Delhi</strong> from <strong>25 to 27 May 2026</strong>.</li>\n\t<li>The original <strong>IK CEPA</strong> came into force in the year <strong>2010</strong>.</li>\n\t<li>Both countries decided to constitute <strong>sub-groups</strong> to discuss cooperation in <strong>digital trade</strong> and <strong>supply chain cooperation</strong>.</li>\n\t<li>The 12th round of negotiations was co-chaired by Union Minister of Commerce and Industry <strong>Shri Piyush Goyal</strong>.</li>\n</ol>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1 and 4",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1, 2, and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2, 3, and 4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1, 3, and 4",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1, 2, and 3</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>12th round of India-Korea Comprehensive Economic Partnership Agreement (IK CEPA) upgrade negotiations</strong> was held in <strong>New Delhi</strong> from <strong>25&ndash;27 May 2026</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement 1 is correct:</strong> The <strong>12th round of negotiations</strong> took place in <strong>New Delhi</strong> from <strong>25 to 27 May 2026</strong> following a joint declaration signed in April 2026.</li>\n\t<li><strong>Statement 2 is correct:</strong> The news content explicitly mentions that the <strong>IK CEPA came into force in 2010</strong>, and both sides acknowledged the rising bilateral trade deficit since that time.</li>\n\t<li><strong>Statement 3 is correct:</strong> During the round, it was decided to constitute <strong>sub-groups</strong> to expand talks on <strong>digital trade, supply chain cooperation</strong>, and <strong>strategic industrial cooperation</strong>.</li>\n\t<li><strong>Statement 4 is incorrect:</strong> The 12th round of negotiations was co-chaired by <strong>Ms. Kapil Chaudhary</strong> (Joint Secretary, Department of Commerce, India) and <strong>Mr. Park Geun-oh</strong> (Director General for Trade Agreement Policy, South Korea). <strong>Shri Piyush Goyal</strong> and <strong>Mr. Yeo Han-koo</strong> signed the Joint Declaration in April 2026, but they did not co-chair this specific 12th round session.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The negotiations focused on several chapters including <strong>Trade in Goods (TiG)</strong>, <strong>Trade in Services (TiS)</strong>, <strong>Rules of Origin (RoO)</strong>, and <strong>Sanitary and Phytosanitary (SPS)</strong> standards.</li>\n\t<li>The partnership is envisioned as a <strong>\"Futuristic Partnership\"</strong> by Prime Minister <strong>Shri Narendra Modi</strong> and President <strong>Mr. Lee Jae-myung</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The primary objective of the upgrade is to achieve a <strong>modernised and mutually beneficial agreement</strong> that addresses the <strong>trade deficit</strong> and supports balanced bilateral trade.</li>\n\t<li>The talks reflect the commitment to a <strong>future-oriented trade partnership</strong> between <strong>India</strong> and the <strong>Republic of Korea</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60c9fdb06aeb23138cccecd0",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "While making nomination, signature of nominee is required on",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Account Opening Form",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Nomination form",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Affidavit",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>None of these.</strong></u></p>\n\n<ul>\n\t<li>The Nomination Rules in respect of Deposit Accounts provide as under: The nomination to be made by the depositor or, as the case may be, all the depositors together in respect of a deposit held by a co-operative bank to the credit of one or more individuals.</li>\n\t<li>A Nominee is a<strong> person whom you can list in your investment or bank application as the person who can receive the proceeds of your account in case of your unexpected death</strong>. The nominee can be anyone you deem to be your first relative - your parents, spouse, kids, siblings etc.</li>\n\t<li>A nomination in banking terms refers<strong> to an account holder&#39;s right to appoint one or more persons</strong> who are entitled to receive the money in case of the death of the account holder.</li>\n\t<li>The nominee is <strong>authorised to withdraw all the amount that had been left in the account of deceased.</strong> However the other legal heirs can make a claim to the bank for this if the nominee is not ready to share the amount among the legal heirs.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a0ed94bb32684d0ca2b4754",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Who has been appointed as the Executive Director of the Reserve Bank of India (RBI) with effect from May 18, 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Manish Yadav",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Surendra Kumar Jha",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Gunveer Singh",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ravi Shanker",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "M. Rajeshwar Rao",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Gunveer Singh</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>On <strong>May 18, 2026</strong>, the <strong>Reserve Bank of India (RBI)</strong> announced the appointment of <strong>Gunveer Singh</strong> as <strong>Executive Director</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Gunveer Singh</strong> has been elevated to the post of <strong>Executive Director</strong> at the <strong>RBI</strong>.</li>\n\t<li>Prior to this promotion, he was serving as the <strong>Chief General Manager-in-Charge</strong> of the <strong>Department of Payment and Settlement Systems</strong>.</li>\n\t<li>In his new role, he will continue to oversee the <strong>Department of Payment and Settlement Systems</strong>, which regulates India&#39;s payments infrastructure.</li>\n\t<li>He is a qualified <strong>Chartered Accountant</strong> and <strong>Cost and Works Accountant</strong>.</li>\n\t<li><strong>Manish Yadav</strong> and <strong>Surendra Kumar Jha</strong> were appointed to the <strong>Ministry of Heavy Industries</strong> and <strong>BSF</strong> respectively, not the RBI. <strong>Ravi Shanker</strong> was empanelled but not yet appointed as the Executive Director in the specific announcement on May 18.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>RBI</strong> empanelled five senior officers for <strong>Executive Director</strong> posts, including <strong>Monisha Chakraborty</strong>, <strong>Suman Ray</strong>, <strong>Sudhakar Malli</strong>, and <strong>Ravi Shanker</strong>.</li>\n\t<li><strong>Manish Yadav</strong>, a <strong>2016-batch IRS officer</strong>, was appointed as <strong>Deputy Secretary</strong> in the <strong>Ministry of Heavy Industries</strong> for a four-year tenure.</li>\n\t<li><strong>Surendra Kumar Jha</strong> was appointed as <strong>Deputy Inspector General (DIG)</strong> in the <strong>Border Security Force (BSF)</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The appointments reflect the government&#39;s focus on placing <strong>experienced professionals</strong> in regulatory and security roles.</li>\n\t<li><strong>Gunveer Singh</strong> brings extensive expertise in <strong>banking regulation</strong> and <strong>financial systems</strong> to his new role.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a19395d67d4adfe32898204",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Which city has been approved by FIFA to serve as the relocated training base camp for the Iranian national team during the 2026 FIFA World Cup?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "San Diego",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Tijuana",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Tucson",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Istanbul",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Shiraz",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Tijuana</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>FIFA</strong> has officially approved the request from the <strong>Football Federation Islamic Republic of Iran</strong> to move its <strong>2026 World Cup</strong> base camp from the <strong>United States</strong> to <strong>Mexico</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Relocation Details:</strong> The Iranian team will now be based in <strong>Tijuana, Mexico</strong>, instead of their originally planned location in <strong>Tucson, Arizona</strong>.</li>\n\t<li><strong>Reason for Shift:</strong> The move was motivated by <strong>geopolitical sensitivities</strong>, <strong>visa procedures</strong>, and <strong>travel logistics</strong>. Iranian officials believe a Mexican base will simplify entry processes for players and staff.</li>\n\t<li><strong>Strategic Location:</strong> <strong>Tijuana</strong> was chosen due to its proximity to the <strong>US border</strong> and <strong>San Diego</strong>, providing easy access to <strong>California</strong>, where Iran will play two of its group matches.</li>\n\t<li><strong>Matches in USA:</strong> Despite the base camp shift, <strong>Iran</strong> will still play all its <strong>Group G</strong> fixtures in the <strong>United States</strong>, specifically at <strong>SoFi Stadium</strong> (Inglewood) and <strong>Lumen Field</strong> (Seattle).</li>\n\t<li><strong>Other Options:</strong> <strong>Tucson</strong> was the original planned base; <strong>Istanbul</strong> was the location where discussions with FIFA took place; <strong>San Diego</strong> is a nearby US city but not the site of the base camp.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>2026 FIFA World Cup</strong> will be jointly hosted by the <strong>United States, Canada, and Mexico</strong> from <strong>June 11 to July 19</strong>.</li>\n\t<li><strong>Team Melli</strong> (Iran) is making its <strong>fourth consecutive</strong> and <strong>seventh overall</strong> appearance in the World Cup.</li>\n\t<li>Iran&#39;s group stage opponents include <strong>New Zealand</strong>, <strong>Belgium</strong>, and <strong>Egypt</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The decision was confirmed by <strong>Mehdi Taj</strong>, the chief of the Iranian football federation, following meetings with the <strong>FIFA Secretary General</strong>.</li>\n\t<li>The <strong>Tijuana</strong> base is fully equipped with training facilities, a gym, and a private restaurant dedicated to the team.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a070acee36bbd77c1614cbc",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "With which country did India sign 8 Memorandums of Understanding (MoUs) across sectors like tourism and healthcare during EAM Dr. S. Jaishankar&#39;s visit in May 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Guyana",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Trinidad and Tobago",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mauritius",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Fiji",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Barbados",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Trinidad and Tobago</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>India</strong> and <strong>Trinidad and Tobago</strong> signed <strong>8 MoUs</strong> spanning tourism, healthcare, and more during External Affairs Minister <strong>Dr. S. Jaishankar&#39;s</strong> visit in May 2026.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The primary focus of the <strong>8 MoUs</strong> signed is to boost cooperation in sectors such as <strong>tourism</strong>, <strong>healthcare</strong>, <strong>infrastructure</strong>, <strong>security</strong>, <strong>forensics</strong>, and <strong>capacity building</strong>.</li>\n\t<li>The agreements were formalized during the official visit of <strong>External Affairs Minister (EAM) Dr. S. Jaishankar</strong> to <strong>Trinidad and Tobago</strong>.</li>\n\t<li>The extensive discussions aim to strengthen the bilateral relationship and explore mutual avenues of development between the two nations.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>During the visit, <strong>Dr. S. Jaishankar</strong> travelled with <strong>PM Kamla Persad-Bissessar</strong> to commemorate historical ties.</li>\n\t<li>They visited <strong>Nelson Island</strong>, a location holding immense historical significance as the place where the <strong>Girmitiyas</strong> (indentured laborers from India) first arrived.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Key Entities:</strong> <strong>Dr. S. Jaishankar</strong> (EAM of India) and <strong>Kamla Persad-Bissessar</strong> (PM of Trinidad and Tobago).</li>\n\t<li><strong>Key Heritage Site:</strong> <strong>Nelson Island</strong>, known for the arrival of the <strong>Girmitiyas</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "66239f7d0e105235542e64b4",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "As per Foreign Trade Policy 2023, towns that produces goods worth at least ______ can be recognized as towns of export excellence, based on their growth potential for exports.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 850 Crore&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs 750 Crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs 650 Crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 550 Crore&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs 450 Crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs 750 Crore.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Foreign Trade Policy 2023 includes provisions for recognizing towns as towns of export excellence based on their growth potential for exports.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The Foreign Trade Policy 2023 aims to boost export potential by recognizing towns that produce goods worth at least Rs 750 Crore.</li>\n\t<li>This recognition helps these towns receive financial and technical assistance to enhance their export capabilities.</li>\n\t<li>The policy encourages the development of infrastructure and market access for these towns.</li>\n\t<li>This initiative is expected to increase India&#39;s overall export performance by fostering regional growth centers</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a19382495766bbc15729f47",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "To what percentage has US-based Liberty Mutual Insurance increased its shareholding in its Indian arm, Liberty General Insurance Limited (LGI)?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "49 per cent",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "55.40 per cent",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "74 per cent",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "100 per cent",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "51 per cent",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>74 per cent</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>US-based <strong>Liberty Mutual Insurance</strong> has announced an increase in its stake in its Indian venture, <strong>Liberty General Insurance Limited (LGI)</strong>, to <strong>74 per cent</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Liberty Mutual Insurance</strong> increased its shareholding from a previous level of <strong>55.40 per cent</strong> to <strong>74 per cent</strong> in <strong>May 2026</strong>.</li>\n\t<li>The company had earlier raised its stake from <strong>49 per cent</strong> to <strong>55.40 per cent</strong> in <strong>September 2025</strong>.</li>\n\t<li>This strategic move follows the Indian government&#39;s policy change in December 2025, which allowed up to <strong>100 per cent foreign direct investment (FDI)</strong> in the insurance sector.</li>\n\t<li>The increased backing is intended to help <strong>Liberty General Insurance</strong> expand its <strong>distribution footprint</strong> and strengthen its presence in both <strong>retail and commercial line segments</strong>.</li>\n\t<li><strong>Parag Ved</strong>, the CEO and Whole-Time Director of <strong>Liberty General Insurance</strong>, highlighted that the focus remains on advancing <strong>insurance penetration</strong> in India.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Liberty Mutual Insurance Group</strong> is a major global player, ranked <strong>91st</strong> among <strong>Fortune 500</strong> companies.</li>\n\t<li>It is the <strong>9th-largest property and casualty (P&amp;C) insurer</strong> globally.</li>\n\t<li>As of 2025, the group held <strong>USD 178.2 billion</strong> in assets and reported <strong>USD 50.5 billion</strong> in revenue.</li>\n\t<li><strong>Matthew Jackson</strong> serves as the President of <strong>Liberty International Insurance APAC</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The <strong>74 per cent</strong> stake represents <strong>Liberty Mutual&#39;s</strong> deepening commitment to the fast-growing Indian insurance market.</li>\n\t<li>The development underscores the impact of liberalized <strong>FDI norms</strong> in the Indian <strong>financial services</strong> landscape.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "662397a92c64a98fad072b79",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "Which of the following institutes celebrate their foundation day on 1<sup>st</sup> July?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Indian Space Research Organisation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Institute of Chartered Accountants of India",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Defence Research and Development Organisation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Border Roads Organisation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "NITI Aayog",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Institute of Chartered Accountants of India</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Institute of Chartered Accountants of India (ICAI) celebrates its foundation day on 1st July.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><span style=\"color: (40, 43, 50);  \">ICAI is the national professional accounting body of India, established to regulate the profession of Chartered Accountancy in the country.</span></li>\n\t<li><span style=\"color: (40, 43, 50);  \">The institute plays a crucial role in the development and standardization of accounting practices in India.</span></li>\n</ul>\n\n<p><span style=\"color: (40, 43, 50);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><strong><span style=\"color: (33, 37, 41);\">Institute of Chartered Accountants of India (ICAI)</span></strong></u>\n\n\t<ul>\n\t\t<li><span style=\"color: (33, 37, 41);\">ICAI was established on 1st July 1949, under the Chartered Accountants Act, 1949.</span></li>\n\t\t<li><span style=\"color: (33, 37, 41);\">It is responsible for setting accounting standards and conducting the CA examination in India.</span></li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Role and Responsibilities</span></u>\n\t<ul>\n\t\t<li><span style=\"color: (33, 37, 41);\">ICAI provides education and training to aspiring Chartered Accountants and ensures the adherence to high ethical and professional standards.</span></li>\n\t\t<li><span style=\"color: (33, 37, 41);\">The institute also conducts research and advises the government on matters related to accounting and finance.</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "66239f320e105235542e5800",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "The Basic Statistical Returns (BSR) Code is a seven-digit code that is provided to the registered banks by the RBI. The first three digits in the code identify the bank, while the following four digits identify the bank branch. India&rsquo;s Basic Statistical Returns (BSR) system recently completed _________ since its inception.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "10 years&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20 years&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "50 years",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25 years",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "75 years",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>50 years.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Basic Statistical Returns (BSR) system in India recently completed 50 years since its inception.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The BSR Code is a seven-digit code provided to registered banks by the RBI.</li>\n\t<li>The first three digits in the code identify the bank, while the following four digits identify the bank branch.</li>\n\t<li>The BSR system collects and compiles statistical data from banks for various analyses.</li>\n\t<li>The system has played a significant role in the development of banking statistics in India over the past 50 years.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6027d6bbbfd380d40fb4ede2",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "In Which of the following conditions bank should not make any payment of cheque-",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Death of Drawer",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Company in liquidation",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Insolvent drawers",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Insane customers",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong>All of the above</strong></u>.</p>\n\n<p><u><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></u></p>\n\n<ul>\n\t<li><strong>Section 6- Cheque</strong>\n\n\t<ul>\n\t\t<li>A cheque is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand and it includes the electronic image of a truncated cheque and a cheque in the electronic form.</li>\n\t</ul>\n\t</li>\n\t<li><strong>The bank should not make payment of cheque, in the following condition-</strong>\n\t<ul>\n\t\t<li>Death of Drawer</li>\n\t\t<li>Company in liquidation</li>\n\t\t<li>Insane customers</li>\n\t\t<li>Insolvent drawers</li>\n\t\t<li>Countermanding</li>\n\t\t<li>Post-dated cheque</li>\n\t\t<li>Insufficient balance/funds</li>\n\t\t<li>Materially altered</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "664606100cd4baed5c33ca3e",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "What is the meaning of alphabet \"M\" in AMFI?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Managers",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Managerial",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mutual",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Multinational",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Monetary",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Mutual.</strong></u></p>\n\n<ul>\n\t<li><b style=\"padding: 0px; margin: 0px;   \">Association of Mutual Funds in India&nbsp;</b><span style=\"  \">(<strong>AMFI</strong>) is dedicated to developing the <strong>Indian Mutual Fund Industry</strong> on professional, healthy, and ethical lines and to enhance and<strong> maintain standards</strong> in all areas with a view to protecting and promoting the interests of mutual funds and their<strong> unitholders.</strong></span></li>\n\t<li><span style=\"  \">AMFI is the association of all the Asset Management Companies of <strong>SEBI </strong>registered mutual funds in India, was incorporated on August 22, 1995, as a non-profit organization.</span></li>\n\t<li><strong>Navneet Munot</strong>&nbsp;is the current <strong>Chairman of the AMFI.</strong></li>\n</ul>\n\n<p style=\"\"><u style=\"\"><span style=\"font-weight: 700;\">About SEBI</span></u><u style=\"\"><span style=\"font-weight: 700;\"> -&nbsp;</span></u></p>\n\n<ul style=\"\">\n\t<li style=\"\">The Securities and Exchange Board of India was established on April 12, <strong>1992</strong>, in accordance with the provisions of the Securities and Exchange Board of India Act, 1992.</li>\n\t<li style=\"\">Its headquarters is in <strong>Mumbai</strong>.</li>\n\t<li style=\"text-align: justify;\"><strong><span style=\"\">Tuhin Kanta Pandey</span></strong>&nbsp;is the current chairman of SEBI.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "59cba9e376a2cf2698fae5ca",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "<p>Which of the following is introduced by banks to increase financial inclusion?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Stimulus package",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Internet banking",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Business correspondent",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Corporate banking",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>A business correspondent is a bank-in-person, who is authorised to collect small ticket deposits and extend small credit on behalf of the banks. Business correspondents are an important medium of promoting financial inclusion in rural and backward regions, with limited availability of bank branches.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a200239f34330b07cff1501",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "Within what timeframe is the high-level committee on demographic change expected to submit its report to the government?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Two years",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Six months",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "One year",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Three years",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Eighteen months",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>One year</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li>Union Home Minister and Minister of Cooperation <strong>Shri Amit Shah</strong> announced the constitution of a high-level committee on <strong>demographic change</strong> during his visit to <strong>Gandhinagar, Gujarat</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The high-level committee was constituted by the <strong>Modi Government</strong> to address <strong>artificial demographic changes</strong> occurring across the country.</li>\n\t<li>The committee&#39;s mandate includes conducting a comprehensive study of the <strong>reasons</strong> behind these changes and recommending <strong>preventive measures</strong>.</li>\n\t<li>According to the official statement, the committee will submit its report within <strong>one year</strong>.</li>\n\t<li>The other options provided (<strong>Two years</strong>, <strong>Six months</strong>, and <strong>Three years</strong>) are incorrect as they do not align with the timeframe explicitly mentioned in the news content.</li>\n\t<li>If required, the committee will also make recommendations for <strong>enacting laws</strong> to prevent such demographic shifts.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Union Home Minister <strong>Amit Shah</strong> inaugurated development projects worth <strong>₹340 crore</strong> in the <strong>Kalol</strong> and <strong>Gandhinagar (North)</strong> constituencies.</li>\n\t<li>In the last 10 days, projects worth <strong>₹1,200 crore</strong> have been initiated in two Assembly constituencies of the Gandhinagar district.</li>\n\t<li>Tributes were paid to <strong>Veer Savarkar</strong> on his birth anniversary, highlighting his book <strong>The Indian War of Independence 1857</strong> and his establishment of the <strong>Patit Pavan Mandir</strong>.</li>\n\t<li>The government stated its priority is <strong>fencing</strong> and <strong>anti-infiltration infrastructure</strong> along the borders.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The West Bengal government provided <strong>600 hectares</strong> of land for border fencing within 7 days.</li>\n\t<li><strong>121 hectares</strong> of land for the <strong>Chicken&rsquo;s Neck Corridor</strong> has also been handed over to the Government of India.</li>\n\t<li>The <strong>Gujarat model of development</strong> has been expanded to <strong>80%</strong> of the country&rsquo;s geographical area over 12 years.</li>\n\t<li>The government aims to identify and <strong>deport infiltrators</strong> who do not return voluntarily.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2002338d3cef054283ac53",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "Which fintech company recently received in-principle approval from the Reserve Bank of India (RBI) for a Payment Aggregator-Physical (PA-P) licence to expand into offline merchant payments?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "BharatPe",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "One Mobikwik Systems",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Paytm Payments Bank",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Razorpay Software",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "PhonePe Private Limited",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>One Mobikwik Systems</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>One Mobikwik Systems</strong>, the parent company of <strong>Mobikwik</strong>, has secured in-principle approval from the <strong>Reserve Bank of India (RBI)</strong> for a <strong>Payment Aggregator-Physical (PA-P)</strong> licence.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>PA-P Licence Approval:</strong> The RBI&#39;s in-principle approval allows Mobikwik to facilitate <strong>offline merchant payments</strong> across India. This move is aimed at strengthening the company&#39;s presence in the physical payment space.</li>\n\t<li><strong>Strategic Growth:</strong> According to CEO <strong>Bipin Preet Singh</strong>, this approval sets the company up for <strong>10x growth</strong> in its merchant business by <strong>FY28</strong>.</li>\n\t<li><strong>Under-penetrated Markets:</strong> The company plans to leverage this licence to scale merchant payments infrastructure, particularly in <strong>under-penetrated markets</strong> beyond urban India.</li>\n\t<li><strong>Offline Advantage:</strong> Mobikwik highlighted that offline acquiring offers better <strong>Merchant Discount Rate (MDR)</strong> opportunities, subscriptions, and <strong>device rental economics</strong> compared to consumer payments.</li>\n\t<li><strong>Recent Licences:</strong> This approval follows the company securing a <strong>Non-Banking Financial Company (NBFC)</strong> licence from the RBI just a month prior.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Current Reach:</strong> Mobikwik currently supports approximately <strong>4.9 million merchants</strong> through UPI QR codes, <strong>soundboxes</strong>, and <strong>EDC (card payment) machines</strong> as a technology enabler.</li>\n\t<li><strong>Financial Performance:</strong> For <strong>Q4 FY26</strong>, Mobikwik reported a <strong>net profit of Rs 4.38 crore</strong>, a significant turnaround from a net loss of Rs 56 crore in the same period the previous year.</li>\n\t<li><strong>Market Opportunity:</strong> Consulting firm <strong>Redseer</strong> estimates the <strong>Gross Merchandise Value (GMV)</strong> of the merchant payments opportunity to be <strong>$1.8-2 trillion by FY28</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>One Mobikwik Systems</strong> is the entity that received the <strong>PA-P licence</strong>.</li>\n\t<li>The company&#39;s revenue from operations rose <strong>8% on-year</strong> to <strong>Rs 289 crore</strong> in Q4 FY26.</li>\n\t<li>The expansion focus for the next <strong>18-24 months</strong> includes <strong>small businesses</strong>, <strong>organised retail</strong>, and <strong>fuel outlets</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a20023ca28fc02cfd105163",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "Who was the first chairman of the Competition Commission of India (CCI) who recently passed away following a fire incident at his residence in Delhi?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ashok Chawla",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Dhanendra Kumar",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Amitabh Kant",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rajiv Kumar",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Ashok Kumar Gupta",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Dhanendra Kumar</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Dhanendra Kumar</strong>, a former bureaucrat and the <strong>first chairman</strong> of the <strong>Competition Commission of India (CCI)</strong>, passed away after a fire broke out at his residence in <strong>Hauz Khas</strong>, South Delhi.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Dhanendra Kumar</strong> was a distinguished <strong>1968-batch IAS officer</strong> of the <strong>Haryana cadre</strong>.</li>\n\t<li>He served as the <strong>first chairman</strong> of the <strong>Competition Commission of India (CCI)</strong>, playing a pivotal role in the organization&#39;s early years.</li>\n\t<li>The incident occurred at his <strong>Hauz Khas Enclave</strong> residence, where a fire, suspected to have been caused by an <strong>air-conditioner (AC) unit blast</strong>, led to his death due to <strong>smoke inhalation</strong>.</li>\n\t<li>The blaze was reported to the <strong>Delhi Fire Services</strong> at 11:24 pm and was brought under control by 12:20 am.</li>\n\t<li>While Kumar succumbed to his injuries during treatment at the <strong>AIIMS Trauma Centre</strong>, his son sustained injuries but is reported to be out of danger.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Beyond his role at the <strong>CCI</strong>, Kumar represented India as an <strong>Executive Director</strong> at the <strong>World Bank</strong>.</li>\n\t<li>He also held significant administrative positions including <strong>Chairman and Managing Director</strong> of the <strong>Haryana State Industrial Development Corporation (HSIDC)</strong>.</li>\n\t<li>He served as the <strong>Principal Secretary</strong> to the <strong>Haryana Chief Minister</strong> during his administrative career.</li>\n\t<li>He was recognized as an <strong>author</strong> and a <strong>public policy expert</strong> in his post-bureaucratic life.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>A <strong>crime team</strong> and electrical inspectors are investigating the exact cause, though <strong>no foul play</strong> is currently suspected.</li>\n\t<li>The fire affected domestic articles on the ground floor and wooden structures on the first floor of the building.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6a2002377e6546b3d3d465b0",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "According to the notification issued by the Ministry of Finance, what is the rate of duty prescribed for the export of <strong>diesel</strong> for the fortnight starting <strong>1st June, 2026</strong>?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 1.5 per litre",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs 9.5 per litre",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs 13.5 per litre",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 16.0 per litre",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs 18.5 per litre",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs 13.5 per litre</strong></u></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p><ul><li>The <strong>Ministry of Finance</strong> has notified the revised export levies on <strong>petrol, diesel, and aviation turbine fuel (ATF)</strong> for the fortnight beginning <strong>1st June, 2026</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p><ul><li><strong>Diesel Export Duty:</strong> The rate of duty for the export of diesel is notified as <strong>Rs 13.5 per litre</strong>. This comprises a Special Additional Excise Duty (<strong>SAED</strong>) of <strong>Rs 13.5</strong> and a Road and Infrastructure Cess (<strong>RIC</strong>) of <strong>Nil</strong>.</li><li><strong>Petrol Export Duty:</strong> The duty for petrol exports is set at <strong>Rs 1.5 per litre</strong> (SAED- Rs 1.5; RIC- Nil).</li><li><strong>ATF Export Duty:</strong> The duty for Aviation Turbine Fuel is set at <strong>Rs 9.5 per litre</strong> (SAED only).</li><li>The government clarified that there is <strong>no change</strong> in the existing excise duty rates on petrol and diesel cleared for <strong>domestic consumption</strong>.</li></ul><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><ul><li>These export levies were originally introduced on <strong>27th March, 2026</strong>, to ensure the availability of petroleum products within India.</li><li>The move was a response to the <strong>West Asia crises</strong>, aimed at disincentivising exports to protect the domestic supply chain.</li><li>The previous revision of these rates was undertaken with effect from <strong>16th May, 2026</strong>.</li></ul><p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p><ul><li>The levies are revised on a <strong>fortnightly basis</strong> to align with the <strong>average international prices</strong> of crude oil and refined products.</li><li>The objective of such duties is to manage the domestic energy security by controlling the outflow of essential fuels.</li></ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:21.031Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

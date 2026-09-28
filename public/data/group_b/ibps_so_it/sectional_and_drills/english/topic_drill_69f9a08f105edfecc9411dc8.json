@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a08f105edfecc9411dc8",
+  "title": "CT 20: English Language (Fill In The Blanks - Grammar - 2)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "60f57fc1d967551ad64e8c76",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blank with the correct option</strong></p>\n\n<p>The teacher asked the student if the homework she ______&nbsp;got completed. otherwise, she will call their parents for a meeting.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "had given",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "gave",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "is given",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "was given",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "is giving",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<strong>&nbsp;option 1 i.e. had given.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>If a<span style=\"font-weight: 700;\">&nbsp;principal clause</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">past&nbsp;</span>tense then the&nbsp;<span style=\"font-weight: 700;\">dependent&nbsp;</span>clause will also be in the&nbsp;<span style=\"font-weight: 700;\">past&nbsp;</span>tense.</li>\n\t<li>The above sentence is in the past tense, thus the dependent clause will be in<span style=\"font-weight: 700;\">&nbsp;past perfect.</span></li>\n\t<li>The structure of&nbsp;<span style=\"font-weight: 700;\">past perfect tense is- sub + had +V3 (past participle) + object.</span></li>\n\t<li>In the above sentence, the homework is already given&nbsp;that&nbsp;the teacher&nbsp;is asking the student.</li>\n</ul>\n\n<p><strong>Correct answer -&nbsp;</strong><em>The teacher asked the student if the homework&nbsp;she<strong> had given </strong>got completed.</em>&nbsp;otherwise, she will call their parents for a meeting.<span id=\"docs-internal-guid-a0631bfa-7fff-74c5-d42b-e6a6919833f5\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:20px;height:20px;\"><img height=\"20\" src=\"https://lh4.googleusercontent.com/NrgPjv3pok5EMtHAQUkp1j280dIK8nFlSQOuqf4-x5sZt8BoPjKewQTh3fxMHLX5WaVyJp99lUPZHdzzMCwxS9b2qmQHatpk8HOjCii947xJo-vFeSAPNJu6-LHK57kuNcHwGwuY\" style=\"margin-left:0px;margin-top:0px;\" width=\"20\" /></span></span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><span style=\"white-space: pre-wrap;\">Simple past tense is used when the subject is narrating about recent past</span></li>\n\t<li><span style=\"white-space: pre-wrap;\">Perfect past tense is used when Subject is narrating about the thing which has not happened in the recent past.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60f56c0fb464bb9e10ae4956",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with Correct Option</strong></p>\n\n<p>They ______ to collect funds for their new startup which is being planned and enacted with the help of various financial advisers.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "has began",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "have began",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "has begun",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "have begun",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "is began",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is o<strong>ption 4 i.e. have begun.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The&nbsp;third form of the verb&nbsp;is used with&nbsp;<strong>has/have.</strong></li>\n\t<li>has&nbsp;is used for the&nbsp;singular&nbsp;subject while&nbsp;<strong>have&nbsp;</strong>is used for the&nbsp;plural&nbsp;subject.</li>\n\t<li><strong>Begun</strong>&nbsp;is the third form of&nbsp;Begin. It is&nbsp;used in the&nbsp;<strong>present perfect tense</strong>&nbsp;with the helping verb <strong>has/have.</strong></li>\n\t<li>In the above sentence, the start-up is planned, and the subject has started collecting&nbsp;the funds&nbsp;in the past and is continuing it.</li>\n</ul>\n\n<p><strong>Correct&nbsp;sentence</strong>-&nbsp;<em>They&nbsp;<strong>have begun</strong> to collect funds for their new start-up which is being planned&nbsp;</em>and enacted with the help of various financial advisers<em>.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>First</strong> verb form - Begin</li>\n\t<li><strong>second</strong> verb Form - Began</li>\n\t<li><strong>Third </strong>Verb From - Begun</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "606998182405a57c9f898f89",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: Pick out the most appropriate word from the words given below each sentence to complete it meaningfully.</span></p>\n\n<p>I read an ______ book.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "interested",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "interests",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "interesting",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "interest",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "none of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<strong>interesting</strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The explanation is as follows:</p>\n\n<ul>\n\t<li>The word book is a<strong>&nbsp;noun.</strong></li>\n\t<li>The word preceding the noun is usually&nbsp;<strong>an adjective.</strong></li>\n\t<li>Adjectives are sometimes formed using<strong>&nbsp;\"-ing\".</strong></li>\n\t<li>Hence, the third option is an&nbsp;<strong>adjective.</strong></li>\n</ul>\n\n<p>Hence, the&nbsp;<strong>correct sentence</strong>&nbsp;is<em>&nbsp;I read an<strong>&nbsp;interesting</strong>&nbsp;book.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>List of Adjectives ending in&nbsp;&nbsp;<strong>&#39;-ING&#39;</strong>.</p>\n\n<ul>\n\t<li>Alarmed - Alarming.</li>\n\t<li>Aggravated - Aggravating.</li>\n\t<li>Amused - Amusing.</li>\n\t<li>Annoyed - Annoying.</li>\n\t<li>Astonished - Astonishing.</li>\n\t<li>Astounded - Astounding.</li>\n\t<li>Bored - Boring.</li>\n\t<li>Captivated - Captivating.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "606997513c91d6d4dba8107a",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: Pick out the most appropriate word from the words given below each sentence to complete it meaningfully.</span></p>\n\n<p>Her experience in ______ will be beneficial.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "interviewing",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "interview",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "interviewed",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "interviewer",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "interviews",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div>\n<p>The correct answer is<strong>&nbsp;interviewing.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The explanation is as follows:</p>\n\n<ul>\n\t<li>The word&nbsp;<strong>&#39;in&#39;</strong>&nbsp;is a preposition.</li>\n\t<li>Generally, the &#39;<strong>-ing&#39;&nbsp;</strong>form is used after a<strong>&nbsp;preposition.&nbsp;</strong></li>\n</ul>\n\n<p>Hence, the&nbsp;<strong>correct sentence</strong>&nbsp;is&nbsp;<em>Her experience in&nbsp;<strong>interviewing</strong>&nbsp;will be beneficial.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p><strong>Prepositions:</strong></p>\n\n<ul>\n\t<li>A preposition usually precedes&nbsp;<strong>a noun or a pronoun.</strong></li>\n\t<li>Some commonly used&nbsp;<strong>prepositions</strong>&nbsp;are:\n\t<ul>\n\t\t<li>above, across, against, along, among, around, at, etc.</li>\n\t\t<li>before, behind, below, beneath, beside, between, by, etc.</li>\n\t\t<li>down, from, in, into, near, of, off, on, to, etc.</li>\n\t\t<li>toward, under, upon, with, and within, etc.</li>\n\t</ul>\n\t</li>\n</ul>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "6069979e58cec77f5580ba74",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: Pick out the most appropriate word from the words given below each sentence to complete it meaningfully.</span></p>\n\n<p>He is bad at ______ appointments.&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "remembering&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "remember",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "remembered",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "remembers",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "none of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div>\n<p>The correct answer is&nbsp;<strong>remembering.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The explanation is as follows:</p>\n\n<ul>\n\t<li>The word at before the blank is a preposition.</li>\n\t<li>Generally, the \"-ing\" form is used after a preposition.</li>\n</ul>\n\n<p>Hence, the&nbsp;<strong>correct sentence</strong>&nbsp;is<em>&nbsp;He is bad at<strong>&nbsp;remembering</strong>&nbsp;appointments.&nbsp;</em>&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p><strong>Prepositions:</strong></p>\n\n<ul>\n\t<li>A preposition usually precedes&nbsp;<strong>a noun or a pronoun.</strong></li>\n\t<li>Some commonly used&nbsp;<strong>prepositions</strong>&nbsp;are:\n\t<ul>\n\t\t<li>above, across, against, along, among, around, at, etc.</li>\n\t\t<li>before, behind, below, beneath, beside, between, by, etc.</li>\n\t\t<li>down, from, in, into, near, of, off, on, to, etc.</li>\n\t\t<li>toward, under, upon, with and within, etc.</li>\n\t</ul>\n\t</li>\n</ul>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "606999191ad8005de96a1d46",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><strong>Direction: Pick out the most appropriate word from the words given below each sentence to complete it meaningfully.</strong></p>\n\n<p>The pencils ________ on the desk belong to the professor.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "sat",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "sit",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "sitting&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "sits",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "none of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div>The correct answer is&nbsp;<strong>sitting.</strong></div>\n\n<div><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></div>\n\n<div>The explanation is as follows:</div>\n\n<ul>\n\t<li>The given sentence is a <strong>reduced relative clause</strong> of&nbsp;<em>The pencils that are sitting on the desk belong to the professor.</em></li>\n\t<li>The verb in &#39;-ing&#39;&nbsp;form is sometimes used to include additional information in a sentence in a reduced relative clause.&nbsp;</li>\n\t<li>The third option is of the<strong> &#39;-ing&#39;&nbsp;</strong>form.</li>\n</ul>\n\n<div>Hence, the&nbsp;<span style=\"font-weight: 700;\">correct sentence</span>&nbsp;is&nbsp;<em>The pencils <strong>sitting</strong></em>&nbsp;<em>on the desk belong&nbsp;to the professor.&nbsp;</em></div>\n\n<div><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</div>\n\n<div>Let us understand reduced relative clause:</div>\n\n<ul>\n\t<li>Reduced relative clauses refer to the<strong> shortening of a relative clause.</strong></li>\n\t<li>This relative clause <strong>modifies the subject </strong>of the&nbsp;sentence.</li>\n\t<li>Reduced relative clauses do not modify&nbsp;the object of a sentence.</li>\n\t<li>Relative clauses are also known as <strong>adjective clauses</strong> as they&nbsp;modify nouns.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "606998609d060968b419e74b",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: Pick out the most appropriate word from the words given below each sentence to complete it meaningfully.</span></p>\n\n<p>The______dog was annoying.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "barked",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "barks",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "bark",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "barking&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "none of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div>\n<p>The correct answer is<strong>&nbsp;barking.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The explanation is as follows:</p>\n\n<ul>\n\t<li>The word dog is a<strong>&nbsp;noun.</strong></li>\n\t<li>The word preceding it should be an&nbsp;<strong>adjective</strong>.</li>\n\t<li>Adjectives are sometimes formed using \"-<strong>ing</strong>\".&nbsp;</li>\n\t<li>Hence, the&nbsp;fourth option is an<strong>&nbsp;adjective</strong>.</li>\n</ul>\n\n<p>Hence, the&nbsp;<strong>correct sentence</strong>&nbsp;is&nbsp;<em>The&nbsp;<strong>barking&nbsp;</strong>dog was annoying.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>List of Adjectives ending in<strong>&nbsp;&#39;-ING&#39;:&nbsp;</strong></p>\n\n<ul>\n\t<li>Alarmed - Alarming.</li>\n\t<li>Aggravated - Aggravating.</li>\n\t<li>Amused - Amusing.</li>\n\t<li>Annoyed - Annoying.</li>\n\t<li>Astonished - Astonishing.</li>\n\t<li>Astounded - Astounding.</li>\n\t<li>Bored - Boring.</li>\n\t<li>Captivated - Captivating.&nbsp;</li>\n</ul>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "606997d630d2b0cdbf41fb8c",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: Pick out the most appropriate word from the words given below each sentence to complete it meaningfully.</span></p>\n\n<p>They complained about ______ in rush hour.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "driving",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "drives",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "drove",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "driven",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "none of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<strong>&nbsp;driving.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The explanation is as follows:</p>\n\n<ul>\n\t<li>The word about is a<strong>&nbsp;preposition.</strong></li>\n\t<li>The word driving is a<strong>&nbsp;gerund.</strong></li>\n\t<li>The&nbsp;<strong>&#39;-ing&#39;&nbsp;</strong>form or&nbsp;<strong>gerund</strong>&nbsp;is generally used after a<strong>&nbsp;preposition.</strong></li>\n</ul>\n\n<p>Hence, the&nbsp;<strong>correct sentence</strong>&nbsp;is&nbsp;<em>They complained about&nbsp;<strong>driving&nbsp;</strong>in rush hour.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p><strong>Prepositions:</strong></p>\n\n<ul>\n\t<li>A preposition usually precedes&nbsp;<strong>a noun or a pronoun.</strong></li>\n\t<li>A gerund is the<strong>&nbsp;&ndash;ing form</strong>&nbsp;of a verb that functions the same as a noun.&nbsp;</li>\n\t<li>Some commonly used&nbsp;<strong>prepositions</strong>&nbsp;are:\n\t<ul>\n\t\t<li>above, across, against, along, among, around, at, etc.</li>\n\t\t<li>before, behind, below, beneath, beside, between, by, etc.</li>\n\t\t<li>down, from, in, into, near, of, off, on, to, etc.</li>\n\t\t<li>toward, under, upon, with, and within, etc.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6229e1c279eb2601a00a5fb5",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700; \">Directions: The given question has one blank indicating that something has been omitted. Choose the word for the given options that could fit in the blank correctly.</span></p>\n\n<div>You&#39;re a ______ interesting person.</div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Very",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Too",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "So",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Much",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Many",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is &#39;<span style=\"font-weight: 700;\">very&#39;</span>.</p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\">Very</span>:&nbsp;We use \"<span style=\"font-weight: 700;\">very</span>\" to show there is&nbsp;<span style=\"font-weight: 700;\">a higher degree of some quality</span>. It often appears in sentences with<span style=\"font-weight: 700;\">&nbsp;a positive meaning</span>, also it is used with the&nbsp;<span style=\"font-weight: 700;\">present participle.</span>\n\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Ex</span>: That is a&nbsp;<span style=\"font-weight: 700;\">very&nbsp;</span>good movie,&nbsp;<span style=\"font-weight: 700;\">very&nbsp;</span>daring.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">Too</span>:&nbsp;On the other hand, \"<span style=\"font-weight: 700;\">too</span>\" means there is more of the quality than you want. This shows a<span style=\"font-weight: 700;\">&nbsp;negative idea</span>.\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Ex</span>: That movie is&nbsp;<span style=\"font-weight: 700;\">too&nbsp;</span>violent for me.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">Much</span>:&nbsp;\"Much\" is used with<span style=\"font-weight: 700;\">&nbsp;a comparative degree</span>&nbsp;also with<span style=\"font-weight: 700;\">&nbsp;the past participle.</span>\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Ex</span>:&nbsp;<span style=\"font-weight: 700;\">Much&nbsp;</span>surprised,&nbsp;<span style=\"font-weight: 700;\">much&nbsp;</span>needed.</li>\n\t</ul>\n\t</li>\n\t<li>Here in the sentence, as we know that the word&nbsp;<span style=\"font-weight: 700;\">interesting&nbsp;</span>is acts as a<span style=\"font-weight: 700;\">&nbsp;present participle so&nbsp;</span>we need to use<span style=\"font-weight: 700;\">&nbsp;the adverb very</span>&nbsp;before it.</li>\n\t<li>Hence,&nbsp;<span style=\"font-weight: 700;\">option 1</span>&nbsp;is the correct answer.<br />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"\"><span style=\"font-weight: 700;\">The correct sentence i</span>s:<em>&nbsp;<span style=\"\">You&#39;re a <strong>very </strong>interesting person.</span></em></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</span></p>\n\n<p style=\"\"><u><span style=\"font-weight: 700;\">Difference between \"very\" and \" too\"&nbsp;</span></u></p>\n\n<ul style=\"\">\n\t<li>The main difference between \"<span style=\"font-weight: 700;\">very</span>\" and \"<span style=\"font-weight: 700;\">too</span>\" is that using \"<span style=\"font-weight: 700;\">too</span>\" suggests that there is some problem.&nbsp;<em>On a really hard day, you might come home and say:</em>\n\n\t<ul>\n\t\t<li>I am&nbsp;<span style=\"font-weight: 700;\">too</span>&nbsp;tired to eat, so we should not go out for dinner.</li>\n\t</ul>\n\t</li>\n\t<li>On a better day, you might say:\n\t<ul>\n\t\t<li>I am&nbsp;<span style=\"font-weight: 700;\">very&nbsp;</span>tired, but I can go out for dinner.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60f580c88a8dfd75ccfb6456",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Fill in the blanks with the correct option.</strong></p>\n\n<p>It is the time when they _______ preparing for their final performance as they all decided to win&nbsp;this competition at any cost.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "started",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "have started",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "has started",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "is starting",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "was started",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>o</strong><strong>ption 1 i.e. started.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Whenever we use the word-&nbsp;<span style=\"font-weight: 700;\">it is time</span>, the&nbsp;sentence is in the&nbsp;<span style=\"font-weight: 700;\">past tense.&nbsp;</span></li>\n\t<li>We use &#39;<span style=\"font-weight: 700;\">it is time</span>&nbsp;to express a present moment. In the above sentence,&nbsp;<span style=\"font-weight: 700;\">&#39;it is time&#39;</span>&nbsp;is used to tell that subject has started preparing&nbsp;as it is time for their performance.</li>\n\t<li>The structure is-&nbsp;<span style=\"font-weight: 700;\">it is time + subject + past verb form.</span></li>\n\t<li><span style=\"font-weight: 700;\">Past&nbsp;tense</span>&nbsp;is used to indicate that an action is completed.\n\t<ul>\n\t\t<li><em><span style=\"font-weight: 700;\">Example</span>:&nbsp;<span style=\"font-weight: 700;\">It is time</span>&nbsp;the Indian team&nbsp;<span style=\"font-weight: 700;\">started</span>&nbsp;winning matches.</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong>​Correct sentence-<em>&nbsp;</em></strong><em>It is the time when they <strong>started </strong>preparing for their final performance&nbsp;</em>as they all decided to win&nbsp;this competition at any cost.<span id=\"docs-internal-guid-62d8dc14-7fff-ba4a-1bac-9b4e5ea757e0\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:20px;height:20px;\"><img height=\"20\" src=\"https://lh4.googleusercontent.com/NrgPjv3pok5EMtHAQUkp1j280dIK8nFlSQOuqf4-x5sZt8BoPjKewQTh3fxMHLX5WaVyJp99lUPZHdzzMCwxS9b2qmQHatpk8HOjCii947xJo-vFeSAPNJu6-LHK57kuNcHwGwuY\" style=\"margin-left:0px;margin-top:0px;\" width=\"20\" /></span></span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Simple past tense is used when the subject is narrating about the recent past.</li>\n\t<li>Perfect past tense is used when the subject is narrating about things that have not happened in the recent past.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/hint-text-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Hint</u></span></strong></span></p>\n\n<ul>\n\t<li>In the given sentence <strong>it is time&nbsp;</strong>is the hint which shows that subject is narrating about the recent past.</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:06.513Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

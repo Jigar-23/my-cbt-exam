@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a11f75ebbbe81716bbe0",
+  "title": "CT 23: Quantitative Aptitude (Comparison of Quantities)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5f58f71d033abc341377017d",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p style=\"\"><strong style=\"\">Direction: In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both the quantities and choose the correct option.</strong></p>\n\n<p style=\"\"><strong style=\"\">Quantity A: </strong>Preeti sells a heart at Rs. 5000. Due to valentine&#39;s week, she marks up the price of the heart at 30% above its normal selling price&nbsp;and offers a 10% discount. If Aditya buys it in Rs. 5616, then find the additional discount which is given by Preeti to Aditya.</p>\n<strong style=\"\">Quantity B: </strong>Salman buys an earphone in Rs. 2,000. Due to Diwali sales, his friend Shahrukh purchased the same earphone on a 20% discount if the cost price of Shahrukh is Rs. 1800. Then find the discount % of Salman.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity A > Quantity B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity A < Quantity B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity A &le; Quantity B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity A &ge; Quantity B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Either Quantity 1 = Quantity 2 or no relation can be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Formulae used:</strong></p>\n\n<p style=\"\">1.) Selling price = M.P &times; (100 &ndash; D<sub style=\"\">1 </sub>%)/100 &times; (100 &ndash; D<sub style=\"\">2 </sub>%)/100</p>\n\n<p style=\"\">2.) Discount = M.P &ndash; S.P</p>\n\n<p style=\"\">3.) Discount % = (Discount/M.P) &times; 100</p>\n\n<p style=\"\">4.) Selling price = M.P &times; (100 &ndash; D %)/100</p>\n\n<p style=\"\">Where,</p>\n\n<p style=\"\">M.P = Mark price</p>\n\n<p style=\"\">D % = Discount percent</p>\n\n<p style=\"\">D<sub style=\"\">1 </sub>% = First Discount percent</p>\n\n<p style=\"\">D<sub style=\"\">2</sub> % = Second Discount percent</p>\n\n<p style=\"\"><strong style=\"\">Calculations: </strong></p>\n\n<p style=\"\"><strong style=\"\">Quantity A:</strong></p>\n\n<p style=\"\">Price of heart = Rs. 5,000</p>\n\n<p style=\"\">Preeti marks up = 30%</p>\n\n<p style=\"\">New mark price of heart = 5,000 &times; 130/100 = 6,500</p>\n\n<p style=\"\">Selling price = M.P &times; (100 &ndash; D<sub style=\"\">1 </sub>%)/100 &times; (100 &ndash; D<sub style=\"\">2 </sub>%)/100</p>\n\n<p style=\"\">Let second discount be x</p>\n\n<p style=\"\">&rArr; 5,616 = 6,500 &times; (100 &ndash; 10)/100 &times; (100 &ndash; x)/100</p>\n\n<p style=\"\">&rArr; 5,616 = 65 &times; 90 &times; (100 &ndash; x)/100</p>\n\n<p style=\"\">&rArr; 5,616 = 13 &times; 9 &times; (100 &ndash; x)/2</p>\n\n<p style=\"\">&rArr; 100 &ndash; x = (5,616 &times; 2)/(13 &times; 9)</p>\n\n<p style=\"\">&rArr; 100 &ndash; x = 96</p>\n\n<p style=\"\">&rArr; x = 4%</p>\n\n<p style=\"\"><strong style=\"\">&there4;</strong><strong style=\"\"> The additional discount which is given by Preeti to Aditya = 4%</strong></p>\n\n<p style=\"\"><strong style=\"\">Quantity B:</strong></p>\n\n<p style=\"\">Shahrukh cost price = Rs. 1,800</p>\n\n<p style=\"\">Shahrukh buys the earphone on a 20% discount</p>\n\n<p style=\"\">Company&rsquo;s selling price = M.P &times; (100 &ndash; D %)/100</p>\n\n<p style=\"\">&rArr; 1,800 = M.P &times; (100 &ndash; 20)/100</p>\n\n<p style=\"\">&rArr; 1,800 = M.P &times; 80/100</p>\n\n<p style=\"\">&rArr; M.P = (1800 &times; 100)/80 = 2,250</p>\n\n<p style=\"\">Cost price of Salman = Rs. 2,000</p>\n\n<p style=\"\">The selling price of Company to Salman = Rs. 2,000</p>\n\n<p style=\"\">Discount = M.P &ndash; S.P = 2,250 &ndash; 2,000 = 250</p>\n\n<p style=\"\">Discount % = (Discount/M.P) &times; 100</p>\n\n<p style=\"\">&rArr; (250/2250) &times; 100 = 11.11%</p>\n\n<p style=\"\"><strong style=\"\">&there4;</strong><strong style=\"\"> Discount % of Salman = 11.11%</strong></p>\n<strong style=\"\">Hence, Quantity A < Quantity B</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f51e9878ae31d32e1e5a2f6",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p style=\"\">In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both quantities and choose the correct option.</p>\n\n<p style=\"\"><strong style=\"\">Quantity I: </strong>All aces and Jacks are removed from the pack of 52 cards. One card is drawn randomly from the pack. Find the probability that&nbsp;the card is&nbsp; King.</p>\n<strong>Quantity II:</strong> There are 25 pink balloons and 30 Red Balloons are there in a box. Two balloons are selected randomly. Find the probability that they are of the same color.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I </span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ge;</span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"> Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I </span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&le;</span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"> Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I < Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I > Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I = Quantity II or No relation</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong>Quantity I:</strong></p>\n\n<p style=\"\">Total aces and Jacks = 4 + 4 = 8</p>\n\n<p style=\"\">Remaining number of cards in a pack = 44</p>\n\n<p style=\"\">Total number of kings = 4</p>\n\n<p style=\"\">Required probability =</p>\n\n<p style=\"\">= 4/44</p>\n\n<p style=\"\">= 1/11</p>\n\n<p style=\"\"><strong>Quantity II:</strong></p>\n\n<p style=\"\">Number of pink balloons = 25</p>\n\n<p style=\"\">Number of Red Balloons = 30</p>\n\n<p style=\"\">Total number of balloons in a box = 25 + 30 = 55</p>\n\n<p style=\"\">Number of ways that 2 balloons are drawn = <sup>55</sup>C<sub>2 </sub>= 1485</p>\n\n<p style=\"\">Number of ways that both balloons are of same color = <sup>25</sup>C<sub>2</sub> + <sup>30</sup>C<sub>2</sub> = 300 + 435 = 735</p>\n\n<p style=\"\">Required probability = 735/1485 = 49/99</p>\n\n<p style=\"\"><strong style=\"\">So, we can observe </strong>Quantity I < Quantity II.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f51e7a2d8f9f84e7f40b00b",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p style=\"\">In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both quantities and choose the correct option.</p>\n\n<p style=\"\"><strong style=\"\">Quantity I:</strong> A sum of 45 terms of an Arithmetic progression is 5400. The ratio between the 11th term and 51st term is 3 : 13. Find the difference between the first term of progression and the common difference between the terms of progression.</p>\n\n<p><strong>Quantity II:</strong> What should come to the place of &lsquo;?&rsquo; in the following question:</p>\n234 + 35% of 920 &ndash; 4 / 5th of 110 = 7 / 9th of 378 + ? &times; 87",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I </span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ge;</span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"> Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I </span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&le;</span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"> Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I < Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I > Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I = Quantity II or No relation</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Sum of 45 terms = 5400</p>\n\n<p style=\"\">Let a = first term and d = common difference</p>\n\n<p style=\"\">11<sup style=\"\">th</sup> term = a + (11 &ndash; 1)d = a + 10 d</p>\n\n<p style=\"\">51<sup style=\"\">st</sup> term = a + (51 &ndash; 1)d = a + 50 d</p>\n\n<p style=\"\">&rArr; (a + 10 d) : (a + 50 d) = 3 : 13</p>\n\n<p style=\"\">&rArr; 13 a + 130 d = 3 a + 150 d</p>\n\n<p style=\"\">&rArr; 10 a = 20 d</p>\n\n<p style=\"\">&rArr; a = 2 d</p>\n\n<p style=\"\">&rArr; 5400 = 45/2 &times; [(2 &times; a) + (45 &ndash; 1)d]</p>\n\n<p style=\"\">&rArr; 240 = 2 a + 44 d</p>\n\n<p style=\"\">&rArr; a + 22 d = 120</p>\n\n<p style=\"\">&rArr; d = 5</p>\n\n<p style=\"\">&rArr; a = 10</p>\n\n<p style=\"\">Required difference = 10 &ndash; 5 = 5</p>\n\n<p style=\"\">Quantity II:</p>\n\n<p style=\"\">Given expression =</p>\n\n<p style=\"\">&rArr; 234 + 35% of 920 &ndash; 4 / 5th of 110 = 7 / 9th of 378 + ? &times; 87</p>\n\n<p>&rArr; 234 + 322 - 88 = 294 + ? &times; 87</p>\n\n<p>&rArr; 556 &ndash; 88 = 294 + ? &times; 87</p>\n\n<p>&rArr; ?&nbsp;= 2</p>\n\n<p>So, we can observe<strong style=\"\"> </strong>Quantity I > Quantity II.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ec2592ef60d5d7067731fb2",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>Quantity I:</strong>&nbsp;The difference between present ages of Dheeru and Chandan is 4 years and the average of present ages of Bablu and Dheeru is 30 years. If Amit is 48 years older to Bablu and Dheeru is 36 years younger to Bablu, then what is the average of the present ages of Amit and Bablu?<br />\n<br />\n<strong>Quantity II:&nbsp;</strong> The ratio of present ages of K, L and M is 18 : 14 : 13, respectively, then difference between the present ages of K and M is 25 years.&nbsp; What is the average of the ages of K, L and M,</p>\n\n<p><strong>Quantity III: 70 Years</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity I > Quantity II > Quantity III",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity II > Quantity I > Quantity III",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity III > Quantity I > Quantity II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity I > Quantity III > Quantity II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Quantity I:</strong></p>\n\n<p>Let the present ages of Amit, Bablu, Chandan and Dheeru be A, B, C and D respectively</p>\n\n<p>According to the given information,</p>\n\n<p>C &ndash; D = 4&nbsp;&nbsp;&nbsp;&nbsp; ---- (1)</p>\n\n<p>(B + D )/2 = 30</p>\n\n<p>&rArr; B + D = 60&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---- (2)</p>\n\n<p>A &ndash; B = 48&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---- (3)</p>\n\n<p>B &ndash; D = 36&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---- (4)</p>\n\n<p>&nbsp;Adding equation (2) and (4)</p>\n\n<p>2B = 96</p>\n\n<p>&rArr; B = 48</p>\n\n<p>Putting the value of B in Equation (3) we get</p>\n\n<p>A = 96</p>\n\n<p>Now,</p>\n\n<p>(A + B)/2 = (96 + 48)/2 = 72</p>\n\n<p>Hence, the average of the present ages of Amit and Bablu is 72 years</p>\n\n<p><strong>Quantity II :</strong></p>\n\n<p>According to the given information,</p>\n\n<p>∵ K : L : M = 18 : 14 : 13</p>\n\n<p>&there4; let the ages be 18x, 14x, and 13x respectively</p>\n\n<p>∵ K -&nbsp; M = 25</p>\n\n<p>&rArr; 18x -&nbsp; 13x = 25</p>\n\n<p>&rArr; 5x = 25</p>\n\n<p>&rArr; x = 5</p>\n\n<p>Hence, the present ages of K, L and M are</p>\n\n<p>18x = 18 &times; 5 = 90 years; 14x = 14 &times; 5 = 70 years, and 13x = 13 &times; 5 = 65 years respectively</p>\n\n<p>&nbsp;Average = (90 + 70 + 65) / 3</p>\n\n<p>&rArr; 75 Years</p>\n\n<p>Therefore, Quantity II > Quantity I > Quantity III</p>\n\n<p>Hence, option 2) is correct.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e852c4ff60d5d0c369ed259",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both quantities and choose the correct option.</p>\n\n<p><strong>Quantity A:&nbsp;</strong>What is the difference between the average of the first 79 natural numbers and the average of the&nbsp;first 39 natural numbers?</p>\n\n<p><strong>Quantity B:</strong>&nbsp;The average of 10 numbers is 20 and that of other 30 numbers is 40. What is the average of all the numbers?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity A &ge; Quantity B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity A &le; Quantity B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity A < Quantity B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity A > Quantity B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity A = Quantity B or No relation",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: 700;\">Quantity A:&nbsp;</span></p>\n\n<p>∵ Sum of the first n natural numbers = n(n + 1)/2</p>\n\n<p>&rArr; Average of the first n natural numbers = [{n(n + 1)/2}/n]</p>\n\n<p>= (n + 1)/2</p>\n\n<p>Hence,</p>\n\n<p>Average of the first 79 natural numbers = (79 + 1)/2 = 80/2 = 40</p>\n\n<p>Average of the first 39 natural numbers = (39 + 1)/2 = 40/2 = 20</p>\n\n<p>&there4; Required difference = 40 - 20 = 20</p>\n\n<p><span style=\"font-weight: 700;\">Quantity B:</span></p>\n\n<p>The average of 10 numbers = 20</p>\n\n<p>&rArr; Sum of 10 numbers = 20 &times; 10 = 200</p>\n\n<p>The average of other 30 numbers = 40</p>\n\n<p>&rArr; Sum of other 30 numbers = 40 &times; 30 = 1200</p>\n\n<p>Sum of all 40 numbers = 200 + 1200 = 1400</p>\n\n<p>&there4; Average of all 40 numbers = 1400/40 = 35</p>\n\n<p>Hence, Average of 40 numbers = 35</p>\n\n<p>&there4;&nbsp;Quantity A < Quantity B</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e79d3caf60d5d58bd98219e",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both quantities and choose the correct option.</p>\n\n<p>You have to&nbsp;</p>\n\n<p><span style=\"font-weight: 700;\">Quantity A:&nbsp;</span>Simple interest on a certain sum for 6 years is 9/25 of the sum. The rate of interest is</p>\n<span style=\"font-weight: 700;\">Quantity B:&nbsp;</span><span style=\"font-family: arial, sans-serif;\">If Rs. 10000 amounts to Rs. 10816 in two years compounded annually, find the rate of interest per annum.</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity A &ge; Quantity B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity A &le; Quantity B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity A < Quantity B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity A >&nbsp;Quantity B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity A = Quantity B or No relation",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Quantity A:</strong></p>\n\n<p>SI = (P &times; R &times; t)/100&nbsp; &nbsp;&nbsp;</p>\n\n<p>&there4; SI = 9P/25</p>\n\n<p>t = 6 years</p>\n\n<p>R =?</p>\n\n<p>&rArr; 9P/25 = P&nbsp;&times; 6&nbsp;&times; R/100<span class=\"math-tex\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&amp;#x21D2;</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mn>9</mn><mi>P</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>25</mn></mrow></mfrac><mo>=</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mi>P</mi><mo>&amp;#x00D7;</mo><mn>6</mn><mo>&amp;#x00D7;</mo><mi>R</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>100</mn></mrow></mfrac></math>\" role=\"presentation\" style=\"display: inline; line-height: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\" style=\"transition: none 0s ease 0s; border: 0px; padding: 0px; margin: 0px; max-width: none; max-height: none; min-width: 0px; min-height: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"math\" style=\"transition: none 0s ease 0s; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 8.158em;\"><span style=\"transition: none 0s ease 0s; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 6.789em; height: 0px; font-size: 16.8px;\"><span style=\"transition: none 0s ease 0s; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; clip: rect(1.134em, 1006.79em, 2.801em, -999.997em); top: -2.199em; left: 0em;\"><span class=\"mrow\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mfrac\" id=\"MathJax-Span-4122\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.301em; margin: 0px; vertical-align: 0px; line-height: normal;\"><span style=\"transition: none 0s ease 0s; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px 0.122em; vertical-align: 0px; line-height: normal; width: 1.015em; height: 0px;\"><span style=\"transition: none 0s ease 0s; position: absolute; border: 0px; padding: 0px; margin: 0px 0px 0px -0.414em; vertical-align: 0px; line-height: normal; clip: rect(3.336em, 1000.9em, 4.17em, -999.997em); top: -4.402em; left: 8.51563px;\"><span class=\"texatom\" id=\"MathJax-Span-4123\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mrow\" id=\"MathJax-Span-4124\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mn\" id=\"MathJax-Span-4125\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Main;\">9</span><span class=\"mi\" id=\"MathJax-Span-4126\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Math-italic;\">P</span></span></span></span><span style=\"transition: none 0s ease 0s; position: absolute; border: 0px; padding: 0px; margin: 0px 0px 0px -0.354em; vertical-align: 0px; line-height: normal; clip: rect(3.336em, 1000.66em, 4.17em, -999.997em); top: -3.568em; left: 8.51563px;\"><span class=\"texatom\" id=\"MathJax-Span-4127\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mrow\" id=\"MathJax-Span-4128\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mn\" id=\"MathJax-Span-4129\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Main;\">25</span></span></span></span></span></span><span class=\"mo\" id=\"MathJax-Span-4130\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.301em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;\">=</span><span class=\"mfrac\" id=\"MathJax-Span-4131\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.301em; margin: 0px; vertical-align: 0px; line-height: normal;\"><span style=\"transition: none 0s ease 0s; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px 0.122em; vertical-align: 0px; line-height: normal; width: 2.622em; height: 0px;\"><span style=\"transition: none 0s ease 0s; position: absolute; border: 0px; padding: 0px; margin: 0px 0px 0px -1.247em; vertical-align: 0px; line-height: normal; clip: rect(3.336em, 1002.5em, 4.17em, -999.997em); top: -4.402em; left: 22.0156px;\"><span class=\"texatom\" id=\"MathJax-Span-4132\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mrow\" id=\"MathJax-Span-4133\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mi\" id=\"MathJax-Span-4134\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Math-italic;\">P</span><span class=\"mo\" id=\"MathJax-Span-4135\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Main;\">&times;</span><span class=\"mn\" id=\"MathJax-Span-4136\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Main;\">6</span><span class=\"mo\" id=\"MathJax-Span-4137\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Main;\">&times;</span><span class=\"mi\" id=\"MathJax-Span-4138\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Math-italic;\">R</span></span></span></span><span style=\"transition: none 0s ease 0s; position: absolute; border: 0px; padding: 0px; margin: 0px 0px 0px -0.533em; vertical-align: 0px; line-height: normal; clip: rect(3.336em, 1001.01em, 4.17em, -999.997em); top: -3.568em; left: 22.0156px;\"><span class=\"texatom\" id=\"MathJax-Span-4139\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mrow\" id=\"MathJax-Span-4140\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"mn\" id=\"MathJax-Span-4141\" style=\"transition: none 0s ease 0s; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-size: 11.8776px; font-family: MathJax_Main;\">100</span></span></span></span></span></span></span></span></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\" style=\"position: static; padding-top: 0px; display: inline; transition: none 0s ease 0s; margin: 0px; vertical-align: 0px; line-height: normal;\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&amp;#x21D2;</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mn>9</mn><mi>P</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>25</mn></mrow></mfrac><mo>=</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mi>P</mi><mo>&amp;#xD7;</mo><mn>6</mn><mo>&amp;#xD7;</mo><mi>R</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>100</mn></mrow></mfrac></math>\" id=\"MathJax-Element-3-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"><span class=\"math\" id=\"MathJax-Span-47\" style=\"width: 8.158em; display: inline-block;\"><span style=\"display: inline-block; position: relative; width: 6.789em; height: 0px; font-size: 120%;\"><span style=\"position: absolute; clip: rect(1.134em, 1006.79em, 2.801em, -999.997em); top: -2.199em; left: 0em;\"><span class=\"mrow\" id=\"MathJax-Span-48\"><span class=\"mo\" id=\"MathJax-Span-49\" style=\"font-family: MathJax_Main;\">&rArr;</span><span class=\"mfrac\" id=\"MathJax-Span-50\" style=\"padding-left: 0.301em;\"><span style=\"display: inline-block; position: relative; width: 1.015em; height: 0px; margin-right: 0.122em; margin-left: 0.122em;\"><span style=\"position: absolute; clip: rect(3.336em, 1000.9em, 4.17em, -999.997em); top: -4.402em; left: 50%; margin-left: -0.414em;\"><span class=\"texatom\" id=\"MathJax-Span-51\"><span class=\"mrow\" id=\"MathJax-Span-52\"><span class=\"mn\" id=\"MathJax-Span-53\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">9</span><span class=\"mi\" id=\"MathJax-Span-54\" style=\"font-size: 70.7%; font-family: MathJax_Math-italic;\">P</span></span></span></span><span style=\"position: absolute; clip: rect(3.336em, 1000.66em, 4.17em, -999.997em); top: -3.568em; left: 50%; margin-left: -0.354em;\"><span class=\"texatom\" id=\"MathJax-Span-55\"><span class=\"mrow\" id=\"MathJax-Span-56\"><span class=\"mn\" id=\"MathJax-Span-57\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">25</span></span></span></span></span></span><span class=\"mo\" id=\"MathJax-Span-58\" style=\"font-family: MathJax_Main; padding-left: 0.301em;\">=</span><span class=\"mfrac\" id=\"MathJax-Span-59\" style=\"padding-left: 0.301em;\"><span style=\"display: inline-block; position: relative; width: 2.622em; height: 0px; margin-right: 0.122em; margin-left: 0.122em;\"><span style=\"position: absolute; clip: rect(3.336em, 1002.5em, 4.17em, -999.997em); top: -4.402em; left: 50%; margin-left: -1.247em;\"><span class=\"texatom\" id=\"MathJax-Span-60\"><span class=\"mrow\" id=\"MathJax-Span-61\"><span class=\"mi\" id=\"MathJax-Span-62\" style=\"font-size: 70.7%; font-family: MathJax_Math-italic;\">P</span><span class=\"mo\" id=\"MathJax-Span-63\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">&times;</span><span class=\"mn\" id=\"MathJax-Span-64\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">6</span><span class=\"mo\" id=\"MathJax-Span-65\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">&times;</span><span class=\"mi\" id=\"MathJax-Span-66\" style=\"font-size: 70.7%; font-family: MathJax_Math-italic;\">R</span></span></span></span><span style=\"position: absolute; clip: rect(3.336em, 1001.01em, 4.17em, -999.997em); top: -3.568em; left: 50%; margin-left: -0.533em;\"><span class=\"texatom\" id=\"MathJax-Span-67\"><span class=\"mrow\" id=\"MathJax-Span-68\"><span class=\"mn\" id=\"MathJax-Span-69\" style=\"font-size: 70.7%; font-family: MathJax_Main;\">100</span></span></span></span></span></span></span></span></span></span></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"> <script id=\"MathJax-Element-1\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mn>9</mn><mi>P</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>25</mn></mrow></mfrac><mo>=</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mi>P</mi><mo>×</mo><mn>6</mn><mo>×</mo><mi>R</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>100</mn></mrow></mfrac></math></script> </span></span> <script id=\"MathJax-Element-3\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mn>9</mn><mi>P</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>25</mn></mrow></mfrac><mo>=</mo><mfrac><mrow class=\"MJX-TeXAtom-ORD\"><mi>P</mi><mo>×</mo><mn>6</mn><mo>×</mo><mi>R</mi></mrow><mrow class=\"MJX-TeXAtom-ORD\"><mn>100</mn></mrow></mfrac></math></script> </span></span></span></p>\n\n<p>&rArr; R = 900/150 = 6%</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Quantity B:</strong></p>\n\n<p>Given P = 10000, A = 10816, n = 2;</p>\n\n<p>For compound interest, we know that,</p>\n\n<p>A = P[1 + (R/100)]<span style=\"position: relative; font-size: 10.5px; line-height: 0; vertical-align: baseline; top: -0.5em;\">n</span></p>\n\n<p>&rArr; 10816 = 10000[1 + (R/100)]<span style=\"position: relative; font-size: 10.5px; line-height: 0; vertical-align: baseline; top: -0.5em;\">2</span></p>\n\n<p>&rArr; [1 + (R/100)]<span style=\"position: relative; font-size: 10.5px; line-height: 0; vertical-align: baseline; top: -0.5em;\">2</span>&nbsp;= 10816/10000</p>\n\n<p>&rArr; [1 + (R/100)]<span style=\"position: relative; font-size: 10.5px; line-height: 0; vertical-align: baseline; top: -0.5em;\">2</span>&nbsp;= (104/100)<span style=\"position: relative; font-size: 10.5px; line-height: 0; vertical-align: baseline; top: -0.5em;\">2</span></p>\n\n<p>&rArr; [1 + (R/100)] = 104/100</p>\n\n<p>&rArr; R/100 = 104/100 - 1</p>\n\n<p>&rArr; R/100 = 4/100</p>\n\n<p>&rArr; R = 4%</p>\n\n<p>&there4; Rate of interest = 4%</p>\n\n<p>&there4;&nbsp;Quantity A >&nbsp;Quantity B</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c8a5a11fdb8bb05128603be",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Given below are two quantities named I and II. Based on the given information, you have to determine the relation between the two quantities. You should use the given data and your knowledge of Mathematics to choose between the possible answers.</p>\n\n<p>Quantity I: A boat running downstream covers a distance of 40 km in 4 hrs and covering the same distance upstream in 8 hrs. What is the speed of a boat in still water?</p>\n\n<p>Quantity II: The speed of a boat in still water is 15 km/hr. It can go 30 km upstream and return downstream to the original point in 4 hrs 30 min.</p>\nThe speed of the stream is?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity I > Quantity II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity I &ge; Quantity II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity I < Quantity II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity I &le; Quantity II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity I = Quantity II or the relation cannot be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Quantity I:</p>\n\n<p>down-stream speed = <img height=\"28\" src=\"file:///C:/Users/admin/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png\" width=\"13\" />&nbsp;= 10 kmph</p>\n\n<p>upstream speed = 40/8 = 5 kmph</p>\n\n<p>speed of boat in still water <span class=\"math-tex\">\\(= \\frac{{10 + 5}}{2}\\)</span></p>\n\n<p>= 7.5 kmph</p>\n\n<p>Quantity II:</p>\n\n<p>Let speed of stream be x kmph</p>\n\n<p><span class=\"math-tex\">\\(\\frac{{30}}{{15 + x}} + \\frac{{30}}{{15 - x}} = \\frac{9}{2}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(30\\left( {\\frac{{15 - x + 15 + x}}{{225 - {x^2}}}} \\right) = \\frac{9}{2}\\)</span></p>\n\n<p>20 (30) = 3 (225 &ndash; x<sup>2</sup>)</p>\n\n<p>225 &ndash; x<sup>2</sup> = 200</p>\n\n<p>x<sup>2</sup> = 25</p>\n\n<p>x = 5 kmph</p>\n&there4; Quantity I > Quantity II",
+          "topic": "Test"
+        },
+        {
+          "id": "5bd04abc2bc09c0c7d9529f1",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>Given below are two quantities named A &amp; B. Based on the given information; you have to determine the relationship between the two quantities. You should use the given data and your knowledge of Mathematics to choose between the possible answers.</p>\n\n<p>A person sells a T.V and a Radio. T.V is sold by him at Rs. 10000 and cost price of Radio is Rs. 7500. He got a 20% profit on Radio after a 10% discount and he allow 25% discount on T.V.&nbsp;</p>\n\n<p><strong>Quantity A:</strong> Marked price of Radio.&nbsp;</p>\n\n<p><strong>Quantity B:</strong>&nbsp;the Selling price of T.V.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity A < Quantity B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity A &le; Quantity B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity A > Quantity B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity A = Quantity B or No relation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity A &ge; Quantity B",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Selling price of Radio = Cost price &times; 120/100 = 7500 &times; (120/100) = Rs. 9000</p>\n\n<p>Marked price of Radio = Selling price &times; (100/90) = 9000 &times; (100/90) = 10000</p>\n\n<p>Selling price of T.V. = 10000&nbsp;(Given)</p>\n&there4; Quantity A = Quantity B",
+          "topic": "Test"
+        },
+        {
+          "id": "5bb89b4d28ef940c27938d4e",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p>Given below are two quantities named A and B. Based on the given information, you have to determine the relation between the two quantities. You should use the given data and your knowledge of Mathematics to choose between the possible answers.</p>\n\n<p><strong>Quantity A:</strong> Total surface area of a cylinder whose radius is 9 cm and height is equal to the side of a square of area 361 cm<sup>2</sup>.</p>\n\n<p><strong>Quantity B:</strong> Area of a rectangle whose sides are in the ratio 5 : 4 and the perimeter is 2.5 times the perimeter of a semi-circle with area 308 cm<sup>2</sup>.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity A > Quantity B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity A < Quantity B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity A &ge; Quantity B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity A &le; Quantity B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity A = Quantity B or No relation.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Quantity A:</strong></p>\n\n<p>Side of the square with area 361 cm<sup>2</sup> = 19 cm;</p>\n\n<p>&there4; Height of the cylinder = 19 cm and radius is given as 9 cm;</p>\n\n<p>&there4; Total surface area of the cylinder = 2&pi;r(r + h)</p>\n\n<p>&rArr; 2 &times; 22/7 &times; 9 &times; 28</p>\n\n<p>&rArr; 1584 cm<sup>2</sup></p>\n\n<p><strong>Quantity B:</strong></p>\n\n<p>∵ the semi-circle has area 308 cm<sup>2</sup>;</p>\n\n<p>&frac12; &pi;r<sup>2</sup> = 308</p>\n\n<p>&rArr; r = 14 cm</p>\n\n<p>Perimeter of the semicircle = &pi;r + 2r</p>\n\n<p>&rArr; 36r/7</p>\n\n<p>&rArr; 72 cm</p>\n\n<p>&there4; Perimeter of the rectangle = 72 &times; 2.5 = 180 cm</p>\n\n<p>∵ The ratio of sides of the rectangle is 5 : 4;</p>\n\n<p>&there4; Sides = 50 cm and 40 cm</p>\n\n<p>&there4; Area of the rectangle = 50 &times; 40 = 2000 cm<sup>2</sup></p>\n\n<p><strong>&there4; Quantity A < Quantity B</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f51eb6a0c83551a9df717f0",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p style=\"\">In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both quantities and choose the correct option.</p>\n\n<p style=\"\"><strong style=\"\">Quantity I: </strong>The ratio between the number of Red, Blue and Green gloves is 2 : 5 : 6 in a box. The ratio between the price of a Red, Blue and Green gloves is 2 : 3 : 4. The average price of gloves is Rs. 30.The price of the gloves box is Rs. 2150. Find the number of Green gloves.</p>\n<strong>Quantity II:</strong> The difference between the price of a book and a notebook is Rs.100 in a kit. The total price of the book and notebook is Rs. 200. The compounded ratio of a kit of notebooks and books is 1 : 2. Find the number of notebooks in a kit if an average number of notebooks and books is 20.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I </span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ge;</span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"> Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I </span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&le;</span><span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"> Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I < Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I > Quantity II</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span lang=\"EN-US\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Quantity I = Quantity II or No relation</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong>Quantity I:</strong></p>\n\n<p style=\"\">Let the price of a Red, Blue and Green gloves be Rs. 2 a, Rs. 3 a and Rs. 4 a respectively.</p>\n\n<p style=\"\">&rArr; (2 a + 3 a + 4 a) = 90</p>\n\n<p style=\"\">&rArr; a = 10</p>\n\n<p style=\"\">Price of a Red, Blue and Green gloves is Rs. 20, Rs. 30 and Rs. 40 respectively.</p>\n\n<p style=\"\">Let the number of Red, Blue and Green gloves be 2 m, 5 m and 6 m respectively.</p>\n\n<p style=\"\">&rArr; 2 m &times; 20 + 30 &times; 5 m + 40 &times; 6 m = 2150</p>\n\n<p style=\"\">&rArr; m = 5</p>\n\n<p style=\"\">Number of green gloves = 5 &times; 6 = 30</p>\n\n<p style=\"\"><strong>Quantity II:</strong></p>\n\n<p style=\"\">Let the price of a book and the price of a notebook be Rs. A and Rs. B respectively.</p>\n\n<p style=\"\">&rArr; A &ndash; B = 100</p>\n\n<p style=\"\">&rArr; A + B = 200</p>\n\n<p style=\"\">A = Rs. 150 and B = Rs. 50</p>\n\n<p style=\"\">Ratio of price of a book and a notebook = 150 : 50 = 3 : 1</p>\n\n<p style=\"\">Number of notebooks and books be m and n respectively.</p>\n\n<p style=\"\">Compounded ratio =</p>\n\n<p style=\"\">&rArr; 1 : 2 = (m : n) and (1 : 3)</p>\n\n<p style=\"\">&rArr; 1 : 2 = m : 3 n</p>\n\n<p style=\"\">&rArr; 2 m = 3 n</p>\n\n<p style=\"\">&rArr; m = 3 n/2</p>\n\n<p style=\"\">&rArr; m + n = 40</p>\n\n<p style=\"\">m = 16 and n = 24</p>\n\n<p style=\"\">Number of notebooks = 16</p>\n\n<p>So, we can observe Quantity I > Quantity II.</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:55.181Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

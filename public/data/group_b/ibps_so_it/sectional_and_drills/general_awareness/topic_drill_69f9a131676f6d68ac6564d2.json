@@ -1,0 +1,689 @@
+{
+  "testId": "69f9a131676f6d68ac6564d2",
+  "title": "CT 2: Current Affairs (May 16 - May 31)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Bi - Weekly CA",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 15,
+  "totalDurationMinutes": 10,
+  "totalMarks": 15,
+  "sections": [
+    {
+      "id": "65e08bcb88a67ac9f4e57bb8",
+      "name": "Chapter Test",
+      "durationMinutes": 20,
+      "maxMarks": 15,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "69bd20b54077c54b501e7144",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "What percentage of the project cost is provided as a credit-linked capital subsidy under the PMFME scheme for individual micro-enterprises?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "25%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "35%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "50%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "60%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>35%.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Subsidy Rate:</strong> Under the PMFME scheme, individual micro-food processing units can avail of a <strong>credit-linked capital subsidy at 35%</strong> of the eligible project cost.</li>\n\t<li><strong>Maximum Limit:</strong> The maximum ceiling for this subsidy is <strong>Rs. 10 lakh</strong> per unit.</li>\n\t<li><strong>Beneficiary Contribution:</strong> The beneficiary is generally required to contribute <strong>10%</strong> of the project cost, with the remaining amount coming from a bank loan.</li>\n\t<li><strong>Objective:</strong> The scheme aims to provide financial, technical, and business support for the upgradation of existing micro-food processing enterprises.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">One District One Product (ODOP)</span></u>\n\n\t<ul>\n\t\t<li>The scheme adopts the ODOP framework to reap the benefit of scale in terms of procurement of inputs, availing common services, and marketing of products.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Duration</span></u>\n\t<ul>\n\t\t<li>The scheme is implemented over a period of five years from 2020-21 to 2024-25 with an outlay of Rs. 10,000 Crore.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69c640869e8806b60e823ec7",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "What was the theme of the National-Level Corporate Social Responsibility (CSR) Conclave organized by the Ministry of Tribal Affairs in March 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Sustainable Mining and Tribal Rights",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Empowering Tribals through CSR and Pledging Partnership for Tribal Upliftment",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Digital Inclusion for Remote Tribal Blocks",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Green Energy and Tribal Entrepreneurship",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Genetic mapping",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Empowering Tribals through CSR and Pledging Partnership for Tribal Upliftment.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Ministry of Tribal Affairs organized a National-Level CSR Conclave on March 24, 2026, at Sunder Nursery, New Delhi.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0);\">The theme of the conclave was &ldquo;Empowering Tribals through CSR and Pledging Partnership for Tribal Upliftment&rdquo;.</span></strong></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">Union Minister <strong>Shri Jual Oram</strong> launched a \"Solar Entrepreneur\" training program in collaboration with the Ministry of New and Renewable Energy.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">A 9-day residential training program supported by <strong>Tata Power Skill Development Institute</strong> was introduced for tribal youth.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">The event aimed to bridge gaps in tribal development by fostering collaborations between the government, PSUs, and private companies.</span></li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">CSR (Corporate Social Responsibility)</span></u>\n\n\t<ul>\n\t\t<li>Under the Companies Act, 2013, certain companies are mandated to spend 2% of their average net profit on social development activities.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Ministry of Tribal Affairs</span></u>\n\t<ul>\n\t\t<li>Union Minister: Shri Jual Oram.</li>\n\t\t<li>Secretary: Smt. Ranjana Chopra.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69bd20ba3c5434643389e039",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "India submitted its First National Report (NR1) regarding the implementation of which international protocol related to the Convention on Biological Diversity (CBD)?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Kyoto Protocol",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Montreal Protocol",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Nagoya Protocol",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Cartagena Protocol",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Paris Agreement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Nagoya Protocol.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Ministry of Environment, Forest and Climate Change, along with the National Biodiversity Authority, submitted India&rsquo;s first report on the Nagoya Protocol to the CBD Secretariat.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: center;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Focus of Report:</strong> The report details India&#39;s progress in Access and Benefit Sharing (ABS) for genetic resources.</li>\n\t<li><strong>Global Contribution:</strong> India accounts for over <strong>60%</strong> of the global Internationally Recognised Certificates of Compliance (IRCCs).</li>\n\t<li><strong>Legislative Link:</strong> The protocol is implemented in India through the <strong>Biological Diversity Act, 2002</strong> and the newly introduced <strong>ABS Regulations, 2025</strong>.</li>\n\t<li><strong>Institutional Tier:</strong> The report highlights a 3-tier system: National Biodiversity Authority (National), State Biodiversity Boards (State), and over <strong>2.76 lakh</strong> Biodiversity Management Committees (Local).</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Cartagena Protocol</span></u>\n\n\t<ul>\n\t\t<li>While both are under the CBD, the <strong>Cartagena Protocol</strong> specifically deals with Biosafety (regulating the movement of Living Modified Organisms), whereas the <strong>Nagoya Protocol</strong> deals with Access and Benefit Sharing.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69c640875ba135daec645161",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "The Union Cabinet has approved the Modified UDAN scheme for a 10-year period (FY 2026-27 to 2035-36) with a total financial outlay of __________.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "₹15,500 Crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "₹28,840 Crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "₹12,159 Crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "₹20,000 Crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Tribal Health",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>₹28,840 Crore.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Union Cabinet, chaired by PM Narendra Modi, approved the Modified UDAN (Ude Desh ka Aam Nagrik) scheme for ten years.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0);\">The total outlay for the scheme is ₹28,840 crore, spanning from FY 2026-27 to 2035-36.</span></strong></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">The scheme aims to develop <strong>100 airports</strong> from unserved airstrips with an investment of ₹12,159 crore.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">It includes the development of <strong>200 modern helipads</strong> at a cost of ₹15 crore each in remote/hilly regions.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">Under <strong>Atmanirbhar Bharat</strong>, aircraft like HAL Dhruv and HAL Dornier will be procured for Pawan Hans and Alliance Air.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">The scheme provides <strong>Viability Gap Funding (VGF)</strong> of ₹10,043 crore to support regional airline operators.</span></li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">UDAN (Ude Desh ka Aam Nagrik)</span></u>\n\n\t<ul>\n\t\t<li>Launched in 2016, it is a regional airport development program aimed at making air travel affordable and widespread.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Viability Gap Funding (VGF)</span></u>\n\t<ul>\n\t\t<li>A one-time or deferred grant provided to support infrastructure projects that are economically justified but fall short of financial viability.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Alliance Air &amp; Pawan Hans</span></u>\n\t<ul>\n\t\t<li>Public sector entities focused on regional fixed-wing connectivity and helicopter services, respectively.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69bd20c08be3c0e96617cbed",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Under the Electricity (Amendment) Rules 2026, which entity is responsible for the verification of inter-state captive power status starting April 1, 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "State Load Despatch Centre",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "National Load Despatch Centre",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Central Electricity Authority",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "NITI Aayog",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Ministry of Power",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>National Load Despatch Centre.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Government of India has notified the Electricity (Amendment) Rules 2026, specifically amending Rule 3 of the Electricity Rules 2005.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Verification Authority:</strong> Starting 1st April 2026, the <strong>National Load Despatch Centre (NLDC)</strong> will handle inter-state verification, while State or UT Governments will designate agencies for intra-state cases.</li>\n\t<li><strong>Ownership definition:</strong> Ownership now includes <strong>Subsidiaries, Holding Companies,</strong> and other group entities to reflect modern corporate structures.</li>\n\t<li><strong>Verification Period:</strong> A uniform verification period for captive status has been established for the entire <strong>Financial Year</strong>.</li>\n\t<li><strong>Association of Persons (AoP):</strong> Captive users under an AoP can now draw power based on <strong>operational needs</strong> without losing status, provided collective requirements are met.</li>\n\t<li><strong>Dispute Redressal:</strong> A dedicated <strong>Grievance Redressal Committee</strong> will be constituted to address disputes arising from verification decisions.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Captive Generating Plant (CGP)</span></u>\n\n\t<ul>\n\t\t<li>A power plant set up by any person to generate electricity primarily for their own use. It helps industries secure reliable power and often reduces costs.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Surcharge Relief</span></u>\n\t<ul>\n\t\t<li>Pending verification, <strong>Cross-Subsidy Surcharge</strong> and Additional Surcharge will not be levied if users submit a prescribed declaration, improving ease of doing business.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69c6408775bfbcf2a05e8328",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Which Aditya Birla Group-led consortium recently acquired 100% ownership of the Royal Challengers Bengaluru (RCB) franchise in March 2026?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "ABG, Reliance, and Tata Group",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "ABG, Times of India Group, Bolt Ventures, and Blackstone",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "ABG, Adani Group, and JSW Sports",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "ABG, Star Sports, and Qatar Investment Authority",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "₹35,000 Crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>ABG, Times of India Group, Bolt Ventures, and Blackstone.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>A high-profile consortium led by the Aditya Birla Group (ABG) has acquired 100% equity in Royal Challengers Bengaluru (RCB).</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Deal Value:</strong> The acquisition is valued at a record-breaking <strong>₹16,706 crore</strong>.</li>\n\t<li><strong>Seller:</strong> The stake was purchased from <strong>United Spirits Limited (USL)</strong>, which owned the team through its subsidiary, Royal Challengers Sports Private Limited (RCSPL).</li>\n\t<li><strong>Consortium Partners:</strong> Includes <strong>Aditya Birla Group</strong> (Lead), <strong>The Times of India Group</strong>, <strong>Bolt Ventures</strong>, and <strong>Blackstone</strong>.</li>\n\t<li><strong>Scope:</strong> The deal includes full ownership and operating rights for both the <strong>Men&rsquo;s IPL team</strong> and the <strong>Women&rsquo;s Premier League (WPL) team</strong>.</li>\n\t<li><strong>Assets:</strong> Includes all brand assets, player contracts, and existing infrastructure.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Business Context</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">United Spirits Limited (USL)</span></u>\n\n\t<ul>\n\t\t<li>An Indian alcoholic beverages company, and a subsidiary of Diageo. It was the original owner of the RCB franchise since the inception of the IPL in 2008.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Blackstone (BXPE)</span></u>\n\t<ul>\n\t\t<li>One of the world&#39;s leading investment firms, participating here through its perpetual private equity strategy.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69bd20c53540c25db8e88d50",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Who is the recipient of the Sahitya Akademi Award 2025 in the English language category for the novel titled &#39;Crimson Spring&#39;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Vikram Seth",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Navtej Sarna",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Amitav Ghosh",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Jeet Thayil",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Arundhati Roy",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Navtej Sarna.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Sahitya Akademi announced its prestigious annual awards for 2025, honoring 24 authors across various Indian languages.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>English Winner:</strong> Former diplomat and author <strong>Navtej Sarna</strong> won for his novel <strong>&#39;Crimson Spring&#39;</strong>.</li>\n\t<li><strong>Hindi Winner:</strong> <strong>Mamta Kalia</strong> was awarded for her memoir <strong>&#39;Jeete Jee Allahabad&#39;</strong>.</li>\n\t<li><strong>Award Prize:</strong> The award includes an engraved <strong>copper plaque</strong>, a shawl, and a cash prize of <strong>Rs 1,00,000</strong>.</li>\n\t<li><strong>Genre Diversity:</strong> The 2025 awards recognized 8 poetry books, 4 novels, 6 short story collections, and other genres including memoirs and essays.</li>\n\t<li><strong>Ceremony:</strong> The awards will be formally presented on <strong>31 March 2026</strong> in New Delhi.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Sahitya Akademi</span></u>\n\n\t<ul>\n\t\t<li>India&#39;s National Academy of Letters, founded in 1954, it is the highest honor conferred on writers by the Government of India for literary merit.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Scope</span></u>\n\t<ul>\n\t\t<li>The Akademi recognizes 24 languages, which include the 22 languages listed in the <strong>Eighth Schedule</strong> of the Constitution, along with <strong>English and Rajasthani</strong>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<div dir=\"ltr\">\n<table style=\"width:350px;\">\n\t<colgroup>\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\"><strong>Language</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\"><strong>Title and Genre</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\"><strong>Name of the Author</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Assamese</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Karhi Khelar Sadhu (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Devabrat Das</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bengali</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Shrestha Kabita (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Prasun Bandyopadhyay</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bodo</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dwngnwi Lama Mwnse Gathwn (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sahaisuli Brahma</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dogri</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Thakur Satsayie (Poetry, Couplets)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Khajur Singh Thakur</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">English</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Crimson Spring (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Navtej Sarna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Gujarati</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bhattkhadaki (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Yogesh Vaidya</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Hindi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Jeete Jee Allahabad (Memoir)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mamta Kalia</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kannada</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dada Seerisu Tande (Short Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Amaresh Nugadoni</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kashmiri</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Najdavanek&#39;y Pot Aalav (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Ali Shaida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Konkani</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Konkani Kavyem: Rupani Ani Rupakam (Essays)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Henry Mendonca (H.M. Pernal)</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Maithili</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dhatri Paat San Gaam (Memoir)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mahendra</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Malayalam</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Maayaamanushyar (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">N. Prabhakaran</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Manipuri</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kanglamdriba Eephut (Short Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Haobam Nalini</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Marathi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kalyanilya Resha (Autobiography)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Raju Baviskar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Nepali</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Nepali Paramparik Sanskriti Ra Sabhyata Ko Dukuti (Essays)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Prakash Bhattarai</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Odia</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Padapurana (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Girijakumar Baliyar Singh</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Punjabi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Safety Kit (Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Jinder</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Rajasthani</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bharkhama (Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Jitender Kumar Soni</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sanskrit</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Prasthanacatustaye Brahmaghosah (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mahamahopadhyaya Sadhu Bhadreshdas</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Santali</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mid Birna Chenne Saon Inag Sagai (Short Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sumitra Soren</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sindhi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Waghoo (Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bhagwan Atlani</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Tamil</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Thamiz Sirukathaiyin Thadangal (Literary Criticism)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sa. Tamilselvan</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Telugu</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Animesha (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Nandini Sidha Reddy</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Urdu</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Safar Jaari Hai (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Pritpal Singh Betab</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69c640877a1d8071d8b7635b",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "The International Conference on Carbon Markets, &#39;Prakriti 2026&#39;, was organized by which organization?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NITI Aayog",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Bureau of Energy Efficiency (BEE)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Federation of Indian Chambers of Commerce &amp; Industry (FICCI)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Central Pollution Control Board (CPCB)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "ABG/Hero/Softbank",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Bureau of Energy Efficiency (BEE).</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The International Conference on Carbon Markets, titled &#39;Prakriti 2026&#39;, was organized by the Bureau of Energy Efficiency (BEE) in New Delhi.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Portal Launch:</strong> The event marked the launch of the Indian Carbon Market Portal (www.indiancarbonmarket.gov.in) for market administration.</li>\n\t<li><strong>Theme:</strong> The theme was &ldquo;Unlocking Carbon Finance for NDC Implementation through Global Partnerships and Digital Pathways.&rdquo;</li>\n\t<li><strong>Scope:</strong> The conference focused on the Carbon Credit Trading Scheme (CCTS), which already has 9 notified methodologies and 40+ registered entities.</li>\n\t<li><strong>Target Entities:</strong> Emission targets have been notified for approximately 490 entities across seven energy-intensive sectors.</li>\n\t<li><strong>The 3 Cs:</strong> The framework emphasizes Credibility, Capital, and Collaboration to drive clean technology investment.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>What is a Carbon Market?</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Environmental Economics</span></u>\n\n\t<ul>\n\t\t<li>A Carbon Market is a trading system where carbon credits are sold and bought. One carbon credit usually equals one tonne of CO2 reduced or avoided. It allows companies or countries to compensate for their greenhouse gas emissions by financing projects that reduce emissions elsewhere.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69bd20cb9cfc9be24780e5c2",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Who won the Chinese Grand Prix 2026, becoming a record-breaking 19-year-old winner for Mercedes?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "George Russell",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Lewis Hamilton",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Kimi Antonelli",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Charles Leclerc",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Lando Norris",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Kimi Antonelli.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>19-year-old Kimi Antonelli secured a historic victory for Mercedes at the 2026 Chinese Grand Prix.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Historic Feat:</strong> Antonelli converted his status as the youngest pole-sitter in F1 history into a race win.</li>\n\t<li><strong>Mercedes 1-2:</strong> The race ended with a Mercedes dominance, as George Russell finished second behind his teammate.</li>\n\t<li><strong>Ferrari Milestone:</strong> Lewis Hamilton secured his first-ever podium finish for Scuderia Ferrari by placing third.</li>\n\t<li><strong>Championship Race:</strong> Following the win, George Russell leads the championship, but his lead over Antonelli has narrowed to only 4 points.</li>\n\t<li><strong>Race Incident:</strong> The event saw a major upset for McLaren as both their cars failed to start the race.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Mercedes (Silver Arrows)</span></u>\n\n\t<ul>\n\t\t<li>The team has returned to a dominant position in the 2026 season, marking a strong start to the new era of technical regulations.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Shanghai International Circuit</span></u>\n\t<ul>\n\t\t<li>The Chinese GP is held at this circuit, known for its unique \"Shang\" (上) character-shaped layout and challenging \"snail\" turn.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69c640886e0c69e4501b00b2",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Consider the following statements regarding the National-Level CSR Conclave held in March 2026:<br />\n1. It was organized by the Ministry of Tribal Affairs at Sunder Nursery, New Delhi.<br />\n2. Its theme was \"Empowering Tribals through CSR and Pledging Partnership for Tribal Upliftment\".<br />\n3. A \"Solar Entrepreneur\" training program was launched during the event in collaboration with the Ministry of MSME.<br />\n<br />\nWhich of the statements given above are correct?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 and 2 only",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2 and 3 only",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1 and 3 only",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1, 2 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "TERI",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>1 and 2 only.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Ministry of Tribal Affairs hosted the National-Level CSR Conclave on March 24, 2026.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Statement 1 is correct:</strong> The event took place at Sunder Nursery, New Delhi, to foster partnerships for tribal development.</li>\n\t<li><strong>Statement 2 is correct:</strong> The official theme was &ldquo;Empowering Tribals through CSR and Pledging Partnership for Tribal Upliftment&rdquo;.</li>\n\t<li><strong>Statement 3 is incorrect:</strong> The \"Solar Entrepreneur\" program was launched in collaboration with the <strong>Ministry of New and Renewable Energy (MNRE)</strong>, not the Ministry of MSME.</li>\n\t<li>Union Minister Shri Jual Oram emphasized that companies have a special obligation to invest in tribal communities as these areas provide the natural resources used for nation-building.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Training Partner</span></u>\n\n\t<ul>\n\t\t<li>Tata Power Skill Development Institute supported a 9-day residential training program for tribal youth.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69bd20d1e558397a68d1f2f2",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "Who has been awarded the 2026 Mark Lynton History Prize for the book \"The Golden Road: How Ancient India Transformed the World\"?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Ramachandra Guha",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "William Dalrymple",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Siddharth Kara",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Shashi Tharoor",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sanjeev Sanyal",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>William Dalrymple.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Historian William Dalrymple won the 2026 Mark Lynton History Prize for his latest work exploring ancient India&#39;s global influence.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Winning Work:</strong> The prize was awarded for the book \"The Golden Road: How Ancient India Transformed the World.\"</li>\n\t<li><strong>Prize Details:</strong> The Mark Lynton History Prize is an annual USD 10,000 award given to a work of history that combines scholarly depth with high-quality writing.</li>\n\t<li><strong>Administration:</strong> It is part of the J. Anthony Lukas Book Prize, administered by the Nieman Foundation and Columbia University.</li>\n\t<li><strong>Finalist:</strong> The other finalist for the 2026 prize was Siddharth Kara for his book \"The Zorg.\"</li>\n\t<li><strong>Legacy:</strong> The award is named after Mark Lynton, a WWII veteran, business executive, and author.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">William Dalrymple</span></u>\n\n\t<ul>\n\t\t<li>He is a world-renowned historian and author of several acclaimed books on Indian history, including The Anarchy, White Mughals, and The Last Mughal. He is also the co-founder of the Jaipur Literature Festival.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69c640889464c2d803d61cd2",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Who has been appointed as the official Brand Ambassador for the BHIM (Bharat Interface for Money) App?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Sachin Tendulkar",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rohit Sharma",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mahendra Singh Dhoni",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Virat Kohli",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only 2",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Mahendra Singh Dhoni.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NPCI BHIM Services Limited (NBSL) has officially named Mahendra Singh Dhoni as the Brand Ambassador for the BHIM payments app.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Strategic Goal:</strong> The partnership aims to build <strong>user confidence</strong> and drive <strong>financial inclusion</strong> across India.</li>\n\t<li><strong>Brand Identity:</strong> Dhoni&rsquo;s image of <strong>consistency and trust</strong> aligns with BHIM&rsquo;s tagline, <strong>\"Bharat Ka Apna Payments App.\"</strong></li>\n\t<li><strong>Anniversary:</strong> The appointment comes as the BHIM app nears its <strong>tenth anniversary</strong> (launched in December 2016).</li>\n\t<li><strong>NPCI Body:</strong> The initiative is led by <strong>NPCI BHIM Services Limited (NBSL)</strong>, a subsidiary of the National Payments Corporation of India.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>About BHIM App</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Digital Payments</span></u>\n\n\t<ul>\n\t\t<li>BHIM (Bharat Interface for Money) is a mobile payment app developed by NPCI based on the Unified Payments Interface (UPI), allowing direct bank-to-bank transfers.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69bd20d5ab64bc3ec77eb4c9",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "In March 2026, the Indian Naval Sail Training Ship INS Sudarshini arrived at the port of Valletta in which country as part of the Lokayan-26 expedition?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Egypt",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "France",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Malta",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Greece",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cyprus",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Malta.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>INS Sudarshini reached the port of Valletta, Malta, on 12th March 2026, during its global expedition Lokayan-26.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Expedition Name:</strong> The ship is on a 22,000-nautical-mile transoceanic voyage titled <strong>Lokayan-26</strong>, which started from Kochi on 20th January 2026.</li>\n\t<li><strong>Diplomatic Vision:</strong> The visit aligns with the <strong>MAHASAGAR vision</strong>, focusing on maritime cooperation and people-to-people ties.</li>\n\t<li><strong>Route:</strong> Before arriving in Malta, the ship transited the <strong>Suez Canal</strong> and visited Alexandria, Egypt.</li>\n\t<li><strong>Next Destination:</strong> From Malta, the ship will sail to France to participate in the <strong>Escale &agrave; S&egrave;te</strong> maritime festival.</li>\n\t<li><strong>Professional Engagement:</strong> The crew will interact with the <strong>Armed Forces of Malta</strong> to promote mutual trust and interoperability between the two nations.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">INS Sudarshini</span></u>\n\n\t<ul>\n\t\t<li>An indigenous three-masted sail training ship of the Indian Navy, built by Goa Shipyard Limited. It is designed for training cadets in seamanship and navigation.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">MAHASAGAR</span></u>\n\t<ul>\n\t\t<li>Indian Navy&#39;s initiative (Maritime Heads for Active Security And Growth for All in the Region) aimed at collective security and growth in the maritime domain.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69c640884db78bf453e783c6",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "_____ organized a nationwide Shaheed Diwas Padyatra on 23 March 2026 under the theme &ldquo;MY Bharat, My Responsibility&rdquo;?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NITI Aayog",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Mera Yuva Bharat (MY Bharat)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Nehru Yuva Kendra Sangathan (NYKS)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "National Service Scheme (NSS)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Hardik Pandya",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Mera Yuva Bharat (MY Bharat).</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Mera Yuva Bharat (MY Bharat), under the Ministry of Youth Affairs and Sports, organized a nationwide Padyatra on 23 March 2026 to mark Shaheed Diwas.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Purpose:</strong> To honor the sacrifices of freedom fighters Bhagat Singh, Rajguru, and Sukhdev and encourage youth-led nation-building.</li>\n\t<li><strong>Theme:</strong> The 2026 initiative was held under the theme &ldquo;MY Bharat, My Responsibility&rdquo;.</li>\n\t<li><strong>Scale:</strong> The Padyatras covered all 763 districts of India, with the central event held in Faridabad, Haryana.</li>\n\t<li><strong>Dignitaries:</strong> The Faridabad event was attended by Union MoS for Youth Affairs and Sports, Smt. Raksha Khadse.</li>\n\t<li><strong>Digital Push:</strong> The campaign included a &ldquo;Civic Sense Challenge&rdquo; and a reel competition titled &ldquo;Ek Yuva Aisa Bhi&rdquo; on the MY Bharat portal.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>What is MY Bharat?</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Youth Development</span></u>\n\n\t<ul>\n\t\t<li><strong>Mera Yuva Bharat (MY Bharat)</strong> is an autonomous body set up by the Government of India to serve as a &#39;one-stop-shop&#39; for youth development, providing equitable access to opportunities and fostering a sense of social responsibility among people aged 15&ndash;29.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Chapter Test"
+        },
+        {
+          "id": "69bd20d6c22ee4e29a7924db",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "For the year 2025, the Sahitya Akademi Award in the Hindi language has been awarded to Mamta Kalia for which literary work?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Safety Kit",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Jeete Jee Allahabad",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bharkhama",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Animesha",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Aadha Gaon",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Jeete Jee Allahabad.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Sahitya Akademi announced its 2025 annual awards, recognizing literary excellence in 24 Indian languages.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Hindi Recipient:</strong> Renowned author <strong>Mamta Kalia</strong> won the award for her memoir <strong>&#39;Jeete Jee Allahabad&#39;</strong>.</li>\n\t<li><strong>Genre:</strong> The book falls under the <strong>Memoir</strong> category, reflecting on her experiences and the literary environment of Allahabad (Prayagraj).</li>\n\t<li><strong>Other Language Winners:</strong> <strong>Navtej Sarna</strong> won for English (Crimson Spring - Novel) and <strong>Raju Baviskar</strong> won for Marathi (Kalyanilya Resha - Autobiography).</li>\n\t<li><strong>Award Prize:</strong> The honor includes an engraved copper plaque, a shawl, and a cash prize of <strong>Rs 1,00,000</strong>.</li>\n\t<li><strong>Ceremony:</strong> The official award presentation is set for <strong>March 31, 2026</strong>.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Sahitya Akademi</span></u>\n\n\t<ul>\n\t\t<li>It is an autonomous organization under the Ministry of Culture, Government of India, dedicated to the promotion of literature in Indian languages.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Language Eligibility</span></u>\n\t<ul>\n\t\t<li>Apart from the 22 languages in the Constitution, the Akademi also recognizes <strong>English</strong> and <strong>Rajasthani</strong> for its annual awards.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span>&nbsp;</p>\n\n<table style=\"color: rgb(33, 37, 41); width: 350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-weight: bolder;\">Language</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-weight: bolder;\">Title and Genre</span></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-weight: bolder;\">Name of the Author</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Assamese</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Karhi Khelar Sadhu (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Devabrat Das</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bengali</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Shrestha Kabita (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Prasun Bandyopadhyay</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bodo</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dwngnwi Lama Mwnse Gathwn (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sahaisuli Brahma</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dogri</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Thakur Satsayie (Poetry, Couplets)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Khajur Singh Thakur</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">English</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Crimson Spring (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Navtej Sarna</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Gujarati</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bhattkhadaki (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Yogesh Vaidya</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Hindi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Jeete Jee Allahabad (Memoir)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mamta Kalia</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kannada</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dada Seerisu Tande (Short Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Amaresh Nugadoni</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kashmiri</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Najdavanek&#39;y Pot Aalav (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Ali Shaida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Konkani</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Konkani Kavyem: Rupani Ani Rupakam (Essays)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Henry Mendonca (H.M. Pernal)</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Maithili</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Dhatri Paat San Gaam (Memoir)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mahendra</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Malayalam</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Maayaamanushyar (Novel)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">N. Prabhakaran</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Manipuri</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kanglamdriba Eephut (Short Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Haobam Nalini</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Marathi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Kalyanilya Resha (Autobiography)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Raju Baviskar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Nepali</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Nepali Paramparik Sanskriti Ra Sabhyata Ko Dukuti (Essays)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Prakash Bhattarai</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Odia</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Padapurana (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Girijakumar Baliyar Singh</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Punjabi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Safety Kit (Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Jinder</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Rajasthani</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bharkhama (Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Jitender Kumar Soni</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sanskrit</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Prasthanacatustaye Brahmaghosah (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mahamahopadhyaya Sadhu Bhadreshdas</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Santali</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Mid Birna Chenne Saon Inag Sagai (Short Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sumitra Soren</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sindhi</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Waghoo (Stories)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Bhagwan Atlani</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Tamil</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Thamiz Sirukathaiyin Thadangal (Literary Criticism)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Sa. Tamilselvan</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Telugu</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Animesha (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Nandini Sidha Reddy</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Urdu</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Safar Jaari Hai (Poetry)</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\" style=\"text-align: center;\">Pritpal Singh Betab</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Chapter Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:28.441Z",
+    "solutionsCount": 15,
+    "isComplete": true
+  }
+}

@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# App binaries and secrets
+testbook_auth.json
+dist/
+*.apk
+*.dmg
+*.zip

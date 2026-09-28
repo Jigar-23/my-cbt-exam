@@ -1,0 +1,2131 @@
+{
+  "ssc": [
+    {
+      "id": "6960d60ab4975a8fe9557df7",
+      "title": "SSC CGL Mock Test Series 2026 (Tier I & Tier II)",
+      "slug": "ssc-cgl",
+      "testCount": 2349,
+      "sectionsCount": 20
+    },
+    {
+      "id": "6a5f7083ae49ccc70a2a59ea",
+      "title": "UPSSSC PET Mock Test Series 2026 (New)",
+      "slug": "upsssc-pet",
+      "testCount": 273,
+      "sectionsCount": 7
+    },
+    {
+      "id": "695775734ccf9df45af31a20",
+      "title": "Current Affairs (CA) 2026 Mega Pack for SSC/Railways/State Exam Mock Test",
+      "slug": "ssc-railways-current-affairs",
+      "testCount": 493,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6981b37d28386e8aa489fe0a",
+      "title": "IBPS PO Mock Test Series 2026 (Pre + Mains + Descriptive)",
+      "slug": "ibps-po",
+      "testCount": 499,
+      "sectionsCount": 14
+    },
+    {
+      "id": "6a0450283d7430c72c0073ec",
+      "title": "CTET (Paper I & II) Mock Test Series September 2026",
+      "slug": "ctet",
+      "testCount": 1370,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6a18245659d04a64921bcbac",
+      "title": "IBPS Clerk Mock Test Series 2026 (Pre + Mains)",
+      "slug": "ibps-clerk",
+      "testCount": 331,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6971ffb9247a3fbd0651f152",
+      "title": "SSC CHSL Mock Test Series 2026 (Tier I & Tier II)",
+      "slug": "ssc-chsl",
+      "testCount": 2498,
+      "sectionsCount": 18
+    },
+    {
+      "id": "6a0c241ccf2c3cc05a5d3d29",
+      "title": "RRB Technician Grade III Mock Test Series 2026",
+      "slug": "rrb-technician",
+      "testCount": 617,
+      "sectionsCount": 11
+    },
+    {
+      "id": "694bf4025a4f5359d3d1971b",
+      "title": "RRB Group D Mock Test Series 2025-26 (New)",
+      "slug": "rrb-group-d",
+      "testCount": 2094,
+      "sectionsCount": 19
+    },
+    {
+      "id": "6a3bd0b9293afdd115de3efd",
+      "title": "SBI Clerk Mock Test Series 2026 (Prelims + Mains)",
+      "slug": "sbi-clerk",
+      "testCount": 289,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6a46696948bef137bf8fe2de",
+      "title": "RRB JE & CMA Mock Test Series 2026 (CBT 1 + CBT 2)",
+      "slug": "rrb-je",
+      "testCount": 1824,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68e61736288135ce8fb6ea20",
+      "title": "RRB NTPC Under Graduate 2025-26 (CBT 1 + CBT 2) Mock Test",
+      "slug": "rrb-ntpc-ug",
+      "testCount": 1728,
+      "sectionsCount": 19
+    },
+    {
+      "id": "698aee16bab7111e9ad868f8",
+      "title": "SSC Selection Post (Phase 14) 2026 Mock Test Series",
+      "slug": "ssc-selection-post",
+      "testCount": 573,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6a7db1e7ea1df78958d4f9cb",
+      "title": "Bihar STET Paper 2 (उच्च माध्यमिक) 2026 Mock Test Series",
+      "slug": "bihar-stet-paper-2",
+      "testCount": 571,
+      "sectionsCount": 5
+    },
+    {
+      "id": "63a186036ca390e64c3e124f",
+      "title": "SSC Maths PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-maths-previous-year-questions",
+      "testCount": 2237,
+      "sectionsCount": 13
+    },
+    {
+      "id": "68555deccf077c3917369f6d",
+      "title": "IBPS Clerk 2025 (Pre + Mains) Mock Test Series",
+      "slug": "ibps-clerk-previous",
+      "testCount": 420,
+      "sectionsCount": 13
+    },
+    {
+      "id": "6a7ee2022af5767fe5a2ae50",
+      "title": "Bihar STET Paper 1 (माध्यमिक) 2026 Mock Test Series",
+      "slug": "bihar-stet",
+      "testCount": 346,
+      "sectionsCount": 6
+    },
+    {
+      "id": "69c540f52d156abd5f8fc692",
+      "title": "RRB ALP (CBT 1 + CBT 2 + CBAT) Mock Test Series 2026",
+      "slug": "rrb-alp",
+      "testCount": 989,
+      "sectionsCount": 13
+    },
+    {
+      "id": "62cc36dab4c96bea8ab729d3",
+      "title": "All Banking & Insurance Previous Year Papers - Attempt Now!",
+      "slug": "banking-and-insurance-previous-year-papers",
+      "testCount": 339,
+      "sectionsCount": 6
+    },
+    {
+      "id": "639738f33f9060187bd1b769",
+      "title": "SSC Reasoning PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-reasoning-previous-year-questions",
+      "testCount": 2303,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68e4f124a4d902ea5ca9c860",
+      "title": "RRB NTPC Graduate 2025-26 (CBT 1 + CBT 2) Mock Test Series",
+      "slug": "rrb-ntpc",
+      "testCount": 1913,
+      "sectionsCount": 23
+    },
+    {
+      "id": "6a50974ac2baaefaaa7bbc78",
+      "title": "UGC NET (Paper I & II) December 2026 Mock Test Series",
+      "slug": "ugc-net",
+      "testCount": 1988,
+      "sectionsCount": 10
+    },
+    {
+      "id": "661f86a049390f090d463d16",
+      "title": "Allahabad High Court RO/ARO/CA Mock Test 2026",
+      "slug": "allahabad-high-court-ro",
+      "testCount": 324,
+      "sectionsCount": 7
+    },
+    {
+      "id": "68e78b08540b9a24031de605",
+      "title": "MP Police SI (Prelims + Mains) Mock Test Series 2025 (Old)",
+      "slug": "mp-police-si-previous",
+      "testCount": 719,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69fb45df9cd4be8eb6936b00",
+      "title": "72nd BPSC CCE (Preliminary) Mock Test Series 2026 (Latest Pattern)",
+      "slug": "bpsc-exam",
+      "testCount": 283,
+      "sectionsCount": 7
+    },
+    {
+      "id": "65cdd01b9bcb1115afad7b58",
+      "title": "General Science for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-general-science-previous-year-questions",
+      "testCount": 518,
+      "sectionsCount": 7
+    },
+    {
+      "id": "6660671c697431074496162f",
+      "title": "CAPF HC & ASI (BSF/CISF/CRPF/ITBP) Mock Test 2024-26",
+      "slug": "capf-hc-ministerial-asi-steno",
+      "testCount": 457,
+      "sectionsCount": 6
+    },
+    {
+      "id": "65cdd04b382f8bb79e4c4b65",
+      "title": "Mathematics for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-maths-previous-year-questions",
+      "testCount": 1025,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a5b3033647f9156ab0f2015",
+      "title": "NICL Assistant Mock Test Series 2026 (Pre + Mains)",
+      "slug": "nicl-assistant",
+      "testCount": 94,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6781003d150f9434e8e80547",
+      "title": "MP Patwari (Group 2 Sub Group 4) Mock Test Series 2026",
+      "slug": "mp-patwari",
+      "testCount": 338,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69a57e7f7fc9bd72cee751f4",
+      "title": "MP Forest Guard/Jail Prahari & Assistant Jail Superintendent Mock Test Series 2026",
+      "slug": "mp-forest-guard",
+      "testCount": 867,
+      "sectionsCount": 12
+    },
+    {
+      "id": "67e67a85ecb9b9cd9f07b9df",
+      "title": "UP Police Constable Mock Test Series 2025-26",
+      "slug": "up-police-constable",
+      "testCount": 1084,
+      "sectionsCount": 17
+    },
+    {
+      "id": "65a5083d7d001f722457d952",
+      "title": "BSSC CGL Mock Test 2025",
+      "slug": "bssc-cgl",
+      "testCount": 350,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6995c2b45dd9cd4b3ae1a991",
+      "title": "CG Vyapam (मण्डी) SI Mock Test 2026",
+      "slug": "cg-vyapam-si",
+      "testCount": 329,
+      "sectionsCount": 7
+    },
+    {
+      "id": "65cdd037c8a77dba8251e032",
+      "title": "Reasoning for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-reasoning-previous-year-questions",
+      "testCount": 998,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6916fa5f08f46c18d3c95f17",
+      "title": "SSC CPO Rankers Test Series 2025",
+      "slug": "ssc-cpo-ranker",
+      "testCount": 87,
+      "sectionsCount": 3
+    },
+    {
+      "id": "6888bfde827a8eb4a948d802",
+      "title": "Rajasthan Police SI/Platoon Commander 2025 Mock Test Series",
+      "slug": "rajasthan-police-si",
+      "testCount": 457,
+      "sectionsCount": 10
+    },
+    {
+      "id": "602eb066e1ce7a759de6e98b",
+      "title": "General Science Booster - Get your Knowledge on Track",
+      "slug": "general-science",
+      "testCount": 104,
+      "sectionsCount": 5
+    },
+    {
+      "id": "68e369fddfe41a9c30482098",
+      "title": "SSC GD Constable 2026 Mock Test Series",
+      "slug": "ssc-gd-constable",
+      "testCount": 3439,
+      "sectionsCount": 23
+    },
+    {
+      "id": "6308c91ba485232b29d9c067",
+      "title": "Bihar SSC (BSSC) Inter Level Mock Test 2024 - 26",
+      "slug": "bssc-inter-level",
+      "testCount": 636,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69427981bfa0892e08de53b8",
+      "title": "UP Lekhpal (लेखपाल) Mock Test Series 2025 - 26",
+      "slug": "up-lekhpal",
+      "testCount": 416,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69b15db88115693c12ccc338",
+      "title": "SSC Stenographer Grade C & D Mock Test 2026 (New Pattern)",
+      "slug": "ssc-stenographer",
+      "testCount": 433,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a7495dcf0d1784ac6952ae4",
+      "title": "IBPS RRB PO 2026 (Pre+Mains) Mock Test Series",
+      "slug": "ibps-rrb-po",
+      "testCount": 446,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6909e7c9c84844ac6d418029",
+      "title": "UP Home Guard Mock Test Series 2025",
+      "slug": "up-homeguard",
+      "testCount": 323,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6880d559c93fc8f33720ebb9",
+      "title": "UPSC EPFO EO/AO & APFC Combined Test Series 2025",
+      "slug": "upsc-epfo-previous",
+      "testCount": 328,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6389f0174435a5618aa31b46",
+      "title": "SSC English PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-english-previous-year-questions",
+      "testCount": 2156,
+      "sectionsCount": 12
+    },
+    {
+      "id": "66445e350ac06ef32780bcd5",
+      "title": "BPSC 4.0 बिहार उच्च माध्यमिक शिक्षक भर्ती (PGT) Mock Test",
+      "slug": "bihar-senior-secondary-teacher-previous",
+      "testCount": 635,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a47a29a9e8e05a7a18d329b",
+      "title": "RRB Section Controller 2026 (CBT + CBAT) Mock Test Series",
+      "slug": "rrb-section-controller",
+      "testCount": 196,
+      "sectionsCount": 6
+    },
+    {
+      "id": "636cfd4913310b7bde6fe9f9",
+      "title": "SSC GK PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-gk-previous-year-questions",
+      "testCount": 2383,
+      "sectionsCount": 15
+    },
+    {
+      "id": "6631f4ff05bed84959ee9cfc",
+      "title": "BPSC बिहार माध्यमिक TGT (9 to 10) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-secondary-teacher-previous",
+      "testCount": 643,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69c661205ba135daec669610",
+      "title": "SSC CPO Mock Test Series 2026 (Tier I & II)",
+      "slug": "ssc-cpo",
+      "testCount": 474,
+      "sectionsCount": 12
+    },
+    {
+      "id": "66238ec2cd4fed35ac2b0095",
+      "title": "BPSC बिहार मध्य विद्यालय (6 to 8) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-upper-primary-teacher-previous",
+      "testCount": 640,
+      "sectionsCount": 15
+    },
+    {
+      "id": "6a181defe78840d593c511cf",
+      "title": "UPSC CDS 02/2026 Mock Test Series",
+      "slug": "cds",
+      "testCount": 326,
+      "sectionsCount": 7
+    },
+    {
+      "id": "6a55e3eb5ce0e447151884fa",
+      "title": "UGC NET (Hindi & Paper I) Dec 2026 Mock Test Series",
+      "slug": "ugc-net-hindi",
+      "testCount": 469,
+      "sectionsCount": 10
+    },
+    {
+      "id": "69c4d8ff7ec09bc7a518d5f6",
+      "title": "SSC MTS & Havaldar Mock Test Series 2026",
+      "slug": "ssc-mts",
+      "testCount": 667,
+      "sectionsCount": 10
+    },
+    {
+      "id": "69fb213dce2625afac297511",
+      "title": "CIL Management Trainee Mock Test Series 2026",
+      "slug": "cil-mt",
+      "testCount": 801,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68ee67a156dc02db1e06b4ab",
+      "title": "Typing Test for RRB NTPC Exam",
+      "slug": "rrb-ntpc-typing",
+      "testCount": 11,
+      "sectionsCount": 2
+    },
+    {
+      "id": "68540c392b0c2b672295bb75",
+      "title": "RRB Technician Grade III Mock Test Series 2025",
+      "slug": "rrb-technician-previous",
+      "testCount": 769,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68c583429c646239e47b0431",
+      "title": "MP Police Constable Mock Test Series 2025",
+      "slug": "mp-police-constable",
+      "testCount": 816,
+      "sectionsCount": 13
+    },
+    {
+      "id": "60b76d1fc9009f7b44011d21",
+      "title": "Social Science (SST) Content for All Teaching Exams - Let's Crack TET!",
+      "slug": "social-science-teaching-exams",
+      "testCount": 191,
+      "sectionsCount": 5
+    },
+    {
+      "id": "66265ec4071f50ddd51db1e4",
+      "title": "BPSC बिहार प्राथमिक (1 to 5) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-primary-teacher-previous",
+      "testCount": 368,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a818a8bdf47c2605a306e92",
+      "title": "MP Police SI / Subedar (Prelims + Mains) Mock Test 2026",
+      "slug": "mp-police-si",
+      "testCount": 460,
+      "sectionsCount": 8
+    },
+    {
+      "id": "68a9c32de7acf6716d514aad",
+      "title": "BPSC AEDO Mock Test Series 2025",
+      "slug": "bpsc-aedo",
+      "testCount": 788,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69f1d3443bc5ffad557d6093",
+      "title": "WBPSC Miscellaneous Services Mock Test 2026",
+      "slug": "wbpsc-miscellaneous",
+      "testCount": 205,
+      "sectionsCount": 8
+    },
+    {
+      "id": "65ccd1a909db825b57e22acb",
+      "title": "General Knowledge for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-gk-previous-year-questions",
+      "testCount": 1068,
+      "sectionsCount": 9
+    },
+    {
+      "id": "680a317313681487d62ca28d",
+      "title": "RRB JE & CMA Mock Test Series 2025 (CBT 1 + CBT 2)",
+      "slug": "rrb-je-previous",
+      "testCount": 3063,
+      "sectionsCount": 30
+    },
+    {
+      "id": "6a3e23fc20bb968987614e9b",
+      "title": "Agniveer Vayu & Airmen (Group Y) 02/2027 Mock Test Series",
+      "slug": "airforce-group-y",
+      "testCount": 170,
+      "sectionsCount": 7
+    },
+    {
+      "id": "67dd00d3a5af44446ea0de38",
+      "title": "IBPS RRB Clerk 2025 Mock Test Series (Pre + Mains)",
+      "slug": "ibps-rrb-clerk",
+      "testCount": 504,
+      "sectionsCount": 15
+    },
+    {
+      "id": "67e793862d6bdb1aab82e92d",
+      "title": "UP Police SI (दरोगा) Mock Test Series 2025",
+      "slug": "up-police-si",
+      "testCount": 1059,
+      "sectionsCount": 19
+    },
+    {
+      "id": "6a3403fae54d834e19b86e95",
+      "title": "Rajasthan CET Senior Secondary Mock Test 2026",
+      "slug": "rajasthan-cet-senior-secondary",
+      "testCount": 250,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69f9a2de7657133a89ecff35",
+      "title": "IBPS SO Mock Test Series 2026 (Prelims+Mains+Descriptive)",
+      "slug": "ibps-so",
+      "testCount": 301,
+      "sectionsCount": 13
+    },
+    {
+      "id": "6a5634c0978eddcebb298e4f",
+      "title": "Bihar Police SI (General Closed Cadre) Mock Test Series 2026",
+      "slug": "bihar-police-si-general-closed-cadre",
+      "testCount": 212,
+      "sectionsCount": 6
+    },
+    {
+      "id": "67d146c40184ee975890c712",
+      "title": "Bihar Police Constable (सिपाही) Mock Test Series 2025",
+      "slug": "bihar-police-constable",
+      "testCount": 350,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a4f7411b458196452a926c1",
+      "title": "SUPER TET - UP Assistant Teacher 2026 Mock Test Series",
+      "slug": "super-tet",
+      "testCount": 255,
+      "sectionsCount": 4
+    },
+    {
+      "id": "69ba90666a5a52467b16172a",
+      "title": "Uttar Pradesh (उत्तर प्रदेश) PCS Mock Test Series 2026",
+      "slug": "uppcs",
+      "testCount": 241,
+      "sectionsCount": 7
+    },
+    {
+      "id": "648036e7c043e6198112c349",
+      "title": "Ace General Knowledge - For All Railway, SSC & Other Competitive Exams",
+      "slug": "general-knowledge-ssc-railways-competitive-exams",
+      "testCount": 244,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6a688ce5565510215c51246a",
+      "title": "ISRO Assistant/Personal Assistant/UDC/Stenographer Mock Test 2026",
+      "slug": "isro-assistant",
+      "testCount": 123,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6a3a8d8ec8604779fd496c3f",
+      "title": "Agniveer Vayu Group (X & XY) 02/2027 Mock Test Series",
+      "slug": "airforce-group-x",
+      "testCount": 293,
+      "sectionsCount": 8
+    },
+    {
+      "id": "68c2ac50c9a564805b2c8919",
+      "title": "IOCL ENGINEER/OFFICER (GRADE - A) Mock Test 2025",
+      "slug": "iocl-engineer-previous",
+      "testCount": 43,
+      "sectionsCount": 2
+    },
+    {
+      "id": "6a5b5ec9a8b25b9a57158179",
+      "title": "CCI Junior Assistant /Junior Commercial Executive 2026 Mock Test",
+      "slug": "cci-junior-commercial-executive",
+      "testCount": 118,
+      "sectionsCount": 5
+    },
+    {
+      "id": "69df92c9938b6f4fde8ac2e7",
+      "title": "SBI PO Mock Test Series 2026 (Pre+Mains+Descriptive)",
+      "slug": "sbi-po",
+      "testCount": 538,
+      "sectionsCount": 14
+    },
+    {
+      "id": "6a1d88acc876e0919260675f",
+      "title": "UPSC Civil Services Exam (Prelims) 2027 Mock Test Series",
+      "slug": "upsc-civil-services",
+      "testCount": 230,
+      "sectionsCount": 6
+    },
+    {
+      "id": "67c6e929ab093099e644abde",
+      "title": "SSC CHSL Mock Test Series 2025 (Tier I & Tier II)",
+      "slug": "ssc-chsl-previous",
+      "testCount": 2525,
+      "sectionsCount": 24
+    },
+    {
+      "id": "6328692405998c9cddd6cdcd",
+      "title": "MP State Exams Previous Year Question Papers",
+      "slug": "mp-govt-exams-previous-year-papers",
+      "testCount": 202,
+      "sectionsCount": 3
+    },
+    {
+      "id": "6a5f49f99ab56a6627d51860",
+      "title": "SSC Computer PYP 2026 Mock Test Series",
+      "slug": "ssc-cgl-computer",
+      "testCount": 8,
+      "sectionsCount": 1
+    },
+    {
+      "id": "6a1582682fe9fcb25cd3d0b7",
+      "title": "Punjab And Haryana High Court Clerk Mock Test Series 2026",
+      "slug": "punjab-and-haryana-high-court-clerk",
+      "testCount": 211,
+      "sectionsCount": 7
+    },
+    {
+      "id": "683da4f981152606586845e0",
+      "title": "WB SSC Group C & D Combined Mock Test Series 2025",
+      "slug": "west-bengal-group-c",
+      "testCount": 290,
+      "sectionsCount": 11
+    },
+    {
+      "id": "67ef6a56a89d14713c937079",
+      "title": "RRB ALP (CBT 1 + CBT 2 + CBAT) Mock Test Series 2025",
+      "slug": "rrb-alp-previous",
+      "testCount": 1594,
+      "sectionsCount": 20
+    },
+    {
+      "id": "69ce47ee8236fba829680088",
+      "title": "UPSSSC Lower PCS Mock Test Series 2026",
+      "slug": "upsssc-lower-pcs",
+      "testCount": 346,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6a356a848e97ad8cb6da287a",
+      "title": "Haryana CET Group D Mock Test Series 2026",
+      "slug": "haryana-cet-group-d",
+      "testCount": 173,
+      "sectionsCount": 5
+    },
+    {
+      "id": "69f9e202c97f9ec2a4f88eff",
+      "title": "RRB Technician Grade 1 Mock Test Series 2026",
+      "slug": "rrb-technician-grade-1",
+      "testCount": 536,
+      "sectionsCount": 9
+    },
+    {
+      "id": "67e1313fbe36b536da04a54a",
+      "title": "UP TGT Mock Test Series 2025",
+      "slug": "up-tgt",
+      "testCount": 565,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6412c9095b6f31d6ceb8a010",
+      "title": "Hindi Mock Tests for All State Level Exams",
+      "slug": "hindi-for-govt-exam",
+      "testCount": 181,
+      "sectionsCount": 6
+    },
+    {
+      "id": "696a11a3de9538e01d610a83",
+      "title": "MP Vyapam Sub Engineer Mock Test 2026",
+      "slug": "mp-vyapam-sub-engineer",
+      "testCount": 382,
+      "sectionsCount": 4
+    },
+    {
+      "id": "6a3d28244deef418ada5989f",
+      "title": "MPSC Group C Combined Mock Test 2026",
+      "slug": "mpsc-group-c",
+      "testCount": 183,
+      "sectionsCount": 8
+    },
+    {
+      "id": "60b755bcd36552e4f9a7f94f",
+      "title": "Pedagogy for All Teaching Exams (Paper 1 & 2) - Let's Crack TET!",
+      "slug": "pedagogy-teaching-exams",
+      "testCount": 345,
+      "sectionsCount": 3
+    },
+    {
+      "id": "665d8d6f5e9f69490547bf2d",
+      "title": "NBE Junior Assistant 2024 Mock Tests Series",
+      "slug": "nbe-junior-assistant",
+      "testCount": 16,
+      "sectionsCount": 3
+    },
+    {
+      "id": "681611018b26ab94a34bc510",
+      "title": "UPSSSC PET Mock Test Series 2025",
+      "slug": "upsssc-pet-previous",
+      "testCount": 493,
+      "sectionsCount": 11
+    },
+    {
+      "id": "6811d4f098c045ab8119776c",
+      "title": "Reasoning Foundation Test Series 2025",
+      "slug": "haryana-harco-bank-reasoning",
+      "testCount": 81,
+      "sectionsCount": 6
+    },
+    {
+      "id": "678cdc0072bba7bf645163a8",
+      "title": "Current Affairs (CA) 2025 Mega Pack for SSC/Railways/State Exam Mock Test",
+      "slug": "ssc-railways-current-affairs-2025",
+      "testCount": 458,
+      "sectionsCount": 10
+    }
+  ],
+  "civil": [
+    {
+      "id": "6960d60ab4975a8fe9557df7",
+      "title": "SSC CGL Mock Test Series 2026 (Tier I & Tier II)",
+      "slug": "ssc-cgl",
+      "testCount": 2349,
+      "sectionsCount": 20
+    },
+    {
+      "id": "6a5f7083ae49ccc70a2a59ea",
+      "title": "UPSSSC PET Mock Test Series 2026 (New)",
+      "slug": "upsssc-pet",
+      "testCount": 273,
+      "sectionsCount": 7
+    },
+    {
+      "id": "695775734ccf9df45af31a20",
+      "title": "Current Affairs (CA) 2026 Mega Pack for SSC/Railways/State Exam Mock Test",
+      "slug": "ssc-railways-current-affairs",
+      "testCount": 493,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6981b37d28386e8aa489fe0a",
+      "title": "IBPS PO Mock Test Series 2026 (Pre + Mains + Descriptive)",
+      "slug": "ibps-po",
+      "testCount": 499,
+      "sectionsCount": 14
+    },
+    {
+      "id": "6a0450283d7430c72c0073ec",
+      "title": "CTET (Paper I & II) Mock Test Series September 2026",
+      "slug": "ctet",
+      "testCount": 1370,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6a18245659d04a64921bcbac",
+      "title": "IBPS Clerk Mock Test Series 2026 (Pre + Mains)",
+      "slug": "ibps-clerk",
+      "testCount": 331,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6971ffb9247a3fbd0651f152",
+      "title": "SSC CHSL Mock Test Series 2026 (Tier I & Tier II)",
+      "slug": "ssc-chsl",
+      "testCount": 2498,
+      "sectionsCount": 18
+    },
+    {
+      "id": "6a0c241ccf2c3cc05a5d3d29",
+      "title": "RRB Technician Grade III Mock Test Series 2026",
+      "slug": "rrb-technician",
+      "testCount": 617,
+      "sectionsCount": 11
+    },
+    {
+      "id": "694bf4025a4f5359d3d1971b",
+      "title": "RRB Group D Mock Test Series 2025-26 (New)",
+      "slug": "rrb-group-d",
+      "testCount": 2094,
+      "sectionsCount": 19
+    },
+    {
+      "id": "6a3bd0b9293afdd115de3efd",
+      "title": "SBI Clerk Mock Test Series 2026 (Prelims + Mains)",
+      "slug": "sbi-clerk",
+      "testCount": 289,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6a46696948bef137bf8fe2de",
+      "title": "RRB JE & CMA Mock Test Series 2026 (CBT 1 + CBT 2)",
+      "slug": "rrb-je",
+      "testCount": 1824,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68e61736288135ce8fb6ea20",
+      "title": "RRB NTPC Under Graduate 2025-26 (CBT 1 + CBT 2) Mock Test",
+      "slug": "rrb-ntpc-ug",
+      "testCount": 1728,
+      "sectionsCount": 19
+    },
+    {
+      "id": "698aee16bab7111e9ad868f8",
+      "title": "SSC Selection Post (Phase 14) 2026 Mock Test Series",
+      "slug": "ssc-selection-post",
+      "testCount": 573,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6a7db1e7ea1df78958d4f9cb",
+      "title": "Bihar STET Paper 2 (उच्च माध्यमिक) 2026 Mock Test Series",
+      "slug": "bihar-stet-paper-2",
+      "testCount": 571,
+      "sectionsCount": 5
+    },
+    {
+      "id": "63a186036ca390e64c3e124f",
+      "title": "SSC Maths PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-maths-previous-year-questions",
+      "testCount": 2237,
+      "sectionsCount": 13
+    },
+    {
+      "id": "68555deccf077c3917369f6d",
+      "title": "IBPS Clerk 2025 (Pre + Mains) Mock Test Series",
+      "slug": "ibps-clerk-previous",
+      "testCount": 420,
+      "sectionsCount": 13
+    },
+    {
+      "id": "6a7ee2022af5767fe5a2ae50",
+      "title": "Bihar STET Paper 1 (माध्यमिक) 2026 Mock Test Series",
+      "slug": "bihar-stet",
+      "testCount": 346,
+      "sectionsCount": 6
+    },
+    {
+      "id": "69c540f52d156abd5f8fc692",
+      "title": "RRB ALP (CBT 1 + CBT 2 + CBAT) Mock Test Series 2026",
+      "slug": "rrb-alp",
+      "testCount": 989,
+      "sectionsCount": 13
+    },
+    {
+      "id": "62cc36dab4c96bea8ab729d3",
+      "title": "All Banking & Insurance Previous Year Papers - Attempt Now!",
+      "slug": "banking-and-insurance-previous-year-papers",
+      "testCount": 339,
+      "sectionsCount": 6
+    },
+    {
+      "id": "639738f33f9060187bd1b769",
+      "title": "SSC Reasoning PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-reasoning-previous-year-questions",
+      "testCount": 2303,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68e4f124a4d902ea5ca9c860",
+      "title": "RRB NTPC Graduate 2025-26 (CBT 1 + CBT 2) Mock Test Series",
+      "slug": "rrb-ntpc",
+      "testCount": 1913,
+      "sectionsCount": 23
+    },
+    {
+      "id": "6a50974ac2baaefaaa7bbc78",
+      "title": "UGC NET (Paper I & II) December 2026 Mock Test Series",
+      "slug": "ugc-net",
+      "testCount": 1988,
+      "sectionsCount": 10
+    },
+    {
+      "id": "661f86a049390f090d463d16",
+      "title": "Allahabad High Court RO/ARO/CA Mock Test 2026",
+      "slug": "allahabad-high-court-ro",
+      "testCount": 324,
+      "sectionsCount": 7
+    },
+    {
+      "id": "68e78b08540b9a24031de605",
+      "title": "MP Police SI (Prelims + Mains) Mock Test Series 2025 (Old)",
+      "slug": "mp-police-si-previous",
+      "testCount": 719,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69fb45df9cd4be8eb6936b00",
+      "title": "72nd BPSC CCE (Preliminary) Mock Test Series 2026 (Latest Pattern)",
+      "slug": "bpsc-exam",
+      "testCount": 283,
+      "sectionsCount": 7
+    },
+    {
+      "id": "65cdd01b9bcb1115afad7b58",
+      "title": "General Science for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-general-science-previous-year-questions",
+      "testCount": 518,
+      "sectionsCount": 7
+    },
+    {
+      "id": "6660671c697431074496162f",
+      "title": "CAPF HC & ASI (BSF/CISF/CRPF/ITBP) Mock Test 2024-26",
+      "slug": "capf-hc-ministerial-asi-steno",
+      "testCount": 457,
+      "sectionsCount": 6
+    },
+    {
+      "id": "65cdd04b382f8bb79e4c4b65",
+      "title": "Mathematics for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-maths-previous-year-questions",
+      "testCount": 1025,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a5b3033647f9156ab0f2015",
+      "title": "NICL Assistant Mock Test Series 2026 (Pre + Mains)",
+      "slug": "nicl-assistant",
+      "testCount": 94,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6781003d150f9434e8e80547",
+      "title": "MP Patwari (Group 2 Sub Group 4) Mock Test Series 2026",
+      "slug": "mp-patwari",
+      "testCount": 338,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69a57e7f7fc9bd72cee751f4",
+      "title": "MP Forest Guard/Jail Prahari & Assistant Jail Superintendent Mock Test Series 2026",
+      "slug": "mp-forest-guard",
+      "testCount": 867,
+      "sectionsCount": 12
+    },
+    {
+      "id": "67e67a85ecb9b9cd9f07b9df",
+      "title": "UP Police Constable Mock Test Series 2025-26",
+      "slug": "up-police-constable",
+      "testCount": 1084,
+      "sectionsCount": 17
+    },
+    {
+      "id": "65a5083d7d001f722457d952",
+      "title": "BSSC CGL Mock Test 2025",
+      "slug": "bssc-cgl",
+      "testCount": 350,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6995c2b45dd9cd4b3ae1a991",
+      "title": "CG Vyapam (मण्डी) SI Mock Test 2026",
+      "slug": "cg-vyapam-si",
+      "testCount": 329,
+      "sectionsCount": 7
+    },
+    {
+      "id": "65cdd037c8a77dba8251e032",
+      "title": "Reasoning for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-reasoning-previous-year-questions",
+      "testCount": 998,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6916fa5f08f46c18d3c95f17",
+      "title": "SSC CPO Rankers Test Series 2025",
+      "slug": "ssc-cpo-ranker",
+      "testCount": 87,
+      "sectionsCount": 3
+    },
+    {
+      "id": "6888bfde827a8eb4a948d802",
+      "title": "Rajasthan Police SI/Platoon Commander 2025 Mock Test Series",
+      "slug": "rajasthan-police-si",
+      "testCount": 457,
+      "sectionsCount": 10
+    },
+    {
+      "id": "68e369fddfe41a9c30482098",
+      "title": "SSC GD Constable 2026 Mock Test Series",
+      "slug": "ssc-gd-constable",
+      "testCount": 3439,
+      "sectionsCount": 23
+    },
+    {
+      "id": "602eb066e1ce7a759de6e98b",
+      "title": "General Science Booster - Get your Knowledge on Track",
+      "slug": "general-science",
+      "testCount": 104,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6308c91ba485232b29d9c067",
+      "title": "Bihar SSC (BSSC) Inter Level Mock Test 2024 - 26",
+      "slug": "bssc-inter-level",
+      "testCount": 636,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69427981bfa0892e08de53b8",
+      "title": "UP Lekhpal (लेखपाल) Mock Test Series 2025 - 26",
+      "slug": "up-lekhpal",
+      "testCount": 416,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69b15db88115693c12ccc338",
+      "title": "SSC Stenographer Grade C & D Mock Test 2026 (New Pattern)",
+      "slug": "ssc-stenographer",
+      "testCount": 433,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a7495dcf0d1784ac6952ae4",
+      "title": "IBPS RRB PO 2026 (Pre+Mains) Mock Test Series",
+      "slug": "ibps-rrb-po",
+      "testCount": 446,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6909e7c9c84844ac6d418029",
+      "title": "UP Home Guard Mock Test Series 2025",
+      "slug": "up-homeguard",
+      "testCount": 323,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6880d559c93fc8f33720ebb9",
+      "title": "UPSC EPFO EO/AO & APFC Combined Test Series 2025",
+      "slug": "upsc-epfo-previous",
+      "testCount": 328,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6389f0174435a5618aa31b46",
+      "title": "SSC English PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-english-previous-year-questions",
+      "testCount": 2156,
+      "sectionsCount": 12
+    },
+    {
+      "id": "66445e350ac06ef32780bcd5",
+      "title": "BPSC 4.0 बिहार उच्च माध्यमिक शिक्षक भर्ती (PGT) Mock Test",
+      "slug": "bihar-senior-secondary-teacher-previous",
+      "testCount": 635,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a47a29a9e8e05a7a18d329b",
+      "title": "RRB Section Controller 2026 (CBT + CBAT) Mock Test Series",
+      "slug": "rrb-section-controller",
+      "testCount": 196,
+      "sectionsCount": 6
+    },
+    {
+      "id": "636cfd4913310b7bde6fe9f9",
+      "title": "SSC GK PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-gk-previous-year-questions",
+      "testCount": 2383,
+      "sectionsCount": 15
+    },
+    {
+      "id": "6631f4ff05bed84959ee9cfc",
+      "title": "BPSC बिहार माध्यमिक TGT (9 to 10) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-secondary-teacher-previous",
+      "testCount": 643,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69c661205ba135daec669610",
+      "title": "SSC CPO Mock Test Series 2026 (Tier I & II)",
+      "slug": "ssc-cpo",
+      "testCount": 474,
+      "sectionsCount": 12
+    },
+    {
+      "id": "66238ec2cd4fed35ac2b0095",
+      "title": "BPSC बिहार मध्य विद्यालय (6 to 8) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-upper-primary-teacher-previous",
+      "testCount": 640,
+      "sectionsCount": 15
+    },
+    {
+      "id": "6a181defe78840d593c511cf",
+      "title": "UPSC CDS 02/2026 Mock Test Series",
+      "slug": "cds",
+      "testCount": 326,
+      "sectionsCount": 7
+    },
+    {
+      "id": "6a55e3eb5ce0e447151884fa",
+      "title": "UGC NET (Hindi & Paper I) Dec 2026 Mock Test Series",
+      "slug": "ugc-net-hindi",
+      "testCount": 469,
+      "sectionsCount": 10
+    },
+    {
+      "id": "69c4d8ff7ec09bc7a518d5f6",
+      "title": "SSC MTS & Havaldar Mock Test Series 2026",
+      "slug": "ssc-mts",
+      "testCount": 667,
+      "sectionsCount": 10
+    },
+    {
+      "id": "69fb213dce2625afac297511",
+      "title": "CIL Management Trainee Mock Test Series 2026",
+      "slug": "cil-mt",
+      "testCount": 801,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68ee67a156dc02db1e06b4ab",
+      "title": "Typing Test for RRB NTPC Exam",
+      "slug": "rrb-ntpc-typing",
+      "testCount": 11,
+      "sectionsCount": 2
+    },
+    {
+      "id": "68540c392b0c2b672295bb75",
+      "title": "RRB Technician Grade III Mock Test Series 2025",
+      "slug": "rrb-technician-previous",
+      "testCount": 769,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68c583429c646239e47b0431",
+      "title": "MP Police Constable Mock Test Series 2025",
+      "slug": "mp-police-constable",
+      "testCount": 816,
+      "sectionsCount": 13
+    },
+    {
+      "id": "60b76d1fc9009f7b44011d21",
+      "title": "Social Science (SST) Content for All Teaching Exams - Let's Crack TET!",
+      "slug": "social-science-teaching-exams",
+      "testCount": 191,
+      "sectionsCount": 5
+    },
+    {
+      "id": "66265ec4071f50ddd51db1e4",
+      "title": "BPSC बिहार प्राथमिक (1 to 5) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-primary-teacher-previous",
+      "testCount": 368,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a818a8bdf47c2605a306e92",
+      "title": "MP Police SI / Subedar (Prelims + Mains) Mock Test 2026",
+      "slug": "mp-police-si",
+      "testCount": 460,
+      "sectionsCount": 8
+    },
+    {
+      "id": "68a9c32de7acf6716d514aad",
+      "title": "BPSC AEDO Mock Test Series 2025",
+      "slug": "bpsc-aedo",
+      "testCount": 788,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69f1d3443bc5ffad557d6093",
+      "title": "WBPSC Miscellaneous Services Mock Test 2026",
+      "slug": "wbpsc-miscellaneous",
+      "testCount": 205,
+      "sectionsCount": 8
+    },
+    {
+      "id": "65ccd1a909db825b57e22acb",
+      "title": "General Knowledge for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-gk-previous-year-questions",
+      "testCount": 1068,
+      "sectionsCount": 9
+    },
+    {
+      "id": "680a317313681487d62ca28d",
+      "title": "RRB JE & CMA Mock Test Series 2025 (CBT 1 + CBT 2)",
+      "slug": "rrb-je-previous",
+      "testCount": 3063,
+      "sectionsCount": 30
+    },
+    {
+      "id": "6a3e23fc20bb968987614e9b",
+      "title": "Agniveer Vayu & Airmen (Group Y) 02/2027 Mock Test Series",
+      "slug": "airforce-group-y",
+      "testCount": 170,
+      "sectionsCount": 7
+    },
+    {
+      "id": "67dd00d3a5af44446ea0de38",
+      "title": "IBPS RRB Clerk 2025 Mock Test Series (Pre + Mains)",
+      "slug": "ibps-rrb-clerk",
+      "testCount": 504,
+      "sectionsCount": 15
+    },
+    {
+      "id": "67e793862d6bdb1aab82e92d",
+      "title": "UP Police SI (दरोगा) Mock Test Series 2025",
+      "slug": "up-police-si",
+      "testCount": 1059,
+      "sectionsCount": 19
+    },
+    {
+      "id": "6a3403fae54d834e19b86e95",
+      "title": "Rajasthan CET Senior Secondary Mock Test 2026",
+      "slug": "rajasthan-cet-senior-secondary",
+      "testCount": 250,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69f9a2de7657133a89ecff35",
+      "title": "IBPS SO Mock Test Series 2026 (Prelims+Mains+Descriptive)",
+      "slug": "ibps-so",
+      "testCount": 301,
+      "sectionsCount": 13
+    },
+    {
+      "id": "6a5634c0978eddcebb298e4f",
+      "title": "Bihar Police SI (General Closed Cadre) Mock Test Series 2026",
+      "slug": "bihar-police-si-general-closed-cadre",
+      "testCount": 212,
+      "sectionsCount": 6
+    },
+    {
+      "id": "67d146c40184ee975890c712",
+      "title": "Bihar Police Constable (सिपाही) Mock Test Series 2025",
+      "slug": "bihar-police-constable",
+      "testCount": 350,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a4f7411b458196452a926c1",
+      "title": "SUPER TET - UP Assistant Teacher 2026 Mock Test Series",
+      "slug": "super-tet",
+      "testCount": 255,
+      "sectionsCount": 4
+    },
+    {
+      "id": "69ba90666a5a52467b16172a",
+      "title": "Uttar Pradesh (उत्तर प्रदेश) PCS Mock Test Series 2026",
+      "slug": "uppcs",
+      "testCount": 241,
+      "sectionsCount": 7
+    },
+    {
+      "id": "648036e7c043e6198112c349",
+      "title": "Ace General Knowledge - For All Railway, SSC & Other Competitive Exams",
+      "slug": "general-knowledge-ssc-railways-competitive-exams",
+      "testCount": 244,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6a688ce5565510215c51246a",
+      "title": "ISRO Assistant/Personal Assistant/UDC/Stenographer Mock Test 2026",
+      "slug": "isro-assistant",
+      "testCount": 123,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6a3a8d8ec8604779fd496c3f",
+      "title": "Agniveer Vayu Group (X & XY) 02/2027 Mock Test Series",
+      "slug": "airforce-group-x",
+      "testCount": 293,
+      "sectionsCount": 8
+    },
+    {
+      "id": "68c2ac50c9a564805b2c8919",
+      "title": "IOCL ENGINEER/OFFICER (GRADE - A) Mock Test 2025",
+      "slug": "iocl-engineer-previous",
+      "testCount": 43,
+      "sectionsCount": 2
+    },
+    {
+      "id": "6a5b5ec9a8b25b9a57158179",
+      "title": "CCI Junior Assistant /Junior Commercial Executive 2026 Mock Test",
+      "slug": "cci-junior-commercial-executive",
+      "testCount": 118,
+      "sectionsCount": 5
+    },
+    {
+      "id": "69df92c9938b6f4fde8ac2e7",
+      "title": "SBI PO Mock Test Series 2026 (Pre+Mains+Descriptive)",
+      "slug": "sbi-po",
+      "testCount": 538,
+      "sectionsCount": 14
+    },
+    {
+      "id": "6a1d88acc876e0919260675f",
+      "title": "UPSC Civil Services Exam (Prelims) 2027 Mock Test Series",
+      "slug": "upsc-civil-services",
+      "testCount": 230,
+      "sectionsCount": 6
+    },
+    {
+      "id": "67c6e929ab093099e644abde",
+      "title": "SSC CHSL Mock Test Series 2025 (Tier I & Tier II)",
+      "slug": "ssc-chsl-previous",
+      "testCount": 2525,
+      "sectionsCount": 24
+    },
+    {
+      "id": "6328692405998c9cddd6cdcd",
+      "title": "MP State Exams Previous Year Question Papers",
+      "slug": "mp-govt-exams-previous-year-papers",
+      "testCount": 202,
+      "sectionsCount": 3
+    },
+    {
+      "id": "6a5f49f99ab56a6627d51860",
+      "title": "SSC Computer PYP 2026 Mock Test Series",
+      "slug": "ssc-cgl-computer",
+      "testCount": 8,
+      "sectionsCount": 1
+    },
+    {
+      "id": "6a1582682fe9fcb25cd3d0b7",
+      "title": "Punjab And Haryana High Court Clerk Mock Test Series 2026",
+      "slug": "punjab-and-haryana-high-court-clerk",
+      "testCount": 211,
+      "sectionsCount": 7
+    },
+    {
+      "id": "683da4f981152606586845e0",
+      "title": "WB SSC Group C & D Combined Mock Test Series 2025",
+      "slug": "west-bengal-group-c",
+      "testCount": 290,
+      "sectionsCount": 11
+    },
+    {
+      "id": "67ef6a56a89d14713c937079",
+      "title": "RRB ALP (CBT 1 + CBT 2 + CBAT) Mock Test Series 2025",
+      "slug": "rrb-alp-previous",
+      "testCount": 1594,
+      "sectionsCount": 20
+    },
+    {
+      "id": "69ce47ee8236fba829680088",
+      "title": "UPSSSC Lower PCS Mock Test Series 2026",
+      "slug": "upsssc-lower-pcs",
+      "testCount": 346,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6a356a848e97ad8cb6da287a",
+      "title": "Haryana CET Group D Mock Test Series 2026",
+      "slug": "haryana-cet-group-d",
+      "testCount": 173,
+      "sectionsCount": 5
+    },
+    {
+      "id": "69f9e202c97f9ec2a4f88eff",
+      "title": "RRB Technician Grade 1 Mock Test Series 2026",
+      "slug": "rrb-technician-grade-1",
+      "testCount": 536,
+      "sectionsCount": 9
+    },
+    {
+      "id": "67e1313fbe36b536da04a54a",
+      "title": "UP TGT Mock Test Series 2025",
+      "slug": "up-tgt",
+      "testCount": 565,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6412c9095b6f31d6ceb8a010",
+      "title": "Hindi Mock Tests for All State Level Exams",
+      "slug": "hindi-for-govt-exam",
+      "testCount": 181,
+      "sectionsCount": 6
+    },
+    {
+      "id": "696a11a3de9538e01d610a83",
+      "title": "MP Vyapam Sub Engineer Mock Test 2026",
+      "slug": "mp-vyapam-sub-engineer",
+      "testCount": 382,
+      "sectionsCount": 4
+    },
+    {
+      "id": "6a3d28244deef418ada5989f",
+      "title": "MPSC Group C Combined Mock Test 2026",
+      "slug": "mpsc-group-c",
+      "testCount": 183,
+      "sectionsCount": 8
+    },
+    {
+      "id": "60b755bcd36552e4f9a7f94f",
+      "title": "Pedagogy for All Teaching Exams (Paper 1 & 2) - Let's Crack TET!",
+      "slug": "pedagogy-teaching-exams",
+      "testCount": 345,
+      "sectionsCount": 3
+    },
+    {
+      "id": "665d8d6f5e9f69490547bf2d",
+      "title": "NBE Junior Assistant 2024 Mock Tests Series",
+      "slug": "nbe-junior-assistant",
+      "testCount": 16,
+      "sectionsCount": 3
+    },
+    {
+      "id": "681611018b26ab94a34bc510",
+      "title": "UPSSSC PET Mock Test Series 2025",
+      "slug": "upsssc-pet-previous",
+      "testCount": 493,
+      "sectionsCount": 11
+    },
+    {
+      "id": "6811d4f098c045ab8119776c",
+      "title": "Reasoning Foundation Test Series 2025",
+      "slug": "haryana-harco-bank-reasoning",
+      "testCount": 81,
+      "sectionsCount": 6
+    },
+    {
+      "id": "678cdc0072bba7bf645163a8",
+      "title": "Current Affairs (CA) 2025 Mega Pack for SSC/Railways/State Exam Mock Test",
+      "slug": "ssc-railways-current-affairs-2025",
+      "testCount": 458,
+      "sectionsCount": 10
+    }
+  ],
+  "regulatory": [
+    {
+      "id": "6960d60ab4975a8fe9557df7",
+      "title": "SSC CGL Mock Test Series 2026 (Tier I & Tier II)",
+      "slug": "ssc-cgl",
+      "testCount": 2349,
+      "sectionsCount": 20
+    },
+    {
+      "id": "6a5f7083ae49ccc70a2a59ea",
+      "title": "UPSSSC PET Mock Test Series 2026 (New)",
+      "slug": "upsssc-pet",
+      "testCount": 273,
+      "sectionsCount": 7
+    },
+    {
+      "id": "695775734ccf9df45af31a20",
+      "title": "Current Affairs (CA) 2026 Mega Pack for SSC/Railways/State Exam Mock Test",
+      "slug": "ssc-railways-current-affairs",
+      "testCount": 493,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6981b37d28386e8aa489fe0a",
+      "title": "IBPS PO Mock Test Series 2026 (Pre + Mains + Descriptive)",
+      "slug": "ibps-po",
+      "testCount": 499,
+      "sectionsCount": 14
+    },
+    {
+      "id": "6a0450283d7430c72c0073ec",
+      "title": "CTET (Paper I & II) Mock Test Series September 2026",
+      "slug": "ctet",
+      "testCount": 1370,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6a18245659d04a64921bcbac",
+      "title": "IBPS Clerk Mock Test Series 2026 (Pre + Mains)",
+      "slug": "ibps-clerk",
+      "testCount": 331,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6971ffb9247a3fbd0651f152",
+      "title": "SSC CHSL Mock Test Series 2026 (Tier I & Tier II)",
+      "slug": "ssc-chsl",
+      "testCount": 2498,
+      "sectionsCount": 18
+    },
+    {
+      "id": "6a0c241ccf2c3cc05a5d3d29",
+      "title": "RRB Technician Grade III Mock Test Series 2026",
+      "slug": "rrb-technician",
+      "testCount": 617,
+      "sectionsCount": 11
+    },
+    {
+      "id": "694bf4025a4f5359d3d1971b",
+      "title": "RRB Group D Mock Test Series 2025-26 (New)",
+      "slug": "rrb-group-d",
+      "testCount": 2094,
+      "sectionsCount": 19
+    },
+    {
+      "id": "6a3bd0b9293afdd115de3efd",
+      "title": "SBI Clerk Mock Test Series 2026 (Prelims + Mains)",
+      "slug": "sbi-clerk",
+      "testCount": 289,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6a46696948bef137bf8fe2de",
+      "title": "RRB JE & CMA Mock Test Series 2026 (CBT 1 + CBT 2)",
+      "slug": "rrb-je",
+      "testCount": 1824,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68e61736288135ce8fb6ea20",
+      "title": "RRB NTPC Under Graduate 2025-26 (CBT 1 + CBT 2) Mock Test",
+      "slug": "rrb-ntpc-ug",
+      "testCount": 1728,
+      "sectionsCount": 19
+    },
+    {
+      "id": "698aee16bab7111e9ad868f8",
+      "title": "SSC Selection Post (Phase 14) 2026 Mock Test Series",
+      "slug": "ssc-selection-post",
+      "testCount": 573,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6a7db1e7ea1df78958d4f9cb",
+      "title": "Bihar STET Paper 2 (उच्च माध्यमिक) 2026 Mock Test Series",
+      "slug": "bihar-stet-paper-2",
+      "testCount": 571,
+      "sectionsCount": 5
+    },
+    {
+      "id": "63a186036ca390e64c3e124f",
+      "title": "SSC Maths PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-maths-previous-year-questions",
+      "testCount": 2237,
+      "sectionsCount": 13
+    },
+    {
+      "id": "68555deccf077c3917369f6d",
+      "title": "IBPS Clerk 2025 (Pre + Mains) Mock Test Series",
+      "slug": "ibps-clerk-previous",
+      "testCount": 420,
+      "sectionsCount": 13
+    },
+    {
+      "id": "6a7ee2022af5767fe5a2ae50",
+      "title": "Bihar STET Paper 1 (माध्यमिक) 2026 Mock Test Series",
+      "slug": "bihar-stet",
+      "testCount": 346,
+      "sectionsCount": 6
+    },
+    {
+      "id": "69c540f52d156abd5f8fc692",
+      "title": "RRB ALP (CBT 1 + CBT 2 + CBAT) Mock Test Series 2026",
+      "slug": "rrb-alp",
+      "testCount": 989,
+      "sectionsCount": 13
+    },
+    {
+      "id": "62cc36dab4c96bea8ab729d3",
+      "title": "All Banking & Insurance Previous Year Papers - Attempt Now!",
+      "slug": "banking-and-insurance-previous-year-papers",
+      "testCount": 339,
+      "sectionsCount": 6
+    },
+    {
+      "id": "639738f33f9060187bd1b769",
+      "title": "SSC Reasoning PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-reasoning-previous-year-questions",
+      "testCount": 2303,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68e4f124a4d902ea5ca9c860",
+      "title": "RRB NTPC Graduate 2025-26 (CBT 1 + CBT 2) Mock Test Series",
+      "slug": "rrb-ntpc",
+      "testCount": 1913,
+      "sectionsCount": 23
+    },
+    {
+      "id": "6a50974ac2baaefaaa7bbc78",
+      "title": "UGC NET (Paper I & II) December 2026 Mock Test Series",
+      "slug": "ugc-net",
+      "testCount": 1988,
+      "sectionsCount": 10
+    },
+    {
+      "id": "661f86a049390f090d463d16",
+      "title": "Allahabad High Court RO/ARO/CA Mock Test 2026",
+      "slug": "allahabad-high-court-ro",
+      "testCount": 324,
+      "sectionsCount": 7
+    },
+    {
+      "id": "68e78b08540b9a24031de605",
+      "title": "MP Police SI (Prelims + Mains) Mock Test Series 2025 (Old)",
+      "slug": "mp-police-si-previous",
+      "testCount": 719,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69fb45df9cd4be8eb6936b00",
+      "title": "72nd BPSC CCE (Preliminary) Mock Test Series 2026 (Latest Pattern)",
+      "slug": "bpsc-exam",
+      "testCount": 283,
+      "sectionsCount": 7
+    },
+    {
+      "id": "65cdd01b9bcb1115afad7b58",
+      "title": "General Science for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-general-science-previous-year-questions",
+      "testCount": 518,
+      "sectionsCount": 7
+    },
+    {
+      "id": "6660671c697431074496162f",
+      "title": "CAPF HC & ASI (BSF/CISF/CRPF/ITBP) Mock Test 2024-26",
+      "slug": "capf-hc-ministerial-asi-steno",
+      "testCount": 457,
+      "sectionsCount": 6
+    },
+    {
+      "id": "65cdd04b382f8bb79e4c4b65",
+      "title": "Mathematics for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-maths-previous-year-questions",
+      "testCount": 1025,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a5b3033647f9156ab0f2015",
+      "title": "NICL Assistant Mock Test Series 2026 (Pre + Mains)",
+      "slug": "nicl-assistant",
+      "testCount": 94,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6781003d150f9434e8e80547",
+      "title": "MP Patwari (Group 2 Sub Group 4) Mock Test Series 2026",
+      "slug": "mp-patwari",
+      "testCount": 338,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69a57e7f7fc9bd72cee751f4",
+      "title": "MP Forest Guard/Jail Prahari & Assistant Jail Superintendent Mock Test Series 2026",
+      "slug": "mp-forest-guard",
+      "testCount": 867,
+      "sectionsCount": 12
+    },
+    {
+      "id": "67e67a85ecb9b9cd9f07b9df",
+      "title": "UP Police Constable Mock Test Series 2025-26",
+      "slug": "up-police-constable",
+      "testCount": 1084,
+      "sectionsCount": 17
+    },
+    {
+      "id": "65a5083d7d001f722457d952",
+      "title": "BSSC CGL Mock Test 2025",
+      "slug": "bssc-cgl",
+      "testCount": 350,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6995c2b45dd9cd4b3ae1a991",
+      "title": "CG Vyapam (मण्डी) SI Mock Test 2026",
+      "slug": "cg-vyapam-si",
+      "testCount": 329,
+      "sectionsCount": 7
+    },
+    {
+      "id": "65cdd037c8a77dba8251e032",
+      "title": "Reasoning for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-reasoning-previous-year-questions",
+      "testCount": 998,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6916fa5f08f46c18d3c95f17",
+      "title": "SSC CPO Rankers Test Series 2025",
+      "slug": "ssc-cpo-ranker",
+      "testCount": 87,
+      "sectionsCount": 3
+    },
+    {
+      "id": "6888bfde827a8eb4a948d802",
+      "title": "Rajasthan Police SI/Platoon Commander 2025 Mock Test Series",
+      "slug": "rajasthan-police-si",
+      "testCount": 457,
+      "sectionsCount": 10
+    },
+    {
+      "id": "602eb066e1ce7a759de6e98b",
+      "title": "General Science Booster - Get your Knowledge on Track",
+      "slug": "general-science",
+      "testCount": 104,
+      "sectionsCount": 5
+    },
+    {
+      "id": "68e369fddfe41a9c30482098",
+      "title": "SSC GD Constable 2026 Mock Test Series",
+      "slug": "ssc-gd-constable",
+      "testCount": 3439,
+      "sectionsCount": 23
+    },
+    {
+      "id": "6308c91ba485232b29d9c067",
+      "title": "Bihar SSC (BSSC) Inter Level Mock Test 2024 - 26",
+      "slug": "bssc-inter-level",
+      "testCount": 636,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69427981bfa0892e08de53b8",
+      "title": "UP Lekhpal (लेखपाल) Mock Test Series 2025 - 26",
+      "slug": "up-lekhpal",
+      "testCount": 416,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69b15db88115693c12ccc338",
+      "title": "SSC Stenographer Grade C & D Mock Test 2026 (New Pattern)",
+      "slug": "ssc-stenographer",
+      "testCount": 433,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a7495dcf0d1784ac6952ae4",
+      "title": "IBPS RRB PO 2026 (Pre+Mains) Mock Test Series",
+      "slug": "ibps-rrb-po",
+      "testCount": 446,
+      "sectionsCount": 12
+    },
+    {
+      "id": "6909e7c9c84844ac6d418029",
+      "title": "UP Home Guard Mock Test Series 2025",
+      "slug": "up-homeguard",
+      "testCount": 323,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6880d559c93fc8f33720ebb9",
+      "title": "UPSC EPFO EO/AO & APFC Combined Test Series 2025",
+      "slug": "upsc-epfo-previous",
+      "testCount": 328,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6389f0174435a5618aa31b46",
+      "title": "SSC English PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-english-previous-year-questions",
+      "testCount": 2156,
+      "sectionsCount": 12
+    },
+    {
+      "id": "66445e350ac06ef32780bcd5",
+      "title": "BPSC 4.0 बिहार उच्च माध्यमिक शिक्षक भर्ती (PGT) Mock Test",
+      "slug": "bihar-senior-secondary-teacher-previous",
+      "testCount": 635,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a47a29a9e8e05a7a18d329b",
+      "title": "RRB Section Controller 2026 (CBT + CBAT) Mock Test Series",
+      "slug": "rrb-section-controller",
+      "testCount": 196,
+      "sectionsCount": 6
+    },
+    {
+      "id": "636cfd4913310b7bde6fe9f9",
+      "title": "SSC GK PYP Mock Test Series (20k+ Questions)",
+      "slug": "ssc-gk-previous-year-questions",
+      "testCount": 2383,
+      "sectionsCount": 15
+    },
+    {
+      "id": "6631f4ff05bed84959ee9cfc",
+      "title": "BPSC बिहार माध्यमिक TGT (9 to 10) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-secondary-teacher-previous",
+      "testCount": 643,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69c661205ba135daec669610",
+      "title": "SSC CPO Mock Test Series 2026 (Tier I & II)",
+      "slug": "ssc-cpo",
+      "testCount": 474,
+      "sectionsCount": 12
+    },
+    {
+      "id": "66238ec2cd4fed35ac2b0095",
+      "title": "BPSC बिहार मध्य विद्यालय (6 to 8) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-upper-primary-teacher-previous",
+      "testCount": 640,
+      "sectionsCount": 15
+    },
+    {
+      "id": "6a181defe78840d593c511cf",
+      "title": "UPSC CDS 02/2026 Mock Test Series",
+      "slug": "cds",
+      "testCount": 326,
+      "sectionsCount": 7
+    },
+    {
+      "id": "6a55e3eb5ce0e447151884fa",
+      "title": "UGC NET (Hindi & Paper I) Dec 2026 Mock Test Series",
+      "slug": "ugc-net-hindi",
+      "testCount": 469,
+      "sectionsCount": 10
+    },
+    {
+      "id": "69c4d8ff7ec09bc7a518d5f6",
+      "title": "SSC MTS & Havaldar Mock Test Series 2026",
+      "slug": "ssc-mts",
+      "testCount": 667,
+      "sectionsCount": 10
+    },
+    {
+      "id": "69fb213dce2625afac297511",
+      "title": "CIL Management Trainee Mock Test Series 2026",
+      "slug": "cil-mt",
+      "testCount": 801,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68ee67a156dc02db1e06b4ab",
+      "title": "Typing Test for RRB NTPC Exam",
+      "slug": "rrb-ntpc-typing",
+      "testCount": 11,
+      "sectionsCount": 2
+    },
+    {
+      "id": "68540c392b0c2b672295bb75",
+      "title": "RRB Technician Grade III Mock Test Series 2025",
+      "slug": "rrb-technician-previous",
+      "testCount": 769,
+      "sectionsCount": 15
+    },
+    {
+      "id": "68c583429c646239e47b0431",
+      "title": "MP Police Constable Mock Test Series 2025",
+      "slug": "mp-police-constable",
+      "testCount": 816,
+      "sectionsCount": 13
+    },
+    {
+      "id": "60b76d1fc9009f7b44011d21",
+      "title": "Social Science (SST) Content for All Teaching Exams - Let's Crack TET!",
+      "slug": "social-science-teaching-exams",
+      "testCount": 191,
+      "sectionsCount": 5
+    },
+    {
+      "id": "66265ec4071f50ddd51db1e4",
+      "title": "BPSC बिहार प्राथमिक (1 to 5) शिक्षक भर्ती 4.0 Mock Test",
+      "slug": "bihar-primary-teacher-previous",
+      "testCount": 368,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a818a8bdf47c2605a306e92",
+      "title": "MP Police SI / Subedar (Prelims + Mains) Mock Test 2026",
+      "slug": "mp-police-si",
+      "testCount": 460,
+      "sectionsCount": 8
+    },
+    {
+      "id": "68a9c32de7acf6716d514aad",
+      "title": "BPSC AEDO Mock Test Series 2025",
+      "slug": "bpsc-aedo",
+      "testCount": 788,
+      "sectionsCount": 15
+    },
+    {
+      "id": "69f1d3443bc5ffad557d6093",
+      "title": "WBPSC Miscellaneous Services Mock Test 2026",
+      "slug": "wbpsc-miscellaneous",
+      "testCount": 205,
+      "sectionsCount": 8
+    },
+    {
+      "id": "65ccd1a909db825b57e22acb",
+      "title": "General Knowledge for All Railway Exams Previous Year Paper Mock Test",
+      "slug": "rrb-gk-previous-year-questions",
+      "testCount": 1068,
+      "sectionsCount": 9
+    },
+    {
+      "id": "680a317313681487d62ca28d",
+      "title": "RRB JE & CMA Mock Test Series 2025 (CBT 1 + CBT 2)",
+      "slug": "rrb-je-previous",
+      "testCount": 3063,
+      "sectionsCount": 30
+    },
+    {
+      "id": "6a3e23fc20bb968987614e9b",
+      "title": "Agniveer Vayu & Airmen (Group Y) 02/2027 Mock Test Series",
+      "slug": "airforce-group-y",
+      "testCount": 170,
+      "sectionsCount": 7
+    },
+    {
+      "id": "67dd00d3a5af44446ea0de38",
+      "title": "IBPS RRB Clerk 2025 Mock Test Series (Pre + Mains)",
+      "slug": "ibps-rrb-clerk",
+      "testCount": 504,
+      "sectionsCount": 15
+    },
+    {
+      "id": "67e793862d6bdb1aab82e92d",
+      "title": "UP Police SI (दरोगा) Mock Test Series 2025",
+      "slug": "up-police-si",
+      "testCount": 1059,
+      "sectionsCount": 19
+    },
+    {
+      "id": "6a3403fae54d834e19b86e95",
+      "title": "Rajasthan CET Senior Secondary Mock Test 2026",
+      "slug": "rajasthan-cet-senior-secondary",
+      "testCount": 250,
+      "sectionsCount": 8
+    },
+    {
+      "id": "69f9a2de7657133a89ecff35",
+      "title": "IBPS SO Mock Test Series 2026 (Prelims+Mains+Descriptive)",
+      "slug": "ibps-so",
+      "testCount": 301,
+      "sectionsCount": 13
+    },
+    {
+      "id": "6a5634c0978eddcebb298e4f",
+      "title": "Bihar Police SI (General Closed Cadre) Mock Test Series 2026",
+      "slug": "bihar-police-si-general-closed-cadre",
+      "testCount": 212,
+      "sectionsCount": 6
+    },
+    {
+      "id": "67d146c40184ee975890c712",
+      "title": "Bihar Police Constable (सिपाही) Mock Test Series 2025",
+      "slug": "bihar-police-constable",
+      "testCount": 350,
+      "sectionsCount": 9
+    },
+    {
+      "id": "6a4f7411b458196452a926c1",
+      "title": "SUPER TET - UP Assistant Teacher 2026 Mock Test Series",
+      "slug": "super-tet",
+      "testCount": 255,
+      "sectionsCount": 4
+    },
+    {
+      "id": "69ba90666a5a52467b16172a",
+      "title": "Uttar Pradesh (उत्तर प्रदेश) PCS Mock Test Series 2026",
+      "slug": "uppcs",
+      "testCount": 241,
+      "sectionsCount": 7
+    },
+    {
+      "id": "648036e7c043e6198112c349",
+      "title": "Ace General Knowledge - For All Railway, SSC & Other Competitive Exams",
+      "slug": "general-knowledge-ssc-railways-competitive-exams",
+      "testCount": 244,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6a688ce5565510215c51246a",
+      "title": "ISRO Assistant/Personal Assistant/UDC/Stenographer Mock Test 2026",
+      "slug": "isro-assistant",
+      "testCount": 123,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6a3a8d8ec8604779fd496c3f",
+      "title": "Agniveer Vayu Group (X & XY) 02/2027 Mock Test Series",
+      "slug": "airforce-group-x",
+      "testCount": 293,
+      "sectionsCount": 8
+    },
+    {
+      "id": "68c2ac50c9a564805b2c8919",
+      "title": "IOCL ENGINEER/OFFICER (GRADE - A) Mock Test 2025",
+      "slug": "iocl-engineer-previous",
+      "testCount": 43,
+      "sectionsCount": 2
+    },
+    {
+      "id": "6a5b5ec9a8b25b9a57158179",
+      "title": "CCI Junior Assistant /Junior Commercial Executive 2026 Mock Test",
+      "slug": "cci-junior-commercial-executive",
+      "testCount": 118,
+      "sectionsCount": 5
+    },
+    {
+      "id": "69df92c9938b6f4fde8ac2e7",
+      "title": "SBI PO Mock Test Series 2026 (Pre+Mains+Descriptive)",
+      "slug": "sbi-po",
+      "testCount": 538,
+      "sectionsCount": 14
+    },
+    {
+      "id": "6a1d88acc876e0919260675f",
+      "title": "UPSC Civil Services Exam (Prelims) 2027 Mock Test Series",
+      "slug": "upsc-civil-services",
+      "testCount": 230,
+      "sectionsCount": 6
+    },
+    {
+      "id": "67c6e929ab093099e644abde",
+      "title": "SSC CHSL Mock Test Series 2025 (Tier I & Tier II)",
+      "slug": "ssc-chsl-previous",
+      "testCount": 2525,
+      "sectionsCount": 24
+    },
+    {
+      "id": "6328692405998c9cddd6cdcd",
+      "title": "MP State Exams Previous Year Question Papers",
+      "slug": "mp-govt-exams-previous-year-papers",
+      "testCount": 202,
+      "sectionsCount": 3
+    },
+    {
+      "id": "6a5f49f99ab56a6627d51860",
+      "title": "SSC Computer PYP 2026 Mock Test Series",
+      "slug": "ssc-cgl-computer",
+      "testCount": 8,
+      "sectionsCount": 1
+    },
+    {
+      "id": "6a1582682fe9fcb25cd3d0b7",
+      "title": "Punjab And Haryana High Court Clerk Mock Test Series 2026",
+      "slug": "punjab-and-haryana-high-court-clerk",
+      "testCount": 211,
+      "sectionsCount": 7
+    },
+    {
+      "id": "683da4f981152606586845e0",
+      "title": "WB SSC Group C & D Combined Mock Test Series 2025",
+      "slug": "west-bengal-group-c",
+      "testCount": 290,
+      "sectionsCount": 11
+    },
+    {
+      "id": "67ef6a56a89d14713c937079",
+      "title": "RRB ALP (CBT 1 + CBT 2 + CBAT) Mock Test Series 2025",
+      "slug": "rrb-alp-previous",
+      "testCount": 1594,
+      "sectionsCount": 20
+    },
+    {
+      "id": "69ce47ee8236fba829680088",
+      "title": "UPSSSC Lower PCS Mock Test Series 2026",
+      "slug": "upsssc-lower-pcs",
+      "testCount": 346,
+      "sectionsCount": 10
+    },
+    {
+      "id": "6a356a848e97ad8cb6da287a",
+      "title": "Haryana CET Group D Mock Test Series 2026",
+      "slug": "haryana-cet-group-d",
+      "testCount": 173,
+      "sectionsCount": 5
+    },
+    {
+      "id": "69f9e202c97f9ec2a4f88eff",
+      "title": "RRB Technician Grade 1 Mock Test Series 2026",
+      "slug": "rrb-technician-grade-1",
+      "testCount": 536,
+      "sectionsCount": 9
+    },
+    {
+      "id": "67e1313fbe36b536da04a54a",
+      "title": "UP TGT Mock Test Series 2025",
+      "slug": "up-tgt",
+      "testCount": 565,
+      "sectionsCount": 8
+    },
+    {
+      "id": "6412c9095b6f31d6ceb8a010",
+      "title": "Hindi Mock Tests for All State Level Exams",
+      "slug": "hindi-for-govt-exam",
+      "testCount": 181,
+      "sectionsCount": 6
+    },
+    {
+      "id": "696a11a3de9538e01d610a83",
+      "title": "MP Vyapam Sub Engineer Mock Test 2026",
+      "slug": "mp-vyapam-sub-engineer",
+      "testCount": 382,
+      "sectionsCount": 4
+    },
+    {
+      "id": "6a3d28244deef418ada5989f",
+      "title": "MPSC Group C Combined Mock Test 2026",
+      "slug": "mpsc-group-c",
+      "testCount": 183,
+      "sectionsCount": 8
+    },
+    {
+      "id": "60b755bcd36552e4f9a7f94f",
+      "title": "Pedagogy for All Teaching Exams (Paper 1 & 2) - Let's Crack TET!",
+      "slug": "pedagogy-teaching-exams",
+      "testCount": 345,
+      "sectionsCount": 3
+    },
+    {
+      "id": "665d8d6f5e9f69490547bf2d",
+      "title": "NBE Junior Assistant 2024 Mock Tests Series",
+      "slug": "nbe-junior-assistant",
+      "testCount": 16,
+      "sectionsCount": 3
+    },
+    {
+      "id": "681611018b26ab94a34bc510",
+      "title": "UPSSSC PET Mock Test Series 2025",
+      "slug": "upsssc-pet-previous",
+      "testCount": 493,
+      "sectionsCount": 11
+    },
+    {
+      "id": "6811d4f098c045ab8119776c",
+      "title": "Reasoning Foundation Test Series 2025",
+      "slug": "haryana-harco-bank-reasoning",
+      "testCount": 81,
+      "sectionsCount": 6
+    },
+    {
+      "id": "678cdc0072bba7bf645163a8",
+      "title": "Current Affairs (CA) 2025 Mega Pack for SSC/Railways/State Exam Mock Test",
+      "slug": "ssc-railways-current-affairs-2025",
+      "testCount": 458,
+      "sectionsCount": 10
+    }
+  ],
+  "haryanaJammu": [
+    {
+      "id": "6a1582682fe9fcb25cd3d0b7",
+      "title": "Punjab And Haryana High Court Clerk Mock Test Series 2026",
+      "slug": "punjab-and-haryana-high-court-clerk",
+      "testCount": 211,
+      "sectionsCount": 7
+    },
+    {
+      "id": "6a356a848e97ad8cb6da287a",
+      "title": "Haryana CET Group D Mock Test Series 2026",
+      "slug": "haryana-cet-group-d",
+      "testCount": 173,
+      "sectionsCount": 5
+    },
+    {
+      "id": "6811d4f098c045ab8119776c",
+      "title": "Reasoning Foundation Test Series 2025",
+      "slug": "haryana-harco-bank-reasoning",
+      "testCount": 81,
+      "sectionsCount": 6
+    }
+  ]
+}

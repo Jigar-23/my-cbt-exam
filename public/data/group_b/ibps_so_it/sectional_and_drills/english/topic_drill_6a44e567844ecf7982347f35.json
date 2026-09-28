@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e567844ecf7982347f35",
+  "title": "English Language Sectional Test 2",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5f11d72357c4f46dec0d66f8",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Each of the following sentences has a blank space and five words are given below. Click on the word which you consider the most APPROPRIATE to fit the blank.</span></p>\n\n<p>We have to raise some money to _____ this garden.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "pacify",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "clarify",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "beautify",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "inhibit",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "analyze",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<div><span style=\"\">The correct answer is &#39;<strong>beautify</strong>&#39;.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The word \"<strong>beautify</strong>\" means to make something more attractive or pleasant. (सुंदर बनाना)</span></li>\n\t<li><span style=\"\">In the given context, raising money to improve the garden suggests making it more beautiful.</span></li>\n\t<li><span style=\"\">The other options: \"<strong>pacify</strong>,\" \"<strong>clarify</strong>,\" \"<strong>inhibit</strong>,\" and \"<strong>analyze</strong>\" do not fit the context appropriately.</span></li>\n</ul>\n\n<p><span style=\"\">​Therefore, the correct answer is &#39;<strong>Option 3</strong>&#39;.</span></p>\n\n<p><span style=\"\"><strong>Complete Sentence:</strong>&nbsp;</span><em>We have to raise some money to <u><span style=\"font-weight: bolder;\">beautify</span></u> this garden.</em></p>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Pacify (शांत करना)</strong>: means to calm or soothe.</span></li>\n\t<li><span style=\"\"><strong>Clarify (स्पष्ट करना)</strong>: means to make something clear or understandable.</span></li>\n\t<li><span style=\"\"><strong>Inhibit (रोकना)</strong>: means to restrain or prevent.</span></li>\n\t<li><span style=\"\"><strong>Analyze (विश्लेषण करना)</strong>: means to study or examine something in detail.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5dc931edf60d5d2e3fa0c0d0",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>In the following sentence, some parts have errors and some are correct. Find out which part has an error and mark it as your answer. If there is no error, mark &lsquo;No error&rsquo; as your answer.</strong></p>\n\n<p>Everyone of us must have (A) experienced how people (B)/ have to put up on a good (C)/ deal of discomfort while travelling. (D)/ No error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div> </div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The error lies in <strong>part C</strong> of the sentence.</span></li>\n\t<li><span style=\"\">The phrasal verb \"<strong>put up on</strong>\" is used incorrectly.</span></li>\n\t<li><span style=\"\">The correct idiomatic expression is \"<strong>put up with</strong>,\" which means to tolerate or endure something unpleasant or difficult.</span></li>\n\t<li><span style=\"\">Replacing \"on\" with \"<strong>with</strong>\" makes the sentence grammatically sound.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>C</strong>.</span></div>\n\n<div> </div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"Everyone of us must have experienced how people have to <strong>put up with a good</strong> deal of discomfort while travelling.\"</em></span></div>\n\n<div> </div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"Everyone of us must have\"</strong> &ndash; This part is correct; \"must have\" is used for a strong probability or certainty about the past.</span></li>\n\t<li><span style=\"\"><strong>B: \"experienced how people\"</strong> &ndash; This part is correct; \"experienced\" is the past participle required after \"have.\"</span></li>\n\t<li><span style=\"\"><strong>D: \"deal of discomfort while travelling.\"</strong> &ndash; This part is correct; \"a good deal of\" is a common quantifier for uncountable nouns.</span></li>\n\t<li><span style=\"\"><strong>No error</strong> &ndash; This option is incorrect because a grammatical error exists in the usage of the phrasal verb.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60409908cb5d9e51e67ffabf",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><strong>Read the sentence to find out whether there is an error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is no error, the answer is (5). Ignore errors of punctuation, if any</strong></p>\n\n<p>&nbsp;It is a known fact (1) that the problem (2) is between I&nbsp;and her (3) and we better be able to solve it soon (4) No error (5)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "It is a known fact",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "that the problem",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "is between I and her",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "and we better be able to solve it soon",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct option <strong>is 3) i.e is between I&nbsp;and her</strong></p>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage303.png\" /></p>\n\n<ul>\n\t<li>The error is in&nbsp;<strong>part 3&nbsp;</strong>of the sentence</li>\n\t<li>The pronouns should be<strong> &#39;me&#39; </strong>instead of&nbsp;<strong>&#39;I&#39;</strong>&nbsp;&nbsp;after the preposition.</li>\n\t<li>The pronoun must be<strong> objective </strong>in nature after the preposition.</li>\n</ul>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage304.png\" /></p>\n\n<ul>\n\t<li>The subjective pronoun (they, she etc) cannot be placed after the preposition.\n\t<ul>\n\t\t<li><em>My sister send it to they</em>&nbsp;&nbsp;<span id=\"docs-internal-guid-ce010c92-7fff-c681-347a-519cbda92180\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:26px;height:26px;\"><img height=\"26\" src=\"https://lh3.googleusercontent.com/DWa_iC0O4oToHktaIolJ6Dl98cUn-_Gl75wVSex03rD5qWQ9U-BKmRo7WvXArNHZeyyniXZT5mQsTAkhlK-doReu0C3SuqJcwliuB8AaK6lpDEV3-eON2YiFp-BodOZSq0GQu23a\" style=\"margin-left:0px;margin-top:0px;\" width=\"26\" /><span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:26px;height:26px;\">​</span></span></span></span></span></span></li>\n\t</ul>\n\t</li>\n\t<li>The <strong>objective pronoun (them, her) </strong>must be placed after the preposition\n\t<ul>\n\t\t<li><em>My sister send it to them</em>&nbsp;<span id=\"docs-internal-guid-3960c794-7fff-0d43-666c-0d285b268933\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:25px;height:25px;\"><img height=\"25\" src=\"https://lh3.googleusercontent.com/XZ1mmZUszzpDkRpRB7VMyR7Z8Uw_SfU2RTxC6B_h_C1_l9p3PRd7n1XOb4nM1ASpYjjQzSQ6_tSFymZKp2RkaJ-XaGwGmHqej6Cu12gVkkRAxgXil__kYO4XefJ08b8o-RXJi1ne\" style=\"margin-left:0px;margin-top:0px;\" width=\"25\" /></span></span></span></li>\n\t</ul>\n\t</li>\n\t<li>Objective pronoun is placed after the verb and acts as the object in the sentence.\n\t<ul>\n\t\t<li><em>The cake was baked by her.&nbsp;</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span id=\"docs-internal-guid-5806b911-7fff-a8f7-a30f-8e1e3d30afa2\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:145px;height:35px;\"><img height=\"35\" src=\"https://lh5.googleusercontent.com/pGODCwmgsBU6M1RgvmbPjhtXvp89Wd3cZogcV_D5qJo-0kVyr65npxuY9f8XmzK0SA0S3EDtYyeiut1T8n1STg--BCazTew3b0RrTkcjSilhSLU9wZu-W_92ykSlRXPO7r5mAuui\" style=\"margin-left:0px;margin-top:0px;\" width=\"145\" /></span></span></span></p>\n\n<p>In most cases, the pronoun is placed after the preposition and one sentence might have two such situations.&nbsp;</p>\n\n<p><strong>The correct sentence&nbsp;is</strong>: <em>It is a known fact that the problem is between <strong>me</strong> and her and we better be able to solve it soon.</em>&nbsp;<img height=\"25\" src=\"https://lh3.googleusercontent.com/XZ1mmZUszzpDkRpRB7VMyR7Z8Uw_SfU2RTxC6B_h_C1_l9p3PRd7n1XOb4nM1ASpYjjQzSQ6_tSFymZKp2RkaJ-XaGwGmHqej6Cu12gVkkRAxgXil__kYO4XefJ08b8o-RXJi1ne\" style=\"font-weight: 700; white-space: pre-wrap; margin-left: 0px; margin-top: 0px;\" width=\"25\" /></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6040884222ed4b39e3314945",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>Read the sentence to find out whether there is an error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is no error, the answer is (5). Ignore errors of punctuation, if any. </strong></p>\n\n<p>Mrs Margaret (1) has been working (2) in our office as an assistant (3) from 25 years (4) No error (5)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Mrs Margaret",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "has been working",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "in our office as an assistant&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "from 25 years&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct option <strong>is 4) i.e from 25 years.</strong></p>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage303.png\" /></p>\n\n<ul>\n\t<li>The error is in&nbsp;<strong>part 4&nbsp;</strong>of the sentence</li>\n\t<li>The preposition should be&nbsp;<strong>&#39;for&#39;&nbsp;</strong>instead of<strong> &#39;from&#39;.</strong></li>\n\t<li>The tense used in the sentence talks about an action which has been continuing for a significant amount of time.</li>\n\t<li>The preposition<span style=\"font-weight: 700;\">&nbsp;&#39;for&#39; is used to denote a specific duration in the&nbsp;</span>sentence</li>\n</ul>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage304.png\" /></p>\n\n<ul>\n\t<li>The preposition &#39;from&#39; is used when the scheduled&nbsp;time for the action is mentioned in the sentence&nbsp;\n\t<ul>\n\t\t<li><em>The meeting will be conducted from 7 am to 9 am.</em></li>\n\t\t<li><em>My brother studied for two hours.</em></li>\n\t\t<li><em>Our friend visited us for few minutes.</em></li>\n\t</ul>\n\t</li>\n\t<li>The preposition from is also used to denote a specific part of any journey\n\t<ul>\n\t\t<li><em>We will travel from Mumbai to Bangalore</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In few cases, the preposition since is used to also denote time which involves a certain point of the whole time period\n\t<ul>\n\t\t<li><em>It has been raining since yesterday.</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong>The correct sentence is:</strong> <em>Mrs Margaret has been working in our office as an assistant <strong>for </strong>25 years.&nbsp;</em><span id=\"docs-internal-guid-14d8ab41-7fff-be00-dee1-ac3f5d596152\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:25px;height:25px;\"><img height=\"25\" src=\"https://lh3.googleusercontent.com/XZ1mmZUszzpDkRpRB7VMyR7Z8Uw_SfU2RTxC6B_h_C1_l9p3PRd7n1XOb4nM1ASpYjjQzSQ6_tSFymZKp2RkaJ-XaGwGmHqej6Cu12gVkkRAxgXil__kYO4XefJ08b8o-RXJi1ne\" style=\"margin-left:0px;margin-top:0px;\" width=\"25\" /></span></span></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd6565fdf19a2881ad5069e",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the following question, two columns are given containing three phrases each. In the first column, phrases are A, B, and C, and in the second column, the phrases are D, E and F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a grammatically and contextually correct sentence. If, none of the options given forms a correct sentence after combination, select &lsquo;None of these&rsquo; as your answer.&nbsp;</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Column (1)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Column (2)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(A) War crimes had&nbsp;occurred&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(D) your papers.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(B)The editors do not wish to publish</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(E)throughout history and continues to this day.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(C)&nbsp;Microplastics may pose a risk&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(F)to aquatic environments.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-D and B-E",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-F",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-D and C-F",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct sentences are&nbsp;-&nbsp;</p>\n\n<ul>\n\t<li><strong><span style=\"font-weight: 700;\">B-D:&nbsp;The editors do not wish to publish your papers.&nbsp;&nbsp;</span></strong></li>\n\t<li><strong><span style=\"font-weight: 700;\">C-F:&nbsp;</span>Microplastics may pose a risk to aquatic environments.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>We need to join each sentence part given in column 1 to their correct counterparts given in column 2. The sentences should not only be conceptually correct but also grammatically error free. This would allow us to come at the correct solution.\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Part B</span>&nbsp;talks about something that the editors do not wish to do. As editors are people involved in publishing, <strong>parts B and D should join. So, B-D.</strong></li>\n\t\t<li><strong>Part C&nbsp;</strong>talks about how a certain thing (microplastics) can pose a risk. It should join with&nbsp;<strong>part F&nbsp;</strong>&nbsp;which mentions who or what is affected by this risk. So,&nbsp;<strong>C-F.</strong></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">​</span>The&nbsp;correct combinations are&nbsp;reflected in&nbsp;<span style=\"font-weight: 700;\">option 3</span>, making it the correct answer.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Conceptually&nbsp;<strong>parts A&nbsp;</strong>and&nbsp;<strong>E&nbsp;</strong>can join but it would create a grammatical error.&nbsp;<strong>Part A&nbsp;</strong>uses the&nbsp;<strong>perfect past tense&nbsp;</strong>(had occurred) implying that war crimes no longer occur. But joining it with <b>part E&nbsp;</b>&nbsp;would mean that thw war crimes have continued occurring in present time too, in which case the&nbsp;<strong>present continuous tense </strong>(have occurred) should be used.&nbsp;&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd655ffd8e94244ca7b6433",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the following question, two columns are given containing three phrases each. In the first column, phrases are A, B, and C, and in the second column, the phrases are D, E and F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a grammatically and contextually correct sentence. If, none of the options given forms a correct sentence after combination, select &lsquo;None of these&rsquo; as your answer.&nbsp;</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Column (1)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Column (2)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(A)The Zunheboto district of Nagaland</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(D) ugly to look at.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(B) Road accidents have increased&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(E) is a remote area.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(C) The house is extremely&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(F)over the past twenty years.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-E and C-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-F, B-D and C-E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-E and C-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-E, B-F and C-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct sentences are&nbsp;-&nbsp;</p>\n\n<ul>\n\t<li><strong><span style=\"font-weight: 700;\">A-E: T</span>he Zunheboto district of Nagaland is a remote area.&nbsp;</strong></li>\n\t<li><strong>B-F:&nbsp;Road accidents have increased over the past twenty years.</strong></li>\n\t<li><strong>C-D: The house is extremely ugly to look at.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>We need to join each sentence part given in column 1 to their correct counterparts given in column 2. The sentences should not only be conceptually correct but also grammatically error free. This would allow us to come at the correct solution.\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Part A</span>&nbsp;talks a certain place and is best followed by <strong>part E </strong>&nbsp;which mentions the special character of the area. So,&nbsp;<span style=\"font-weight: 700;\">A-E.</span></li>\n\t\t<li><span style=\"font-weight: 700;\">Part B</span>&nbsp;talks about road accidents have increased. It should join with&nbsp;<strong>part F&nbsp;</strong>which mentions the time span for this observation. So,&nbsp;<strong>B-F.&nbsp;</strong></li>\n\t\t<li><span style=\"font-weight: 700;\">Part C</span>&nbsp;talks about a house and some form of extreme nature regarding it.&nbsp;<strong>Part D&nbsp;</strong>is the best fit to complete the sentence as it points out that something is ugly.&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">​</span>The&nbsp;correct combinations are&nbsp;reflected in&nbsp;<span style=\"font-weight: 700;\">option 4</span>, making it the correct answer.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64f85793598f775e527a675e",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Direction: In the following question, one part of the sentence has an error. Read the sentence to find the error and mark the corresponding option. If the sentence has no error, choose option 5 &#39;No error&rsquo; as your answer.</strong></p>\n\n<p dir=\"ltr\">She don&#39;t have (A)/ any idea about (B)/ the changes that (C)/ were implemented. (D)/ No Error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;don&#39;t have&#39; (A).</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The problem lies with the usage of &#39;<strong>don&#39;t</strong>&#39; with a singular noun &lsquo;<strong>She</strong>&rsquo;.</li>\n\t<li role=\"presentation\">The contraction &#39;<strong>don&#39;t</strong>&#39; is used with <strong>plural subjects</strong>, while &#39;<strong>doesn&#39;t</strong>&#39; is used with <strong>singular subjects</strong>.</li>\n\t<li role=\"presentation\">Therefore, &#39;<strong>don&#39;t have</strong>&#39; should be replaced by <strong>&#39;doesn&#39;t have&#39;</strong> in <strong>sentence A</strong>.</li>\n\t<li role=\"presentation\">Rest of the sentence follows the principles of English grammar and does not possess any error.</li>\n</ul>\n\n<p dir=\"ltr\"><strong>Therefore, the correct answer is Option 1.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li>Remember the correct <strong>agreement </strong>between <strong>subject </strong>and <strong>verb </strong>is a fundamental rule in English grammar. \"<strong>Doesn&#39;t</strong>\" should be used with <strong>singular subjects</strong> and \"<strong>don&#39;t</strong>\" with<strong> plural</strong> ones.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64f857b97647e9f69fe8f79f",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Direction: In the following question, one part of the sentence has an error. Read the sentence to find the error and mark the corresponding option. If the sentence has no error, choose option 5 &#39;No error&rsquo; as your answer.</strong></p>\n\n<p dir=\"ltr\">He had (A)/ an unique (B)/ idea that made (C)/ him successful. (D)/ No Error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is <strong>&#39;an unique&#39; (B).</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">The error in<strong> sentence B</strong> is a common one. The <strong>indefinite article </strong>&#39;<strong>an</strong>&#39; is used before words that start with <strong>vowel sounds</strong>.</li>\n\t<li role=\"presentation\">However, &#39;<strong>unique</strong>&#39; starts with a &#39;<strong>y</strong>&#39; <strong>sound</strong>, which is a <strong>semivowel</strong>. Hence, the correct <strong>article </strong>to use is &#39;<strong>a</strong>&#39;.</li>\n\t<li role=\"presentation\">Therefore, &#39;<strong>an unique</strong>&#39; should be corrected as <strong>&#39;a unique&#39;</strong>.</li>\n\t<li role=\"presentation\">The rest of the sentence is grammatically correct, adhering to language rules.</li>\n</ul>\n\n<p dir=\"ltr\"><strong>Therefore, the correct answer is Option 2.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li>Keep in mind, &#39;<strong>a</strong>&#39; is used before words that begin with a <strong>consonant sound</strong>, and &#39;<strong>an</strong>&#39; is used before words that begin with a <strong>vowel sound</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64f857dfc41f3c4003d8b92f",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Direction: In the following question, one part of the sentence has an error. Read the sentence to find the error and mark the corresponding option. If the sentence has no error, choose option 5 &#39;No error&rsquo; as your answer.</strong></p>\n\n<p dir=\"ltr\">She drives (A)/ better than (B)/ any other (C)/ person in her class. (D)/ No Error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;No Error&#39; (E).</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">After checking all parts of the sentence (A, B, C, D), we can&#39;t find any grammatical errors.</li>\n\t<li role=\"presentation\">The sentence correctly employs the <strong>comparative</strong> form &#39;<strong>better than</strong>&#39;.</li>\n\t<li role=\"presentation\">The use of &#39;<strong>any other</strong>&#39; is proper as it excludes the individual being compared from the group she is being compared to.</li>\n\t<li role=\"presentation\">The entire sentence structure adheres to proper English syntax and grammatical rules.</li>\n</ul>\n\n<p dir=\"ltr\"><strong>Therefore, the correct answer is Option 5.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li>A sentence does not necessarily have to contain an error. Here, this sentence is an example of good grammatical usage.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64f8576c51512e0ac02d22b5",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>Direction: In the following question, one part of the sentence has an error. Read the sentence to find the error and mark the corresponding option. If the sentence has no error, choose option 5 &#39;No error&rsquo; as your answer.</strong></p>\n\n<p dir=\"ltr\">She try to (A)/ balance her (B)/ professional life with (C)/ her personal responsibilities.(D)/ No Error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\">The correct answer is<strong> &#39;try&rsquo; (A).</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><br />\n<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\"><strong>Sentence A</strong> contains a <strong>subject-verb agreement</strong> error; &#39;<strong>She</strong>&#39; being a <strong>singular subject</strong>, requires &#39;<strong>tries</strong>&#39; instead of &#39;<strong>try</strong>&#39;.</li>\n\t<li role=\"presentation\">As per the rules of English grammar, add <strong>-es</strong> or <strong>-s</strong> for the <strong>third person singular</strong> in the <strong>present tense</strong>.</li>\n\t<li role=\"presentation\">So, the corrected option would be &#39;<strong>tries</strong>&#39; instead of &#39;<strong>try</strong>&#39;.</li>\n\t<li role=\"presentation\">Other parts of the sentence do not contain any grammatical errors.</li>\n</ul>\n\n<p dir=\"ltr\"><strong>Therefore, the correct answer is Option 1.</strong></p>\n\n<p dir=\"ltr\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li>Making sure your <strong>verbs </strong>agree with your <strong>subjects (singular subject</strong> needs <strong>singular verb</strong>, <strong>plural subject</strong> needs <strong>plural verb</strong>) is essential for correct English.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64f8921228f7b0a6194b2185",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the following question, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the &#39;&#39;No error&#39;&#39; option.</span></p>\n\n<p>The thieves (A)/ cleaned out (B)/ the shop in (C)/ a&nbsp;hour&nbsp;(D)/. No error /(E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><span style=\"font-weight: bolder;\">D</span><span style=\"font-weight: 700;\">&#39;&nbsp;</span>i.e.<span style=\"font-weight: 700;\">&nbsp;this part of the sentence</span>&nbsp;<span style=\"font-weight: 700;\">has an error</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li>In the fourth part of the given sentence, the use of the<strong>&nbsp;article &#39;a&#39; before the noun &#39;hour&#39; is incorrect</strong>.</li>\n\t<li>In the given sentence,&nbsp;the noun&nbsp;&#39;<span style=\"font-weight: 700;\">hour</span>&#39;<span style=\"font-weight: 700;\">&nbsp;</span>is&nbsp;<span style=\"font-weight: 700;\">not a</span>&nbsp;<span style=\"font-weight: 700;\">specified&nbsp;noun</span>.\n\t<ul>\n\t\t<li>&#39;<span style=\"font-weight: 700;\">A</span>&#39; and &#39;<span style=\"font-weight: 700;\">an</span>&#39; are&nbsp;<span style=\"font-weight: 700;\">indefinite articles</span>, which means that they refer to, or introduce, an&nbsp;<span style=\"font-weight: 700;\">unspecified noun</span>.\n\t\t<ul>\n\t\t\t<li>We use &#39;<span style=\"font-weight: 700;\">a</span>&#39; before a&nbsp;<span style=\"font-weight: 700;\">consonant sound</span>, and we use &#39;<span style=\"font-weight: 700;\">an</span>&#39; before a&nbsp;<span style=\"font-weight: 700;\">vowel sound&nbsp;</span>(here,&nbsp;<span style=\"font-weight: 700;\">hour</span>).</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>The&nbsp;<span style=\"font-weight: 700;\">definite article</span>&nbsp;&#39;<span style=\"font-weight: 700;\">the</span>&#39; is used before singular and plural nouns when the&nbsp;<span style=\"font-weight: 700;\">noun is specific or particular</span>.</li>\n\t\t<li><span style=\"font-weight: 700;\">&#39;&#39;No article&#39;&#39;&nbsp;</span>is used when&nbsp;we refer to&nbsp;<span style=\"font-weight: 700;\">general ideas, plurals, or uncountable nouns</span>.</li>\n\t</ul>\n\t</li>\n\t<li>Therefore, the <strong>article &#39;an&#39; should be used in place of the article &#39;a&#39;</strong>.<br />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 4</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: 700;\">Correct sentence:</span>&nbsp;<em>The thieves cleaned out the shop in <strong>an hour</strong></em>.<br />\n<br />\n<span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li>There are three articles:&nbsp;<span style=\"font-weight: 700;\">a, an,&nbsp;</span>and<span style=\"font-weight: 700;\">&nbsp;the</span>. Articles are&nbsp;<span style=\"font-weight: 700;\">used before nouns or noun equivalents</span>&nbsp;and are a type of adjective.<br />\n\t&nbsp;\n\t<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" dir=\"ltr\" style=\"table-layout: fixed; width: 0px; border: none;\" xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t<colgroup>\n\t\t\t<col width=\"216\" />\n\t\t\t<col width=\"151\" />\n\t\t\t<col width=\"155\" />\n\t\t</colgroup>\n\t\t<tbody>\n\t\t\t<tr style=\"height: 21px;\">\n\t\t\t\t<td style=\"border-image: initial; padding: 2px 3px; overflow: hidden; vertical-align: top;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: 700;\">RULES</span></td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"COUNT NOUNS\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top;\">&nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-weight: 700;\">COUNT NOUNS</span></td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"NON-COUNT NOUNS\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: bottom; text-align: center;\"><span style=\"font-weight: 700;\">NON-COUNT NOUNS</span></td>\n\t\t\t</tr>\n\t\t\t<tr style=\"height: 29px;\">\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Specific identity not known\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; font-weight: bold; text-align: center;\">Specific identity not known</td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"a, an\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; text-align: center;\">a, an</td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"(no article)\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; text-align: center;\">(no article)</td>\n\t\t\t</tr>\n\t\t\t<tr style=\"height: 28px;\">\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Specific identity known\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; font-weight: bold; text-align: center;\">Specific identity is known</td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"the\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; text-align: center;\">the</td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"the\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; text-align: center;\">the</td>\n\t\t\t</tr>\n\t\t\t<tr style=\"height: 26px;\">\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"All things or things in general\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; font-weight: bold; text-align: center;\">All&nbsp;things or things&nbsp;in general</td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"(no article)\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; text-align: center;\">(no article)</td>\n\t\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"(no article)\"}\" style=\"padding: 2px 3px; overflow: hidden; vertical-align: top; text-align: center;\">(no article)</td>\n\t\t\t</tr>\n\t\t</tbody>\n\t</table>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "64f2c1b2fbffc44ce6926ff5",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "<p><strong>Direction: Evaluate the following word, accompanied by three sentences containing it. Determine the sentence(s) that accurately convey the meaning of the given word.</strong></p>\n\n<p><strong>SURREAL</strong></p>\n\n<p><strong>A.</strong> His writing style is quite <strong>surreal</strong>, filled with intricate metaphors and deep philosophical themes.<br />\n<strong>B.</strong> Social media influencers have the power to make products go <strong>surreal</strong> with their endorsements.<br />\n<strong>C.</strong> The <strong>surreal</strong> melodies of the flute echoed through the forest, creating a sense of tranquillity and serenity.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both B &amp; C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A &amp; B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "All A, B &amp; C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 5.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><br />\n<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, let&#39;s first understand the meaning of the given word -&nbsp;</strong></li>\n\t<li><strong>Surreal -</strong> (Adjective) - having the qualities of surrealism; bizarre<strong> (अवास्तविक)</strong>\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Hearing the news of my promotion at work was such a <strong>surreal</strong> and exciting surprise.</li>\n\t</ul>\n\t</li>\n\t<li>After understanding the meaning of the given word i.e. surreal, <strong>we can conclude that all the given sentences are incorrect.</strong></li>\n\t<li><strong>Sentence A -</strong> His writing style is quite surreal, filled with intricate metaphors and deep philosophical themes.\n\t<ul>\n\t\t<li>This sentence is incorrect because \"surreal\" implies a dreamlike or unreal quality, while \"cerebral or intellectual\" better suits the description of intricate metaphors and deep philosophical themes.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Sentence B -</strong> Social media influencers have the power to make products go surreal with their endorsements.\n\t<ul>\n\t\t<li>This sentence is incorrect because \"surreal\" is not the right word here. \"Surreal\" means bizarre or dreamlike, while the context requires \"viral,\" which means widely shared or popular.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Sentence C -</strong> The surreal melodies of the flute echoed through the forest, creating a sense of tranquillity and serenity.\n\t<ul>\n\t\t<li>This sentence is incorrect because \"surreal\" suggests a dreamlike or bizarre quality, which doesn&#39;t fit the serene and peaceful atmosphere. \"Ethereal or elegant\" is more appropriate, conveying a delicate and otherworldly feeling.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Therefore, the correct answer is \"None of these.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "650b1a3c229c90676ebbd5a9",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: bolder;\">Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that best express(es) the meaning of the word. Choose option 5 &#39;None of the above&#39; if the word is not suitable in any of the sentences.</span></p>\n\n<p>IMPERATIVE</p>\n\n<p>A.&nbsp;The school district&rsquo;s new policy makes it <strong>imperative</strong> for every child to be familiar with the escape routes on school buses.</p>\n\n<p>B.&nbsp;I became angry when the customer service agent kept giving me <span style=\"font-weight: bolder;\">imperative&nbsp;</span>solutions to my computer problems.</p>\n\n<p>C.&nbsp;Although she thought she was just being funny, her teacher didn&rsquo;t agree and sent her to the principal&rsquo;s office for being&nbsp;<span style=\"font-weight: bolder;\">imperative</span>.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "OnlyB",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color: (33, 37, 41);\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><span style=\"font-weight: bolder;\">Only A</span>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></p>\n\n<ul style=\"color: (33, 37, 41);\">\n\t<li>The given word &#39;<span style=\"font-weight: bolder;\">Imperative</span>&#39; means&nbsp;<strong>very important or urgent</strong>. (बहुत महत्वपूर्ण या आवश्&zwj;यक; अत्&zwj;यावश्&zwj;यक)</li>\n\t<li><span style=\"font-weight: bolder;\">Let us explore the given sentences:</span>\n\t<ul>\n\t\t<li>The word &#39;<span style=\"font-weight: bolder;\">imperative</span>&#39; is&nbsp;used correctly in the&nbsp;first sentence as it&nbsp;talks about <strong>a&nbsp;policy that makes it very important for every child to be familiar with the escape routes on school buses</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: bolder;\">Example:</span>&nbsp;<em>It&#39;s <strong>imperative</strong> that you see a doctor immediately</em>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>The word &#39;<span style=\"font-weight: bolder;\">irrelevant</span>&#39; should be used in the second sentence as it talks about&nbsp;<strong>the customer service agent who kept giving unimportant or insignificant solutions to the computer problems</strong>.\n\t\t<ul>\n\t\t\t<li>The&nbsp;word &#39;<span style=\"font-weight: bolder;\">irrelevant</span>&#39; means&nbsp;<strong>not connected with something or important to it</strong>. (किसी वस्&zwj;तु से असंबद्घ या उसके लिए महत्वहीन, अप्रासंगिक, असंबद्घ)</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>The word &#39;<span style=\"font-weight: bolder;\">impertinent</span>&#39; should be used in the&nbsp;third sentence as it&nbsp;talks about <strong>a&nbsp;teacher sending a student to the principal&rsquo;s office for being disrespectful</strong>.\n\t\t<ul>\n\t\t\t<li>The&nbsp;word &#39;<span style=\"font-weight: bolder;\">impertinent</span>&#39; means&nbsp;<strong>not showing respect to somebody who is older and more important; rude</strong>. (स्&zwj;वयं से अधिक महत्वपूर्ण एवं ज्&zwj;येष्&zwj;ठ व्&zwj;यक्ति का सम्&zwj;मान न करते हुए)</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>Therefore,&nbsp;<span style=\"font-weight: bolder;\">only</span>&nbsp;<span style=\"font-weight: bolder;\">sentence A&nbsp;best expresses&nbsp;the meaning of the given word</span>.<br />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"color: (33, 37, 41);\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 4</span>.</p>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"font-weight: 700;\">Sentence A:</span>&nbsp;<em>The school district&rsquo;s new policy makes it&nbsp;<span style=\"font-weight: bolder;\">imperative</span>&nbsp;for every child to be familiar with the escape routes on school buses</em>.</p>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"font-weight: 700;\">Sentence B:</span>&nbsp;<em>I became angry when the customer service agent kept giving me<span style=\"font-weight: bolder;\">&nbsp;</span><span style=\"font-weight: bolder;\">irrelevant</span>&nbsp;solutions to my computer problems</em>.</p>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"font-weight: 700;\">Sentence C:</span>&nbsp;<em>Although she thought she was just being funny, her teacher didn&rsquo;t agree and sent her to the principal&rsquo;s office for being<span style=\"font-weight: bolder;\">&nbsp;</span><span style=\"font-weight: bolder;\">impertinent</span></em>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "650b1de67b129955e11fb10d",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: bolder;\">Directions: Given below is a word, followed by three sentences that consist of that word. Identify the sentence(s) that best express(es) the meaning of the word. Choose option 5 &#39;None of the above&#39; if the word is not suitable in any of the sentences.</span></p>\n\n<p>FLOUT</p>\n\n<p>A.&nbsp;When the nurse failed to <span style=\"font-weight: bolder;\">flout</span>&nbsp;the procedures for issuing medication, patients became ill and threatened to sue the hospital.</p>\n\n<p>B.&nbsp;People find themselves in trouble because they think they&rsquo;re clever enough to <strong>flout</strong> the law without getting caught.</p>\n\n<p>C.&nbsp;Safety guidelines exist for a reason, and if you <strong>flout</strong> them, there could be serious consequences.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"color:  (33, 37, 41);\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><span style=\"font-weight: bolder;\">Both B and C</span>.<span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"color:  (33, 37, 41);\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></p>\n\n<ul style=\"color:  (33, 37, 41);\">\n\t<li>The given word &#39;<span style=\"font-weight: 700;\">Flout</span>&#39; means <strong>to&nbsp;openly disregard a rule, law, or convention</strong>. (क़ानून, नियम आदि&nbsp;अवहेलना करना, न मानना, उल्&zwj;लंघन करना)</li>\n\t<li><span style=\"font-weight: bolder;\">Let us explore the given sentences:</span>\n\t<ul>\n\t\t<li>The word &#39;<span style=\"font-weight: bolder;\">obey</span>&#39; should be used in the&nbsp;first&nbsp;sentence as it&nbsp;talks about <strong>the&nbsp;patients who became ill as&nbsp;the nurse failed to carry out or follow the&nbsp;procedures for issuing medication</strong>.\n\t\t<ul>\n\t\t\t<li>The&nbsp;word &#39;<span style=\"font-weight: bolder;\">obey</span>&#39; means&nbsp;<strong>to do what you are told to do</strong>. (आज्ञा का पालन करना)</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>The word &#39;<span style=\"font-weight: 700;\">flout</span>&#39; is&nbsp;used correctly in the&nbsp;second&nbsp;sentence as it&nbsp;talks about <strong>those&nbsp;people who think they&rsquo;re clever enough to break the law without getting caught</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: bolder;\">Example:</span>&nbsp;<em>Many motorcyclists <strong>flout</strong> the law by not wearing helmets</em>.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>The word &#39;<span style=\"font-weight: 700;\">flout</span>&#39; is&nbsp;used correctly in the&nbsp;third sentence as it&nbsp;talks about <strong>the&nbsp;serious consequences&nbsp;of refusing to obey safety guidelines</strong>.\n\t\t<ul>\n\t\t\t<li><span style=\"font-weight: bolder;\">Example:</span>&nbsp;<em>No one can <strong>flout</strong> the law with impunity</em>.</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>Therefore,&nbsp;<span style=\"font-weight: bolder;\">both B and C</span><span style=\"font-weight: bolder;\">&nbsp;best express&nbsp;the meaning of the given word</span>.<br />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"color:  (33, 37, 41);\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 1</span>.</p>\n\n<p style=\"color:  (33, 37, 41);\"><span style=\"font-weight: 700;\">Sentence A:</span>&nbsp;<em>When the nurse failed to&nbsp;<span style=\"font-weight: bolder;\">obey</span>&nbsp;the procedures for issuing medication, patients became ill and threatened to sue the hospital</em>.</p>\n\n<p style=\"color:  (33, 37, 41);\"><span style=\"font-weight: 700;\">Sentence B:</span>&nbsp;<em>People find themselves in trouble because they think they&rsquo;re clever enough to&nbsp;<span style=\"font-weight: bolder;\">flout</span>&nbsp;the law without getting caught</em>.</p>\n\n<p style=\"color:  (33, 37, 41);\"><span style=\"font-weight: 700;\">Sentence C:</span>&nbsp;<em>Safety guidelines exist for a reason, and if you&nbsp;<span style=\"font-weight: bolder;\">flout</span>&nbsp;them, there could be serious consequences</em>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ea7d8f4f60d5d3d1dc234a9",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In each question, one sentence is given in which certain words are in bold and numbered from A to E. Below the sentence are given five options with possible pairs of interchange of those bold words. Choose the pair(s) of words which are needed to be interchanged to make the sentence grammatically correct and meaningful.</span></p>\n\n<p>75% of&nbsp;<strong>according(A)</strong>entrepreneurs <strong>experience (B)</strong>personal financial hardship,&nbsp; <strong>social (C)</strong>to a 2019 study <strong>by(D)</strong> World Economic <strong>Forum. (E)</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-E",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "D-E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;Option 2&#39;</span>.</p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>The word \"<strong>according</strong>\" <strong>(A)</strong> is incorrectly placed. It is used to present the source of information and should be swapped with \"<strong>to</strong>\" <strong>(C)</strong> to make the sentence grammatically correct.</li>\n\t<li>The correct sentence structure requires \"<strong>according to</strong>\" (A-C) to attribute the information to the World Economic Forum study.</li>\n\t<li>Thus, \"<strong>according</strong>\" and \"<strong>to</strong>\" need to be interchanged to make the sentence coherent and meaningful.</li>\n</ul>\n\n<p style=\"\">Hence, the correct answer is &#39;<strong><span style=\"color: rgb(33, 37, 41);\">A - C</span></strong><span style=\"color: rgb(33, 37, 41);\">&#39;</span>.</p>\n\n<p><strong>Correct Sentence</strong><em>: 75% of entrepreneurs experience personal financial hardship, according to a 2019 study by World Economic Forum.</em></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><strong>Option 1:</strong> Interchanging \"<strong>according</strong>\" (A) and \"<strong>World Economic Forum</strong>\" (E) disrupts the sentence structure and does not make sense.</li>\n\t<li><strong>Option 3:</strong> Interchanging \"<strong>study by</strong>\" (D) and \"<strong>World Economic Forum</strong>\" (E) results in a grammatically incorrect sentence.</li>\n\t<li><strong>Option 4:</strong> Interchanging \"<strong>experience</strong>\" (B) and \"<strong>study by</strong>\" (D) disrupts the meaning of the sentence.</li>\n\t<li><strong>Option 5:</strong> No interchange required is incorrect because the phrase \"<strong>according to</strong>\" (A-C) is not correctly placed in the sentence.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ea743d9f60d5d041a4b90b7",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In each question, one sentence is given in which certain words are in bold and numbered from A to E. Below the sentence are given five options with possible pairs of interchange of those bold words. Choose the pair(s) of words which are needed to be interchanged to make the sentence grammatically correct and meaningful.</span></p>\n\n<p>The moves to silence and <strong>marginalizing (A)</strong>Kashmir&rsquo;s senior leader <strong>politicians(B)</strong> a dangerous plan of <strong>humiliate(C) </strong>the l<strong>iberal(D)</strong>, established&nbsp;<strong>betrays(E).</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-C and B-E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No swapping is required.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;Option 4&#39;</span>.</p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>The word \"<strong>marginalizing</strong>\" <strong>(A)</strong> is incorrectly placed. It implies sidelining or excluding, which does not fit the current context.</li>\n\t<li>The word \"<strong>humiliate</strong>\" <strong>(C)</strong> should be swapped with \"<strong>marginalizing</strong>\" <strong>(A)</strong> to make the sentence meaningful.</li>\n\t<li>The word \"<strong>politicians</strong>\" <strong>(B)</strong> is misplaced. It should be swapped with \"<strong>betrays</strong>\" <strong>(E)</strong> to correctly fit the sentence.</li>\n\t<li>Thus, \"<strong>marginalizing</strong>\" and \"<strong>humiliate</strong>\" need to be interchanged, and \"<strong>politicians</strong>\" and \"<strong>betrays</strong>\" also need to be swapped to make the sentence coherent and meaningful.</li>\n</ul>\n\n<p style=\"\">Hence, the correct answer is &#39;<strong><span style=\"color: rgb(33, 37, 41);\">A-C and B-E</span></strong><span style=\"color: rgb(33, 37, 41);\">&#39;</span>.</p>\n\n<p><strong>Correct Sentence</strong>: <em>The moves to humiliate and marginalizing Kashmir&rsquo;s senior leader betrays a dangerous plan of politicians, established liberal.</em></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><strong>Option 1:</strong> Interchanging \"<strong>A</strong>\" and \"<strong>C</strong>\" partially fixes the sentence but leaves \"<strong>B</strong>\" and \"<strong>E</strong>\" misplaced.</li>\n\t<li><strong>Option 2:</strong> Interchanging \"<strong>B</strong>\" and \"<strong>E</strong>\" does not address the misplacement of \"<strong>A</strong>\" and \"<strong>C</strong>.\"</li>\n\t<li><strong>Option 3:</strong> Interchanging \"<strong>B</strong>\" and \"<strong>D</strong>\" disrupts the sentence structure further.</li>\n\t<li><strong>Option 5:</strong> No interchange required is incorrect because the current placement of the bold words makes the sentence grammatically incorrect and meaningless.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ea73869f60d5d041a4b8f18",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In each question, one sentence is given in which certain words are in bold and numbered from A to E. Below the sentence are given five options with possible pairs of interchange of those bold words. Choose the pair(s) of words which are needed to be interchanged to make the sentence grammatically correct and meaningful.</span></p>\n\n<p>Reports <strong>government</strong> (A) that given the Prime Minister&rsquo;s <strong>openness</strong> (B) to work with young <strong>parties</strong>(C), Japanese President Shinzo Abe may be<strong> convinced </strong>(D) to invite him to form a <strong>indicate</strong>(E).</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A -E",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D-E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No replacement required",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>the correct answer is&nbsp;<strong>A-E</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>A-E i.e, &lsquo;government-indicate&rsquo; will be swapped to make the sentence grammatically and contextually correct.&nbsp;</li>\n\t<li>After &#39;reports&#39; a verb is required. &#39;convinced&#39; is a verb out of all the options but is contextually wrong. &#39;indicate&#39; is the correct word.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Openness&nbsp;</strong>is a noun which means a&nbsp;<span style=\"color: rgb(32, 33, 36);  \">lack of secrecy or concealment; frankness.</span>&nbsp;</li>\n</ul>\n\n<p><strong>Thus, the correct sentence is:</strong><em>&nbsp;Reports&nbsp;<span style=\"font-weight: 700;\">indicate</span>&nbsp;that given the Prime Minister&rsquo;s&nbsp;<span style=\"font-weight: 700;\">openness</span>&nbsp;to work with young&nbsp;<span style=\"font-weight: 700;\">parties</span>, Japanese President Shinzo Abe may be<span style=\"font-weight: 700;\">&nbsp;convinced&nbsp;</span>to invite him to form a&nbsp;</em><span style=\"font-weight: 700;\"><em>government.</em></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "655b533e49d52f64553669b0",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "Which title and summary, respectively, best encapsulate the passage&#39;s essence?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "\"Ethics in Flux: Balancing Values in Contemporary Society,\" Addressing contemporary dilemmas, the passage underscores the decline of ethics, advocating for early education&#39;s pivotal role in nurturing moral consciousness.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "\"Moral Education: Cultivating Integrity Amidst Modern Chaos,\" The passage delves into modern ethical dilemmas, advocating for early value education to counteract growing societal transgressions and cultivate principled citizens.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "\"Upholding Moral Values: Nurturing Integrity in a Fast-Paced World,\" The passage highlights the erosion of moral values in a fast-paced world and emphasizes the crucial role of education in nurturing integrity and ethical behaviour from a young age.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "\"Guiding Principles: Building Character Amid Life&#39;s Rush,\" Analyzing societal trends, the passage scrutinizes moral decline, emphasizing education&#39;s critical role in shaping ethical foundations amid today&#39;s complexities.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "\"Values Beyond Time: Sustaining Morality Amidst Urban Turmoil,\" The passage explores the fading ethical landscape, emphasizing the importance of instilling moral principles early to guide individuals toward integrity and societal betterment.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 3.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, first read the passage carefully to understand what the passage is about.</strong></li>\n\t<li><strong>Summary of the passage:</strong></li>\n\t<li>The passage reflects on the fading moral compass in today&#39;s fast-paced world, emphasizing the need to instil values like empathy and honesty early on. It highlights how education, guided by moral principles, shapes individuals of integrity, aiming to combat societal ethical decline and nurture a principled generation for a better society.</li>\n\t<li><strong>Now, Let&#39;s analyze the options:</strong></li>\n\t<li><strong>Option 1 -</strong> \"<u>Ethics in Flux: Balancing Values in Contemporary Society</u>,\" Addressing contemporary dilemmas, the passage underscores the decline of ethics, advocating for early education&#39;s pivotal role in nurturing moral consciousness.\n\t<ul>\n\t\t<li>This option captures the discussion on the decline of ethics but lacks emphasis on the essential role of education in fostering moral values from an early age. It doesn&#39;t fully encapsulate the passage&#39;s emphasis on education&#39;s significance in shaping ethical behaviour in children.</li>\n\t\t<li><strong>So, this cannot be the answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 2 -</strong> \"<u>Moral Education: Cultivating Integrity Amidst Modern Chaos</u>,\" The passage delves into modern ethical dilemmas, advocating for early value education to counteract growing societal transgressions and cultivate principled citizens.\n\t<ul>\n\t\t<li>This option centres on moral education and societal dilemmas but doesn&#39;t explicitly highlight the erosion of moral values or stress the critical role of education in addressing these issues. It fails to encompass the passage&#39;s comprehensive emphasis on the decline of moral values and the pivotal role of education in countering it.</li>\n\t\t<li><strong>So, this cannot be the answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 3 -</strong> \"<u>Upholding Moral Values: Nurturing Integrity in a Fast-Paced World</u>,\" The passage highlights the erosion of moral values in a fast-paced world and emphasizes the crucial role of education in nurturing integrity and ethical behaviour from a young age.\n\t<ul>\n\t\t<li>This option succinctly encapsulates the core essence of the passage by acknowledging the decline of moral values in today&#39;s fast-paced world and stressing the pivotal role of education in nurturing ethical behaviour from an early age. It accurately reflects the passage&#39;s emphasis on the erosion of values and the significance of education in addressing this issue, making it the most fitting title and summary.</li>\n\t\t<li><strong><u>So, this is the correct answer</u>.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 4 -</strong> \"<u>Guiding Principles: Building Character Amid Life&#39;s Rush</u>,\" Analyzing societal trends, the passage scrutinizes moral decline, emphasizing education&#39;s critical role in shaping ethical foundations amid today&#39;s complexities.\n\t<ul>\n\t\t<li>While this option discusses moral decline and acknowledges education&#39;s importance, it lacks specificity in addressing the erosion of moral values and doesn&#39;t emphasize early education&#39;s role, which is pivotal in the passage&#39;s essence.</li>\n\t\t<li><strong>So, this cannot be the answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 5 -</strong> \"<u>Values Beyond Time: Sustaining Morality Amidst Urban Turmoil</u>,\" The passage explores the fading ethical landscape, emphasizing the importance of instilling moral principles early to guide individuals toward integrity and societal betterment.\n\t<ul>\n\t\t<li>Although this option mentions the fading ethical landscape and stresses the importance of instilling moral principles early, it doesn&#39;t comprehensively cover the passage&#39;s emphasis on the erosion of values in today&#39;s fast-paced world and the responsibility of education in combating this decline.</li>\n\t\t<li><strong>So, this cannot be the answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Therefore, the correct answer is \"Upholding Moral Values: Nurturing Integrity in a Fast-Paced World,\" The passage highlights the erosion of moral values in a fast-paced world and emphasizes the crucial role of education in nurturing integrity and ethical behaviour from a young age.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "655b533e49d52f64553669ae",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "How does the passage suggest teachers could evaluate students&#39; commitment to moral principles?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "By conducting monitored class tests",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Through unmonitored class tests",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Engaging students with renowned personalities",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Discussing quotes in class",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Seamlessly integrating values into the curriculum",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 2.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, let&#39;s focus on the information provided in the passage regarding evaluating students&#39; commitment to moral principles.&nbsp;</strong></li>\n\t<li>The passage mentions, \"<u>To gauge their understanding and commitment to these values, teachers may also consider conducting unmonitored class tests</u>.\" This specific mention of \"unmonitored class tests\" implies a method where students are evaluated on their adherence to moral principles without direct supervision.&nbsp;</li>\n\t<li>The passage further elaborates that such exercises instil the belief that upholding moral principles is a personal responsibility, even without oversight. This approach aims to make these principles second nature to individuals, fostering integrity.&nbsp;</li>\n\t<li><strong>Therefore, the correct answer is \"Through unmonitored class tests.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "655b533e49d52f64553669ad",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "<p>Which of the following sentence(s) can be inferred from the given passage?</p>\n\n<p><strong>A.</strong> The decline in societal empathy and the proliferation of misconduct signal the erosion of foundational values in today&rsquo;s culture.<br />\n<strong>B.</strong> In a world devoid of material pursuits, societal progress is hindered by an overwhelming emphasis on communal ethical codes.<br />\n<strong>C.</strong> The ethical compass, once the cornerstone of societal integrity, seems overshadowed by the relentless pursuit of individual goals.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A &amp; B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A &amp; C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B &amp; C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 3.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, let&#39;s analyze the given sentences:</strong></li>\n\t<li><strong>Sentence A -</strong> \"The decline in societal empathy and the proliferation of misconduct signal the erosion of foundational values in today&rsquo;s culture.\"\n\t<ul>\n\t\t<li><u>This sentence aligns with the passage&#39;s discussion</u> on the erosion of moral values leading to unethical behaviour, indicating a decline in societal empathy and an increase in misconduct.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Sentence B -</strong> \"In a world devoid of material pursuits, societal progress is hindered by an overwhelming emphasis on communal ethical codes.\"\n\t<ul>\n\t\t<li><u>This sentence cannot be inferred from the passage</u>. The passage primarily discusses the erosion of moral values in a fast-paced, self-centered world, rather than a world devoid of material pursuits. It focuses on individual pursuits taking precedence over communal ethical codes, not their absence hindering societal progress.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Sentence C -</strong> \"The ethical compass, once the cornerstone of societal integrity, seems overshadowed by the relentless pursuit of individual goals.\"\n\t<ul>\n\t\t<li><u>This sentence resonates with the passage&#39;s theme</u>, highlighting how the pursuit of individual goals has overshadowed the importance of ethical principles that were once fundamental to societal integrity.</li>\n\t</ul>\n\t</li>\n\t<li><u>So, out of the three sentences given, both A and C can be inferred from the passage, while sentence B cannot be inferred</u>.&nbsp;</li>\n\t<li><strong>Therefore, the correct answer is \"Both A &amp; C.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "655b533e49d52f64553669ac",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "Which pair of words represents the synonym and antonym, respectively, for the word \"<strong>precedence</strong>\" in the context of the passage?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Scrutinize, Disregard",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Ascendancy, Inconsequence",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Amalgamation, Separation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Negligibility, Dominance",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Fortitude, Weakness",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 2.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, let&#39;s first understand the meaning of the word, \"precedence,\" given in the question:</strong></li>\n\t<li><strong>Precedence -</strong> priority or greater importance given to something over other matters; the condition of being considered more important than something else <strong>(पूर्वाधिकार)</strong></li>\n\t<li><strong>For Example -</strong></li>\n\t<li>The safety of the passengers takes <strong>precedence </strong>over all other concerns for the airline crew during flights.</li>\n\t<li>The word \"precedence\" in the context of the passage refers to the priority or superiority given to individual pursuits over other things. Therefore, we are looking for a pair of words that represent a synonym and an antonym for \"precedence\" in this context.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Now, let&#39;s consider the options:</strong></li>\n\t<li><strong>Option 1 -</strong> \"<u>Scrutinize, Disregard</u>\"</li>\n\t<li><strong>Scrutinize -</strong> to examine or inspect closely and thoroughly <strong>(जांचना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Before finalizing the contract, the legal team will <strong>scrutinize </strong>every clause to ensure accuracy and legality.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Disregard -</strong> to pay no attention to; ignore or treat as unworthy of consideration <strong>(अनदेखा करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Despite numerous warnings, he chose to <strong>disregard </strong>the safety protocols, putting himself at risk.</li>\n\t</ul>\n\t</li>\n\t<li>Here, \"Scrutinize\" means to examine closely, which doesn&rsquo;t align with the meaning of \"precedence.\" \"Disregard\" means to ignore or pay no attention, which is an antonym but not the one that fits here.\n\t<ul>\n\t\t<li><strong>So, this can not be the answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 2 -</strong> \"<u>Ascendancy, Inconsequence</u>\"</li>\n\t<li><strong>Ascendancy -</strong> a position of dominant power or influence, often gained gradually or through superiority in a particular field or aspect <strong>(अधिकार)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Her expertise and experience in the field gave her an <strong>ascendancy </strong>over her colleagues, making her the go-to person for advice and guidance.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Inconsequence -</strong> the lack of importance, significance, or relevance; something lacking in consequence or importance <strong>(अप्रासंगिकता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>His arguments held no weight due to their <strong>inconsequence </strong>in the context of the discussion, and they were swiftly dismissed by the panel.</li>\n\t</ul>\n\t</li>\n\t<li>Here, \"Ascendancy\" means dominance or a position of power, which aligns with the concept of \"precedence.\" \"Inconsequence\" means lack of importance or significance, serving as the antonym that fits the context.\n\t<ul>\n\t\t<li><strong>So, this is the correct answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 3 -</strong> \"<u>Amalgamation, Separation</u>\"</li>\n\t<li><strong>Amalgamation -</strong> the action, process, or result of combining or uniting multiple entities into one, often creating a whole that is more complex or comprehensive <strong>(संघटन)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>amalgamation </strong>of different departments within the company aimed to streamline operations and enhance efficiency by merging their functions.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Separation -</strong> the act or process of setting or keeping apart; the state of being apart or detached from others <strong>(विभाजन)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>separation </strong>of powers within the government ensures a system of checks and balances where each branch has distinct functions and responsibilities.</li>\n\t</ul>\n\t</li>\n\t<li>Here, \"Amalgamation\" means the merging or combining of things, which doesn&#39;t relate to \"precedence.\" \"Separation\" means to divide or detach, also not fitting the context.\n\t<ul>\n\t\t<li><strong>So, this can not be the answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 4 -</strong> \"<u>Negligibility, Dominance</u>\"</li>\n\t<li><strong>Negligibility -</strong> the state or quality of being so small, unimportant, or insignificant that it&#39;s not worth considering or taking into account <strong>(तुच्छता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>In the grand scheme of the project, the typo in the presentation had a level of <strong>negligibility </strong>that didn&#39;t affect the overall impact.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Dominance -</strong> the power, authority, or influence over others; the state of being in control or command <strong>(प्रमुखता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The company&#39;s <strong>dominance </strong>in the market allowed it to set industry standards and trends.</li>\n\t</ul>\n\t</li>\n\t<li>Here, \"Negligibility\" refers to being unimportant or insignificant, which is closer to an antonym for \"precedence.\" \"Dominance\" aligns more with the synonym of \"precedence.\"\n\t<ul>\n\t\t<li><strong>So, this can not be the answer</strong> as well because it presents an atonym-synonym pair, not a synonym-antonym pair as asked in the question.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 5 -</strong> \"<u>Fortitude, Weakness</u>\"</li>\n\t<li><strong>Fortitude -</strong> mental and emotional strength in facing difficulty, adversity, danger, or temptation courageously <strong>(साहस, धैर्य)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Her <strong>fortitude </strong>during the challenging times inspired everyone around her to persevere.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Weakness - </strong>the state or condition of lacking strength or firmness; a disadvantage or fault <strong>(कमजोरी)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>His fear of failure was his greatest <strong>weakness</strong>, hindering his progress in various aspects of life.</li>\n\t</ul>\n\t</li>\n\t<li>Here, \"Fortitude\" means courage or strength of character, not directly related to \"precedence.\" \"Weakness\" serves as an antonym but is not in line with the context.\n\t<ul>\n\t\t<li><strong>So, this can not be the answer.</strong></li>\n\t</ul>\n\t</li>\n\t<li>Hence, among the given options,<u> the pair that represents the synonym and antonym for \"precedence\" in the context of the passage is option 2: Ascendancy (synonym) and Inconsequence (antonym)</u>.</li>\n\t<li><strong>Therefore, the correct answer is \"Ascendancy, Inconsequence.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "655b52c849d52f6455365954",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "Which of the following options best describes the meaning of the word \"<strong>contemplate</strong>\" in the context of the passage?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "To rush through or hurriedly analyze",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "To ignore or neglect thoughts",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "To impulsively make decisions",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "To ignore and overlook critical details",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "To carefully think about or consider",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>The correct answer is option 5.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, let&#39;s first understand the meaning of the word, \"contemplate,\" given in the question:</strong></li>\n\t<li><strong>Contemplate -</strong> to think deeply or carefully about something; to consider thoroughly <strong>(विचार करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Before making a decision, it&#39;s essential to <strong>contemplate </strong>all possible outcomes and implications.</li>\n\t</ul>\n\t</li>\n\t<li>In the given passage, <u>the word \"contemplate\" is used in the context of encouraging children to distinguish between right and wrong</u>, to pause and consider their actions. It refers to the act of carefully thinking about or considering something.</li>\n\t<li><strong>Therefore, the most appropriate option that aligns with the meaning of \"contemplate\" in this context is: \"To carefully think about or consider.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f717812cc30145f6b21ef2f",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Pick out the most effective form of the word from the given options to fill in the blanks to make the sentence meaningfully complete.</strong></p>\n\n<p>Unemployment rate _______ in the US as govt stimulus for recovery _______.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "rises, fades",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "rise, faded",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "rose, fading",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "rises, faded",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "risen, fades",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">option 1)</span>&nbsp;i.e.&nbsp;<strong>rises, fades​</strong><span style=\"font-weight: 700;\"><strong>​</strong>.</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li>From the context of the sentence, the verbs should be used&nbsp;in the given blanks.</li>\n\t<li><u>Let us explore the options</u>:\n\t<ul>\n\t\t<li>The <strong>first option</strong> is <strong>correct</strong> as the tense (simple present tense)&nbsp;of both the words are correct and also their meaning fits into the sentence. Also, the plural subject \"unemployment rate\" takes the plural verb &#39;rises&#39;.</li>\n\t\t<li>The <strong>second option</strong> is <strong>incorrect</strong> as &#39;rise&#39; is the singular form of the verb and \"unemployment rate\" is a plural subject and&nbsp;&#39;faded&#39; is the past tense of the verb.</li>\n\t\t<li>The <strong>third option</strong> is <strong>incorrect</strong> as &#39;rose&#39; is the past tense of the verb &#39;rise&#39; and &#39;fading&#39; is the present participle form of &#39;fade&#39;.</li>\n\t\t<li>The <strong>fourth option</strong> is <strong>incorrect</strong> as &#39;faded&#39; is the past tense of the verb.&nbsp;&#39;Rises&#39; is still okay for the first blank but &#39;faded&#39; is not fit for the second blank.</li>\n\t\t<li>The <strong>fifth option</strong> is <strong>incorrect</strong> as &#39;risen&#39; is the past participle of the verb.&nbsp;&#39;Fades&#39; is still okay for the second blank but &#39;risen&#39; is not fit for the first blank.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Hence</strong>, the correct option is <strong>\"rises, fades</strong>\".<br />\n\t&nbsp;</li>\n</ul>\n\n<p>​<strong><u>Complete Sentence</u>:&nbsp;</strong><em>Unemployment rate <strong>rises</strong> in the US as govt stimulus for recovery <strong>fades</strong>.</em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><u>Important Tips and Tricks to solve double fillers</u>:&nbsp;\n\n\t<ul>\n\t\t<li><strong>Do not&nbsp;read options:</strong> Read the sentence and think of a word that &#39;fits&#39;&nbsp;the sentence. Now go to the&nbsp;options and choose the word&nbsp;that best replaces the word that you had thought of initially.</li>\n\t\t<li><strong>Elimination method:</strong>&nbsp;In certain questions, our knowledge and understanding of vocabulary and common idioms-phrases&nbsp;may be tested. Hence, be sure to have a good skill set of such phrases.</li>\n\t\t<li><strong>Use grammar clues:</strong> Keep a close watch at the tense of the sentence, subject-verb agreement, whether the blank in the sentence is after the article &#39;an&#39; etc.</li>\n\t\t<li><strong>Use Connotation:</strong>&nbsp;Each word expresses two things: a definition and a connotation. A connotation is a positive, negative, or neutral feeling that is implied by or associated with a word.</li>\n\t\t<li><strong>Identify the Indicators:</strong>&nbsp;Indicators tell us what is coming up. They indicate if the question is&nbsp;moving to draw a contrast with something stated previously, or support something stated previously.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f719eb29826a2ee641af043",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Pick out the most effective form of the word from the given options to fill in the blanks to make the sentence meaningfully complete.</span></p>\n\n<p style=\"\">The sources added that the result for the quarter ending September will _______ which bank will likely need regulatory capital and accordingly recapitalisation bonds would be _______ to them.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "suggest, issue",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "suggested, issuing",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "suggesting, issued",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "suggestion, issues",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "suggest, issued",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">option 5)</span>&nbsp;i.e.&nbsp;<span style=\"font-weight: 700;\">suggest, issued.</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><img height=\"44px\" src=\"//cdn.testbook.com/images/production/quesImage3.png\" style=\"\" width=\"164px\" />&nbsp;</span></p>\n\n<ul style=\"\">\n\t<li style=\"\">From the context of the sentence, the&nbsp;verbs should be used&nbsp;in the given blanks.</li>\n\t<li style=\"\"><u style=\"\">Let us explore the options</u>:\n\t<ul style=\"\">\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">first option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">in</span><span style=\"font-weight: 700;\">correct</span>&nbsp;as &#39;issue&#39; is the simple present form of the verb.&nbsp;&#39;Suggest&#39; is still okay for the first blank but &#39;issue&#39; is not fit for the second blank.</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">second option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">incorrect</span>&nbsp;as &#39;suggested&#39; is the past&nbsp;form of the verb. &#39;Issuing&#39; is the present participle form of the verb.</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">third option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">incorrect</span>&nbsp;as &#39;suggesting&#39; is the present participle form&nbsp;of the verb.&nbsp;&#39;Issued&#39; is still okay for the second blank but &#39;suggesting&#39; is not fit for the first blank.</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">fourth option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">in</span><span style=\"font-weight: 700;\">correct</span>&nbsp;as &#39;suggestion&#39; and &#39;issues&#39; not fit contextually with the sentence.&nbsp;</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">fifth option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">correct</span>&nbsp;as &#39;suggest&#39; is the base form of the verb and only base form is used with the modal verb &#39;will&#39;. &#39;Issued&#39; is the past participle form of the verb which is correct to be used here.</li>\n\t</ul>\n\t</li>\n\t<li style=\"\"><span style=\"font-weight: 700;\">Hence</span>, the correct option is&nbsp;<span style=\"font-weight: 700;\">\"suggest, issued</span><span style=\"font-weight: 700;\">\"</span>.<br style=\"\" />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"\">​<span style=\"font-weight: 700;\"><u style=\"\">Complete Sentence</u>:&nbsp;</span><em>The sources added that the result for the quarter ending September will <strong>suggest</strong> which bank will likely need regulatory capital and accordingly recapitalisation bonds would be <strong>issued</strong> to them.</em></p>\n\n<p style=\"\"><img height=\"55px\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage44.png\" style=\"\" width=\"180px\" /></p>\n\n<ul style=\"\">\n\t<li style=\"\"><u style=\"\">Important Tips and Tricks to solve double fillers</u>:&nbsp;\n\n\t<ul style=\"\">\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Do not&nbsp;read options:</span>&nbsp;Read the sentence and think of a word that &#39;fits&#39;&nbsp;the sentence. Now go to the&nbsp;options and choose the word&nbsp;that best replaces the word that you had thought of initially.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Elimination method:</span>&nbsp;In certain questions, our knowledge and understanding of vocabulary and common idioms-phrases&nbsp;may be tested. Hence, be sure to have a good skill set of such phrases.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Use grammar clues:</span>&nbsp;Keep a close watch at the tense of the sentence, subject-verb agreement, whether the blank in the sentence is after the article &#39;an&#39; etc.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Use Connotation:</span>&nbsp;Each word expresses two things: a definition and a connotation. A connotation is a positive, negative, or neutral feeling that is implied by or associated with a word.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Identify the Indicators:</span>&nbsp;Indicators tell us what is coming up. They indicate if the question is&nbsp;moving to draw a contrast with something stated previously, or support something stated previously.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f71c76e36ffed7f07c84dc0",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Pick out the most effective form of the word from the given options to fill in the blanks to make the sentence meaningfully complete.</span></p>\n\n<p style=\"\">Tata Consultancy Services has rolled out an online national _______ &nbsp;for freshers that _______ can use for their hiring.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "qualifier, corporates",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "qualified, corporate",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "qualifying, corporating",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "qualify, corporates",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "qualifier, corporated",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">option 1)</span>&nbsp;i.e.&nbsp;<span style=\"font-weight: 700;\">qualifier, corporates.</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><img height=\"44px\" src=\"//cdn.testbook.com/images/production/quesImage3.png\" style=\"\" width=\"164px\" />&nbsp;</span></p>\n\n<ul style=\"\">\n\t<li style=\"\">From the context of the sentence, the nouns should be used in the given blanks.</li>\n\t<li style=\"\"><u style=\"\">Let us explore the options</u>:\n\t<ul style=\"\">\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">first option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">correct</span>&nbsp;as &#39;qualifier&#39; is used as the noun means a match or contest to decide which individuals or teams qualify for a competition or its final rounds.&nbsp;&#39;Corporates&#39; is used as the plural noun for&nbsp;the plural verb &#39;their&#39; means&nbsp;a corporate company or group.</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">second option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">incorrect</span>&nbsp;as &#39;qualified&#39; is used as an adjective and &#39;corporate&#39; is used as a singular noun which is incorrect for the plural verb &#39;their&#39;.</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">third option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">incorrect</span>&nbsp;as &#39;qualifying&#39; is used as the present participle&nbsp;the verb&nbsp;and &#39;corporating&#39; is&nbsp;also used as the present participle the verb.</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">fourth option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">incorrect</span>&nbsp;as &#39;qualify&#39; is used as the base form of the verb.&nbsp;&#39;Corporates&#39; is still okay for the second&nbsp;blank but &#39;qualify&#39; is not fit for the first blank.&nbsp;</li>\n\t\t<li style=\"\">The&nbsp;<span style=\"font-weight: 700;\">fifth option</span>&nbsp;is&nbsp;<span style=\"font-weight: 700;\">incorrect</span>&nbsp;as &#39;corporated&#39; is used as the past participle of the verb. &#39;Qualifier&#39; is still okay for the first blank but &#39;corporated&#39; is not fit for the second blank.&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li style=\"\"><span style=\"font-weight: 700;\">Hence</span>, the correct option is&nbsp;<span style=\"font-weight: 700;\">\"qualifier, corporates\"</span>.<br style=\"\" />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"\">​<span style=\"font-weight: 700;\"><u style=\"\">Complete Sentence</u>:&nbsp;</span><em>Tata Consultancy Services has rolled out an online national <strong>qualifier</strong> for freshers that <strong>corporates</strong> can use for their hiring.</em></p>\n\n<p style=\"\"><img height=\"55px\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage44.png\" style=\"\" width=\"180px\" /></p>\n\n<ul style=\"\">\n\t<li style=\"\"><u style=\"\">Important Tips and Tricks to solve double fillers</u>:&nbsp;\n\n\t<ul style=\"\">\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Do not&nbsp;read options:</span>&nbsp;Read the sentence and think of a word that &#39;fits&#39;&nbsp;the sentence. Now go to the&nbsp;options and choose the word&nbsp;that best replaces the word that you had thought of initially.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Elimination method:</span>&nbsp;In certain questions, our knowledge and understanding of vocabulary and common idioms-phrases&nbsp;may be tested. Hence, be sure to have a good skill set of such phrases.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Use grammar clues:</span>&nbsp;Keep a close watch at the tense of the sentence, subject-verb agreement, whether the blank in the sentence is after the article &#39;an&#39; etc.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Use Connotation:</span>&nbsp;Each word expresses two things: a definition and a connotation. A connotation is a positive, negative, or neutral feeling that is implied by or associated with a word.</li>\n\t\t<li style=\"\"><span style=\"font-weight: 700;\">Identify the Indicators:</span>&nbsp;Indicators tell us what is coming up. They indicate if the question is&nbsp;moving to draw a contrast with something stated previously, or support something stated previously.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:17.725Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

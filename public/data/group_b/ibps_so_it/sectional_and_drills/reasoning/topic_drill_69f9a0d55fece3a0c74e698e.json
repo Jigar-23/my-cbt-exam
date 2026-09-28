@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0d55fece3a0c74e698e",
+  "title": "CT 8: Reasoning (Circular Seating Arrangement)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Reasoning",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "609305637ad8c933eb3d0260",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "How many persons sit between Q and R when counted from left of R?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "One",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Eight persons:&nbsp;P, Q, R, S, T, U, V and W</p>\n\n<p>1. R sits third to the right of P, who is immediate left of T, who faces away from the center.</p>\n\n<p>So, P faces towards or away from the center.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D12.png\" style=\"width: 197px; height: 251px;\" /></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D13.png\" style=\"width: 216px; height: 236px;\" /></p>\n\n<p>2. U sits immediate right of V and both face towards the center.</p>\n\n<p>3. R does not face towards the center.</p>\n\n<p>4. S sits opposite to Q, who is not adjacent to W.</p>\n\n<p>As, R does not face towards the center, so, case 2 would be rejected.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D14.png\" style=\"width: 221px; height: 237px;\" /></p>\n\n<p>Hence, two persons sit between Q and R when counted from left of R.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "609305637ad8c933eb3d025f",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Who sits immediate left of W?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "U",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Eight persons:&nbsp;P, Q, R, S, T, U, V and W</p>\n\n<p>1. R sits third to the right of P, who is immediate left of T, who faces away from the center.</p>\n\n<p>So, P faces towards or away from the center.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D12.png\" style=\"width: 197px; height: 251px;\" /></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D13.png\" style=\"width: 216px; height: 236px;\" /></p>\n\n<p>2. U sits immediate right of V and both face towards the center.</p>\n\n<p>3. R does not face towards the center.</p>\n\n<p>4. S sits opposite to Q, who is not adjacent to W.</p>\n\n<p>As, R does not face towards the center, so, case 2 would be rejected.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D14.png\" style=\"width: 221px; height: 237px;\" /></p>\n\n<p>Hence, P sits immediate left of W.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "609305637ad8c933eb3d025e",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Find the odd one out.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "W",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "T",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Eight persons:&nbsp;P, Q, R, S, T, U, V and W</p>\n\n<p>1. R sits third to the right of P, who is immediate left of T, who faces away from the center.</p>\n\n<p>So, P faces towards or away from the center.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D12.png\" style=\"width: 197px; height: 251px;\" /></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D13.png\" style=\"width: 216px; height: 236px;\" /></p>\n\n<p>2. U sits immediate right of V and both face towards the center.</p>\n\n<p>3. R does not face towards the center.</p>\n\n<p>4. S sits opposite to Q, who is not adjacent to W.</p>\n\n<p>As, R does not face towards the center, so, case 2 would be rejected.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D14.png\" style=\"width: 221px; height: 237px;\" /></p>\n\n<p>Hence, all face away from the center except W.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "609305637ad8c933eb3d025c",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Who sits opposite to P?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "T",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "V",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cannot be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Eight persons:&nbsp;P, Q, R, S, T, U, V and W</p>\n\n<p>1. R sits third to the right of P, who is immediate left of T, who faces away from the center.</p>\n\n<p>So, P faces towards or away from the center.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D12.png\" style=\"width: 197px; height: 251px;\" /></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D13.png\" style=\"width: 216px; height: 236px;\" /></p>\n\n<p>2. U sits immediate right of V and both face towards the center.</p>\n\n<p>3. R does not face towards the center.</p>\n\n<p>4. S sits opposite to Q, who is not adjacent to W.</p>\n\n<p>As, R does not face towards the center, so, case 2 would be rejected.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D14.png\" style=\"width: 221px; height: 237px;\" /></p>\n\n<p>Hence,&nbsp;V sits opposite to P.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "609305637ad8c933eb3d025b",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Who among the following sits immediate right of T?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "U",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Q",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "W",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Eight persons:&nbsp;P, Q, R, S, T, U, V and W</p>\n\n<p>1. R sits third to the right of P, who is immediate left of T, who faces away from the center.</p>\n\n<p>So, P faces towards or away from the center.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D12.png\" style=\"width: 197px; height: 251px;\" /></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D13.png\" style=\"width: 216px; height: 236px;\" /></p>\n\n<p>2. U sits immediate right of V and both face towards the center.</p>\n\n<p>3. R does not face towards the center.</p>\n\n<p>4. S sits opposite to Q, who is not adjacent to W.</p>\n\n<p>As, R does not face towards the center, so, case 2 would be rejected.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/05/F1_Kanchan.A_12-05_21_Savita_D14.png\" style=\"width: 221px; height: 237px;\" /></p>\n\n<p>Hence,&nbsp;Q sits immediate right of T.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6030d59f128f810ca6ca2983",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "What is the position of Z with respect to J?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Second to the left",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Fourth to the left",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Fourth to the right",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Third to the left",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Third to the right",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Ten persons: B, F, H, J, M, P, S, U, W and Z</p>\n\n<p>i) M sits third to the right of H.</p>\n\n<p>ii) Z is an immediate neighbor of both M and U.</p>\n\n<p>iii) P sits immediate right of U.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D1.png\" /></p>\n\n<p>iv) S is not a neighbor of H and sits third to the right of W.</p>\n\n<p>v) B is not a neighbor of W and P.</p>\n\n<p>vi) Number of persons between J and H is same as number of persons between Z and J.</p>\n\n<p>So, the final arrangement is,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D2.png\" style=\"width: 165px; height: 173px;\" /></p>\n\n<p>Hence, Z is <strong>third to the left</strong> of J.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6030d59f128f810ca6ca2982",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Who sits fourth to the right of F?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "H",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Z",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "S",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Ten persons: B, F, H, J, M, P, S, U, W and Z</p>\n\n<p>i) M sits third to the right of H.</p>\n\n<p>ii) Z is an immediate neighbor of both M and U.</p>\n\n<p>iii) P sits immediate right of U.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D1.png\" /></p>\n\n<p>iv) S is not a neighbor of H and sits third to the right of W.</p>\n\n<p>v) B is not a neighbor of W and P.</p>\n\n<p>vi) Number of persons between J and H is same as number of persons between Z and J.</p>\n\n<p>So, the final arrangement is,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D2.png\" style=\"width: 165px; height: 173px;\" /></p>\n\n<p>Hence, <strong>S</strong> sits fourth to the right of F.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6030d59f128f810ca6ca2981",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "What is the position of W with respect to M?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Third to the right",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Fifth to the left",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Fourth to the left",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Third to the left",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Second to the right",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Ten persons: B, F, H, J, M, P, S, U, W and Z</p>\n\n<p>i) M sits third to the right of H.</p>\n\n<p>ii) Z is an immediate neighbor of both M and U.</p>\n\n<p>iii) P sits immediate right of U.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D1.png\" /></p>\n\n<p>iv) S is not a neighbor of H and sits third to the right of W.</p>\n\n<p>v) B is not a neighbor of W and P.</p>\n\n<p>vi) Number of persons between J and H is same as number of persons between Z and J.</p>\n\n<p>So, the final arrangement is,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D2.png\" style=\"width: 165px; height: 173px;\" /></p>\n\n<p>Hence, W sits <strong>fourth to the left</strong> of M.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6030d59f128f810ca6ca2980",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "How many persons sit between J and B when counted from right of J?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "One",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Five",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Ten persons: B, F, H, J, M, P, S, U, W and Z</p>\n\n<p>i) M sits third to the right of H.</p>\n\n<p>ii) Z is an immediate neighbor of both M and U.</p>\n\n<p>iii) P sits immediate right of U.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D1.png\" /></p>\n\n<p>iv) S is not a neighbor of H and sits third to the right of W.</p>\n\n<p>v) B is not a neighbor of W and P.</p>\n\n<p>vi) Number of persons between J and H is same as number of persons between Z and J.</p>\n\n<p>So, the final arrangement is,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D2.png\" style=\"width: 165px; height: 173px;\" /></p>\n\n<p>Hence, <strong>three</strong> persons sit between J and B when counted from right of J.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6030d59f128f810ca6ca297f",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Who sits second to the left of H?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "F",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "M",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "W",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Ten persons: B, F, H, J, M, P, S, U, W and Z</p>\n\n<p>i) M sits third to the right of H.</p>\n\n<p>ii) Z is an immediate neighbor of both M and U.</p>\n\n<p>iii) P sits immediate right of U.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D1.png\" /></p>\n\n<p>iv) S is not a neighbor of H and sits third to the right of W.</p>\n\n<p>v) B is not a neighbor of W and P.</p>\n\n<p>vi) Number of persons between J and H is same as number of persons between Z and J.</p>\n\n<p>So, the final arrangement is,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/02/F1_Shabarish_Shraddha_19.02.2021_D2.png\" style=\"width: 165px; height: 173px;\" /></p>\n\n<p>Hence, <strong>F</strong> sits second to the left of H.</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:04:19.514Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

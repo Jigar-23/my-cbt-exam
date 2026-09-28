@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a113d9447558328ec7e9",
+  "title": "CT 17: Quantitative Aptitude (Discount and MP)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5bf7a3083d1bd90cd3c8facd",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "The marked price of an article is Rs. 120. If the article is sold at a discount of 10%, 35% profit is realised. How much loss or profit will be made if it is sold for Rs. 30 less than the marked price?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7.5%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "10%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "12.5%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "15%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "12%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The marked price of an article is Rs. 120</p>\n\n<p>Selling price after 10% discount = Rs. 108</p>\n\n<p>Since 35% profit is realised</p>\n\n<p>&rArr; Cost price of the article = 108/1.35 = Rs. 80</p>\n\n<p>If it is sold for Rs. 30 less than the marked price, the selling price will be Rs. 90</p>\n&there4; Profit percentage = [90 - 80] /80 = 12.5%",
+          "topic": "Test"
+        },
+        {
+          "id": "5f1ae7b0b595810d103cabba",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "If marked price of a washing machine including GST is Rs. 30800. The rate of GST is 12% and then there is a discount of 5%. If the shopkeeper is earning a profit of 10% in this transaction, then find the cost price of a washing machine.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 24900",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 27569",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 26590",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 32450",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 23750",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">The marked price of a washing machine including GST&nbsp;is Rs. 30800</p>\n\n<p style=\"\">The rate of GST is 12% and the discount percentage is of 5%</p>\n\n<p style=\"\">The shopkeeper gets the profit of 10% on this transaction</p>\n\n<p style=\"\"><strong style=\"\">Formula Used: </strong></p>\n\n<p style=\"\">SP = MP &ndash; discount</p>\n\n<p style=\"\">CP = SP &times; 100/ (100 + profit %)</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">The marked price of washing machine = Rs. 30800</p>\n\n<p style=\"\">According to the question</p>\n\n<p style=\"\">Rate of GST and discount allowed is 12% and 5% respectively</p>\n\n<p style=\"\">The marked price of a washing machine without GST rate</p>\n\n<p style=\"\">&rArr; 30800&nbsp;&times; 100/112 = Rs 27,500</p>\n\n<p style=\"\">A discount of 5% is also allowed</p>\n\n<p style=\"\">SP = MP &ndash; discount</p>\n\n<p style=\"\">&rArr; SP = Rs. 27,500&nbsp;&ndash; (27,500&nbsp;&times; 5/100) = Rs. 26,125</p>\n\n<p style=\"\">Profit percentage = 10%</p>\n\n<p style=\"\">CP = SP &times; 100/ (100 + profit %)</p>\n\n<p style=\"\">&rArr; Cost price of an machine = 26125&nbsp;&times; 100/110 = Rs. 23750</p>\n\n<p style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p style=\"\">SP&nbsp;of the washing machine = CP&nbsp;&times; (110/100) = MP&nbsp;&times; (100/112)&nbsp;&times; (95/100)&nbsp;&nbsp;&nbsp;</p>\n\n<p style=\"\">CP = 30800&nbsp;&times; 95&nbsp;&times; 10/(112&nbsp;&times; 11) = Rs 23,750</p>\n\n<p style=\"\"><strong>&there4; CP of the machine is Rs. 23750</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60997b6a2ccad9a24853880b",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "After a 25% initial discount on the marked price of an item, a shopkeeper offers a 20% additional discount on the discounted price. If the final sale price of the article is Rs. 600, then what is its marked price?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 680",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 725",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 1000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 1070",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 1200",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>1<sup>st</sup>&nbsp;Discount = 25% of M.P</p>\n\n<p>2<sup>nd</sup>&nbsp;Discount = 20% of&nbsp;1<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">st</span>&nbsp;Discount</p>\n\n<p>S.P = Rs. 600</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>D = M.P&nbsp;&times; Rate of Discount&nbsp;</p>\n\n<p>Successive Discount = [a + b - (ab/100)]%</p>\n\n<p>M.P = Marked Price, D = Discount, S.P = Selling Price</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the marked price be x.</p>\n\n<p>According to the question,</p>\n\n<p>x &times; (75/100) &times;&nbsp;(80/100) = 600</p>\n\n<p>&rArr; x =&nbsp;(600 &times; 100 &times; 100)/(75 &times; 80)</p>\n\n<p>&rArr; x = 1000</p>\n\n<p><strong>&there4; The Marked Price is Rs. 1000.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5a881f905b6c7f0fa19dd20b",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p>The marked price of a headphone is Rs. 1400. A shopkeeper offers 20% discount on the net price and then again offers a discount of 12% on the reduced price. In the second offer, he offers a discount of 29% on the whole. Which is the better offer?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both offer is same",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20% and 12% successive discount for the customer",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "29% on the whole for the seller",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "20% and 12% successive discount for the selller",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both 2) and 3)&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>Case - 1</p>\n\n<p>&rArr; Marked price = 1400</p>\n\n<p>&rArr; First discount = 20%</p>\n\n<p>&rArr; S.P = 1400 &ndash; (20% of 1400) = 1120</p>\n\n<p>&rArr; Second discount = 12% on reduced price</p>\n\n<p>&rArr; Final S.P = 1120 &ndash; (12% of 1120) = 985.6</p>\n\n<p>Case - 2</p>\n\n<p>&rArr; Marked price = 1400</p>\n\n<p>&rArr; Discount on whole = 29%</p>\n\n<p>&rArr; S.P = 1400 &ndash; (29% of 1400) = 994</p>\n\n<p>&there4; Case 1 is favorable for the customer&nbsp;and case - 2 is favorable for the seller</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "662df0fb659b458b192d87b3",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Arun marked the water heater 40% above the cost price.&nbsp; The ratio of cost price to selling price of a water heater is 10: 13.&nbsp; Find the selling price of water heater if the difference between marked price and the selling price is 50?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 670",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 620",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 640",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 680",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 650",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "Solution:<br />\nThe ratio of cost price to selling price of a water heater is 10: 13.<br />\nLet the cost price be 10x and selling price be 13x.<br />\nArun marked the water heater 40% above the cost price.&nbsp;&nbsp;<br />\nHence the marked price is 14x.<br />\nGiven that difference between marked price and selling price is 50<br />\nThat is 14x &ndash; 13x = 50&nbsp;<br />\nx = 50&nbsp;<br />\nhence the selling price is 13 &times;&nbsp; 50 = 650.",
+          "topic": "Test"
+        },
+        {
+          "id": "5bf7a261f8291a43b7347c67",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "A shopkeeper buys a table marked at Rs. 4000 at two successive discounts of 20% and 15%. He spends Rs. 80 in transportation of the table and sells the table at Rs. 3220. Find the percentage profit earned by the shopkeeper.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "10%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "12%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "18%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "15%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Equivalent discount to two successive discounts of 20% and 15% = 20 + 15 -&nbsp;[20 &times; 15]/100 = 32%</p>\n\n<p>&rArr; Cost of the table after discount = 4000 &times; 0.68 = Rs. 2720</p>\n\n<p>Since He spends Rs. 80 in transportation</p>\n\n<p>&rArr; Cost price of the table for shopkeeper = 2720 + 80 = Rs. 2800</p>\n\n<p>Since he sells the table at Rs. 3220.</p>\n&there4; Percentage profit earned by the shopkeeper = [3220 - 2800] /2800 = 15%",
+          "topic": "Test"
+        },
+        {
+          "id": "59d738f7be8e791e8054ef4d",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>A shopkeeper gives two successive discounts of 20% and 10% on surplus stock. Further, he also gives 5% extra discount on cash payment. If a person buys a shirt from the surplus stock and pays in cash, what overall discount percent will he get on the shirt?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "28.8%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "31.60%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "35.7%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "40.11%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "43.22%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the marked price of the shirt be Rs. 1000</p>\n\n<p>&rArr; Price after first discount</p>\n\n<p>= Rs. 1000 &ndash; 20% of Rs. 1000</p>\n\n<p>= Rs. 1000 &ndash; 200 = Rs. 800</p>\n\n<p>&rArr; Price after the second discount</p>\n\n<p>= Rs. 800 &ndash; 10% of Rs. 800</p>\n\n<p>= Rs. 800 &ndash; 80 = Rs. 720</p>\n\n<p>&rArr; Price after cash discount</p>\n\n<p>= Rs. 720 &ndash; 5% of Rs. 720</p>\n\n<p>= Rs. 720 &ndash; 36 = Rs. 684</p>\n\n<p>&rArr; Therefore, total discount</p>\n\n<p>= Rs. 1000 &ndash; 684 = Rs. 316</p>\n\n<p>Overall discount percent</p>\n\n<p>= (316 / 1000) x 100 = 31.60%</p>\n\n<p>&there4; Discount is of 31.60%</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5bd18cb66251e40c59d106fa",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Shopkeeper purchased two different quality of sugar A and B in which A had price of Rs. 30/kg and B had price of 66.67% more than A and mixed both quality of sugar in equal amount.He sold 10 kg of prepared mixture at Rs. 500.What is the different in % of profit if he provide no discount and he provides the discount of Rs. 5/kg of selling the mixture?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "30%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "12.5%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "25%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "15%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "32%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>For the cost price per kg of mixture,</p>\n\n<p>Cost price of B = cost price of A + 66.67% of cost price of A = 30 + (2/3) &times; 30 = Rs. 50</p>\n\n<p>Cost price of mixture = 30 &times; 0.5 + 50 &times; 0.5 = 15 + 25 = Rs. 40</p>\n\n<p>[Here, 0.5 is quantity of sugar in mixture i.e. 500 grams]</p>\n\n<p>For selling price per kg,</p>\n\n<p>Selling price per kg = 500/10 = Rs.50</p>\n\n<p>Profit = 50 &ndash; 40 = Rs. 10 per kg</p>\n\n<p>% of profit = profit made/cost price = (10/40) &times; 100 = 25%</p>\n\n<p>For discount,</p>\n\n<p>Selling price after discount = 50 &ndash; 5 = Rs.45</p>\n\n<p>Profit earn = discounted price &ndash; cost price = 45 &ndash; 40 = Rs. 5</p>\n\n<p>% of profit = (5/40) &times; 100 = 12.5%</p>\n&there4; % difference in profit = 25 &ndash; 12.5 = 12.5%",
+          "topic": "Test"
+        },
+        {
+          "id": "5861101903282169919f8061",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Shailaja purchased a school bag with a price tag of Rs. 1220 in a sale where 25% discount was being offered on the tag price. She was given a further discount of 6%. What was the final amount paid by Shailaja?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 806",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 806.10",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 860",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 860.10",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Price tag is nothing but the Marked price(M.P.)</p>\n\n<p>&rArr; M.P. of the school&nbsp; bag = Rs.1220</p>\n\n<p>Price of the bag after a discount of 25% = 1220 &ndash; (25% of 1220)</p>\n\n<p>&rArr; Price of the bag after a discount of 25% =1220 &ndash; 305 = Rs.915</p>\n\n<p>Price of the bag after a further discount of 6% = 915 &ndash; (6% of 915) = 915 &ndash; 54.9 = Rs.860.10</p>\n&there4; Final amount paid by Shailaja = Rs.860.10",
+          "topic": "Test"
+        },
+        {
+          "id": "5c1a2ca6a1070c04c4ea41f5",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "After modifying the product, firm relaunch it by increasing the price by 20%. Due to targeted sales not achieved, the company decided to offer a discount of 12% on the product. If the current price of Product is Rs. 21,648. Find the price of the product before the relaunch.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "19,500",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "19,800",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "20,300",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "20,500",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "20,800",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the price of product before re launch = Rs. x,</p>\n\n<p>For price increased by 20%,</p>\n\n<p>Increased price of product = 1.2x</p>\n\n<p>For price decreased by 12%,</p>\n\n<p>Reduced price of product = 1.2x &times; 0.88 = 1.056x</p>\n\n<p>For the original price of product,</p>\n\n<p>&rArr; 21648 = 1.056x</p>\n\n<p>&rArr; x = 21648/1.056</p>\n&there4; Price of product before re launch = 21648/1.056 = Rs. 20,500",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:39.788Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

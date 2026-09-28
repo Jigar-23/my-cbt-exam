@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a06fb509dfa6543aed32",
+  "title": "CT 4: English Language (Correct Spellings)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "58ebc1a0995a2d7f047b2496",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<strong>Choose the wrongly spelt word among the given options</strong>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Polemic&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Platonic&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Vehement&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Scurilous&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Vilify&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>Part 4 needs rectification as the correct spelling is &#39;Scurrilous&#39; which means &#39;<span style=\"font-family:arial,sans-serif\">making or spreading scandalous claims about someone with the intention of damaging their reputation&#39;. Thus, option 4 is the correct answer.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Polemic&nbsp;&rArr;&nbsp;strong verbal or written attack on someone or something.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Vehement&nbsp;&rArr;&nbsp;showing strong feeling; forceful, passionate, or intense.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Vilify&nbsp;&rArr;&nbsp;speak or write about in an abusively disparaging manner.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Platonic&nbsp;&rArr;&nbsp;Devoid of physical desire.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fccc7d0d9ba308dc9acbf86",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>In the following sentence, some parts have been printed in bold. One of the bold parts is incorrectly spelt. Pick up that part and choose its number. If there is no error in the bold parts, choose option 5- no error as the answer. </strong></p>\n\n<p><strong>Jugding</strong> the <strong>legality</strong> of the&nbsp;<strong>ordinance</strong>&nbsp;is within the <strong>province</strong> of the courts.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Jugding",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "legality",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "ordinance",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "province",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">​</span><strong>Jugding</strong><span style=\"font-weight: 700;\">.</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li>In the sentence, out of all the bold parts&nbsp;&#39;<span style=\"font-weight: 700;\">Jugding</span>&#39;&nbsp;is the word that has no meaning.&nbsp;</li>\n\t<li>So, &#39;<span style=\"font-weight: 700;\">Jugding</span>&#39; is incorrectly spelt word.&nbsp;</li>\n\t<li>The correct spelling is &#39;<span style=\"font-weight: 700;\">Judging</span>&#39; which means&nbsp;<span style=\"color: rgb(32, 33, 36);  \">form an opinion or conclusion about.</span></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Let us know the meanings of other words:\n\t<ul>\n\t\t<li><strong>legality -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">the quality or state of being in accordance with the law.</span></li>\n\t\t<li><strong>ordinance -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">an authoritative order.</span></li>\n\t\t<li><strong>province -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">a principal administrative division of a country or empire.</span><br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"font-weight: 700;\">So, the correct sentence is -&nbsp;</span><em>Judging the legality of the&nbsp;ordinance&nbsp;is within the province of the courts.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "58ebbf0303282149d7a0b8ff",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><strong>Choose the wrongly spelt word among the given options</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Deimagogue&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Recreant&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Vacant&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Vanity&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Litter&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is &#39;<strong><span style=\"color: rgb(33, 37, 41);\">Deimagogue</span></strong>&#39;.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">&nbsp;</span></strong></span></p>\n\n<ul>\n\t<li><span style=\"font-weight: bolder;\">&#39;Deimagogue&#39; is incorrectly spelled.</span></li>\n\t<li>The correct word is <strong>&#39;Demagogue&#39; </strong>which means <span style=\"font-family:arial,sans-serif\">a political leader who seeks support by appealing to popular desires and prejudices rather than by using the rational argument. </span></li>\n</ul>\n\n<p><span style=\"font-family:arial,sans-serif\">Therefore,</span><span style=\"color: rgb(33, 37, 41); \">&nbsp;the correct answer is</span><span style=\"font-family:arial,sans-serif\"> <strong>&#39;option 1&#39;.</strong></span></p>\n\n<p><span style=\"font-family:arial,sans-serif\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span><span style=\"font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">&nbsp;</span></strong></span></span></p>\n\n<ul>\n\t<li>Let&#39;s have a look at other correct words.</li>\n\t<li><span style=\"font-family:arial,sans-serif\"><strong>Recreant-</strong>&nbsp;cowardly. and unfaithful to a cause.&nbsp;</span></li>\n\t<li><span style=\"font-family:arial,sans-serif\"><strong>Vacant-</strong>&nbsp;empty.&nbsp;</span></li>\n\t<li><span style=\"font-family:arial,sans-serif\"><strong>Vanity-</strong>&nbsp;excessive pride in or admiration of one&#39;s own appearance or achievements.</span></li>\n\t<li><strong>Litter-</strong><span style=\"font-family:arial,sans-serif\">&nbsp;rubbish such as paper, cans, and bottles left lying in an open or public place.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fccc8979b680a9d4144d6d3",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>In the following sentence, some parts have been printed in bold. One of the bold parts is incorrectly spelt. Pick up that part and choose its number. If there is no error in the bold parts, choose option 5- no error as the answer. </strong></p>\n\n<p>I don&#39;t long for&nbsp;<strong>luxrious&nbsp;</strong>life and gorgeous <strong>appearance</strong>, but I need a complete <strong>inhabitation&nbsp;</strong>for the <strong>sentiment</strong>.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "appearance",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "inhabitation",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "luxrious",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "sentiment",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">​</span><strong>luxrious</strong><span style=\"font-weight: 700;\">.</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li>In the sentence, out of all the bold parts&nbsp;&#39;<span style=\"font-weight: 700;\">luxrious</span>&#39;&nbsp;is the word that has no meaning.&nbsp;</li>\n\t<li>So, &#39;<span style=\"font-weight: 700;\">luxrious</span>&#39; is incorrectly spelt word.&nbsp;</li>\n\t<li>The correct spelling is &#39;<span style=\"font-weight: 700;\">luxurious</span>&#39; which means&nbsp;<span style=\"color: rgb(32, 33, 36);  \">extremely comfortable or elegant, especially when involving great expense.</span></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Let us know the meanings of other words:\n\t<ul>\n\t\t<li><strong>appearance -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">the way that someone or something looks.</span></li>\n\t\t<li><strong>inhabitation -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">the act of inhabiting&nbsp;</span>or&nbsp;<span style=\"color: rgb(32, 33, 36);  \">the state of being inhabited.</span></li>\n\t\t<li><strong>sentiment -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">a view or opinion that is held or expressed.</span><br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"font-weight: 700;\">So, the correct sentence is -&nbsp;</span><em>I don&#39;t long for&nbsp;<span style=\"font-weight: 700;\">luxurious</span>&nbsp;life and gorgeous&nbsp;appearance, but I need a complete&nbsp;inhabitation&nbsp;for the&nbsp;sentiment.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fccd881296230eb785e2bfa",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><strong>In the following sentence, some parts have been printed in bold. One of the bold parts is incorrectly spelt. Pick up that part and choose its number. If there is no error in the bold parts, choose option 5- no error as the answer. </strong></p>\n\n<p>It is&nbsp;<strong>grecefull</strong>&nbsp;grief and sweet <strong>sadness</strong> to think of you, but in my heart, there is a kind of soft <strong>warmth</strong> that can&#39;t be <strong>expressed</strong> with any choice of words.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "grecefull",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "sadness",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "warmth",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "expressed",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<strong>​grecefull.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>In the sentence, out of all the bold parts&nbsp;<strong>&#39;grecefull&#39;&nbsp;</strong>is the word that has no meaning.&nbsp;</li>\n\t<li>So,<strong> &#39;grecefull&#39; </strong>is incorrectly spelt word.&nbsp;</li>\n\t<li>The correct spelling is <strong>&#39;graceful&#39;</strong> which means&nbsp;<u><span style=\"color: rgb(32, 33, 36);  \">having or showing grace or elegance.</span></u></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Let us know the meanings of other words:\n\t<ul>\n\t\t<li><strong>sadness -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">the condition or quality of being sad.</span></li>\n\t\t<li><strong>warmth -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">the quality, state, or sensation of being warm; moderate heat.</span></li>\n\t\t<li><strong>expressed -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">convey (a thought or feeling) in words or by gestures and conduct.</span><br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong>So, the correct sentence is -&nbsp;</strong><em>It is&nbsp;<strong>graceful</strong>&nbsp;grief and sweet&nbsp;sadness&nbsp;to think of you, but in my heart, there is a kind of soft&nbsp;warmth&nbsp;that can&#39;t be&nbsp;expressed&nbsp;with any choice of words.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5900a7df995a2d5e54371c84",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><strong>Which of the following is an incorrectly spelt word?</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Repudate&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Abstain&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Emancipation&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Levity&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Brevity&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>Option 1 needs rectification as the correct word is &#39;repudiate&#39; which means &#39;<span style=\"font-family:arial,sans-serif\">refuse to accept; reject.&#39; Thus option 1 is the correct choice.</span></p>\n\n<p>Abstain&nbsp;=><span style=\"font-family:arial,sans-serif\">restrain oneself from doing or enjoying something.</span></p>\n\n<p>Emancipation =><span style=\"font-family:arial,sans-serif\">the fact or process of being set free from legal, social, or political restrictions; liberation.</span></p>\n\n<p>Levity =><span style=\"font-family:arial,sans-serif\">the treatment of a serious matter with humour or lack of due respect.</span></p>\n\n<p>Brevity =><span style=\"font-family:arial,sans-serif\">concise and exact use of words in writing or speech.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "58ebc2e7995a2d7f047b27fe",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<strong>Choose the wrongly spelt word among the given options</strong>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Aggravate&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Empathetic&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Disastrous&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sabootage&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Elucidate&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>Part 4 has an error as the correct spelling is &#39;sabotage&#39; which means &#39;<span style=\"font-family:arial,sans-serif\">deliberately destroy, damage, or obstruct (something), especially for political or military advantage&#39;. Thus, option 4 is the correct answer.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Aggravate &rArr; make (a problem, injury, or offence) worse or more serious.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Disastrous&nbsp;&rArr;&nbsp;causing great damage.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Elucidate&nbsp;&rArr;&nbsp;make (something) clear; explain.</span></p>\n\n<p><span style=\"font-family:arial,sans-serif\">Empathetic&nbsp;&rArr;&nbsp;showing an ability to understand and share the feelings of another.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fcbb542a60577c67da60782",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>In the following sentence, some parts have been printed in bold. One of the bold parts is incorrectly spelt. Pick up that part and choose its number. If there is no error in the bold parts, choose option 5- no error as the answer. </strong></p>\n\n<p>The <strong>former</strong> <strong>wild</strong> man of rock has <strong>revented</strong> himself as a&nbsp;<strong>respectable</strong>&nbsp;family man.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "former",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "revented",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "respectable",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "wild",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">​</span><strong>revented</strong><span style=\"font-weight: 700;\">.</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li>In the sentence, out of all the bold parts&nbsp;&#39;<span style=\"font-weight: 700;\">revented</span>&#39;&nbsp;is the word that has no meaning.&nbsp;</li>\n\t<li>So, &#39;<span style=\"font-weight: 700;\">revented</span>&#39; is incorrectly spelt word.&nbsp;</li>\n\t<li>The correct spelling is &#39;<span style=\"font-weight: 700;\">reinvented</span>&#39; which means&nbsp;<span style=\"color: rgb(32, 33, 36);  \">change (something) so much that it appears to be entirely new.</span></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Let us know the meanings of other words:\n\t<ul>\n\t\t<li><strong>former -</strong><span style=\"color: rgb(32, 33, 36);  \">&nbsp;something that came at an earlier time, or before something else</span></li>\n\t\t<li><strong>respectable -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">regarded by society to be good, proper, or correct</span></li>\n\t\t<li><strong>wild -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">living or growing in the natural environment; not domesticated or cultivated</span><br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"font-weight: 700;\">So, the correct sentence is -&nbsp;</span><em>The former wild man of rock has <strong>reinvented</strong> himself as a&nbsp;respectable&nbsp;family man.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "58ebc09203282149d7a0c23b",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<strong>Choose the wrongly spelt word among the given options</strong>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Virago&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Varmint&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Recreant&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Petifogger&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Amuse&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>&#39;<span style=\"color: rgb(33, 37, 41);\">Petifogger</span>&#39;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">&nbsp;</span></strong></span></p>\n\n<ul>\n\t<li><strong>&#39;<span style=\"color: rgb(33, 37, 41);\">Petifogger</span>&#39; is incorrectly spelled</strong>.</li>\n\t<li>The correct spelling is <strong>&#39;pettifogger&#39; </strong>which means&nbsp;<span style=\"font-family:arial,sans-serif\">an inferior legal practitioner, especially one who deals with petty cases or employs dubious practices. </span></li>\n</ul>\n\n<p><span style=\"font-family:arial,sans-serif\">Therefore, the correct answer is <strong>&#39;option 4&#39;.</strong></span></p>\n\n<p><span style=\"font-family:arial,sans-serif\"><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span><strong style=\"font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">&nbsp;</strong></strong></span></strong></span></p>\n\n<ul>\n\t<li>Let&#39;s have a look at the correct words.</li>\n\t<li><span style=\"font-family:arial,sans-serif\"><strong>Virago-</strong>&nbsp;a domineering, violent, or bad-tempered woman.</span></li>\n\t<li><span style=\"font-family:arial,sans-serif\"><strong>Recreant-</strong>&nbsp;a person who is unfaithful to a belief; an apostate or cowardly.</span></li>\n\t<li><strong>Amuse-</strong><span style=\"font-family:arial,sans-serif\">&nbsp;cause someone&nbsp;to find something funny.</span></li>\n\t<li><span style=\"font-family:arial,sans-serif\"><strong>Varmint-</strong>&nbsp; a troublesome and mischievous person, especially a child.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fcccaa881a9200b3ff7bffb",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>In the following sentence, some parts have been printed in bold. One of the bold parts is incorrectly spelt. Pick up that part and choose its number. If there is no error in the bold parts, choose option 5- no error as the answer. </strong></p>\n\n<p><strong>Technical</strong> <strong>defeniencies</strong>&nbsp;may irritate, but&nbsp;<strong>judicious</strong>&nbsp;selection of a short sequence can provide useful <strong>evidential</strong> material.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Technical",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "defeniencies",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "judicious",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "evidential",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700;\">​</span><strong>defeniencies</strong><span style=\"font-weight: 700;\">.</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li>In the sentence, out of all the bold parts&nbsp;&#39;<span style=\"font-weight: 700;\">defeniencies</span>&#39;&nbsp;is the word that has no meaning.&nbsp;</li>\n\t<li>So, &#39;<span style=\"font-weight: 700;\">defeniencies</span>&#39; is incorrectly spelt word.&nbsp;</li>\n\t<li>The correct spelling is &#39;<span style=\"font-weight: 700;\">deficiencies</span>&#39; which means&nbsp;<span style=\"color: rgb(32, 33, 36);  \">a lack or shortage or shortcoming.&nbsp;</span></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Let us know the meanings of other words:\n\t<ul>\n\t\t<li><strong>Technical -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">involving or concerned with applied and industrial sciences.</span></li>\n\t\t<li><strong>judicious -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">having, showing, or done with good judgement or sense.</span></li>\n\t\t<li><strong>evidential -&nbsp;</strong><span style=\"color: rgb(32, 33, 36);  \">of or providing evidence.</span><br />\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"font-weight: 700;\">So, the correct sentence is -&nbsp;</span><em>Technical&nbsp;<strong>deficiencies</strong>&nbsp;may irritate, but&nbsp;judicious&nbsp;selection of a short sequence can provide useful&nbsp;evidential&nbsp;material.</em></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:30.344Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

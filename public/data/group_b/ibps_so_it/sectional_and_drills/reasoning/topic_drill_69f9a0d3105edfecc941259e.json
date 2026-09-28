@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0d3105edfecc941259e",
+  "title": "CT 7: Reasoning (Blood Relations)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Reasoning",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5fdd6f038c464be9b3aa0105",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Four of the five are alike in a certain way and thus form a group. Find the one that does not belong to that group.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "G",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The symbols and their meaning for the family tree will be:</p>\n\n<p style=\"\"><img src=\"https://storage.googleapis.com/tb-img/production/20/06/Common_Diagram_28.01.2020_D3.png\" /></p>\n\n<p style=\"\">1. A is married to the only sibling and sister of G. F is niece to G.</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/BR1.PNG\" style=\"width: 150px; height: 100px;\" /></p>\n\n<p style=\"\">2. D is the only son of E. C is the brother of H. B is female and has two children.</p>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/BR1.PNG\" style=\"width: 150px; height: 100px;\" />&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221254.png\" style=\"width: 37px; height: 100px;\" />&nbsp; &nbsp; &nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221353.png\" style=\"width: 100px; height: 48px;\" />&nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221446.png\" style=\"width: 100px; height: 100px;\" /></p>\n\n<p style=\"\">3. E and H were of the same gender.</p>\n\n<p style=\"\">The gender of three persons G, E and H is not known. This implies that E and H are female and G is &nbsp;&nbsp;male as the number of male and female members is equal.</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221848.png\" style=\"width: 150px; height: 99px;\" />&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\"height: 100px; width: 35px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221947.png\" style=\"width: 100px; height: 49px;\" />&nbsp;</p>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20222034.png\" style=\"width: 100px; height: 87px;\" /></p>\n\n<p style=\"\">4. Neither C nor H is married to E and B.&nbsp;</p>\n\n<p style=\"\">Now B has to be married as either both or none of the parents are alive. B could be married to A or D or G.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">When B is married to A</span></p>\n\n<p style=\"\">B cannot be married to A as then B will have only one child. So, this implies that C and H will be the children of B and B will be married to D. <span style=\"\">Also, relationships regarding C and H cannot not be determined.</span></p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20224346.png\" style=\"width: 150px; height: 98px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\"height: 100px; width: 35px;\" />&nbsp; &nbsp;&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221947.png\" style=\"width: 100px; height: 49px;\" /></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">When B is married to G</span></p>\n\n<div style=\"\">B cannot be married to G as then there will be only two generations. as E could not be married to C and thus will&nbsp; be married to E</div>\n\n<div style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20223851.png\" style=\"width: 250px; height: 106px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\"height: 100px; width: 35px;\" /></div>\n\n<div style=\"\"><span style=\"font-weight: 700;\">So, D&nbsp;is married to B.</span>&nbsp;So, the final family tree will be as follows.</div>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Br3.PNG\" style=\"width: 200px; height: 190px;\" /></p>\n\n<p>A, B, D, and E are married whereas G is not.</p>\n\n<p>Hence, G does not belong to the group.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fdd6f038c464be9b3aa0104",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "How is C related to F?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Brother",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Nephew",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Uncle",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Cousin",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Brother-in-law",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The symbols and their meaning for the family tree will be:</p>\n\n<p style=\"\"><img src=\"https://storage.googleapis.com/tb-img/production/20/06/Common_Diagram_28.01.2020_D3.png\" /></p>\n\n<p style=\"\">1. A is married to the only sibling and sister of G. F is niece to G.</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/BR1.PNG\" style=\"width: 150px; height: 100px;\" /></p>\n\n<p style=\"\">2. D is the only son of E. C is the brother of H. B is female and has two children.</p>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/BR1.PNG\" style=\"width: 150px; height: 100px;\" />&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221254.png\" style=\"width: 37px; height: 100px;\" />&nbsp; &nbsp; &nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221353.png\" style=\"width: 100px; height: 48px;\" />&nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221446.png\" style=\"width: 100px; height: 100px;\" /></p>\n\n<p style=\"\">3. E and H were of the same gender.</p>\n\n<p style=\"\">The gender of three persons G, E and H is not known. This implies that E and H are female and G is &nbsp;&nbsp;male as the number of male and female members is equal.</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221848.png\" style=\"width: 150px; height: 99px;\" />&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\"height: 100px; width: 35px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221947.png\" style=\"width: 100px; height: 49px;\" />&nbsp;</p>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20222034.png\" style=\"width: 100px; height: 87px;\" /></p>\n\n<p style=\"\">4. Neither C nor H is married to E and B.&nbsp;</p>\n\n<p style=\"\">Now B has to be married as either both or none of the parents are alive. B could be married to A or D or G.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">When B is married to A</span></p>\n\n<p style=\"\">B cannot be married to A as then B will have only one child. So, this implies that C and H will be the children of B and B will be married to D. <span style=\"\">Also, relationships regarding C and H cannot not be determined.</span></p>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20224346.png\" style=\"width: 150px; height: 98px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\"height: 100px; width: 35px;\" />&nbsp; &nbsp;&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221947.png\" style=\"width: 100px; height: 49px;\" /></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">When B is married to G</span></p>\n\n<div style=\"\">B cannot be married to G as then there will be only two generations. as E could not be married to C and thus will&nbsp; be married to E</div>\n\n<div style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20223851.png\" style=\"width: 250px; height: 106px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\"height: 100px; width: 35px;\" /></div>\n\n<div style=\"\"><span style=\"font-weight: 700;\">So, D&nbsp;is married to B.</span>&nbsp;So, the final family tree will be as follows.</div>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Br3.PNG\" style=\"width: 200px; height: 190px;\" /></p>\n\n<p>Hence, <strong>C</strong> is <strong>nephew</strong> to <strong>F</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fdd6f038c464be9b3aa0101",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "How is B related to H?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Daughter",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Aunt",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Mother",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sister",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sister-in-law",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">The symbols and their meaning for the family tree will be:</p>\n\n<p><img src=\"https://storage.googleapis.com/tb-img/production/20/06/Common_Diagram_28.01.2020_D3.png\" style=\"\" /></p>\n\n<p>1. A is married to the only sibling and sister of G. F is niece to G.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/BR1.PNG\" style=\"width: 150px; height: 100px;\" /></p>\n\n<p>2. D is the only son of E. C is the brother of H. B is female and has two children.</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/BR1.PNG\" style=\"width: 150px; height: 100px;\" />&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221254.png\" style=\"width: 37px; height: 100px;\" />&nbsp; &nbsp; &nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221353.png\" style=\"width: 100px; height: 48px;\" />&nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221446.png\" style=\"width: 100px; height: 100px;\" /></p>\n\n<p>3. E and H were of the same gender.</p>\n\n<p>The gender of three persons G, E and H is not known. This implies that E and H are female and G is male as the number of male and female members is equal.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221848.png\" style=\"width: 150px; height: 99px;\" />&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\"height: 100px; width: 35px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221947.png\" style=\"width: 100px; height: 49px;\" />&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20222034.png\" style=\"width: 100px; height: 87px;\" /></p>\n\n<p>4. Neither C nor H is married to E and B.&nbsp;</p>\n\n<p>Now B has to be married as either both or none of the parents are alive. B could be married to A or D or G.</p>\n\n<p><strong>When B is married to A</strong></p>\n\n<p>B cannot be married to A as then B will have only one child. So, this implies that C and H will be the children of B and B will be married to D. Also, relationships regarding C and H cannot not be determined.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20224346.png\" style=\"width: 150px; height: 98px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\" height: 100px; width: 35px;\" />&nbsp; &nbsp;&nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221947.png\" style=\" width: 100px; height: 49px;\" /></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">When B is married to G</span></p>\n\n<div>B cannot be married to G as then there will be only two generations. as E could not be married to C and thus will&nbsp; be married to E</div>\n\n<div><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20223851.png\" style=\"width: 250px; height: 106px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/10/Screenshot%202022-10-04%20221921.png\" style=\" height: 100px; width: 35px;\" /></div>\n\n<div><strong>So, D&nbsp;is married to B.</strong> So, the final family tree will be as follows.</div>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Br3.PNG\" style=\"width: 200px; height: 190px;\" /></p>\n\n<p>So,&nbsp;<strong>B </strong>is <strong>mother </strong>of<strong> H</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd9f3d0dd791558bbf48e31",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "How many female members are there in the family?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Six",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Either 1 or 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Seven",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Points to be noted:</p>\n\n<p>There are three generations in a family.</p>\n\n<p>There are two married couples.</p>\n\n<p>There is no single parent.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D3%20%281%29.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>Now,</p>\n\n<p>From the given information:</p>\n\n<p>V is the son of the only son of G.</p>\n\n<p>G is female.</p>\n\n<p>S is the daughter-in-law of W, who has a sister.</p>\n\n<p>(W must be the wife of G and S must be the wife of the son of G)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_Shailesh_Shraddha_12.12.2020_D5.png\" style=\"width: 191px; height: 192px;\" /></p>\n\n<p>From the given information:</p>\n\n<p>S has two children of different gender.</p>\n\n<p>(V is the son of S. This means, the other child of S is female)</p>\n\n<p>A is the niece of L, who is not in second generation.</p>\n\n<p>(L must be W&rsquo;s sister and A must be W&rsquo;s daughter)</p>\n\n<p>T is the brother-in-law of K. K and A are not siblings.</p>\n\n<p>(T is the brother of A and K is the sibling of S but K&rsquo;s gender is not known)</p>\n\n<p>Now,</p>\n\n<p>The remaining person B would be V&rsquo;s sister.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_Shailesh_Shraddha_12.12.2020_D6.png\" /></p>\n\n<p>Gender of K is not known. So, either 5 or 6 female members are there in the family.</p>\n\n<p>Hence, either 1 or 2 is correct.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd9f3d0dd791558bbf48e30",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "Which among the following pairs represent siblings?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A and S",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "T and K",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B and V",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "W and L",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both 3 and 4",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Points to be noted:</p>\n\n<p>There are three generations in a family.</p>\n\n<p>There are two married couples.</p>\n\n<p>There is no single parent.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D3%20%281%29.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>Now,</p>\n\n<p>From the given information:</p>\n\n<p>V is the son of the only son of G.</p>\n\n<p>G is female.</p>\n\n<p>S is the daughter-in-law of W, who has a sister.</p>\n\n<p>(W must be the wife of G and S must be the wife of the son of G)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_Shailesh_Shraddha_12.12.2020_D3.png\" /></p>\n\n<p>From the given information:</p>\n\n<p>S has two children of different gender.</p>\n\n<p>(V is the son of S. This means, the other child of S is female)</p>\n\n<p>A is the niece of L, who is not in second generation.</p>\n\n<p>(L must be W&rsquo;s sister and A must be W&rsquo;s daughter)</p>\n\n<p>T is the brother-in-law of K. K and A are not siblings.</p>\n\n<p>(T is the brother of A and K is the sibling of S but K&rsquo;s gender is not known)</p>\n\n<p>Now,</p>\n\n<p>The remaining person B would be V&rsquo;s sister.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_Shailesh_Shraddha_12.12.2020_D4.png\" /></p>\n\n<p>Hence, both 3 and 4 represent the pair of siblings.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd9f3d0dd791558bbf48e2f",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "How is B related to A?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Aunt",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sister-in-law",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Niece",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Can&rsquo;t be determined",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Points to be noted:</p>\n\n<p>There are three generations in a family.</p>\n\n<p>There are two married couples.</p>\n\n<p>There is no single parent.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D3%20%281%29.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>Now,</p>\n\n<p>From the given information:</p>\n\n<p>V is the son of the only son of G.</p>\n\n<p>G is female.</p>\n\n<p>S is the daughter-in-law of W, who has a sister.</p>\n\n<p>(W must be the wife of G and S must be the wife of the son of G)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_Shailesh_Shraddha_12.12.2020_D1.png\" /></p>\n\n<p>From the given information:</p>\n\n<p>S has two children of different gender.</p>\n\n<p>(V is the son of S. This means, the other child of S is female)</p>\n\n<p>A is the niece of L, who is not in second generation.</p>\n\n<p>(L must be W&rsquo;s sister and A must be W&rsquo;s daughter)</p>\n\n<p>T is the brother-in-law of K. K and A are not siblings.</p>\n\n<p>(T is the brother of A and K is the sibling of S but K&rsquo;s gender is not known)</p>\n\n<p>Now,</p>\n\n<p>The remaining person B would be V&rsquo;s sister.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_Shailesh_Shraddha_12.12.2020_D6.png\" style=\"color: rgb(33, 37, 41);\" /></p>\n\n<p>Hence, B is the Niece of A.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd1fdd929f0a9ba3ef5f688",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Who are Boman&rsquo;s aunt&rsquo;s in-laws?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Chaaru and Hitarth",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Chaaru and Dinkar",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Esha and Dinkar",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Hitarth and Esha",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cannot be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>From the given information,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D3%20%281%29.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1) Chaaru is Boman&rsquo;s paternal grandmother and Aliya&rsquo;s maternal grandmother. i.e Chaaru = mother of Boman&rsquo;s father = mother of Aliya&rsquo;s mother.</p>\n\n<p>2) Dinkar is Boman&rsquo;s maternal grandfather and Aliya&rsquo;s paternal grandfather.</p>\n\n<p>i.e. Dinkar = father of Boman&rsquo;s mother = father of Aliya&rsquo;s father.</p>\n\n<p>3) Now, Fenil is Aliya&rsquo;s father, Geet is Boman&rsquo;s mother and Esha is the mother of Fenil and Geet. I.e. Esha = mother of Boman&rsquo;s mother = mother of Aliya&rsquo;s father i.e. Esha is Dinkar&rsquo;s wife.</p>\n\n<p>4) Now, Hitarth is Fenil and Geet&#39;s father-in-law. So Hitarth is the father of Fenil&rsquo;s wife and Geet&rsquo;s husband. Therefore, Hitarth is Chaaru&rsquo;s husband.</p>\n\n<p>5) Ilesh is Geet&rsquo;s husband. So Fenil is Ilesh&rsquo;s brother-in-law. Jugal is Ilesh&rsquo;s brother-in-law&rsquo;s son. Since Ilesh has only one brother in law, Jugal has to be Fenil&rsquo;s son. Jugal is also Kajri&rsquo;s son. Therefore, Kajri is Fenil&rsquo;s wife.</p>\n\n<p>6) Because Aliya is referred to as &lsquo;her&rsquo;, she is female, while Boman&#39;s gender is unclear.</p>\n\n<p>Thus, the final family tree is as shown below.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_T.D_7.5.20_Pallavi_D%201.png\" style=\"width: 469px; height: 288px;\" /></p>\nBoman&rsquo;s aunt is Kajri and her in-laws are Dinkar and Esha.",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd1fdd929f0a9ba3ef5f687",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "What is the relationship of Hitarth with Boman and Kajri respectively?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Father, Paternal grandfather",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Maternal grandfather, Father",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Maternal grandfather, Father-in-law",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Paternal grandfather, Father",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Paternal grandfather, Father-in-law",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>From the given information,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D3%20%281%29.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1) Chaaru is Boman&rsquo;s paternal grandmother and Aliya&rsquo;s maternal grandmother. i.e Chaaru = mother of Boman&rsquo;s father = mother of Aliya&rsquo;s mother.</p>\n\n<p>2) Dinkar is Boman&rsquo;s maternal grandfather and Aliya&rsquo;s paternal grandfather.</p>\n\n<p>i.e. Dinkar = father of Boman&rsquo;s mother = father of Aliya&rsquo;s father.</p>\n\n<p>3) Now, Fenil is Aliya&rsquo;s father, Geet is Boman&rsquo;s mother and Esha is the mother of Fenil and Geet. I.e. Esha = mother of Boman&rsquo;s mother = mother of Aliya&rsquo;s father i.e. Esha is Dinkar&rsquo;s wife.</p>\n\n<p>4) Now, Hitarth is Fenil and Geet&#39;s father-in-law. So Hitarth is the father of Fenil&rsquo;s wife and Geet&rsquo;s husband. Therefore, Hitarth is Chaaru&rsquo;s husband.</p>\n\n<p>5) Ilesh is Geet&rsquo;s husband. So Fenil is Ilesh&rsquo;s brother-in-law. Jugal is Ilesh&rsquo;s brother-in-law&rsquo;s son. Since Ilesh has only one brother in law, Jugal has to be Fenil&rsquo;s son. Jugal is also Kajri&rsquo;s son. Therefore, Kajri is Fenil&rsquo;s wife.</p>\n\n<p>6) Because Aliya is referred to as &lsquo;her&rsquo;, she is female, while Boman&#39;s gender is unclear.</p>\n\n<p>Thus, the final family tree is as shown below.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_T.D_7.5.20_Pallavi_D%201.png\" style=\"width: 469px; height: 288px;\" /></p>\nThus, Hitarth is the paternal grandfather of Boman and the father of Kajri.",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd1fdd929f0a9ba3ef5f686",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "What is the total number of females in the family?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "6",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cannot be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>From the given information,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D3%20%281%29.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1) Chaaru is Boman&rsquo;s paternal grandmother and Aliya&rsquo;s maternal grandmother. i.e Chaaru = mother of Boman&rsquo;s father = mother of Aliya&rsquo;s mother.</p>\n\n<p>2) Dinkar is Boman&rsquo;s maternal grandfather and Aliya&rsquo;s paternal grandfather.</p>\n\n<p>i.e. Dinkar = father of Boman&rsquo;s mother = father of Aliya&rsquo;s father.</p>\n\n<p>3) Now, Fenil is Aliya&rsquo;s father, Geet is Boman&rsquo;s mother and Esha is the mother of Fenil and Geet. I.e. Esha = mother of Boman&rsquo;s mother = mother of Aliya&rsquo;s father i.e. Esha is Dinkar&rsquo;s wife.</p>\n\n<p>4) Now, Hitarth is Fenil and Geet&#39;s father-in-law. So Hitarth is the father of Fenil&rsquo;s wife and Geet&rsquo;s husband. Therefore, Hitarth is Chaaru&rsquo;s husband.</p>\n\n<p>5) Ilesh is Geet&rsquo;s husband. So Fenil is Ilesh&rsquo;s brother-in-law. Jugal is Ilesh&rsquo;s brother-in-law&rsquo;s son. Since Ilesh has only one brother in law, Jugal has to be Fenil&rsquo;s son. Jugal is also Kajri&rsquo;s son. Therefore, Kajri is Fenil&rsquo;s wife.</p>\n\n<p>6) Because Aliya is referred to as &lsquo;her&rsquo;, she is female, while Boman&#39;s gender is unclear.</p>\n\n<p>Thus, the final family tree is as shown below.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_T.D_7.5.20_Pallavi_D%201.png\" style=\"width: 469px; height: 288px;\" /></p>\n\n<p>Esha, Chaaru, Kajri, Geet and Aliya are females, while Boman&rsquo;s gender is not known. Hence, there can be 5 or 6 females.</p>\nSo, the correct answer is cannot be determined.",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd1fdd929f0a9ba3ef5f685",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "How is Dinkar&rsquo;s daughter related to Jugal&rsquo;s father?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Sister-in-law",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sister",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Wife",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Daughter",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Niece",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>From the given information,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D3%20%281%29.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1) Chaaru is Boman&rsquo;s paternal grandmother and Aliya&rsquo;s maternal grandmother. i.e Chaaru = mother of Boman&rsquo;s father = mother of Aliya&rsquo;s mother.</p>\n\n<p>2) Dinkar is Boman&rsquo;s maternal grandfather and Aliya&rsquo;s paternal grandfather.</p>\n\n<p>i.e. Dinkar = father of Boman&rsquo;s mother = father of Aliya&rsquo;s father.</p>\n\n<p>3) Now, Fenil is Aliya&rsquo;s father, Geet is Boman&rsquo;s mother and Esha is the mother of Fenil and Geet. I.e. Esha = mother of Boman&rsquo;s mother = mother of Aliya&rsquo;s father i.e. Esha is Dinkar&rsquo;s wife.</p>\n\n<p>4) Now, Hitarth is Fenil and Geet&#39;s father-in-law. So Hitarth is the father of Fenil&rsquo;s wife and Geet&rsquo;s husband. Therefore, Hitarth is Chaaru&rsquo;s husband.</p>\n\n<p>5) Ilesh is Geet&rsquo;s husband. So Fenil is Ilesh&rsquo;s brother-in-law. Jugal is Ilesh&rsquo;s brother-in-law&rsquo;s son. Since Ilesh has only one brother in law, Jugal has to be Fenil&rsquo;s son. Jugal is also Kajri&rsquo;s son. Therefore, Kajri is Fenil&rsquo;s wife.</p>\n\n<p>6) Because Aliya is referred to as &lsquo;her&rsquo;, she is female, while Boman&#39;s gender is unclear.</p>\n\n<p>Thus, the final family tree is as shown below.&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F1_T.D_7.5.20_Pallavi_D%201.png\" style=\"width: 469px; height: 288px;\" /></p>\n\n<p>Thus, Dinkar&rsquo;s daughter (Geet) is the sister of Jugal&rsquo;s father, Fenil as Dinkar = father of Boman&rsquo;s mother = father of Aliya&rsquo;s father.</p>\n\n<p>So, the correct answer is sister.</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:04:16.979Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

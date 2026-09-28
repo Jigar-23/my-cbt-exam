@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a07929b036f6c3e90327",
+  "title": "CT 9: English Language (Match The Following- 1)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6088488635a774041a075f45",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the following question, two columns are given containing three phrases each. In the first column phrases are A, B, C and in the second column, the phrases are D, E, F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a grammatically and contextually correct sentence. If none of the options given forms a correct sentence after combination, select &lsquo;None of these&#39; as your answer</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Column(1)</strong></td>\n\t\t\t<td><strong>Column(2)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(A) We tried to&nbsp;capitalize&nbsp;on the customers&#39;</td>\n\t\t\t<td>(D) latent&nbsp;dangers.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(B) They seriously believe that</td>\n\t\t\t<td>(E) curiosity to increase our gross sales.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(C)Many people say that&nbsp;detente&nbsp;</td>\n\t\t\t<td>(F)&nbsp;ourselves from the masses</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-E",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-F",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-F and C-E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<span style=\"font-weight: 700;\">&nbsp;A-E.</span></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li><span style=\"font-weight: 700;\">Part A&nbsp;</span>states<em>&nbsp;&#39;We tried to&nbsp;capitalize&nbsp;on the customers&#39;&nbsp;</em>and&nbsp;<span style=\"font-weight: 700;\">part E&nbsp;</span>states<em>&nbsp;&#39;curiosity to increase our gross sales​&#39;.&nbsp;</em></li>\n\t<li>In part A, the word&nbsp;<span style=\"font-weight: 700;\">capitalize&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">means <u>to&nbsp;take the chance to gain an advantage.</u></span></li>\n\t<li>Here, it&#39;s said that they need to take advantage of the customers&#39; curiosity regarding their products to increase their sales.&nbsp;</li>\n\t<li>There is only one correct combination in the given options i.e.<span style=\"font-weight: 700;\">&nbsp;A-E&nbsp;</span>is the correct combination.&nbsp;</li>\n</ul>\n\n<p>The correct sentence is<em>, <strong><span style=\"display: none;\">&nbsp;</span>A-E<span style=\"font-weight: 700;\">:&nbsp;</span><span style=\"display: none;\">&nbsp;</span>We tried to&nbsp;capitalize&nbsp;on the customers&#39; curiosity to increase our gross sales.</strong></em></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>Let us see the meaning of the words:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153);\"><strong>Other words</strong></td>\n\t\t\t<td style=\"background-color: rgb(255, 255, 153);\"><strong>Meanings</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-weight: 700;\">latent</span></td>\n\t\t\t<td><span style=\"color: rgb(34, 34, 34);\">present but not visible.</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"font-weight: 700;\">detente</span></td>\n\t\t\t<td><span style=\"color: rgb(34, 34, 34);\">release from tension</span></td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "6001b7b589ee774a7af0279c",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: In the following question, two columns are given containing three phrases each. In the first column phrases are A, B, and C and in the second column, the phrases are D, E, and F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which phrases can be joined to form a grammatically and contextually correct sentence. If none of the options given forms a correct sentence after combination, select &#39;None of these&#39; as your answer.</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Column (1)</strong></td>\n\t\t\t<td><strong>Column (2)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(A)&nbsp;In ancient times, the sun was</td>\n\t\t\t<td>(D) incessant talking.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(B) Ageism is equally as offensive</td>\n\t\t\t<td>(E) an object of veneration.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(C)&nbsp;She became irritated by the child&#39;s</td>\n\t\t\t<td>(F) and pernicious as sexism.</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<p>B-E</p>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-E and B-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B-F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "The correct combination is &#39;<span style=\"font-weight: 700;\">B-F</span><span style=\"font-weight: 700;\">&#39;</span>.<br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>\n<ul>\n\t<li>The correct sentences are:\n\t<ul>\n\t\t<li><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;\"><span style=\"font-weight: 700;\">A-E<span style=\"white-space: pre-wrap;\">:</span></span>&nbsp;<span style=\"font-weight: 700;\">In ancient times, the sun was an object of veneration<span style=\"white-space: pre-wrap;\">.</span></span></span></li>\n\t\t<li><span style=\"font-weight: 700;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;\">B-F<span style=\"white-space: pre-wrap;\">:</span>&nbsp;Ageism is equally as offensive and pernicious as sexism.</span></span></li>\n\t\t<li><span style=\"font-weight: 700;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;\">C-D: She became irritated by the child&#39;s incessant talking.</span></span></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">Part A</span>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part E&nbsp;</span>should join&nbsp;<span style=\"font-weight: 700;\">conceptually</span>.&nbsp;<span style=\"font-weight: 700;\">Part A</span>&nbsp;states that &#39;<em>In ancient times, the sun was&#39;</em>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part E</span>&nbsp;states&nbsp;&#39;<i>an object of veneration</i>&#39;<em>.&nbsp;</em>So,&nbsp;<span style=\"font-weight: 700;\">A</span><span style=\"font-weight: 700;\">-E&nbsp;</span>is the correct combination.</li>\n\t<li><span style=\"font-weight: 700;\">Part B</span>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part F&nbsp;</span>should join&nbsp;<span style=\"font-weight: 700;\">conceptually</span>.&nbsp;<span style=\"font-weight: 700;\">Part B&nbsp;</span>talks about &#39;<em>Ageism is as equally offensive&#39;</em>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part F&nbsp;</span>completes the sentence stating&nbsp;&#39;<em>and pernicious as sexism&#39;</em>. So,&nbsp;<span style=\"font-weight: 700;\">B</span><span style=\"font-weight: 700;\">-F</span>&nbsp;is the correct combination.</li>\n\t<li><span style=\"font-weight: 700;\">Part C&nbsp;</span>and&nbsp;<span style=\"font-weight: 700;\">part D&nbsp;</span>should be joined conceptually.&nbsp;<span style=\"font-weight: 700;\">Part C&nbsp;</span>talks about &#39;<em>She became irritated by the child&#39;s&#39;</em>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part D&nbsp;</span>completes the sentence stating &#39;<i>incessant talking&#39;</i>. So,&nbsp;<span style=\"font-weight: 700;\">C</span><span style=\"font-weight: 700;\">-D</span>&nbsp;is the correct combination.</li>\n\t<li>The correct combination is&nbsp;reflected in&nbsp;<span style=\"font-weight: 700;\">option 4</span>, making it the correct answer.</li>\n</ul>\n\n<p><span style=\"white-space: pre-wrap;\">​</span><img height=\"41px\" src=\"//cdn.testbook.com/images/production/quesImage4.png\" style=\"white-space: pre-wrap;\" width=\"280px\" /><span style=\"white-space: pre-wrap;\"> </span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of some difficult&nbsp;words:\n\t<ul>\n\t\t<li><span style=\"white-space: pre-wrap;\"><span style=\"font-weight: 700;\">Veneration: </span></span><span style=\"color: (32, 33, 36);\">great respect; reverence</span></li>\n\t\t<li><span style=\"font-weight: 700;\">Pernicious:&nbsp;</span></font><span style=\"color: (32, 33, 36);\">having a harmful effect, especially in a gradual or subtle way</span></li>\n\t\t<li><span style=\"font-weight: 700;\">Incessant:&nbsp;</font></span><span style=\"color: (32, 33, 36);\">(of something regarded as unpleasant) continuing without pause or interruption</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "606d774d03fde6048d108317",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction:&nbsp;In the following questions two columns are given containing three sentences/phrases each.&nbsp;Each question has five options. Choose the correct option&nbsp;in which the sentences/phrases can be joined to form a grammatically and contextually correct sentence.&nbsp;</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:226px;\">\n\t\t\t<p align=\"center\"><strong>I</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:189px;\">\n\t\t\t<p align=\"center\"><strong>II</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:226px;\">\n\t\t\t<p>&nbsp;A. On account of space&nbsp; &nbsp;limitations,&nbsp;magazine editors must</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:189px;\">\n\t\t\t<p>&nbsp;D. display information when&nbsp; &nbsp;you request information of it</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:226px;\">\n\t\t\t<p>&nbsp;B. A terminal is any piece of&nbsp; &nbsp;technology that will</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:189px;\">\n\t\t\t<p>&nbsp;E. me away from the noisy streets of the city.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:226px;\">\n\t\t\t<p>&nbsp;C. The garden was an oasis of&nbsp; &nbsp;calm&nbsp;that took&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:189px;\">\n\t\t\t<p>&nbsp;F. be selective in where they&nbsp; &nbsp;place advertisements</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "C - F",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B - D and C - E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A - F and C - E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B - F and C - D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "A - D",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<strong> &#39;A - F and C - E&#39;.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>The phrases A - F and C - E </strong>when combined, form&nbsp;grammatically and contextually <b>correct sentences.</b></li>\n\t<li><strong>B and D </strong>logically&nbsp;form a pair&nbsp;but D is grammatically incorrect. The phrase <strong>&#39;request information from it&#39;</strong> is correct usage as it means that a&nbsp;terminal is any piece of&nbsp;technology that will&nbsp;display information when&nbsp;you <strong>request</strong> <strong>information</strong> <strong>from</strong> the terminal.</li>\n\t<li>Therefore, all the options that contain D<strong> (options 2, 4 and 5), </strong>get eliminated.</li>\n\t<li><strong>Option 1 </strong>gets eliminated as <strong>C</strong><strong> </strong>is talking about the garden and <strong>F</strong> is talking about placing&nbsp;advertisements.</li>\n\t<li>Therefore, according to the given explanation,<strong> option 3</strong> is the correct answer.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6006d0d835514feac8a7e66a",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction: In the following question, two columns are given containing three phrases each. In the first column phrases are A, B, and C and in the second column, the phrases are D, E, and F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which phrases can be joined to form a grammatically and contextually correct sentence. If none of the options given forms a correct sentence after combination, select &#39;None of these&#39; as your answer.</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Column (1)</strong></td>\n\t\t\t<td><strong>Column (2)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(A)&nbsp;The two parties have</td>\n\t\t\t<td>(D) he envied her.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(B)&nbsp;The prisoners were</td>\n\t\t\t<td>(E)&nbsp;reached a consensus.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(C)&nbsp;He ruefully admitted that</td>\n\t\t\t<td>(F) ill and emaciated.</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C-F",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is&nbsp;&#39;<span style=\"font-weight: 700;\">None of these&#39;</span><span style=\"font-weight: 700;\">.</span><br />\n<br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>There is no correct combination in the given options to form a meaningful sentence.</li>\n\t<li>The correct sentences are:\n\t<ul>\n\t\t<li><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;\"><span style=\"font-weight: 700;\">A-E<span style=\"white-space: pre-wrap;\">:</span></span>&nbsp;</span><strong><span style=\"white-space: pre-wrap;\">The two parties have reached a consensus</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;\"><span style=\"white-space: pre-wrap;\"><span style=\"font-weight: 700;\">.</span></span></span></strong></li>\n\t\t<li><strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;\"><span style=\"font-weight: 700;\">B-F</span><span style=\"white-space: pre-wrap;\"><span style=\"font-weight: 700;\">:</span> </span></span><span style=\"white-space: pre-wrap;\">The prisoners were </span>ill and emaciated<span style=\"font-weight: 700;\"><span id=\"docs-internal-guid-c5880408-7fff-61af-6268-0f1105d0dbf9\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></span></strong></li>\n\t\t<li><strong><span style=\"font-weight: 700;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">C-D: </span></span><span style=\"white-space: pre-wrap;\">He ruefully admitted that he envied her</span><span style=\"font-weight: 700;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></strong></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">Part A</span>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part E&nbsp;</span>should join&nbsp;<span style=\"font-weight: 700;\">conceptually</span>.&nbsp;<span style=\"font-weight: 700;\">Part A</span>&nbsp;states &#39;<em><span style=\"white-space: pre-wrap;\">The two parties have</span>&#39;</em>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part E</span>&nbsp;completes the sentence stating&nbsp;&#39;<em><span style=\"white-space: pre-wrap;\">reached a consensus</span>&#39;</em>. So,&nbsp;<span style=\"font-weight: 700;\">A</span><span style=\"font-weight: 700;\">-E</span>&nbsp;is the correct combination.</li>\n\t<li><span style=\"font-weight: 700;\">Part B</span>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part F&nbsp;</span>should join&nbsp;<span style=\"font-weight: 700;\">conceptually</span>.&nbsp;<span style=\"font-weight: 700;\">Part B</span>&nbsp;states that &#39;<em><span style=\"white-space: pre-wrap;\">The prisoners were</span>&#39;</em>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part F</span>&nbsp;compliments&nbsp;<span style=\"font-weight: 700;\">part B</span>&nbsp;stating that &#39;<em>ill and emaciated&#39;</em>. So,&nbsp;<span style=\"font-weight: 700;\">B</span><span style=\"font-weight: 700;\">-F</span>&nbsp;is the correct combination.</li>\n\t<li><span style=\"font-weight: 700;\">Part C&nbsp;</span>and&nbsp;<span style=\"font-weight: 700;\">part D</span>&nbsp;should join&nbsp;<span style=\"font-weight: 700;\">conceptually</span>.&nbsp;<span style=\"font-weight: 700;\">Part C&nbsp;</span>talks about &#39;<em><span style=\"white-space: pre-wrap;\">He ruefully admitted that</span>&#39;</em>&nbsp;and&nbsp;<span style=\"font-weight: 700;\">part D</span>&nbsp;states &#39;<em><span style=\"white-space: pre-wrap;\">he envied her</span></em>&#39;. So,&nbsp;<span style=\"font-weight: 700;\">C-D</span>&nbsp;is the correct combination.</li>\n\t<li>There is&nbsp;<span style=\"font-weight: 700;\">no correct combination</span>&nbsp;in any of the given options. So,&nbsp;<span style=\"font-weight: 700;\">Option 5</span>, is the correct option.</li>\n</ul>\n\n<p><br />\n<span style=\"white-space: pre-wrap;\">​</span><img height=\"41px\" src=\"//cdn.testbook.com/images/production/quesImage4.png\" style=\"white-space: pre-wrap;\" width=\"280px\" /><span style=\"white-space: pre-wrap;\"> </span></p>\n\n<ul>\n\t<li>Let&#39;s look at the meaning of some words:\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Consensus:&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">a general agreement</span></li>\n\t\t<li><span style=\"color: rgb(32, 33, 36);\"><span style=\"font-weight: 700;\">Emaciated:</span>&nbsp;abnormally thin or weak, especially because of illness or a lack of food</span></li>\n\t\t<li><span style=\"color: rgb(32, 33, 36);\"><span style=\"font-weight: 700;\">Ruefully:</span>&nbsp;in a way that expresses sorrow or regret, especially in a wry or humorous manner</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "606d7620c3dea3e632b98803",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Direction:&nbsp;In the following questions two columns are given containing three sentences/phrases each.&nbsp;Each question has five options. Choose the correct option&nbsp;in which the sentences/phrases can be joined to form a grammatically and contextually correct sentence.&nbsp;</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>I</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>II</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>&nbsp;A. I have to return the&nbsp; &nbsp;software back to the store</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>&nbsp;D. was independent and free from British control.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>&nbsp;B. After the revolution, the&nbsp; &nbsp;colonies</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>&nbsp;E. a youngster came along and grabbed his title.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>&nbsp;C. The boxer was an&nbsp; &nbsp;undisputed champion until</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>&nbsp;F. because it is not&nbsp;compatible with my computer.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B - E",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A - F and B - D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A - D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A - F and C - E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "C - D",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<strong> &#39;A - F and C - E&#39;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The<strong> phrases&nbsp;A - F and C - E</strong> when combined, <strong>form grammatically and contextually correct sentences.</strong></li>\n\t<li><strong>A</strong> is saying that the person has to give the software back to the store and <strong>F</strong> is talking about its reason.</li>\n\t<li><strong>C</strong><strong> </strong>is talking about the boxer who remained an unopposed champion until a particular point in time and <strong>E</strong> has mentioned until when that&nbsp;boxer remained a champion.</li>\n\t<li><strong>B and D</strong> do not make a pair as the plural subject (<strong>colonies</strong>) should be followed by a plural verb (<strong>were</strong>) instead of &#39;<strong>was</strong>&#39;.</li>\n\t<li>Therefore, according to the explanation, <strong>option 4</strong> is the correct answer.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd6dc11b783572edaac7595",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the following question, two columns are given containing three phrases each. In the first column, phrases are A, B, and C, and in the second column, the phrases are D, E and F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a grammatically and contextually correct sentence. If, none of the options given forms a correct sentence after combination, select &lsquo;None of these&rsquo; as your answer.&nbsp;</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Column (1)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Column (2)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(A)The small amount of water vapor in the Martian atmosphere suggests&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(D)only small amounts of carbon.&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(B)&nbsp;Ancient oceans on Mars contained&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(E)that there has been liquid water on Mars.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(C)&nbsp;The climate of Mars may not have been suitable&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(F)since the formation of large bodies of water.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-F, B-E and C-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-E and C-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-E and B-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct sentences are&nbsp;-&nbsp;</p>\n\n<ul>\n\t<li><strong><span style=\"font-weight: 700;\">A-E:&nbsp;</span>The small amount of water vapour in the Martian atmosphere suggests that there has been liquid water on Mars.</strong></li>\n\t<li><strong>B-D: Ancient oceans on Mars contained only small amounts of carbon.&nbsp;</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>We need to join each sentence part given in column 1 to their correct counterparts given in column 2. The sentences should not only be conceptually correct but also grammatically error-free. This would allow us to come to the correct solution.\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Part A</span>&nbsp;talks about a fact which provides a suggestion. Conceptually it should join with&nbsp;<strong>part E&nbsp;</strong>&nbsp;which points out what this suggestion is.&nbsp;So,&nbsp;<span style=\"font-weight: 700;\">A-E.</span></li>\n\t\t<li><strong>Part B</strong>&nbsp;talks about oceans on Mars containing something. So, it should join with&nbsp;<strong>part D </strong>which mentions what it can contain. So,<strong> B-D.</strong></li>\n\t\t<li>Combining the rest of the parts do not make sense.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">​</span>The&nbsp;correct combinations are reflected in&nbsp;<span style=\"font-weight: 700;\">option 4</span>, making it the correct answer.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Parts C&nbsp;</strong>and&nbsp;<strong>F&nbsp;</strong>cannot join.</li>\n\t<li>Part C talks about how the climate on Mars is unsuitable for something.&nbsp;</li>\n\t<li>Part F talks about the period of time wit respect to the formation of the lakes. (By using &#39;since&#39; as a conjunction.)</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd6e14bae6be4d7dbc71869",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the following question, two columns are given containing three phrases each. In the first column, phrases are A, B, and C, and in the second column, the phrases are D, E and F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a grammatically and contextually correct sentence. If, none of the options given forms a correct sentence after combination, select &lsquo;None of these&rsquo; as your answer.&nbsp;</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Column (1)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Column (2)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(A)&nbsp;The Greek civilization had been surpassed&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(D)the department.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(B) It was posted on&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(E)a bulletin board.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(C) Dean Adams is not permanently leaving&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(F)by the Romans.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-F, B-E and C-D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A-E, B-F and C-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A-D, B-F and C-E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A-D, B-E and C-F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct sentences are -&nbsp;</p>\n\n<ul>\n\t<li><strong><span style=\"font-weight: 700;\">A-F:&nbsp;</span>The Greek civilization had been surpassed&nbsp;by the Romans.</strong></li>\n\t<li><strong>B-E: It was posted on a bulletin board.</strong></li>\n\t<li><strong>C-D:&nbsp;Dean Adams is not permanently leaving the department.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>We need to join each sentence part given in column 1 to their correct counterparts given in column 2. The sentences should not only be conceptually correct but also grammatically error free. This would allow us to come at the correct solution.\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Part A</span>&nbsp;talks about how a certain civilization has been surpassed.&nbsp;<strong>Part F&nbsp;</strong>explains &#39;who&#39; surpassed them.&nbsp;So,&nbsp;<span style=\"font-weight: 700;\">A-F.</span></li>\n\t\t<li><strong>Part B&nbsp;</strong>talks about something being posted.&nbsp;<strong>Part E&nbsp;</strong>explains where it has been posted. So,&nbsp;<strong>B-E.</strong></li>\n\t\t<li><strong>Part C&nbsp;</strong>talks about how the subject (Dean Adams) is not permanently leaving.&nbsp;<strong>Part D </strong>explains what the subject is not permanently leaving. So,<strong> C-D.</strong></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">​</span>The&nbsp;correct combinations are reflected in&nbsp;<span style=\"font-weight: 700;\">option 1</span>, making it the correct answer.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Surpassed - exceed or be greater than</li>\n\t<li>Dean -&nbsp;the head of a university faculty or department or of a medical school.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd6e97ff47b5b6c3716366b",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the following question, two columns are given containing three phrases each. In the first column, phrases are A, B, and C, and in the second column, the phrases are D, E and F. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a grammatically and contextually correct sentence. If, none of the options given forms a correct sentence after combination, select &lsquo;None of these&rsquo; as your answer.&nbsp;</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Column (1)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Column (2)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(A) Students receive letters&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(D)&nbsp;become too competitive.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(B)Educated Romans modelled their own literature and philosophy&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(E)listed the courses that they still need to take.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(C)&nbsp;Their preferred habitat&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(F)&nbsp;on the ancient Greeks.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B-E and C-F",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B-F",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A-E and B-D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C-D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct sentence is&nbsp;-&nbsp;</p>\n\n<ul>\n\t<li><strong><span style=\"font-weight: 700;\">B-F:&nbsp;</span>Educated Romans modelled their own literature and philosophy on the ancient Greeks.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>We need to join each sentence part given in column 1 to their correct counterparts given in column 2. The sentences should not only be conceptually correct but also grammatically error-free. This would allow us to come to the correct solution.\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Part A</span>&nbsp;talks about the Romans modelling their literature and philosophy on something.&nbsp;<strong>&#39;Modelled&#39;&nbsp;</strong>means to&nbsp;use (a system, procedure, etc.) as an example to follow or imitate.&nbsp;So, conceptually it should join with&nbsp;<span style=\"font-weight: 700;\">part F&nbsp;</span>which talks about ancient Greeks on whom the Romans could have modelled.&nbsp;So,&nbsp;<span style=\"font-weight: 700;\">B-F.</span></li>\n\t\t<li>Combining the rest of the parts do not make sense.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-weight: 700;\">​</span>The&nbsp;correct combination is&nbsp;reflected in&nbsp;<span style=\"font-weight: 700;\">option 2</span>, making it the correct answer.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Part A </strong>is in<strong> present tense </strong>form. Conceptually it should join with&nbsp;<strong>part E.&nbsp;</strong>But part E is in the past tense. So, grammatically it cannot join.</li>\n\t<li><strong>Part C&nbsp;</strong>is in&nbsp;<strong>past tense&nbsp;</strong>form. Conceptually it should join with&nbsp;<strong>part D.&nbsp;</strong>But part D is in the present tense. So, grammatically it cannot join.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "606d73b32967bbc8f694a4d5",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Direction:&nbsp;In the following questions two columns are given containing three sentences/phrases each.&nbsp;Each question has five options. Choose the correct option&nbsp;in which the sentences/phrases can be joined to form a grammatically and contextually correct sentence.&nbsp;</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:430px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:160px;\">\n\t\t\t<p style=\"text-align: center;\">I</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:208px;\">\n\t\t\t<p style=\"text-align: center;\">II</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:160px;\">\n\t\t\t<p>&nbsp;A. The dog lover insisted&nbsp; that her dog has</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:208px;\">\n\t\t\t<p>&nbsp;D. easy locomotion and&nbsp;enables&nbsp;the&nbsp; &nbsp;car to travels&nbsp;at&nbsp;high&nbsp;speed</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:160px;\">\n\t\t\t<p>&nbsp;B. in the blizzard, many&nbsp; &nbsp;highway travellers</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:208px;\">\n\t\t\t<p>&nbsp;E. were searching for a haven from&nbsp;the&nbsp;freezing wind</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:160px;\">\n\t\t\t<p>&nbsp;C. The rotary nature of&nbsp;fire allows for</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:208px;\">\n\t\t\t<p>&nbsp;F. the capability to feel emotions just&nbsp;as humans do.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A - F",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B - F and C - E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A - E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B - D and C - E",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "C - F and A - D",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>&#39;A - F&#39;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>When the <strong>phrases A and F </strong>are combined, <strong>they form a grammatically and contextually correct sentence.</strong> A is referring to the dog lover who is talking about her&nbsp;dog, and F is referring to someone who has emotions just like humans. As a result, it is possible to infer that <strong>the dog lover is insisting that his dog has emotions just like humans.&nbsp;</strong></li>\n\t<li><strong>D</strong> cannot make a pair with any of the phrases as it is grammatically incorrect. <strong>The verb after &#39;to&#39; does not take any &#39;s/es&#39; form. (&#39;to travel&#39; is the correct usage)</strong></li>\n\t<li><strong>C&nbsp;</strong>is talking about some&nbsp;rotary design of fire, and it does not make a suitable pair with any other phrases.</li>\n\t<li>When&nbsp;we combine the <strong>phrases B and E</strong>, they give&nbsp;the meaning that many highway travellers were looking for a safe shelter from the freezing wind during the storm. They form a grammatically and contextually correct sentence.&nbsp;</li>\n\t<li>Out of all the given alternatives,&nbsp;only in option 1, we have <strong>the correct pair</strong> i.e.&nbsp;<strong>A - F.</strong></li>\n\t<li>Therefore, <strong>option 1</strong> is the correct answer.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60cb66177b1527b160c5704a",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Choose the combination that creates the correct sentence. </strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>A. Rajesh was still extremely angry</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>i. therefore</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>D. Mary having apologized a lot.&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>B. Sam wanted to create a time machine</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>ii. despite of</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>E. she would miss her best friend&#39;s wedding.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>C. Molly had to pack her bags really fast</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>iii. consequently</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:212px;\">\n\t\t\t<p>F. he had to study engineering.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A - i - D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B - ii - E",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C - iii - E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B - i - F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "A - ii - D",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>&#39;B - i - F&#39;</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>&nbsp;To choose the correct combination, we will have to go through all the options one by one.&nbsp;</p>\n\n<ul>\n\t<li>The<strong> combination &#39;B - i - F&#39; i.e. &#39;Sam wanted to create a time machine therefore he had to study Engineering.&#39; is correct because the second sentence is a consequence of the first.&nbsp;</strong></li>\n\t<li><strong>&#39;Therefore&#39; is an adverb</strong> that is used to<strong> refer to a sequence of action</strong>, something happening as a result of an initial action.&nbsp;\n\t<ul>\n\t\t<li><em><strong>Example:</strong></em> <em>Harry did not get into his dream college, therefore he had to settle for his backup college.&nbsp;</em></li>\n\t</ul>\n\t</li>\n\t<li>The <strong>first part </strong>of the sentence tells us that <strong>Sam has a desire to create a time machine</strong>. In order to build this he has to <strong>take certain steps.&nbsp;</strong></li>\n\t<li>The <strong>second statement</strong> tells us he had to <strong>study Engineering</strong>. This means that <strong>because he wants to create a time machine</strong>, in order to <strong>get the proper access to the knowledge</strong> for doing that, Sam had to <strong>study Engineering.&nbsp;</strong></li>\n</ul>\n\n<p><br />\nHence, the correct answer is <strong>&#39;B - i - F&#39;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;</p>\n\n<ul>\n\t<li><strong>&#39;Therefore&#39;, &#39;consequently&#39; and &#39;as a result&#39;</strong> are connectors used to refer to causation in a sequence of actions.&nbsp;</li>\n\t<li>They usually appear&nbsp;in the <strong>middle of a sentence.&nbsp;</strong>\n\t<ul>\n\t\t<li><strong>Example: </strong><em>Markus failed the entrance exam, <strong>as a result </strong>he had to change his mind about becoming a doctor.&nbsp;</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jean wanted to buy a car, <strong>consequently</strong> she also had to learn how to drive.&nbsp;</em></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:41.516Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

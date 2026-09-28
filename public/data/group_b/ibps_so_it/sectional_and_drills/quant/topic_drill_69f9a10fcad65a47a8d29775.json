@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a10fcad65a47a8d29775",
+  "title": "CT 15: Quantitative Aptitude (Partnership)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5b3f601095cbd80c32434289",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p>A, B and C started a business after a year A got 2/5<sup>th</sup> of the profit. B and C distributed the remaining profit equally. If C got Rs. 350 less than A, Then the total profit was?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 3000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 4000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 3500",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 3600",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the total profit = 100x</p>\n\n<p>Then, A&rsquo;s profit = 2/5 &times; 100x = 40x</p>\n\n<p>Remaining profit = 60x distributed by B and C equally means each one of them got 30x</p>\n\n<p>Also, C = 40x - 350</p>\n\n<p>&rArr; 30x = 40x - 350</p>\n\n<p>&rArr; 10x = 350</p>\n\n<p>&rArr; x = 35</p>\n\n<p>&there4; So the total profit = 100 &times; 35 = Rs. 3500</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5a68715a57f9ac3518542eed",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "P, Q and R start a small business. P contributes 1/5th of the total capital invested in the business. Q contributes as much as P and R together. Total profit at the end of the year was Rs. 5200. What was R&rsquo;s profit share? (in Rupees)",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1510",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2510",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1500",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2560",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1560",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let P&rsquo;s share in the investment is 1 out of 5</p>\n\n<p>So, according to the question,</p>\n\n<p>&rArr; Q = P + R</p>\n\n<p>&rArr; Q &ndash; R = P = 1</p>\n\n<p>Also,</p>\n\n<p>&rArr; Q + R = 4</p>\n\n<p>&rArr; Q = 2.5</p>\n\n<p>&rArr; R = 1.5</p>\n\n<p>&rArr; Ratio of the profit = 1 : 2.5 : 1.5 = 2 : 5 : 3</p>\n\n<p>&rArr; Profit of R = (3/10) &times; 5200 = 1560</p>\n&there4; R&rsquo;s profit share is Rs. 1560",
+          "topic": "Test"
+        },
+        {
+          "id": "5f3aaae14d51730d138497ff",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Aditya invested Rs. 21000 for 6 months while Shifa invested her amount for the complete year. Now out of the total profit, Aditya got 60% and Shifa got the remaining amount. Find the amount invested by Shifa per month.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 8000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 6000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 7000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 9000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 5000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given: </strong></p>\n\n<p style=\"\">Amount invested by Aditya = Rs. 21000</p>\n\n<p style=\"\">The time period for which Aditya invested = 6 months</p>\n\n<p style=\"\">Profit % of Aditya = 60% of the total profit</p>\n\n<p style=\"\"><strong style=\"\">Concept used: </strong></p>\n\n<p style=\"\">Profit <img height=\"22\" src=\"file:///C:/Users/sif-/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif\" style=\"\" width=\"11\" />&nbsp;(Investment &times; Time)</p>\n\n<p style=\"\"><strong style=\"\">Calculation: </strong></p>\n\n<p style=\"\">Let the amount invested per month by Shifa be &lsquo;x&rsquo;</p>\n\n<p style=\"\">&there4; Total amount invested in 12 months be 12x</p>\n\n<p style=\"\">Amount invested by Aditya = Rs. 21000</p>\n\n<p style=\"\">&there4; Total amount invested by Aditya in 6 months = Rs. 21000 &times; 6</p>\n\n<p style=\"\">&rArr; Total amount invested by Aditya in 6 months = Rs. 1,26,000</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">Profit % of Aditya = 60%</p>\n\n<p style=\"\">&there4; Profit % of Shifa = (100 &ndash; 60) %</p>\n\n<p style=\"\">&rArr; Profit % of Shifa = 40%</p>\n\n<p style=\"\">Now, Ratio of Their Profit = 60 : 40</p>\n\n<p style=\"\">&rArr; Ratio of their profit = 3 : 2</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">Total amount of Aditya / Total amount of Shifa = 3/2</p>\n\n<p style=\"\">&rArr; 126,000/12x = 3/2</p>\n\n<p style=\"\">&rArr; 6x = 42,000</p>\n\n<p style=\"\"><strong style=\"\">&rArr; </strong><strong style=\"\">x = 7000</strong></p>\n&there4; the amount invested by Shifa&nbsp; = Rs. 7000",
+          "topic": "Test"
+        },
+        {
+          "id": "5a6c57902b7d2a0f95e87918",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "A business man invested Rs. 5000 for 6 months. At the end, he gained 20%. Observing this, his friend invested 4 times as gain amount. After how long from businessman&rsquo;s friend invested, the ratio of profit would be 5 : 3?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "12",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "18",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "24",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "30",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>If there is a profit in the business run by A and B then,</p>\n\n<p>(Amount of investment by A &times; No. of months invested by A) / (Amount of investment by B &times; No. of months invested by B) = (Profit of A) / (Profit of B)</p>\n\n<p>Let&rsquo;s designate a businessman by &lsquo;A&rsquo; and his friend by &lsquo;B&rsquo;</p>\n\n<p>Amount of investment by A = Rs. 5000</p>\n\n<p>At the end of 6 months he gains = 20% of Rs. 5000</p>\n\n<p>&rArr; 20/100 &times; 5000 = Rs.1000</p>\n\n<p>B invests 4 times of gain amount = 4 &times; Rs. 1000 = Rs. 4000</p>\n\n<p>Let the no. of months invested by B be &lsquo;x&rsquo;</p>\n\n<p>No. of months invested by A would be, then, = x + 6</p>\n\n<p><span class=\"math-tex\">\\(\\begin{array}{l} \\Rightarrow \\;\\frac{{5000\\; \\times \\;\\left( {x\\; + \\;6} \\right)}}{{4000\\; \\times \\;x}}\\; = \\;\\frac{5}{3}\\\\ \\Rightarrow \\;\\frac{{5\\; \\times \\;\\left( {x\\; + \\;6} \\right)}}{{4\\; \\times \\;x}}\\; = \\;\\frac{5}{3} \\end{array}\\)</span></p>\n\n<p>&rArr; 15(x + 6) = 5 &times; 4x</p>\n\n<p>&rArr; 15x + 90 = 20x</p>\n\n<p>&rArr; 20x &ndash; 15x = 90</p>\n\n<p>&rArr; 5x = 90</p>\n\n<p>&rArr; x = 18</p>\n&there4; After 18 months from businessman&rsquo;s friend invested, the ratio of profit would be 5 : 3",
+          "topic": "Test"
+        },
+        {
+          "id": "5bf7a3b43d1bd90cd3c91616",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "P, Q and R started a business in partnership. P invested Rs. 2560 and Q invested Rs. 2000. At the end of the year, they gained Rs. 1105, out of which P received Rs. 320. Find the capital amount invested by R.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 4050",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 4280",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 4460",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 4310",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 3840",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><b>Given</b></p>\n\n<p>P, Q and R started a business in partnership. P invested Rs. 2560 and Q invested Rs. 2000</p>\n\n<p>At the end of the year, they gained Rs. 1105, out of which P received Rs. 320</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Ratio of shares of P and Q = 2560 : 2000 = 32 : 25</p>\n\n<p>Since P received Rs. 320, Q&rsquo;s share must be Rs. 250</p>\n\n<p>&rArr; Share of R = 1105 -&nbsp;320 -&nbsp;250 = Rs. 535</p>\n\n<p>P&#39;s Capital / P&#39;s Share = R&#39;s Capital / R&#39;s Share</p>\n\n<p><strong>&there4; Capital amount invested by R = [2560 &times; 535] /320 = Rs. 4280</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5af9502fd93eea0c2695d6cb",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>Ramesh gave 40% of his salary to his son and daughter. The ratio of amount given to son and daughter is 1 : 3 respectively. Twice the amount which he gave to his son is invested in mutual fund. Out of remaining amount, he gave three fourth to his wife. After that he was left with Rs. 5250. The difference in the amount earned by daughter and son is?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "15000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "18500",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "12000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "12750",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "10500",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let assume salary of Ramesh = Rs. x</p>\n\n<p>Amount given to son and daughter = 40% of x = 0.4x</p>\n\n<p>Amount given to son = (1/4) &times; 0.4x = 0.1x</p>\n\n<p>Amount invested in mutual fund = 2 &times; Amount given to son = 2 &times; 0.1x = 0.2x</p>\n\n<p>Remaining amount = (x - 0.4x - 0.2x) = (x - 0.6x) = 0.4x</p>\n\n<p>Amount given to his wife = (3/4 of remaining amount) = (3/4) &times; 0.4x = 0.3x</p>\n\n<p>Left over amount = (0.4x - 0.3x) = 0.1x</p>\n\n<p>&rArr; 5250 = 0.1x</p>\n\n<p>&rArr; x = (5250/0.1)</p>\n\n<p>&rArr; x = Rs. 52500</p>\n\n<p>&there4;&nbsp;difference in the amount earned by daughter and son = 0.3x - 0.1x = 0.2x = 0.2&nbsp;&times; 52500 = Rs.&nbsp;10500</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c00de722f84240bd7e0cf6c",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "X, Y and Z started a business with the capitals Rs. 180000, Rs. 120000 and Rs. 150000 respectively. They decided to share the profit according to their capital but X also receives 10% of the total profit as the salary. If X receives Rs. 9200 in total then find the total profit from the business.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 15000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 24000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 20000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 18000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 22000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Ratio of profit sharing of X, Y and Z = 18 ∶ 12 ∶ 15</p>\n\n<p>Since X receives 10% of the total profit as the salary</p>\n\n<p>Suppose the total profit = Rs. P</p>\n\n<p>&rArr; Amount of profit to be shared = 0.9P</p>\n\n<p>&rArr; Share of X = 0.9P &times; 18/45 + 0.1P</p>\n\n<p>&rArr; 9200 = 0.36P + 0.1P</p>\n\n<p>&rArr; 0.46P = 9200</p>\n\n<p>&rArr; P = 20000</p>\n&there4; Total profit from the business = Rs. 20000",
+          "topic": "Test"
+        },
+        {
+          "id": "5b4071719148270c32b98ff3",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>Abhishek and Atul invested in a business in the ratio 4 ∶ 5. After 7 months, Ajay invested Rs. 30000 in the business. At the end of the year, if their share in the profit is in the ratio 512 ∶ 800 ∶ 25, find Abhishek&rsquo;s initial investment.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 225000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 248000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 251200",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 256000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 280000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let Abhishek and Atul initial investment be &lsquo;4x&rsquo; and &lsquo;5x&rsquo; respectively</p>\n\n<p>Abhishek&rsquo;s investment = 4x &times; 12 = 48x</p>\n\n<p>Atul&rsquo;s investment = 5x &times; 12 = 60x</p>\n\n<p>Ajay&rsquo;s investment = 30000 &times; (12 - 7) = 150000</p>\n\n<p>As we know, ratio of their investments = ratio of their profit</p>\n\n<p>&rArr; 48x ∶ 60x ∶ 150000 = 512 ∶ 800 ∶ 25</p>\n\n<p>&rArr; 48x/150000 = 512/25</p>\n\n<p>&rArr; x = (150000 &times; 512)/(48 &times; 25) = 64000</p>\n\n<p>&there4; Abhishek&rsquo;s initial investment = Rs. 4&nbsp;&times; 64000 = Rs.&nbsp;256000</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ae0344bcc1bfb0c2443d703",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Two partner&rsquo;s P and Q started a business by investing Rs. 15000 and Rs. 20000 respectively. After 6 months, Q withdrew some amount of his investment. At the same time, a third friend R joined the business by investing the same amount which Q has withdrawn. At the end of the year, Q and R distributed their profits in the ratio 5 ∶ 3. If the total profit for the year was Rs. 15400, find the amount withdrawn?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 15000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 20000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 25000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 30000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the amount withdrawn = Rs. X</p>\n\n<p>P invested his entire amount Rs. 15000 for the whole 12 months period</p>\n\n<p>Q invested Rs. 20000 for 6 months and (20000 - X) for 6 months</p>\n\n<p>R invested Rs. X for 6 months (As investment by R is similar to the amount withdrawn by Q)</p>\n\n<p>Given that the ratio of the profits of Q and R is 5 ∶ 3</p>\n\n<p>We know that the ratio of the profit of Q and R will be equal to the ratio of product of their investments and Time period</p>\n\n<p>[(20000 &times; 6) + (20000 - X) &times; 6]/6X = 5/3</p>\n\n<p>&rArr; (240000 - 6X)/6X = 5/3</p>\n\n<p>&rArr; (720000 - 18X) = 30X</p>\n\n<p>&rArr; 48X = 720000</p>\n\n<p>&rArr; X = 720000/48</p>\n\n<p>&rArr; X = 15000</p>\n&there4; Amount withdrawn by Q = Rs. 15000",
+          "topic": "Test"
+        },
+        {
+          "id": "5c00db972f84240bd7e067d5",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>P, Q and R started a business. P invested Rs. 40000 for the whole year. Q invested Rs. 60000 initially and increased it by Rs. 20000 after 4 months. R invested Rs. 80000 initially but withdrew Rs. 20000 at the end of 9 months. At the end of the year, the total profit earned is Rs. 22600. Find the share of Q.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 7600",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 8800",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 8000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 8400",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 7200",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>GIVEN :</strong></p>\n\n<p>P invested Rs. 40000 for the whole year.</p>\n\n<p>Q invested Rs. 60000 initially and increased it by Rs. 20000 after 4 months.</p>\n\n<p>R invested Rs. 80000 initially but withdrew Rs. 20000 at the end of 9 months.</p>\n\n<p>At the end of the year, the total profit earned is Rs. 22600.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>FORMULA USED :</strong></p>\n\n<p><strong>Profit = Investment x Time</strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong>CALCULATION :</strong></p>\n\n<p>Ratio of profit sharing of P, Q and R = [40000 &times; 12] ∶ [60000 &times; 4 + 80000 &times; 8] ∶ [80000 &times; 9 + 60000 &times; 3]</p>\n\n<p>&rArr; 48000 ∶ 88000 ∶ 90000</p>\n\n<p>&rArr; 24 ∶ 44 ∶ 45</p>\n\n<p>&there4; Share of Q = [44/113] &times; 22600 = Rs. 8800</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:34.904Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

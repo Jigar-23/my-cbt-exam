@@ -1,0 +1,909 @@
+{
+  "testId": "69f9a067f0a3dfbc41259f23",
+  "title": "IBPS SO English Language (Mock Test)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 20,
+  "totalDurationMinutes": 16,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f82ac4c41f3c4003cfe8e5",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "64d3b930ce4d345788600349",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong>Directions: The given sentence is divided into four parts A, B, C, and D. Choose the part that contains an error as your answer. If the sentence is error-free, mark &#39;No error&#39; as your answer.</strong></p>\n\n<p>Running boosts cardiovascular health, improves mood, and increasing <strong>(A)</strong> overall stamina, making it an ideal exercise for individuals seeking <strong>(B)</strong> holistic wellness and improved fitness, it also serves as <strong>(C)</strong> a natural mood enhancer, triggering the release of endorphins. <strong>(D)</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 1.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>Part A of the sentence i.e. &#39;running boosts cardiovascular health, improves mood, and increasing&#39; is erroneous.</strong>\n\n\t<ul>\n\t\t<li>In the given sentence, the error lies in the inconsistency of verb forms. \"Boosts\" and \"improves\" are both verbs in the base form, but \"increasing\" is a gerund form. For proper parallelism, all of the three elements should be in the same grammatical form.&nbsp;</li>\n\t\t<li>To rectify this error, <strong>we need to replace \"increasing\" with its third-person present form which is \"increases\"</strong> to establish proper parallelism.</li>\n\t</ul>\n\t</li>\n\t<li><strong>The correct sentence would be -</strong> Running boosts cardiovascular health, improves mood, and increases overall stamina, making it an ideal exercise for individuals seeking holistic wellness and improved fitness, it also serves as a natural mood enhancer, triggering the release of endorphins</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><br />\n<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Let&#39;s understand some important vocab given in the sentence -&nbsp;</strong></li>\n\t<li><strong>Cardiovascular -</strong> relating to the heart and blood vessels\n\t<ul>\n\t\t<li><strong>For Example -</strong>&nbsp;</li>\n\t\t<li>Regular exercise, such as jogging, can improve <strong>cardiovascular</strong> health and strengthen the heart muscles.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Stamina -</strong> the ability to sustain prolonged physical or mental effort <strong>(सहनशीलता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong>&nbsp;</li>\n\t\t<li>His daily jogging routine increased his <strong>stamina</strong>, allowing him to run longer distances without tiring.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Holistic -</strong> dealing with or treating the whole of something or someone and not just a part <strong>(संपूर्ण रूप से)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong>&nbsp;</li>\n\t\t<li>The <strong>holistic</strong> approach to wellness considers the interconnectedness of physical, mental, and emotional well-being.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Trigger -</strong> cause (an event or situation) to happen or exist <strong>(उत्प्रेरित)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong>&nbsp;</li>\n\t\t<li>The smell of freshly baked cookies can <strong>trigger</strong> feelings of warmth and nostalgia.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6402578302f23e0935d00c26",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><strong>Directions: The given sentence is divided into four parts that are A, B, C, and D. Choose the part that contains an error as your answer. If the sentence is error-free, mark E i.e. &#39;No error&#39; as your answer.</strong></p>\n\n<p>India will need to make concessions, knock <strong>(A)</strong> on doors, work the telephones and <strong>(B)</strong> burn the midnight oil if it wants to seek an <strong>(C)</strong> successful consensus at the conclusion of its Presidency. <strong>(D)</strong> No error <strong>(E)</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 3.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p style=\"box-sizing: border-box;\"><strong>Part C&nbsp;of the sentence i.e. &#39;burn the midnight oil if it wants to seek an&#39; is erroneous.</strong></p>\n\n<ul style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;   \">\n\t<li style=\"box-sizing: border-box;\">The use of article &#39;an&#39; used before the adjective &#39;successful&#39; is incorrect and it should be replaced with the article &#39;a&#39; because the word &#39;successful&#39; has a consonant sound to it.</li>\n\t<li style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: 700;\">Hence, the correct answer is C.</span></li>\n\t<li style=\"box-sizing: border-box;\">The correct sentence would be -&nbsp;<strong>India will need to make concessions, knock&nbsp;on doors, work the telephones and&nbsp;burn the midnight oil if it wants to seek a&nbsp;successful consensus at the conclusion of its Presidency.</strong></li>\n</ul>\n\n<p style=\"box-sizing: border-box;\"><strong>​</strong></p>\n\n<p style=\"box-sizing: border-box;\"><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></p>\n\n<p style=\"box-sizing: border-box;\">​<strong>Let&#39;s understand the use of articles a, an, and the -&nbsp;</strong></p>\n\n<ul>\n\t<li style=\"box-sizing: border-box;\">Article &#39;a&#39; is used before nouns that begin with a consonant sound.\n\t<ul>\n\t\t<li style=\"box-sizing: border-box;\"><strong>For Example -&nbsp;</strong></li>\n\t\t<li style=\"box-sizing: border-box;\">I have <strong>a</strong> book in my purse.</li>\n\t</ul>\n\t</li>\n\t<li style=\"box-sizing: border-box;\">(Here, article &#39;a&#39; is used before the noun &#39;book&#39; because it begins with a consonant sound)</li>\n</ul>\n\n<p style=\"box-sizing: border-box;\">&nbsp;</p>\n\n<ul>\n\t<li style=\"box-sizing: border-box;\">Article &#39;an&#39; is used before nouns that begin with a vowel sound.\n\t<ul>\n\t\t<li style=\"box-sizing: border-box;\"><strong>For Example -&nbsp;</strong></li>\n\t\t<li style=\"box-sizing: border-box;\">Do you want <strong>an</strong> apple for breakfast?</li>\n\t</ul>\n\t</li>\n\t<li style=\"box-sizing: border-box;\">(Here, the article &#39;an&#39; is used before the noun &#39;apple&#39; because it begins with a vowel sound)</li>\n</ul>\n\n<p style=\"box-sizing: border-box;\">&nbsp;</p>\n\n<ul>\n\t<li style=\"box-sizing: border-box;\">Article &#39;the&#39; is used before both singular and plural nouns when the noun is specific.\n\t<ul>\n\t\t<li style=\"box-sizing: border-box;\"><strong>For Example -</strong>&nbsp;</li>\n\t\t<li style=\"box-sizing: border-box;\">I saw <strong>the</strong> play you are talking about.</li>\n\t</ul>\n\t</li>\n\t<li style=\"box-sizing: border-box;\">(Here, the article &#39;the&#39; is used before the noun &#39;play&#39; because it is the specific play that is being talked about)</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "60e97a651f8173a827fe5dfb",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700; white-space: pre-wrap;\">Read the sentence below to find out if there is any error in it. The error, if any, will be in one part of the sentence. The letter of that part is the answer. If there is no error the answer is (5). (Ignore errors in punctuation if any).</span></p>\n\n<p>We can not take any further risk at such&nbsp;<span style=\"font-weight: 700;\">(A)/</span>crucial point because<span style=\"font-weight: 700;\">(B)</span>/ market volatility is also increasing<span style=\"font-weight: 700;\">(C)/</span>&nbsp; with the increase in the&nbsp;number of cases.&nbsp;<strong>(D)</strong>/ No error<strong>(E)</strong></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p dir=\"ltr\" style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-280977aa-7fff-6a12-3016-a30265c617bb\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The correct answer is</span><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> option 1.</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><img height=\"44px\" src=\"//storage.googleapis.com/tb-img/production/21/08/60e97a651f8173a827fe5dfb_16297098500111.png\" width=\"164px\" />&nbsp;</p>\n\n<ul dir=\"ltr\">\n\t<li style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 8pt;\"><span id=\"docs-internal-guid-280977aa-7fff-6a12-3016-a30265c617bb\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">In the given sentence error is in</span><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> part A, </span><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The error is in the use of</span><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> can not. </span></span></li>\n\t<li style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 8pt;\"><span><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The thing to remember is when you use &ldquo;<strong>not</strong>&rdquo; with &ldquo;<strong>can&rdquo;</strong> to express a negative statement, you always put them together. </span></span></li>\n\t<li style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 8pt;\"><span><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">They actually become one word: &ldquo;cannot&rdquo;, and not &ldquo;can not&rdquo;. </span></span></li>\n\t<li style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 8pt;\"><span><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">This is the only time you join a modal verb with &ldquo;not&rdquo; into one. </span></span></li>\n\t<li style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 8pt;\"><span><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">But with the other models, &ldquo;not&rdquo; is always a separate word.</span></span></li>\n</ul>\n\n<p style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 8pt;\"><span><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">​<strong>Correct answer-<em> </em></strong></span></span><em>We <strong>cannot</strong>&nbsp;take any further&nbsp;risk at such a crucial point&nbsp;</em>market volatility is also increasing with the increase in the number of cases<em>.</em><span id=\"docs-internal-guid-1d9abcc5-7fff-7f8d-8eab-4560e0bafd55\"><span style=\"   font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:20px;height:20px;\"><img height=\"20\" src=\"https://lh4.googleusercontent.com/NrgPjv3pok5EMtHAQUkp1j280dIK8nFlSQOuqf4-x5sZt8BoPjKewQTh3fxMHLX5WaVyJp99lUPZHdzzMCwxS9b2qmQHatpk8HOjCii947xJo-vFeSAPNJu6-LHK57kuNcHwGwuY\" style=\"margin-left:0px;margin-top:0px;\" width=\"20\" /></span></span><span style=\"   font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></p>\n\n<p style=\"line-height: 0.96; margin-top: 0pt; margin-bottom: 8pt;\"><img height=\"41px\" src=\"//storage.googleapis.com/tb-img/production/21/08/60e97a651f8173a827fe5dfb_16297098500142.png\" width=\"280px\" />&nbsp;</p>\n\n<ul>\n\t<li>A modal verb is a type of verb that is used to indicate modality\n\t<ul>\n\t\t<li><strong>Eg.</strong>&nbsp;likelihood, ability, permission, request, capacity, suggestions, order, obligation, or advice. ...</li>\n\t</ul>\n\t</li>\n\t<li>In English, the modal verbs commonly used are can, could, may, might, shall, should, will, would, and must.<span><span style=\"  font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "609aa95f84a7832ab17d2bba",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Find the error in the given sentence. If there is no error mark&nbsp;&#39;None of the above.&#39;</span></p>\n\n<p>Kim offered only me twenty dollars to wash the whole house,(A) the amount being paid was very less.(B) It was less than the wages prescribed by (C) the Union in agreement with the government.(D)&nbsp;&nbsp;&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>O</strong><span style=\"font-weight: 700;\">ption 2) i.e. A</span>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>A&nbsp;<span style=\"font-weight: 700;\">modifier</span>&nbsp;is a&nbsp;<span style=\"font-weight: 700;\">word, phrase, or clause</span>&nbsp;that describes something or makes its meaning more specific. Modifiers function as&nbsp;<u>adjectives or adverbs</u>.</li>\n\t<li>In&nbsp;<span style=\"font-weight: 700;\">part A</span>, &#39;<i>only</i>&#39; is the modifier for the phrase &#39;<i>twenty dollars</i>.&#39;\n\t<ul>\n\t\t<li>Words like&nbsp;<em>almost, even, exactly, hardly, just, merely, nearly, only, scarcely, and simply</em>&nbsp;should come immediately before the word they modify.</li>\n\t\t<li><span style=\"font-weight: 700;\">Example</span>:&nbsp;<em>He was <u>hardly</u>&nbsp;late for the lecture</em>.</li>\n\t\t<li>Here, &#39;<i><u>late</u></i>&#39; is the verb and it is being&nbsp;<em>modified</em>&nbsp;with the use of &#39;<span style=\"font-weight: 700;\"><u><em>hardly</em></u></span>&#39;&nbsp;&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li>So in part A, the sentence should be:&nbsp;<em>Kim offered me <u>only</u> twenty dollars to wash the whole house</em>.</li>\n\t<li>The use of the modifier &#39;<u><em>only</em></u>&#39; should be such that it is placed before the noun phrase &#39;<strong>twenty dollars</strong>&#39;.</li>\n</ul>\n\n<p><span id=\"docs-internal-guid-25f2dab0-7fff-67b2-e5ab-1027369533cd\"><span style=\"background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border: none; display: inline-block; overflow: hidden; width: 20px; height: 21px;\"><img height=\"21\" src=\"https://lh6.googleusercontent.com/w3asZdLCkpiMcoVEB2UdtULPuLnJWm9wYWUp-MmhgN3Nnt7wLfI6eo1lxu63Uv6cW-nm-4wMiKHLHZ6OO7vaukVLVXj2A8IAERnv6cSNiWYe-r1lcA_fl23w9iCfvmz6EkEM4pdq\" style=\"margin-left: 0px; margin-top: 0px;\" width=\"20\" /></span></span></span><span style=\"font-weight: 700;\">Correct sentence</span>:&nbsp;<em>Kim offered me&nbsp;<strong><u>only</u></strong>&nbsp;twenty dollars to wash the whole house,</em>&nbsp;<em>the amount being paid was very less. It was less than the wages prescribed by the Union in agreement with the government</em>.✔️</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6082e5a7fac67aa8cd9c8f1a",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><strong>Read the sentence given below to find out if it contains any error. The error, if any, will be in one part of the sentence. If the sentence is error free, select No error or option 5. Ignore error of punctuation if any</strong>.</p>\n\n<p>The massive melting of glaciers as (A)/ a result of global heating has (B)/ caused mark&nbsp;shifts in the Earth&rsquo;s (C)/ axis of rotation since the 1990s.(D)/ No error (E)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The erroneous part is <strong>C&nbsp;</strong>i.e. this part of the sentence has an error.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The third&nbsp;part (<strong>C</strong>) of the sentence is erroneous the word &#39;<strong>mark</strong>&#39; is not grammatically correct.</li>\n\t<li>The word &#39;<strong>shifts</strong>&#39; is a noun. Hence, an <strong>adjective</strong> should be used before the word to qualify the word.</li>\n\t<li>So, the word &#39;<strong>mark</strong>&#39; should be replaced with the adjective form, i.e. &#39;<strong>marked</strong>&#39; which means &#39;<strong>noticeable</strong>&#39;.</li>\n\t<li>Hence, <strong>option 3)</strong> is the answer.</li>\n</ul>\n\n<p><br />\n<u><strong>Correct sentence</strong></u>:&nbsp;<em>The massive melting of glaciers as a result of global heating has caused <strong>marked</strong> shifts in the Earth&rsquo;s axis of rotation since the 1990s</em>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>An <strong>adjective</strong> is word which modifies a noun or a pronoun.\n\n\t<ul>\n\t\t<li><u><strong>Example</strong></u>: She has bought a red scarf.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f64d0fc2af81d7a54e05f9f",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><span id=\"docs-internal-guid-887713c9-7fff-30c4-7af8-d4e3048e78a8\" style=\"\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">In the following question, out of the four alternatives, select the alternative which will improve the underlined part of the sentence. In case no improvement is needed, select &ldquo;No improvement&rdquo; option.</span></span></p>\n\n<p><span id=\"docs-internal-guid-2b2439f9-7fff-0f62-a542-6c67489a6581\" style=\"\"><span style=\"   font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Russia&rsquo;s candidate vaccine for COVID-19 <u>appears to have been found a </u>midwife in India.</span></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "appear to have been found a",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "appears to have found&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "appear to have been found&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "appears to have found a",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No improvement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<span id=\"docs-internal-guid-6e3d8fe6-7fff-331d-e77c-0aca39a30d8f\" style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The correct answer is <strong>option 4), i.e., appears to have found</strong></span></span><br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/20/09/a.png\" style=\"width: 48px; height: 48px;\" /><span style=\"font-size:20px;\"><u style=\"\"><span style=\"font-weight: 700;\">Explanation</span></u>&nbsp;</span>\n\n<ul>\n\t<li><span style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">It should be the <u>perfect infinitive</u> in the <u>active voice</u> instead of the <u>perfect infinitive</u> in the <u>passive voice.</u></span></span></li>\n\t<li>The&nbsp;perfect infinitive&nbsp;refers to a time before that of the&nbsp;preceding verb.</li>\n\t<li><span style=\"  \">We form the perfect infinitive with <strong>to have + the past participle&nbsp;form of a verb. </strong></span></li>\n</ul>\n\n<p><span style=\"  \"><strong>​<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></span></p>\n\n<ul>\n\t<li>An&nbsp;infinitive&nbsp;= to + the base form of the verb. The&nbsp;infinitive&nbsp;functions as a noun, adjective, or adverb.</li>\n\t<li>When infinitives are used without &#39;to&#39;, they are called bare infinitives.</li>\n\t<li><span style=\"  \">We use the <u>perfect infinitive</u> after<u> verbs </u>such as<em> claim, expect, hate, hope, like, love, prefer, pretend.</em></span>\n\t<ul>\n\t\t<li>​He&nbsp;pretended to have lost&nbsp;her number.</li>\n\t\t<li>I&#39;m&nbsp;glad&nbsp;to have studied&nbsp;at that school.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong>Correct sentence:</strong><em>&nbsp;Russia&rsquo;s candidate vaccine for COVID-19 appears to <strong>have&nbsp;found </strong>a midwife in India.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f64da1b2af81d7a54e0fddc",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><span id=\"docs-internal-guid-27bf608b-7fff-484c-77ed-75180aacbbbd\" style=\"\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">In the following question, out of the four alternatives, select the alternative which will improve the underlined part of the sentence. In case no improvement is needed, select &ldquo;No improvement&rdquo; option.</span></span></p>\n\n<p><span id=\"docs-internal-guid-c2cddd04-7fff-e994-5266-f93ed9adf70c\" style=\"\"><span style=\"   font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The political and economic architecture of the emerging global order, which the allied powers shaped at the end of World War II, <u>have been altered since then.</u></span></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "have been altered since now",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "has been altered since now",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "have been altered for now",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "has been altered since then",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No improvement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<span id=\"docs-internal-guid-15af8cdd-7fff-2bbf-de67-71c801d40c07\" style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The correct answer is <strong>option 4), i.e., has been altered since then</strong></span></span><br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/20/09/a.png\" style=\"width: 48px; height: 48px;\" /><span style=\"font-size:20px;\"><u style=\"\"><span style=\"font-weight: 700;\">Explanation</span></u>&nbsp;</span>\n\n<ul>\n\t<li><span style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">It should be the <u>singular verb</u> <strong>&#39;has&#39; </strong>instead of the<u> plural verb</u> <strong>&#39;have&#39;</strong>.</span></span></li>\n\t<li><span style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The subject <strong>&#39;the political and economic architecture&#39; </strong>is singular, so it will take a singular verb according to the rules of the <u>subject-verb agreement.</u></span></span></li>\n\t<li><span style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><strong>&#39;Political&#39;</strong> and <strong>&#39;economic&#39; </strong>are just<u> adjectives</u>. <strong>&#39;Architecture&#39;</strong> is a <u>noun</u>, here, and hence the <u>subject.</u></span></span></li>\n</ul>\n\n<p><span style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><u>​<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></u></span></span></p>\n\n<ul>\n\t<li><span style=\"\">&nbsp;</span>When the subject of a sentence is composed of two or more nouns or pronouns connected by&nbsp;and, use a plural verb.\n\n\t<ul>\n\t\t<li>Radha and Raveena&nbsp;<u>are</u>&nbsp;at the fair.</li>\n\t</ul>\n\t</li>\n\t<li>When a compound subject contains both a singular and a plural noun or pronoun joined by &#39;or&#39;&nbsp;or &#39;nor&#39;, the verb should agree with the part of the subject that is closer to&nbsp;the verb.\n\t<ul>\n\t\t<li>Neither the actor nor the <u>directors</u> <u>know</u> where the actress has gone.</li>\n\t\t<li style=\"\">Neither the directors nor the <u>actor</u>&nbsp;<u>knows </u>where the actress has gone.</li>\n\t</ul>\n\t</li>\n\t<li>When there is a phrase or a clause that comes between the subject and the verb. The verb agrees with the subject, not with a noun or pronoun in the phrase.\n\t<ul>\n\t\t<li><u>One</u>&nbsp;of the rooms<u> is </u>empty.</li>\n\t\t<li><u>The task</u>, which was given to me on Saturday,<u> is</u> difficult.</li>\n\t</ul>\n\t</li>\n\t<li><span style=\" \">The words each, each one, either, neither, everyone, everybody, anybody, anyone, nobody, somebody, someone, and no one are singular and require a singular verb.</span>\n\t<ul>\n\t\t<li><span style=\" \"><u>​Each</u> of the boys <u>gets</u> a prize.</span></li>\n\t\t<li><u>Either </u>of these roads <u>leads</u> to the railway station.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Emerging:&nbsp;</strong>become apparent or prominent.</li>\n\t<li><strong>Allied:&nbsp;</strong>joined by or relating to members of an alliance.</li>\n\t<li><strong>Altered:&nbsp;</strong>change in character or composition, typically in a comparatively small but significant way.</li>\n</ul>\n\n<p><img height=\"39px\" src=\"//cdn.testbook.com/images/production/quesImage6.png\" width=\"210px\" />&nbsp;</p>\n\n<ul>\n\t<li>When two adjectives are joined by &#39;and&#39; and qualify the same noun, then the subject, as a whole, is singular.&nbsp;\n\t<ul>\n\t\t<li>A good and honest man are hard to find.&nbsp;<span id=\"docs-internal-guid-2b0e9b17-7fff-e7a7-db06-7c619dc1d951\" style=\"\"><span style=\"   background- font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:20px;height:20px;\"><img height=\"20\" src=\"https://lh6.googleusercontent.com/LBSOy7UOkVpwQPRUa0wrXNDq0gpddQVmKEz8E7XMaFk_yXgB823uC8sX2OdaBdpOmFuWSUQu9C-DzLsBudEHUmiBq1iaCiDghoNbDhLKkG45jrlRVCI4J0adrOmdtuCu8yFgCCCC\" style=\"margin-left:0px;margin-top:0px;\" width=\"20\" /></span></span></span></li>\n\t\t<li>A good and honest man is hard to find.&nbsp;<span id=\"docs-internal-guid-be7a1fd0-7fff-30dd-4a88-ff62d6fd47c7\" style=\"\"><span style=\"   background- font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;filter: brightness(1.31) contrast(1.33);display:inline-block;overflow:hidden;width:20px;height:20px;\"><img height=\"20\" src=\"https://lh6.googleusercontent.com/y1cKfg_pVJdmTbMnht-xTHus0cBwQOJKJXDJd29LVRU0p3pzILWWXJWdY836pYdJgew2_Qh98suSbvd3gqqa3kkusEHoRnM0H_YNf2QhEhmASHGd8fcMh2h2icSeUpD5bPPHuoFB\" style=\"margin-left:0px;margin-top:0px;\" width=\"20\" /></span></span></span></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong><span style=\"\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">​Correct sentence: </span></span></strong><em>The political and economic architecture of the emerging global order, which the allied powers shaped at the end of World War II,<strong> has&nbsp;</strong>been altered since then.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f8d7e9fe972f8f0059fef2c",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>A sentence/a part of the sentence is underlined. Five alternatives are given to the underlined part which will improve the meaning of the sentence. Choose the correct alternative. In case no improvement is needed, click the option corresponding to \"No improvement\".</strong>&nbsp;</p>\n\n<p>Food or otherwise, product development is usually a lengthy process that entails understanding consumer needs <u>yet&nbsp;developing</u> products accordingly.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "and developing",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "for developed",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "and develop",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "but developing",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No improvement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong><u>and developing</u></strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>&nbsp;The underlined phrase should be replaced because the conjunction &#39;<strong>yet</strong>&#39; which means &#39;<u>but nevertheless</u>&#39; is inappropriate for the sentence.</p>\n\n<ul>\n\t<li>&#39;<strong>for</strong>&#39; is a <strong>preposition</strong> so, it cannot be used to join the clauses. Hence, <strong>option 2)</strong> is not the answer.</li>\n\t<li>&#39;<strong>but</strong>&#39; is used to join the clauses which are contrasting with each other.&nbsp;\n\t<ul>\n\t\t<li><u><strong>Example</strong></u>: <em>She will join us but we cannot wait for her</em>.</li>\n\t\t<li>The given clauses are not contrasting with each other. Therefore, <strong>option 4) </strong>should not be chosen.</li>\n\t</ul>\n\t</li>\n\t<li>&#39;<strong>and</strong>&#39; should be chosen for the given sentence because the clauses should be written jointly.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Mistake Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&#39;<strong>and</strong>&#39; is used in <strong>option 1)</strong> and <strong>option 3)</strong>.</li>\n\t<li>The word &#39;<strong>products</strong>&#39; is a <strong>noun</strong> and an <strong>adjective</strong> should be used with it to describe the word.</li>\n\t<li>&#39;<strong>developing</strong>&#39; is an <strong>adjective</strong> and &#39;<strong>develop</strong>&#39; is a <strong>verb</strong>. Therefore, <strong>option 3) </strong>should be eliminated and <strong>option 1)</strong> should be chosen as the answer.</li>\n</ul>\n\n<p><br />\n<u><strong>Correct sentence</strong></u>:&nbsp;<em>Food or otherwise, product development is usually a lengthy process that entails understanding consumer needs and developing products accordingly</em>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>A <strong>conjunction</strong>&nbsp;joins two <u>words, phrases or sentences</u>.</p>\n\n<ul>\n\t<li><u><strong>Example</strong></u>:&nbsp;<em>Vijay is poor but he is honest.<br />\n\t&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sam and Mark are joining us for lunch</em>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f8e5e1647ce591818ca1d6f",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>A sentence/a part of the sentence is underlined. Five alternatives are given to the underlined part which will improve the meaning of the sentence. Choose the correct alternative. In case no improvement is needed, click the option corresponding to \"No improvement\".&nbsp;</strong></p>\n\n<p>IT services will remain a significant part of the job environment in India as the demand for talent and services <u>continue to</u> grow in the country.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "continues to",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "continue into",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "continuing onto",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "continue towards",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No improvement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<strong>&nbsp;<u>continues to</u></strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The underlined phrase should be replaced because the word &#39;<strong>continue</strong>&#39; is incorrectly written.</p>\n\n<ul>\n\t<li>The <strong>subject</strong> of the verb &#39;<strong>continue</strong>&#39; is &#39;<strong>the demand</strong>&#39; which is a <u><strong>singular</strong> noun</u>.</li>\n\t<li>Therefore, the word &#39;<strong>continues</strong>&#39; should be used instead of &#39;<strong>continue</strong>&#39;.</li>\n\t<li>Hence, <strong>option 1)</strong> is the best fit.</li>\n</ul>\n\n<p><br />\n<u><strong>Correct sentence</strong></u>:&nbsp;<em>IT services will remain a significant part of the job environment in India as the demand for talent and services continues to grow in the country</em>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>A verb&nbsp;shows <u>an action or state of being</u>.</p>\n\n<ul>\n\t<li><u><strong>Example</strong></u>:&nbsp;<em>My mother <strong>is sleeping</strong>.</em></li>\n\t<li>The <strong>subject</strong> and the <strong>verb</strong> should always <u>agree in number</u>.&nbsp;</li>\n\t<li>&#39;<strong>My mother</strong>&#39; is a <strong>singular noun</strong>. That is why &#39;<strong>is</strong>&#39; which is a <strong>singular verb</strong> is used here.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f8e5929342ed7a312f71496",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>A sentence/a part of the sentence is underlined. Five alternatives are given to the underlined part which will improve the meaning of the sentence. Choose the correct alternative. In case no improvement is needed, click the option corresponding to \"No improvement\".&nbsp;</strong></p>\n\n<p>With the Covid-19 pandemic throwing up unique challenges, e-commerce majors <u>were leaving</u> no stone unturned in leveraging technology to woo customers.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "was leaving",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "is leaving",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "are leaving",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "were leaving by",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No improvement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is<strong>&nbsp;<u>are leaving</u></strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p>The underlined phrase should be replaced because the word &#39;<strong>were</strong>&#39; is not correct.</p>\n\n<ul>\n\t<li><strong>Past continuous tense</strong> is used to refer to <u>a past event&nbsp;that was going on when another event took place</u>.\n\n\t<ul>\n\t\t<li><u><strong>Example</strong></u>: <em>I was reading the newspaper when I heard the sound</em>.</li>\n\t\t<li>That is why the underlined phrase should be replaced.</li>\n\t\t<li>Clearly, <strong>option 1)</strong> cannot be chosen.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 4)</strong> is inappropriate for this sentence. So, <strong>option 4)</strong> should be eliminated.</li>\n\t<li>The sentence is hinting at an ongoing action. Hence,<strong> Present continuous tense</strong> can be used here.&nbsp;</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Mistake Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Present continuous tense</strong> is used in both <strong>option 2)</strong> and <strong>option 3)</strong>.</li>\n\t<li>&#39;<strong>is</strong>&#39; cannot be used because the <strong>subject </strong>of the verb i.e. &#39;<strong>e-commerce majors</strong>&#39; is a <strong>plural noun</strong>. So, &#39;<strong>are</strong>&#39; should be chosen.</li>\n\t<li>Therefore, <strong>option 2)</strong> should be eliminated and <strong>option 3)</strong> should be chosen.</li>\n</ul>\n\n<p><br />\n<u><strong>Correct sentence</strong></u>:&nbsp;<em>With the Covid-19 pandemic throwing up unique challenges, e-commerce majors are leaving no stone unturned in leveraging technology to woo customers.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cf5",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "<div><span style=\"\">According to the passage, what is one of the allegations Mr. Trump made against the World Health Organization (WHO)?</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Mishandling of financial resources",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Promoting fake medical news",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bias towards China",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Overestimating the COVID-19 impact",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Discriminating against African countries",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">Mr. Trump accused the World Health Organization (WHO) of being biased towards China.</span></li>\n\t<li><span style=\"\">This allegation was made in the context of the WHO&#39;s handling of the COVID-19 pandemic.</span></li>\n\t<li><span style=\"\">Mr. Trump reiterated this allegation by stating that the WHO was &ldquo;owned and controlled by China.&rdquo;</span></li>\n\t<li><span style=\"\">This accusation was one of the reasons for his decision to withdraw the United States from the WHO.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1: &ldquo;Mishandling of financial resources&rdquo;</strong> &ndash; This was not mentioned as one of Mr. Trump&rsquo;s allegations against the WHO in the passage.</span></li>\n\t<li><span style=\"\"><strong>Option 2: &ldquo;Promoting fake medical news&rdquo;</strong> &ndash; This was also not an allegation made by Mr. Trump in the passage.</span></li>\n\t<li><span style=\"\"><strong>Option 4: &ldquo;Overestimating the COVID-19 impact&rdquo;</strong> &ndash; Mr. Trump did not accuse the WHO of this in the passage.</span></li>\n\t<li><span style=\"\"><strong>Option 5: &ldquo;Discriminating against African countries&rdquo;</strong> &ndash; This was not part of the allegations mentioned in the passage.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cf7",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "<div><span style=\"\">Which of the following has not been cited in the passage as a role of the WHO?</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Implementing health programs for infectious diseases",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Ensuring equity of access to life-saving drugs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Building stronger educational systems",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Detecting and preventing disease outbreaks",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Promoting collaboration among nations",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The passage details several roles of the WHO, including implementing health programs for infectious diseases, ensuring equity of access to life-saving drugs, and detecting and preventing disease outbreaks.</span></li>\n\t<li><span style=\"\">The passage also highlights the importance of promoting collaboration among nations.</span></li>\n\t<li><span style=\"\">However, building stronger educational systems is not cited as a role of the WHO in the passage.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1: &ldquo;Implementing health programs for infectious diseases&rdquo;</strong> &ndash; This is mentioned in the passage as one of the roles of the WHO.</span></li>\n\t<li><span style=\"\"><strong>Option 2: &ldquo;Ensuring equity of access to life-saving drugs&rdquo;</strong> &ndash; This is also mentioned in the passage as one of the roles of the WHO.</span></li>\n\t<li><span style=\"\"><strong>Option 4: &ldquo;Detecting and preventing disease outbreaks&rdquo;</strong> &ndash; This is mentioned in the passage as well.</span></li>\n\t<li><span style=\"\"><strong>Option 5: &ldquo;Promoting collaboration among nations&rdquo;</strong> &ndash; This is highlighted in the passage as an essential aspect of tackling pandemics.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cf8",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "<div><span style=\"\">It can be inferred from the passage that the author&#39;s view on the U.S. withdrawal from WHO is:</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Supportive, as it will lead to better management of funds",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Neutral, as it will have no significant impact on global health",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Oppositional, due to the potential negative impact on global health initiatives",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Indifferent, because WHO will continue without U.S. contributions",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Optimistic, that other countries will fill the funding gap left by the U.S.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The author describes Mr. Trump&#39;s decision to withdraw the U.S. from the WHO as \"stunningly short sighted, and deeply concerning to the global health community.\"</span></li>\n\t<li><span style=\"\">The passage highlights the significant negative consequences of this decision, including the impact on health programs for HIV/AIDS, tuberculosis, and other infectious diseases.</span></li>\n\t<li><span style=\"\">The author emphasizes the importance of collaboration among nations and the sharing of data and technology to address global health challenges.</span></li>\n\t<li><span style=\"\">These points indicate that the author is oppositional to the U.S. withdrawal from the WHO due to its potential negative impact on global health initiatives.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1: &ldquo;Supportive, as it will lead to better management of funds&rdquo;</strong> &ndash; The author is clearly not supportive of the withdrawal.</span></li>\n\t<li><span style=\"\"><strong>Option 2: &ldquo;Neutral, as it will have no significant impact on global health&rdquo;</strong> &ndash; The author believes the withdrawal will have a significant negative impact on global health.</span></li>\n\t<li><span style=\"\"><strong>Option 4: &ldquo;Indifferent, because WHO will continue without U.S. contributions&rdquo;</strong> &ndash; The author is not indifferent but rather deeply concerned about the consequences of the withdrawal.</span></li>\n\t<li><span style=\"\"><strong>Option 5: &ldquo;Optimistic, that other countries will fill the funding gap left by the U.S.&rdquo;</strong> &ndash; The author does not express optimism that other countries will fill the funding gap.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cf9",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<div><span style=\"\">Which of the following best states the central idea of the passage?</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The U.S. should prioritize its national interests over global organizations.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The U.S. withdrawal from WHO will have profound negative impacts on global health efforts.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "WHO&#39;s funding structure needs reform to ensure fairness and equality.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Global collaboration is more important than ever in combating pandemics.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The U.S. health policies under President Trump have been highly beneficial.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The passage critiques the U.S. decision to withdraw from WHO, describing it as \"stunningly short sighted\" and highlights the potential negative impacts on global health initiatives.</span></li>\n\t<li><span style=\"\">The author details the crucial roles WHO plays in global health, including funding various health programs and ensuring equity of access to life-saving drugs.</span></li>\n\t<li><span style=\"\">The passage emphasizes the negative consequences of the U.S. withdrawal on these health efforts and the broader importance of global collaboration in combating pandemics.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1: &ldquo;The U.S. should prioritize its national interests over global organizations&rdquo;</strong> &ndash; This is not the central idea of the passage. The author argues against the U.S. withdrawal from WHO.</span></li>\n\t<li><span style=\"\"><strong>Option 3: &ldquo;WHO&#39;s funding structure needs reform to ensure fairness and equality&rdquo;</strong> &ndash; The passage does not focus on the need for reforming WHO&#39;s funding structure.</span></li>\n\t<li><span style=\"\"><strong>Option 4: &ldquo;Global collaboration is more important than ever in combating pandemics&rdquo;</strong> &ndash; While the passage emphasizes the importance of global collaboration, the central idea is the negative impact of the U.S. withdrawal from WHO.</span></li>\n\t<li><span style=\"\"><strong>Option 5: &ldquo;The U.S. health policies under President Trump have been highly beneficial&rdquo;</strong> &ndash; The passage critiques President Trump&#39;s decision and does not argue that his health policies have been beneficial.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cfa",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p><span style=\"\">According to the passage, which of the following statements is correct?</span></p>\n\n<p><span style=\"\"><strong>A)</strong> WHO is a recent establishment with limited financial contributions from major countries.</span></p>\n\n<p><span style=\"\"><strong>B)</strong> Mr. Trump initiated a move to halt funding to WHO during his previous term as U.S. President.</span></p>\n\n<p><span style=\"\"><strong>C) </strong>The move to leave WHO requires a 12-month period before it is finalized.</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "B and C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "A and C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is </span><strong><span style=\"color: rgb(33, 37, 41);\">Option 4</span></strong><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></div>\n\n<ul>\n\t<li><strong><span style=\"\">Statement A: <em>WHO is a recent establishment with limited financial contributions from major countries.</em></span></strong>\n\n\t<ul>\n\t\t<li><span style=\"\">This statement is <strong>incorrect</strong> as the passage mentions that WHO is a founding organization with significant contributions, especially from the U.S.</span></li>\n\t</ul>\n\t</li>\n\t<li><strong><span style=\"\">Statement B: <em>Mr. Trump initiated a move to halt funding to WHO during his previous term as U.S. President.</em></span></strong>\n\t<ul>\n\t\t<li><span style=\"\">This statement is <strong>correct</strong> as the passage confirms that Mr. Trump did initiate such a move during his previous term.</span></li>\n\t</ul>\n\t</li>\n\t<li><strong><span style=\"\">Statement C: <em>The move to leave WHO requires a 12-month period before it is finalized.</em></span></strong>\n\t<ul>\n\t\t<li><span style=\"\">This statement is <strong>correct</strong> as per the passage which mentions that the U.S. will leave WHO in 12 months and stop all financial contributions.</span></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"color: rgb(33, 37, 41);\">Hence, the correct statements are <strong>Statement B and Statement C.</strong></span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is: &lsquo;</span><strong><span style=\"color: rgb(33, 37, 41);\">B and C</span></strong><span style=\"\">&rsquo;.</span></div>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cfb",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "<div><span style=\"\">What will fit in the blank taken from the passage: \"As fantastic as it may sound, medicine is no _______ to miracles of science, and the health community hopes one more will restore the U.S. back to WHO&rsquo;s fold.\"</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "exception",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "obstacle",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "gateway",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "stranger",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "answer",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is &#39;</span><span style=\"color: rgb(33, 37, 41);\"><strong>stranger</strong>&#39;</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The word \"<strong>stranger</strong>\" fits the context of the sentence as it conveys that medicine is familiar with the miracles of science.</span></li>\n\t<li><span style=\"\">The phrase \"medicine is no stranger to miracles of science\" means that medical advancements frequently result from scientific breakthroughs.</span></li>\n\t<li><span style=\"\"><strong>Options 1, 2, 3,</strong> and <strong>5</strong> do not fit the context of the sentence correctly.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is <strong>Option 4</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Complete Sentence:</strong> <em>\"As fantastic as it may sound, medicine is no <u><strong>stranger</strong></u> to miracles of science, and the health community hopes one more will restore the U.S. back to WHO&rsquo;s fold.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>Option 1: \"exception\"</strong> is incorrect because it does not convey that medicine is familiar with miracles of science.</span></li>\n\t<li><span style=\"\"><strong>Option 2: \"obstacle\"</strong> is incorrect; \"obstacle\" indicates a hindrance, which is not suitable here.</span></li>\n\t<li><span style=\"\"><strong>Option 3: \"gateway\"</strong> is incorrect because it implies an entry point, which does not fit the context.</span></li>\n\t<li><span style=\"\"><strong>Option 5: \"answer\"</strong> is incorrect; the phrase would not make sense in the context.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cfc",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<div><span style=\"\">Which of the following words is similar in meaning to \"<strong>petulance</strong>\" in the context of the passage?</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Indifference",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Irritability",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Caution",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Determination",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Wisdom",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is: <b>Option 2</b>&nbsp;i.e., <strong>Irritability</strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The word <strong>\"petulance\"</strong> means being childishly sulky or bad-tempered. (चिड़चिड़ापन)\n\n\t<ul>\n\t\t<li><strong>Example: </strong>His <strong>petulance </strong>was evident when he began to sulk after not getting his way.</li>\n\t</ul>\n\t</li>\n\t<li><strong>\"Irritability\"</strong> refers to the quality of being easily annoyed or angered. (चिड़चिड़ापन)\n\t<ul>\n\t\t<li><strong>Example: </strong>The teacher&#39;s <strong>irritability </strong>grew as the students continued to talk during the lecture.</li>\n\t</ul>\n\t</li>\n\t<li>Hence, we can infer that the word similar in meaning to <strong>&#39;petulance&#39;</strong> is <strong>&#39;irritability&#39;</strong>.</li>\n</ul>\n\n<p>Therefore, the correct answer is: <strong>Irritability</strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>Here are the other options explained along with their Hindi meanings and example sentences:</p>\n\n<ul>\n\t<li><strong>Indifference </strong>(<span style=\"color: rgb(33, 37, 41);\">उदासीनता</span>): Lack of interest, concern, or sympathy.\n\n\t<ul>\n\t\t<li><strong>Example:</strong> His <strong>indifference </strong>to the suffering of others was quite startling.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Caution </strong>(<span style=\"color: rgb(33, 37, 41);\">सावधानी</span>): Care taken to avoid danger or mistakes.\n\t<ul>\n\t\t<li><strong>Example: </strong>He approached the wild animal with great <strong>caution</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Determination</strong> (<span style=\"color: rgb(33, 37, 41);\">दृढ़ संकल्प</span>): Firmness of purpose; resoluteness.\n\t<ul>\n\t\t<li><strong>Example:</strong> Her <strong>determination </strong>to succeed despite the odds was truly inspiring.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Wisdom </strong>(<span style=\"color: rgb(33, 37, 41);\">बुद्धिमत्ता</span>): The quality of having experience, knowledge, and good judgement.\n\t<ul>\n\t\t<li><strong>Example: </strong>With age comes <strong>wisdom</strong>, as they say.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "67a06367048bcdf66cb56cfd",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<div><span style=\"\">Which of the following words is opposite in meaning to \"<strong>stunningly</strong>\" in the context of the passage?</span></div>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Surprisingly",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Shocking",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Predictably",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Amazingly",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Incredibly",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is: <b>Option 3) </b>i.e., <strong>Predictably</strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The word <strong>\"stunningly\"</strong> means something that causes astonishment or shock due to its unexpected nature. (चकित करने वाला)\n\n\t<ul>\n\t\t<li><strong>Example: </strong>The magician&#39;s trick was so <strong>stunningly </strong>executed that everyone in the audience was left speechless.</li>\n\t</ul>\n\t</li>\n\t<li><strong>\"Predictably\"</strong> refers to something that can be foreseen or anticipated beforehand. (पूर्वानुमानित)\n\t<ul>\n\t\t<li><strong>Example: </strong>The outcome of the match was <strong>predictably </strong>in favour of the stronger team.</li>\n\t</ul>\n\t</li>\n\t<li>Hence, we can infer that the opposite of <strong>&#39;stunningly&#39;</strong> is <strong>&#39;predictably&#39;</strong>.</li>\n</ul>\n\n<p>Therefore, the correct answer is: <strong>Predictably</strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>Here are the other options explained along with their Hindi meanings and example sentences:</p>\n\n<ul>\n\t<li><strong>Surprisingly </strong>(<span style=\"color: rgb(33, 37, 41);\">हैरान करने वाला</span>): Something that happens unexpectedly.\n\n\t<ul>\n\t\t<li><strong>Example:</strong> <strong>Surprisingly</strong>, the underdog team won the championship.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Shocking </strong>(<span style=\"color: rgb(33, 37, 41);\">चौंकाने वाला</span>): Something that causes intense surprise or disgust.\n\t<ul>\n\t\t<li><strong>Example: </strong>The scandal was <strong>shocking </strong>to the entire community.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Amazingly</strong> (<span style=\"color: rgb(33, 37, 41);\">अद्भुत रूप से</span>): In a way that causes great surprise or wonder.\n\t<ul>\n\t\t<li><strong>Example:</strong> The athlete performed <strong>amazingly </strong>well at the Olympics.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Incredibly </strong>(<span style=\"color: rgb(33, 37, 41);\">अविश्वसनीय रूप से</span>): Something that is hard to believe; extraordinary.\n\t<ul>\n\t\t<li><strong>Example: </strong>The view from the mountain top was <strong>incredibly </strong>beautiful.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c6a6dbcfdb8bb0666d7219f",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, two columns are given, containing three phrases each. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a correct sentence. If none of the phrases make a correct sentence, mark &lsquo;None of these&rsquo; as your answer.</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 250px;\">\n\t\t\t<p><strong>Column (1)</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Column (2)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"vertical-align: top;\">\n\t\t\t<p>(A)&nbsp;Schematic diagrams do not include details that are not&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(D) necessary for comprehending the information that the diagram was intended to convey.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>(B)&nbsp;In a schematic diagram depicting an electrical circuit, one can see how the wires and components are</p>\n\t\t\t</td>\n\t\t\t<td style=\"vertical-align: top;\">\n\t\t\t<p>(E)&nbsp;&nbsp;connected together, but not photographs of the circuit itself.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"vertical-align: top;\">\n\t\t\t<p>(C) Although schematic diagrams are&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>(F)&nbsp;commonly associated with electrical circuits, many examples can be found in other industries.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-F",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<p>C-F and B-D</p>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C-D and B-F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>Let&#39;s join the sentences to&nbsp;give a contextually and grammatically meaningful sentence.&nbsp;</p>\n\n<p><span style=\"font-weight: 700;\">The correct sequences are:</span></p>\n\n<p>A uses the negative &#39;not&#39; already, so the next part should not contain any other word like &#39;but&#39; that also expresses negation. It is only shown by&nbsp;D. So,&nbsp;<span style=\"font-weight: 700;\">A-D</span></p>\n\n<p>B talks about &#39;wires and components&#39;, which &#39;are connected together&#39; in&nbsp;E. So,&nbsp;<span style=\"font-weight: 700;\">B-E</span></p>\n\n<p>B-D may seem to make a correct sentence; but it does not convey a full meaning, as opposed to B-E. Also, the reverse, A-E cannot form a coherent sentence., So, B-E is correct.</p>\n\n<p>C uses the conjunction &#39;although&#39;, suggesting that the next part is a complete sentence (without any other conjunctions like &#39;but&#39;), as given by F.&nbsp;So,&nbsp;<span style=\"font-weight: 700;\">C-F</span></p>\n\n<p>Out of these, only&nbsp;<strong>B-E</strong>&nbsp;is expressed in the given options.</p>\n<strong>Therefore, the correct answer is option 3.</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c6a8cc3fdb8bb191d4f6ca9",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "<p><strong>In the following question, two columns are given, containing three phrases each. A phrase from the first column may or may not connect with a phrase from the second column to make a grammatically and contextually correct sentence. There are five options, four of which display the sequence(s) in which the phrases can be joined to form a correct sentence. If none of the phrases make a correct sentence, mark &lsquo;None of these&rsquo; as your answer.</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:319px;height:43px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Column (1)</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:319px;height:43px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Column (2)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:319px;height:48px;\">\n\t\t\t<p>(A)&nbsp;The CAG has found fault with Dassault Aviation being allowed to retain the gains made</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:319px;height:48px;\">\n\t\t\t<p>(D)&nbsp;its absence in the 2016 contract is a clear benefit to the company.&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:319px;height:48px;\">\n\t\t\t<p>(B)&nbsp;Disappointingly, the CAG has not quantified the&nbsp;amount,</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:319px;height:48px;\">\n\t\t\t<p>(E)&nbsp;by the absence of a bank guarantee, which, if executed, would have come with significant charges.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:319px;height:59px;\">\n\t\t\t<p>(C)The 2007 contract price offered by Dassault included bank charges, and</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:319px;height:59px;\">\n\t\t\t<p>(F)&nbsp;though it declares that it should have been passed on to the Defence Ministry.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A-F",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "C-F and B-D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B-E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "C-D and B-F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is <strong>option (4) i.e. C-D and B-F</strong></p>\n\n<p><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<p>Let&#39;s join the sentences to&nbsp;give a contextually and grammatically meaningful sentence.&nbsp;</p>\n\n<p><span style=\"font-weight: 700;\">The correct sequences are:</span></p>\n\n<ul>\n\t<li>A talks about &#39;gains&#39; made, which is connected to the charges in E; and it also begins with &#39;by&#39;.&nbsp;So,&nbsp;<span style=\"font-weight: 700;\">A-E</span></li>\n\t<li>B gives a complete sentence; which suggests the next part must begin with a conjunction. This is given by &#39;though&#39;, which is F. So,&nbsp;<span style=\"font-weight: 700;\">B-F</span></li>\n\t<li>C talks about &#39;contract price&#39;, which is related to &#39;2016 contract&#39; in D. So,&nbsp;<span style=\"font-weight: 700;\">C-D</span></li>\n\t<li>Out of these, only&nbsp;C-D and B-F are&nbsp;expressed in the given options.</li>\n</ul>\nTherefore, the correct answer is <strong>option 4.&nbsp;</strong><img height=\"20\" src=\"https://lh6.googleusercontent.com/y1cKfg_pVJdmTbMnht-xTHus0cBwQOJKJXDJd29LVRU0p3pzILWWXJWdY836pYdJgew2_Qh98suSbvd3gqqa3kkusEHoRnM0H_YNf2QhEhmASHGd8fcMh2h2icSeUpD5bPPHuoFB\" style=\"white-space: pre-wrap; margin-left: 0px; margin-top: 0px;\" width=\"20\" />",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:21.206Z",
+    "solutionsCount": 20,
+    "isComplete": true
+  }
+}

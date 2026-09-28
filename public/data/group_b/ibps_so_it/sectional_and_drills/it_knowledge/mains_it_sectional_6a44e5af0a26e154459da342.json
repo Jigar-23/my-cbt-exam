@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e5af0a26e154459da342",
+  "title": "IBPS SO IT Prelims Sectional Test 3",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "ST (Professional Knowledge)",
+  "subsectionCategory": "IT Officer",
+  "pattern": "MAINS_IT_SECTIONAL",
+  "stage": "MAINS",
+  "hasITInPrelims": true,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 50,
+  "sections": [
+    {
+      "id": "6a44c919e61a47bbb4745ded",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 50,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6672b397296bdf798a33277b",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which of the following Relational Algebra operations can be used when you want to keep all the tuples of the first&nbsp;relation irrespective of whether or not they have matching tuples in the second relation?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Natural join",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Left-outer join",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Right-outer-join",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Theta join",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Join",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<strong>The answer to the above question is Option 2) Left-outer Join<br />\nA JOIN clause is used to combine rows from two or more tables, based on a related column between them.</strong>\n\n<p>Here are the different types of the JOINs in SQL:</p>\n\n<ol>\n\t<li><strong>(INNER) JOIN</strong>: Returns records that have matching values in both tables</li>\n\t<li><strong>LEFT (OUTER) JOIN</strong>: Returns all records from the left table, and the matched records from the right table</li>\n\t<li><strong>RIGHT (OUTER) JOIN</strong>: Returns all records from the right table, and the matched records from the left table</li>\n\t<li><strong>FULL (OUTER) JOIN</strong>: Returns all records when there is a match in either left or right table</li>\n</ol>\n\n<p>We can see that left join keeps all the elements from the first relation irrespective of their presence in second relation.</p>\n\n<p>Diagram to visualize joins:<br />\n<img alt=\"Sql Joins - DEV Community\" src=\"//storage.googleapis.com/tb-img/production/22/02/F1__Harshita11-2-22_Savita_D16.png\" style=\"height: 194px; width: 221px;\" /></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6945032907511edbf2804f25",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "A company uses a Virtual Private Network (VPN) for remote employees accessing the corporate network. Conceptually, what does a VPN primarily provide?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">A secure, encrypted tunnel over public networks</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Faster internet speeds&nbsp;&nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Automatic virus scanning",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Unlimited data storage",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Wireless connectivity only",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">A secure, encrypted tunnel over public networks</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">VPN</span></u>&nbsp;stands for Virtual Private Network.</li>\n\t<li>A VPN creates a&nbsp;<span style=\"font-weight: bolder;\">secure and encrypted connection</span>&nbsp;between a user&rsquo;s device and the corporate network.</li>\n\t<li>It&nbsp;<span style=\"font-weight: bolder;\">protects data</span>&nbsp;from being intercepted or viewed by unauthorized entities.</li>\n\t<li>It allows remote employees to&nbsp;<span style=\"font-weight: bolder;\">safely access corporate resources</span>&nbsp;over public networks, such as the internet.</li>\n\t<li>VPNs are widely used to&nbsp;<span style=\"font-weight: bolder;\">maintain security and privacy</span>&nbsp;while working remotely.</li>\n\t<li>They also mask the user&rsquo;s&nbsp;<span style=\"font-weight: bolder;\">IP address</span>&nbsp;to provide anonymity online.</li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>Firewall:</strong>\n\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">A firewall is a network security device that monitors and controls incoming and outgoing network traffic based on security rules.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">It helps prevent unauthorized access to or from a private network.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Antivirus:</strong>\n\t<ul>\n\t\t<li>Antivirus software protects a computer system from malware, including viruses, worms, and trojans.</li>\n\t\t<li>It scans, detects, and removes malicious files from a system.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>Encryption:</strong>\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Encryption is the process of converting data into a code to prevent unauthorized access.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Encrypted data can only be read by someone with the correct decryption key.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c626aa8fdb8bb04d8f6c897",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Which of the following is not an antivirus software?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "iOS",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Kaspersky",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "AVG",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "McAfee",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Norton",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>An antivirus is a utility software meant for preventing those malicious programs which may harm the computer.</p>\n\n<p>E.g. Kaspersky, AVG, McAfee, Quick Heal etc.</p>\niOS is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that presently powers many of the company&#39;s mobile devices, including the iPhone, iPad, and iPod Touch.&nbsp;",
+          "topic": "Test"
+        },
+        {
+          "id": "64b94e624a630e61eff1f438",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p>Consider the following relation schema:</p>\n\n<p>Product(id, name, price)</p>\n\n<p>What will be the output of the following SQL code?</p>\n\n<p>SELECT max(price)</p>\n\n<p>FROM Product</p>\n\n<p>WHERE price < (SELECT max(price) FROM Product);</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Second highest price of a product",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Second lowest price of a product",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Highest price of a product",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Lowest price of a product",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above/More than one of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is<strong> option 1.</strong></p>\n\n<p><strong>Concept:</strong></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Order or SQL query&nbsp;evaluation:</span></p>\n\n<ol style=\"\">\n\t<li>From: Cartesian product of tables.</li>\n\t<li>Where: Select the rows.</li>\n\t<li>Group by: Divide the rows into groups.</li>\n\t<li>Having: Select the groups.</li>\n\t<li>Expressions:&nbsp;Expressions&nbsp;In select are evaluated.</li>\n\t<li>Distinct:&nbsp;Distinct in select (Eliminate the duplicates).</li>\n\t<li>Ser-Operations: (Union, intersect, Except)</li>\n\t<li>Order By: Sort the rows.</li>\n</ol>\n\n<p><strong>Relation schema:</strong></p>\n\n<p style=\"\">Product(id, name, price)</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>id</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>name</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>price</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">1</td>\n\t\t\t<td style=\"text-align: center;\">Ram</td>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2</td>\n\t\t\t<td style=\"text-align: center;\">Ravi</td>\n\t\t\t<td style=\"text-align: center;\">120</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">3</td>\n\t\t\t<td style=\"text-align: center;\">Raju</td>\n\t\t\t<td style=\"text-align: center;\">90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">4</td>\n\t\t\t<td style=\"text-align: center;\">Richard</td>\n\t\t\t<td style=\"text-align: center;\">105</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\"><strong>Query:</strong></p>\n\n<p style=\"\">SELECT max(price)</p>\n\n<p style=\"\">FROM Product</p>\n\n<p style=\"\">WHERE price < (SELECT max(price) FROM Product);</p>\n\n<p style=\"\"><strong>Step 1:</strong></p>\n\n<p style=\"\">Choose the product table from the database.</p>\n\n<p style=\"\"><strong>Step 2:</strong></p>\n\n<p style=\"\">Go to the conditions in where clause,&nbsp;<span style=\"\">price < (SELECT max(price) FROM Product);</span></p>\n\n<p style=\"\"><strong><span style=\"\">Step 3:</span></strong></p>\n\n<p style=\"\">Execute the inner query, and select the product table from the database.</p>\n\n<p style=\"\"><strong>Step 4:</strong></p>\n\n<p style=\"\"><span style=\"\">Evaluate</span>&nbsp;the expressions, and select the max price from the database. And gives output to the outer query.</p>\n\n<p style=\"\"><span style=\"\">Asper example max price</span><span style=\"\">&nbsp;is<strong> 120.</strong></span></p>\n\n<p style=\"\"><strong>Step 5:</strong></p>\n\n<p style=\"\">The outer query compares the next max value(second max value)&nbsp;of the price with the output inner query.&nbsp;</p>\n\n<p style=\"\">The output of the query&nbsp;second-highest<span style=\"\">&nbsp;price of a product satisfies these conditions (max price < inner query max price).</span></p>\n\n<p style=\"\">As per the example, it compares like,</p>\n\n<p style=\"\">Max value of price in the outer query, 120<120 is<span style=\"font-weight: 700;\">&nbsp;false.</span></p>\n\n<p style=\"\">The next max value of price in the outer query 105<120 is&nbsp;<span style=\"font-weight: 700;\">True.&nbsp;</span>Here 105 is the second-highest price of the product.</p>\n\n<p style=\"\"><span style=\"\"><strong>Hence the correct answer is</strong><em>&nbsp;the second-highest price of a product.</em></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605cb22f38f27512476ae7ea",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "A queue is a ______ data structure in which elements can be inserted only at one end called ______ and deleted only at the other end called ______.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Linear, Front, Rear",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Linear, Rear, Front",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Non-linear, Front, Rear",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Non-linear, Rear, Front",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Linear, Rear, Non-linear",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong><span style=\"color: rgb(33, 37, 41);\">Linear, Rear, Front</span></strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Queue definition (FIFO):</strong> A queue is a <em>linear</em> data structure that follows <strong>First-In, First-Out</strong>. The element inserted first is removed first.</li>\n\t<li><strong>Ends of a queue:</strong> Insertion (enqueue) happens at the <strong>Rear</strong>, and deletion (dequeue) happens at the <strong>Front</strong>.</li>\n\t<li><strong>Why Option 2 fits:</strong> It matches the standard queue operations exactly &mdash; <em>Linear, Rear, Front</em>.</li>\n\t<li><strong>Why others are incorrect:</strong>\n\t<ul>\n\t\t<li><strong>Option 1 (Linear, Front, Rear):</strong> Reverses the ends; insertion is not at Front.</li>\n\t\t<li><strong>Options 3 &amp; 4 (Non-linear ...):</strong> A queue is <em>not</em> non-linear; it is linear.</li>\n\t\t<li><strong>Option 5 (Linear, Rear, Non-linear):</strong> Mixed/invalid description; a queue isn&rsquo;t partly non-linear.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Implementation:</strong> Queues can be implemented using arrays or linked lists; circular queues optimize array usage.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Common operations:</strong> <code>enqueue()</code> at Rear, <code>dequeue()</code> at Front, <code>peek()</code>/<code>front()</code>, <code>isEmpty()</code>, <code>isFull()</code> (for array-based queues).</li>\n\t<li><strong>Variants:</strong> Double-ended queue (Deque), Priority queue (orders by priority, not strictly FIFO), and Circular queue.</li>\n\t<li><strong>Applications:</strong> Scheduling (CPU, I/O), buffering (print spooling, network packets), BFS in graphs.</li>\n</ul>\n\n<p><strong>Hence, the correct answer is:</strong> <strong>option 2) Linear, Rear, Front</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "694505dd07511edbf280825c",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Which OSI layer is responsible for establishing, managing, and terminating sessions?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Application",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Transport",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Network",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Session",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Presentation",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: , );\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">Session</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: ();\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: (, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">Session layer</span></u>&nbsp;is the fifth layer in the OSI model.</li>\n\t<li>The session layer is responsible for&nbsp;<span style=\"font-weight: bolder;\">establishing, managing, and terminating sessions</span>&nbsp;between applications.</li>\n\t<li>It ensures that the&nbsp;<span style=\"font-weight: bolder;\">data exchange</span>&nbsp;is properly synchronized and maintained.</li>\n\t<li>This layer provides mechanisms for&nbsp;<span style=\"font-weight: bolder;\">dialog control</span>&nbsp;and token management.</li>\n\t<li>The session layer allows two systems to&nbsp;<span style=\"font-weight: bolder;\">communicate over a network</span>&nbsp;efficiently.</li>\n\t<li>Examples of protocols that operate at this layer include&nbsp;<span style=\"font-weight: bolder;\">NetBIOS and RPC.</span></li>\n</ul>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: (33, 37, 41);\"><strong>Application Layer:</strong>\n\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">It is the topmost layer of the OSI model, providing end-user services.</li>\n\t\t<li style=\"color: (33, 37, 41);\">Examples include HTTP, FTP, and SMTP.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Transport Layer:</strong>\n\t<ul>\n\t\t<li>Responsible for end-to-end communication and error handling.</li>\n\t\t<li>Protocols like TCP and UDP operate at this layer.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: (33, 37, 41);\"><strong>Network Layer:</strong>\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">It handles data routing, forwarding, and addressing through IP protocols.</li>\n\t\t<li style=\"color: (33, 37, 41);\">Examples include IPv4 and IPv6.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Presentation Layer:</strong>\n\t<ul>\n\t\t<li>Responsible for data translation, encryption, and compression.</li>\n\t\t<li>It ensures data is in a readable format for the application layer.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61f6857618fe6ce9aec1b20c",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "What is a shell script?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "group of commands",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "a file containing special symbols",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "a file containing a series of commands",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "group of functions",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "a file containing a series of method",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is<strong> option 3.</strong></p>\n\n<p><strong>Concept:</strong></p>\n\n<p>&nbsp; A shell script is a computer program that runs on the Unix shell, which is a command-line interpreter. Shell scripts come in a variety of dialects, which are referred to as scripting languages. Shell scripts can execute a variety of tasks, including file manipulation, program execution, and text output.&nbsp;</p>\n\n<p>&nbsp; When we need to run a <strong>number of commands in a row, we save them in a file</strong> that is then run as a shell script. A shell script is a computer program that is designed to execute through the UNIX shell. A shell <strong>script is&nbsp;<span style=\"\">a file containing a series of commands.</span></strong></p>\n\n<p><strong>Hence the correct answer is</strong>&nbsp;<em><span style=\"\">a file containing a series of commands.</span></em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6945032cee3526a637e917d1",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Regular patching of network devices during maintenance ensures what basic security outcome?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Aesthetic improvements",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Brighter LED lights&nbsp; &nbsp;</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Higher user counts",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Longer warranty periods",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Closure of known vulnerabilities</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">Closure of known vulnerabilities</span></u>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">Regular patching</span></u>&nbsp;is a critical activity to address vulnerabilities in network devices.</li>\n\t<li>It ensures&nbsp;<span style=\"font-weight: bolder;\">protection against known security threats</span>&nbsp;by applying updates provided by manufacturers.</li>\n\t<li>These updates&nbsp;<span style=\"font-weight: bolder;\">fix flaws</span>&nbsp;that could potentially be exploited by attackers.</li>\n\t<li>Unpatched systems are&nbsp;<span style=\"font-weight: bolder;\">more prone to breaches</span>&nbsp;and can compromise overall network security.</li>\n\t<li>Regular maintenance and patching also&nbsp;<span style=\"font-weight: bolder;\">enhance system stability and performance.</span></li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>Security Patching:</strong>\n\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">It involves deploying updates to software and firmware to address security vulnerabilities.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">These patches are often released in response to newly identified threats or exploits.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Network Security Best Practices:</strong>\n\t<ul>\n\t\t<li>Perform regular vulnerability assessments to identify potential risks.</li>\n\t\t<li>Implement automated patch management tools for timely updates.</li>\n\t\t<li>Ensure proper documentation and testing before applying patches in production environments.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61e7da3b644fdb9942e9e25e",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p>Consider the following EMP table and answer the question below.</p>\n\n<table align=\"left\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>EMP_NO</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>SALARY</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>GRADE</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E001</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>1000</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E1</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E002</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>2000</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E4</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E003</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>1500</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E2</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E004</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>4000</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E4</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Which of the following select statement should be executed if we need to display the average salary of employees who belong to grade \"E4\"?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "select avg(salary) from EMP whose grade=\"E\",",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "select avg(salary) from EMP having grade=\"E4\";",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "select avg(salary) EMP group by grade where grade=\"E4\";",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "select avg(salary) from EMP group by grade having grade=\"E4\";",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">select avg(salary) from EMP group by grade having grade=\"E\";</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <strong>\"option 4\".</strong></p>\n\n<p><u><strong>CONCEPT:</strong></u></p>\n\n<p><strong>GROUP BY&nbsp;</strong>clause<strong>:</strong> The<strong> GROUP BY&nbsp;</strong>clause in SQL is used to <strong>group the rows having the same values.</strong></p>\n\n<p><b>HAVING</b> clause: <strong>HAVING</strong> clause in SQL is used <strong>instead of WHERE</strong> with an <strong>aggregate function.</strong></p>\n\n<p><strong><u>EXPLANATION:</u></strong></p>\n\n<p>Here,&nbsp;</p>\n\n<p><strong>Group by grade</strong> will produce the following table:</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>EMP_NO</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>SALARY</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>GRADE</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E001</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>1000</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E1</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E003</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>1500</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E2</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E002</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>2000</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E4</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>E004</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>4000</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>E4</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>The SQL query <strong>\"select avg(salary) from EMP group by grade having grade=\"E4\" \"&nbsp;</strong>will produce the output <strong>average&nbsp;salary of employees who belong to grade \"E4\".</strong></p>\n\n<p><strong>Final output:</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>SALARY</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>6000</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Hence, the correct answer is \"option 4\".</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5876396f0328211dd0a82957",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Which among the following statement best defines the hamming distance between two words?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Number of differences between corresponding bits.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Number of distances between corresponding bits.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Amount of differences between corresponding bits.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Sequence of differences between corresponding bits.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Hamming distance between two words is the number of differences between corresponding bits. It is used in information theory as well as coding theory.",
+          "topic": "Test"
+        },
+        {
+          "id": "6935d424866e7bea97fd18f8",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "Which SQL statement best retrieves rows where a matching record does NOT exist in a related table?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "INNER JOIN",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "UNION",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "EXISTS",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "NOT EXISTS",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "INTERSECT",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <u><strong><span style=\"color: rgb(33, 37, 41);\">NOT EXISTS.</span></strong></u></p>\n\n<p><u><strong><span style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>The <code>NOT EXISTS</code> clause is used in SQL to retrieve rows from a table where a specific condition is not met in a related table.</strong></li>\n\t<li>It checks for the absence of matching records in a subquery and returns rows from the outer query when no matches are found.</li>\n\t<li><strong>Example:</strong> To retrieve all customers who have not placed any orders, we can use the <code>NOT EXISTS</code> clause like this:\n\t<pre>\n<code>SELECT customer_id, customer_name \nFROM customers c\nWHERE NOT EXISTS (\n    SELECT 1 \n    FROM orders o \n    WHERE o.customer_id = c.customer_id\n);</code></pre>\n\t</li>\n\t<li>This query retrieves customers from the <code>customers</code> table who do not have a corresponding record in the <code>orders</code> table.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>INNER JOIN:</strong> Retrieves rows that have matching values in both tables. It is used when you want records that exist in both tables.</li>\n\t<li><strong>UNION:</strong> Combines the result sets of two or more SELECT queries, removing duplicates. It is not used for checking the absence of records.</li>\n\t<li><strong>EXISTS:</strong> Checks for the existence of matching rows in a subquery. It is used to verify the presence of records, not their absence.</li>\n\t<li><strong>INTERSECT:</strong> Retrieves rows that are present in both result sets of two SELECT queries. It does not check for the absence of records.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5d972945f60d5d721e0e8df4",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Which field is/are present in UDP header?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Sequence number",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Acknowledgment number",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Checksum",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Source Port number",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Only 3 and 4",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>User Datagram Protocol (UDP):</strong></p>\n\n<p>UDP is an unreliable connectionless-transport layer Protocol used for its simplicity and efficiency in applications where error can be provided by the application layer.</p>\n\n<p><strong>Diagram:</strong> UDP Header</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/19/10/Bank_SO_IT_01_16Q_Protocols_Hindi_D1.PNG\" style=\"width: 349px; height: 93px;\" /></p>\n\n<p>Fields in UPD header: Source Port, Destination Port, Length and Checksum<o:p></o:p></p>\n\n<p>Therefore option 5 is correct</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "61effbbc8494db74e48bdff7",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Using division method [n(k) = k mod m)], at which position 177 and 197 key values are stored in hash table when the size of hash table is 57?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "26, 6",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "27, 7",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">None of these</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7, 27",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">6, 26&nbsp;</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>\n\n<p><strong>Concept:</strong></p>\n\n<p><strong>Division Method:</strong></p>\n\n<p>This is the easiest method to create a hash function. The hash function can be described as</p>\n\n<p>&nbsp;h(k) = k mod n</p>\n\n<p>Here, h(k) is the hash value obtained by dividing the key-value k by the size of hash table n using the remainder. It is best that n is a prime number as that makes sure the keys are distributed with more uniformity. So here mod operation gives a reminder of k and m.</p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>57 &times;&nbsp;1 = 57</p>\n\n<p>57 &times; 2 = 114</p>\n\n<p>57 &times; 3 = 171</p>\n\n<p>So both&nbsp;are close to 171,</p>\n\n<p>171 + 6 = 177</p>\n\n<p>171 + 26 = 197</p>\n\n<p>&nbsp;h(177) = 177&nbsp;mod 57 = 6</p>\n\n<p>&nbsp;h(197) = 197&nbsp;mod 57 = 26</p>\n\n<p>positions are 6, 26 of 177 and 197 respectivly.</p>\n\n<p><strong>Hence the correct answer is</strong> <em>6, 26.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6944fa0a7bc249906b6c4e09",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "What can unintentionally create a Cartesian product?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Missing JOIN keyword",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Incorrect ON condition",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "FULL JOIN",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "LEFT JOIN",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "EXISTS clause",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">Incorrect ON condition</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">Incorrect ON condition</span></u>&nbsp;can unintentionally create a Cartesian product in SQL queries.</li>\n\t<li>When the&nbsp;<span style=\"font-weight: bolder;\">ON condition</span>&nbsp;in a JOIN clause is incorrect or missing, all rows from the tables being joined are combined, leading to a Cartesian product.</li>\n\t<li>A Cartesian product occurs when&nbsp;<span style=\"font-weight: bolder;\">each row in one table</span>&nbsp;is paired with&nbsp;<span style=\"font-weight: bolder;\">every row in another table.</span></li>\n\t<li>This results in a&nbsp;<span style=\"font-weight: bolder;\">large number of rows</span>&nbsp;being returned, which can impact query performance.</li>\n\t<li>To avoid this, ensure that the&nbsp;<span style=\"font-weight: bolder;\">ON condition</span>&nbsp;is correctly defined and matches the logical relationship between the tables.</li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>JOIN clauses:</strong>\n\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">There are different types of JOIN clauses in SQL, including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Each JOIN type serves a specific purpose and determines how rows from the tables are matched and returned.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>Cartesian Product:</strong>\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">A Cartesian product is the result of combining all rows from two or more tables without any filtering or matching condition.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">This usually happens when no JOIN condition is specified or when the JOIN condition is incorrect.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>Best Practices:</strong>\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Always review and validate the JOIN conditions to prevent unintentional Cartesian products.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">Use aliases to make the query easier to read and maintain.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61cadc3af8bb219547a6f5ad",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "What is the process of defining a method in terms of itself, that is a method that calls itself?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Polymorphism",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Abstraction",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Encapsulation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Recursion",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Inheritance",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><u><strong>Concept:-</strong></u></p>\n\n<p><strong>Recursion:-</strong> When a function definition includes a call to itself, it is referred to as a recursive function and the process is known as recursion or circular definition. Recursion is one of the most powerful concepts in computer science.</p>\n\n<p><strong>Example of recursion:-</strong> Many mathematical problems like computing factorial of a given number, finding the Fibonacci series, determining the GCD of two positive numbers, computing binomial coefficient, etc., can be solved efficiently using recursion.</p>\n\n<p>A popular example to understand the recursion is factorial function. Factorial function: f(n) = n*f(n-1), base condition: if n<=1 then f(n) = 1.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>&nbsp;If the recursive tree appears quite complex, then recursion is useful.</li>\n\t<li>In terms of time and space recursion is expensive.</li>\n\t<li>Recursion is the mechanism of specifying a function in terms of itself.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span><strong>Polymorphism:</strong>- It is an important concept of object-oriented programming which means the ability to be in many forms. Polymorphism is the capability of a method to do different things based on the object that it is acting upon.</p>\n\n<p><strong>Abstraction:- </strong>Abstraction means to represent the essential features and exclude the background details or explanations. A programmer uses the concept of abstraction to hide all the data about an object, except for the relevant data.</p>\n\n<p><strong>Encapsulation:-</strong> It is the process of wrapping up data and functions into a single unit. The data can only be accessed by the functions inside the class and is not accessible to the outside world.</p>\n\n<p><strong>Inheritance:-</strong> It is the process in which objects of one class inherit or acquire the properties of objects of another class. Basically, the concept of inheritance supports the idea of reusability. Thus, without modifying a class we can add new features to it.&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fa94310f602be5d10c8a724",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "<p>What will be the output of the following Java program?</p>\n\n<p>class test</p>\n\n<p>{public static void main (String args [ ])</p>\n\n<p>{</p>\n\n<p>System.out.println(20 + 30 + \"Java\");&nbsp;</p>\n\n<p>System.out.println(\"Java\"&nbsp;+ 20 + 30);</p>\n\n<p>}</p>\n\n<p>}</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<p>50 Java</p>\n\n<p>Java 20 30</p>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<p>20 30 Java</p>\n\n<p>Java 50</p>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<p>2030Java</p>\n\n<p>Java50</p>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<p>50Java</p>\n\n<p>Java2030</p>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<p>50Java</p>\n\n<p>Java50</p>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>According to the Associativity Rule.</p>\n\n<p>class test</p>\n\n<p>{public static void main (String args [ ])</p>\n\n<p>{</p>\n\n<p>System.out.println(20 + 30 + \"Java\");&nbsp;; // <strong>evaluated as&nbsp;(20 + 30) + \"Java\"</strong></p>\n\n<p>System.out.println(\"Java\"&nbsp;+ 20 + 30); // <strong>evaluated as</strong>&nbsp;<strong>(\"Java\"&nbsp;+ 20) + 30&nbsp;</strong>.</p>\n\n<p>}</p>\n\n<p>}</p>\n\n<p>So Output will be&nbsp;</p>\n\n<p><strong>50Java</strong></p>\n\n<p><strong>Java2030</strong></p>\n\n<p><strong>Therefore option 4 is correct.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e006ddeed1a670cf456b14c",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "Which of the following file operation breaks the connection between file pointer and external name?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "fopen",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "fclose",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "gets",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "fputs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "fexit()",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "Before a file can be read or written, it has to be opened by the library function fopen. fopen takes an external name and returns a pointer to be used in subsequent reads or writes of the file. This pointer called the file pointer. Fclose is the inverse of fopen; it breaks the connection between the file pointer and the external name that was established by fopen.",
+          "topic": "Test"
+        },
+        {
+          "id": "5e19c79cf60d5d2d6cf18526",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<p>A queue is also called a _____ system.</p>\n\n<p>I. FIFO</p>\n\n<p>II. LIFO</p>\n\n<p>III. FILO</p>\n\n<p>IV. LILO&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "I and IV",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "I and II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "II and III",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "I and III",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "II and IV",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<ul style=\"list-style-type: disc;\">\n\t<li>Queue is a data structure which is First in First Out (FIFO) or Last in Last Out (LILO) which means the element which is inserted first comes out first form the queue or the elements inserted last comes out last from the queue</li>\n</ul>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/19/08/26%20June_1.png\" style=\"width: 160px; height: 46px;\" /></p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>The stack is a data structure which is Last in First Out (LIFO) or First in Last Out (FILO) which means the element which is popped last from stack is pushed first in the stack, or the element which is pushed first in the stack is popped last from the stack</li>\n\t<li style=\"\">Real-life implementation of the stack is shown:</li>\n</ul>\n\n<p style=\"\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/19/07/RRB%20JE%20EC%20_81_7_Q_computer%20programming%20FT_Hindi_images_Deepak.PNG\" style=\"width: 252px; height: 186px;\" /></p>\n\n<p style=\"\">The ball which is stored last (D) will be the first one to be taken out of the container</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ffc4593af387bd6e0c71d19",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "Which of the following is NOT an Application layer protocol?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "SCTP",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "HTTP",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "SMTP",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "FTP",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "DNS",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"\"><strong style=\"\"><u style=\"\">Stream Control Transmission Protocol (SCTP</u></strong>):</p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li style=\"\">It transports layer protocol combines the features of both TCP and UDP.</li>\n\t<li style=\"\">It is message oriented like the UDP, which providing the reliable, connection-oriented service like TCP. It is used for telephony over the Internet.&nbsp;</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/19/10/Bank_SO_IT_01_16Q_Protocols_Hindi_D4.png\" style=\"width: 561px; height: 229px;\" /></p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li style=\"\">Application layer protocol: HTTP, SMTP, FTP, DNS and so on.</li>\n\t<li style=\"\">SCTP is not an Application layer protocol.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61f7d99cce55d34aafcc8919",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "<p>Which of the following statements about the following binary tree is FALSE?</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/02/F1_R.S_Madhu_11.02.20_D1%27.png\" style=\"width: 328px; height: 191px;\" /></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Nodes &lsquo;J&rsquo; and &lsquo;K&rsquo; are siblings.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Node &lsquo;B&rsquo; is the ancestor of node &lsquo;J&rsquo;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "It is a binary search tree.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "It is a complete binary tree.&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>Concept: </strong></p>\n\n<p><em>Binary search tree: </em>A BST is a tree in which all the nodes follow the two properties.</p>\n\n<p>1) The left sub tree of a node has a key less than or equal to its parent node&rsquo;s key.</p>\n\n<p>2) The right sub tree of a node has a key greater than its parent&rsquo;s key.</p>\n\n<p><em>Complete binary tree:</em> A complete binary tree is a binary tree in which every level except possibly the last level is completely filled and all nodes are as left as possible.</p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>In this tree, it is clearly showing that node J and K are siblings.</p>\n\n<p>Also, given tree is satisfying the property of a complete binary tree.</p>\nBut it is not following the property of binary search tree. So, option 3) it is a binary search tree is incorrect here.",
+          "topic": "Test"
+        },
+        {
+          "id": "6203bd89192a5b7dc6771ef4",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "Which of the following must be contained in a URL?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "a protocol identifier",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "the letters, www.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "the unique registered domain name",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "www. and the unique registered domain name",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "a protocol identifier, www. and the unique&nbsp;registered domain name",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is<strong> option 3.</strong></p>\n\n<p><strong>Concept:</strong></p>\n\n<p>A URL (Uniform Resource Locator) is an identifier that may <strong>be used to locate a resource on the Internet.</strong> A web address is another name for it. URLs are made up of several components, including a protocol and a domain name, that instructs a web browser on how and where to obtain a resource.</p>\n\n<p>The URL includes both the name of the protocol used to access a resource and the name of the resource itself.</p>\n\n<ul>\n\t<li>The first portion of a URL specifies which protocol should be used as the main access method.</li>\n\t<li>The second portion specifies the resource&#39;s IP address or domain name, as well as any subdomains.</li>\n</ul>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/22/02/F1_Harshita_Madhu_21.02.22_D1.png\" style=\"width: 304px; height: 97px;\" /></p>\n\n<p><strong>Hence the correct answer </strong><em>is&nbsp;<span style=\"\">the unique registered domain name.</span></em></p>\n\n<p><em><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></em></p>\n\n<ul>\n\t<li>The World Wide Web, often known as WWW, W3, or the Web, is a network of public web pages that may be accessed over the Internet. The Web is not the same as the Internet: it is one of many applications that have been created on top of the Internet.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6203c81c7543c82800d779a2",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "<p>What is the output of the following C program?</p>\n\n<p>#include<stdio.h></p>\n\n<p>int main(void) {</p>\n\n<p>char s1[] = \"Hello\";</p>\n\n<p>char s2[] = \"World\";</p>\n\n<p>s1 = s2;</p>\n\n<p>printf(\"%s\", s1);</p>\n\n<p>}</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "\"HelloWorld!\"",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Compilation error",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "\"Hello\"",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "\"World!\"",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">\"Hello&nbsp; &nbsp;World!\"</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>Given program,</strong></p>\n\n<p>#include<stdio.h></p>\n\n<p style=\"\">int main(void) {</p>\n\n<p style=\"\">char s1[] = \"Hello\";</p>\n\n<p style=\"\">char s2[] = \"World\";</p>\n\n<p style=\"\">s1 = s2;</p>\n\n<p style=\"\">printf(\"%s\", s1);</p>\n\n<p style=\"\">}</p>\n\n<p style=\"\"><strong>Output: Compilation error</strong></p>\n\n<p style=\"\"><u><strong>Explanation:-</strong></u></p>\n\n<p style=\"\">In the above program, the coding is incorrect, a compiler error would be:<strong> int = \" this is not an int\" and void main() not main (void).&nbsp;</strong>This is because the above program is not run.</p>\n\n<p style=\"\">Here the accurate coding given below:</p>\n\n<p style=\"\">#include<stdio.h></p>\n\n<p style=\"\">void main(){</p>\n\n<p style=\"\">char s1[] = \"Hello\";</p>\n\n<p style=\"\">char s2[] = \"World\";</p>\n\n<p style=\"\">s1 = s2;</p>\n\n<p style=\"\">printf(\"%s\", s1);</p>\n\n<p style=\"\">}</p>\n\n<p style=\"\"><strong>Then output: Hello</strong></p>\n\n<p style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span><span style=\"display: flex;gap: 6px;align-items: center;\">Compiler error:- compiler errors are due to inaccuracies in code, where the compiler throws an error to alert you to something which will not compile, and therefore cannot be run.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e05b7291dacb0646172db0e",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "Which is not the intertwined area of Network Security",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Secrecy",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Authentication",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Integrity control",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Repudiation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>Network security problems can be divided roughly into four closely intertwined areas: secrecy, authentication, nonrepudiation, and integrity control.</p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li><strong>Secrecy</strong>, also called confidentiality, deals with keeping information out of the hands of unauthorized users</li>\n\t<li><strong>Authentication</strong> deals with determining whom user is talking to before revealing sensitive information</li>\n\t<li><strong>Nonrepudiation</strong> deals with digital signatures which gives the assurance that someone cannot deny the validity of something</li>\n\t<li><strong>Integrity controls</strong> are designed to manage the integrity of data; Data integrity refers to the accuracy and consistency of data stored in a database, data warehouse, data mart, etc.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6944fa063b629b5dafec31ab",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "Why are views preferred over complex queries in many systems?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Store data physically",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Reduce disk usage",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Encapsulate logic and simplify access",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Always improve performance",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Replace indexes",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: rgb(33, 37, 41);\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">Encapsulate logic and simplify access</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">Views</span></u>&nbsp;are a virtual representation of data, created by combining and simplifying data from multiple tables or queries.</li>\n\t<li>They&nbsp;<span style=\"font-weight: bolder;\">encapsulate business logic</span>, making it easier to query complex data.</li>\n\t<li>By using views, developers&nbsp;<span style=\"font-weight: bolder;\">reduce redundancy</span>&nbsp;and ensure consistency in data representation.</li>\n\t<li>Views&nbsp;<span style=\"font-weight: bolder;\">help in securing data</span>&nbsp;by providing controlled access to specific rows or columns of a table.</li>\n\t<li>They are extensively used in systems where&nbsp;<span style=\"font-weight: bolder;\">data complexity</span>&nbsp;needs to be hidden from the end users.</li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: rgb(33, 37, 41);\"><strong>Advantages of Views:</strong>\n\n\t<ul>\n\t\t<li style=\"color: rgb(33, 37, 41);\">They simplify query writing and ensure code reusability.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">They improve security by restricting user access to underlying tables.</li>\n\t\t<li style=\"color: rgb(33, 37, 41);\">They can help in improving performance for frequently used queries.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Limitations of Views:</strong>\n\t<ul>\n\t\t<li>Some views are read-only and cannot be used for data modification.</li>\n\t\t<li>Performance may degrade if the view references a large number of tables or rows.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69445f3e3805af9cfe83fcb5",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "A relation is in Second Normal Form if it satisfies which condition?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "All attributes are atomic",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "No transitive dependency exists",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">No multivalued dependency exists</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Every determinant is a candidate key",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">No partial dependency on a composite key exists</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"color: , );\">The correct answer is&nbsp;<u><span style=\"font-weight: bolder;\">No partial dependency on a composite key exists</span><span style=\"font-weight: bolder;\">.</span></u></p>\n\n<p style=\"color: ();\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color: (, 37, 41);\">\n\t<li><u><span style=\"font-weight: bolder;\">Second Normal Form (2NF)</span></u>&nbsp;is a stage in database normalization to reduce data redundancy and improve data integrity.</li>\n\t<li>For a relation to be in 2NF, it must first satisfy all the rules of&nbsp;<span style=\"font-weight: bolder;\">First Normal Form (1NF).</span></li>\n\t<li>Additionally, there should be&nbsp;<span style=\"font-weight: bolder;\">no partial dependency</span>&nbsp;on the composite key.</li>\n\t<li>A partial dependency occurs when a non-prime attribute is functionally dependent on part of a candidate key rather than the whole candidate key.</li>\n\t<li>By eliminating partial dependencies, 2NF ensures that data is better organized and avoids unnecessary duplication.</li>\n\t<li>It is a crucial step toward achieving&nbsp;<span style=\"font-weight: bolder;\">database normalization</span>&nbsp;and efficient database design.</li>\n</ul>\n\n<p style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"color: (33, 37, 41);\"><strong>First Normal Form (1NF):</strong>\n\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">A relation is in 1NF if it contains only atomic (indivisible) values and each column contains values of a single type.</li>\n\t\t<li style=\"color: (33, 37, 41);\">There should be no repeating groups or arrays in a column.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Third Normal Form (3NF):&nbsp;</strong>\n\t<ul>\n\t\t<li>It goes a step further by eliminating&nbsp;<span>transitive dependencies.</span></li>\n\t\t<li><li<span>Transitive dependency exists when a non-prime attribute depends on another non-prime attribute.</li<span></li>\n\t\t<li><li<span></li<span>3NF ensures that every non-prime attribute is only dependent on a candidate key.</li>\n\t</ul>\n\t</li>\n\t<li style=\"color: (33, 37, 41);\"><strong>Boyce-Codd Normal Form (BCNF):</strong>\n\t<ul>\n\t\t<li style=\"color: (33, 37, 41);\">A relation is in BCNF if every determinant is a candidate key.</li>\n\t\t<li style=\"color: (33, 37, 41);\">BCNF eliminates anomalies that may still exist in 3NF.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:03:54.149Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

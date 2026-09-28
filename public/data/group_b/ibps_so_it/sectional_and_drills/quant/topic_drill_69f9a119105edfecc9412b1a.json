@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a119105edfecc9412b1a",
+  "title": "CT 20: Quantitative Aptitude (Boat and Stream)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "6976e492509f106ac8710d35",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "The time taken by a boat to cover 52 km downstream and 72 km upstream together is 6 hours. If the speed of stream is 4 km/h, then find the time taken (in hours) by the boat to cover 54 km upstream and 130 km downstream.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "8",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8.5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "9",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "10",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the speed of boat in still water be &#39;v&#39; km/h.</p>\n\n<p>ATQ;</p>\n\n<p>52/{v + 4} + 72/{v &ndash; 4} = 6</p>\n\n<p>Or, 52(v - 4) + 72(v + 4) = 6(v + 4)(v - 4)</p>\n\n<p>Or, 52v &ndash; 208 + 72v + 288 = 6(v<sup>2</sup> &ndash; 16)</p>\n\n<p>Or,124v + 80 = 6v<sup>2</sup> &ndash; 96</p>\n\n<p>Or, 6v<sup>2</sup> - 124v &ndash; 176 = 0</p>\n\n<p>Or, 3v<sup>2</sup> - 66v +&nbsp;4v &ndash; 88 = 0</p>\n\n<p>Or, 3v(v &ndash; 22) + 4(v &ndash; 22) = 0</p>\n\n<p>Or, (v &ndash; 22)(3v + 4) = 0</p>\n\n<p>So, &#39;v&#39; = 22 or &#39;v&#39; = - (4/3)</p>\n\n<p>But speed cannot be less than speed of stream (for upstream motion).<br />\nSo, &#39;v&#39; = 22</p>\n\n<p>Upstream speed = 22 &minus; 4 = 18 km/h</p>\n\n<p>Downstream speed = 22 + 4 = 26 km/h</p>\n\n<p>Therefore, required time = {54/18} + {130/26} = 3 + 5 = 8&nbsp;hours</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6670e3500aa147b4e136a3d6",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "If a boat covers x km upstream in 5 hours and (x + 40) km downstream in 6 hours. Speed of the boat in still water is 18 kmph.If a boat covers (x + 32) km distance in y hours at the upstream speed then find the value of y",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4 hours",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "8 hours",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "7 hours",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6 hours",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5 hours",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Upstream distance = x km</p>\n\n<p>Upstream time = 5 hours</p>\n\n<p>Downstream distance = x + 40 km</p>\n\n<p>Downstream time = 6 hours</p>\n\n<p>Speed of the boat in still water = 18 kmph</p>\n\n<p>Distance to cover upstream = x + 32 km</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Upstream speed = Distance / Time</p>\n\n<p>Downstream speed = Distance / Time</p>\n\n<p>Speed in still water = (Upstream speed + Downstream speed) / 2</p>\n\n<p>Time = Distance / Speed</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Upstream speed of the boat = x / 5 kmph</p>\n\n<p>Downstream speed of the boat = (x + 40) / 6 kmph</p>\n\n<p>Speed in still water = (Upstream speed + Downstream speed) / 2</p>\n\n<p>(x / 5 + (x + 40) / 6) / 2 = 18</p>\n\n<p>(x / 5 + (x + 40) / 6) = 18 &times; 2</p>\n\n<p>(6x + (5x + 200)) / 30 = 36</p>\n\n<p>11x + 200 = 36 &times; 30</p>\n\n<p>11x + 200 = 1080</p>\n\n<p>&rArr; 11x = 880</p>\n\n<p>&rArr; x = 80 km</p>\n\n<p>Upstream speed of the boat = 80 / 5 = 16 kmph</p>\n\n<p>Time taken by the boat to cover (x + 32) km distance in upstream in y hours</p>\n\n<p>(80 + 32) / 16 = 112 / 16 = 7 hours</p>\n\n<p><strong>The value of y is 7 hours.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6345caa5a29c46320548ed1b",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>Time taken by a boat to go 360 m. upstream is 20% more than that taken to come back.&nbsp;If the speed of a boat in still water is 20 m/s more than that of a stream, then find the total time taken by boat to go 360 m upstream and come back?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "30 sec.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "32 sec.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "33 sec.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "34 sec.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "35 sec.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">Let speed of stream = &lsquo;x&rsquo; m/s</p>\n\n<p style=\"\">So, speed of boat in still water = (x + 20) m/s</p>\n\n<p style=\"\">From the question:</p>\n\n<p style=\"\"><span class=\"math-tex\">\\(\\frac{360}{(x + 20 – x)} = [\\frac{360}{(x + 20 + x)}] \\times (\\frac{120}{100})\\\\ 18 = [\\frac{180}{(x + 10)}] \\times (\\frac{6}{5})\\)</span></p>\n\n<p style=\"\">90x + 900 = 1080</p>\n\n<p style=\"\">x = 2</p>\n\n<p style=\"\">Speed of stream = 2 m/s</p>\n\n<p style=\"\">And speed of boat in still water = 2 + 20 = 22 m/s</p>\n\n<p style=\"\">So, total time taken by boat to go 360 m upstream and come back:</p>\n\n<p style=\"\"><span class=\"math-tex\">\\([\\frac{360}{(22 – 2)}] + [\\frac{360}{(22 + 2)}] = 18 + 15 = 33\\)</span>&nbsp;&nbsp;seconds</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6082705edf76353b4307bb70",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "A boat running upstream takes 4 hours 24 minutes to cover a certain distance, while it takes 2 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "8 : 3&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4 : 5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "6 : 5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7 : 4&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Boat takes 4 hours 24 minutes to go upstream</p>\n\n<p>Boat takes 2 hours to go downstream</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Speed&nbsp;of boat in still water&nbsp;= 1/2 &times;(downstream + upstream)</p>\n\n<p>Speed of stream&nbsp;= 1/2 &times;(downstream &ndash; upstream)</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Let the man&#39;s rate upstream be&nbsp;x&nbsp;kmph and that downstream be&nbsp;y&nbsp;kmph.</p>\n\n<p>Then, distance covered upstream in 4 hrs 24 min = Distance covered downstream in 2 hrs.</p>\n\n<p>&rArr; (x &times; 22/5​) = (y &times; 2)</p>\n\n<p>&rArr; 22x/5 = 2y</p>\n\n<p>&rArr; y = 11​x/5</p>\n\n<p>&rArr; Required ratio&nbsp;= (y+x​)/2 : (y&minus;x​)/2</p>\n\n<p>&rArr; (y+x​)/2 : (y&minus;x​)/2</p>\n\n<p>&rArr; (11x/5 + x)/2 : (11x/5 &ndash; x)/2</p>\n\n<p>&rArr; 16x/5 &times; 1/2 : 6x/5 &times; 1/2</p>\n\n<p>&rArr; 16x/10 : 6x/10</p>\n\n<p>&rArr; 8:3</p>\n\n<p><strong>&there4; Ratio between the speed of the boat and speed of the water current is 8 : 3.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "601c2d7aab789cfbbe0ee5e2",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>In a stream, the ratio of the speed of the boat in still water and the speed of the stream is 7 : 5. The ratio of the speed of another boat in still water to the speed of the stream is 4&nbsp;: 3. What is the ratio of the speed of the second boat to that of the first boat in still water?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "21 : 20",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20 : 21",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "19 : 11",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6 : 11",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Ratio of speed of 1st boat in still water and speed of stream = 7 : 5</p>\n\n<p>Ratio of speed of 2nd&nbsp;boat in still water and speed of stream = 4&nbsp;: 3</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>For the first boat let the speed of the stream be 5x and the speed of the boat be 7x.</p>\n\n<p>For the 2<sup>nd</sup>&nbsp;boat, let the speed of the stream be 3y and the speed of the 2<sup>nd</sup>&nbsp;boat be 4y.</p>\n\n<p>The speed of the stream will be the same.</p>\n\n<p>&there4; 5x = 3y</p>\n\n<p>&rArr; x = 3y/5</p>\n\n<p>Now, the required ratio of the speed of the second boat to that of the first boat = 4y : 7x</p>\n\n<p>&rArr; 4y : 7 &times; (3y/5) [Putting x in terms of y]</p>\n\n<p>&rArr; 20y : 21y</p>\n\n<p>&rArr; 20 : 21</p>\n\n<p><strong>&there4; The ratio of the speed of the second boat to that of the first boat in still water is 20 : 21.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60119d6e13692c2f6cfe6581",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "A ship went downstream for 27 km and immediately returned. It took the ship twice as long to make the return trip. If the speed of flow of the river was twice its initial speed, the trip downstream and back would take 648 minutes. Find the speed of the ship in still water and the speed of the river flow.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "9 km/hr, 3 km/hr",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "10 km/hr, 4 km/hr",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8 km/hr, 3 km/hr",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6 km/hr, 3 km/hr",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given: </strong></p>\n\n<p>Distance to be traversed one way = 27 km and it takes 648 minutes or 54/5<img height=\"20\" src=\"file:///C:/Users/sif-/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png\" width=\"4\" />hours for a two way journey if the flow of the river is twice as high.</p>\n\n<p><strong>Concept: </strong></p>\n\n<p>Going along the stream, resultant speed = speed of the boat in still water + speed of the stream.</p>\n\n<p>Going against the stream, resultant speed = speed of the boat in still water - speed of the stream.</p>\n\n<p><strong>Formula used</strong>: s = v &times; t</p>\n\n<p>Where, s = distance of the journey, v = speed, t = time taken</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>Let&rsquo;s take the speed of the ship = v km/hr and speed of the stream = x km/hr</p>\n\n<p>Downstream speed = (v + x) km/hr</p>\n\n<p>Upstream speed = (v - x) km/hr</p>\n\n<p>ATQ,</p>\n\n<p><span class=\"math-tex\">\\(\\frac{{27}}{{v + x}} \\times 2 = \\;\\frac{{27}}{{v - x}}\\)</span></p>\n\n<p>&rArr; v = 3x&nbsp; &nbsp; &nbsp; ----(1)</p>\n\n<p>Again, if the flow was twice as high,</p>\n\n<p><span class=\"math-tex\">\\(\\frac{{27}}{{v + 2x}} + \\;\\frac{{27}}{{v - 2x}} = \\frac{{54}}{5}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{27}}{{3x + 2x}} + \\;\\frac{{27}}{{3x - 2x}} = \\frac{{54}}{5}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow {27({1 \\over 5x} + {1 \\over x})} = {54 \\over 5}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow {{1 + 5 \\over 5x} } = {2 \\over 5}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{1}{x} = \\frac{1}{3}\\)</span></p>\n\n<p>&rArr; x = 3</p>\n\n<p>From (1), v = 9</p>\n\n<p>Speed of the ship in still water = 9 km/hr</p>\n\n<p>Speed of the river flow = 3 km/hr</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/01/Sample%20questions%20for%20RBI%20Grade%20B%20exam_sumit%20L_D1.PNG\" style=\"width: 146px; height: 31px;\" /></p>\n\n<p>From the situation described in the first condition itself we can see that the speed of coming back has to be double the speed of going downstream. Checking the options, only option (1) fits this condition i.e. Downstream speed = 2 &times; Upstream speed.</p>\n\n<p>Hence, option (1) is correct.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ff6e65495a801b82102a6b5",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>A speed of the boat in still water is 15km/hr and speed of the stream is 5km/hr, the boat travels equal distance for upstream and downstream in 9 hours.&nbsp; find the total distance travelled by boat in both upstream and downstream.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "150 Km",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "160 Km",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "200 Km",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "120 Km",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "240 Km",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given: </strong></p>\n\n<p>The speed of the boat in the still water = 15 km/hr</p>\n\n<p>The speed of the stream = 5 km/hr</p>\n\n<p>Let the Distance travelled by boat in upstream and downstream be d</p>\n\n<p>Total time is taken by the boat to cover both upstream and downstream = 9 hrs</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Distance = Speed &times; Time</p>\n\n<p>Upstream boat speed (x-y) = speed of the boat in still water &ndash; the speed of the stream</p>\n\n<p>Downstream boat speed (x+y) = speed of the boat in still water + speed of the stream</p>\n\n<p>The formula for this method:&nbsp; &nbsp;</p>\n\n<p>t =&nbsp;<span class=\"math-tex\">\\([\\frac{d}{{(x + y)}} + \\frac{d}{{(x - y)}}]\\)</span></p>\n\n<p>d is the distance</p>\n\n<p>x is the speed of the boat in still water.</p>\n\n<p>Y is the speed of the stream</p>\n\n<p>t is the time taken</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Substituting the values in the formula</p>\n\n<p>Speed of the boat in upstream (x - y) = 15 &ndash; 5 &rArr;10 Km/hr</p>\n\n<p>Speed of the boat in downstream (x + y) = 15 + 5 &rArr; 20 km/hr</p>\n\n<p>Distance travelled by upstream and downstream&nbsp;</p>\n\n<p>=&nbsp;<span class=\"math-tex\">\\([\\frac{d}{{10}} + \\frac{d}{{20}}]\\)</span>&nbsp;&rArr; 9&nbsp;</p>\n\n<p>3D = 9 &times; 20</p>\n\n<p>D &rArr;<span class=\"math-tex\">\\([\\frac{{180}}{3}]\\)</span>&nbsp;= 60 Km</p>\n\n<p><strong>&there4; Total distance both upstream and downstream = 60 + 60 &rArr; 120 km</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5feb2282aaf1b08aec4a0e46",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "A boat running upstream takes 10 hrs to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7 : 3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "3 : 7",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1 : 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2 : 1&nbsp;",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Time to cover the distance in upstream = 10 hrs</p>\n\n<p>Time to cover the distance in downstream = 4 hrs</p>\n\n<p><strong>Formula:</strong></p>\n\n<p>Speed of boat in downstream = speed of boat in still water + speed of current</p>\n\n<p>Speed of boat in upstream = speed of boat in still water &ndash; speed of current</p>\n\n<p>Distance = speed &times; time</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>Let the speed of the boat in still water and stream of water be x kmph and y kmph respectively.</p>\n\n<p>According to the question,</p>\n\n<p>&rArr; (x + y) &times; 4 = (x &ndash; y) &times; 10</p>\n\n<p>&rArr; 2x + 2y = 5x &ndash; 5y</p>\n\n<p>&rArr; 3x = 7y</p>\n\n<p>&rArr; x/y = 7/3</p>\n\n<p><strong>&there4;</strong><strong> Ratio of speed of boat in still water and speed of current is 7 : 3&nbsp;</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f64c2579c2c8bd86954bace",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "Speed of a boat in still water is 90 km/h. A man started rowing the boat in the river with the direction of stream. He saw another man drowning ahead of 200 m from him and flowing with the speed of stream. Calculate the time taken to man reach to the drowning men to help him.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "6 sec",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "12 sec",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8 sec",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "10 sec",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Can&rsquo;t be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">GIVEN:</strong></p>\n\n<p style=\"\">Speed of a boat in still water is 90 km/h</p>\n\n<p style=\"\">He saw another man drowning ahead of 200 m from him and flowing with the speed of stream.</p>\n\n<p style=\"\"><strong style=\"\">CONCEPT:</strong></p>\n\n<p style=\"\">We will use relative speed concept.</p>\n\n<p style=\"\"><strong style=\"\">FORMULA USED:</strong></p>\n\n<p style=\"\">Upstream speed = speed of boat &ndash; stream speed</p>\n\n<p style=\"\">Downstream speed = speed of boat + stream speed</p>\n\n<p style=\"\"><strong style=\"\">CALCULATION:</strong></p>\n\n<p style=\"\">Let the speed of stream be x m/s</p>\n\n<p style=\"\">&rarr; Speed of boat = 90 km/h = 90 &times; (5/18) = 25 m/sec</p>\n\n<p style=\"\">Downstream speed = speed of boat while chasing drowning man = (25 + x) m/sec</p>\n\n<p style=\"\">&rarr; Speed of drowning man = x m/sec</p>\n\n<p style=\"\">As both are moving in same direction relative speed of boat chasing = (25 + x) &ndash; x = 25 m/sec</p>\n\n<p style=\"\">Total distance = 200 m</p>\n&rArr; Time taken to man reach to the drowning men to help him = 200/25 = 8 sec",
+          "topic": "Test"
+        },
+        {
+          "id": "5dcbb9e4f60d5d25594045fc",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "A boatman goes to upstream at a distance of 90 km. He increases the boat speed by 33.33% of his actual speed when he covers 2/3 of the total distance. How much time take to cover the total distance if the speed of the boat and river 30 km/hr and 20 km/hr?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "5.5 hours",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "6.5 hours",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "7.5 hours",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "8.5 hours",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Total distance = 90 km<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Distance when he goes to his actual speed&nbsp;<span class=\"math-tex\">\\(= 90 \\times \\frac{2}{3} = 60\\;km\\)</span><o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Relative speed = 30 &ndash; 20 = 10 km/hr<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">(<span style=\"font-family:\"Cambria Math\",serif;mso-fareast-font-family:DengXian;\nmso-fareast-theme-font:minor-fareast;mso-bidi-font-family:\"Cambria Math\"\">∵</span> he goes to upstream)<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Time taken by boatman to cover 60 km<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\"><span class=\"math-tex\">\\(= \\frac{{60}}{{10}} = 6\\;hours\\)</span>&nbsp;<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">After completing 2/3 distance<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">He increase 33.33% speed so,<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Now speed of boat&nbsp;<span class=\"math-tex\">\\(= 30 \\times \\frac{{133.33}}{{100}} = 40\\;km/hr\\)</span><o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Relative speed = 40 km/hr &ndash; 20 km/hr = 20 km/hr<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Time taken by boatman to complete 1/8 remaining distance = 30/20 = 1.5 hours<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\">Total time = 6 + 1.5 = 7.5 hours<o:p></o:p></p>\n\n<p class=\"MsoNormal\" style=\"margin-left:0cm;text-indent:0cm;line-height:150%;\nmso-list:none\"><span lang=\"EN-US\" style=\"font-family:DengXian;mso-ascii-font-family:\nCalibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;\nmso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:\nCalibri;mso-bidi-theme-font:minor-latin\">&there4;</span> Boatman takes 7.5 hours to cover total distance.<o:p></o:p></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:47.501Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

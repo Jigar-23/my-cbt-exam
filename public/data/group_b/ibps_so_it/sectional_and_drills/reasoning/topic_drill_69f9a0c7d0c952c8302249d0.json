@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0c7d0c952c8302249d0",
+  "title": "CT 1: Reasoning (Arrangement and Pattern)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Reasoning",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "60cccf27d58b22da6990a017",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "If it is possible to make a meaningful word with the second, fourth, fifth, and eighth letters of the word \"REGARDING\" which of the following will be the second letter from the right end of that newly formed word? If more than one such word can be made, give M as the answer and if no such word can be made, give Y as the answer.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "N",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "M",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The second, fourth, fifth, and eighth&nbsp;letters of the word \"REGARDING\" are E, A, R, and N&nbsp;respectively&nbsp;</p>\n\n<p>Meaningful words can be formed&nbsp;&rarr; EARN, NEAR, REAN, and NARE</p>\n\n<p>Hence,<span style=\"font-weight: 700;\">&nbsp;the correct answer is M as more than 1 word can be formed.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6079767e663c800aae757975",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\">How many pairs of letters are there in the word<strong>&nbsp;\"CONSISTENCY\"&nbsp;</strong>each of which have as many letters between them in the word as they have between them in the English alphabetical series?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "More than five",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/06/F1_Shraddha_Kanchan_17.06.2021_D1.png\" style=\"height: 121px; width: 499px;\" /></p>\n\n<p>There are six&nbsp;pairs</p>\n\n<p>Hence, there are<strong> more than five pairs.</strong></p>\n\n<p><strong>Alternate Method:</strong></p>\n\n<p>We can use the place values of the letters and then we can find how many letters are there in between the letters. <strong>(we can use this method only when we remember all the letters place values)</strong></p>\n\n<p><strong><img src=\"//cdn.testbook.com/images/production/quesImage2.png\" style=\"width: 180px; height: 50px;\" /></strong></p>\n\n<p>When nothing specific about forward or backward is given in the question, we have to take both directions,&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6079637dd29f53f0bbd1af98",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "If it is possible to make a meaningful word with the first, third, and eighth letters of the word \"PREDOMINANT\" which of the following will be the second letter from the right end of that newly formed word? If more than one such word can be made, give M as the answer and if no such word can be made, give Y as the answer.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "P",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "N",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "M",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Y",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The first, third, and eighth letters of the word PREDOMINANT are P, E, and N respectively.&nbsp;</p>\n\n<p>1st&nbsp;letter&nbsp;&rarr; P,&nbsp; &nbsp;3rd&nbsp;letter&nbsp;&rarr; E, and 8th&nbsp;letter&nbsp;&rarr; N</p>\n\n<p>So, PEN is a meaningful word.</p>\n\n<p>Hence,<strong> E is the second letter from the right end.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60548cec56e12ce026ef8def",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Study the following information carefully to answer the given questions:</p>\n\n<p>4 7 @ J # 9 P $ L % O &copy; 5 &amp; G C W D 3 8 @ S # 1 F Y V&nbsp;</p>\n\n<p>How many letters are there in the English alphabetical series which come&nbsp;in between the element which is nineteenth from the right end and the element which is fifteenth from the left end in the above arrangement?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Six",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given arrangement:</strong> 4 7 @ J # 9 P $ L % O &copy; 5 &amp; G C W D 3 8 @ S # 1 F Y V</p>\n\n<p>Element which is 19<sup>th</sup> from the right end in the above arrangement: <strong>L</strong></p>\n\n<p>Element which is 15<sup>th</sup> from the left end in the above arrangement:<strong> G</strong></p>\n\n<p>In English alphabet, the letters which come in between L and G:</p>\n\n<p>A B C D E F G <strong>H I J K</strong> L M N O P Q R S T U V W X Y Z</p>\n\n<p>Hence,<strong> there are four letters (i.e. H, I, J, K) which come in between the element which is nineteenth from the right end and the element which is fifteenth from the left end in the above arrangement.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605489d24cfbdca1bade5471",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><strong>Directions:</strong> Study the following information carefully to answer the given questions:</p>\n\n<p>4 7 @ J # 9 P $ L % O &copy; 5 &amp; G C W D 3 8 @ S # 1 F Y V</p>\n\n<p>If all the numbers in the above arrangement are dropped, then how many consonants are there which are immediately preceded by a symbol?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Five&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "six",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given arrangement:</strong> 4 7 @ J # 9 P $ L % O &copy; 5 &amp; G C W D 3 8 @ S # 1 F Y V</p>\n\n<p>If all the numbers are dropped in the given arrangement: @ J # P $ L % O &copy; &amp; G C W D @ S # F Y V</p>\n\n<p><strong>Consonants</strong> which are immediately preceded by a symbol are: <strong>@ J, # P, $ L</strong><span style=\"font-weight: bolder;\">,&nbsp;</span><strong>&amp; G, @ S, # F</strong></p>\n\n<p>Hence, <strong>there are six consonants that are immediately preceded by a symbol</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60524d256ff9cd545c070665",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "If in the word &lsquo;DEFECTED&rsquo;, all the letters are arranged in the reverse alphabetical order (i.e. Z - A) and then the first four letters are changed to the previous letter&nbsp;and the last four letters are changed to the next letter. After the final arrangement, which of the following letter is the second to the left of the letter which is fourth from the right end?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "E",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "T",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given word: DEFECTED</p>\n\n<p>Reverse alphabetical order (Z-A): TFEEEDDC</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/03/Alphabets.PNG\" style=\"width: 500px; height: 112px;\" /></p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/03/14%20March-11.PNG\" style=\"width: 290px; height: 115px;\" /></p>\n\n<p>Fourth letter from the right end = F</p>\n\n<p>Letter which is second to the left of F = D</p>\n\n<p>Hence, <strong>D</strong> is the correct answer.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60430ca0551d1cac21c76994",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "If the even digits of the number &lsquo;74258613&rsquo; are decreased by 2 and the odd digits are increased by 1, then which of the following number we will get on dividing the fourth digit from the right by the second digit from the left?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{1}{2}\\)</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given number: 74258613</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 150px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Digits of a number</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">7</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">4</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">2</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">5</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">8</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">6</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 25px;\">\n\t\t\t<p style=\"text-align: center;\">3</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 220px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Applying the given rule</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">+1</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">-2</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">-2</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">+1</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">-2</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">-2</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">+1</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">+1</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>New Digits</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">8</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">2</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">0</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">6</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">6</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">4</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">2</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">4</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Fourth digit from the right&nbsp;= 6</p>\n\n<p>Second digit from the left&nbsp;= 2</p>\n\n<p>Therefore, required answer = 6&nbsp;&divide; 2&nbsp;= 3</p>\n\n<p>Hence, <strong>3</strong>&nbsp;is the correct answer.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60326b240f382496580d903f",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>Directions: Study the following information carefully to answer the given questions.</p>\n\n<p>M L O $ Q 2 Z ? < X F U&nbsp;! @ V 7&nbsp;3 5 A Y 6 8 * B > H 9 % S V U + 1</p>\n\n<p>Four of the following five are alike in a certain way based on their positions in the above arrangement and so form a group. Which is the one that does not belong to that group?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "LQ$",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "ZX<",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "B9H",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "*%9",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "V1+",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given series:</strong>&nbsp;M L O $ Q 2 Z ? < X F U&nbsp;! @ V 7&nbsp;3 5 A Y 6 8 * B > H 9 % S V U + 1</p>\n\n<p><strong>Left side </strong>M L O $ Q 2 Z ? < X F U&nbsp;! @ V 7&nbsp;3 5 A Y 6 8 * B > H 9 % S V U + 1 <strong>Right side</strong></p>\n\n<p>The pattern is as follows:</p>\n\n<p>Here, the group is formed in which the second element is the third to the right of the first element, and the third element is the immediate left&nbsp;of the third element&nbsp;&nbsp;</p>\n\n<p>Hence, <strong>the correct answer is</strong> <strong>*%9.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6025340a8a219baff7e7a91e",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "In the given word &lsquo;SUBTITLE&rsquo; if the vowels are changed to the next letter and the consonants are changed to the previous letters as per the alphabetical series, and alphabets are arranged in alphabetical order from left to right then which letter would be 4<sup>th</sup> to the right of 3<sup>rd</sup> letter from the left end?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "R",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "V",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "K",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "F",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>If the vowels are changed to the next letter and the consonants are changed to the previous letters:</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:400px;\" width=\"449\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:108px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Given Word</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:38px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">S</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:47px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">U</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:40px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">B</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:38px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">T</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">I</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">T</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">L</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:49px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">E</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:108px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>After change</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:38px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">R</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:47px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">V</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:40px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">A</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:38px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">S</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">J</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">S</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">K</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:49px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">F</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:108px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Alphabetical order</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:38px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">A</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:47px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">F</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:40px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">J</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:38px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">K</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">R</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">S</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:43px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">S</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:49px;height:28px;\">\n\t\t\t<p style=\"text-align: center;\">V</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nHence, <strong>&lsquo;S&rsquo; </strong>is 4<sup>th</sup> to the right of 3<sup>rd</sup> letter from the left end.&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "606476409bfc7e3fb2447d8a",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><b>Directions:&nbsp;</b><span style=\"color: rgb(38, 50, 56);  \">Read the information carefully and answer the questions given below.</span></p>\n\n<p><span style=\"color: rgb(38, 50, 56);  \">Q W E R T Y U I O P A S D F G H J K L Z X C V B N M</span></p>\n\n<p><span style=\"color: rgb(38, 50, 56);  \">If the letters of the above series are written in reverse order then, which letter will be the fourth to the left of the eleventh letter from the right end?</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "J",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "H",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "F",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given series:&nbsp;<span style=\"font-weight: 700;\">LEFT SIDE</span>&nbsp;&nbsp;<span style=\"color: rgb(38, 50, 56);\">Q W E R T Y U I O P A S D F G H J K L Z X C V B N M&nbsp;&nbsp;<span style=\"font-weight: 700;\">RIGHT SIDE</span></span></p>\n\n<p>Series in reverse order:</p>\n\n<p>&nbsp;<span style=\"font-weight: 700;\">LEFT SIDE</span>&nbsp; M N B V C X Z L K J H G F D S A P O I U Y T R E W Q&nbsp;&nbsp;<span style=\"font-weight: 700;\">RIGHT SIDE</span></p>\n\n<p>Eleventh letter from the right end:&nbsp;</p>\n\n<p><span style=\"font-weight: 700;\">LEFT SIDE</span>&nbsp; M N B V C X Z L K J H G F D S&nbsp;<span style=\"font-weight: 700;\">A&nbsp;</span>P O I U Y T R E W Q&nbsp;&nbsp;<span style=\"font-weight: 700;\">RIGHT SIDE</span></p>\n\n<p>Fourth to the left of A:</p>\n\n<p><span style=\"font-weight: 700;\">LEFT SIDE</span>&nbsp; M N B V C X Z L K J H&nbsp;<span style=\"font-weight: 700;\">G&nbsp;</span>F D S&nbsp;<span style=\"font-weight: 700;\">A&nbsp;</span>P O I U Y T R E W Q&nbsp;&nbsp;<span style=\"font-weight: 700;\">RIGHT SIDE</span></p>\n\n<p>G is fourth to the left of the eleventh element from the right end after reversing the series.</p>\n\n<p>Hence,<span style=\"font-weight: 700;\">&nbsp;None of these is the correct answer.</span></p>\n\n<p><span style=\"font-weight: 700;\">Tip:</span></p>\n\n<p>We know,</p>\n\n<p>After reversing the series the left end will be right and vise versa.</p>\n\n<p>Left &amp; Left = First Left + Second Left</p>\n\n<p>11 + 4 = 15</p>\n\n<p>therefore, the sides have swapped, Right end = Left end.</p>\n\n<p>Hence, the target letter is 15th from the left end of the series.</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:03:58.622Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

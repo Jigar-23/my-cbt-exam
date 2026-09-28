@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a095f0a3dfbc4125a344",
+  "title": "CT 23: English Language (New Pattern Questions)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "65a68938f38b230cb271e1a8",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In the sentence given below, a word (or a set of words) is highlighted in bold. An idiom/phrase is given in each of the five options. Mark the option that can replace the word/phrase given in bold without altering the sentence&#39;s meaning or making it grammatically incorrect.</strong></p>\n\n<p>We need to ensure that everyone <strong>has a shared understanding</strong>&nbsp;before proceeding with significant decisions that impact the project&#39;s trajectory and outcomes.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Marching to the same beat",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Shooting in the dark",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Read between the lines",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "On the same page",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Reading from the same script",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 4.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, let&#39;s first understand the given sentence:</strong></li>\n\t<li>\"We need to ensure that everyone <strong>has a shared understanding</strong> before proceeding with significant decisions that impact the project&#39;s trajectory and outcomes.\"</li>\n\t<li>This sentence emphasizes the importance of making sure everyone is on the same page before making important decisions affecting the project&#39;s direction and results.</li>\n\t<li><strong>Now, let&#39;s understand the meanings of the idioms given as options:</strong></li>\n\t<li><strong>Option 1: Marching to the same beat - </strong></li>\n\t<li>To act or proceed in harmony or coordination with others; to be in sync.\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Successful teamwork requires everyone to <strong>march to the same beat</strong>, following the same goals and strategies.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 2: Shooting in the dark - </strong></li>\n\t<li>Engaging in an activity without a clear plan or knowledge; making random guesses.\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Attempting to fix the computer issue without proper information is like <strong>shooting in the dark</strong>; you need a strategy.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 3: Read between the lines - </strong></li>\n\t<li>To understand the hidden or implied meaning in a communication, beyond the literal words.\n\t<ul>\n\t\t<li>For Example -</li>\n\t\t<li>Her tone suggested dissatisfaction; I had to <strong>read between the lines</strong> to realize she wasn&#39;t happy with the decision.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 4: On the same page - </strong></li>\n\t<li>To have a shared understanding or agreement on a particular topic or plan.\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Before starting the project, everyone must be <strong>on the same page</strong> regarding the goals and expectations.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 5: Reading from the same script -</strong></li>\n\t<li>Acting or speaking in a rehearsed or coordinated manner; having a uniform approach.\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>During the presentation, it was evident that the team was <strong>reading from the same script</strong>, ensuring a cohesive delivery.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the given sentence and the meanings of the given idioms, we can conclude that <u>the correct option to replace the highlighted phrase \"has a shared understanding\" in the given sentence is option 4: \"On the same page</u>.\" This option aligns with the original meaning of ensuring a shared understanding among everyone involved in the project before making significant decisions.</li>\n\t<li><strong>Therefore, the correct answer is \"On the same page.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "66791d95dde96df3e92497ec",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\"><strong>The following question contains three sentences labelled as A, B, and C, each with a highlighted word. Identify the word from the given options that is the antonym of all three highlighted words.</strong></p>\n\n<p dir=\"ltr\">A: The government tried to <strong>stymie </strong>the spread of misleading information through stringent regulations.</p>\n\n<p dir=\"ltr\">B: His antagonist employed various tactics to <strong>obstruct </strong>his progress at every turn.</p>\nC: They had to devise plans to <strong>hinder</strong> the flow of illegal goods across the border.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Block",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Facilitate",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Impede",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Hamper",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Deter",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p>The correct answer is: <b>Option 2</b>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The word <strong>\"stymie\"</strong> means to block or thwart the progress of something. (रोकना)\n\n\t<ul>\n\t\t<li><strong>Example: </strong>The heavy snowfall <strong>stymied </strong>the rescue efforts.</li>\n\t</ul>\n\t</li>\n\t<li>The word <strong>\"obstruct\"</strong> means to block or impede something. (अवरोध करना)\n\t<ul>\n\t\t<li><strong>Example: </strong>A fallen tree <strong>obstructed </strong>the road, causing a traffic jam.</li>\n\t</ul>\n\t</li>\n\t<li>The word <strong>\"hinder\"</strong> means to create difficulties that result in delay or obstruction. (बाधा डालना)\n\t<ul>\n\t\t<li><strong>Example: </strong>His lack of experience <strong>hindered </strong>his ability to complete the project on time.</li>\n\t</ul>\n\t</li>\n\t<li><strong>\"Facilitate\" </strong>means to make an action or process easy or easier. (सुविधाजनक बनाना)\n\t<ul>\n\t\t<li><strong>Example: </strong>The new software will <strong>facilitate </strong>the management of the project.</li>\n\t</ul>\n\t</li>\n\t<li>Hence, we can infer that the opposite of <strong>&#39;stymie,&#39; &#39;obstruct,&#39;</strong> and <strong>&#39;hinder&#39; </strong>is <strong>&#39;facilitate&#39;</strong>.</li>\n</ul>\n\n<p>Therefore, the correct answer is: <span style=\"font-weight: bolder;\">Facilitate</span>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p>Here are the other options explained along with their Hindi meanings and example sentences:</p>\n\n<ul>\n\t<li><strong>Block </strong>(<span style=\"color: rgb(33, 37, 41);\">अवरोधित करना</span>): To prevent movement through something.\n\n\t<ul>\n\t\t<li><strong>Example:</strong> The fallen tree <strong>blocked </strong>the road.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Impede </strong>(<span style=\"color: rgb(33, 37, 41);\">बाधा डालना</span>): To delay or prevent someone or something by obstructing them.\n\t<ul>\n\t\t<li><strong>Example: </strong>Heavy traffic <strong>impeded </strong>our journey.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Hamper</strong> (<span style=\"color: rgb(33, 37, 41);\">बाधा डालना</span>): To hinder or obstruct the progress of something.\n\t<ul>\n\t\t<li><strong>Example:</strong> His efforts were <strong>hampered </strong>by a lack of funds.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Deter</strong> (<span style=\"color: rgb(33, 37, 41);\">रोकना</span>): To discourage someone from doing something by instilling doubt or fear of the consequences.\n\t<ul>\n\t\t<li><strong>Example:</strong> High prices are likely to <strong>deter </strong>people from buying houses in this area.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "62e7acc49a96a718a2febb14",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Directions: Select the most appropriate meaning of the underlined idiom in the given sentence.</span></p>\n\n<p style=\"\">As I have argued, prima facie this might show that India&rsquo;s concerns about the PSH issue have been <u>taken on board</u>.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "To fully consider a new idea or situation.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "To take something onto a boat or ship.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "To&nbsp;live and receive regular meals in a house in return for payment or services.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "To&nbsp;cover or seal a window or building with pieces of wood.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "To&nbsp;ride on a snowboard.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p style=\"\">The correct answer is&nbsp;<span style=\"font-weight: 700;\">&#39;</span><strong><span style=\"\">To&nbsp;</span></strong><span style=\"\"><strong>fully consider a new idea or situation</strong>.</span><span style=\"font-weight: 700;\">&#39;</span></p>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li><span style=\"font-weight: 700;\">Given Idiom:&nbsp;</span><em><strong>Taken on board</strong></em>&nbsp;means&nbsp;<span style=\"font-weight: 700;\">To&nbsp;</span><span style=\"\"><span style=\"font-weight: 700;\">fully consider or assimilate a new idea or situation</span></span>.\n\n\t<ul>\n\t\t<li><span style=\"font-weight: 700;\">Example:<em>&nbsp;</em></span><em>Our comments have been <strong>taken on board</strong> by the committee</em>.</li>\n\t</ul>\n\t</li>\n\t<li>From the given options, the&nbsp;<span style=\"font-weight: 700;\">first option</span>&nbsp;is<span style=\"font-weight: 700;\">&nbsp;</span>the&nbsp;<span style=\"font-weight: 700;\">most appropriate meaning of the given idiom</span>.<br />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">option 1</span>.<br />\n<br />\n<span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"font-weight: 700;\"><span style=\"vertical-align: middle;\"><u><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Mistake Points</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></u></span></span></span></p>\n\n<ul style=\"\">\n\t<li>We may think from the phrase \"Taken on board\"&nbsp;that&nbsp;it is all about taking something onto a boat or ship.<br />\n\t&nbsp;</li>\n</ul>\n\n<p style=\"\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"font-weight: 700;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<ul style=\"\">\n\t<li>\n\t<p><em>The phrase was first recorded in the mid-60s</em><em>.&nbsp;The literal meaning of this expression is to take something onto a boat or ship.</em></p>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a689cd3537b87ffe1c6133",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In the sentence given below, a word (or a set of words) is highlighted in bold. An idiom/phrase is given in each of the five options. Mark the option that can replace the word/phrase given in bold without altering the sentence&#39;s meaning or making it grammatically incorrect.</strong></p>\n\n<p>Recognizing the need for change, he decided to <strong>start afresh</strong>,&nbsp;adopting healthier habits and leaving behind destructive behaviours, embracing a holistic approach.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Turn a blind eye",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Turn over a new leaf",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Turn the other cheek",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Turn the page",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Turn the clock back",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 2.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li><strong>To answer this question, let&#39;s first understand the given sentence:</strong></li>\n\t<li>\"Recognizing the need for change, he decided to <strong>start afresh</strong>, adopting healthier habits and leaving behind destructive behaviours, embracing a holistic approach.\"</li>\n\t<li>This sentence discusses a person&#39;s decision to make positive changes by adopting healthier habits, abandoning destructive behaviours, and embracing a holistic approach to life.</li>\n\t<li><strong>Now, let&#39;s understand the meanings of the idioms given as options:</strong></li>\n\t<li><strong>Option 1: Turn a blind eye - </strong></li>\n\t<li>To deliberately ignore or disregard something, often a problem or wrongdoing.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Despite knowing about the issue, the manager chose to <strong>turn a blind eye</strong> to the unethical practices.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 2: Turn over a new leaf - </strong></li>\n\t<li>To make a positive change in one&#39;s behaviour or lifestyle, often associated with a fresh start or improvement.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>After the setback, he decided to <strong>turn over a new leaf</strong> by adopting a healthier lifestyle and focusing on personal growth.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 3: Turn the other cheek - </strong></li>\n\t<li>To respond to an insult or injury with non-violence and forbearance, displaying tolerance or forgiveness.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Instead of retaliating, she chose to <strong>turn the other cheek</strong> and respond to the criticism with kindness.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 4: Turn the page - </strong></li>\n\t<li>To move on from a difficult or negative situation, often involving letting go of the past and embracing new opportunities.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>After the breakup, she decided to <strong>turn the page</strong> and focus on building a brighter future for herself.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Option 5: Turn the clock back - </strong></li>\n\t<li>To revisit the past or undo previous actions, expressing a desire to go back in time.\n\t<ul>\n\t\t<li><strong>For Example -&nbsp;</strong></li>\n\t\t<li>Although we can&#39;t <strong>turn the clock back</strong>, reflecting on our mistakes can help us make better decisions in the present.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the given sentence and the meanings of the given idioms, we can conclude that <u>option 2, \"turn over a new leaf,\" is the most suitable replacement for the highlighted phrase \"start afresh\" in the given sentence</u>. Both expressions convey the idea of making positive changes and adopting a new, improved way of life.</li>\n\t<li><strong>Therefore, the correct answer is \"Turn over a new leaf.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a7ec9c83dec50291056cfd",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In the following sentence, a blank is given. Choose the pair of words from the options provided that best completes the sentence, making it grammatically correct and contextually meaningful. Note that both words in the selected pair should be capable of filling the blank appropriately.</strong></p>\n\n<p>Doctors, facing time constraints and limited resources, choose antibiotics over ________ examinations in overcrowded outpatient units.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "rigorous, superficial",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "comprehensive, thorough",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "irrelevant, perfunctory",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "extraneous, irrelevant",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "exhaustive, superficial",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 2.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<p><strong>To answer this question, let&#39;s first understand the given sentence:</strong></p>\n\n<p>Doctors, facing time constraints and limited resources, choose antibiotics over ________ examinations in overcrowded outpatient units.</p>\n\n<ul>\n\t<li>This sentence highlights that doctors, due to time and resource constraints, opt for antibiotics over comprehensive examinations in crowded outpatient units.</li>\n\t<li><u>The word that should fill in the blank is likely to indicate thorough patient assessments</u>.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Now, let&#39;s understand the meanings of the words given as options:</strong></li>\n\t<li><strong>Rigorous</strong> (adjective) - thorough and accurate; demanding strict attention to standards and procedures <strong>(कठोर)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The research study underwent <strong>rigorous </strong>scrutiny by experts before publication.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Superficial</strong> (adjective) - shallow or lacking in depth; concerned only with what is apparent or obvious <strong>(सतही)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Her analysis of the complex issue was criticized for being <strong>superficial </strong>and overlooking key factors.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Comprehensive</strong> (adjective) - complete and thorough; covering all or nearly all elements or aspects <strong>(व्यापक)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>comprehensive </strong>report on the market trends provided valuable insights for investors.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Thorough</strong> (adjective) - detailed and exhaustive; complete in every respect <strong>(विस्तृत)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The detective conducted a <strong>thorough </strong>investigation to unravel the mystery.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Irrelevant</strong> (adjective) - not connected or applicable to the matter at hand; unrelated or immaterial <strong>(अनुपयुक्त)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The speaker&#39;s comments were deemed <strong>irrelevant </strong>to the main topic of the discussion.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Perfunctory</strong> (adjective) - carried out with minimal effort or enthusiasm; done in a routine and mechanical way <strong>(स्वाभाविक)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>His <strong>perfunctory </strong>response to the important question raised concerns about his commitment.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Extraneous</strong> (adjective) - unrelated or irrelevant to the subject being dealt with; unnecessary or superfluous <strong>(अनावश्यक)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The professor urged students to avoid including <strong>extraneous </strong>information in their research papers.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Exhaustive</strong> (adjective) - thorough and comprehensive; covering all possible details or aspects <strong>(पूर्ण)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>exhaustive </strong>list of references in the bibliography demonstrated the depth of the research.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the given sentence and the meanings of the given words, <u>we can conclude that the pair of words that best completes the sentence is \"comprehensive, thorough\" (option 2)</u>. This choice fits the context well, as it conveys the idea that doctors, due to time and resource constraints, choose antibiotics over comprehensive examinations in overcrowded outpatient units. This choice aligns with the need for a comprehensive/thorough assessment of patients.</li>\n\t<li><u>The complete sentence would be</u>: \"<strong>Doctors, facing time constraints and limited resources, choose antibiotics over <u>comprehensive/thorough</u> examinations in overcrowded outpatient units</strong>.\"</li>\n\t<li><strong>Therefore, the correct answer is \"comprehensive, thorough.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a7ebf862e51578634937df",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In the following sentence, there is one blank given. Also, a word in the sentence is highlighted in bold. Choose the pair of words that best fills in the blank and replaces the highlighted word, making the sentence grammatically correct and contextually meaningful.</strong></p>\n\n<p>The ________ fintech landscape demands ongoing professional development, emphasizing the importance of staying <strong>current</strong>&nbsp;with industry trends and emerging technologies.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "static, obsolete",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "dynamic, abreast",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "ambiguous, informed",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "vivacious, ignorant",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "consistent, unaware",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 2.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<p><strong>To answer this question, let&#39;s first understand the given sentence:</strong></p>\n\n<p>The ________ fintech landscape demands ongoing professional development, emphasizing the importance of staying <strong>current </strong>with industry trends and emerging technologies.</p>\n\n<ul>\n\t<li>This sentence highlights the importance of continuous learning in the ever-changing fintech industry, emphasizing the need to stay informed about emerging technologies for professional growth.&nbsp;</li>\n\t<li><u>The blank should be filled with a positive word, indicating the dynamic and evolving nature of the fintech industry</u>.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>The highlighted word is \"current.\"</strong></li>\n\t<li><strong>Current -</strong> happening or existing at the present time.\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>current </strong>economic situation has led to increased uncertainty in the business world.</li>\n\t</ul>\n\t</li>\n\t<li><u>The word that can replace the word \"current\" in the given sentence can be a word that signifies staying updated or informed</u>.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Now, let&#39;s understand the meanings of the given words as options:</strong></li>\n\t<li><strong>Static</strong> (adjective) - not changing or moving; lacking in progress or development <strong>(स्थायी)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The old factory still uses <strong>static </strong>machinery that has been in operation for decades.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Obsolete</strong> (adjective) - no longer in use or valid; outdated and replaced by newer alternatives <strong>(पुराना या अप्रचलित)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>As technology advances, many electronic devices become <strong>obsolete </strong>within a few years.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Dynamic</strong> (adjective) - characterized by constant change, activity, or progress <strong>(गतिशील)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The business world is highly <strong>dynamic</strong>, with market trends and consumer preferences evolving rapidly.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Abreast</strong> (adjective or adverb) - side by side and facing the same way; staying informed about the latest developments <strong>(समझदारी से, समर्थ, या अद्यतित)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Professionals need to stay <strong>abreast </strong>of industry trends to remain competitive.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Ambiguous</strong> (adjective) - having more than one possible interpretation or meaning; unclear or open to multiple interpretations <strong>(संदिग्ध या अस्पष्ट)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The instructions were <strong>ambiguous</strong>, leading to confusion among the team members.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Informed</strong> (adjective) - having knowledge or awareness about a particular subject or situation <strong>(सूचित)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>An <strong>informed </strong>decision requires thorough research and consideration of all relevant information.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Vivacious</strong> (adjective) - lively, animated, or full of energy and enthusiasm <strong>(जीवंत या ऊर्जावान)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Her <strong>vivacious </strong>personality made the party more enjoyable for everyone.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Ignorant</strong> (adjective) - lacking knowledge, awareness, or education about a specific subject or general matters <strong>(अज्ञानी)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>It is essential to educate people to eliminate <strong>ignorant </strong>beliefs and stereotypes.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Consistent</strong> (adjective) - unchanging in achievement or effect over a period of time; reliable and steady <strong>(सतत या स्थिर)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Successful athletes maintain a <strong>consistent </strong>training routine to enhance their performance.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Unaware</strong> (adjective) - lacking knowledge or awareness; not conscious of something <strong>(अनजान)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>She remained <strong>unaware </strong>of the surprise party planned by her friends.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the given sentence and the meanings of the given words, <u>we can conclude that option 2, \"dynamic, abreast,\" is the most appropriate choice</u>. This option effectively conveys the idea that the fintech landscape is dynamic and requires professionals to stay informed (abreast) of industry trends. It aligns with the context of continuous professional development in a rapidly changing field.</li>\n\t<li><strong>The complete sentence would be:</strong> \"The <u>dynamic</u> fintech landscape demands ongoing professional development, emphasizing the importance of staying <strong>abreast </strong>with industry trends and emerging technologies.</li>\n\t<li><strong>Therefore, the correct answer is \"dynamic, abreast.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a7ec28c6fc7475ef2dd73d",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In the following sentence, there is one blank given. Also, a word in the sentence is highlighted in bold. Choose the pair of words that best fills in the blank and replaces the highlighted word, making the sentence grammatically correct and contextually meaningful.</strong></p>\n\n<p>Space education, with an environmental and global ________, underscores Earth&#39;s <strong>fragility </strong>and the crucial role of satellites in climate change monitoring and disaster management.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "viewpoint, sheltered",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "isolation, irrelevance",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "precision, sensitive",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "perspective, vulnerability",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "innovation, advancement",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 4.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<p><strong>To answer this question, let&#39;s first understand the given sentence:</strong></p>\n\n<p>Space education, with an environmental and global ________, underscores Earth&#39;s <strong>fragility </strong>and the crucial role of satellites in climate change monitoring and disaster management.</p>\n\n<ul>\n\t<li>This sentence suggests that despite challenges, space education highlights Earth&#39;s fragility and the vital role of satellites in climate change monitoring and disaster management on a global scale.</li>\n\t<li><u>The word that should fill in the blank is likely to be broad, indicating a comprehensive and interconnected view of the world</u>.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>The highlighted word is \"fragility.\"</strong></li>\n\t<li><strong>Fragility -</strong> the quality of being delicate, vulnerable, or easily breakable; lacking robustness or stability <strong>(भंगुरता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>fragility </strong>of the antique glassware made handling it with extra care essential.</li>\n\t</ul>\n\t</li>\n\t<li><u>The word that can replace the word \"fragility\" in the given sentence can be a word that signifies susceptibility to harm or damage</u>.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Now, let&#39;s understand the meanings of the given words as options:</strong></li>\n\t<li><strong>Viewpoint</strong> (noun) - a particular way of considering or seeing something, often influenced by one&#39;s beliefs or experiences <strong>(दृष्टिकोण)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The artist&#39;s paintings reflect a unique <strong>viewpoint </strong>on the beauty of nature.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Sheltered</strong> (adjective) - protected or shielded from harm, danger, or unpleasantness <strong>(सुरक्षित)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The harbour provides a <strong>sheltered </strong>environment for boats during storms.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Isolation</strong> (noun) - the state of being alone, separated, or cut off from others; the condition of being isolated <strong>(अलगाव)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Long periods of <strong>isolation </strong>can have psychological effects on individuals.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Irrelevance</strong> (noun) - the quality or state of being unimportant or unrelated to the matter at hand <strong>(अप्रासंगिकता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>His comments were dismissed as <strong>irrelevance </strong>in the context of the discussion.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Precision</strong> (noun) - the quality of being exact, accurate, or meticulous in details <strong>(सुनिश्चितता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Scientific experiments require <strong>precision </strong>in measurement to obtain reliable results.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Sensitive</strong> (adjective) - easily affected or influenced emotionally; responsive to stimuli <strong>(संवेदनशील)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>She is a <strong>sensitive </strong>person who empathizes with others&#39; feelings.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Perspective</strong> (noun) - a particular attitude or way of regarding something; a point of view <strong>(दृष्टिकोण)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The historical event looked different when viewed from the <strong>perspective </strong>of various cultures.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Vulnerability</strong> (noun) - the state of being exposed to the possibility of harm, injury, or attack <strong>(भेदज्ञता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Children with disabilities may have a higher <strong>vulnerability </strong>to bullying.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Innovation</strong> (noun) - the introduction of new ideas, methods, or technologies; the act of innovating <strong>(नवीनता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Technological <strong>innovation </strong>has transformed the way we communicate and work.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Advancement</strong> (noun) - the process of moving forward or making progress, especially in knowledge, skills, or technology <strong>(आगे बढ़ना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Continuous learning is essential for personal and professional <strong>advancement</strong>.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the given sentence and the meanings of the given words, <u>we can conclude that the best pair of words to fill in the blank and replace the highlighted word \"fragility\" is \"perspective, vulnerability\" (Option 4)</u>. This choice provides a coherent and meaningful sentence, emphasizing the interconnected global perspective of space education and highlighting Earth&#39;s vulnerability in the context of climate change and disaster management.</li>\n\t<li><strong>The complete sentence would be:</strong> \"Space education, with an environmental and global <u>perspective</u>, underscores Earth&#39;s <strong>vulnerability</strong> and the crucial role of satellites in climate change monitoring and disaster management.\"</li>\n\t<li><strong>Therefore, the correct answer is \"perspective, vulnerability.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6555b82133eec02ab14f68c7",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Read the following paragraph carefully, which contains two missing words. Below, you will find five options, each containing a pair of words. Choose the pair that correctly fills the blanks in the paragraph to make it both contextually and grammatically correct. Mark the option that best completes the paragraph.</strong></p>\n\n<p>In the thick haze of Delhi&#39;s November smog, Fauzia Begum, 39, battles for breath as her brother wheels her to a doctor at AIIMS. Gasping in the toxic air, she faces ___<strong>(l)</strong>___ respiratory distress, a grim annual struggle compounded by the city&#39;s severe pollution, leaving her confined to hospital visits, grappling with the ___<strong>(ll)</strong>___ cycle of worsening health.</p>\n\n<p><strong>(i)</strong> Deterring, Eloquent<br />\n<strong>(ii)</strong> Conjuring, Tenacious<br />\n<strong>(iii)</strong> Recurring, Relentless</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only (iii)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only (ii)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only (i)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both (i) and (iii)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All (i), (ii), and (iii)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 1.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<p><strong>​​To answer this question, let&#39;s first carefully read the given paragraph and comprehend its context.</strong></p>\n\n<p>In the thick haze of Delhi&#39;s November smog, Fauzia Begum, 39, battles for breath as her brother wheels her to a doctor at AIIMS. Gasping in the toxic air, she faces ___<strong>(l)</strong>___ respiratory distress, a grim annual struggle compounded by the city&#39;s severe pollution, leaving her confined to hospital visits, grappling with the ___<strong>(ll)</strong>___ cycle of worsening health.</p>\n\n<p>The paragraph describes Fauzia Begum&#39;s struggle with respiratory distress worsened by Delhi&#39;s severe November smog. Despite hospital visits, she faces worsening health due to the city&#39;s persistent pollution.</p>\n\n<ul>\n\t<li><strong>Gasping in the toxic air, she faces ___(l)___ respiratory distress, a grim annual struggle compounded by the city&#39;s severe pollution, leaving her confined to hospital visits, grappling with the ___(ll)___ cycle of worsening health.</strong>\n\n\t<ul>\n\t\t<li>The first blank requires a term describing the repetitive nature of Fauzia&#39;s struggle, indicating it occurs repeatedly. The second blank needs a word depicting the continuous and unyielding nature of her health decline due to pollution.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Now, let&#39;s break down the words provided for the blanks:</strong></li>\n\t<li><strong>(i)</strong> <u>Deterring, Eloquent</u></li>\n\t<li><strong>Deterring -</strong> the act of discouraging or preventing someone from proceeding with an action by instilling fear or doubt <strong>(डराकर रोकना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The presence of security cameras can be <strong>deterring </strong>for potential intruders.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Eloquent -</strong> having or showing the ability to use language fluently and persuasively <strong>(सुवक्ता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>His <strong>eloquent </strong>speech captivated the audience and won their support for the cause.</li>\n\t</ul>\n\t</li>\n\t<li><strong>(ii)</strong> <u>Conjuring, Tenacious</u></li>\n\t<li><strong>Conjuring -</strong> the act of calling upon or summoning a spirit, demon, or supernatural entity, often through magic or incantation <strong>(जादू करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The magician impressed the audience by <strong>conjuring </strong>a rabbit out of an empty hat.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Tenacious -</strong> persistent, determined, and not easily letting go or giving up on something <strong>(दृढ़)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Despite facing numerous obstacles, her <strong>tenacious </strong>attitude helped her achieve her goals.</li>\n\t</ul>\n\t</li>\n\t<li><strong>(iii)</strong> <u>Recurring, Relentless</u></li>\n\t<li><strong>Recurring -</strong> happening repeatedly or frequently <strong>(पुनरावर्ती)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>recurring </strong>issues in the system required a comprehensive solution rather than temporary fixes.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Relentless -</strong> unyielding, continuous, persistent, or harsh <strong>(निष्ठुर)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>relentless </strong>pursuit of success often demands unwavering dedication and effort.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the meanings of the provided word pairs, it&#39;s evident that <strong>only the pair in option (iii) - \"Recurring, Relentless\" - effectively fits the context</strong>, addressing the ongoing respiratory distress due to pollution and the unrelenting cycle of declining health.</li>\n\t<li><strong>Therefore, the correct answer is \"Only (iii).\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a7ebac257be448e9f3872d",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><strong>Directions: In the following sentence, there is one blank given. Also, a word in the sentence is highlighted in bold. Choose the pair of words that best fills in the blank and replaces the highlighted word, making the sentence grammatically correct and contextually meaningful.</strong></p>\n\n<p>The University Grants Commission&#39;s directive to display government logos ________ academic freedom, reflecting a pattern of political <strong>interference</strong>&nbsp;in universities&#39; autonomy.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "supports, autonomy",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "ameliorates, shunning",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "enhances, intervention",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "undermines, meddling",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "meliorates, neglecting",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 4.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<p><strong>To answer this question, let&#39;s first understand the given sentence:</strong></p>\n\n<p>The University Grants Commission&#39;s directive to display government logos ________ academic freedom, reflecting a pattern of political <strong>interference </strong>in universities&#39; autonomy.</p>\n\n<ul>\n\t<li>The sentence discusses how the University Grants Commission&#39;s order to showcase government logos threatens academic freedom, indicating a trend of political intervention in university autonomy.</li>\n\t<li><u>The word that should fill in the blank is likely to be negative, indicating a threat or violation of academic freedom</u>.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>The highlighted word is \"interference.\"</strong></li>\n\t<li><strong>Interference - </strong>the action of interfering or the process of being interfered with, typically to prevent normal operation <strong>(हस्तक्षेप)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>interference </strong>of external factors in the political process led to a disruption in the election proceedings.</li>\n\t</ul>\n\t</li>\n\t<li><u>The word that can replace the word \"interference\" in the given sentence can be a word that signifies involvement or intervention in a negative or unwanted manner, such as \"intrusion\" or \"meddling</u>.\"</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Now, let&#39;s understand the meanings of the given words as options:</strong></li>\n\t<li><strong>Supports</strong> (verb; 3rd person present) - provides assistance, encouragement, or backing to someone or something <strong>(समर्थन करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The community <strong>supports </strong>local businesses by regularly shopping at neighbourhood stores.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Autonomy</strong> (noun) - the ability or right of an individual, organization, or region to make independent decisions and act on them <strong>(स्वायत्तता)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Giving employees more <strong>autonomy </strong>in their work allows for greater creativity and job satisfaction.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Ameliorates</strong> (verb; 3rd person present) - improves or makes a situation better <strong>(सुधारना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The new policy <strong>ameliorates </strong>the impact of income inequality on marginalized communities.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Shunning</strong> (gerund or present participle) - deliberately avoiding or ignoring someone or something <strong>(टालना या अनदेखा करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>After the controversy, the celebrity experienced <strong>shunning </strong>from certain circles in the industry.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Enhances</strong> (verb; 3rd person present) - increases the quality, value, or attractiveness of something <strong>(बढ़ावा देना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The new software update <strong>enhances </strong>the user experience with improved features and functionality.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Intervention</strong> (noun) - involvement in a situation to alter or modify the course of events <strong>(हस्तक्षेप)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>International <strong>intervention </strong>is sometimes necessary to address humanitarian crises in conflict zones.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Undermines</strong> (verb; 3rd person present) - weakens or erodes the foundation or effectiveness of something <strong>(कमजोर करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>His constant criticism <strong>undermines </strong>her confidence, creating a hostile work environment.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Meddling</strong> (noun) - interfering or getting involved in other people&#39;s or organizations&#39; affairs without being invited or needed <strong>(हस्तक्षेप करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The politician accused the rival party of <strong>meddling </strong>in the election process.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Meliorates</strong> (verb; 3rd person present) - improves or makes a situation better&nbsp;<strong>(सुधारना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Her thoughtful advice <strong>meliorates </strong>the situation, bringing comfort and fostering positive change in relationships.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Neglecting</strong> (gerund or present participle) - failing to care for or pay attention to something or someone <strong>(उपेक्षा करना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li><strong>Neglecting </strong>regular maintenance can lead to the deterioration of machinery and equipment.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the given sentence and the meanings of the given words, <u>we can conclude that the correct pair of words to fill in the blank and replace the highlighted word \"interference\" is \"undermines, meddling</u>.\" This choice accurately captures the negative impact on academic freedom by suggesting that the directive weakens or erodes it and highlights the undesirable involvement or interference through \"meddling.\"</li>\n\t<li><strong>The complete sentence would be:</strong> \"The University Grants Commission&#39;s directive to display government logos <u>undermines</u> academic freedom, reflecting a pattern of political <strong>meddling </strong>in universities&#39; autonomy.</li>\n\t<li><strong>Therefore, the correct answer is \"undermines, meddling.\"</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6555ba3333eec02ab14fb47e",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><strong>Directions: Read the following paragraph carefully, which contains two missing words. Below, you will find five options, each containing a pair of words. Choose the pair that correctly fills the blanks in the paragraph to make it both contextually and grammatically correct. Mark the option that best completes the paragraph.</strong></p>\n\n<p>India&#39;s office real estate sector boasts affordable pricing, attracting multinational companies due to significantly lower operating costs than tier-2 U.S. cities. With the surge in digital innovation and a ___<strong>(l)</strong>___ tech workforce, modern tech-enabled workspaces are in high demand. The introduction of REIT regulations has spurred investments, leading to an expected ___<strong>(ll)</strong>___ growth in office space and continued expansion of India&#39;s office market.</p>\n\n<p><strong>(i)</strong> Burgeoning, Substantial<br />\n<strong>(ii)</strong> Splurging, Perturbable<br />\n<strong>(iii)</strong> Gorging, Significant</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only (iii)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only (ii)",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only (i)",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both (i) and (ii)",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both (ii) and (iii)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<p><strong>The correct answer is option 3.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></p>\n\n<p><strong>​To answer this question, let&#39;s first carefully read the given paragraph and comprehend its context.</strong></p>\n\n<p>India&#39;s office real estate sector boasts affordable pricing, attracting multinational companies due to significantly lower operating costs than tier-2 U.S. cities. With the surge in digital innovation and a ___<strong>(l)</strong>___ tech workforce, modern tech-enabled workspaces are in high demand. The introduction of REIT regulations has spurred investments, leading to an expected ___<strong>(ll)</strong>___ growth in office space and continued expansion of India&#39;s office market.</p>\n\n<p>The paragraph discusses India&#39;s office real estate sector, highlighting its affordability, appeal to multinational companies for cost savings, demand for tech-driven workspaces due to digital growth, and anticipated expansion fueled by investments and REIT regulations.</p>\n\n<ul>\n\t<li><strong>With the surge in digital innovation and a ___(l)___ tech workforce, modern tech-enabled workspaces are in high demand.</strong>\n\n\t<ul>\n\t\t<li>The first blank requires a word indicating rapid growth or increase.</li>\n\t</ul>\n\t</li>\n\t<li><strong>The introduction of REIT regulations has spurred investments, leading to an expected ___(ll)___ growth in office space and continued expansion of India&#39;s office market.</strong>\n\t<ul>\n\t\t<li>The second blank needs a term suggesting a substantial or considerable level of growth or expansion.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Now, let&#39;s break down the words provided for the blanks:</strong></li>\n\t<li><strong>(i)</strong> <u>Burgeoning, Substantial</u></li>\n\t<li><strong>Burgeoning -</strong> rapidly growing or expanding, developing quickly <strong>(बढ़ना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>The <strong>burgeoning </strong>tech industry in the city attracted entrepreneurs from around the world.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Substantial -</strong> of considerable importance, size, or worth; significant <strong>(संतोषजनक)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>She received a <strong>substantial </strong>raise after her exceptional performance at work.</li>\n\t</ul>\n\t</li>\n\t<li><strong>(ii)</strong> <u>Splurging, Perturbable</u></li>\n\t<li><strong>Splurging -</strong> spending money extravagantly or ostentatiously <strong>(फिजूलखर्ची)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>After receiving his bonus, he went <strong>splurging </strong>on designer clothes and expensive gadgets.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Perturbable -</strong> easily upset or agitated; prone to being disturbed or perturbed <strong>(विक्षुब्ध)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Her <strong>perturbable </strong>nature made it challenging for her to handle high-pressure situations calmly.</li>\n\t</ul>\n\t</li>\n\t<li><strong>(iii)</strong> <u>Gorging, Significant</u></li>\n\t<li><strong>Gorging -</strong> consuming a large amount of something, typically food, greedily or excessively <strong>(पेट भरना)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>After the hike, they were <strong>gorging </strong>on the delicious meal prepared by the campfire.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Significant -</strong> important, meaningful, having a particular meaning or bearing on an outcome <strong>(महत्वपूर्ण)</strong>\n\t<ul>\n\t\t<li><strong>For Example -</strong></li>\n\t\t<li>Her promotion to manager was a <strong>significant </strong>milestone in her career.</li>\n\t</ul>\n\t</li>\n\t<li>So, after understanding the meanings of the word pairs, it&#39;s evident that <strong>the pair (i) \"Burgeoning, Substantial\" aligns with the context of the paragraph.</strong> \"Burgeoning\" describes the rapid growth in demand for modern workspaces, and \"Substantial\" emphasizes the expected significant growth in office space due to investments spurred by REIT regulations.</li>\n\t<li><strong>Therefore, the correct answer is \"Only (i).\"</strong></li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:13.219Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

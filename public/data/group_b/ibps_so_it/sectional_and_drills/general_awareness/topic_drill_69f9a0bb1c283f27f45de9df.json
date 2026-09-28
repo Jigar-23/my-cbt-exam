@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0bb1c283f27f45de9df",
+  "title": "CT 18: General Awareness (Banking Terms)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5d565852fdb8bb5e5e5793de",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which among the following is the correct full form of ATM?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Automatic Trained Machine",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Automated Teller Machine",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Automatic Teller Machine",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Automated Technical Machine",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Automatic Tested Machine",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><u><strong>ATM-&nbsp;​Automated Teller Machine</strong></u></li>\n\t<li>ATM an <strong>electronic banking outlet </strong>that allows customers to complete basic transactions without going to the bank.</li>\n\t<li>First ATM by inventor-<strong> Shepherd-Barron.</strong> Nationality- <strong>Scottish</strong>.</li>\n\t<li>It was opened in <strong>1967</strong> at a branch of <strong>Barclays Bank</strong> in<strong> North London.</strong></li>\n\t<li><strong>Hongkong and Shanghai Banking Corporation introduced the ATM concept in India in 1987. The first ATM was set up in Andheri East, Mumbai.</strong></li>\n\t<li>The <strong>world&#39;s first-ever floating ATM</strong> on a boat in <strong>Kerala </strong>was set up by The<strong> State Bank of India.</strong></li>\n\t<li>According to the International Monetary Fund, India already has the <strong>fewest ATMs per 100,000 people among BRICS nations.</strong></li>\n\t<li>The drop in ATMs might continue as ATM operators are struggling to deal with the changing requirements by RBI which further need software and equipment upgrades that adds the costs.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5d3fe471fdb8bb0c5094dd3c",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which of the following is a loan&nbsp;that is made for a very short period of a few days only with a low rate of interest?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Call money",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Petty funds",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Undeposited funds",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Market capitalization",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><u><strong>Call Money is a loan that is made for a very short period of a few days or 1 day&nbsp;only with a low rate of interest .</strong></u></li>\n\t<li>The duration of the call money loan is 1 day.</li>\n\t<li>Banks resort to these type of loans to fill the asset liability mismatch, comply with the statutory CRR and SLR requirements and to meet the sudden demand of funds.&nbsp;</li>\n\t<li>RBI, banks, primary dealers etc are the participants of the call money market.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5b14e825be50660c2e419825",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "How many alphanumeric digits comprises in Basic Statistical Return (BSR)?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "6",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "8",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Basic Statistical Return Code (BSR) is:</p>\n\n<ul>\n\t<li>a seven-digit code</li>\n\t<li>provided to all the registered Indian banks by the RBI</li>\n\t<li>unique for each individual branch of a bank</li>\n\t<li>used in challan details and deductee details while filling TDS/TCS</li>\n</ul>\n\n<p>Example: 639 0419</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:350px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">first three digits</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">denote a particular bank</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">639</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">&ldquo;639&rdquo; represents &ldquo;ICICI bank&rdquo;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">last four digits</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">Represent a particular branch</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">0419</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:156px\">\n\t\t\t<p style=\"text-align: center;\">&ldquo;0419&rdquo; represents &ldquo;Lajpat Nagar, Delhi&rdquo; branch of ICICI bank</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\nHence, option (iv) is the correct answer.",
+          "topic": "Test"
+        },
+        {
+          "id": "5d3e5a64fdb8bb0c5094d9b2",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "DCCB is the federation of primary credit societies in a district.&nbsp;What does it refers to?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "District Credit Cooperative Board",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "District Cash Credit Banks",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "District Counter Capital Board",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "District Cooperative Central Banks",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Direct Credit Capital Board",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><u><strong>District&nbsp;Cooperative Central Banks are&nbsp;the federations of primary credit societies in a district</strong></u>.</li>\n\t<li>The funds of the bank consist of share capital, deposits, loans and overdrafts from state cooperative banks and joint stocks.</li>\n\t<li>These banks provide finance to member societies within the limits of the borrowing capacity of societies.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61540d717b83ffea23a51b9b",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<span style=\"\">A ____ occurs when a company is running low enough on cash so that it starts to have an impact on their operations.</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">Cash crunch</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Cash out",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">Basis Point</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">Bank Rate</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">Bancassurance</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><span style=\"\">A \"cash crunch\" occurs when a company is running low enough on cash so that it starts to have an impact on their operations.</span></li>\n\t<li><span style=\"\">A \"cash crunch\" doesn&#39;t necessarily mean that a company is going bankrupt - instead, it can simply mean that they need to convert some of their non-liquid assets into cash.</span></li>\n\t<li><span style=\"\">Definition of Cash Crunch in FinanceCompanies need cash to purchase equipment, pay employees, pay suppliers, etc. If a company is going through a \"cash crunch\", then they may have trouble paying these crucial cogs in their business.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd74cf3fca34a339d02711a",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>Which of the following statements is true about Derivatives?</p>\n\n<p>1. Derivatives can be used to hedge a position, speculate on the directional movement of an underlying asset, or give leverage to holdings.&nbsp;</p>\n\n<p>2. Common derivatives include futures contracts, forwards, options, and swaps.</p>\n\n<p>3. Derivative is a type of security that combines characteristics of both debt and equity securities</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only 1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only 1 and 3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only 1 and 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only 2 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1, 2 and 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The Correct Answer is&nbsp;<u><strong>Only 1 and 2.</strong></u></p>\n\n<ul>\n\t<li><strong>Derivative securities </strong>are financial instruments whose value depends on basic variables. The variables can be assets, such as stocks, bonds, currencies, interest rates, market indices, and goods. The main purpose of using derivatives is to consider and minimize risk. It is achieved by insuring against price movements, creating favorable conditions for speculations and getting access to hard-to-reach assets or markets.</li>\n\t<li>Formerly, derivatives were used to ensure balanced exchange rates for goods traded internationally. International traders needed an accounting system to lock their different national currencies at a specific exchange rate.</li>\n</ul>\n\n<p><strong>There are four main types of derivative securities:</strong></p>\n\n<ol>\n\t<li><strong>Futures </strong>Futures, also called futures contracts, are an agreement between two parties for the purchase and delivery of an asset at an agreed-upon price at a future date. Futures are traded on an exchange, with the contracts already standardized. In a futures transaction, the parties involved must buy or sell the underlying asset.</li>\n\t<li><strong>Forwards:</strong> Forwards, or forward contracts, are similar to futures, but do not trade on an exchange, only retailing. When creating a forward contract, the buyer and seller must determine the terms, size, and settlement process for the derivative.</li>\n\t<li><strong>Options:</strong> Options, or options contracts, are similar to a futures contract, as it involves the purchase or sale of an asset between two parties at a predetermined date in the future for a specific price. The key difference between the two types of contracts is that, with an option, the buyer is not required to complete the action of buying or selling.</li>\n\t<li><strong>Swaps:</strong> Swaps involve the exchange of one kind of cash flow with another. For example, an interest rate swap enables a trader to switch to a variable interest rate loan from a fixed interest rate loan, or vice versa.</li>\n</ol>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd34890404ca942ccf69f5e",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "In which of the following types of money, when notes and token coins cannot be converted into full-bodied money or gold, silver etc., but can be acceptable on the basic of government agreement?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Fiduciary Money",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Commodity Money",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Commercial Bank money",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Representative Money",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Fiat Money.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The Correct Answer is&nbsp;<u><strong>Flat Money.</strong></u></p>\n\n<ul>\n\t<li><strong>Fiat money:&nbsp;</strong>In case when notes and token coins cannot be converted into full-bodied money or gold, silver etc., but can be acceptable on the basis of government agreement (order or fiat), they are called<strong> fiat money.</strong></li>\n\t<li><strong>Representative money</strong>: All token coins and Paper notes which can be readily converted at fixed rate into fully-bodied coins or equivalent bullion (gold, silver, etc.), are collectively referred as &#39;representative money&#39;. T<strong>his kind of money was accepted in India in the year 1927 when rupee notes and coins were freely convertible into gold.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5dbbfd34f60d5d4453ecd0ad",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Which of the following keeps systematic record of all the economic transactions between one country and rest of the world?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Budget",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Balance of trade",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Balance of Payment",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Balance of Transactions",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "none of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is option 3, i.e.&nbsp;<strong><u>Balance of Payment.</u></strong></p>\n\n<ul>\n\t<li><strong>The balance of payments (BoP) records the transactions in goods, services, and assets between residents of a country with the rest of the world for a specified time period typically a year.&nbsp;</strong></li>\n\t<li>There are two main accounts in the BoP &ndash; the current account and the capital account.</li>\n\t<li>The current account records exports and imports in goods and services and transfer payments</li>\n\t<li>&nbsp;The capital account records all international purchases and sales of assets such as money, stocks, bonds, etc</li>\n\t<li>&nbsp;When exports exceed imports, there is a trade surplus and when imports exceed exports there is a trade deficit.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5d96e3c1f60d5d721e0e883a",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p>Regional Rural Banks will have a target of ______ of total outstanding for priority sector lending to weaker sections.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "18%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "10%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "15%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7.5%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is option 3, i.e. <u><strong>15%</strong></u></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: 700;\">​</span></u>The priority sector lending is mainly intended to ensure&nbsp;<span style=\"font-weight: 700;\">the financial assistance to those sectors of the economy which has not received adequate support of financial institutions.</span></li>\n\t<li>The Reserve Bank of India defined priority sectors as the sectors of the economy involving&nbsp;<span style=\"font-weight: 700;\">Agriculture, Finance, Retail Trade, Small Enterprises, Education Loans, Micro Credit and Housing Loans.</span></li>\n\t<li><span style=\"font-weight: 700;\">RBI sets and revises the limits of loans regarding these sectors according to the requirements of the economy.</span></li>\n\t<li>As per it, Regional Rural Banks&nbsp;will have a target of<span style=\"font-weight: 700;\">&nbsp;lending 75% of their total outstanding to these Priority Sectors</span></li>\n\t<li><span style=\"font-weight: 700;\">RRBs will have a sub-target of lending<u> 15%</u> loan if their total&nbsp;advances to weaker sections under Priority Sector Lendings.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "601d28cecde189254d0236c1",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "What is the largest network of Shared Automated Teller Machines called as?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "National Payment Corporation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "National Financial Switch",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "National Financial Security",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "National Financial Scheme",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The Correct answer is&nbsp;<u><strong>National Financial Switch.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<p><u><strong>National Financial Switch(NFS):</strong></u></p>\n\n<ul>\n\t<li>It is the <strong>largest network of shared Automated teller machines in India.</strong></li>\n\t<li>This&nbsp;<span style=\"color: rgb(49, 49, 49); \">network having <strong>37 members</strong> and connecting about<strong> 50,000 ATMs</strong> all over India.</span></li>\n\t<li><span style=\"color: rgb(49, 49, 49); \">It was designed and developed by&nbsp;<strong>Institute for Development and Research in Banking Technology (IDRBT)</strong> on December 14, 2009.</span></li>\n\t<li><span style=\"color: rgb(49, 49, 49); \">Owner:<strong> National Payments Corporation of India.</strong></span></li>\n\t<li>As of 31st Dec&nbsp;20, there were <strong>1,172 members that include 112 Direct, 1,009 Sub members, 45 RRBs, and 6 WLAOs using NFS network connected to more than 2.47 Lac ATM (including cash deposit machines/recyclers).</strong></li>\n\t<li>NFS has introduced a&nbsp;<strong>sub-membership model that enables smaller, regional banks including RRBs and local co-operative banks</strong> to participate in the ATM network.</li>\n\t<li>NFS has maintained<strong> high standards of application and network uptime of above 99.50% which has helped our member banks ensure an enhanced customer experience.</strong></li>\n\t<li>The <strong>Dispute Management System (DMS)</strong>, has benefitted members with high operational efficiency and ease of online transaction life cycle management (chargeback, resentment, etc.) in the network apart from being compliant with local regulatory requirements.</li>\n\t<li>NPCI has also tied up with International card schemes like <strong>Discover Financial Service (DFS), Japan Credit Bureau (JCB), and China UnionPay International (CUPI)</strong> which allows their cardholders to use ATMs connected to the NFS network.</li>\n\t<li>The <strong>Fraud Risk Management (FRM) solution</strong> is offered as a value-added service to monitor transactions (in real-time) and to generate alert or decline the transaction in the NFS network.</li>\n\t<li>Apart from basic transactions, NFS also provided some value-added services like <strong>Interoperable Cash Deposit (ICD), Mobile Banking Registration (MBR)<br />\n\tCard-to-Card Fund Transfer (C2C), Cheque Book Request (CBR), Statement Request (SR).</strong></li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:08:09.275Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

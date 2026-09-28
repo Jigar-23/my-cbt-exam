@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a09bd9447558328ec070",
+  "title": "CT 2: General Awareness (RBI structure & Function)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "657176b0cd1c1eab8dabf0a9",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which of the following function is not performed by Reserve Bank of India?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">Issue of currency notes</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">Credit control</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">To accept deposits on interest from public</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both 1 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The incorrect statement is&nbsp;<strong><span style=\"\">To accept deposits on interest from the public.</span></strong></p>\n\n<p><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong><span style=\"\"><u><strong>Reserve Bank of India</strong></u> -</span>The Reserve Bank of India (RBI) was founded in 1935 as a private organisation before becoming India&#39;s central bank in 1949.</p>\n\n<p>The RBI&#39;s primary objective is to carry out comprehensive supervision of the Indian financial sector, which consists of commercial banks, financial institutions, and non-banking financing companies.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span><u><strong>Functions&nbsp;of&nbsp;</strong><span style=\"\"><strong>Reserve Bank of India are as follows</strong> -&nbsp;</span></u></p>\n\n<p><strong>1. Monetary Authority&nbsp;</strong>-&nbsp;The RBI&#39;s primary responsibility is developing and implementing India&#39;s monetary policy. The RBI&#39;s major problem as a monetary authority is striking a balance between \"price stability\" and \"future economic growth.\"</p>\n\n<p><strong>2. Currency Issuer </strong>- The RBI is in charge of printing and releasing fresh banknotes in India.</p>\n\n<p><strong>3. Regulator and supervisor of the financial system</strong> -&nbsp;RBI establishes the guidelines by which Indian banks and the financial system must function.</p>\n\n<p><strong>4. Government banker</strong> - The RBI is the retail bank for the Government of India, much as retail and commercial banks provide services to the general public (GOI). For the GOI, RBI also serves as a merchant banker.</p>\n\n<p><strong>5. Foreign Exchange&#39;s&nbsp;Manager </strong>-&nbsp;In India, all money transfers must follow FEMA regulations (Foreign Exchange Management Act). The RBI is in charge of making sure that transactions follow FEMA regulations.</p>\n\n<p><strong>6. Banker to Banks</strong> - The RBI has an account with every bank in India. In this account, they maintain their required reserves and other deposits. Therefore, RBI also serves as a bank to the banks in this way. The RBI is in charge of overseeing interbank transactions. As a rare circumstance, RBI may also extend credit to banks.</p>\n\n<p><strong>Thus, To accept deposits on interest from public is not&nbsp;a&nbsp;function&nbsp;performed by Reserve Bank of India. It is a function of Commercial Banks.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a1241a72b4413bb3ec7215",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "How many sub-indices are there in the Financial Inclusion Index report released by RBI?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "6",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<strong><u>3</u></strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>There are <u><strong>3 sub-indices</strong></u> in the<u><strong>&nbsp;Financial Inclusion Index&nbsp;Report</strong></u> released by the&nbsp;<u><strong>RBI</strong></u>.</li>\n\t<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">The sub Indices are further divided into the following:</span>\n\t<ul>\n\t\t<li><strong>Access</strong>-&nbsp; Divided into four dimensions. Banking, Digital, Pension and Insurance. Comprised of 26&nbsp; Indicators.</li>\n\t\t<li><strong>Usage</strong>-&nbsp; Divided into five dimensions. Savings and Investment, Credit, Digital, Insurance and&nbsp; Pension. Comprised of 52 Indicators.</li>\n\t\t<li><strong>Quality</strong>- Divided into three dimensions. Financial Literacy, Consumer protection, and inequality. With a total of 19 indicators.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a422960e41beed26c37a41",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "In January 2024, the Reserve Bank of India (RBI) increased the minimum capital requirement for Small Finance Banks (SFBs) from Rs 100 crore to Rs __________ Payments Banks to upgrade as SFBs.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "200 crore",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "300 crore",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "400 crore",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "500 crore",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "600 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <strong><u>200 crore.</u></strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0);  \">RBI doubles the minimum capital requirement to Rs 200 cr for SFB.</span></strong></li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0);  \">The Reserve Bank&nbsp;raised the minimum capital requirement for small finance banks to Rs 200 crore and permitted Payments Bank to upgrade as SFBs.&nbsp;</span></strong></li>\n\t<li><font color=\"#000000\">This move aims to enhance the financial resilience of SFBs and ensure their long-term sustainability.</font></li>\n\t<li><font color=\"#000000\">It is worth noting that all SFBs currently in operation have a net worth exceeding Rs 200 crore.</font></li>\n\t<li>For Primary urban cooperative banks that voluntarily wish to transition into SFBs, the initial net worth requirement has been set at Rs 100 crore.</li>\n\t<li>These UCBs must increase their net worth to Rs 200 crore within five years from the commencement of business.</li>\n\t<li>Payments banks, after five years of operations and meeting the eligibility criteria, can apply for conversion into SFBs.</li>\n\t<li>This provision opens up new opportunities for payment banks to expand their services and cater to a broader customer base.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><u><strong>RBI</strong></u>\n\n\t<ul>\n\t\t<li>Established in - 1935</li>\n\t\t<li>HQ - Mumbai</li>\n\t\t<li>Governor - ShaktiKanta Das</li>\n\t</ul>\n\t</li>\n\t<li>Note: In May 2024 RBI has updated the minimum capital requirement for small finance bank upto 300cr.&nbsp;</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a65a63f38b230cb268cde6",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "According to section ________ of the Reserve Bank of India Act, 1934, the bank has full authority to issue banknotes of all denominations.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "25",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "22",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "20",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "32",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "19",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is&nbsp;<u><strong><span style=\"\">22.</span></strong></u><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>According to&nbsp;<span style=\"font-weight: 700;\">Section 22 of the RBI Act, 1934</span>&nbsp;the Reserve bank of India has sole right to issue currency or&nbsp;<span style=\"font-weight: 700;\">print currency</span>&nbsp;in India.</li>\n\t<li><span style=\"font-weight: 700;\">Section 25 of the RBI Act, 1934</span>&nbsp;provides&nbsp;<span style=\"text-align: justify;\">that the&nbsp;<span style=\"font-weight: 700;\">design, form, and material of bank notes</span>&nbsp;shall be such as may be approved by the Central Government after consideration of the recommendations made by the Central Board of RBI.</span></li>\n\t<li><span style=\"font-weight: 700;\">Section 24 of the RBI Act 1934</span>&nbsp;states that the&nbsp;<span style=\"font-weight: 700;\">maximum denomination</span>&nbsp;of note printed in India is<span style=\"font-weight: 700;\">&nbsp;Rs.10000.</span></li>\n\t<li><span style=\"font-weight: 700;\">Section 26&nbsp;of the RBI Act 1934</span>&nbsp;states the<span style=\"font-weight: 700;\">&nbsp;legal tender character</span>&nbsp;of Indian banknotes.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul dir=\"ltr\">\n\t<li role=\"presentation\">RBI was established on&nbsp;<span style=\"font-weight: 700;\">April 1, 1935</span>, under the Reserve Bank of India Act,1934.</li>\n\t<li role=\"presentation\">Current Governor of RBI is&nbsp;<strong>Sanjay Malhotra</strong><span style=\"font-weight: 700;\">(26th).</span></li>\n\t<li role=\"presentation\"><span style=\"font-weight: 700;\">Sir Osborne Smith</span>&nbsp;was the first governor of RBI and&nbsp;<span style=\"font-weight: 700;\">C.D Deshmukh</span>&nbsp;was the first Indian governor of RBI.</li>\n\t<li role=\"presentation\">It operates the&nbsp;<span style=\"font-weight: 700;\">currency and credit&nbsp;</span>system of the country.</li>\n\t<li role=\"presentation\">It is called the&nbsp;<span style=\"font-weight: 700;\">Bankers Bank of India.</span></li>\n\t<li>It<span style=\"font-weight: 700;\">&nbsp;formulates, implements, and monitors</span>&nbsp;the monetary policy.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65dd8f81ac6054f08770b34e",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "As per the Reserve Bank of India, what is the target and tolerance band for inflation?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "the target of 4.5 percent with a plus or minus two percent tolerance band",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "the target of 2.5 <span style=\"color: rgb(33, 37, 41);\">percent&nbsp;</span>with a plus or minus two percent tolerance band",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "the target of 3.5 <span style=\"color: rgb(33, 37, 41);\">percent</span>&nbsp;with a plus or minus two <span style=\"color: rgb(33, 37, 41);\">percent&nbsp;</span>tolerance band",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "the target of 4&nbsp;<span style=\"color: rgb(33, 37, 41);\">percent</span>&nbsp;with a plus or minus two <span style=\"color: rgb(33, 37, 41);\">percent&nbsp;</span>tolerance band",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "the target of 5.5 <span style=\"color: rgb(33, 37, 41);\">percent</span>&nbsp;with a plus or minus two percent tolerance band&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is the&nbsp;<u><span style=\"font-weight: 700;\">target of 4 percent with a plus or minus two percent tolerance band</span></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>Reserve Bank of India</strong>&nbsp;proposed to retain the current numerical framework for the target and tolerance band for inflation &mdash; the&nbsp;<strong>target of 4 percent with a plus or minus two percent tolerance band</strong> &mdash; for the <strong>next five years</strong>.</li>\n\t<li>This has been proposed due to the repetitive incidence of supply shocks, still elevated inflation expectations, and projection errors.</li>\n\t<li>The RBI said, &#39;The current tolerance band of plus or minus two percent may be retained notwithstanding the central tendency emerging from the country&#39;s experience of lowering targets and narrowing bands over time.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65ddac5290557d812d336a65",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "As per the RBI&#39;s guidelines on Responsible Lending Conduct, the Regulated Entities (REs) shall release all the original movable/immovable property documents and remove charges registered with any registry within a period of _______ days after full repayment/ settlement of the loan account.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "15",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "30",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "45",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "60",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>30</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>As per the <u><strong>RBI&#39;s guidelines on Responsible Lending Conduct</strong></u>, the <u><strong>Regulated Entities (REs)</strong></u> shall release all the original movable/immovable property documents and remove charges registered with any registry within a period of <u><strong>30 days</strong></u> after full repayment/ settlement of the loan account.\n\n\t<ul>\n\t\t<li>The borrower shall be given the option of collecting the original movable/immovable property documents either from the banking outlet/branch where the loan account was serviced or any other office of the RE where the documents are available, as per her / his preference.</li>\n\t\t<li>In case of delay in releasing of original movable/immovable property documents or failure to file charge satisfaction form with the relevant registry beyond 30 days after full repayment/ settlement of the loan, the RE shall communicate to the borrower the reasons for such delay.</li>\n\t\t<li>In the case where the delay is attributable to the RE, it shall compensate the borrower at the rate of ₹5,000/- for each day of delay.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65e3497c47003551069c6b03",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "The Reserve Bank of India has granted a Payment Aggregator license to Mumbai-based Mswipe Technologies Private Limited. It is issued under which section of the Payment and Settlement Systems Act, 2007?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Section 4",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Section 5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Section 6",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Section 7",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Section 8",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Section 7.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>RBI grants payment aggregator license to Mswipe Technologies.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Merchant-led digital payments</strong> provider <strong>Mswipe Technologies</strong> said the <strong>Reserve Bank of India</strong> had granted it a payment aggregator (PA) license.</li>\n\t<li>The<strong> Reserve Bank of India (RBI) </strong>granted a <strong>Payment Aggregator (PA) </strong>license to <strong>Mswipe Technologies Private Limited</strong> under <strong>Section 7 of the Payment and Settlement Systems Act, 2007</strong>.</li>\n\t<li>The company received an in-principle nod from the central bank to operate as a payment aggregator in August 2022.</li>\n\t<li>After receiving RBI&rsquo;s in-principle nod for the license, Mswipe was looking to pilot its payment gateway stack with its existing merchant base.</li>\n\t<li>It also aids offline merchants with loans as well as store and inventory management solutions.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><strong><font color=\"#000000\">RBI</font></strong></u>\n\n\t<ul>\n\t\t<li><font color=\"#000000\">​Established in - 1935</font></li>\n\t\t<li><font color=\"#000000\">HQ - Mumbai</font></li>\n\t\t<li><font color=\"#000000\">Governor - ShaktiKanta Das</font></li>\n\t</ul>\n\t</li>\n\t<li><u><strong>​Mswipe Technologies Private Limited</strong></u>\n\t<ul>\n\t\t<li>Founded in - 2011</li>\n\t\t<li>It provides payment solutions, including point-of-sale devices, unified payments interface (UPI), quick response codes and payment links to help offline merchants receive payments digitally.</li>\n\t\t<li>HQ - Mumbai</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65f345af3b6c12ab4259d8c2",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "In February 2024, RBI allows banks, and non-banks to issue PPIs to commuters for Public Transport. What is the Cash loading limit of PPIs?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 20,000/- per month",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs 25,000/- per month",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs 30,000/- per month",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 45,000/- per month",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs 50,000/- per month",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs 50,000/- per month.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>RBI allows banks, and non-banks to issue PPIs to commuters for public transport.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The Reserve Bank of India (RBI)&nbsp;amended the Master Direction on prepaid payment instruments (PPI), allowing banks and non-bank PPI issuers to give these instruments for public transport.&nbsp;</strong></li>\n\t<li style=\"text-align: left; \"><span style=\"text-align: justify;\">T</span><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">he cash loading of PPIs is limited to<strong> ₹50,000/- per month </strong>subject to the overall limit of the <strong>PPI (not permitted in one type of Small PPI). </strong></span></li>\n\t<li style=\"text-align: left; \"><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">The limit on loading of PPIs via <strong>electronic/online </strong>means is subject to the overall limit of the PPI.</span></li>\n\t<li>In an announcement, the <strong>RBI </strong>said, \"To provide convenience, speed, affordability, and safety of digital modes of payment to commuters for transit services, it has been decided to permit authorized bank and non-bank PPI issuers to issue PPIs for making payments across various public transport systems.\"</li>\n\t<li><span style=\"color: rgb(40, 43, 50);  \">The <strong>Master Directions on PPIs </strong>were originally issued in <strong>2021</strong>.</span></li>\n\t<li>The total amount debited during any given month shall not exceed<strong> ₹10,000/-.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align); display: inline !important;\">PPIs</strong>\n\n\t<ul>\n\t\t<li><span style=\"color: rgb(0, 0, 0);  \">PPIs are instruments that facilitate the purchase of goods and services, conduct of financial services, enable remittance facilities, etc., against the value stored therein.</span></li>\n\t</ul>\n\t</li>\n</ul>\n\n<ul>\n\t<li><u><strong><span style=\"color: rgb(0, 0, 0);  \">RBI</span></strong></u>\n\n\t<ul>\n\t\t<li><span style=\"color: rgb(0, 0, 0);  \">​Established in - 1935</span></li>\n\t\t<li><span style=\"color: rgb(0, 0, 0);  \">HQ - Mumbai</span></li>\n\t\t<li><span style=\"color: rgb(0, 0, 0);  \">Governor - ShaktiKanta Das</span></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "65faaf7c959eb5f0dbc6f804",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p>Consider the statements: Which of the following statements is/are correct?</p>\n\n<p>A. RBI launches the March 2024 round of the Inflation Expectations Survey of Households.</p>\n\n<p>B. The survey aims at capturing subjective assessments of price movements and inflation, based on their individual consumption baskets, across 20 cities.</p>\n\n<p>C. The agency, M/s Hansa Research Group Pvt. Ltd. Mumbai has been engaged to conduct the survey of this round on behalf of the RBI.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both A and C",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Both A and C.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">The Reserve Bank of India has been regularly conducting a Consumer Confidence Survey (CCS). </span><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">The&nbsp;</span><span class=\"links\" style=\"background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; line-height: 20px;   text-align: justify;\" target=\"_blank\">March 2024 round</span><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">&nbsp;of the survey is being launched.</span></strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>RBI launches the March 2024 round of the Inflation Expectations Survey of Households.</strong></li>\n\t<li><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">The survey seeks qualitative responses from households, regarding their sentiments on the general economic situation, employment scenario, price level, household income, and spending. </span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">The survey is conducted regularly in&nbsp;</span><span class=\"head\" style=\" font-weight: bold;  text-align: justify;\">19</span><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">&nbsp;cities, viz., <strong>Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Delhi, Guwahati, Hyderabad, Jaipur, Jammu, Kolkata, Lucknow, Mumbai, Nagpur, Patna, Raipur, Ranchi and Thiruvananthapuram</strong>.&nbsp;</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);   text-align: justify;\"><strong>The agency, M/s Hansa Research Group Pvt. Ltd</strong>., Mumbai has been engaged to conduct the survey of this round on behalf of the Reserve Bank of India.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">For this purpose, the selected households will be approached by the agency and they are requested to provide their responses.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">Other individuals, who are not approached by the agency, can also participate in this survey by providing their responses using the&nbsp;</span><span class=\"links\" style=\"background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; line-height: 20px;   text-align: justify;\" target=\"_blank\">linked survey schedule</span><span style=\"color: rgb(0, 0, 0);   text-align: justify;\">.&nbsp;</span></li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0);   text-align: justify;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li style=\"text-align: justify; \"><u><font color=\"#000000\"><strong>RBI</strong>&nbsp;</font></u>\n\n\t<ul>\n\t\t<li style=\"text-align: justify; \"><font color=\"#000000\">​Established in 1935</font></li>\n\t\t<li style=\"text-align: justify; \"><font color=\"#000000\">HQ - Mumbai</font></li>\n\t\t<li style=\"text-align: justify; \"><font color=\"#000000\">Governor - ShaktiKanta Das</font></li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "66d04fda90d16c71600847a7",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "The RBI has announced the formation of a 10-member &#39;Expert Committee on Benchmarking of its Statistics&#39;. Who is heading this committee?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Shaktikanta Das",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Muneesh Kapur",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Michael Debabrata Patra",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "R B Barman",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Partha Ray",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Michael Debabrata Patra.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The RBI has announced setting up a 10-member &lsquo;Expert Committee on Benchmarking of its Statistics&rsquo; under the leadership of deputy governor Michael Debabrata Patra.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Michael Debabrata Patra is the deputy governor of the RBI and is heading this committee.</strong></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">The committee has been tasked to submit its report by the end of November 2024.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">It will also study the quality of other regular data and provide guidance on further data refinement.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">Members include RBI executive directors Muneesh Kapur and O P Mall, and experts such as R B Barman and Sonalde Desai.</span></li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Michael Debabrata Patra</span></u>\n\n\t<ul>\n\t\t<li>He is the deputy governor of the Reserve Bank of India (RBI).</li>\n\t\t<li>Patra has extensive experience in economic research and monetary policy formulation.</li>\n\t\t<li>He has served as the executive director of the Monetary Policy Department of RBI before being appointed as deputy governor.</li>\n\t\t<li>He has also represented India at various international forums and has a deep understanding of macroeconomic issues.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">RBI&#39;s Expert Committee on Benchmarking Statistics</span></u>\n\t<ul>\n\t\t<li>The committee is formed to benchmark the quality of the RBI&rsquo;s statistics against global standards.</li>\n\t\t<li>It includes members from various prestigious institutions and former officials with significant experience in statistics and data management.</li>\n\t\t<li>The committee&#39;s mandate includes evaluating the current statistical processes and suggesting improvements.</li>\n\t\t<li>The final report will guide the RBI in refining its data collection and analysis methods, which are crucial for policy formulation.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:29.845Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

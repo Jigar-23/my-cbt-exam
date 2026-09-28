@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a103c3253290ecf8c3c6",
+  "title": "CT 9: Quantitative Aptitude (Ratio and Proportion)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5c1a26b9e2a22a0caf4fd6e3",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "5 years ago, the total of age of Nikita, Jinal, Himani and Palak is 83.33% of the sum of total age along with their one friend named Seema. If the current average of 5 friends is 35. Find the age of Seema after 3 years from now.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "32",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "28",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "33",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "22",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "27",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Average = sum of term/Number of term</p>\n\n<p>For the sum of their current age,</p>\n\n<p>&rArr; 35 = Sum of age of 5 friend/5</p>\n\n<p>&rArr; Sum of age of 5 friends = 175</p>\n\n<p>&rArr; Sum of age of 5 friends before 5 years = 175 - 5(5) = 175 - 25 = 150</p>\n\n<p>As per data given in the question,</p>\n\n<p>Total age of 4 friends = 83.33% of 150 = (5/6) &times; 150 = 125</p>\n\n<p>Age of Seema = 150 - 125 = 25 years</p>\n&there4; Current age of Seema = 25 + 5 + 3 = 33 years",
+          "topic": "Test"
+        },
+        {
+          "id": "5c00d1537d67020c879d5788",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>The age of Aman&rsquo;s grandfather was 9 times Aman&rsquo;s&nbsp;age 16 years ago. The grandfather would be 3 times of Aman&rsquo;s&nbsp;age, 8 years from now. What is the ratio of the present age of Aman&rsquo;s age and his grandfather&rsquo;s age?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3 ∶ 11",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4 ∶ 9",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "5 ∶ 12",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "8 ∶ 23",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "3 ∶ 7",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Suppose the ages of Aman and his grandfather are &lsquo;A&rsquo; and &lsquo;B&rsquo;</p>\n\n<p>&rArr; [B &ndash; 16] = 9 &times; [A &ndash; 16]</p>\n\n<p>&rArr; 9A &ndash; B = 128</p>\n\n<p>And</p>\n\n<p>&rArr; [B + 8] = 3 &times; [A + 8]</p>\n\n<p>&rArr; B &ndash; 3A = 16</p>\n\n<p>Solving both equations,</p>\n\n<p>&rArr; A = 24 and B = 88</p>\n\n<p>&there4; Ratio of the present age of Aman&rsquo;s&nbsp;and his grandfather&rsquo;s&nbsp;= 24 ∶ 88 = 3 ∶ 11</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5bfe2e4083cf9c0c9303fe7f",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>A sum of money is divided among A, B, C and D. The amount received by A and B together is 50% of the amount received by C and D together. C got 140% of the amount received by B and A got 60% of the amount received by B. Find the ratio in which the amount was divided?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A ∶ B ∶ C ∶ D = 2 ∶ 5 ∶ 6 ∶ 8",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "A ∶ B ∶ C ∶ D = 3 ∶ 5 ∶ 7 ∶ 9",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "A ∶ B ∶ C ∶ D = 1 ∶ 5 ∶ 7 ∶ 5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "A ∶ B ∶ C ∶ D = 3 ∶ 5 ∶ 7 ∶ 17",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Let <strong>B</strong> be 100 units.</p>\n<p>Then <strong>A</strong> = 60% of B = 60 units and <strong>C</strong> = 140% of B = 140 units.</p>\n<p>Ratio <strong>A : B : C</strong> = 60 : 100 : 140 = <strong>3 : 5 : 7</strong>.</p>\n<p>Given <strong>(A + B)</strong> = 50% of <strong>(C + D)</strong> &rarr; (3 + 5) = 0.5 &times; (7 + D) &rarr; 8 = 0.5 &times; (7 + D) &rarr; 16 = 7 + D &rarr; <strong>D = 9</strong>.</p>\n<p><strong>&there4; The correct answer is A ∶ B ∶ C ∶ D = 3 ∶ 5 ∶ 7 ∶ 9.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>A = 60% of B, C = 140% of B, (A + B) = 50% of (C + D)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_faf8fdda.png/1785514114.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 200px;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>&rArr; Let B = x</p>\n<p>&rArr; A = 0.6x and C = 1.4x</p>\n<p>&rArr; Ratio A : B : C = 0.6x : x : 1.4x = 6 : 10 : 14 = 3 : 5 : 7</p>\n<p>&rArr; Let A = 3k, B = 5k, C = 7k</p>\n<p>&rArr; (A + B) = 0.5 &times; (C + D)</p>\n<p>&rArr; (3k + 5k) = 0.5 &times; (7k + D)</p>\n<p>&rArr; 8k = 0.5 &times; (7k + D)</p>\n<p>&rArr; 16k = 7k + D</p>\n<p>&rArr; D = 9k</p>\n<p>&rArr; A : B : C : D = 3k : 5k : 7k : 9k = 3 : 5 : 7 : 9</p>\n<p><strong>&there4; The correct answer is A ∶ B ∶ C ∶ D = 3 ∶ 5 ∶ 7 ∶ 9.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Ratio and Proportion</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Ratio is a comparison of two quantities by division. If a : b = c : d, then ad = bc (Product of extremes = Product of means).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Percentage to Ratio Conversion</p>\n<p style='margin:0 0 8px 0;color:#444444;'>To convert x% to a ratio, divide by 100 and simplify. Example: 60% = 60/100 = 3/5, 140% = 140/100 = 7/5.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Compounding Ratios</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When multiple individual ratios are given relative to a common term (like B in this problem), equate the common term to find the combined ratio.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5be943eafaa6fb0ca8deaa22",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "The ratio of incomes of P, Q and R is 3 : 7 : 4 and the ratio of their expenditures is 4 : 3 : 5. If P saves <span class=\"math-tex\">\\(14\\frac{2}{7}\\%\\)</span>&nbsp;of his income, then find the ratio of the saving done by P, Q and R.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4 : 5 : 1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "6 : 71 : 11",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "8 : 61 : 13",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7 : 45 : 12",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>∵ The ratio of incomes of P, Q and R = 3 : 7 : 4</p>\n\n<p>We can also write as:</p>\n\n<p>Ratio of incomes = 3x : 7x : 4x</p>\n\n<p>∵ The ratio of expenditures of P, Q and R = 4 : 3 : 5</p>\n\n<p>We can also write as:</p>\n\n<p>Ratio of expenditures = 4y : 3y : 5y</p>\n\n<p>&there4; Ratio of savings of P, Q &amp; R = (3x &ndash; 4y) : (7x &ndash; 3y) : (4x &ndash; 5y)</p>\n\n<p>∵ P saves <span class=\"math-tex\">\\(14\\frac{2}{7}\\% \\left( {{\\rm{}} = {\\rm{}}1/{7^{th}}} \\right)\\)</span>&nbsp;of his income;</p>\n\n<p>&there4; (Income of P)/(Exp. of P) = 3x/4y = 7/6</p>\n\n<p>&rArr; x/y = 14/9</p>\n&there4; Ratio of savings of P, Q and R = (42 &ndash; 36) : (98 &ndash; 27) : (56 &ndash; 45) = 6 : 71 : 11",
+          "topic": "Test"
+        },
+        {
+          "id": "5bdffb999235ce735881dd4b",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "A sum of Rs. 2500 was lent partly at 8% per annum simple interest and partly at 5% per annum simple interest. If the total interest received after 3 years was Rs. 519 then find the ratio in which the sum is lent at 8% and 5% per annum.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3 : 2",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "9 : 16",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "17 : 8",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "16 : 9",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "8 : 17",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the sum lent at 8% be &lsquo;x&rsquo; and the sum lent at 5% be &lsquo;(2500 &ndash; x)&rsquo;</p>\n\n<p>&rArr; [x &times; 8 &times; 3] /100 + [(2500 &ndash; x) &times; 5 &times; 3] /100 = 519</p>\n\n<p>&rArr; 24x/100 + 375 &ndash; 15x/100 = 519</p>\n\n<p>&rArr; 9x/100 = 144</p>\n\n<p>&rArr; x = 1600</p>\n\n<p>&rArr; Sum lent at 8% = Rs. 1600 and Sum lent at 5% = Rs. 900</p>\n&there4; Ratio = 16 : 9",
+          "topic": "Test"
+        },
+        {
+          "id": "5b31d907165ca2529bfd6568",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>The ratio of number of single and double bedsheets in a box of a certain company is 14 : 9 and ratio of price of single bedsheet and double bedsheet is 3 : 7. If a box of that company is sold to wholesaler then find the ratio of total price of single bedsheets and total price of double bedsheets.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "6 : 1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2 : 9",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3 : 2",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "14 : 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2 : 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given,</p>\n\n<p>Let the number of single bedsheets and double bedsheets be m and n respectively.</p>\n\n<p>Let the price of a single bedsheets and a double bedsheet be a and b respectively.</p>\n\n<p>The ratio of number of single and double bedsheets in a box of a certain company is 14 : 9.</p>\n\n<p>&rArr; (m : n) = (14 : 9)</p>\n\n<p>Given,</p>\n\n<p>The ratio of price of single bedsheet and double bedsheet is 3 : 7.</p>\n\n<p>&rArr; (a : b) = (3 : 7)</p>\n\n<p>If two different ratios are expressed in different units then to combine both ratio we use compounded ratio formula:</p>\n\n<p>(m : n) and (a : b) = (ma : nb)</p>\n\n<p>The ratio of total price of single bedsheets and total price of double bedsheets =</p>\n\n<p>= (14 : 9) and (3 : 7)</p>\n\n<p>= (14 &times; 3) : (9 &times; 7)</p>\n\n<p>= 2 : 3</p>\n\n<p>&there4; The ratio of total price of single bedsheets and total price of double bedsheets is 2 : 3.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5aa914e35098033fdc38b1d9",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>There are 19068 employees in 4 Companies altogether. If two - third of the first, five-seventh of the second, one and a half of the third and one-fourth of the fourth are the same number of employees, then find the ratio of number of employees of A and D if A, B, C and D be the first, second, third and fourth companies respectively.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "8 ∶ 3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "35 ∶ 83",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "315 ∶ 804",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "804 ∶ 305",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "3 ∶ 8",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Four employees of the company are designated by A, B, C and D</p>\n\n<p>As per given condition,</p>\n\n<p>&rArr; (2/3) A = (5/7) B = (3/2) C = (1/4) D</p>\n\n<p>&rArr; A ∶ B = 15 ∶ 14</p>\n\n<p>&rArr; B ∶ C = 21 ∶ 10</p>\n\n<p>&rArr; C ∶ D = 1 ∶ 6</p>\n\n<p>&rArr; A ∶ B ∶ C ∶ D = (15 &times; 21 &times; 1) ∶ (14 &times; 21 &times; 1) ∶ (14 &times; 10 &times; 1) ∶ (14 &times; 10 &times; 6)</p>\n\n<p>&rArr; A ∶ B ∶ C ∶ D = 315 ∶ 294 ∶ 140 ∶ 840</p>\n\n<p>&there4; Ratio of A to D = 315 ∶ 840 = 3 ∶ 8</p>\n\n<p><strong><img height=\"46px\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage37.png\" width=\"240px\" />&nbsp;</strong></p>\n\n<p>&rArr; (2/3) A = (5/7) B = (3/2) C = (1/4) D = k</p>\n\n<p>&rArr; A ∶ B ∶ C ∶ D = (3/2) k = (5/7) k = (2/3) k = (4/1) k</p>\n\n<p>By taking the LCM, we get,</p>\n\n<p>&rArr; A ∶ B ∶ C ∶ D = 45k ∶ 42k ∶ 20k ∶ 120k</p>\n\n<p>&rArr; A ∶ D = 45 ∶ 120 = 3 ∶ 8</p>\n\n<p>&there4; A ∶ D = 3 ∶ 8</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5a859462f6bf310f8c1b8fe7",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>The ratio of the number of boys to the number of girls studying in a school is 25 ∶ 17. The total number of students studying in the school is 462. If 15 boys and 15 girls take admission in the school, what will be the new ratio of the boys and girls studying in the school?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "145 ∶ 101",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "137 ∶ 103",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "133 ∶ 102",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "147 ∶ 103",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "151 ∶ 107",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span id=\"docs-internal-guid-5812f951-7fff-0886-fe93-9d620aec9598\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">GIVEN :</span></span></p>\n\n<p>The ratio of the number of boys to the number of girls studying in a school is 25 ∶ 17.</p>\n\n<p>Total no. of students in the school = 462</p>\n\n<p>&nbsp;</p>\n\n<p><span id=\"docs-internal-guid-96f82447-7fff-ee2e-32b5-4dd26caf1030\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">CONCEPT :</span></span></p>\n\n<p><span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ratio &amp; Proportion</span></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"white-space: pre-wrap;\"><span style=\"font-weight: 700;\">ASSUMPTION :</span></span></p>\n\n<div>Let the number (no.) of boys and girls in the school be 25x and 17x respectively.</div>\n\n<p>&nbsp;</p>\n\n<p><span id=\"docs-internal-guid-de87b3e7-7fff-90ce-04f5-6a0fa14d7e60\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">CALCULATION :</span></span></p>\n\n<p>&rArr; 25x + 17x = 462</p>\n\n<p>&rArr; 42x = 462</p>\n\n<p>&rArr; x = 462/42 = 11</p>\n\n<p>No. of boys in the school = 25x = 25 &times; 11 = 275</p>\n\n<p>No. of girls in the school = 17x = 17 &times; 11 = 187</p>\n\n<p><strong>If 15 boys and 15 girls take admission in the school:</strong></p>\n\n<p>Total no. of boys in the school = 275 + 15 = 290</p>\n\n<p>Total no. of girls in the school = 187 + 15 = 202</p>\n\n<p>New ratio of the boys and girls studying in the school<strong> = </strong>290 ∶ 202 = 145 ∶ 101</p>\n\n<p>&there4; New ratio of the boys and girls studying in the school = 145 ∶ 101</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5aa628a7249fec39f13a3428",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p>A certain sum of money was to be divided among Ankur, Brijesh, and Cheena in the ratio 5 : 7 : 13 respectively, but was wrongly divided in the ratio 5 : 4 : 7 respectively. As a result of this, Brijesh got Rs 240 less, What is the total amount</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "5500",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "7600",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "6200",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "8000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "9324",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the total amount be x, then</p>\n\n<p>True distribution among Ankur, Brijesh and Cheena should be</p>\n\n<p>Ankur&#39;s share = 5x/25, Brijesh&#39;s share = 7x/25, Cheena&#39;s share = 13x/25</p>\n\n<p>And Wrong distribution among Ankur, Brijesh and Cheena is</p>\n\n<p>Ankur&#39;s share = 5x/16, Brijesh&#39;s share = 4x/16 = x/4, Cheena&#39;s share = 7x/16</p>\n\n<p>It is given that Brijesh got Rs 240 less</p>\n\n<p><strong>&rArr; </strong>(7x/25) - (x/4) = 240</p>\n\n<p><strong>&rArr; </strong>(28x - 25x)/100 = 240</p>\n\n<p><strong>&rArr; </strong>3x = 24000</p>\n\n<p><strong>&rArr; </strong>x = 8000</p>\n\n<p><strong>&there4;</strong> The amount is Rs. 8000</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5a859336f6bf310f8c1b50ba",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>Dinesh distributed his savings among his wife, two sons and one daughter in such a way that wife gets double of what each son gets and each son gets double of what the daughter gets. If the amount received by each son is Rs. 44,742, what was the total amount distributed by Dinesh?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 2,01,450",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 2,10,350",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 2,01,339",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 2,10,450",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Wife gets double of what each son gets and each son gets double of what the daughter gets i.e.&nbsp;</p>\n\n<p>Wife = 2&nbsp;&times; son = 2&nbsp;&times; daughter.</p>\n\n<p>Each son gets = Rs. 44742</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Here we will be using the fundamental concept of ratio.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the amount distributed by Dinesh among his wife, each son and daughter be &lsquo;x&rsquo;, &rsquo;y&rsquo; and &rsquo;z&rsquo; respectively.</p>\n\n<p>Amount received by wife = x = 2y</p>\n\n<p>Amount received by each son = y = 2z = Rs. 44,742</p>\n\n<p>&rArr; y = Rs. 44,742 and z = Rs. 22,371</p>\n\n<p>Total amount distributed by Dinesh = x + 2y + z = 2y + 2y + z = 4y + z = 4 &times; 44742 + 22371 = Rs. 2,01,339</p>\n\n<p>&there4; Total amount distributed by Dinesh = Rs. 2,01,339</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:21.063Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

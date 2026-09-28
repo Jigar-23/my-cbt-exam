@@ -1,0 +1,22 @@
+{
+  "testId": "69df6095ad9290c28de257b7",
+  "title": "Reasoning Ability (Mock Test)",
+  "category": "Group B",
+  "exam": "SBI PO",
+  "totalDurationMinutes": 840,
+  "totalMarks": 100,
+  "positiveMarks": 1,
+  "negativeMarks": 0.25,
+  "sections": [
+    {
+      "id": "66743434e9190b6f399a5146",
+      "name": "Test",
+      "questions": []
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T08:20:45.372Z",
+    "totalQuestions": 0,
+    "imagesCount": 0
+  }
+}

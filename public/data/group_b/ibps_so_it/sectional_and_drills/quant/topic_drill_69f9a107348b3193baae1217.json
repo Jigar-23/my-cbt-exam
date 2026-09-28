@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a107348b3193baae1217",
+  "title": "CT 11: Quantitative Aptitude (Simple Interest)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "608e0c1b832ae1440c28ddc8",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "A certain sum of money amounts to Rs. 720 in 2 years and Rs. 870 in 4.5 years, with same rate of simple interest. Find the sum.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 500",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 600",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 540",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 680",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Amount in 2 years = Rs. 720</p>\n\n<p>Amount in 4.5 years = Rs. 870</p>\n\n<p><span style=\"font-weight: 700;\">&nbsp;Formula used:</span></p>\n\n<p>Simple interest(SI) = [Principal(P) &times; Rate &times; Time] / 100</p>\n\n<p>And Amount = Principal + SI</p>\n\n<p><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p>Let the sum(principal) be P and the rate of interest be R</p>\n\n<p>So, 720 = Principal + SI</p>\n\n<p>&rArr; 720 = P + (P &times; R &times; 2)100&nbsp; &nbsp; &nbsp; ......(i)</p>\n\n<p>And 870 = P + SI</p>\n\n<p>&rArr; 870 = P + (P &times; R &times; 4.5)/100&nbsp; &nbsp; &nbsp; &nbsp; ......(ii)</p>\n\n<p>Equation (ii) - (i)</p>\n\n<p>(2.5 &times; P &times; R)/100 = 150</p>\n\n<p>&rArr; P &times; R = 6000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;......(iii)</p>\n\n<p>Now, from eq.(i),</p>\n\n<p>720 = P + (6000&nbsp;&times; 2)/100</p>\n\n<p>&rArr; P = 720 - 120 = Rs. 600</p>\n\n<p><strong>&there4; The sum is Rs. 600</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f9681fe05ba6c6bedc247a4",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "A and B borrowed Rs.&nbsp; 15,000 and Rs. 18,000 respectively at the same rate of interest for 3 (1/2) years. If B paid Rs. 315 more interest than A. Find the rate of interest.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3 %",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4 %",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1 %",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6 %",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5 %",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Simple interest paid by&nbsp; B &ndash; Simple interest paid by A = Rs. 315</p>\n\n<p>Principal for B = Rs. 18,000; Principal for A = Rs. 15,000</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>S.I. = ( P &times; R &times; T)/100</p>\n\n<p>Where P, R and T represents Principal, rate and time respectively.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>(18,000 &times; r &times; 3.5/100) &ndash; (15,000 &times; r &times; 3.5/100) = 315</p>\n\n<p>&rArr;630r - 525 r = 315</p>\n\n<p>&rArr;105 r = 315</p>\n\n<p>&rArr;r = 3 %</p>\n&there4; Rate is 3% per annum.",
+          "topic": "Test"
+        },
+        {
+          "id": "6964671d8891b6e03d550e27",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "Rs. 5,500 is invested in three parts all at simple interest of 5% p.a. These three parts are invested for 2 years, 4 years and 6 years respectively such that the interest received from the given three parts after desired period of investment is same. Find the difference between the smallest and the largest part of the investment.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<p>Rs. 1,600</p>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<p style=\"color: rgb(33, 37, 41);\">Rs. 2,400</p>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<p style=\"color: rgb(33, 37, 41);\">Rs. 2,000</p>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<p style=\"color: rgb(33, 37, 41);\">Rs. 1,800</p>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">None of these</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the amount invested in three parts be Rs. &#39;p&#39;, Rs. &#39;q&#39; and Rs. &#39;r&#39;</p>\n\n<p>ATQ;</p>\n\n<p>(p X 0.05 X 2) = (q X 0.05 X 4) = (r X 0.05 X 6)</p>\n\n<p>Or, 0.10p = 0.20q = 0.30r</p>\n\n<p>Or, p = 2q = 3r</p>\n\n<p>Let p = 2q = 3r = &#39;6t&#39;</p>\n\n<p>So, p = 6t</p>\n\n<p>And, q = (6t/2) = &#39;3t&#39;</p>\n\n<p>And, r = (6t/3) = &#39;2t&#39;</p>\n\n<p>So, p + q + r = 5500</p>\n\n<p>Or, 6t + 3t + 2t = 5500</p>\n\n<p>Or, 11t = 5500</p>\n\n<p>Or, t = 500</p>\n\n<p>So, required difference = 6t &ndash; 2t = 4t = 4 X 500 = Rs. 2,000</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "68b4e8ec8ebf68ef674f604b",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "The rate of interest on a sum of money is 4% per annum for the first 2 years, 6% per annum for the next 4 years and 8% per annum for the period beyond 6 years. If the simple interest accrued on the sum for a total period of 9 years is Rs. 1680, what is the sum?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "3150",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3200",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2980",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let,</p>\n\n<p>Sum invested&nbsp; = P</p>\n\n<p>Simple Interest = (P x R x T) / 100</p>\n\n<p>Therefore,</p>\n\n<p>SI at the rate of 4% for 2 years = ( P &times; 4 &times; 2) / 100 = 2P / 25</p>\n\n<p>SI at the rate of 6% for 4 years = ( P &times; 6 &times; 4 ) / 100&nbsp;<span style=\"color: rgb(33, 37, 41);\">= 6P / 25</span></p>\n\n<p>Therefore,</p>\n\n<p>Remaining time = 9 - ( 2 + 4) = 3 years</p>\n\n<p>Thus,</p>\n\n<p>SI for the next 3 years = ( P &times; 8 &times; 3 ) / 100 = 6P / 25</p>\n\n<p>Total SI incurred over period of 9 years&nbsp;= (2P / 25) + (6P / 25) + (6P / 25) = 14P / 25</p>\n\n<p>Total SI after 9 years is 1680</p>\n\n<p>Therefore,</p>\n\n<p>14P / 25 = 1680</p>\n\n<p>P = (1680 x 25) / 14</p>\n\n<p><strong>P = Rs. 3000</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6031002530a06587f9ab317e",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>A sum is invested at the rate of 5% per annum on simple interest, amounts Rs. 132 in 2 years. The same sum is invested at twice the previous rate at simple interest per annum for 3.5 years amounts-&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "152",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "150",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "162",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "115",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "250",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Solution:</strong></p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>SI = Amount &ndash; Principal</p>\n\n<p>SI = P &times; T &times; R /100</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Let the principal be Rs. x.</p>\n\n<p>Amount = Rs. 132</p>\n\n<p>SI = 132 &ndash; x&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ----(1)</p>\n\n<p>Also SI = x &times; 2 &times; 5 /100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ----(2)</p>\n\n<p>Equating equation (1) and (2)</p>\n\n<p>&rArr; x &times; 2 &times; 5 /100 = 132 &ndash; x</p>\n\n<p>&rArr; 11x = 1320</p>\n\n<p>&rArr; x = 120</p>\n\n<p>If the rate becomes two times i.e. 10% per annum,</p>\n\n<p>&rArr; SI = 120 &times; 3.5 &times; 10 /100</p>\n\n<p>&rArr; SI = 42</p>\n\n<p>&rArr; Amount = 120 + 42 = Rs. 162</p>\n\n<p><strong>Hence it amounts Rs. 162 at the rate 10% for 3.5 years.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6670ec15c9a5b8db07ea7fb1",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Three persons P, Q and R lend Rs. 4000, Rs. x and Rs. 5000 respectively at 6% rate of interest for 5 years. If the interest received after 5 years from Q and R is Rs. 2850. Then find the difference between the interest received by the P and Q.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 160",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 180",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs.150",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 120",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 200",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Amount lent by P = ₹4000</p>\n\n<p>Amount lent by Q = ₹x</p>\n\n<p>Amount lent by R = ₹5000</p>\n\n<p>Rate of interest (r) = 6%</p>\n\n<p>Time (t) = 5 years</p>\n\n<p>Interest from Q and R = ₹2850</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Simple Interest (SI) = (P &times; r &times; t) / 100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Interest from R: SI<sub>R</sub> = (5000 &times; 6 &times; 5) / 100</p>\n\n<p>&rArr; SI<sub>R</sub> = ₹1500</p>\n\n<p>Interest from Q: SI<sub>Q</sub> = ₹2850 - ₹1500</p>\n\n<p>&rArr; SI<sub>Q</sub> = ₹1350</p>\n\n<p>(x &times; 6 &times; 5) / 100 = 1350</p>\n\n<p>&rArr; (30x) / 100 = 1350</p>\n\n<p>&rArr; 30x = 1350 &times; 100</p>\n\n<p>&rArr; x = 135000 / 30</p>\n\n<p>&rArr; x = ₹4500</p>\n\n<p>Interest received by P: SI<sub>P</sub> = (4000 &times; 6 &times; 5) / 100</p>\n\n<p>&rArr; SI<sub>P</sub> = ₹1200</p>\n\n<p>Interest received by Q: SI<sub>Q</sub> = ₹1350</p>\n\n<p>Difference between SI<sub>P</sub> and SI<sub>Q</sub> = ₹1350 - ₹1200</p>\n\n<p>&rArr; Difference = ₹150</p>\n\n<p><strong>&there4; The difference between the interest received by P and Q is ₹150.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc254ae99bf680dd5b6301c",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "The amount of a certain sum with simple interest for 15 years is Rs. 439.80 and with simple interest for 7.5 years more is 523.047. Find the rate percent per annum (approx.) at which interest is reckoned?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "7%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "5%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "9%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "12%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Interest for <strong>7.5 years</strong> = Amount<sub>(22.5 yrs)</sub> &minus; Amount<sub>(15 yrs)</sub> = ₹523.047 &minus; ₹439.80 = ₹83.247</p>\n<p>Interest for <strong>15 years</strong> = 2 &times; ₹83.247 = ₹166.494</p>\n<p><strong>Principal (P)</strong> = ₹439.80 &minus; ₹166.494 = ₹273.306</p>\n<p>Rate (R) = (SI<sub>15</sub> &times; 100) &divide; (P &times; T) = (166.494 &times; 100) &divide; (273.306 &times; 15) &asymp; 4%</p>\n<p><strong>&there4; The correct answer is 4%.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_9533e146.png/1785491193.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 200px;\"></div>\n<p><strong>Given:</strong></p>\n<p>Amount after <strong>15 years</strong> (A<sub>1</sub>) = ₹439.80</p>\n<p>Amount after <strong>22.5 years</strong> (A<sub>2</sub>) = ₹523.047</p>\n<p><strong>Formula Used:</strong></p>\n<p>SI = (P &times; R &times; T) &divide; 100</p>\n<p>Amount = P + SI</p>\n<p><strong>Calculations:</strong></p>\n<p>&rArr; SI for 7.5 years = A<sub>2</sub> &minus; A<sub>1</sub> = 523.047 &minus; 439.80 = ₹83.247</p>\n<p>&rArr; SI for 1 year = 83.247 &divide; 7.5 = ₹11.0996</p>\n<p>&rArr; SI for 15 years = 11.0996 &times; 15 = ₹166.494</p>\n<p>&rArr; Principal (P) = A<sub>1</sub> &minus; SI<sub>15</sub> = 439.80 &minus; 166.494 = ₹273.306</p>\n<p>&rArr; Rate (R) = (SI for 1 year &times; 100) &divide; P</p>\n<p>&rArr; R = (11.0996 &times; 100) &divide; 273.306</p>\n<p>&rArr; R = 1109.96 &divide; 273.306 &asymp; 4.06%</p>\n<p><strong>&there4; The correct answer is 4%.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Simple Interest Nature</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">In Simple Interest, the interest remains <strong>constant</strong> every year as it is always calculated on the original <strong>Principal</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Rate Calculation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Rate % = (SI for 1 year &divide; Principal) &times; 100. Always ensure the <strong>Principal</strong> and <strong>Interest</strong> are for the same sum.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Difference between SI and CI</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For the first year (if compounded annually), <strong>Simple Interest</strong> and <strong>Compound Interest</strong> are equal on the same principal and rate.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "65bd31aacf8338902ae873d3",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "If the annual rate of simple interest increases from 10% to&nbsp;<span class=\"math-tex\">\\(12 \\frac{1}{2}\\%\\)</span>,&nbsp;a man&rsquo;s yearly income increases by Rs. 1,250. His principal (in Rs.) is",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "45,000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "50,000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "65,000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "More than one of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Initial interest rate = 10%</p>\n\n<p>Final interest rate = 12.5%</p>\n\n<p>Increase in income = Rs. 1,250</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>The increase in income is caused by the difference in interest earned at the two rates. We can use the formula for simple interest:</p>\n\n<p>Interest = Principal x Rate x Time</p>\n\n<p>Since the time (one year) remains constant, we can express the difference in interest as:</p>\n\n<p>Increase in income = Difference in interest = P x (Final rate - Initial rate)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let&nbsp;Principal&nbsp;be P</p>\n\n<p><span class=\"math-tex\">\\(1250 = {P \\over100} \\times (12.5 - 10)\\)</span></p>\n\n<p><span class=\"math-tex\">\\(1250 \\times 100= {P} \\times (2.5)\\)</span></p>\n\n<p><span class=\"math-tex\">\\({P} ={{1250 \\times 100}\\over2.5}\\)</span></p>\n\n<p>P = 50,000</p>\n\n<p><strong>Therefore, the man&#39;s principal is Rs. 50,000.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e302df6f60d5d1aad2d1a51",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "A man lends a certain sum of money at simple interest. Rate of interest for first one and a half years is 8%, for next 6 months is 10%, for next 10 months is 12% after that 4%. If he received Rs. 11200 as interest at the end of 4 years and 1 months, Find the principal.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 33000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 45000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 25500",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 32500",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 35000",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the principal&nbsp;be Rs. P.</p>\n\n<p>Now,</p>\n\n<p>The simple interest for first one and a half year = (P &times; 8 &times; 3/2)/100</p>\n\n<p>&rArr; 12P/100</p>\n\n<p>The Simple interest for next 6 months = (P &times; 10 &times; 1/2)/100</p>\n\n<p>&rArr; 5P/100</p>\n\n<p>The Simple interest for next 10 months = (P &times; 12 &times; 10/12)/100</p>\n\n<p>&rArr; 10P/100</p>\n\n<p>The Simple interest for the remaining 15 months = (P &times; 4 &times; 15/12)/100</p>\n\n<p>&rArr; 5P/100</p>\n\n<p>According to question,</p>\n\n<p>12P/100 + 5P/100 + 10P/100 + 5P/100 = 11200</p>\n\n<p>&rArr; 32P/100 = 11200</p>\n\n<p>&rArr; P = 11200 &times; 100/32</p>\n&there4; P = Rs. 35000",
+          "topic": "Test"
+        },
+        {
+          "id": "5fbd01d1a2b52f7e58772a64",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>Neeraj invests an amount of Rs. 12,000 for three years. The rate of interest for the first, second, and, third-year respectively are 10%, 5%, and 15%. Find the interest earned after three years.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 1,200",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 2,400",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 3,600",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 4,800",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 5,400",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>The amount invested = Rs. 12,000</p>\n\n<p>Interest earned for first-year = 10%</p>\n\n<p>Interest earned for second year = 5%</p>\n\n<p>Interest earned for the third year = 15%</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Simple interest = PNR/100</p>\n\n<p>P &ndash; Principal</p>\n\n<p>N &ndash; number of terms</p>\n\n<p>R &ndash; Rate of interest</p>\n\n<p>SI for three years = SI for 1<sup>st</sup> year + SI for 2<sup>nd</sup> year + SI for 3<sup>rd</sup> year</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>SI for 1<sup>st</sup> year = 12,000 &times; 1 &times; 10/100</p>\n\n<p>&rArr; SI for 1<sup>st</sup> year = Rs. 1,200</p>\n\n<p>SI for 2<sup>nd</sup> year = 12,000 &times; 1 &times; 5/100</p>\n\n<p><strong>&rArr;</strong> SI for 2<sup>nd</sup> year = Rs. 600</p>\n\n<p>SI for 3<sup>rd</sup> year = 12,000 &times; 1 &times; 15/100</p>\n\n<p>&rArr; SI for 3<sup>rd</sup> year = Rs. 1,800</p>\n\n<p>SI for three years = Rs. 1,200 + Rs. 600 + Rs. 1,800</p>\n\n<p>&rArr; SI for three years = Rs. 3,600</p>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage3484.png\" /></p>\n\n<p>Rate of interest for three years together= Rate of interest for (1<sup>st</sup>-year +2<sup>nd</sup> year + 3<sup>rd</sup> year)</p>\n\n<p>Rate of interest for three years together = 30%</p>\n\n<p><strong>Rate of interest for one year at 30% rate = Rate of interest for (1<sup>st</sup>-year +2<sup>nd</sup> year + 3<sup>rd</sup> year)</strong></p>\n\n<p>Interest after three years = 12,000 &times; 1 &times; 30/100</p>\n\n<p>&rArr; Interest after three years = Rs. 3,600.</p>\n\n<p><strong>&there4;</strong><strong> The interest earned after three years is Rs.3,600.</strong></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:25.565Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

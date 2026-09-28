@@ -1,0 +1,909 @@
+{
+  "testId": "69f9a09775ebbbe81716b0d7",
+  "title": "IBPS SO General/Financial Awareness (Mock Test)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "General Awareness",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 20,
+  "totalDurationMinutes": 16,
+  "totalMarks": 20,
+  "sections": [
+    {
+      "id": "64f829d3585b8ffaaac8d5c7",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 20,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "69ce6e216596a1258a471ad2",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Where is the headquarters of the Oriental Insurance Company Limited (OICL) located?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Mumbai",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Kolkata",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "New Delhi",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Chennai",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Bengaluru",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>New Delhi.</strong></u></p> <p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p> <ul> <li><strong>The Oriental Insurance Company Limited (OICL), headquartered in New Delhi, recently achieved a milestone by crossing ₹20,000 crore in Gross Premium for FY 2025–26.</strong></li> </ul> <p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p> <ul> <li><strong><span style=\"color: rgb(0, 0, 0); \">Oriental Insurance Company Ltd was incorporated on September 12, 1947, in Mumbai, but its head office is currently situated in New Delhi.</span></strong></li> <li><span style=\"color: rgb(0, 0, 0); \">It is a <strong>Public Sector General Insurance Company</strong> entirely owned by the Government of India.</span></li> <li><span style=\"color: rgb(0, 0, 0); \">The company operates across India and also has a presence in foreign countries like Nepal, Kuwait, and Dubai.</span></li> <li><span style=\"color: rgb(0, 0, 0);\"><u><span style=\"font-weight: bolder;\">OICL Profile</span></u></span> <ul> <li>Established - 1947</li> <li>Ownership - Government of India</li> <li>Specialization - General Insurance (Non-Life)</li> </ul> </li> </ul> <p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p> <ul> <li><u><span style=\"font-weight: bolder;\">New India Assurance (NIACL)</span></u> <ul> <li>Headquarters - Mumbai (Largest public sector general insurer).</li> </ul> </li> <li><u><span style=\"font-weight: bolder;\">National Insurance Company (NICL)</span></u> <ul> <li>Headquarters - Kolkata.</li> </ul> </li> <li><u><span style=\"font-weight: bolder;\">United India Insurance (UIICL)</span></u> <ul> <li>Headquarters - Chennai.</li> </ul> </li> </ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5b55e809fbe2870c2b08e3e2",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Which was the first Indian bank to open a branch outside India in London in 1946?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Bank of India",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Indian Bank",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Union Bank of India",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Punjab &amp; National bank",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Indian Overseas Bank",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li>\n\t<p>The correct answer is the&nbsp;<u><span style=\"font-weight: 700;\">Bank of India</span></u></p>\n\n\t<div class=\"first-sentence-half\" style=\"box-sizing: inherit;   display: inline;\"><strong>Bank of India</strong> was the first Indian bank to open its<strong> London branch in 1946.</strong></div>\n\n\t<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"background-color: (255, 255, 255);width:350px;\">\n\t\t<tbody>\n\t\t\t<tr>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Bank</span></td>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Headquarters</span></td>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Tagline</span></td>\n\t\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">ESTD.</span></td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Bank of India</span></td>\n\t\t\t\t<td style=\"text-align: center;\">&nbsp;Mumbai</td>\n\t\t\t\t<td style=\"text-align: center;\">Relationship beyond Banking</td>\n\t\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t\t<td style=\"text-align: center;\">7 September 1906.</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Indian Bank</span></td>\n\t\t\t\t<td style=\"text-align: center;\">Chennai</td>\n\t\t\t\t<td style=\"text-align: center;\">Your Own Bank, Banking That&#39;s Twice As Good</td>\n\t\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t\t<td style=\"text-align: center;\">March 5, 1907</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Union Bank of India</span></td>\n\t\t\t\t<td style=\"text-align: center;\">Mumbai</td>\n\t\t\t\t<td style=\"text-align: center;\">Good People to Bank with</td>\n\t\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t\t<td style=\"text-align: center;\">11 November 1919</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Punjab National Bank</span></td>\n\t\t\t\t<td style=\"text-align: center;\">New Delhi​</td>\n\t\t\t\t<td style=\"text-align: center;\">The name you can bank upon</td>\n\t\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t\t<td style=\"text-align: center;\">May 19, 1894</td>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Indian Overseas Bank</span></td>\n\t\t\t\t<td style=\"text-align: center;\">Chennai​</td>\n\t\t\t\t<td style=\"text-align: center;\">Good People to Grow With</td>\n\t\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t\t<td style=\"text-align: center;\">10 February 1937</td>\n\t\t\t</tr>\n\t\t</tbody>\n\t</table>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69f86e012c77bc769bdd7d80",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">What is the maximum period for which a bank can hold a &#39;Doubtful Asset&#39; before it is classified as a &#39;Loss Asset&#39; if it remains uncollectible?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">1 Year</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">2 Years</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">3 Years</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">There is no fixed period; it depends on the auditor/RBI inspection</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">None of the Above</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>There is no fixed period; it depends on the auditor/RBI inspection</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li>According to the <strong>Reserve Bank of India (RBI)</strong> guidelines, a <strong>Non-Performing Asset (NPA)</strong> is classified into three categories based on the period for which the asset has remained non-performing: <strong>Sub-standard</strong>, <strong>Doubtful</strong>, and <strong>Loss Assets</strong>.</li>\n    <li>A <strong>Sub-standard Asset</strong> is one that has remained an <strong>NPA</strong> for a period less than or equal to <strong>12 months</strong>. If an asset stays in the sub-standard category for more than <strong>12 months</strong>, it is subsequently classified as a <strong>Doubtful Asset</strong>.</li>\n    <li>A <strong>Loss Asset</strong> is defined as an asset where loss has been identified by the <strong>bank</strong>, its <strong>internal or external auditors</strong>, or during an <strong>RBI inspection</strong>, but the amount has not been written off wholly.</li>\n    <li>Crucially, there is <strong>no fixed time-bound transition</strong> from the <strong>Doubtful</strong> category to the <strong>Loss</strong> category. An asset remains \"Doubtful\" until it is specifically identified as \"uncollectible\" by an authority. <em>Hence, Option D is the correct statement.</em></li>\n    <li>Options <strong>1 Year</strong>, <strong>2 Years</strong>, and <strong>3 Years</strong> are incorrect because while they relate to sub-categories of doubtful assets (D1, D2, D3), they do not trigger an automatic classification as a <strong>Loss Asset</strong>. <em>Hence, statements A, B, and C are incorrect.</em></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Categories of Doubtful Assets:</strong> To refine risk assessment, <strong>Doubtful Assets</strong> are divided into three tiers based on the duration they have spent in the doubtful category:\n        <ul>\n            <li><strong>Doubtful 1 (D1):</strong> Up to <strong>one year</strong>.</li>\n            <li><strong>Doubtful 2 (D2):</strong> Between <strong>one and three years</strong>.</li>\n            <li><strong>Doubtful 3 (D3):</strong> More than <strong>three years</strong>.</li>\n        </ul>\n    </li>\n    <li><strong>Provisioning Norms:</strong> Banks are required to hold a certain percentage of the loan value as a \"provision.\" For the secured portion of <strong>Doubtful Assets</strong>, the requirements are <strong>25%</strong> for <strong>D1</strong>, <strong>40%</strong> for <strong>D2</strong>, and <strong>100%</strong> for <strong>D3</strong>. For any <strong>unsecured portion</strong>, a <strong>100% provisioning</strong> is mandatory regardless of the category.</li>\n    <li><strong>Identification of Loss Assets:</strong> Because <strong>Loss Assets</strong> are considered uncollectible and have little to no value as a bankable asset, they require <strong>100% provisioning</strong> immediately upon identification. These assets are typically written off the books to clean the balance sheet, though recovery efforts may continue.</li>\n    <li><strong>Special Mention Accounts (SMA):</strong> Before an account becomes an <strong>NPA</strong> (overdue for <strong>90 days</strong>), it is classified as <strong>SMA</strong> to alert the bank of potential stress. <strong>SMA-0</strong> covers <strong>1-30 days</strong>, <strong>SMA-1</strong> covers <strong>31-60 days</strong>, and <strong>SMA-2</strong> covers <strong>61-90 days</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li>The primary regulation governing these classifications in <strong>India</strong> is the <strong>RBI Master Circular</strong> on <strong>Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRAC)</strong>.</li>\n    <li>The role of the <strong>Statutory Auditor</strong> is vital in this process. During the <strong>annual audit</strong>, if the auditor finds that the collateral value of a <strong>Doubtful Asset</strong> has eroded significantly (less than <strong>10%</strong> of the outstanding), the asset can be directly classified as a <strong>Loss Asset</strong> without waiting for further time to pass.</li>\n    <li>The <strong>Banking Regulation Act, 1949</strong> empowers the <strong>RBI</strong> to inspect banks and ensure that these classifications are strictly followed to maintain the financial stability of the <strong>economy</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69d25117c86ca5695d577996",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "In March 2026, the Union Cabinet approved amendments to FDI rules for investments from Land Border Countries (LBCs), chaired by PM Narendra Modi. Which of the following is NOT an LBC as per the amendments?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Pakistan",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Nepal",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "China",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Bhutan",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Sri Lanka",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Sri Lanka.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Cabinet approves amendments to FDI rules for Land Border Countries (LBCs).</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Union Cabinet, chaired by PM Narendra Modi</strong>, approved amendments to <strong>Foreign Direct Investment (FDI) rules for Land Border Countries (LBCs).</strong></li>\n\t<li>LBCs include nations sharing land borders with India:<strong> China, Pakistan, Bangladesh, Nepal, Bhutan, Myanmar, and Afghanistan.</strong></li>\n\t<li>Amendments tighten scrutiny and approvals for investments from these countries to safeguard national security.</li>\n\t<li>FDI from LBCs requires prior government approval under Press Note 3 of 2020 framework.</li>\n\t<li>Aims to prevent opportunistic takeovers and ensure economic sovereignty.</li>\n\t<li>Changes update existing policy to address evolving geopolitical risks.</li>\n\t<li>Applies to both fresh and downstream investments from LBC entities.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><u><strong>Foreign Direct Investment (FDI)</strong></u> involves long-term investments in businesses.\n\n\t<ul>\n\t\t<li>Regulator - DPIIT</li>\n\t\t<li>Routes - Automatic, Government</li>\n\t</ul>\n\t</li>\n\t<li>Press Note 3 (2020) mandates approval for LBC investments post-Galwan tensions.</li>\n\t<li>LBC policy protects strategic sectors like defense and telecom.</li>\n\t<li><strong>Sri Lanka </strong>shares maritime but not land border with India.</li>\n\t<li>Amendments enhance transparency in cross-border capital flows.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69aa8258a3cb59bfbab377ef",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "In March 2026, NITI Aayog signed a Statement of Intent (SoI) with ___________ to strengthen nutrition and health outcomes in India&rsquo;s Aspirational Districts and Blocks.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "World Health Organization (WHO)",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "UNICEF India",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "UNESCO",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "World Bank",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "International Monetary Fund (IMF)",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>UNICEF India.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NITI Aayog and UNICEF India signed a Statement of Intent (SoI) on March 5, 2026, to intensify efforts in maternal and child nutrition across underserved regions.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0);\">The partnership focuses on improving health outcomes in the Aspirational Districts and Aspirational Blocks through technical support and system strengthening.</span></strong></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">A key feature is the mobilisation of CSR investments via UNICEF&rsquo;s <strong>IMPAct4Nutrition (I4N)</strong> platform.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">The collaboration aims to enhance <strong>Anganwadi infrastructure</strong> and build the capacity of frontline workers like ASHAs and ANMs.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\">It promotes <strong>nutrition literacy</strong> and the uptake of services under the Integrated Child Development Services (ICDS) scheme.</span></li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Aspirational Districts Programme (ADP)</span></u>\n\n\t<ul>\n\t\t<li>Launched - January 2018 by the Government of India.</li>\n\t\t<li>Objective - To quickly and effectively transform 112 most under-developed districts across the country.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Aspirational Blocks Programme (ABP)</span></u>\n\t<ul>\n\t\t<li>Focus - Launched later to replicate the success of ADP at the block level, focusing on 500 blocks initially.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">IMPAct4Nutrition (I4N)</span></u>\n\t<ul>\n\t\t<li>Nature - A platform that engages the private sector to contribute to the <strong>POSHAN Abhiyaan</strong> (National Nutrition Mission) through advocacy and resources.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69eb20e1b49e47217e9405cf",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "What is the total financial outlay and the designated period for the revised Technology Development and Investment Promotion (TDIP) Scheme?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "₹150 crore for the period 2025&ndash;30",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "₹203 crore for the period 2026&ndash;31",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "₹305 crore for the period 2024&ndash;29",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "₹500 crore for the period 2027&ndash;32",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "₹425 crore",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>₹203 crore for the period 2026&ndash;31</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Union Minister Shri Jyotiraditya M. Scindia</strong> recently released the revised guidelines for the <strong>Technology Development and Investment Promotion (TDIP) Scheme</strong> to strengthen India&rsquo;s global telecom footprint.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The revised <strong>Technology Development and Investment Promotion (TDIP) Scheme</strong> has been allocated a total outlay of <strong>₹203 crore</strong>.</li>\n\t<li>This financial outlay is specifically designated for the period covering <strong>2026&ndash;31</strong>.</li>\n\t<li>The scheme serves as a comprehensive support framework to enable Indian entities to actively contribute to global standards, promote innovation, and enhance competitiveness in next-generation telecommunications technologies, including <strong>5G Advanced</strong> and <strong>6G</strong>.</li>\n\t<li>By providing this precise financial commitment over the defined five-year period, the scheme aims to support the participation of startups and MSMEs in global standardization and fund pilot projects for real-world deployment.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Global Standardization Bodies:</strong> The scheme enhances India&#39;s representation in international telecom standardization bodies such as the <strong>International Telecommunication Union (ITU)</strong>, <strong>3GPP</strong>, and <strong>oneM2M</strong>.</li>\n\t<li><strong>Implementation Agencies:</strong> The institutional framework for executing the scheme includes designated agencies like the <strong>Telecommunications Standards Development Society, India (TSDSI)</strong>, <strong>Telecom Centres of Excellence, India (TCoE)</strong>, and <strong>Telecommunications Consultants India Limited (TCIL)</strong>.</li>\n\t<li><strong>Complementary Initiatives:</strong> The TDIP Scheme complements other Department of Telecommunications initiatives, such as the <strong>Telecom Technology Development Fund (TTDF)</strong> and the <strong>Bharat 6G Mission</strong>.</li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></p>\n\n<ul>\n\t<li>The core goal of these guidelines is to transition India from a mere technology participant to a <strong>global standard-setter</strong> while driving the creation of intellectual property and enhancing the export potential of domestic telecom products.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69cbd5a39e6609f40d1a1509",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "Which of the following is NOT a Public Sector Undertaking under the Ministry of Power in India?\n<ol>\n\t<li>NTPC</li>\n\t<li>NEEPCO</li>\n\t<li>Power Grid</li>\n\t<li>SAIL</li>\n</ol>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both 3 and 4",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Only 4</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Only 2</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both 2 and 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1,2 and 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong><span style=\"color: rgb(33, 37, 41);\">Only 4</span></strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>SAIL operates under Ministry of Steel, not Ministry of Power alongside NTPC, NEEPCO and Power Grid.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NTPC Limited </strong>is India&#39;s largest power generating company under Ministry of Power with installed capacity exceeding 76,000 MW across thermal hydro solar and wind projects nationwide.</li>\n\t<li><strong>NEEPCO</strong> (North Eastern Electric Power Corporation Limited) functions under Ministry of Power focusing on hydroelectric projects serving eight northeastern states with 2,500+ MW capacity.</li>\n\t<li><strong>Power Grid Corporation of India Limited</strong> operates under Ministry of Power as the central transmission utility managing 1,78,000+ ckm of high voltage transmission network across India.</li>\n\t<li><strong>SAIL</strong> (Steel Authority of India Limited) operates exclusively under Ministry of Steel as India&#39;s largest steel producer with integrated steel plants at Bhilai Rourkela Durgapur Bokaro and Burnpur.</li>\n\t<li>Ministry of Power oversees power generation transmission distribution and renewable energy development through its five CPSEs including NTPC PGCIL NEEPCO NHPC and THDC.</li>\n\t<li>SAIL&#39;s administrative control remains with Ministry of Steel handling steel production raw material management and metallurgical research unlike power sector PSUs.</li>\n\t<li>NTPC NEEPCO and Power Grid contribute significantly to India&#39;s 445 GW total installed power capacity target of 500 GW non-fossil capacity by 2030.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><u><strong>NTPC Limited</strong></u> holds Navratna status as Maharatna PSU leading India&#39;s power generation sector.\n\n\t<ul>\n\t\t<li>Established - 1975</li>\n\t\t<li>HQ - New Delhi</li>\n\t</ul>\n\t</li>\n\t<li><u><strong>Power Grid Corporation</strong></u> manages national grid ensuring 99.98% availability implementing Green Energy Corridors.\n\t<ul>\n\t\t<li>Established - 1989</li>\n\t\t<li>HQ - Gurugram</li>\n\t</ul>\n\t</li>\n\t<li><u><strong>NEEPCO</strong></u> specializes in hydropower development for northeastern region grid connectivity.\n\t<ul>\n\t\t<li>Established - 1976</li>\n\t\t<li>HQ - Shillong</li>\n\t</ul>\n\t</li>\n\t<li><u><strong>SAIL</strong></u> under Ministry of Steel produces 19+ million tonnes crude steel annually operating five integrated steel plants.\n\t<ul>\n\t\t<li>Established - 1954</li>\n\t\t<li>HQ - New Delhi</li>\n\t</ul>\n\t</li>\n\t<li>Ministry of Power CPSEs contribute 25% of India&#39;s total electricity generation capacity supporting Atmanirbhar Bharat power infrastructure goals.</li>\n</ul>\nFollow-ups Provide complete 6th question What is the topic of Question 5 Provide complete Question 7 Give answers for Questions 1 to 5 Provide Question 5 explanation",
+          "topic": "Test"
+        },
+        {
+          "id": "5d42fb39fdb8bb04c8d76add",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Which digit of the debit card represent the industry code?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Second&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Third&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "First&nbsp;",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Fourth",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Seventh",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<ul>\n\t<li><span id=\"cke_bm_6343S\" style=\"display: none;\">&nbsp;</span>Debit card<span id=\"cke_bm_6343E\" style=\"display: none;\">&nbsp;</span> is basically an <strong>ATM card</strong> <strong>issued by banks</strong> to allow the customers to <strong>withdraw money from ATM vending machines and facilitate online banking.&nbsp;</strong></li>\n\t<li>It has a <strong>sixteen digit</strong> code in which the first <strong>six digits </strong>are the <strong>Bank Identification Number</strong> and the Next <strong>ten digits </strong>are<strong> Unique Account Number.</strong></li>\n\t<li>The <u><strong>first digit</strong> </u>represents the <strong>Industry code</strong> and is the <strong>Major Industry Identifier (MII).</strong></li>\n\t<li>The <strong>first six digits </strong>represent are the&nbsp;<strong>Issuer Identification Number (IIN)</strong>.</li>\n\t<li>The <strong>seventh to fifteenth</strong> digits are linked to one&#39;s bank account number though they do not reveal anything about the user&#39;s account directly.</li>\n\t<li>The&nbsp;<strong>last digit&nbsp;</strong>is known as the Check digit that <strong>checks and confirms</strong> the <strong>validity of the card.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69f86de0d940414822fc0540",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">What is the current ceiling for a single loan under the Pradhan Mantri MUDRA Yojana (PMMY) in the &#39;Tarun&#39; category?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 50,000</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 5 Lakhs</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 10 Lakhs</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 20 Lakhs</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">None of the Above</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs. 10 Lakhs</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li>The <strong>Pradhan Mantri MUDRA Yojana (PMMY)</strong> is a flagship scheme launched by the <strong>Government of India</strong> on <strong>April 8, 2015</strong>, to provide <strong>collateral-free loans</strong> up to <strong>Rs. 10 Lakhs</strong> to non-corporate, non-farm small/micro-enterprises.</li>\n    <li>The <strong>'Tarun'</strong> category is the third and highest tier under the standard PMMY framework, specifically designed for micro-units that have reached a stage of growth and require higher funding for diversification or expansion.</li>\n    <li>The loan amount under the <strong>Tarun category</strong> ranges from <strong>above Rs. 5,00,000 to Rs. 10,00,000</strong>. This ensures that maturing small businesses have access to the capital required for significant upgrades. <em><strong>Hence, the statement regarding the Rs. 10 Lakhs ceiling for the Tarun category is correct.</strong></em></li>\n    <li>MUDRA loans are <strong>refinanced</strong> by the <strong>Micro Units Development and Refinance Agency (MUDRA)</strong>, which is a subsidiary of <strong>SIDBI</strong> (Small Industries Development Bank of India).</li>\n    <li>The scheme aims to \"<strong>fund the unfunded</strong>\" by bringing small entrepreneurs into the formal financial system, reducing their reliance on informal moneylenders.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Categorization of PMMY Loans:</strong>\n        <ul>\n            <li><strong>Shishu:</strong> This stage covers loans up to <strong>Rs. 50,000</strong>. It is primarily targeted at startups and entrepreneurs in the initial stage of their business journey.</li>\n            <li><strong>Kishore:</strong> This stage covers loans <strong>above Rs. 50,000 and up to Rs. 5,00,000</strong>. It is intended for units that are already operational and require funds for purchase of equipment or working capital.</li>\n            <li><strong>Tarun:</strong> As discussed, it covers loans up to <strong>Rs. 10,00,000</strong> for expansion purposes.</li>\n        </ul>\n    </li>\n    <li><strong>Recent Budgetary Update (2024):</strong> In the <strong>Union Budget 2024-25</strong>, Finance Minister <strong>Nirmala Sitharaman</strong> announced that the limit for MUDRA loans will be enhanced to <strong>Rs. 20 Lakhs</strong> under a new <strong>'Tarun Plus'</strong> category for those entrepreneurs who have successfully repaid their previous loans under the Tarun category.</li>\n    <li><strong>Eligible Borrowers:</strong> Individuals, <strong>Proprietorship firms</strong>, <strong>Partnership firms</strong>, <strong>Small Manufacturing units</strong>, <strong>Service sector units</strong>, <strong>Shopkeepers</strong>, <strong>Fruit and Vegetable vendors</strong>, and <strong>Artisans</strong> are eligible to apply.</li>\n    <li><strong>Lending Institutions:</strong> These loans can be availed from <strong>Commercial Banks</strong>, <strong>Regional Rural Banks (RRBs)</strong>, <strong>Small Finance Banks</strong>, <strong>MFIs</strong> (Micro Finance Institutions), and <strong>NBFCs</strong> (Non-Banking Financial Companies).</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li><strong>MUDRA Card:</strong> Borrowers are provided with a <strong>MUDRA Card</strong>, which is a <strong>RuPay Debit Card</strong>. This card allows the borrower to withdraw the working capital portion of the loan in multiple installments as per the requirement of the business.</li>\n    <li><strong>Credit Guarantee:</strong> Loans under PMMY are covered under the <strong>Credit Guarantee Fund for Micro Units (CGFMU)</strong>, which is managed by the <strong>National Credit Guarantee Trustee Company (NCGTC)</strong>. This removes the need for <strong>third-party collateral</strong>.</li>\n    <li><strong>Processing Fees:</strong> Generally, banks do not charge any <strong>processing fees</strong> for loans under the <strong>Shishu</strong> category, while a nominal fee may be applicable for <strong>Kishore</strong> and <strong>Tarun</strong> categories.</li>\n    <li><strong>Repayment Period:</strong> The repayment period for MUDRA loans is usually flexible, ranging from <strong>3 to 5 years</strong>, depending on the cash flow of the business and the discretion of the lending bank.</li>\n    <li><strong>Sectors Covered:</strong> The scheme covers activities in <strong>Land Transport</strong>, <strong>Community/Social/Personal Service</strong>, <strong>Food Product Sector</strong>, and <strong>Textile Product Sector</strong>, excluding activities related to core agriculture (though allied activities like poultry and dairy are covered).</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69d0f0731b84ebeff0f1f248",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "In February 2026, former Indian cricketer Shikhar Dhawan, recipient of the 2018 Arjuna Award, was appointed as brand ambassador for which event held across 12 districts of Delhi?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Delhi Sports Festival",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Delhi Athletic Championship",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Capital Fitness Challenge",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Inaugural Delhi Khel Mahakumbh",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "National Youth Games Delhi",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Inaugural Delhi Khel Mahakumbh.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Indian cricketer Shikhar Dhawan appointed as brand ambassador of inaugural Delhi Khel Mahakumbh.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Government of Delhi </strong>appointed former Indian cricketer <strong>Shikhar Dhawan </strong>as brand ambassador for the<strong> inaugural Delhi Khel Mahakumbh.</strong></li>\n\t<li>The event is scheduled for February 13, 2026, and will span 16 locations across all 12 districts of Delhi.</li>\n\t<li>Dhawan&#39;s role leverages his popularity to promote grassroots sports participation among youth.</li>\n\t<li>He received the Arjuna Award in 2018 for outstanding contributions to Indian cricket.</li>\n\t<li>The Mahakumbh aims to foster fitness, talent scouting, and community engagement through multi-sport events.</li>\n\t<li>Dhawan&#39;s cricketing stature, including IPL performances, enhances the event&#39;s visibility.</li>\n\t<li>This initiative aligns with Delhi government&#39;s push for sports infrastructure development.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Arjuna Award recognizes lifetime achievements in sports at national level.</li>\n\t<li>Brand ambassadors promote events through endorsements and public appearances.</li>\n\t<li>Khel Mahakumbh format encourages mass participation in athletics, cricket, and traditional games.</li>\n\t<li>Shikhar Dhawan played 69 ODIs and 37 T20Is for India with aggressive opening batting.</li>\n\t<li>Delhi government schemes integrate sports with education for holistic youth development.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "68472d0592e7ba6f32e3944a",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "Where is the headquarters of the World Economic Forum (WEF) located?<br />",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "United States<br />",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Germany",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Switzerland",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "United Kingdom<br />",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "France",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Switzerland.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The World Economic Forum (WEF) has its headquarters in Switzerland.</strong></li>\n\t<li>The WEF is an international organization dedicated to improving global economic conditions, and its headquarters is in Cologny, a suburb of Geneva.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The WEF&#39;s headquarters is located in Cologny, Switzerland.</strong></li>\n\t<li>The WEF is best known for organizing the annual meeting in Davos, which gathers business, political, and academic leaders from around the world.</li>\n\t<li>Switzerland is known for being a hub for international organizations, and the WEF is one of the major organizations based there.</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0);  \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">World Economic Forum (WEF)</span></u>\n\n\t<ul>\n\t\t<li>Founded in 1971, the WEF brings together leaders from business, government, and academia to discuss global issues.</li>\n\t\t<li>The WEF&rsquo;s headquarters is in Cologny, near Geneva, Switzerland.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6981c4326ef8765181e6c0dc",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "What is the estimated fiscal deficit for the Union Budget 2026&ndash;27 as a percentage of GDP?<br />",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4.1% of GDP<br />",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4.3% of GDP<br />",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4.4% of GDP<br />",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "4.6% of GDP",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5.0% of GDP",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>4.3 percent of GDP.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong> </span></p>\n\n<ul>\n\t<li><strong>The Union Budget 2026-27 estimates the fiscal deficit at 4.3 percent of GDP.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong> </span></p>\n\n<ul>\n\t<li><strong>The fiscal deficit for BE 2026-27 is projected at 4.3 percent of GDP, indicating continued fiscal consolidation.</strong></li>\n\t<li>This estimate reflects the gap between total government expenditure of ₹53.5 lakh crore and total receipts excluding borrowings.</li>\n\t<li>The fiscal deficit shows an improvement compared to the Revised Estimate of 4.4 percent of GDP in 2025-26.</li>\n\t<li>The reduction aligns with the government&rsquo;s medium-term target of lowering the debt-to-GDP ratio.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong> </span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Fiscal Deficit</span></u>\n\n\t<ul>\n\t\t<li>Fiscal deficit represents the excess of total government expenditure over total receipts excluding borrowings.</li>\n\t\t<li>It indicates the amount the government needs to borrow to meet its expenses.</li>\n\t\t<li>Fiscal deficit is commonly expressed as a percentage of GDP to assess sustainability.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Budget Estimates (BE)</span></u>\n\t<ul>\n\t\t<li>Budget Estimates are the government&rsquo;s projections of revenue and expenditure for the upcoming financial year.</li>\n\t\t<li>They are presented in the Union Budget before the start of the financial year.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Revised Estimates (RE)</span></u>\n\t<ul>\n\t\t<li>Revised Estimates update earlier budget projections based on actual spending and receipts during the year.</li>\n\t\t<li>They provide a more realistic picture of fiscal performance.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Debt-to-GDP Ratio</span></u>\n\t<ul>\n\t\t<li>This ratio measures the government&rsquo;s total debt in relation to the country&rsquo;s GDP.</li>\n\t\t<li>A declining ratio indicates improving fiscal health and sustainability.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6965feadb4b182703135e7ba",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "RBI guidelines require NBFCs/HFCs to report frauds occurring in which specific group entities to ensure comprehensive risk monitoring?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only parent",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "All group companies",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Joint ventures and subsidiaries/affiliates",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Non-banking only",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Overseas only",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Joint ventures and subsidiaries/affiliates.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NBFC/HFC fraud reporting for group joint ventures and subsidiaries.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>NBFCs </strong>must report frauds in<strong> joint ventures, subsidiaries, and affiliates</strong> to the RBI via fraud monitoring returns within <strong>14 days.</strong></li>\n\t<li>HFCs report to the National Housing Bank in the prescribed format for incidents.</li>\n\t<li>Theft, burglary, dacoity, and robbery reported to RBI Fraud Monitoring Group within 7 days.</li>\n\t<li>Immediate reporting to law enforcement via nodal officer mandatory.</li>\n\t<li>Overseas branches report to host country authorities; parents report overseas group frauds to RBI.</li>\n\t<li>Applies if group entities lack financial sector regulation/supervision.</li>\n\t<li>Enhances group-wide fraud risk management framework.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><u><strong>Fraud Reporting</strong></u> under RBI Scale-Based Regulations.\n\n\t<ul>\n\t\t<li>Timeline - 14 days for classification</li>\n\t\t<li>Agency - RBI Fraud Monitoring Group</li>\n\t</ul>\n\t</li>\n\t<li>Nodal officer coordinates police FIR and central reporting.</li>\n\t<li>Group entities include controlled subsidiaries and JVs.</li>\n\t<li>Penalties for delays include supervisory actions.</li>\n\t<li>Aims at early detection and mitigation across affiliates.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61b1fcf73cbf25b6e03ade32",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "The RBI recently accepted 21 out of the 33 recommendations made by the Internal Working Group(IWG). In accordance with the recommendation what percent stake can now be taken up by promoters in private banks?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "16%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "18%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "20%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "24%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "26%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>26%</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"list-style-type:square;\">\n\t<li>The Reserve Bank of India had constituted an Internal Working Group (IWG) on June 12 2020, to review the following for Private Banks:</li>\n</ul>\n\n<ol style=\"margin-left: 40px;\">\n\t<li>Ownership Guidelines</li>\n\t<li>Corporate Structure</li>\n</ol>\n\n<ul style=\"list-style-type:square;\">\n\t<li>The IWG submitted its report in November 2021, with a total of 33 recommendations.</li>\n\t<li>After reviewing the recommendations RBI accepted<strong> 21 out of 33.</strong></li>\n\t<li>After accepting these notifications the RBI has notified the following points:</li>\n</ul>\n\n<ol style=\"margin-left: 40px;\">\n\t<li>Lock-in period for promoters&nbsp;initial shareholding</li>\n\t<li>Limits on shareholding in the long run</li>\n\t<li>Dilution requirements and voting rights</li>\n</ol>\n\n<ul style=\"list-style-type:square;\">\n\t<li>The cap on promoters&#39;&nbsp;stake was raised from the current levels of 15%&nbsp;to 26%&nbsp;of the paid-up voting equity share capital of the bank.</li>\n\t<li>The non-promoter shareholding will be capped at 10%&nbsp;of the paid-up voting equity share capital of the bank.</li>\n\t<li>The minimum initial capital requirement for licensing new banks should be enhanced</li>\n</ul>\n\n<ol style=\"margin-left: 40px;\">\n\t<li><strong>₹500 crore to ₹1000 crore for universal banks</strong></li>\n\t<li><strong>₹200 crore to ₹300 crores for small finance banks.</strong></li>\n</ol>\n\n<ul style=\"list-style-type:square;\">\n\t<li>For Payments Banks intending to convert to a<strong> Small Finance Bank, a track record of 3 years of experience as a Payments Bank may be considered sufficient.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69f86dc0a8a7acdb606296ec",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">As per the SARFAESI Act 2002, what is the minimum amount of default required to initiate recovery proceedings?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 1 Lakh</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 2 Lakhs</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 10 Lakhs</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">Rs. 5 Lakhs</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span data-sheets-root=\"1\" style=\"color: rgb(0, 0, 0);  \">None of the Above</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Rs. 1 Lakh</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n    <li>The <strong>SARFAESI Act, 2002</strong> (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act) provides a legal framework for banks and financial institutions to recover their <strong>Non-Performing Assets (NPAs)</strong> efficiently.</li>\n    <li>As per <strong>Section 31(j)</strong> of the <strong>SARFAESI Act, 2002</strong>, the provisions of the Act shall not apply to any case in which the <strong>amount due</strong> is less than <strong>Rs. 1 Lakh</strong>.</li>\n    <li>This minimum threshold of <strong>Rs. 1 Lakh</strong> is mandatory to ensure that recovery proceedings are initiated for significant defaults and not for trivial amounts.</li>\n    <li>Furthermore, the Act cannot be invoked if the <strong>balance amount due</strong> is less than <strong>20%</strong> of the <strong>principal amount</strong> and <strong>interest</strong> thereon.</li>\n    <li>Once an account is classified as an <strong>NPA</strong>, the <strong>secured creditor</strong> (the bank) must issue a <strong>demand notice</strong> under <strong>Section 13(2)</strong>, providing the borrower a period of <strong>60 days</strong> to settle the dues before taking possession of the <strong>collateral</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n    <li><strong>Non-Performing Asset (NPA):</strong> In the context of <strong>Indian banking</strong>, an asset is classified as an <strong>NPA</strong> when the <strong>interest</strong> or <strong>principal installment</strong> remains overdue for more than <strong>90 days</strong>.</li>\n    <li><strong>Exclusions from the Act:</strong> Apart from defaults below <strong>Rs. 1 Lakh</strong>, the <strong>SARFAESI Act</strong> is strictly <strong>not applicable</strong> to <strong>agricultural land</strong>, any <strong>security interest</strong> created in any <strong>vessel</strong> or <strong>aircraft</strong>, and any conditional sale or hire-purchase where no <strong>security interest</strong> is created.</li>\n    <li><strong>Asset Reconstruction Companies (ARCs):</strong> The Act allows for the establishment of <strong>ARCs</strong>, which are specialized <strong>financial institutions</strong> that buy <strong>bad loans</strong> (NPAs) from <strong>banks</strong> to clean up their balance sheets and handle the <strong>recovery process</strong> independently.</li>\n    <li><strong>Debt Recovery Tribunal (DRT):</strong> Borrowers who feel aggrieved by the actions of a <strong>bank</strong> under the <strong>SARFAESI Act</strong> have the right to file an application for redressal before the <strong>DRT</strong> within <strong>45 days</strong> of the bank taking measures to recover the asset.</li>\n    <li><strong>Objectives:</strong> The primary objective of the <strong>SARFAESI Act, 2002</strong> is to enable <strong>banks</strong> to take <strong>possession of securities</strong> and sell them to recover debt without the time-consuming <strong>intervention of courts</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n    <li>The <strong>SARFAESI Act</strong> was formulated based on the recommendations of the <strong>Narasimham Committee I and II</strong> and the <strong>Andhyarujina Committee</strong> to reform the <strong>financial system</strong> and expedite <strong>loan recovery</strong>.</li>\n    <li>The Act provides three main methods for <strong>NPA recovery</strong>: <strong>Securitisation</strong>, <strong>Asset Reconstruction</strong>, and <strong>Enforcement of Security</strong> without the interruption of a <strong>Civil Court</strong>.</li>\n    <li>In <strong>2020</strong>, the <strong>Supreme Court of India</strong> passed a landmark judgment stating that <strong>Co-operative Banks</strong> can also make use of the <strong>SARFAESI Act, 2002</strong> for the <strong>recovery of dues</strong> from <strong>defaulting borrowers</strong>.</li>\n    <li>The <strong>authorized officer</strong> of the <strong>secured creditor</strong> is responsible for delivering the <strong>possession notice</strong> and ensuring the <strong>valuation</strong> of the <strong>secured asset</strong> before <strong>auctioning</strong> it in the <strong>public market</strong>.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69d0f3e06da7fcdc5dfb087c",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "In March 2026, Bank of Baroda launched which exclusive savings account for women, requiring a monthly average balance of Rs. 1 lakh and offering Rs. 10 lakh cancer care coverage?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "bob Women Diamond Account",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "bob Women Sapphire Savings Account",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "bob Bhoomi RuPay Account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "bob Pearl Women Account",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "bob Elite Ladies Savings",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>bob Women Sapphire Savings Account.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Bank of Baroda launches &lsquo;Sapphire&rsquo; Savings Account for women.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Bank of Baroda </strong>launched bob Women Sapphire Savings Account exclusively for women customers aged <strong>18-60 years.</strong></li>\n\t<li>It requires a monthly average balance of <strong>Rs. 1 lakh, </strong>with benefits including Rs. 10 lakh cancer care coverage.</li>\n\t<li>Debit card offered is bob Bhoomi RuPay Select Debit Card for secure transactions.</li>\n\t<li>Additional perks: 50% waiver on home loan processing fees and 20% discount on locker fees up to Rs. 500.</li>\n\t<li><u><span style=\"font-weight: bolder;\">Bank of Baroda</span></u> is a major public sector bank.\n\t<ul>\n\t\t<li>Established - 1908</li>\n\t\t<li>HQ - Vadodara</li>\n\t</ul>\n\t</li>\n\t<li>The account promotes women-centric banking with health-focused insurance integrations.</li>\n\t<li>Initiative supports financial independence through tailored savings and loan concessions.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Women-focused accounts bundle insurance against lifestyle diseases like cancer.</li>\n\t<li>RuPay cards enable UPI-based digital payments with reward points.</li>\n\t<li>Processing fee waivers reduce loan origination costs significantly.</li>\n\t<li>Lockers provide secure storage for valuables at discounted rates.</li>\n\t<li>BoB advances gender-inclusive banking per RBI&#39;s priority sector guidelines.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6981d178148b9b47c6ee84c7",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "Headquarters of International Solar Alliance (ISA) is located at",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Mumbai",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Gurugram",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "&nbsp;New Delhi",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "None of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Not attempted",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Gurugram</strong></u>.</p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n<ul>\n<li>The headquarters of the <strong>International Solar Alliance (ISA)</strong> is located in <strong>Gurugram, Haryana, India</strong>.</li>\n<li>The ISA is an international organization that works to promote solar energy and reduce dependence on fossil fuels globally.</li>\n<li>The framework agreement of the ISA was adopted in <strong>November 2016</strong> during the 22nd Conference of Parties (COP 22) in Marrakesh, Morocco.</li>\n<li>The ISA was jointly launched by <strong>India and France</strong> during the Paris Climate Conference (COP 21) in 2015.</li>\n<li>The ISA's headquarters in Gurugram is called the <strong>National Institute of Solar Energy (NISE) campus</strong>, symbolizing India's commitment to renewable energy initiatives.</li>\n<li>It is the first international intergovernmental organization headquartered in India, reflecting the country's leadership in promoting clean energy globally.</li>\n</ul>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<ul>\n<li><strong>Mumbai</strong>\n<ul>\n<li>Mumbai is the financial capital of India and is home to some of the country's largest corporations and financial institutions.</li>\n<li>It houses important organizations like the Reserve Bank of India (RBI), Securities and Exchange Board of India (SEBI), and the Bombay Stock Exchange (BSE).</li>\n<li>Though it is a hub for economic activities, Mumbai is not associated with the ISA headquarters.</li>\n</ul>\n</li>\n<li><strong>New Delhi</strong>\n<ul>\n<li>New Delhi is the capital city of India and houses various national and international organizations' offices, including embassies and government institutions.</li>\n<li>While it is a prominent administrative center, the headquarters of the International Solar Alliance is not located in New Delhi.</li>\n</ul>\n</li>\n<li><strong>None of the Above</strong>\n<ul>\n<li>This option is incorrect as the headquarters of the International Solar Alliance is located in Gurugram, Haryana, India.</li>\n</ul>\n</li>\n<li><strong>About the International Solar Alliance (ISA)</strong>\n<ul>\n<li>The ISA aims to mobilize $1 trillion in investments for solar energy by 2030 and accelerate the adoption of solar power globally.</li>\n<li>The ISA focuses on policy advocacy, capacity building, and facilitating project financing to promote solar energy usage.</li>\n<li>As of 2023, over 120 countries have signed the ISA framework agreement, making it a global initiative for renewable energy.</li>\n<li>The ISA's initiatives include programs like \"Scaling Solar Applications for Agriculture Use\" and \"Affordable Finance at Scale.\"</li>\n</ul>\n</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69ce6e104b65a59bb8bd24cf",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "Which player received the Hockey India Baljit Singh Award for Goalkeeper of the Year 2025?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Savita Punia",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "PR Sreejesh",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Bichu Devi Kharibam",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Krishan Pathak",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Suraj Karkera",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>Bichu Devi Kharibam.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/in_news.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>In News</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The 8th Hockey India Annual Awards 2025 were held in New Delhi to celebrate the achievements of Indian hockey players.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong><span style=\"color: rgb(0, 0, 0); \">Bichu Devi Kharibam was honored with the Goalkeeper of the Year award, which is officially known as the Hockey India Baljit Singh Award.</span></strong></li>\n\t<li><span style=\"color: rgb(0, 0, 0); \">The award includes a trophy and a cash prize of <strong>INR 5 lakh</strong>.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0); \">Bichu Devi has been a consistent performer for the Indian Women&#39;s Hockey Team, showcasing exceptional reflexes and shot-stopping abilities.</span></li>\n\t<li><span style=\"color: rgb(0, 0, 0);\"><u><span style=\"font-weight: bolder;\">Other Positional Awards 2025</span></u></span>\n\t<ul>\n\t\t<li>Defender of the Year - Sanjay (Pargat Singh Award)</li>\n\t\t<li>Midfielder of the Year - Sumit (Ajit Pal Singh Award)</li>\n\t\t<li>Forward of the Year - Sukhjeet Singh (Dhanraj Pillay Award)</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"color: rgb(0, 0, 0); \"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></p>\n\n<ul>\n\t<li><u><span style=\"font-weight: bolder;\">Baljit Singh</span></u>\n\n\t<ul>\n\t\t<li>The award is named after former Indian goalkeeper Baljit Singh, who was a hero of India&#39;s 2007 Asia Cup win.</li>\n\t</ul>\n\t</li>\n\t<li><u><span style=\"font-weight: bolder;\">Hardik Singh and Navneet Kaur</span></u>\n\t<ul>\n\t\t<li>They were named the overall &#39;Players of the Year&#39; at the same ceremony.</li>\n\t</ul>\n\t</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "69679cd396e5ec544f5bb6de",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "Which of the following is NOT a function of money?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Barter system",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Store of value",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Unit of account",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Medium of exchange",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "The correct answer is <u><strong>Barter system</strong></u>\n\n<div>\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Barter system</strong> is not a function of money.</li>\n\t<li>Money serves as a <strong>store of value</strong>, enabling individuals to save and defer consumption until a later date.</li>\n\t<li>It acts as a <strong>unit of account</strong>, providing a common measure of the value of goods and services.</li>\n\t<li>Money functions as a <strong>medium of exchange</strong>, facilitating transactions between buyers and sellers.</li>\n\t<li>The <strong>barter system</strong> involves the direct exchange of goods and services without the use of money, which is different from the functions of money.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>barter system</strong> was prevalent before the invention of money.</li>\n\t<li>While the barter system can work in small economies, it is inefficient in larger economies due to the <strong>double coincidence of wants</strong> problem, where two parties each possess an item the other wants.</li>\n\t<li>Money helps to overcome the limitations of the barter system by providing a common medium of exchange.</li>\n\t<li>By serving as a store of value, unit of account, and medium of exchange, money simplifies and enhances economic transactions.</li>\n\t<li>Modern economies rely on money to facilitate trade, savings, and economic calculation.</li>\n</ul>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fda40d1a3d00463c91c2f19",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "<p>As per priority sector guidelines, small&nbsp;farmers are those who have a landholding ________.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "more than one hectare and upto two hectares",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "more than one acre and up to two acre",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "less than one acre",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "less than one hectare",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "less than three hectare",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is <u><strong>more than one hectare and up to&nbsp;two hectares</strong></u>.</p>\n\n<p><strong>For the purpose of computation of 8 percent target, Small and Marginal Farmers will include the following:-</strong></p>\n\n<ul>\n\t<li>Farmers with landholding of up to 1 hectare are considered Marginal Farmers. Farmers with a<strong> landholding of more than 1 hectare and up to&nbsp;2 hectares are considered Small Farmers.</strong></li>\n\t<li>Landless agricultural labourers, tenant farmers, oral lessees, and share-croppers.</li>\n\t<li>Loans to Self Help Groups (SHGs) or Joint Liability Groups (JLGs), i.e. groups of individual Small and Marginal farmers directly engaged in Agriculture and Allied Activities, provided banks maintain disaggregated data of such loans.</li>\n\t<li>Loans to farmers&#39; producer companies of individual farmers, and co-operatives of farmers directly engaged in Agriculture and Allied Activities, where the membership of Small and Marginal Farmers is not less than 75 percent by number and <strong>whose land-holding share is also not less than 75 percent of the total land-holding.</strong></li>\n</ul>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:07:22.339Z",
+    "solutionsCount": 20,
+    "isComplete": true
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a10db1f83ae7c4fa6e9c",
+  "title": "CT 14: Quantitative Aptitude (Pipe and Cistern)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5b12763bee5795561e505bab",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p>A tap can fill a tank in 6 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2 hrs 20 min",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2 hrs 45 min",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "45 min",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "3 hrs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "3 hrs 45 min",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Time taken by 1 tap to fill half the tank = 3 hours</p>\n\n<p>Part filled by 4 taps in 1 hour = 4 &times; 1/6 = 2/3</p>\n\n<p>Remaining part = 1 - 1/2 = &frac12;</p>\n\n<p>Time taken by the 4 taps to fill half the tank = &frac12; &divide; 2/3 = &frac34; hours = 45 min</p>\n\n<p>&there4; Total time taken = 3 hrs 45 min</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5bc5e7e4b1cf74272eb59cd3",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "Pipe A can fill 60% of an empty tank in 2 hours, while pipe B can fill 90% of the empty tank in 3 hours. What percentage of the tank will they together fill in 2/3 hours?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "20%",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "30%",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "40%",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "50%",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "60%",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Part filled by pipe A in 2 hrs. = 60% = 3/5</p>\n\n<p>Part filled by pipe A in 1 hr. = 1/2 &times; 3/5 = 3/10</p>\n\n<p>Part filled by pipe B in 3 hrs. = 90% = 9/10</p>\n\n<p>Part filled by pipe B in 1 hr. = 1/3 &times; 9/10 = 3/10</p>\n\n<p>Hence,</p>\n\n<p>Part filled by pipes A &amp; B together in 1 hr. = 3/10 + 3/10 = 6/10 = 3/5</p>\n\n<p>Part filled by pipes A &amp; B together in 2/3 hrs. = 2/3 &times; 3/5 = 2/5</p>\n&there4; Percentage of tank filled by A &amp; B together in 2/3 hrs. = 2/5 &times; 100 = 40%",
+          "topic": "Test"
+        },
+        {
+          "id": "5b1276a1f9327d3b4162b52e",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is opened all the time and B and C are open for one hour each alternately starting with A and B, the tank will be full in:</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 hr",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "3 hrs",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "6 hrs",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "7 hrs",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "8 hrs",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>A and B&rsquo;s 1 hour work = 1/12 + 1/15 = 3/20</p>\n\n<p>A and C&rsquo;s 1 hour work = 2/15</p>\n\n<p>Part filled in 2 hours = 3/20 + 2/15 = 17/60</p>\n\n<p>Part filled in 6 hours = 3 &times; 17/60 = 17/20</p>\n\n<p>Remaining part = 1 - 17/20 = 3/20</p>\n\n<p>Now, it&rsquo;s A and B&rsquo;s turn.</p>\n\n<p>Time taken by A and B to fill 3/20 = 1 hour</p>\n\n<p>&there4; Total time taken to fill the tank = 6 + 1 = 7 hours</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5b711e0a60bdd55541b8a7fa",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p>Two pipes A and B can fill a tank in 105 minutes and 140 minutes respectively. If they are opened on alternate minutes with pipe A opened first, then find the total time taken in minutes required to completely fill the tank.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "120 minutes",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "180 minutes",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "240 minutes",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "300 minutes",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Part of the tank filled by pipe A in 1 minute = (1/105)</p>\n\n<p>Part of the tank filled by pipe B in 1 minute = (1/140)</p>\n\n<p>For every 2 minutes, part of the tank filled = (1/105) + (1/140) = (4 + 3)/420 = 7/420 = 1/60</p>\n&there4; To completely fill the tank, the total time needed = 2 &times; 60 = 120 minutes",
+          "topic": "Test"
+        },
+        {
+          "id": "5ab9cbe94271cf0c1db61130",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><span style=\"font-family:arial,helvetica,sans-serif\">A and B pipes can fill a tank together in 12 hours. If A worked half as efficiently as it usually does and if B worked thrice as efficiently as it usually does then the tank gets filled in 9 hours. How long would it take for pipe A to fill the tank alone completely?&nbsp;</span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "12 hours",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "24 hours",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "27 hours",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "18 hours",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "15 hours&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Both A and B pipes can fill a tank together in 12 hours</p>\n\n<p>&rArr; Portion of tank filled in 1 hour by both pipes A and B = 1/12</p>\n\n<p>Let pipe A fill the tank in &ldquo;a&rdquo; hours and let pipe B fill the tank in &ldquo;b&rdquo; hours</p>\n\n<p>&rArr; Portion of tank filled in 1 hour by pipe A = 1/a</p>\n\n<p>&rArr; Portion of tank filled in 1 hour by pipe B = 1/b</p>\n\n<p>&rArr; 1/a + 1/b = 1/12&nbsp; &nbsp; &nbsp; &nbsp; &hellip;. (1)</p>\n\n<p>If efficiency of pipe A is halved and efficiency of pipe B is thrice then</p>\n\n<p>Both A and B pipes can fill a tank together in 9 hours</p>\n\n<p>&rArr; Portion of tank filled in 1 hour by pipe A = 1/2a</p>\n\n<p>&rArr; Portion of tank filled in 1 hour by pipe B = 3/b</p>\n\n<p>&rArr; 1/2a + 3/b = 1/9&nbsp; &nbsp; &nbsp; &nbsp; &hellip;. (2)</p>\n\n<p>Solving equations (1) and (2) we get</p>\n\n<p>&rArr; a = 18 hours and b = 36 hours</p>\n\n<p>&there4; It takes 18 hours for pipe A to alone fill the tank</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5b1252c024d1970c67c4e2de",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>Two pipes A and B can fill a cistern in <span class=\"math-tex\">\\(37\\frac{1}{2}\\)</span>&nbsp;minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the B is turned off after:</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2 min",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "5 min",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "7 min",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "9 min",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "11 min",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let B be turned off after&nbsp;x minutes.</p>\n\n<p>Then, Part filled by (A + B) in&nbsp;x&nbsp;min. + Part filled by A in (30 - x) min. = 1.</p>\n\n<p>&there4; x (2/75 + 1/45) + ( (30 - x) &times; 2/75) = 1</p>\n\n<p>&rArr; 11x + 180 - 6x = 225</p>\n\n<p>&rArr; x = 9</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5b40723e9148270c32b9bad3",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Pipes A and B can together fill a tank in 8 hours, but when pipe C is simultaneously opened in the tank, the tank will be filled in 24 hours. If pipes C and D can together empty the tank in 48/7 hours, in how much time will the tank be filled, if pipes A, B and D are simultaneously opened in the tank?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "6 hours",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "8 hours",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "12 hours",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "16 hours",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "18 hours",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Part filled by pipes A and B in 1 hr. = 1/8</p>\n\n<p>Part filled in 1 hr. when pipe C is simultaneously opened = 1/24</p>\n\n<p>Part emptied by pipe C in 1 hr. = 1/8 - 1/24 = 1/12</p>\n\n<p>Part emptied by pipes C and D in 1 hr. = 7/48</p>\n\n<p>Part emptied by pipe D in 1 hr. = 7/48 - 1/12 = 1/16</p>\n\n<p>Part filled in 1 hr. when pipes A, B and D are simultaneously opened = 1/8 - 1/16 = 1/16</p>\n\n<p>&there4; When pipes A, B and D are simultaneously, the tank will be filled in 16 hours</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c1a2b7a7c10585b3756a91c",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Pipe A can fill the tank in 45 min and pipe B can empty the tank in 1 hour 30 min. If pipe B is&nbsp;opened after 30 min of start of pipe A, what is the total time required to fill the tank?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1 hour",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1 hour 10 min",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1 hour 20 min",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1 hour 30 min",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "1 hour 15 min",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Time require to fill the tank by pipe A = 45 min</p>\n\n<p>Time require to empty the tank by pipe B = 1 hour 30 min = 60 + 30 = 90 min</p>\n\n<p>Amount of tank filled in 30 min by pipe A,</p>\n\n<p>&rArr; Amount of tank filled = (1/45) &times; 30 = 2/3</p>\n\n<p>&rArr; Remaining part of tank = 1 - 2/3 = 1/3</p>\n\n<p>For time require to fill the tank,</p>\n\n<p>&rArr; (1/45 - 1/90) &times; t = 1/3</p>\n\n<p>&rArr; [(2 - 1)/90] &times; t = 1/3</p>\n\n<p>&rArr; (1/90) &times; t = 1/3</p>\n\n<p>&rArr; t = (1/3) &times; (90)</p>\n\n<p>&rArr; t = 30 min</p>\n&there4; Total time taken = 30 min + 30 min = 1 hour",
+          "topic": "Test"
+        },
+        {
+          "id": "5be0009b9235ce7358828e9f",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "There are 12 taps fitted to a cistern in which some are inlet taps and rest are outlet taps. Each inlet tap can fill the cistern in 18 hours and each outlet tap can empty the cistern in 24 hours. Find the difference between the number of inlet and outlet taps, if all the pipes when opened, 1/4<span style=\"position: relative; font-size: 10.5px; line-height: 0; vertical-align: baseline; top: -0.5em;\">th </span>of cistern gets filled in 3 hours.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "0",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "1",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "4",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Since 1/4<sup>th</sup> filled cistern gets full in 3 hours.</p>\n\n<p>&rArr; A complete cistern will be filled in 3 &times; (4/1) = 12 hours</p>\n\n<p>Let there are x inlet taps and (12 &ndash; x) outlet taps fitted to the cistern</p>\n\n<p>&rArr; x/18 &ndash; (12 &ndash; x)/24 = 1/12</p>\n\n<p>&rArr; x/18 + x/24 = 1/12 + 1/2</p>\n\n<p>&rArr; 7x/72 = 7/12</p>\n\n<p>&rArr; x = 6</p>\n\n<p>&rArr; Number of inlet taps = 6 and number of outlet taps = 6</p>\n&there4; Difference of number of inlet and outlet taps = 6 &ndash; 6 = 0",
+          "topic": "Test"
+        },
+        {
+          "id": "5bf7a989f8291a43b735a39d",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Tap A can fill a tank in 16 hours and another tap B can empty half the tank in 10 hours. If both the taps are opened simultaneously, then in how many hours will 3/4<sup>th</sup> of the tank get filled?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "100 hours",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "80 hours",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "60 hours",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "40 hours",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "75 hours",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Tap A can fill the tank in 16 hours</p>\n\n<p>Another tap B can empty half the tank in 10 hours</p>\n\n<p>&rArr; Time taken by tap B to empty the full tank = 20 hours</p>\n\n<p>If both the taps are opened simultaneously:</p>\n\n<p>Time in which the tank will get full = 1/[1/16 -&nbsp;1/20] = 80 hours</p>\n&there4; Time in which the 3/4<sup>th</sup> of the tank will get fill = 80 &times; 3/4 = 60 hours.",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:32.660Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

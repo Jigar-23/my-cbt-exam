@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a07d29b036f6c3e903c4",
+  "title": "CT 11: English Language (Error Spotting - Grammar - 2)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "English Language",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 5,
+  "sections": [
+    {
+      "id": "64f82916db3bae15718d5a4e",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 5,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5ef5a201167ac10d12152e8a",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the sentence given below, one/some parts have errors and others are correct. Find out which part has an error and mark it as your answer. If there is &#39;No error&#39; as your answer.</span></p>\n\n<p>Bellicose assertions by China along the LAC, Beijing&rsquo;s brazen anti-India partisanship/ (A) in international forums and the ongoing attempt to isolate New Delhi in/ (B) its own sub-continental sphere of influence is&nbsp;a byproduct/ (C) of the hubris that has swept on&nbsp;the Chinese Communist Party./ (D)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<answer>\n<div><span style=\"\">The correct answer is <strong>Option 1</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The primary issue in the sentence is the incorrect use of the preposition \"<strong>on</strong>\" in <strong>part D</strong>.</span></li>\n\t<li><span style=\"\">The correct phrasal verb is \"<strong>swept over</strong>,\" which is used to describe a powerful emotion, quality, or idea spreading through or affecting someone or something.</span></li>\n\t<li><span style=\"\">In this context, \"hubris\" (excessive pride) is the quality that has powerfully affected the Chinese Communist Party, requiring the use of \"<strong>over</strong>\" instead of \"<strong>on</strong>.\"</span></li>\n\t<li><span style=\"\">Thus, the error is located in <strong>part D</strong> of the sentence, making <strong>Option A</strong> (Only D) the correct answer.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 1</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"Bellicose assertions by China along the LAC, Beijing&rsquo;s brazen anti-India partisanship in international forums and the ongoing attempt to isolate New Delhi in its own sub-continental sphere of influence is a byproduct <strong>of the hubris that has swept over the Chinese Communist Party.</strong>\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"Bellicose assertions... partisanship\"</strong> &ndash; This part correctly introduces the plural and singular subjects of the sentence.</span></li>\n\t<li><span style=\"\"><strong>B: \"in international forums... isolate New Delhi in\"</strong> &ndash; This part is grammatically sound and maintains proper prepositional usage and parallel structure.</span></li>\n\t<li><span style=\"\"><strong>C: \"its own sub-continental sphere of influence is a byproduct\"</strong> &ndash; This part is acceptable as the verb \"is\" treats the collective actions mentioned previously as a singular unified phenomenon.</span></li>\n\t<li><span style=\"\"><strong>No error</strong> &ndash; This would be the correct option if the sentence were grammatically perfect, but the error in part D prevents this.</span></li>\n</ul>\n</answer>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef9d6787d4e790d095c4a53",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Find out which part has an error and mark it as your answer. If there is no error, mark &#39;no error&#39; as your answer.</span></p>\n\n<p>Police also charged three men (a)/ and a woman from Montgomery with (b)/ felony criminal&nbsp;mischiefs for toppling (c)/ the statue outside Lee High. (d)/ no error</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Police also charged three men",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "and a woman from Montgomery with",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "felony criminal&nbsp;mischiefs&nbsp;for toppling",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "the statue outside Lee High.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "no error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 3</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The primary error in the sentence is the use of the plural noun \"<strong>mischiefs</strong>\" in part C.</span></li>\n\t<li><span style=\"\">The word \"<strong>mischief</strong>\" is an uncountable noun when it refers to playful misbehaviour or, in legal terms, the crime of damaging property (\"criminal mischief\").</span></li>\n\t<li><span style=\"\">Uncountable nouns do not typically have a plural form. Therefore, \"<strong>mischiefs</strong>\" should be replaced with \"<strong>mischief</strong>\" to be grammatically correct.</span></li>\n\t<li><span style=\"\">Thus, the error is located in <strong>part C</strong> of the sentence.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 3</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"Police also charged three men and a woman from Montgomery with <strong>felony criminal mischief for toppling</strong> the statue outside Lee High.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"Police also charged three men\"</strong> &ndash; This part is correct; \"police\" is treated as a plural noun and the verb tense is consistent.</span></li>\n\t<li><span style=\"\"><strong>B: \"and a woman from Montgomery with\"</strong> &ndash; This part is correct; the preposition \"with\" is the standard accompaniment for the verb \"charged\" (charged someone with something).</span></li>\n\t<li><span style=\"\"><strong>D: \"the statue outside Lee High.\"</strong> &ndash; This part is correct; \"outside\" is used correctly as a preposition of place.</span></li>\n\t<li><span style=\"\"><strong>no error</strong> &ndash; This option is incorrect because a grammatical error exists in the usage of the noun \"mischiefs.\"</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef9d29a7d4e790d095c142f",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Find out which part has an error and mark it as your answer. If there is no error, mark &#39;No error&#39; as your answer.</span></p>\n\n<p>There isn&#39;t a ton of wildlife to see living in South Korea&nbsp;(a)/ so Ducky has been absolutely&nbsp;living it up (b)/ with all the birds, squirrels, chipmunks, raccoons (c)/ and&nbsp;deers that regularly wander by the windows! (d)/ no error</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "There isn&#39;t a ton of wildlife to see living in a South Korean",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "so Ducky has been absolutely&nbsp;living it up",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "with all the birds, squirrels, chipmunks, raccoons",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "and&nbsp;deers&nbsp;that regularly wander by the windows!",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "no error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 4</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The primary error in the sentence is the use of the word \"<strong>deers</strong>\" in part D.</span></li>\n\t<li><span style=\"\">In English, certain nouns have the same form for both singular and plural. \"<strong>Deer</strong>\" is one of these irregular nouns.</span></li>\n\t<li><span style=\"\">The correct plural form should be \"<strong>deer</strong>,\" regardless of whether it refers to one or multiple animals.</span></li>\n\t<li><span style=\"\">Thus, the error is located in <strong>part D</strong> of the sentence.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 4</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"There isn&#39;t a ton of wildlife to see living in South Korea so Ducky has been absolutely living it up with all the birds, squirrels, chipmunks, raccoons <strong>and deer</strong> that regularly wander by the windows!\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"There isn&#39;t a ton of wildlife to see living in South Korea\"</strong> &ndash; This part is grammatically correct; \"wildlife\" is an uncountable noun used with a singular verb.</span></li>\n\t<li><span style=\"\"><strong>B: \"so Ducky has been absolutely living it up\"</strong> &ndash; This part correctly uses the present perfect continuous tense and the idiom \"living it up.\"</span></li>\n\t<li><span style=\"\"><strong>C: \"with all the birds, squirrels, chipmunks, raccoons\"</strong> &ndash; This part is a correctly formatted list of plural countable nouns.</span></li>\n\t<li><span style=\"\">Other examples of nouns that remain the same in plural include <strong>sheep</strong>, <strong>fish</strong>, and <strong>series</strong>.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef5ab50167ac10d1215b32a",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the sentence given below, one/some parts have errors and others are correct. Find out which part has an error and mark it as your answer. If there is &#39;No error&#39; as your answer.</span></p>\n\n<p>The IMF yesterday lowered its quarterly forecast of India&rsquo;s economic growth for 2020-21/ (A) from&nbsp;-4.5%, to&nbsp;about 1.9% it had anticipated in April. In just three months,/ (B) India&rsquo;s growth forecast has been lowered by 6.4 percentage points. Along with/ (C) a reduction in India&rsquo;s forecast, IMF has lowered the forecast for the rest of the world./ (D)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only B&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<answer>\n<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The primary error in the sentence is the logical reversal of the prepositions \"<strong>from</strong>\" and \"<strong>to</strong>\" in <strong>part B</strong>.</span></li>\n\t<li><span style=\"\">The verb \"<strong>lowered</strong>\" indicates a reduction, which implies moving from a higher value to a lower one.</span></li>\n\t<li><span style=\"\">Since 1.9% was the previous figure (anticipated in April) and -4.5% is the new, lower figure, the correct phrasing must be \"<strong>to -4.5% from about 1.9%</strong>.\"</span></li>\n\t<li><span style=\"\">Thus, the error is located in <strong>part B</strong> of the sentence.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 2</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"The IMF yesterday lowered its quarterly forecast of India&rsquo;s economic growth for 2020-21 <strong>to -4.5%, from about 1.9%</strong> it had anticipated in April. In just three months, India&rsquo;s growth forecast has been lowered by 6.4 percentage points.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"The IMF yesterday lowered its quarterly forecast of India&rsquo;s economic growth for 2020-21/\"</strong> &ndash; This part of the sentence is grammatically correct and does not require any changes.</span></li>\n\t<li><span style=\"\"><strong>C: \"India&rsquo;s growth forecast has been lowered by 6.4 percentage points. Along with/\"</strong> &ndash; This part of the sentence is grammatically correct and does not require any changes.</span></li>\n\t<li><span style=\"\"><strong>D: \"a reduction in India&rsquo;s forecast, IMF has lowered the forecast for the rest of the world./\"</strong> &ndash; While \"the\" is missing before \"IMF,\" the logical error in part B is the primary focus of this identification task.</span></li>\n\t<li><span style=\"\"><strong>No error</strong> &ndash; This would be the correct option if there were no mistakes in the sentence, but there is a significant logical error in part B.</span></li>\n</ul>\n</answer>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef5aec674b5f639474d9de8",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the sentence given below, one/some parts have errors and others are correct. Find out which part has an error and mark it as your answer. If there is &#39;No error&#39; as your answer.</span></p>\n\n<p>The rath yatra was a non-justiciable issue in which the local/ (A) administration was required to apply its mind and eke on/ (B)&nbsp;a socio-political consensus. Judiciary needs to be/ (C) wary by&nbsp;governments shifting the burden of executive decisions to it./ (D)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both A and C",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both B and D",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both C and D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 2</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The sentence contains errors in <strong>Part B</strong> and <strong>Part D</strong>.</span></li>\n\t<li><span style=\"\">In <strong>Part B</strong>, the phrasal verb \"<strong>eke on</strong>\" is incorrect. The correct idiom is \"<strong>eke out</strong>,\" which means to manage to produce or supplement something with great effort (e.g., \"eke out a consensus\").</span></li>\n\t<li><span style=\"\">In <strong>Part D</strong>, the preposition \"<strong>by</strong>\" used after the adjective \"wary\" is incorrect. The standard preposition to use with \"<strong>wary</strong>\" is \"<strong>of</strong>\" (e.g., \"wary of something\").</span></li>\n\t<li><span style=\"\">Thus, the errors are located in <strong>parts B and D</strong>.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 2</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"The rath yatra was a non-justiciable issue in which the local administration was required to apply its mind and <strong>eke out</strong> a socio-political consensus. Judiciary needs to be <strong>wary of</strong> governments shifting the burden of executive decisions to it.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"The rath yatra was a non-justiciable issue in which the local\"</strong> &ndash; This part is grammatically correct. \"Non-justiciable\" refers to an issue not capable of being decided by legal principles or by a court of justice.</span></li>\n\t<li><span style=\"\"><strong>C: \"a socio-political consensus. Judiciary needs to be\"</strong> &ndash; While \"The\" is typically used before \"judiciary\" in formal writing, in the context of these specific error-spotting options, the errors in B and D (idiom and preposition) are the primary focus.</span></li>\n\t<li><span style=\"\"><strong>Eke out:</strong> To make something last longer or to obtain/create something with difficulty.</span></li>\n\t<li><span style=\"\"><strong>Wary of:</strong> Feeling or showing caution about possible dangers or problems.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef891c3fed75c0d110287db",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p><strong>Find out which part has an error and mark it as your answer. If there is no error, mark &#39;no error&#39; as your answer.</strong></p>\n\n<p>With their aid, he should be able (a)/ to adapt himself selectively to his culture, (b)/ rejecting its evils, stupidities and irrelevances, (c)/ gratefully accepting all its treasures of accumulated&nbsp;knowledges. (d)/ no error</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "With their aid, he should be able",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "to adapt himself selectively to his culture,",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "rejecting its evils, stupidities and irrelevances,",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "gratefully accepting all its treasures of accumulated&nbsp;knowledges.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 4</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The primary error in the sentence lies in the use of the word \"<strong>knowledges</strong>\" in part D.</span></li>\n\t<li><span style=\"\">The word \"<strong>knowledge</strong>\" is an <strong>uncountable noun</strong> (mass noun), which means it typically does not have a plural form.</span></li>\n\t<li><span style=\"\">In standard English, the term \"<strong>knowledge</strong>\" is used for both general and specific accumulated information, and adding an \"s\" is grammatically incorrect.</span></li>\n\t<li><span style=\"\">Thus, the error is located in <strong>part D</strong> of the sentence.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 4</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"With their aid, he should be able to adapt himself selectively to his culture, rejecting its evils, stupidities and irrelevances, gratefully accepting all its treasures of accumulated <strong>knowledge</strong>.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"With their aid, he should be able\"</strong> &ndash; This part is grammatically correct as it sets up the capability of the subject.</span></li>\n\t<li><span style=\"\"><strong>B: \"to adapt himself selectively to his culture,\"</strong> &ndash; This part is correct; \"adapt\" is used with the reflexive pronoun \"himself\" and the correct preposition \"to.\"</span></li>\n\t<li><span style=\"\"><strong>C: \"rejecting its evils, stupidities and irrelevances,\"</strong> &ndash; This part is correct; these specific nouns are used here to describe plural instances of negative traits.</span></li>\n\t<li><span style=\"\"><strong>No error</strong> &ndash; This option is incorrect because part D contains a clear grammatical error regarding noun countability.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef5ead145160c0d1523175c",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">In the sentence given below, one/ more parts have errors and others are correct. Find out which part has an error and mark it as your answer. If there is no error, mark &#39;No error&#39; as your answer.</span></p>\n\n<p>You do not know the relief of brushing away a fly(A)/ that has bitten you, or&nbsp;the delight of eating(B)/ delicious food,&nbsp;or&nbsp;the satisfaction of(C)/ drawing a long breath of fresh, pure air.(D)</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B and C",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Only D",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Only C",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<answer>\n<div><span style=\"\">The correct answer is <strong>Option 5</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The provided sentence is grammatically sound and does not contain any errors in its parts.</span></li>\n\t<li><span style=\"\">The sentence follows a <strong>parallel structure</strong>: \"the relief of brushing...\", \"the delight of eating...\", and \"the satisfaction of drawing...\".</span></li>\n\t<li><span style=\"\">Each part (A, B, C, and D) uses correct prepositions, articles, and verb forms within their respective contexts.</span></li>\n\t<li><span style=\"\">Since all parts of the sentence are correct, the choice is <strong>No error</strong>.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 5</span><span style=\"color: rgb(33, 37, 41);\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"You do not know the relief of brushing away a fly that has bitten you, or the delight of eating delicious food, or the satisfaction of drawing a long breath of fresh, pure air.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"You do not know the relief of brushing away a fly\"</strong> &ndash; Correct subject-verb agreement and prepositional usage.</span></li>\n\t<li><span style=\"\"><strong>B: \"that has bitten you, or the delight of eating\"</strong> &ndash; The relative clause and the start of the parallel list are correct.</span></li>\n\t<li><span style=\"\"><strong>C: \"delicious food, or the satisfaction of\"</strong> &ndash; Maintains the list structure and uses appropriate nouns.</span></li>\n\t<li><span style=\"\"><strong>D: \"drawing a long breath of fresh, pure air.\"</strong> &ndash; Correct gerund usage and adjective placement.</span></li>\n</ul>\n</answer>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef5a81c9258c70d0a761038",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Directions: In the sentence given below, one/some parts have errors and others are correct. Find out which part has an error and mark it as your answer. If there is &#39;No error&#39; as your answer.</span></p>\n\n<p>The state of the job market in India needs some time to heal. As per a recent study done by/ (A) Knowledgetics Research on Employability Outlook; around 17.6% companies have been/ (B) experiencing shrinking business opportunities, while 34.1% are laying of/ (C) people and 37.4% have put a stop off&nbsp;hiring./ (D)&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Both C and D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Both A and B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both B and C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both B and D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 1</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The first error occurs in <strong>part C</strong> with the phrase \"<strong>laying of</strong>.\" The correct phrasal verb is \"<strong>laying off</strong>,\" which means to dismiss employees from their jobs.</span></li>\n\t<li><span style=\"\">The second error is in <strong>part D</strong> within the phrase \"<strong>put a stop off</strong>.\" The correct idiomatic expression is \"<strong>put a stop to</strong>,\" which means to cause something to end or to prevent it from continuing.</span></li>\n\t<li><span style=\"\">Both errors involve the incorrect use of prepositions in standard English expressions.</span></li>\n\t<li><span style=\"\">Thus, the errors are located in <strong>parts C and D</strong> of the sentence.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 1</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"The state of the job market in India needs some time to heal. As per a recent study done by Knowledgetics Research on Employability Outlook; around 17.6% companies have been experiencing shrinking business opportunities, while 34.1% are <strong>laying off</strong> people and 37.4% have <strong>put a stop to</strong> hiring.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"As per a recent study done by\"</strong> &ndash; This part of the sentence is grammatically correct.</span></li>\n\t<li><span style=\"\"><strong>B: \"Knowledgetics Research on Employability Outlook; around 17.6% companies have been\"</strong> &ndash; While formal writing usually requires \"of\" after a percentage, it is often omitted in business contexts; however, parts C and D contain more fundamental grammatical errors.</span></li>\n\t<li><span style=\"\"><strong>No error</strong> &ndash; This option is incorrect because there are clear grammatical mistakes in parts C and D.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef9c894a9baf40d12340f45",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Find out which part has an error and mark it as your answer. If there is no error, mark &#39;no error&#39; as your answer.</span></p>\n\n<p>In the second year, students (a)/&nbsp;shadow training officers, before (b)/ returning full time for a third year focused (c)/ on investigations and completing a&nbsp;theses&nbsp;paper. (d)/ no error</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "In the second year, students",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "shadow training officers,&nbsp;before",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "returning full time for a third year focused",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "on investigations and completing a&nbsp;theses&nbsp;paper.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<div><span style=\"\">The correct answer is <strong>Option 4</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The error lies in part <strong>(d)</strong> of the sentence.</span></li>\n\t<li><span style=\"\">The primary issue is the use of the plural noun \"<strong>theses</strong>\" following the singular indefinite article \"<strong>a</strong>.\"</span></li>\n\t<li><span style=\"\">\"<strong>Theses</strong>\" is the plural form of \"<strong>thesis</strong>.\" Grammatically, the article \"a\" must be followed by a singular countable noun.</span></li>\n\t<li><span style=\"\">The correct phrase should be \"<strong>a thesis paper</strong>\" to maintain grammatical agreement.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 4</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"In the second year, students shadow training officers, before returning full time for a third year focused on investigations and completing <strong>a thesis paper</strong>.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"In the second year, students\"</strong> &ndash; This part is grammatically correct as it correctly sets the time context and identifies the subject.</span></li>\n\t<li><span style=\"\"><strong>B: \"shadow training officers, before\"</strong> &ndash; This part is correct; \"shadow\" is used here as a verb meaning to follow and observe.</span></li>\n\t<li><span style=\"\"><strong>C: \"returning full time for a third year focused\"</strong> &ndash; This part is grammatically correct, describing the duration and nature of the study.</span></li>\n\t<li><span style=\"\"><strong>E: \"No error\"</strong> &ndash; This is incorrect because there is a clear noun-number agreement error in part D.</span></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ef9db5fa9baf40d123521de",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p><span style=\"font-weight: 700;\">Find out which part has an error and mark it as your answer. If there is no error, mark &#39;no error&#39; as your answer.</span></p>\n\n<p>The police have said that the man, (a)/ who was not identified, was arrested (b)/ and booked into San Mateo County (c)/ Jail on suspicion of commercial burglary. (d)/ no error</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The police have said that the man,",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "who was not identified, was arrested",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "and booked into San Mateo County",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Jail on suspicion of commercial burglary",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "no error",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 0.5,
+          "negativeMarks": 0.125,
+          "explanation": "<answer>\n<div><span style=\"\">The correct answer is <strong>Option 5</strong>.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\">The sentence provided is grammatically sound and does not contain any errors in its structure, spelling, or punctuation.</span></li>\n\t<li><span style=\"\">The noun \"<strong>police</strong>\" is a collective noun that is treated as plural, so the use of the plural verb \"<strong>have</strong>\" is correct.</span></li>\n\t<li><span style=\"\">The non-restrictive relative clause \"<strong>who was not identified</strong>\" is correctly set off by commas and uses the singular verb \"was\" to agree with \"the man.\"</span></li>\n\t<li><span style=\"\">The phrase \"<strong>on suspicion of</strong>\" is the standard idiomatic expression used in legal and law enforcement contexts.</span></li>\n\t<li><span style=\"\">Thus, there is <strong>no error</strong> in any part of the sentence.</span></li>\n</ul>\n\n<div><span style=\"\">Therefore, the correct answer is </span><span style=\"font-weight: bolder;\">Option 5</span><span style=\"\">.</span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><strong>Correct Sentence:</strong> <em>\"The police have said that the man, who was not identified, was arrested and booked into San Mateo County Jail on suspicion of commercial burglary.\"</em></span></div>\n\n<div>&nbsp;</div>\n\n<div><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></div>\n\n<ul>\n\t<li><span style=\"\"><strong>A: \"The police have said that the man,\"</strong> &ndash; This part is correct; \"police\" always takes a plural verb.</span></li>\n\t<li><span style=\"\"><strong>B: \"who was not identified, was arrested\"</strong> &ndash; This part is correct; it uses proper punctuation for a non-essential clause and correct passive voice.</span></li>\n\t<li><span style=\"\"><strong>C: \"and booked into San Mateo County\"</strong> &ndash; This part is correct; \"booked into\" is the appropriate phrasal verb for entering a suspect into a facility.</span></li>\n\t<li><span style=\"\"><strong>D: \"Jail on suspicion of commercial burglary.\"</strong> &ndash; This part is correct; the proper noun is capitalized and the prepositional phrase is used accurately.</span></li>\n\t<li><span style=\"\"><strong>no error</strong> &ndash; This is the correct choice as the sentence adheres to all grammatical rules.</span></li>\n</ul>\n</answer>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:06:45.972Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

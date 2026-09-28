@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e5ab84a4ee31d8411dc7",
+  "title": "IBPS SO IT Prelims Sectional Test 1",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "ST (Professional Knowledge)",
+  "subsectionCategory": "IT Officer",
+  "pattern": "MAINS_IT_SECTIONAL",
+  "stage": "MAINS",
+  "hasITInPrelims": true,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 50,
+  "sections": [
+    {
+      "id": "6a44c919e61a47bbb4745ded",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 50,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "61cad6e7b01b5dd2f38d6d23",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Frequency band definition and Wireless signal encoding are functions of which layer?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Physical Layer",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Logic Link Control Layer",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Medium Access Layer",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "None of these",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Both 1 and 2",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is<em> </em><strong>option 1.</strong></p>\n\n<p><strong>Concept:</strong></p>\n\n<p>&nbsp;The physical layer is the OSI model&#39;s bottom layer. This layer regulates the transmission and reception of unstructured, raw bit-stream data through physical media. This layer is made up of the network&#39;s electrical, optical, and physical components.</p>\n\n<p><strong>Functions of Physical Layer:</strong></p>\n\n<ul>\n\t<li>Frequency band definition.&nbsp;</li>\n\t<li>Data Transmission.</li>\n\t<li>Wireless signal encoding.&nbsp;</li>\n\t<li>It determines the type of signal used for transmitting the information.</li>\n\t<li>It defines the way how network devices are arranged.</li>\n</ul>\n\n<p><strong>Hence the correct answer is</strong> the <em>Physical<span style=\"\"><em>&nbsp;</em>Layer.</span></em></p>\n\n<p><em><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span></em></p>\n\n<ul>\n\t<li><strong>The logical link control (LLC) sublayer</strong> of the data link layer of the open system interconnections (OSI) reference model for data transmission is the highest sublayer of the data link layer. It serves as a link between the network layer and the&nbsp;media access control (MAC) sublayer of <span style=\"\">data link layers</span>.</li>\n\t<li><strong>The medium access control (MAC)</strong> layer of the open system interconnections (OSI) reference model for data transmission is a sublayer of the data link layer. It is in charge of transmission medium flow regulation and multiplexing. It manages the transfer of data packets through shared channels that are accessible from afar.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "621cc143e580df36ed234b59",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>Consider the following transaction involving two bank accounts x and y.</p>\n\n<p>read (x); x := x &ndash; 50 ; write (x) ; read (y) ; y≔ y + 50 ; write (y)</p>\nThe constraint that the sum of the accounts x and y should remain constant is that of",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Atomicity",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Consistency",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Isolation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Durability",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<p>Both 2) and 3)</p>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>ACID Properties:</strong></p>\n\n<p>ATOMICITY: It states that either all the operations of a transaction are executed or NULL.</p>\n\n<p>ISOLATION: It states that each transaction of the concurrent schedule is unaware from another transaction that is parallel executed even if that transaction is executed on same data item.</p>\n\n<p>DURABILITY: It states that after the successful execution of the transaction on the database all the modifications must be reflected on the database even after the system failure.</p>\n\n<p>CONSISTENCY: It states that after the execution of a transaction the database must be in the consistent state (as that before execution).</p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>Let us assume that RS.50 is debited from one account and credited to another account, in such case T<sub>1</sub> transaction should execute first then T<sub>2</sub></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:121px;height:31px;\">\n\t\t\t<p style=\"text-align: center;\">T<sub>1</sub></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:121px;height:31px;\">\n\t\t\t<p style=\"text-align: center;\">T<sub>2</sub></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">read(x)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:121px;height:31px;\">\n\t\t\t<p style=\"text-align: center;\">x := x &ndash; 50</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:121px;height:31px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">write(x)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">read(y)</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">y ≔ y+50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:121px;height:30px;\">\n\t\t\t<p style=\"text-align: center;\">write(y)</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Before transaction: Initially</p>\n\n<p>x = 100 and y = 150 then x + y = 250</p>\n\n<p>After transaction: Finally</p>\n\n<p>x = 50 and y = 200 then x + y = 250</p>\nThe constraint that the sum of the accounts x and y should remain constant is that of consistency.",
+          "topic": "Test"
+        },
+        {
+          "id": "61b72a97fbacc576e9e3efdf",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>Carefully observe the below given stack with stack pointer pointing to element 2.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>2</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">4</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">7</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">5</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\nHow many pop operations are needed to delete the smallest element from the stack?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The stack pointer is pointing at top of the stack, that is, to element 2</p>\n\n<p>After 1<sup>st</sup> pop:</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">4</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">7</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">5</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>2 is deleted</p>\n\n<p>After 2<sup>nd</sup> pop:</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">1</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">7</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">5</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>4 is deleted</p>\n\n<p>After 3<sup>rd</sup> pop</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">7</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:17px;\">\n\t\t\t<p align=\"center\">5</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:67px;height:16px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><strong>1 is deleted</strong></p>\nTherefore, the number of pop operation performed is 3",
+          "topic": "Test"
+        },
+        {
+          "id": "61b883eaeaea2a7cd885eaae",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Which of the following is the correct declaration of linked list?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<p style=\"\">struct node*</p>\n\n<p style=\"\">{</p>\n\n<p style=\"\">int data;</p>\n\n<p style=\"\">node *link;</p>\n\n<p style=\"\">}</p>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<p style=\"\">struct node</p>\n\n<p style=\"\">{</p>\n\n<p style=\"\">int data;</p>\n\n<p style=\"\">struct node *link;</p>\n\n<p style=\"\">}</p>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<p style=\"\">struct node</p>\n\n<p style=\"\">{</p>\n\n<p style=\"\">int data;</p>\n\n<p style=\"\">node link;</p>\n\n<p style=\"\">}</p>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<p style=\"\">struct node*</p>\n\n<p style=\"\">{</p>\n\n<p style=\"\">int data;</p>\n\n<p style=\"\">struct node *link;</p>\n\n<p style=\"\">}</p>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of Above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p style=\"\"><strong style=\"\"><u style=\"\">Declaration syntax:</u></strong> For structure in C and C++</p>\n\n<p style=\"\">struct tag_name</p>\n\n<p style=\"\">{</p>\n\n<p style=\"\">Datatype&nbsp; variable_name;</p>\n\n<p style=\"\">struct tag_name *pointer_variable;</p>\n\n<p style=\"\">};</p>\n\n<p style=\"\"><strong style=\"\"><u style=\"\">Option 2:</u></strong></p>\n\n<p style=\"\">struct node</p>\n\n<p style=\"\">{</p>\n\n<p style=\"\">int data;</p>\n\n<p style=\"\">struct node*link;</p>\n\n<p style=\"\">}</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "65489959381dd80b37b88f59",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "The following numbers are inserted into an empty binary search tree in the given order: 10, 1, 3, 5, 15, 12, 16. What is the height of the binary search tree?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "4",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <strong>option 1</strong></p>\n\n<p><u><span style=\"font-weight: 700;\">Concept:</span></u></p>\n\n<p>A binary search tree (BST) is a node-based binary tree data structure and it follows the following points</p>\n\n<ol>\n\t<li>Left sub-tree nodes key value will exist only if lesser than the parent node key value.</li>\n\t<li>Right sub-tree nodes key value will exist only if greater than the parent node key value.</li>\n\t<li>Left sub-tree and Right sub-tree must be a Binary search tree.<br />\n\t&nbsp;</li>\n</ol>\n\n<p><u><strong>Explanation:</strong></u></p>\n\n<p><span style=\"font-weight: 700;\">Step 1</span><strong>:</strong> First 10 comes and now that is the <span style=\"font-weight: 700;\">Root </span>node.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Raju_Shraddha_07.04.2020_D1.png\" style=\"width: 36px; height: 35px;\" /></p>\n\n<p><span style=\"font-weight: 700;\">Step 2: </span>Now 1 came and 1 < 10 then insert Node 1 to the<span style=\"font-weight: 700;\">&nbsp;Left</span>&nbsp;of Node 10.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Raju_Shraddha_07.04.2020_D2.png\" style=\"width: 97px; height: 86px;\" /></p>\n\n<p><span style=\"font-weight: 700;\">Step 3: </span>Now 3 came and 3 < 10 go to the<span style=\"font-weight: 700;\">&nbsp;Left</span>&nbsp;of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>Node 10 and check 3 > 1 then insert Node 3 &nbsp;to the <span style=\"font-weight: 700;\">Right </span>of Node &nbsp;1.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Raju_Shraddha_07.04.2020_D3.png\" style=\"width: 97px; height: 145px;\" /></p>\n\n<p><span style=\"font-weight: 700;\">Step 4</span><strong>:</strong> Now 5 came &nbsp;and 5 < 10 go to the <span style=\"font-weight: 700;\">&nbsp;Left</span>&nbsp;&nbsp;of &nbsp;</p>\n\n<p>Node 10 and check 5 > 1 go to the <span style=\"font-weight: 700;\">Right</span>&nbsp;of Node 1 then check &nbsp;5 > 3 then insert Node 5 to the <span style=\"font-weight: 700;\">Righ</span>t of Node 3.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Raju_Shraddha_07.04.2020_D4.png\" style=\"width: 97px; height: 205px;\" /></p>\n\n<p><span style=\"font-weight: 700;\">Step 5</span><strong>:</strong> Now 15 came and 15 > 10 then insert Node 15 to the <span style=\"font-weight: 700;\">Right</span>&nbsp;of Node 10.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Raju_Shraddha_07.04.2020_D5.png\" style=\"width: 161px; height: 204px;\" /></p>\n\n<p><span style=\"font-weight: 700;\">Step 6: </span>Now 12 came and 12 > 10 &nbsp;go to the &nbsp;<span style=\"font-weight: 700;\">Right </span>of &nbsp;Node 10 and check 15 > 12 then insert Node 12 &nbsp;to the <span style=\"font-weight: 700;\">Left </span>of Node 15.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Raju_Shraddha_07.04.2020_D6.png\" style=\"width: 161px; height: 205px;\" /></p>\n\n<p><strong>Step 7: &nbsp;</strong>Now 16 came and 16 > 10 go to the <strong>Right</strong>&nbsp;of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>10 and check 16 > 15 then insert 16 &nbsp;to the <strong>Right</strong>&nbsp;of Node 15.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Raju_Shraddha_07.04.2020_D7.png\" style=\"width: 191px; height: 204px;\" /></p>\n\n<p><strong>After step 7,&nbsp;&nbsp;we can count the height of the tree as 3.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span><strong> </strong><strong> </strong></p>\n\n<p><strong>Follow the longest path in the tree and count the edges that are height.</strong></p>\n\n<p><strong><u>Tips To Learn:</u></strong></p>\n\n<p><strong>Left</strong>&nbsp;<strong>sub-tree</strong>(key)<<strong>Node</strong>(key)<<strong>Right sub-tree</strong>(key)</p>\n\n<p><strong>Node</strong>(key): Parent node of &nbsp;<strong>Left</strong>&nbsp;<strong>sub-tree</strong>&nbsp;and <strong>Right sub-tree</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "603fd8f5ec10cc5ac1d1d024",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Dynamic memory is made up of",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "flip flop",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "MOS transistor gate",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "magnetic core",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "magnetic bubbles",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Combinational circuitry",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>Inside a dynamic RAM chip, each memory cell holds one bit of information and is made up of two parts: a transistor and a capacitor.</p>\nDynamic RAM memory cell is constructed using MOSFET and capacitor whereas Static RAM memory cell is constructed using 6 MOSFETs.",
+          "topic": "Test"
+        },
+        {
+          "id": "5fb74308a90abee750020eb3",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "In context of a magnetic disk time taken to move the read/write head on to desired track is called _____ time and time taken for desired sector track to come under read/write head is called _____",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Seek, Latency",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Latency, Seek",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Access, Latency",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Access, Seek",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Seek, access",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<ul>\n\t<li><strong<span><strong>Access&nbsp;time</strong>&nbsp;is the&nbsp;total&nbsp;time&nbsp;it takes a computer to request data, and then&nbsp;that request to be met.&nbsp;Access&nbsp;time&nbsp;pertains to devices such as&nbsp;memory,&nbsp;hard drive,&nbsp;CD-ROM,&nbsp;or other mechanisms. Computer&nbsp;access&nbsp;time&nbsp;is commonly measured in&nbsp;nanoseconds&nbsp;or&nbsp;milliseconds&nbsp;and the lower the&nbsp;time&nbsp;the, better.</strong<span></li>\n\t<li><strong>Seek&nbsp;time</strong>&nbsp;is the&nbsp;time&nbsp;taken for a hard disk controller to locate a specific piece of stored data. Other delays include&nbsp;transfer&nbsp;time&nbsp;(data rate) and&nbsp;<strong>rotational delay&nbsp;(latency).</strong></li>\n\t<li>When anything is&nbsp;read or written&nbsp;to a disc drive, the&nbsp;read/write head&nbsp;of the disc needs to move to the&nbsp;right position. The&nbsp;actual physical positioning&nbsp;of the read/write head of the disc is called&nbsp;seeking. The&nbsp;amount of&nbsp;time&nbsp;that it takes the read/write head of the disc to move from one part of&nbsp;the disk to another is called the&nbsp;seek&nbsp;time.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "602263d3cd213f985d6d515b",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "A 32 bit address bus allows access to a total memory of CPU",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "64 MB",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1 GB",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4 GB",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "6 GB",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2&nbsp; GB",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><u><strong>Concept:</strong></u></p>\n\n<p>1 GB = 1024 MB</p>\n\n<p>1 MB = 1024 KB</p>\n\n<p>1 KB = 1024 B</p>\n\n<p>1 B = 8 bits</p>\n\n<p>So, 32-bit address bus has access to 2<sup>32</sup> &nbsp;locations with 8 bits(1 Byte) of information.</p>\n\n<p>2<sup>32</sup>&nbsp;locations = 2<sup>2</sup> * 2<sup>10</sup>&nbsp;* 2<sup>10</sup>&nbsp;* 2<sup>10</sup>&nbsp;locations</p>\n\n<p><span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">32</span> locations = <span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">* 2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">10</span><span style=\"\">&nbsp;* 2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">10</span> * 1 KB [<span style=\"\">2<sup>10</sup>&nbsp;= 1 KB</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">&nbsp;</span>]</p>\n\n<p><span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">32</span> locations = <span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">* 2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">10</span> * 1024 KB</p>\n\n<p><span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">32</span> locations = <span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span> * 1024 MB</p>\n\n<p><span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">32</span> locations = 4 GB&nbsp;of location</p>\n\n<p>Correct Option is 3</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c209b484070dd23c0f6068b",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "In which of the following addressing modes&nbsp;the operand is specified in the instruction itself?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Direct Mode",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Immediate Mode",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Register Mode",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Register Indirect Mode",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Auto Increment Mode",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>In immediate addressing, the operand is specified in the instruction itself. In this mode, the data is 8 bits or 16 bits long and data is the part of instruction.</p>\n\n<p>For example:&nbsp;MOV AL, 35H (move the data 35H into AL register)</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "61fa581e85c55d98610b5f57",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "The IP address 135.0.10.27 belongs to address class ________?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "A",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "C",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "E",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>Looking at the first octet of an IP address, you can identify the class of that address.</p>\n\n<p>&nbsp;Class A : 1 - 127</p>\n\n<p>Class B : 128 - 191</p>\n\n<p>Class C : 192 - 223</p>\n\n<p>Class D : 224 - 239</p>\n\n<p>Class E : 240 - 254</p>\n\n<p>In IP address 135.0.10.27, first octet is 135 which lies in range 128 - 191 of class B.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a93859a60f674819c0f57a",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "<p>Which of the following is used to sort the result set in a specific order?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\"\">ORDER BY</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\"\">GROUP BY</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\"\">WHERE</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">JOIN</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><span style=\"\">ORDER BY is used to sort the result set in a specific order. It is used to sort the result set by one or more columns in ascending or descending order. The ORDER BY clause must be the last clause in a SELECT statement, and it can only be used in SELECT statements, not in UPDATE or DELETE statements.</span></p>\n\n<p><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></span>GROUP BY is used to group the result set by one or more columns. The GROUP BY clause groups rows based on the values in one or more columns and, typically, is used in combination with aggregate functions to return a single result row for each group.</p>\n\n<p>JOIN is used to combine rows from two or more tables based on a related column between them. It can be used to retrieve data from multiple tables as if the data were coming from a single table.</p>\n\n<p>WHERE clause is used to filter the result set of a SELECT, UPDATE, DELETE statement. It is used to specify a condition that rows have to meet in order to be selected or affected.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c3476d5fdb8bb610df1f78b",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "In which of the following machine control instructions the microprocessor finishes executing the current instruction and halts any further execution?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "NOP",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "HLT",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "DI",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "EI",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "SIM",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>NOP:</strong> It is used when no operation is performed. No flags are affected during the execution of NOP. The instruction is used to fill in time delay or to delete and insert instructions while troubleshooting.</p>\n\n<p><strong>HLT</strong>:&nbsp;The Microprocessor finishes executing the current instruction and halts any further execution. The contents of the registers are unaffected during the HLT state.</p>\n\n<p><strong>DI:</strong>&nbsp;Disable interrupt is used when the execution of a code sequence cannot be interrupted. For example, in critical time delays, this instruction is used at the beginning of the code and the interrupts are enabled at the end of the code. The 8085 TRAP cannot be disabled.</p>\n\n<p><strong>EI:</strong>&nbsp;After a system reset or the acknowledgement of an interrupt&nbsp;the Interrupt Enable the flip-flop is reset, thus disabling the interrupts.</p>\n\n<p><strong>SIM:&nbsp;</strong>This SIM instruction is used to implementation of different interrupts of 8085 microprocessor like RST 7.5, 6.5 and 5.5 and also serial data output. It does not affect the TRAP interrupt.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "685aa8705667fa0a6dca4ce7",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Which of the following input device is used to convert the scanned images of typed or handwritten text into digital format?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Light pen",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "OCR",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Digitizer",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\"\">Barcode Reader</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"\">MICR&nbsp;</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <u><strong>OCR</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Optical Character Recognition or abbreviated as OCR is an input device used to convert scanned images of handwritten text, and printed text or documents&nbsp;into digital format. Hence option 2 is correct.</strong></li>\n\t<li>It used both hardware and software such as a scanner to capture the text and software to process the data.\n\t<ul>\n\t\t<li><strong>Hardware captures the text and the software converts the document into a two-colour (black and white) format in which the dark area is considered as text and a lighter area is considered as background.</strong></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>MICR or Magnetic Ink Character Recognition is an input device used to read the text printed with magnetic ink.</strong>&nbsp;\n\n\t<ul>\n\t\t<li>It is used in banks to verify&nbsp;checks and in other organizations for checking the authenticity of documents.</li>\n\t</ul>\n\t</li>\n\t<li><strong>A Light pen is a light-sensitive device used to interact with the user interface by selecting the text or clicking the checkboxes on the screen.</strong></li>\n\t<li><strong>A&nbsp;Digitizer is an input device with a stylus and is mainly used for drawing and creating graphics to display on the monitor.</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "614c62ac5483f41449474b0a",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "Which of the following is not a machine independent phase of compiler?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Code generation",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Lexical Analysis",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Snytax Analysis",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Intermidiate code generation",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>\n\n<p>&nbsp;Machine independent phases are <strong>Lexical analysis, Syntax analysis, Semantic analysis, Intermediate code generation, and sometimes code optimization.</strong>&nbsp;The above&nbsp;phases of the compiler are known as frontend and these are common for any platform.<strong> Code generation</strong> is known as <strong>backend</strong> and it is<strong> machine dependent phase.</strong></p>\n\n<ul>\n\t<li>The last phase of translation is code generation. A number of optimizations to reduce the length of machine language programs are carried out during this phase.</li>\n\t<li>The output of the code generator is the machine language program of the specified computer.</li>\n\t<li>Code Generation Basic blocks comprise a sequence of three-address instructions.&nbsp;</li>\n</ul>\n\n<p><strong>Hence the correct answer is</strong><em> code generation.</em></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "61e16b1db7f4d7f7efa3240c",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "<p>Any computer uses three different memories called:</p>\n\n<p>1. Cache memory</p>\n\n<p>2. Virtual memory</p>\n\n<p>3. Main memory</p>\nMoving from the CPU outwards, which is the correct order in which they appear?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1, 2, 3</span>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1, 3, 2</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">3, 1, 2</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">2, 3, 1</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "2, 1, 3",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><span style=\"font-weight: 700;\">Primary Storage/ Main Storage:</span></p>\n\n<ul>\n\t<li>Primary storage is the collection methods and technologies used to capture and retain digital information that is in active use and critical for an organization&rsquo;s operations</li>\n\t<li>Primary storage data is frequently accessed by applications or other hardware systems and business users</li>\n\t<li>Instructions are fetched from main memory</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-weight: 700;\">Cache Memory:</span></p>\n\n<ul>\n\t<li>&nbsp;This is a small memory, faster than the main memory</li>\n\t<li>Memory caching is effective because most programs access the same data or instructions over and over</li>\n\t<li>By keeping as much of this information as possible in SRAM, the computer avoids accessing the slower DRAM</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Virtual Memory:</strong></p>\n\n<ul>\n\t<li>It is a section of a hard disk that&#39;s set up to perform as the computer&#39;s RAM.</li>\n\t<li>This allows computers to address more memory than the amount physically installed on the system.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Moving from the CPU outwards, the correct order is:</p>\n\n<p>Cache memory, Main memory, Virtual memory</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ff74f349f5a633612fc0350",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "Which of the following is NOT a valid storage class in &lsquo;C&rsquo; language?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "static",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "dynamic",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "register",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "auto",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "extern",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong><u>Concept</u></strong><strong>:</strong></p>\n\n<p>Storage classes are used to fully define a variable. Storage class tells us that where the variable would be stored, what will be initial value of variable (if initial value is not specifically assigned then default value), what would be the scope of variable and life of variable.</p>\n\n<p><strong><u>Explanation</u></strong><strong>:</strong></p>\n\n<p>Four types of storage classes: auto, register, static and extern.</p>\n\n<p><strong><u>auto:</u></strong></p>\n\n<p>Features of auto storage class are:</p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>Storage is memory</li>\n\t<li>Default value is garbage</li>\n\t<li>Scope is local to the block in which variable is defined</li>\n\t<li>Life till the control remains within the block in which variable is defined.</li>\n</ul>\n\n<p><br />\n<strong><u>register:</u></strong></p>\n\n<p>Features of register storage class are:</p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>Storage is in CPU registers</li>\n\t<li>Default initial value is garbage value</li>\n\t<li>Scope is local to the block in which variable is defined</li>\n\t<li>Life: till the control remains within the block in which variable is defined</li>\n</ul>\n\n<p><br />\n<strong><u>static:</u></strong></p>\n\n<p>Features of static storage class are:</p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>Storage is memory</li>\n\t<li>Default initial value is zero</li>\n\t<li>Scope is local to the block in which variable is defined</li>\n\t<li>Life: value of variable persists between different function calls</li>\n</ul>\n\n<p><br />\n<strong><u>extern:</u></strong></p>\n\n<p>Features of extern storage class are:</p>\n\n<ul style=\"list-style-type: disc;\">\n\t<li>Storage is memory.</li>\n\t<li>Default initial value is zero</li>\n\t<li>Scope is global</li>\n\t<li>Life: as long as the program&rsquo;s execution does not come to an end</li>\n</ul>\n\n<p><strong><u>Important Points:</u></strong></p>\n\n<p>Dynamic is not a storage class</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "59faaeefc3a95b0d483a4425",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "RAID stands for",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Redundant Array of Independent Disks",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Replicated Array of integrated Disk",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Redundant Application Information Disk",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Reduced Access of Information Drive",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<p style=\"text-align:justify\">None of the above</p>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><span style=\"text-align: justify;\">RAID (redundant array of independent disks; an originally redundant array of inexpensive disks) is a way of storing the same data in different places on multiple hard disks to protect data in the case of a drive failure.</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<p style=\"\">RAID is a technology that is used to increase the performance and/or reliability of data storage. The abbreviation stands for either&nbsp;Redundant Array of Independent Drives&nbsp;or&nbsp;Redundant Array of Inexpensive Disks, which is older and less used. A RAID system consists of two or more drives working in parallel.&nbsp;</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Advantages of RAID</span></p>\n\n<ul style=\"\">\n\t<li>RAID offers great performance, both in read and write operations. There is no overhead caused by parity controls.</li>\n\t<li>All storage capacity is used, there is no overhead.</li>\n\t<li>The technology is easy to implement.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "61bb3983a17267618d2cc964",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "<p>The for loop</p>\n\n<p>for (i = 0; i < 10; ++i)</p>\n\n<p>printf(\"%d\", i &amp;&nbsp; 1);</p>\n\n<p>prints</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "0101010101",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "0111111111",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "0000000000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1111111111",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "0101010100",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The correct answer is \"option 1\".</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span> </span></span></p>\n<span style=\"background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Bitwise AND</span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> operation ( </span><span style=\"background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&amp;</span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> )</span><span style=\"background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> :&nbsp;</span>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;&nbsp;&nbsp;</span></span></p>\n\n<div align=\"left\" dir=\"ltr\" style=\"margin-left:0pt;\">\n<table style=\"border: none;\">\n\t<colgroup>\n\t\t<col width=\"46\" />\n\t\t<col width=\"48\" />\n\t\t<col width=\"90\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Bit 1</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Bit 2</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Bit1 &amp; Bit2&nbsp;</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n&nbsp;\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><u><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Calculation:</span></span></u></p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">In the given <b>for</b></span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> loop :&nbsp;</span></span></p>\n&nbsp;\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The statement </span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">( i &amp; 1 </span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">) in FOR loop will run upto value </span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">i = 9</span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> &amp; each loop gives </span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">:</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n\n<div align=\"left\" dir=\"ltr\" style=\"margin-left:0pt;\">\n<table style=\"border: none; table-layout: fixed; width: 350pt;\">\n\t<colgroup>\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Loop value i</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">binary( i )</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">binary( 1 )</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">i &amp; 1</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0000</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0000 = 0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001 = 1</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">2</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0010</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0000 = 0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">3</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0011</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001 = 1</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">4</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0100</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0000 = 0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">5</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0101</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001 = 1</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">6</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0110</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0000 = 0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">7</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0111</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001 = 1</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">8</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1000</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0000 = 0</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">9</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">0001 = 1</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-7d6ef028-7fff-c298-25fb-deaf7bc88470\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Hence, the given for loop prints value: 0101010101.</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><img height=\"31px\" src=\"//storage.googleapis.com/tb-img/production/21/11/6041bd569e3f908247f20dc2_16382691632811.png\" width=\"147px\" /> </span></span></p>\n\n<div>For even i it will print 0 and for odd i it will print 1 and hence&nbsp;<strong>0101010101 is the answer</strong></div>",
+          "topic": "Test"
+        },
+        {
+          "id": "6683bda8f92ab2e30a91d8f8",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "Let us consider that size of float variable is 4 byte, if any table has base address 100, then address of fourth cell will be:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "113",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "400",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "116",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "104",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "112",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <u><strong>112</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>If the base address of the table (let&#39;s assume an array of floats in C/C++ for instance) is at location 100, and each float takes up 4 bytes of space, then the address of the Nth float element will be:\n\t<ul>\n\t\t<li><strong>Base Address + (N - 1) * size</strong></li>\n\t</ul>\n\t</li>\n\t<li>Given that N is 4 (the fourth cell), and the size of a float is 4 bytes, substituting these values in the formula gives:</li>\n</ul>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>100 + (4 - 1) * 4 = 100 + 12 = 112</strong></p>\n\n<p><strong>So, the fourth element of the table will be at the memory address 112.</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Cell</strong></td>\n\t\t\t<td>Cell 1</td>\n\t\t\t<td><span style=\"color: rgb(33, 37, 41);\">Cell 2&nbsp;</span></td>\n\t\t\t<td><span style=\"color: rgb(33, 37, 41);\">Cell 3&nbsp;</span></td>\n\t\t\t<td><span style=\"color: rgb(33, 37, 41);\"><strong>Cell 4</strong></span></td>\n\t\t\t<td><span style=\"color: rgb(33, 37, 41);\">Cell 5</span></td>\n\t\t\t<td><span style=\"color: rgb(33, 37, 41);\">Cell 6</span></td>\n\t\t\t<td><span style=\"color: rgb(33, 37, 41);\">Cell 7</span></td>\n\t\t\t<td>&nbsp; &nbsp; ...&nbsp;&nbsp;</td>\n\t\t\t<td><span style=\"color: rgb(33, 37, 41);\">Cell 100</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Index</strong></td>\n\t\t\t<td>100</td>\n\t\t\t<td>104</td>\n\t\t\t<td>108</td>\n\t\t\t<td><strong>112</strong></td>\n\t\t\t<td>116</td>\n\t\t\t<td>120</td>\n\t\t\t<td>..;</td>\n\t\t\t<td>..</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "614c6244f644a893d4834850",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "In context of compilers, a lexical analyser generates",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Syntax tree",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Token stream",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Regular expression",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Intermidiate code",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>\n\n<p><strong>&nbsp;Lexical analysis:</strong></p>\n\n<p>In which the stream of character making of the source program is read from left to right and grouped into <strong>tokens</strong> that are sequences of characters having collective meaning.</p>\n\n<ul>\n\t<li>Lexical analysis is the first phase of a compiler. It takes modified source code from language preprocessors that are written in the form of sentences.</li>\n\t<li>The lexical analyzer breaks these syntaxes into a series of tokens, by removing any whitespace or comments in the source code.</li>\n</ul>\n\n<p><strong>&nbsp;Hence the correct answer is the&nbsp;</strong><em>token stream.</em></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><u style=\"font-size: 21px; display: inline !important;\">Additional Information</u></span>Basic functions of lexical analysis:</strong></p>\n\n<ul>\n\t<li>Remove the white spaces and comment lines.</li>\n\t<li>Identifying the tokens.</li>\n\t<li>Creates a record for each identifier in the data structure is called the symbol table.</li>\n</ul>\n\n<p><strong>Lexical errors:</strong></p>\n\n<ul>\n\t<li>Unterminated comments.</li>\n\t<li>Nested comments.</li>\n\t<li>Length of longest identifier.</li>\n\t<li>Invalid identifier.</li>\n\t<li>Invalid constant.</li>\n\t<li>Illegal symbol.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The compiler spent most of the time in the lexical analysis phase.</li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "6683bda8a08775665ecdd8ec",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "The number of nodes in a complete binary tree of level 5 is______.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "64",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "67",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "32",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "63",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "54",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "The correct answer is <u><strong>63</strong></u>\n\n<div>\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>A complete binary tree of level 5 has <strong>63 nodes</strong>.</li>\n\t<li>In a complete binary tree, the total number of nodes is given by the formula: <strong>2^(L+1) - 1</strong>, where L is the level number.</li>\n\t<li>For level 5, the calculation is: <strong>2^(5+1) - 1 = 2^6 - 1 = 64 - 1 = 63</strong>.</li>\n\t<li>This structure ensures that all levels except possibly the last are completely filled, and all nodes are as far left as possible.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Binary trees</strong> are fundamental data structures used in computer science for various applications, including searching and sorting algorithms.</li>\n\t<li>In a complete binary tree, every level, except possibly the last, is completely filled, making it an efficient structure for various operations.</li>\n\t<li>The properties of binary trees make them useful in implementing binary search trees (BST), heaps, and priority queues.</li>\n\t<li>Understanding the structure and properties of complete binary trees is essential for optimizing performance in algorithm design.</li>\n</ul>\n</div>",
+          "topic": "Test"
+        },
+        {
+          "id": "65a9385de26ff4caa23d752c",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "what of the following is a lazy swapper?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Demand paging",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "segment paging",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Fragmentation",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "buddy system",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">Demand&nbsp;</span>Bit",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>The correct answer is <strong>option 1.</strong></p>\n\n<p><strong>Concept:</strong></p>\n\n<p><strong><span style=\"\">Demand paging:</span></strong></p>\n\n<p>Demand paging is a virtual memory system approach in which pages are brought into main memory only when necessary or desired by the CPU. As a result, it is also known as a<strong> lazy swapper </strong>since it only swaps pages when the CPU requires it.</p>\n\n<p><strong>Hence the correct answer is</strong>&nbsp;<span style=\"\">Demand paging.</span></p>\n\n<p><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span><strong>Segmented Paging:</strong></span></p>\n\n<p>The primary memory is partitioned into variable size segments, which are further divided into fixed size pages in Segmented Paging. Pages are more compact than segments. Every segment has a page table, hence each program has numerous page tables.</p>\n\n<p><strong><span style=\"\">Fragmentation:</span></strong></p>\n\n<p><span style=\"\">Fragmentation</span> is an issue that arises in the operating system when a process is unloaded and loaded from memory, causing the free memory space to become fragmented.</p>\n\n<p><strong><span style=\"\">Buddy system:</span></strong></p>\n\n<p>A buddy allocation system is an algorithm that divides a huge memory block into little portions to meet a request. This algorithm is used to determine the best fit. Buddy refers to the two tiny pieces of the block that are of equal size.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "66c6ece55997e643f4e6960b",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "Which of the following is not a flow control technique?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Stop-and-wait ARQ",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "CRC",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Go-Back-N ARQ",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Selective Repeat ARQ",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "All of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p><strong>CRC is not a flow control technique.</strong></p>\n\n<p><strong><u>Explanation:-</u></strong></p>\n\n<p><strong>CRC ( Cyclic Redundancy Check )</strong> is an error-detecting code used to determine if a block of data has been corrupted. The cyclic redundancy check is a technique used to detect errors in digital data.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>\n\n<p><strong>Flow Control Techniques:</strong></p>\n\n<ul>\n\t<li>Flow control refers to a set of procedures used to restrict the amount of data the sender can send before waiting for an acknowledgment.</li>\n\t<li>one important aspect of the data link layer is flow control.</li>\n\t<li>Flow &amp; Error control technique: Stop-and-wait ARQ, Go-Back-N ARQ, and Selective Repeat ARQ.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span><strong>Stop-and-wait ARQ:-</strong> Stop and Wait for ARQ mainly implements the sliding window size 1. It is used in Data Link and Transport Layers. It offers error and flows control. Stop-and-wait ARQ is used in connection-oriented communication.&nbsp;</p>\n\n<p><strong>Go-Back-N ARQ:-</strong> It is a specific instance of the automatic repeat request (ARQ) protocol, in which the sending process continues to send the number of frames specified by a window size even without receiving an acknowledgment packet from the receiver.</p>\n\n<p><strong>Selective Repeat ARQ:</strong>- It is also known as Sliding Window Protocol and is used for error detection and control in the data link layer. In Selective Repeat ARQ only the loss of error frames are retransmitted frame is received out of sequence.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e16d3b7f60d5d02d58f5eae",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "<p>Which testing is referred testing in the large?</p>\n\n<p>I. Unit testing</p>\n\n<p>II. System testing</p>\nIII. Integration testing",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both I and II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both II and III",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "I, II and III",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<ul style=\"list-style-type: disc;\">\n\t<li>A software product is normally tested in three levels or stages: Unit testing, Integration testing and System testing</li>\n\t<li>During unit testing, the individual functions (or units) of a program are tested</li>\n\t<li>After testing all the units individually, the units are slowly integrated and tested after each step of integration (integration testing)</li>\n\t<li>Finally, the fully integrated system is tested (system testing)</li>\n\t<li>Unit testing is referred to as testing in the small, whereas <strong>integration and system testing are referred to as testing in the large</strong></li>\n</ul>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e196442f60d5d2d6cf17b4e",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "Consider the processor of a supercomputer which can support a maximum memory of 32 TB. Assume that memory is word addressable and a word consists of 8 bytes. The size of the address bus of the processor is at least _____ bits.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "45",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "42",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "35",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "32",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "30",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 2,
+          "negativeMarks": 0.5,
+          "explanation": "<p>1 Terabyte = 2<sup>40</sup></p>\n\n<p>Main Memory Size = 32 TB</p>\n\n<p>= 32 &times; 2<sup>40</sup> B</p>\n\n<p>= 4&times; 2<sup>40</sup> W</p>\n\n<p>= 2<sup>42</sup> W</p>\n<strong>&there4; size of the address bus of the processor is at least 42 bits.</strong>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:03:49.546Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

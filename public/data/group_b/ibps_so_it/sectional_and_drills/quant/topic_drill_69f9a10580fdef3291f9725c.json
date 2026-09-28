@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a10580fdef3291f9725c",
+  "title": "CT 10: Quantitative Aptitude (Mixture and Alligation)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5f3cb7a6425b874985b5e2c0",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "A can contains a mixture of two liquid A and B in the ratio 3 : 2 when 100 liters of mixture are drawn off and the can is filled with A in the same amount, the ratio of A and B is 17 : 8 and second time when 50 liters of mixture drawn off and the can if filled with B then find the ratio of A and B after second time replacement.&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "56 ∶ 69",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "331 ∶ 294",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "331&nbsp;∶ 56",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "71 ∶ 294",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Initial ratio of liquid A and B = 3 ∶ 2</p>\n\n<p style=\"\">First time replacement of the 100 liters mixture with liquid A</p>\n\n<p style=\"\">After first time replacement the ratio of liquid A and B = 17&nbsp;∶ 8</p>\n\n<p style=\"\">Second time replacement of the 50 liters mixture with liquid B</p>\n\n<p style=\"\"><strong style=\"\">Concept used:</strong></p>\n\n<p style=\"\">The quantity of replacement is divided into initial given ratio.</p>\n\n<p style=\"\"><strong style=\"\">Calculations:</strong></p>\n\n<p style=\"\">Let the initial quantity of liquid A and liquid B be 3x and 2x</p>\n\n<p style=\"\">We can tabulate the data as follows:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:95%;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\">Liquid A (in litres)</td>\n\t\t\t<td style=\"text-align: center;\">Liquid B (in litres)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Initially</td>\n\t\t\t<td style=\"text-align: center;\">3x</td>\n\t\t\t<td style=\"text-align: center;\">2x</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">After removing 100 litres&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\">3x&nbsp;&ndash; [(3/5) &times; 100] = 3x&nbsp;&ndash; 60&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\">2x&nbsp;&ndash; [(2/5) &times; 100] = 2x&nbsp;&ndash; 40</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">After adding 100 litres of A</td>\n\t\t\t<td style=\"text-align: center;\">3x&nbsp;&ndash; 60 + 100 = 3x + 40</td>\n\t\t\t<td style=\"text-align: center;\">2x&nbsp;&ndash; 40</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Now, it is given that the ratio of liquids A and B after adding 100 litres of A becomes&nbsp;17&nbsp;∶ 8</p>\n\n<p>So, we get:</p>\n\n<p>(3x + 40)/(<span style=\"text-align: center;\">2x&nbsp;&ndash; 40) = 17/8</span></p>\n\n<p><span style=\"text-align: center;\">&rArr; x = 100</span></p>\n\n<p><span style=\"text-align: center;\">So, the new quantities of A and B in the mixture are:</span></p>\n\n<p>A = (3&nbsp;&times; 100) + 40 = 340 litres</p>\n\n<p>B =&nbsp;(2&nbsp;&times; 100) &ndash; 40 = 160 litres</p>\n\n<p>So, we can further tabulate the volume of the two liquids as:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>Liquid A (in litres)</td>\n\t\t\t<td>Liquid B (in litres)</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>New quantity</td>\n\t\t\t<td>340</td>\n\t\t\t<td>160</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>After removing 50 litres of mixture</td>\n\t\t\t<td>340 &ndash; [(50/500)&times; 340] = 306&nbsp;</td>\n\t\t\t<td>160 &ndash; [(50/500)&times; 160] = 144</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>After adding 50 litres of B</td>\n\t\t\t<td>306</td>\n\t\t\t<td>144 + 50&nbsp; = 194</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><strong>&there4; The ratio of A and B after the final replacement is obtained as:</strong></p>\n\n<p><strong>306/194 = 153 : 97</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5c665dedfdb8bb4ca1e73157",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "According to an instruction a mixture of colour and Turpentine containing half part of each is perfect for painting a wall. A painter is provided a mixture, 3 parts of which are colour and 5 parts are Turpentine. How much of the mixture drawn off and replaced with colour so that the mixture becomes perfect?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4/5<sup>th</sup> part",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "1/3<sup>rd</sup> part",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2/3<sup>rd</sup> part",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "1/5<sup>th</sup> part",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "5/8<sup>th</sup> part",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let total amount of the mixture be 1 litre</p>\n\n<p>3 parts of the mixture are colour and 5 parts are Turpentine</p>\n\n<p>&rArr; Amount of colour in the mixture = 3/8 litre</p>\n\n<p>&rArr; Amount of turpentine in the mixture = 5/8 litre</p>\n\n<p>Let amount of mixture removed by the painter be &lsquo;x&rsquo; litre</p>\n\n<p>&rArr; Amount of colour in the new mixture = (3/8 &ndash; 3x/8&nbsp;+ x) litre</p>\n\n<p>&rArr; Amount of turpentine in the new mixture = (5/8 &ndash; 5x/8) litre</p>\n\n<p>The mixture will be perfect if, Amount of colour in the new mixture = Amount of turpentine in the new mixture</p>\n\n<p>&rArr; 3/8 &ndash; 3x/8&nbsp;+ x = 5/8 &ndash; 5x/8</p>\n\n<p>&rArr; 3 &ndash; 3x + 8x = 5 &ndash; 5x</p>\n\n<p>&rArr; 10x = 2</p>\n\n<p>&rArr; x = 1/5</p>\n&there4; 1/5<sup>th</sup> part of the mixture should be replaced",
+          "topic": "Test"
+        },
+        {
+          "id": "688669ddf0a392dd788707e5",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>A trader has two varieties of sugar &mdash; Type A costing Rs. x per kg and Type B costing Rs. (x + 12) per kg. He mixes them in the ratio 5 : 3 to form Mixture M₁, and sells the entire mixture at Rs.72 per kg, making a 20% profit on the whole. Find the value of x?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "95.5",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "88.5",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "55.5",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "78.5",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "65.5",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Type A = ₹x/kg</p>\n\n<p>Type B = ₹(x + 12)/kg</p>\n\n<p>Ratio = 5:3</p>\n\n<p>Selling price of mixture = ₹72/kg</p>\n\n<p>Profit = 20%</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Cost Price = Selling Price &divide; (1 + Profit%)</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Calculations</span></p>\n\n<p>Average CP of mixture = (5x + 3(x + 12)) &divide; 8</p>\n\n<p>CP of mixture = 72 &divide; 1.2 = ₹60</p>\n\n<p>&rArr; (5x + 3(x + 12)) &divide; 8 = 60</p>\n\n<p>&rArr; (5x + 3x + 36) &divide; 8 = 60</p>\n\n<p>&rArr; (8x + 36) &divide; 8 = 60</p>\n\n<p>&rArr; 8x + 36 = 480</p>\n\n<p>&rArr; 8x = 444</p>\n\n<p>&rArr; x = 55.5</p>\n\n<p><strong>&there4; The value of x is ₹55.5</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60125dd2721ca392950c3505",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "A mixture of acid and water has a volume of 164 liters with ratio of acid to water as 21 : 20. What volume of the mixture have to be replaced with 10 liters of water so that the ratio becomes 1 : 4?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "157.6 liters",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "124.7 liters",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "152.7 liters",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "162 liters",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Initial quantity of mixture = 164 liters</p>\n\n<p>Acid : Water = 21 : 20</p>\n\n<p><strong>Concept:</strong></p>\n\n<p>When replacing the mixture with water, quantity of acid will only decrease whereas quantity of water will first decrease and then increase.</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Initial quantity of acid = 164 &times; 21/41 = 84 liters</p>\n\n<p>Initial quantity of water = 164 &ndash; 84 = 80 liters</p>\n\n<p>Let us assume the volume of mixture that has to be replaced by 10 liters of water = 41x</p>\n\n<p>[Note how we are choosing the values so that we can avoid complicated fractions]</p>\n\n<p>In 41x liters mixture,</p>\n\n<p>Quantity of acid = 21x liters</p>\n\n<p>Quantity of water = 20x liters</p>\n\n<p>&there4; Final quantity of acid = (84 &ndash; 21x) liters</p>\n\n<p>&there4; Final quantity of water = (80 &ndash; 20x + 10) liters = (90 - 20x) liters</p>\n\n<p>ATQ,</p>\n\n<p>(84 &ndash; 21x)/ (90 - 20x) = &frac14;</p>\n\n<p>&rArr; 336 &ndash; 84x = 90 &ndash; 20x</p>\n\n<p>&rArr; x = 246/64 = 123/32</p>\n\n<p>&there4; Quantity of mixture to be replaced = 123/32 &times; 41 = 157.6&nbsp;liters</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5a3c99ff9832310f32b3f6b4",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "A can contain A mixture of two liquids A and B in the ratio 11 ∶ 5. When 16 liters of mixture are drained off and the Can is filled with A in same amount, the ratio of A and B becomes 19 ∶ 5. How many liters of liquid A was contained by the Can initially?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "16",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "23",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "33",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "28",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let total quantity of liquid A = 11x</p>\n\n<p>And total quantity of liquid B = 5x</p>\n\n<p>The mixture drained is in the ratio of 11 ∶ 5</p>\n\n<p>So quantity of liquid A drained =&nbsp;<span class=\"math-tex\">\\(16\\; \\times \\;\\frac{{11}}{{16}} = \\;11\\)</span></p>\n\n<p>And quantity of liquid B drained =&nbsp;<span class=\"math-tex\">\\(16\\; \\times \\;\\frac{5}{{16}} = \\;5\\)</span></p>\n\n<p>New ratio =&nbsp;<span class=\"math-tex\">\\(\\frac{{11x\\; - \\;11 + 16}}{{5x - 5}} = \\;\\frac{{11x\\; + 5}}{{5x\\; - \\;5}}\\)</span></p>\n\n<p>According to question ratio is 19 ∶ 5</p>\n\n<p><span class=\"math-tex\">\\(\\therefore \\;\\frac{{11x\\; + \\;5}}{{5x\\; - \\;5}} = \\;\\frac{{19}}{5}\\)</span></p>\n\n<p>&rArr; 5 &times; (11x + 5) = 19 &times; (5x &ndash; 5)</p>\n\n<p>&rArr; 55x + 25 = 95x &ndash; 95</p>\n\n<p>&rArr; 40x = 120</p>\n\n<p>&rArr; x = 3</p>\n\n<p>So, total quantity of liquid A = 11 &times; 3 = 33</p>\n&there4; 33 liters of liquid A was contained by the Can initially",
+          "topic": "Test"
+        },
+        {
+          "id": "5b4706e7f19e770c360861c8",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>Two mixtures of alcohol and water are prepared by mixing 10 litres of alcohol with 6 litres of water and 8 litres of alcohol with 2 litres of water. In what ratio the respective mixtures are mixed such that the final mixture contains alcohol and water in the ratio 20 ∶ 9?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "8 ∶ 7",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "10 ∶ 9",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "12 ∶ 11",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "128 ∶ 75",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "20 ∶ 19",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>By Alligation method</p>\n\n<p>&rArr; (4/5)&nbsp;&ndash; (20/29) :&nbsp; (20/29) &ndash; (5/8)&nbsp;</p>\n\n<p>&rArr; 16/145 : 15/232</p>\n\n<p>&rArr; 128 : 75</p>\n\n<p><strong>&there4; The required ratio is 128 : 75</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5eebd08ae097930d124e5417",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "There are two vessels (A and B) contain mixtures of alcohol and water in the ratio are 5 : 2 and 3 : 7 respectively. They are mixed to get a new mixture in which the quantity of alcohol and water are equal, then find the ratio of the quantity of vessels A and B are mixed.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "11 : 9",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "12 : 7",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "25 : 19",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "14 : 15",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "14 : 13",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span id=\"docs-internal-guid-f32b0988-7fff-6bfe-cbce-e774f6d0fe96\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">GIVEN :</span></span></p>\n\n<p>Ratio of quantity of alcohol and water in vessel A = 5 : 2</p>\n\n<p>Ratio of quantity of alcohol and water in new mixture = 1 : 1</p>\n\n<p>&nbsp;</p>\n\n<p><span id=\"docs-internal-guid-617ee955-7fff-9c47-b33b-cb90ca598f28\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">CONCEPT :</span></span></p>\n\n<p>In this type of question, we use the mixture and allegation method.</p>\n\n<p>&nbsp;</p>\n\n<p><span id=\"docs-internal-guid-0ebd1d4d-7fff-d5f2-6c7a-51a5fac4730a\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">CALCULATION :</span></span></p>\n\n<p>Quantity of in vessel A = 5/7</p>\n\n<p>Quantity of vessel B = 3/10</p>\n\n<p>Quantity of alcohol in the mixture = 1/2</p>\n\n<p>Ratio of alcohol&nbsp;and water in which they are mixed</p>\n\n<p>&rArr; (5/7 &ndash; 1/2) : (1/2 &ndash; 3/10) = 3/14 : 1/5</p>\n\n<p>&there4; Required ratio in which quantity of vessel A and B are mixed =14&nbsp;: 15</p>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "57ee7e31995a2d395b8901c4",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>A box contains a total of 100 coins of 1 rupee, 50 p and 25 p denominations. Find the total number of coins of 25 p if there are a total of 49 rupees in the bag and it is known that the number of 25 p coins is <span class=\"math-tex\">\\(133\\frac{1}{3}\\%\\)</span>&nbsp;more than the number of 1 rupee coins.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "56",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "28",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "24",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "25",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the number of 1 Rupee coin be 3x.</p>\n\n<p>Number of 25 p coins are <span class=\"math-tex\">\\(133\\frac{1}{3}\\%\\)</span>&nbsp;more than 1 rupee coins</p>\n\n<p>&rArr; Number of 25 p coins<span class=\"math-tex\">\\(= 3x + \\left( {133\\frac{1}{3}\\% \\;of\\;3x} \\right)\\)</span></p>\n\n<p>&rArr; Number of 25 p coins = 3x + 4x = 7x</p>\n\n<p>∵ the total number of coins is 100,</p>\n\n<p>Number of 50 p coins = 100 &ndash; (3x + 7x) = 100 &ndash; 10x</p>\n\n<p>Now, value of 1 rupee coins = Rs. 3x</p>\n\n<p>Value of 25 p coins = 0.25 &times; 7x = Rs. 1.75x</p>\n\n<p>And, value of 50 p coins = 0.50 &times; (100 &ndash; 10x) = Rs. (50 &ndash; 5x)</p>\n\n<p>Total amount = Rs. 49</p>\n\n<p>&rArr; 3x + 1.75x + 50 &ndash; 5x = 49</p>\n\n<p>&rArr; 50 &ndash; 0.25x = 49</p>\n\n<p>&rArr; x = 4</p>\n\n<p>Hence, total number of 25 p coins = 7x = 7 &times; 4 = 28</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5a225a56eb7b830f3736b7bc",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "A milk vendor purchases 47.6 litres of milk containing milk and water in the ratio 9 : 4. He wants to make this a 11 : 5 mixture of milk and water and sell the entire quantity at the cost price. How much of water needs to be added?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "1.33 litre",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "0.44 litre",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "0.55 litre",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "0.33 litre",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "0.43 litre",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>The ratio of water in mixture 1&nbsp;= 4/13 (∵ The ratio of milk and water = 9 : 4)</p>\n\n<p>The ratio of water in pure water = 1</p>\n\n<p>Now these two are mixed to form our mixture 2 where the ratio is 11 : 5</p>\n\n<p>&there4; The ratio of water in mixture 2&nbsp;= 5/16&nbsp;</p>\n\n<p>Let us apply the principle of the allegation.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/03/water.PNG\" style=\"width: 200px; height: 250px;\" /></p>\n\n<p>&rArr; Mixture 1 : water = (1 -&nbsp;5/16) : (5/16 - 4/13) = 11/16 : 1/208 = 143 : 1</p>\n\n<p>Given that Quantity of mixture 1 = 47.6litre</p>\n\n<p>&rArr; 47.6 : ? = 143 : 1</p>\n\n<p>&rArr; ? = 47.6/143 = 0.33&nbsp;litre</p>\n<strong>&there4; The amount of water needed to be added is 0.33 litre</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "6976e57eaae3d27a9827436f",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "A mixture contains three components &#39;A&#39;, &#39;B&#39; and &#39;C&#39; in the ratio 5:4:6, respectively. When half of the mixture is removed and with 18 litres of each component is added, the ratio of &#39;A&#39;, &#39;C&#39; and &#39;B&#39; becomes 7:8:6, respectively. Find the difference between the initial quantities of &#39;B&#39; and &#39;C&#39;.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "<p>24 litres</p>",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "<p>30 litres</p>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "<p>36 litres</p>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "<p>42 litres</p>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<p>48 litres</p>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Let the initial quantity of &#39;A&#39;, &#39;B&#39; and &#39;C&#39; in mixture be &#39;5n&#39;, &#39;4n&#39; and &#39;6n&#39; liters, respectively.</p>\n\n<p>ATQ;</p>\n\n<p>(5n - 2.5n + 18) :(6n - 3n + 18) :(4n - 2n + 18) = 7:8:6<br />\nOr, (2.5n + 18) :(3n + 18) :(2n + 18) = 7:8:6<br />\nOr, (2.5n + 18) :(3n + 18) = 7:8</p>\n\n<p>Or, 8 x (2.5n + 18) = 7 x (3n + 18)</p>\n\n<p>Or, 20n + 144 = 21n + 126</p>\n\n<p>Or, &#39;n&#39; = 18<br />\nRequired difference = 6n - 4n = 2n = 2 x 18 = 36 liters</p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:23.289Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

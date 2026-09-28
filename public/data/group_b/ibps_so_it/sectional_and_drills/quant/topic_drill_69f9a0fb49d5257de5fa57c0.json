@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a0fb49d5257de5fa57c0",
+  "title": "CT 5: Quantitative Aptitude (Quadratic Equations)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "69580997d1c33bd61ff5b91d",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both equations and mark the appropriate answer.</p>\n\n<p>I.&emsp;x&sup2; &minus; 6x + 8 = 0<br />\nII.&emsp;y&sup2; &minus; 4y &minus; 12 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x &ge; y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x &le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or No relation",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>I. x<sup>2</sup> &minus; 6x + 8 = 0</p>\n\n<p>&rArr; x<sup>2</sup> &minus; 4x &minus; 2x + 8 = 0</p>\n\n<p>&rArr; x(x &minus; 4) &minus; 2(x &minus; 4) = 0</p>\n\n<p>&rArr; (x &minus; 2)(x &minus; 4) = 0</p>\n\n<p><strong>&rArr; x = 2, 4</strong></p>\n\n<p>II. y<sup>2</sup> &minus; 4y &minus; 12 = 0</p>\n\n<p>&rArr; y<sup>2</sup> &minus; 6y + 2y &minus; 12 = 0</p>\n\n<p>&rArr; y(y &minus; 6) + 2(y &minus; 6) = 0</p>\n\n<p>&rArr; (y + 2)(y &minus; 6) = 0</p>\n\n<p><strong>&rArr; y = &minus;2, 6</strong></p>\n\n<p><span style=\"font-weight:700;\">Comparison between x and y (via Tabulation):</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:86px;height:42px;\">\n\t\t\t<p style=\"text-align:center;\"><strong>Value of x</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:86px;height:42px;\">\n\t\t\t<p style=\"text-align:center;\"><strong>Value of y</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;height:42px;\">\n\t\t\t<p style=\"text-align:center;\"><strong>Relation</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center;\">2</td>\n\t\t\t<td style=\"text-align:center;\">&minus;2</td>\n\t\t\t<td style=\"text-align:center;\">x > y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center;\">2</td>\n\t\t\t<td style=\"text-align:center;\">6</td>\n\t\t\t<td style=\"text-align:center;\">x < y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center;\">4</td>\n\t\t\t<td style=\"text-align:center;\">&minus;2</td>\n\t\t\t<td style=\"text-align:center;\">x > y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center;\">4</td>\n\t\t\t<td style=\"text-align:center;\">6</td>\n\t\t\t<td style=\"text-align:center;\">x < y</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>&there4; x = y or No definite relation can be established between x and y.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "610a79decca9187d2fc21662",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p>I. 3x<sup>2</sup>&nbsp;+ 14x + 16 = 0</p>\n\n<p>II. 3y<sup>2</sup>&nbsp;+ 22y + 24 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x &le; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x &ge; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or the relation between x and y can&#39;t be established.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>I. 3x<sup>2</sup>&nbsp;+ 14x + 16 = 0</p>\n\n<p>&rArr; 3x<sup>2</sup>&nbsp;+&nbsp;6x +&nbsp;8x + 16 = 0</p>\n\n<p>&rArr; 3x(x +&nbsp;2) +&nbsp;8(x + 2) = 0</p>\n\n<p>&rArr; (3x +&nbsp;8) (x + 2) = 0</p>\n\n<p>&rArr; x = - 8/3, -2</p>\n\n<p>II. 3y<sup>2</sup>&nbsp;+ 22y + 24 = 0</p>\n\n<p>&rArr; 3y<sup>2</sup>&nbsp;+ 18y +&nbsp;4y + 24 = 0</p>\n\n<p>&rArr; 3y(y +&nbsp;6) +&nbsp;4(y + 6) = 0</p>\n\n<p>&rArr; (3y +&nbsp;4) (y + 6) = 0</p>\n\n<p>&rArr; y = - 4/3, - 6</p>\n\n<p>Comparison between X and Y (via tabulation):</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 220px;\" width=\"100\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Value of x</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Value of y</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Relation</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-8/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-4/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">x < y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-8/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-6</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">x >&nbsp;y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-2</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-4/3</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">x <&nbsp;y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-2</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">-6</p>\n\t\t\t</td>\n\t\t\t<td style=\"height:21px;\">\n\t\t\t<p style=\"text-align: center;\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4; x = y or the relation between x and y can&#39;t be established.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "610a7909ed4c50bbe61999e6",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p>I. x<sup>2</sup> &ndash; 8x + 15 = 0</p>\n\n<p>II. 12y<sup>2</sup> &ndash; 19y + 5 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x &le; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x &ge; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or the relation between x and y can&#39;t be established.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>I. x<sup>2</sup>&nbsp;&ndash; 8x + 15 = 0</p>\n\n<p>&rArr; x<sup>2</sup>&nbsp;<span style=\"display: none;\">&nbsp;</span>&nbsp;5x&nbsp;&ndash; 3x + 15 = 0</p>\n\n<p>&rArr; x(x&nbsp;&ndash; 5)&nbsp;&ndash; 3(x&nbsp;&ndash; 5) = 0</p>\n\n<p>&rArr; (x&nbsp;&ndash; 3) (x&nbsp;&ndash; 5) = 0</p>\n\n<p>&rArr; x = 3, 5</p>\n\n<p>II. 12y<sup>2</sup>&nbsp;&ndash; 19y + 5 = 0</p>\n\n<p>&rArr; 12y<sup>2</sup>&nbsp;&ndash; 15y&nbsp;&ndash; 4y + 5 = 0</p>\n\n<p>&rArr; 3y(4y&nbsp;&ndash; 5)&nbsp;&ndash; 1(4y&nbsp;&ndash; 5) = 0</p>\n\n<p>&rArr; (3y&nbsp;&ndash; 1) (4y&nbsp;&ndash; 5) = 0</p>\n\n<p>&rArr; y = 1/3, 5/4</p>\n\n<p>Comparison between X and Y (via tabulation):</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:230px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>value of x</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Value of y</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Relation</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">3</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">1/3</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">3</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">5/4</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">5</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">1/3</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">5</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">5/4</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4; x&nbsp;> y</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60d09b7f9f9537ba7894b9cd",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\">In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</p>\n\n<p dir=\"ltr\">I. x<sup>2</sup>&nbsp;+&nbsp;4x - 21= 0</p>\nII. y<sup>2</sup>&nbsp;- 5y - 24 = 0",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-dc119813-7fff-6acb-1f5e-ad3a21955b0c\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x = y or relation between x and y can not be established.</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\"><strong>Given:</strong></p>\n\n<p dir=\"ltr\">I. x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;+ 4x -&nbsp;21= 0</p>\n\n<p dir=\"ltr\">II. y<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- 5y - 24 = 0</p>\n\n<p dir=\"ltr\"><strong>Calculation:</strong></p>\n\n<p dir=\"ltr\">From I,</p>\n\n<p dir=\"ltr\">x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ 4x -&nbsp;21= 0</p>\n\n<p dir=\"ltr\">&rArr; x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ 7x - 3x -&nbsp;21= 0</p>\n\n<p dir=\"ltr\">&rArr; x(x + 7) -&nbsp;3(x +&nbsp;7) = 0</p>\n\n<p dir=\"ltr\">&rArr; (x + 7)(x -&nbsp;3) = 0</p>\n\n<p dir=\"ltr\">Taking,</p>\n\n<p dir=\"ltr\">&rArr; (x +&nbsp;7) = 0 or (x -&nbsp;3) = 0</p>\n\n<p dir=\"ltr\">&rArr; x = -7&nbsp;or 3</p>\n\n<p dir=\"ltr\">From II,</p>\n\n<p dir=\"ltr\">y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;- 5y - 24 = 0</p>\n\n<p dir=\"ltr\">&rArr; y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;- 8y + 3y - 24 = 0</p>\n\n<p dir=\"ltr\">&rArr;&nbsp; y(y -&nbsp;8) + 3(y -&nbsp;8) = 0</p>\n\n<p dir=\"ltr\">&rArr; (y -&nbsp;8)(y + 3) = 0</p>\n\n<p dir=\"ltr\">Taking,</p>\n\n<p dir=\"ltr\">&rArr; (y -&nbsp;8) = 0 or (y + 3) = 0</p>\n\n<p dir=\"ltr\">&rArr; y = 8 or -3</p>\n\n<p dir=\"ltr\"><strong>Comparison between x and y (via Tabulation):</strong></p>\n\n<div align=\"left\" dir=\"ltr\" style=\"margin-left:0pt;\">\n<table style=\"border: none;\">\n\t<colgroup>\n\t\t<col width=\"86\" />\n\t\t<col width=\"87\" />\n\t\t<col width=\"87\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height:24.75pt\">\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Value of x</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Value of y</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Relation</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:24.75pt\">\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">-7</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">8</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x < y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:24.75pt\">\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">-7</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">-3</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x < y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:24.75pt\">\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">3</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">8</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x < y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:24.75pt\">\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">3</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">-3</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #808080 0.75pt;border-right:solid #808080 0.75pt;border-bottom:solid #808080 0.75pt;border-top:solid #808080 0.75pt;vertical-align:top;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.656;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x > y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n&nbsp;\n\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-60e92a4a-7fff-add3-fa71-6b3ea8199bdd\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&there4; x = y or relation between x and y can not be established.</span></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60d0652d4c42b2b842a6966c",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p>In the following question, two equations are given. You have to solve the equation and mark the answer accordingly.</p>\n\n<p>I. x<sup>2</sup>&nbsp;+ 11x + 24 = 0</p>\n\n<p>II. y<sup>2</sup>&nbsp;+ 26y + 69 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "No relation in x and y or x = y",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>I. x<sup>2</sup>&nbsp;+ 11x + 24 = 0</p>\n\n<p>II. y<sup>2</sup>&nbsp;+ 26y + 69 = 0</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><strong>From I</strong></p>\n\n<p>x<sup>2</sup>&nbsp;+ 11x + 24 = 0</p>\n\n<p>&rArr; x<sup>2</sup>&nbsp;+ 8x + 3x + 24 = 0</p>\n\n<p>&rArr; x(x + 8) + 3(x + 8) = 0</p>\n\n<p>&rArr; (x + 8)(x + 3) = 0</p>\n\n<p>&rArr; x = -8, -3</p>\n\n<p><strong>From II</strong></p>\n\n<p>y<sup>2</sup>&nbsp;+ 26y + 69 = 0</p>\n\n<p>&rArr; y<sup>2</sup>&nbsp;+ 23y + 3y + 69 = 0</p>\n\n<p>&rArr; y(y + 23) + 3(y + 23) = 0</p>\n\n<p>&rArr; (y + 23)(y + 3) = 0</p>\n\n<p>&rArr; y = -23, -3</p>\n\n<p><strong>Comparison between x and y (via Tabulation),</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" dir=\"ltr\" style=\"width:300px;\">\n\t<colgroup>\n\t\t<col style=\"text-align: center;\" />\n\t\t<col style=\"text-align: center;\" />\n\t\t<col style=\"text-align: center;\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Value of x\"}\" style=\"text-align: center;\"><strong>Value of x</strong></td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Value of y\"}\" style=\"text-align: center;\"><strong>Value of y</strong></td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Relation between x &amp; y\"}\" style=\"text-align: center;\"><strong>Relation between x &amp; y</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":-5}\" style=\"text-align: center;\">-8</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":9}\" style=\"text-align: center;\">-23</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"x < y\"}\" style=\"text-align: center;\">x > y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":-5}\" style=\"text-align: center;\">-8</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":5}\" style=\"text-align: center;\">-3</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"x < y\"}\" style=\"text-align: center;\">x < y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":-10}\" style=\"text-align: center;\">-3</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":9}\" style=\"text-align: center;\">-23</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"x < y\"}\" style=\"text-align: center;\">x > y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":-10}\" style=\"text-align: center;\">-3</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":5}\" style=\"text-align: center;\">-3</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"x < y\"}\" style=\"text-align: center;\">x = y</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4;&nbsp;No relation in x and y or x = y</strong></p>\n\n<p><strong><img alt=\"\" height=\"55px\" src=\"//storage.googleapis.com/tb-img/production/21/09/60d0652d4c42b2b842a6966c_16318013837261.png\" width=\"180px\" />&nbsp;</strong></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" dir=\"ltr\" style=\"width:300px;\">\n\t<colgroup>\n\t\t<col width=\"119\" />\n\t\t<col width=\"75\" />\n\t\t<col width=\"110\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"3\" data-sheets-value=\"{\"1\":2,\"2\":\"Sign Method\"}\" rowspan=\"1\" style=\"text-align: center;\"><strong>Sign Method</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Equation\"}\" style=\"text-align: center;\"><strong>Equation</strong></td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Sign\"}\" style=\"text-align: center;\"><strong>Sign</strong></td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Remark\"}\" style=\"text-align: center;\"><strong>Remark</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"ax2 + bx + c = 0\"}\" style=\"text-align: center;\">ax2 + bx + c = 0</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"-ve, -ve\"}\" style=\"text-align: center;\">-ve, -ve</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Same signs\"}\" style=\"text-align: center;\">Same signs</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"ax2 - bx + c = 0\"}\" style=\"text-align: center;\">ax2 - bx + c = 0</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\" +ve, +ve \"}\" style=\"text-align: center;\">+ve, +ve</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Same signs\"}\" style=\"text-align: center;\">Same signs</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"ax2 + bx - c = 0\"}\" style=\"text-align: center;\">ax2 + bx - c = 0</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"-ve, +ve\"}\" style=\"text-align: center;\">-ve, +ve</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Larger root is negative\\nSmaller root is positive\"}\" style=\"text-align: center;\">Larger root is negative<br />\n\t\t\tSmaller root is positive</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"ax2 - bx - c = 0\"}\" style=\"text-align: center;\">ax2 - bx - c = 0</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"-ve, +ve\"}\" style=\"text-align: center;\">-ve, +ve</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Larger root is positive\\nSmaller root is negative\"}\" style=\"text-align: center;\">Larger root is positive<br />\n\t\t\tSmaller root is negative</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+          "topic": "Test"
+        },
+        {
+          "id": "60d0600ce72e49e3f092283f",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p>In the following question, two equations are given. You have to solve the equation and mark the answer accordingly.</p>\n\n<p>I. x<sup>2</sup>&nbsp;- 19x + 90 = 0</p>\n\n<p>II. 2y<sup>2</sup>&nbsp;- 11y - 63 = 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y`",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or relationship between x and y cannot be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- 19x + 90 = 0</p>\n\n<p>2y<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- 11y - 63 = 0</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>From I,</p>\n\n<p>x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- 19x + 90 = 0</p>\n\n<p>&rArr; x<sup>2</sup>&nbsp;- 10x - 9x + 90 = 0</p>\n\n<p>&rArr; x(x - 10) - 9(x - 10) = 0</p>\n\n<p>&rArr; (x - 9)(x - 10) = 0</p>\n\n<p>&rArr; x = 9, 10</p>\n\n<p>From II,</p>\n\n<p>2y<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- 11y - 63 = 0</p>\n\n<p>&rArr; 2y<sup>2</sup>&nbsp;- 18y + 7y - 63 = 0</p>\n\n<p>&rArr; 2y(y - 9) + 7(y - 9) = 0</p>\n\n<p>&rArr; (2y + 7)(y - 9) = 0</p>\n\n<p>&rArr; y = - 7/2, 9</p>\n\n<p><span style=\"font-weight: 700;\">Comparision between x and y (via Tabulation):</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"background-color: rgb(255, 255, 255); width: 256px;\" width=\"255\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">Value of x</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">Value of y</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">Relation</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">-7/2</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x >&nbsp;y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x =&nbsp;y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">10</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">-7/2</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">10</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">9</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x > y</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4; x&nbsp;&ge; y.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60ace8c06c9c0fc60366c3e6",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p>Two equations I and II are given below in question. You have to solve these equations and give the answer.</p>\n\n<p>I. x<sup>2</sup>&nbsp;+ 9x &ndash;&nbsp;36&nbsp;= 0</p>\n\n<p>II. y<sup>2</sup>&nbsp;&ndash;&nbsp;9y + 20&nbsp;= 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x &le; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x &ge; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or the relation between x and y can&#39;t be established.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>I. x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ 9x -&nbsp;36&nbsp;= 0</p>\n\n<p>II. y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;-&nbsp;9y + 20&nbsp;= 0</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>I. x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ 9x -&nbsp;36&nbsp;= 0</p>\n\n<p>&rArr; x<sup>2&nbsp;</sup>+ 12x - 3x + 36&nbsp;= 0</p>\n\n<p>&rArr; x(x + 12) -&nbsp;3(x + 12)= 0</p>\n\n<p>&rArr; (x + 12)(x - 3) = 0</p>\n\n<p>&rArr; x = (-12), 3</p>\n\n<p>II. y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;-&nbsp;9y + 20&nbsp;= 0</p>\n\n<p>&rArr; y<sup>2 -</sup>&nbsp;5y -&nbsp;4y&nbsp;+ 20&nbsp;= 0</p>\n\n<p>&rArr; y(y -&nbsp;5) -&nbsp;4(y -&nbsp;5) =0</p>\n\n<p>&rArr; (y -&nbsp;5)(y -&nbsp;4) = 0</p>\n\n<p>&rArr; y = 5, 4</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:138px;height:28px;\">\n\t\t\t<p align=\"center\"><strong>Value of &lsquo;x&rsquo;</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:145px;height:28px;\">\n\t\t\t<p align=\"center\"><strong>Relation</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:161px;height:28px;\">\n\t\t\t<p align=\"center\"><strong>Value of &lsquo;y&rsquo;</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:138px;height:21px;\">\n\t\t\t<p align=\"center\">-12</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:145px;height:21px;\">\n\t\t\t<p align=\"center\"><&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:161px;height:21px;\">\n\t\t\t<p align=\"center\">4</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:138px;height:26px;\">\n\t\t\t<p align=\"center\">-12</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:145px;height:26px;\">\n\t\t\t<p align=\"center\"><&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:161px;height:26px;\">\n\t\t\t<p align=\"center\">5</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:138px;height:29px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:145px;height:29px;\">\n\t\t\t<p align=\"center\"><&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:161px;height:29px;\">\n\t\t\t<p align=\"center\">4</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:138px;height:39px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:145px;height:39px;\">\n\t\t\t<p align=\"center\"><&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:161px;height:39px;\">\n\t\t\t<p align=\"center\">5</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nWhen we compared the values of &lsquo;x&rsquo; and &lsquo;y&rsquo; in the table above, we found that there is only ONE relation between X and Y i.e. <. So, a relation between x and y is &ldquo;x < y&rdquo;.</p>\n<strong>&there4;&nbsp;After comparison, for all the values of x and y, the relation is &ldquo;x&nbsp;<&nbsp;y&rdquo;.</strong>",
+          "topic": "Test"
+        },
+        {
+          "id": "60ac8948c30c62a403e2b4a4",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p>In the given question, two equations numbered I and II are given. Solve both the equations and mark&nbsp;the appropriate answer.</p>\n\n<p>I. x<sup>2</sup>&nbsp;&ndash; 3x&nbsp;&ndash; 180 = 0</p>\n\n<p>II. y<sup>2</sup>&nbsp;&ndash; 34y +&nbsp;288&nbsp;= 0</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "x = y or the relationship between x and y cannot be established",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Calculation:</strong></p>\n\n<p>From I,</p>\n\n<p>x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;&ndash; 3x&nbsp;&ndash; 180 = 0</p>\n\n<p>&rArr; x<sup>2</sup>&nbsp;&ndash; 15x + 12x&nbsp;&ndash; 180 = 0</p>\n\n<p>&rArr; x(x&nbsp;&ndash; 15) + 12(x&nbsp;&ndash; 15) = 0</p>\n\n<p>&rArr; (x + 12)(x &ndash; 15) = 0</p>\n\n<p>&rArr; x =&nbsp;&ndash;12, 15</p>\n\n<p>From II,</p>\n\n<p>y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;&ndash; 34y +&nbsp;288&nbsp;= 0</p>\n\n<p>&rArr; y<sup>2</sup>&nbsp;&ndash; 18y -&nbsp;16y +&nbsp;288&nbsp;= 0</p>\n\n<p>&rArr; y(y&nbsp;&ndash; 18) -&nbsp;16(y&nbsp;&ndash; 18) = 0</p>\n\n<p>&rArr; (y &ndash;&nbsp;18)(y&nbsp;&ndash; 16) = 0</p>\n\n<p>&rArr; y =&nbsp;18, 16</p>\n\n<p><span style=\"font-weight: 700;\">Comparison between x and y (via Tabulation):</span></p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"background-color: rgb(255, 255, 255); width: 256px;\" width=\"256\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: 700;\">Value of x</span></p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: 700;\">Value of y</span></p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\"><span style=\"font-weight: 700;\">Relation</span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">-12</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">18</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x <&nbsp;y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">-12</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">18</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x < y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">15</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">16</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x <&nbsp;y</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">15</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">16</p>\n\t\t\t</td>\n\t\t\t<td nowrap=\"nowrap\" style=\"width: 84px; height: 21px;\">\n\t\t\t<p align=\"center\">x <&nbsp;y</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<strong>&there4; The correct answer is x < y</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60aba9b7dde15d36756fa086",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-2ed22590-7fff-48c3-67d3-f67d0f3a68df\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-2ed22590-7fff-48c3-67d3-f67d0f3a68df\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">I. x<sup>2</sup></span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - 17x + 72 = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 8pt;\"><span id=\"docs-internal-guid-2ed22590-7fff-48c3-67d3-f67d0f3a68df\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">II. y<sup>2</sup></span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - y - 72 = 0</span></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span id=\"docs-internal-guid-c203283a-7fff-c928-b443-de3fad337fc7\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x = y or relation between x and y can not be established.</span></span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Given:</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-2ed22590-7fff-48c3-67d3-f67d0f3a68df\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">I. x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - 17x + 72 = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 8pt; line-height: 1.38;\"><span id=\"docs-internal-guid-2ed22590-7fff-48c3-67d3-f67d0f3a68df\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">II. y<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - y - 72 = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Calculation:</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">From I,</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> - 17x + 72 = 0</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; </span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> - 8x - 9x + 72 = 0</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; x(x - 8) - 9(x - 8) = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; (x - 8)(x - 9) = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Taking,</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; (x - 8) = 0 or (x - 9) = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; x = 8 or 9</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">From II,</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> - y - 72 = 0</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; </span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> - 9y + 8y - 72 = 0</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr;&nbsp; y(y - 9) + 8(y - 9) = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; (y - 9)(y + 8)</span><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Taking,</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; (y - 9) = 0 or (y + 8) = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; y = 9 or -8</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Comparison between x and y (via Tabulation):</span></span></p>\n\n<div align=\"left\" dir=\"ltr\" style=\"margin-left:0pt;\">\n<table style=\"border: none;\">\n\t<colgroup>\n\t\t<col width=\"87\" />\n\t\t<col width=\"87\" />\n\t\t<col width=\"87\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Value of x</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Value of y</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Relation</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">8</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">9</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x < y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">8</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">-8</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x > y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">9</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">9</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x = y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">9</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">-8</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x > y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\">&nbsp;</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 8pt;\"><span id=\"docs-internal-guid-7af759d6-7fff-07c3-d4a7-6597c612d5f3\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&there4; x = y or relation between x and y can not be established.</span></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60aba791ff0cdf1be0c0d5f1",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-4f9c2c3a-7fff-bfd5-b669-c3804462dc2c\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">In the given question, two equations numbered l and II are given. Solve both the equations and mark the appropriate answer.</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-4f9c2c3a-7fff-bfd5-b669-c3804462dc2c\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">I. x<sup>2</sup></span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - 100 = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 8pt;\"><span id=\"docs-internal-guid-4f9c2c3a-7fff-bfd5-b669-c3804462dc2c\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">II. y<sup>2</sup></span><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - 20y + 100 = 0</span></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "x > y",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "x < y",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "x&nbsp;&ge; y",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "x&nbsp;&le; y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-96b610df-7fff-3cc8-f976-396b9bb73a29\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x = y or relation between x and y can not be established.</span></span></p>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Given:</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-4f9c2c3a-7fff-bfd5-b669-c3804462dc2c\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">I. x&nbsp;<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - 100 = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 8pt; line-height: 1.38;\"><span id=\"docs-internal-guid-4f9c2c3a-7fff-bfd5-b669-c3804462dc2c\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">II. y<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - 20y + 100 = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Calculation:</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">From I,</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> - 100 = 0</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; </span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> = 100</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; x = </span></span><span style=\"white-space: pre-wrap;\">&plusmn;&radic;100</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; x = </span></span><span style=\"white-space: pre-wrap;\">&plusmn;10</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; x = 10 or -10</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">From II,</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> - 20y + 100 = 0</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; </span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">y<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\"> - 10y - 10y + 100 = 0</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr;&nbsp;y(y - 10) - 10(y - 10) = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; (y - 10)(y - 10) = 0</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span style=\"white-space: pre-wrap;\">Taking,</span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; </span></span><span style=\"white-space: pre-wrap;\">(y - 10) = 0 </span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rArr; y = 10</span></span></p>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Comparison between x and y (via Tabulation):</span></span></p>\n\n<div align=\"left\" dir=\"ltr\" style=\"margin-left:0pt;\">\n<table style=\"border: none;\">\n\t<colgroup>\n\t\t<col width=\"87\" />\n\t\t<col width=\"87\" />\n\t\t<col width=\"87\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Value of x</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Value of y</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Relation</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">10</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">10</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x = y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr style=\"height:20.25pt\">\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">-10</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span style=\"white-space: pre-wrap;\">10</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 0.75pt; border-style: solid; border-color: rgb(128, 128, 128); vertical-align: top; overflow: hidden; overflow-wrap: break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:8pt;\"><span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">x < y</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;\"><br />\n<span id=\"docs-internal-guid-da23d343-7fff-7a92-f3e8-4d0d6d9f0468\"><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&there4; x </span></span><span><span style=\"  font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&le; y.</span></span></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:11.752Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a11d629ad00d323f670e",
+  "title": "CT 22: Quantitative Aptitude (Data Sufficiency)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "5f7181414629b448735525f9",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "<p style=\"\">Given question is followed by two quantities I and II which you have to solve and find the relation between them.</p>\n\n<p style=\"\">For a two-digit natural number.</p>\n\n<p style=\"\">Q&shy;uantity I: The square of the average of three even consecutive natural numbers.</p>\n\n<p style=\"\">Q&shy;uantity II: Product of four odd consecutive natural numbers.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity I < Quantity II&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity I > Quantity II&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity I &ge; Quantity II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity I = Quantity II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity I &le; Quantity II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Q&shy;uantity I: </strong></p>\n\n<p style=\"\">Let x &ndash; 2, x, x + 2 are three even consecutive natural number.</p>\n\n<p style=\"\">According to the question,</p>\n\n<p style=\"\"><span class=\"math-tex\">\\({\\left( {\\frac{{\\left[ {\\left( {{\\rm{x\\;}}-{\\rm{\\;}}2} \\right){\\rm{\\;}} + {\\rm{\\;x\\;}} + {\\rm{\\;}}\\left( {{\\rm{x\\;}} + {\\rm{\\;}}2} \\right)} \\right]}}{3}} \\right)^2} = {\\left( {\\frac{{3x}}{3}} \\right)^2} = {x^2}\\)</span></p>\n\n<p style=\"\"><strong style=\"\">Q&shy;uantity II: </strong></p>\n\n<p style=\"\">Let x &ndash; 3, x &ndash; 1, x + 1, x + 3 be four odd consecutive natural number</p>\n\n<p style=\"\"><span class=\"math-tex\">\\(\\left( {{\\rm{x\\;}}-{\\rm{}}3} \\right){\\rm{\\;}} \\times {\\rm{}}\\left( {{\\rm{x}} - 1} \\right){\\rm{}} \\times {\\rm{}}\\left( {{\\rm{x\\;}} + {\\rm{}}1} \\right){\\rm{}} \\times {\\rm{}}\\left( {{\\rm{x\\;}} + {\\rm{\\;}}3} \\right) = \\left( {{x^2} - 9} \\right)\\left( {{x^2} - 1} \\right)\\)</span></p>\n\n<p style=\"\">= x<sup style=\"\">4</sup> &ndash; 10x<sup style=\"\">2</sup> + 9</p>\n\n<p style=\"\">&there4; Quantity I < Quantity II&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f71c9c262d91f60a954c332",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p style=\"\">What is the total cost of fencing the rectangular field?</p>\n\n<p style=\"\">I. The perimeter of the rectangular field is equal to the perimeter of the circular filed whose area is 616 sq. m. The rate of fencing the rectangular field is ₹ 90.</p>\nII. The difference between the length and the breadth of the rectangular field is 10 m and the rate of fencing the rectangular field is ₹ 90.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The data in both the statements I and II together are necessary to answer the question.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The data either in statement I alone or in statement II alone are sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The data in both the statements I and II together are not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The data in statement II alone are sufficient to answer the question, while the data in statement I above are not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Formula Used:</strong></p>\n\n<p style=\"\">Perimeter of rectangular field = 2 &times; (length + breath)</p>\n\n<p style=\"\">Area of circular field = &pi;r<sup style=\"\">2</sup></p>\n\n<p style=\"\">Perimeter of circular filed = 2&pi;r</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\"><strong style=\"\">From statement I:</strong></p>\n\n<p style=\"\">The perimeter of rectangular field = Perimeter of circular field</p>\n\n<p style=\"\">Area of circular field = &pi;r<sup style=\"\">2</sup></p>\n\n<p style=\"\">&rArr; &pi;r<sup style=\"\">2</sup> = 616</p>\n\n<p style=\"\">&rArr; 22/7 &times; r<sup style=\"\">2</sup> = 616</p>\n\n<p style=\"\">&rArr; r<sup style=\"\">2</sup> = 616 &times; 7/22</p>\n\n<p style=\"\">&rArr; r<sup style=\"\">2</sup> = 196</p>\n\n<p style=\"\">&rArr; r = &radic;196</p>\n\n<p style=\"\">&rArr; r = 14 m</p>\n\n<p style=\"\">&there4; Perimeter of circular field = 2&pi;r = 2 &times; 22/7 &times; 14 = 88 m</p>\n\n<p style=\"\">Now, the perimeter of the rectangular field = 88 m</p>\n\n<p style=\"\">The rate of cost the fencing the rectangular field = 90 &times; 88 = ₹ 7920</p>\n\n<p style=\"\">So, data in the statement I is sufficient to answer the question.</p>\n\n<p style=\"\"><strong style=\"\">From statement II:</strong></p>\n\n<p style=\"\">Length &ndash; Breath = 10 m</p>\n\n<p style=\"\">And the cost of fencing the rectangular field = ₹ 90 per m</p>\n\n<p style=\"\">So, data in statement II is not sufficient to answer the question.</p>\n&there4; The data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question.",
+          "topic": "Test"
+        },
+        {
+          "id": "5f6c6a2b80a4d645c5332d02",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p style=\"\"><span style=\"font-weight: 700;\">Direction:</span>&nbsp;In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both quantities and choose the correct option.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Quantity A:</span>&nbsp;Find the Gain percentage on a fan, if the ratio of Selling Price to Cost price of fan is 5 : 4.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Quantity B:</span>&nbsp;The Discount percentage is 21.25%.</p>\n\n<p style=\"\">&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity A &ge; Quantity B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity A &le; Quantity B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity A < Quantity B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity A > Quantity B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity A = Quantity B or No relation&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Quantity A:</strong></p>\n\n<p style=\"\">Ratio of Selling Price to Cost price is 5 : 4</p>\n\n<p style=\"\">Let selling price = 5x</p>\n\n<p style=\"\">Cost Price = 4x</p>\n\n<p style=\"\">&rArr; Profit = 5x &ndash; 4x = x</p>\n\n<p style=\"\">&rArr; Profit percentage = (x/4x) &times; 100 =25%</p>\n\n<p style=\"\">&there4; The Profit percentage is 25%.</p>\n\n<p style=\"\"><strong style=\"\">Quantity B: </strong>The Discount percentage is 21.25%.</p>\n\n<p style=\"\"><strong>&there4; Quantity A > Quantity B</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f6ef9a45779cce82973513f",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p style=\"\"><strong>Directions: </strong>Given below are two quantities named I and II. Based on the given information, you have to determine the relation between the two quantities. You should use the given data and your knowledge of Mathematics to choose among the possible answers.</p>\n\n<p style=\"\">There are 50 cards in a box numbered from 1 to 50. One number is written on each card. A card is drawn from the box.</p>\n\n<p style=\"\">Quantity I: Find the probability that the drawn card is a multiple of both 2 and 4.</p>\nQuantity II: Find the probability that the drawn card is an odd prime number.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity I ˂ Quantity II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity I &ge; Quantity II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity I &le; Quantity II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity I = Quantity II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity I ˃ Quantity II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Quantity I:</strong></p>\n\n<p style=\"\">Total number of cards = 50</p>\n\n<p style=\"\">Number of favourable cards = 12 (i.e. 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44 and 48)</p>\n\n<p style=\"\">&rArr; P(E) = 12/50 = 6/25 = 0.24</p>\n\n<p style=\"\"><strong style=\"\">Quantity II:</strong></p>\n\n<p style=\"\">Total number of cards: 50</p>\n\n<p style=\"\">Number of favourable cards = 14 (i.e. 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47)</p>\n\n<p style=\"\">&rArr; P(E) = 14/50 = 7/25 = 0.28</p>\n\n<p style=\"\">&there4; Quantity II ˃ Quantity I</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f6ef8a9778f66261471dc0a",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<p style=\"\"><strong style=\"\">Directions</strong>: Given below are two quantities named I and II. Based on the given information, you have to determine the relation between the two quantities. You should use the given data and your knowledge of Mathematics to choose among the possible answers.</p>\n\n<p style=\"\"><strong style=\"\">Quantity I:</strong> 8 months</p>\n<strong style=\"\">Quantity II:</strong> Karan and John are partners in a business. Karan received (4/5) of the profit and John invested (1/5) of the capital for 12 months. Find the period of Karan&rsquo;s investment.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity I = Quantity II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity I &ge; Quantity II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity I &le; Quantity II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity I ˂ Quantity II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity I ˃ Quantity II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Quantity I:</strong> 8 months</p>\n\n<p style=\"\"><strong style=\"\">Quantity II:</strong></p>\n\n<p style=\"\">Let the total profit be Rs. x</p>\n\n<p style=\"\">&rArr; Karan&rsquo;s share = 4x/5</p>\n\n<p style=\"\">&rArr; John&rsquo;s share = (x) &ndash; (4 x/5) = x /5</p>\n\n<p style=\"\">Profit ratio of Karan and John = 4 : 1</p>\n\n<p style=\"\">Let total capital be Rs. a and period of investment of Karan be &lsquo;t&rsquo; months</p>\n\n<p style=\"\">&rArr; [(a/5) &times; 12] : [(4a/5) &times; t] = 1 : 4</p>\n\n<p style=\"\">&rArr; [12a/5] : [4at/5] = 1 : 4</p>\n\n<p style=\"\">&rArr; [(12a/5) &times; (5/4at)] = 1 : 4</p>\n\n<p style=\"\">&rArr; t = 12 months</p>\n\n<p style=\"\">&there4; Quantity I < Quantity II.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f6c667b375b5a58153baa1c",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "<p style=\"\"><strong>Direction:</strong> In the following question, two statements are numbered as A and B. On solving these statements, we get quantities A and B respectively. Solve both quantities and choose the correct option.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Quantity A:</span>&nbsp;The average age of a dance pair is 21 years and the combined average of the pair along with their child after 5 years is 21 years. Find the present age of the child.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Quantity B:</span>&nbsp;The age of a boy is 5 years.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity A &ge; Quantity B",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity A &le; Quantity B",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity A < Quantity B",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity A > Quantity B",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity A = Quantity B or No relation&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><strong style=\"\">Quantity A:</strong></p>\n\n<p style=\"\">The average age of a dance pair = 21 years</p>\n\n<p style=\"\">&rArr; Sum of ages of a dance pair = 42 years</p>\n\n<p style=\"\">&rArr; Sum of ages of a dance pair after 5 years = 52 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---(i)</p>\n\n<p style=\"\">&rArr; Average of the pair along with their child after 5 years = 21 years</p>\n\n<p style=\"\">&rArr; Sum of ages of&nbsp; pair along with their child after 5 years&nbsp; = (21 &times; 3) = 63 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---(ii)</p>\n\n<p style=\"\">From equation (i) and (ii), we get</p>\n\n<p style=\"\">&rArr; Age of child after 5 years = 63 &ndash; 52 = 11 years</p>\n\n<p style=\"\">&rArr; Present Age of child = 11 &ndash; 5 = 6 years</p>\n\n<p style=\"\">The present age of boy is 6 years</p>\n\n<p style=\"\"><strong style=\"\">Quantity B</strong></p>\n\n<p style=\"\">The age of a boy is 5 years.</p>\n\n<p style=\"\"><strong>&there4; Quantity A ></strong><strong>&nbsp;Quantity B</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f6486e1a419ee60bb750ff5",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "<p style=\"\">Given below are two quantities named I and II. Based on the given information, you have to determine the relation between the two quantities. You should use the given data and your knowledge of Mathematics to choose among the possible answers.</p>\n\n<p style=\"\">P, Q and R work together on a project and earn Rs. 10,000. Q and R complete 1 / 5<sup style=\"\">th</sup> of work and remaining work is done by P.</p>\n\n<p style=\"\"><strong style=\"\">Quantity I:</strong> Find the share of P.</p>\n<strong style=\"\">Quantity II:</strong> If earning is Rs. 20,000. Find the share of Q and R together.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity I > Quantity II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity I < Quantity II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity I &ge; Quantity II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity I &le; Quantity II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity I = Quantity II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Quantity I</strong></p>\n\n<p style=\"\">Q and R complete 1 / 5<sup style=\"\">th</sup> of a work</p>\n\n<p style=\"\">&rArr; Remaining work (done by P) = 4 / 5</p>\n\n<p style=\"\">Amount paid to P = (4 / 5) &times; 10000 = Rs. 8,000</p>\n\n<p style=\"\"><strong style=\"\">Quantity II</strong></p>\n\n<p style=\"\">Amount paid to Q and R = (1 / 5) &times; 20,000</p>\n\n<p style=\"\">&rArr; Rs. 4,000</p>\n\n<p style=\"\">&there4; Quantity I > Quantity II</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f64854bb35c7137d04dff7d",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "<p style=\"\">Given below are two quantities named I and II. Based on the given information, you have to determine the relation between the two quantities. You should use the given data and your knowledge of Mathematics to choose among the possible answers.</p>\n\n<p style=\"\">Two trains C and D each having length of 100 metres are moving in the opposite direction. Both trains cross each other in 10 seconds. If train C crosses a 200-metre long platform in 30 seconds.</p>\n\n<p style=\"\"><strong style=\"\">Quantity I:</strong> Find the speed of train D.</p>\n<strong style=\"\">Quantity II:</strong> Find the speed of train C, if train C crosses a 100 metres long platform in 25 seconds.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Quantity I > Quantity II",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Quantity I < Quantity II",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Quantity I &ge; Quantity II",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Quantity I &le; Quantity II",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Quantity I = Quantity II",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Quantity I</strong></p>\n\n<p style=\"\">Let speed of train C be x km / h and speed of train D be y km / h</p>\n\n<p style=\"\">Relative speed = (x + y)</p>\n\n<p style=\"\">&rArr; (x + y) = (100 + 100) / 10</p>\n\n<p style=\"\">&rArr; (x + y) = 20</p>\n\n<p style=\"\">Speed of train C = (200 + 100) / 30</p>\n\n<p style=\"\">&rArr; x = 300 / 30</p>\n\n<p style=\"\">&rArr; x = 10 m / s</p>\n\n<p style=\"\">Now, (x + y) = 20</p>\n\n<p style=\"\">&rArr; y = 20 &ndash; 10</p>\n\n<p style=\"\">&rArr; y = 10 m / s</p>\n\n<p style=\"\">Speed of train D is 10 m / s</p>\n\n<p style=\"\"><strong style=\"\">Quantity II</strong></p>\n\n<p style=\"\">Speed of train C = (100 + 100) / 25</p>\n\n<p style=\"\">&rArr; 200 / 25</p>\n\n<p style=\"\">&rArr; 8 m / s</p>\n\n<p style=\"\">&there4; Quantity I > Quantity II</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f58fde8945bd8f73f243753",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "<p style=\"\">The following question is accompanied by two statements (I) and (II). You have to determine which statement(s) is/are sufficient/necessary to answer the questions.</p>\n\n<p style=\"\">In how many days will A complete the work?</p>\n\n<p style=\"\">I. Ratio of efficiency of A, B and C is 5 : 6 : 9. A takes 8 days more than C to finish the work</p>\nII. A and B working together can complete the work in 30 days, B is twice efficient than A",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The data in both the statements I and II together are necessary to answer the question",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The data in statement I alone or in statement II alone is sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The data in both statements I and II together are not sufficient to answer the question",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The data in statement II alone is sufficient to answer the question, while the data in I alone is not sufficient to answer the question",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The data in statement I alone is sufficient to answer the question, while the data in II alone is not sufficient to answer the question",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\"><strong>From statement I</strong></p>\n\n<p style=\"\">Ratio of efficiency of A, B and C is 5 : 6 : 9</p>\n\n<p style=\"\">A takes 8 days more than C to finish the work</p>\n\n<p style=\"\">&rArr; (9 &ndash; 5) units = 8 days</p>\n\n<p style=\"\">&rArr; 4 units = 8 days</p>\n\n<p style=\"\">&rArr; 1 unit = 2 days</p>\n\n<p style=\"\"><strong style=\"\">&there4;</strong><strong style=\"\"> A will complete the work in = 5 &times; 2 = 10 days</strong></p>\n\n<p style=\"\"><strong>From statement II</strong></p>\n\n<p style=\"\">A and B working together can complete the work in 30 days</p>\n\n<p style=\"\">&rArr; 1/A + 1/B = 1/30</p>\n\n<p style=\"\">B is twice efficient than A</p>\n\n<p style=\"\">Ratio of efficiency of A&nbsp;and B is 1: 2</p>\n\n<p>&rArr; (1&nbsp;+ 2) units = 30&nbsp;days</p>\n\n<p>&rArr; 3&nbsp;units = 30 days</p>\n\n<p>&rArr; 1&nbsp;unit = 10&nbsp;days</p>\n\n<p><span style=\"font-weight: 700;\">&there4;</span><span style=\"font-weight: 700;\">&nbsp;A will complete the work in&nbsp;= 10&nbsp;days</span></p>\n\n<p><strong style=\"\">&there4; Data in statement I alone or in statement II alone is sufficient to answer the question</strong></p>\n\n<p><strong style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/confusion-points-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Confusion Points</u></span></strong></span>From second statement we can find multiple values of&nbsp; completion days of A, but since the question is of data sufficiency we can say we can find out days so statement 2 alone can answer but answer will depend upon x.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f58fdb148e0efbe245a21e7",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p style=\"\">The following question is accompanied by two statements (I) and (II). You have to determine which statement(s) is/are sufficient/necessary to answer the questions.</p>\n\n<p style=\"\">What is the difference between the income of a man and woman per day?</p>\n\n<p style=\"\">I. Two men and five women can do the work in 8 days.</p>\nII. Ratio of efficiencies of a woman and a child is 4 ∶ 7. One day income of a man, woman and child is Rs.925",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "The data in both the statements I and II together are necessary to answer the question",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "The data in statement I alone or in statement II alone is sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "The data in both statements I and II together are not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "The data in statement II alone is sufficient to answer the question, while the data in I alone is not sufficient to answer the question.",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "The data in statement I alone is sufficient to answer the question, while the data in II alone is not sufficient to answer the question.",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">From statement I</p>\n\n<p style=\"\">Two men and five women can do the work in 8 days</p>\n\n<p style=\"\">Let the work done by 1 man in one day = 1/M</p>\n\n<p style=\"\">Let the work done by 1 man in one day = 1/W</p>\n\n<p style=\"\">&rArr; (2/M) + (5/W) = 1/8</p>\n\n<p style=\"\">From statement II</p>\n\n<p style=\"\">Ratio of efficiencies of a woman and a child is 4 ∶ 7</p>\n\n<p style=\"\">Relation between efficiency of Man and Woman can&rsquo;t be determined</p>\n<strong style=\"\">&there4; Data in both statements I and II together are not sufficient to answer the question</strong>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:52.824Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

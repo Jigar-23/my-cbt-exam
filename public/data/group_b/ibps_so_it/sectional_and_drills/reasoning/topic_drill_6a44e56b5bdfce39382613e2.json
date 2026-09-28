@@ -1,0 +1,1129 @@
+{
+  "testId": "6a44e56b5bdfce39382613e2",
+  "title": "Reasoning Sectional Test 1",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Reasoning",
+  "subsectionCategory": "Sectional Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 25,
+  "totalDurationMinutes": 20,
+  "totalMarks": 25,
+  "sections": [
+    {
+      "id": "6a44c8deaf439ee3173b5645",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 25,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "60110f1e23f67d2200297282",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Which employee is from Surat?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Manav",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rekha",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rohit",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Naitik",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Can&rsquo;t be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>1) The age of Rekha is 4 years more than twice the age of the person who is from Hisar.</p>\n\n<p>(As we know from the question that the age of the employees lies in the range of 20 to 60. The age of the person from Hisar must be less than or equal to 28 years.)</p>\n\n<p>2) Poonam and Ajay are from Noida and Hisar but not necessarily in the same order and their total age is 57 years.</p>\n\n<p>3) Rekha is 13 years older than Poonam.</p>\n\n<p>(It means that Poonam is not from Hisar because if we assume the age of Poonam to be 20 years then the age of Rekha would be 44 years. Hence, the difference between the ages of these two would be at least 24 years. Thus, Ajay is from Hisar and Poonam is from Noida.</p>\n\n<p>Also, let us assume that the age of Ajay be X.</p>\n\n<p>Then,</p>\n\n<p>The age of Rekha = 2X + 4</p>\n\n<p>The age of Poonam = 2X + 4 &ndash; 13 = 2X &ndash; 9</p>\n\n<p>X + 2X &ndash; 9 = 57 years</p>\n\n<p>X = 22 years</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>4) The person from Surat is 48 years old.</p>\n\n<p>(Implies, Rekha is from Surat.)</p>\n\n<p>5) Either Aarti or Rekha is from Cuttack.</p>\n\n<p>(As we know now that Rekha is from Surat, implies, Aarti is from Cuttack.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>6) The person from Gaya is 5 years younger than the person from Noida.</p>\n\n<p>(Poonam is from Noida and she is 35 years old, implies the person from Gaya is 30 years old.)</p>\n\n<p>7) Neither Hema nor Rohit is from either Bellary or Gaya.</p>\n\n<p>(Implies, Manav and Naitik are from Bellary and Gaya but not necessarily in the same order.)</p>\n\n<p>8) Manav is 12 years older than the person from Gaya.</p>\n\n<p>(Implies, Manav is from Bellary and Naitik is from Gaya. Also, as Naitik is 30 years old, implies, Manav is 42 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>9) The person from Nasik is 9 years older than Manav.</p>\n\n<p>(Implies, the person from Nasik is 51 years old.)</p>\n\n<p>10) Rohit is younger than Rekha.</p>\n\n<p>(Implies, the age of Rohit is less than 48 years. Hence, Rohit is not Nasik. Hema is the only other option left, hence, Hema is from Nasik and Rohit is from Rohtak as it is the only possibility.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>11) The person from Rohtak is 17 years older than Ajay and 19 years younger than Aarti.</p>\n\n<p>(Implies, Rohit is 39 years old and Aarti is 58 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">39</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">58</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Clearly, Rekha is from Surat.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60110f1f23f67d2200297284",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "What is the age of the person who is from Noida?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "55 years",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "30 years",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "41 years",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "35 years",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "32 years",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>1) The age of Rekha is 4 years more than twice the age of the person who is from Hisar.</p>\n\n<p>(As we know from the question that the age of the employees lies in the range of 20 to 60. The age of the person from Hisar must be less than or equal to 28 years.)</p>\n\n<p>2) Poonam and Ajay are from Noida and Hisar but not necessarily in the same order and their total age is 57 years.</p>\n\n<p>3) Rekha is 13 years older than Poonam.</p>\n\n<p>(It means that Poonam is not from Hisar because if we assume the age of Poonam to be 20 years then the age of Rekha would be 44 years. Hence, the difference between the ages of these two would be at least 24 years. Thus, Ajay is from Hisar and Poonam is from Noida.</p>\n\n<p>Also, let us assume that the age of Ajay be X.</p>\n\n<p>Then,</p>\n\n<p>The age of Rekha = 2X + 4</p>\n\n<p>The age of Poonam = 2X + 4 &ndash; 13 = 2X &ndash; 9</p>\n\n<p>X + 2X &ndash; 9 = 57 years</p>\n\n<p>X = 22 years)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>4) The person from Surat is 48 years old.</p>\n\n<p>(Implies, Rekha is from Surat.)</p>\n\n<p>5) Either Aarti or Rekha is from Cuttack.</p>\n\n<p>(As we know now that Rekha is from Surat, implies, Aarti is from Cuttack.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>6) The person from Gaya is 5 years younger than the person from Noida.</p>\n\n<p>(Poonam is from Noida and she is 35 years old, implies the person from Gaya is 30 years old.)</p>\n\n<p>7) Neither Hema nor Rohit is from either Bellary or Gaya.</p>\n\n<p>(Implies, Manav and Naitik are from Bellary and Gaya but not necessarily in the same order.)</p>\n\n<p>8) Manav is 12 years older than the person from Gaya.</p>\n\n<p>(Implies, Manav is from Bellary and Naitik is from Gaya. Also, as Naitik is 30 years old, implies, Manav is 42 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>9) The person from Nasik is 9 years older than Manav.</p>\n\n<p>(Implies, the person from Nasik is 51 years old.)</p>\n\n<p>10) Rohit is younger than Rekha.</p>\n\n<p>(Implies, the age of Rohit is less than 48 years. Hence, Rohit is not Nasik. Hema is the only other option left, hence, Hema is from Nasik and Rohit is from Rohtak as it is the only possibility.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>11) The person from Rohtak is 17 years older than Ajay and 19 years younger than Aarti.</p>\n\n<p>(Implies, Rohit is 39 years old and Aarti is 58 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">39</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">58</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Clearly, Poonam is from Noida and she is 35 years old.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60110f1f23f67d2200297285",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "How many people are older than the person who is from Gaya?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "One&nbsp;",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Three",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Six",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>1) The age of Rekha is 4 years more than twice the age of the person who is from Hisar.</p>\n\n<p>(As we know from the question that the age of the employees lies in the range of 20 to 60. The age of the person from Hisar must be less than or equal to 28 years.)</p>\n\n<p>2) Poonam and Ajay are from Noida and Hisar but not necessarily in the same order and their total age is 57 years.</p>\n\n<p>3) Rekha is 13 years older than Poonam.</p>\n\n<p>(It means that Poonam is not from Hisar because if we assume the age of Poonam to be 20 years then the age of Rekha would be 44 years. Hence, the difference between the ages of these two would be at least 24 years. Thus, Ajay is from Hisar and Poonam is from Noida.</p>\n\n<p>Also, let us assume that the age of Ajay be X.</p>\n\n<p>Then,</p>\n\n<p>The age of Rekha = 2X + 4</p>\n\n<p>The age of Poonam = 2X + 4 &ndash; 13 = 2X &ndash; 9</p>\n\n<p>X + 2X &ndash; 9 = 57 years</p>\n\n<p>X = 22 years)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>4) The person from Surat is 48 years old.</p>\n\n<p>(Implies, Rekha is from Surat.)</p>\n\n<p>5) Either Aarti or Rekha is from Cuttack.</p>\n\n<p>(As we know now that Rekha is from Surat, implies, Aarti is from Cuttack.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>6) The person from Gaya is 5 years younger than the person from Noida.</p>\n\n<p>(Poonam is from Noida and she is 35 years old, implies the person from Gaya is 30 years old.)</p>\n\n<p>7) Neither Hema nor Rohit is from either Bellary or Gaya.</p>\n\n<p>(Implies, Manav and Naitik are from Bellary and Gaya but not necessarily in the same order.)</p>\n\n<p>8) Manav is 12 years older than the person from Gaya.</p>\n\n<p>(Implies, Manav is from Bellary and Naitik is from Gaya. Also, as Naitik is 30 years old, implies, Manav is 42 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>9) The person from Nasik is 9 years older than Manav.</p>\n\n<p>(Implies, the person from Nasik is 51 years old.)</p>\n\n<p>10) Rohit is younger than Rekha.</p>\n\n<p>(Implies, the age of Rohit is less than 48 years. Hence, Rohit is not Nasik. Hema is the only other option left, hence, Hema is from Nasik and Rohit is from Rohtak as it is the only possibility.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>11) The person from Rohtak is 17 years older than Ajay and 19 years younger than Aarti.</p>\n\n<p>(Implies, Rohit is 39 years old and Aarti is 58 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">39</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">58</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Clearly, six people are older than Naitik.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60110f1f23f67d22002972ec",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "Hema belongs to which city?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Surat",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Hisar",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Cuttack",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Nasik",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Noida",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>1) The age of Rekha is 4 years more than twice the age of the person who is from Hisar.</p>\n\n<p>(As we know from the question that the age of the employees lies in the range of 20 to 60. The age of the person from Hisar must be less than or equal to 28 years.)</p>\n\n<p>2) Poonam and Ajay are from Noida and Hisar but not necessarily in the same order and their total age is 57 years.</p>\n\n<p>3) Rekha is 13 years older than Poonam.</p>\n\n<p>(It means that Poonam is not from Hisar because if we assume the age of Poonam to be 20 years then the age of Rekha would be 44 years. Hence, the difference between the ages of these two would be at least 24 years. Thus, Ajay is from Hisar and Poonam is from Noida.</p>\n\n<p>Also, let us assume that the age of Ajay be X.</p>\n\n<p>Then,</p>\n\n<p>The age of Rekha = 2X + 4</p>\n\n<p>The age of Poonam = 2X + 4 &ndash; 13 = 2X &ndash; 9</p>\n\n<p>X + 2X &ndash; 9 = 57 years</p>\n\n<p>X = 22 years)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>4) The person from Surat is 48 years old.</p>\n\n<p>(Implies, Rekha is from Surat.)</p>\n\n<p>5) Either Aarti or Rekha is from Cuttack.</p>\n\n<p>(As we know now that Rekha is from Surat, implies, Aarti is from Cuttack.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>6) The person from Gaya is 5 years younger than the person from Noida.</p>\n\n<p>(Poonam is from Noida and she is 35 years old, implies the person from Gaya is 30 years old.)</p>\n\n<p>7) Neither Hema nor Rohit is from either Bellary or Gaya.</p>\n\n<p>(Implies, Manav and Naitik are from Bellary and Gaya but not necessarily in the same order.)</p>\n\n<p>8) Manav is 12 years older than the person from Gaya.</p>\n\n<p>(Implies, Manav is from Bellary and Naitik is from Gaya. Also, as Naitik is 30 years old, implies, Manav is 42 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>9) The person from Nasik is 9 years older than Manav.</p>\n\n<p>(Implies, the person from Nasik is 51 years old.)</p>\n\n<p>10) Rohit is younger than Rekha.</p>\n\n<p>(Implies, the age of Rohit is less than 48 years. Hence, Rohit is not Nasik. Hema is the only other option left, hence, Hema is from Nasik and Rohit is from Rohtak as it is the only possibility.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>11) The person from Rohtak is 17 years older than Ajay and 19 years younger than Aarti.</p>\n\n<p>(Implies, Rohit is 39 years old and Aarti is 58 years old.)</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Person</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>Age</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\"><strong>City</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">22</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Hisar</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rekha</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">48</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Surat</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Hema</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">51</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Nasik</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohit</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">39</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Rohtak</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Manav</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">42</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:20px;\">\n\t\t\t<p align=\"center\">Bellary</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Aarti</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">58</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Cuttack</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Poonam</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">35</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Noida</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Naitik</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:102px;height:19px;\">\n\t\t\t<p align=\"center\">Gaya</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Clearly, Hema belongs to Nasik.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5eec687f173a220d10beb4fe",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "If it is possible to make only one six-letter meaningful English word with the 3rd, 4th and 5th letter of the word CONFIRM and 1st, 10th, and 11th letter of the word OPPROBRIOUS, which of the following will be the first letter from the left of that word? If no such word can be made give &lsquo;X&rsquo; as the answer and if more than one such word can be made give &lsquo;Y&rsquo; as the answer.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "N",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "X",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Y",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "F",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given words: CONFIRM and OPPROBRIOUS</p>\n\n<p>3rd, 4th and 5th letters from the first word is: N, F, and I</p>\n\n<p>1st, 10th, and 11th letters from the second word is: O, U, and S</p>\n\n<p>Combining and un-jumbling the letters we get:&nbsp; FUSION</p>\n\n<p>Hence, the first letter will be F.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605367fcf31f29b2e45adc6f",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Four of following five are alike in a certain way and so form a group. Which one does not belong to that group?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "11",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "22",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "42",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "10",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "9",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Solution:</strong></p>\n\n<p>From the given information,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/Common_Diagram_28.01.2020_D3.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1. 22 is the daughter-in-law of 41 (22 is married to the son of 41 where the gender of 41 is still undefined)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D1.png\" style=\"width: 123px; height: 92px;\" /></p>\n\n<p>2. 9, who is an impostor is the sister of 10. (9 is an impostor and is the sister of 10 where the gender of 10 is still undefined)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D2.png\" style=\"width: 96px; height: 50px;\" /></p>\n\n<p>Here \" i \" indicates impostors.</p>\n\n<p>3. 22 is an impostor (2&nbsp;impostors remaining)</p>\n\n<p>4. 21 is the husband of 41 and 31 is the only son of 41. (Here we can define the gender of 41 because 21 is the husband of 41, hence 41 is a female member)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D3.png\" style=\"width: 110px; height: 109px;\" /></p>\n\n<p>5. 11 is the brother of 21 and is an impostor&nbsp;(&nbsp;1 impostor remains)</p>\n\n<p>6. 10 is an impostor and is the son of 31. (here gender of 31 is definite as he&#39;s married)</p>\n\n<p><strong>By combining all the statements above</strong>:</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D4.png\" style=\"width: 258px; height: 194px;\" /></p>\n\n<p>&nbsp;</p>\n\n<p>7. 42 is the brother of any two impostors.</p>\n\n<p>Hence, there is only one possibility for 42 as the brother of 9 and 10, as shown below.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D5.png\" style=\"width: 258px; height: 194px;\" /></p>\n\n<p><strong>For question:</strong></p>\n\n<p>following five are - 11, 22, 42, 10, 9&nbsp;</p>\n\n<p>Where, 11, 22, 10, and 9 are impostors. 42 does not belong to the group.</p>\n\n<p>Hence, <strong>42 is the correct answer.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605367fdf31f29b2e45adc70",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "How 42 is related to 41?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Grandmother",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Granddaughter&nbsp;",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Grandson",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Grandfather",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: 700;\">Solution:</span></p>\n\n<p>From the given information,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/Common_Diagram_28.01.2020_D3.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1. 22 is the daughter-in-law of 41 (22 is married to the son of 41 where the gender of 41 is still undefined)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D1.png\" style=\"width: 123px; height: 92px;\" /></p>\n\n<p>2. 9, who is an impostor is the sister of 10. (9 is an impostor and is the sister of 10 where the gender of 10 is still undefined)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D2.png\" style=\"width: 96px; height: 50px;\" /></p>\n\n<p>Here \" i \" indicates impostors.&nbsp;</p>\n\n<p>3. 22 is an impostor (2&nbsp;impostors remaining)</p>\n\n<p>4. 21 is the husband of 41 and 31 is the only son of 41. (Here we can define the gender of 41 because 21 is the husband of 41, hence 41 is a female member)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D3.png\" style=\"width: 110px; height: 109px;\" /></p>\n\n<p>5. 11 is the brother of 21 and is an impostor&nbsp;(&nbsp;1 impostor remains)</p>\n\n<p>6. 10 is an impostor and is the son of 31. (here gender of 31 is definite as he&#39;s married)</p>\n\n<p><span style=\"font-weight: 700;\">By combining all the statements above</span>:</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D4.png\" style=\"width: 258px; height: 194px;\" /></p>\n\n<p>7. 42 is the brother of any two impostors.</p>\n\n<p>Hence, there is only one possibility for 42 as the brother of 9 and 10, as shown below.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D5.png\" style=\"width: 258px; height: 194px;\" /></p>\n\n<p><strong>For question:</strong></p>\n\n<p>How 42 is related to 41, By the above diagram the relation between 41 and 42 is definite)</p>\n\n<p>Hence,<strong> 42 is the Grandson of 41 is the correct answer</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "605367fdf31f29b2e45adced",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "If 11 is married to 99 then what are the relations between 99 to 21 and 21 to 99?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Brother-in-law and Sister- in-law",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Sister-in-law and Brother-in-law",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Aunt and nephew",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Wife and Husband",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Husband and Wife",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: 700;\">Solution:</span></p>\n\n<p>From the given information,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/Common_Diagram_28.01.2020_D3.png\" style=\"width: 208px; height: 280px;\" /></p>\n\n<p>1. 22 is the daughter-in-law of 41 (22 is married to the son of 41 where the gender of 41 is still undefined)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D1.png\" style=\"width: 123px; height: 92px;\" /></p>\n\n<p>2. 9, who is an impostor is the sister of 10. (9 is an impostor and is the sister of 10 where the gender of 10 is still undefined)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D2.png\" style=\"width: 96px; height: 50px;\" /></p>\n\n<p>Here \" i \" indicates impostors.&nbsp;</p>\n\n<p>3. 22 is an impostor (2&nbsp;impostors remaining)</p>\n\n<p>4. 21 is the husband of 41 and 31 is the only son of 41. (Here we can define the gender of 41 because 21 is the husband of 41, hence 41 is a female member)</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D3.png\" style=\"width: 110px; height: 109px;\" /></p>\n\n<p>5. 11 is the brother of 21 and is an impostor&nbsp;(&nbsp;1 impostor remains)</p>\n\n<p>6. 10 is an impostor and is the son of 31. (here gender of 31 is definite as he&#39;s married)</p>\n\n<p><span style=\"font-weight: 700;\">By combining all the statements above</span>:</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D4.png\" style=\"width: 258px; height: 194px;\" /></p>\n\n<p>7. 42 is the brother of any two impostors.</p>\n\n<p>Hence, there is only one possibility for 42 as the brother of 9 and 10, as shown below.</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D5.png\" style=\"width: 258px; height: 194px;\" /></p>\n\n<p><strong>For question:</strong></p>\n\n<p>If 99 is the wife of 11 then,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/04/F1_ayushi.g_nikhil_14-4-2021_D6.png\" style=\"width: 327px; height: 195px;\" /></p>\n\n<p>as shown in the above diagram relation between 99 and 21 is definite&nbsp;</p>\n\n<p>Hence, <strong>99 is the Sister-in-law of 21, and 21 is the Brother-in-law of 99 is the correct answer.&nbsp;</strong></p>\n\n<p>&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fb6c25bb08bc16b676f68f8",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "How many people sit between Aditi and Gaurav, If counted from the right of Aditi?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Five",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Four",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "One",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Two",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Three",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Given information:<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Nine friends - Aditi, David, Bablu, Chirag, Ishika, Hannah, Garima, Emmy and Faizan.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Some are facing <span style=\"\">towards the center</span> and some are facing <span style=\"\">facing away from the center</span>.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1)&nbsp;Faizan sits third to the left of David and both face&nbsp;the same direction.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">2)&nbsp;Ishika sits second to the right of Faizan as well as Gaurav and faces&nbsp;<span style=\"\">towards the center</span>.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">3)&nbsp;Bablu is one of the neighbours of&nbsp;Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Case 2.&nbsp;</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D12.png\" style=\"width: 294px; height: 203px;\" />&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D13.png\" style=\"width: 251px; height: 205px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">4)&nbsp;Only two people sit between Bablu and Aditi.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">5)&nbsp;Chirag sits&nbsp;fourth to the left of Bablu.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">6)&nbsp;Chirag faces&nbsp;<span style=\"\">towards the center</span>.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Case 2.</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D14.png\" style=\"width: 292px; height: 206px;\" />&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D15.png\" style=\"width: 271px; height: 221px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">8)&nbsp;Hannah and Emmy sit together.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">9)&nbsp;Emmy and Hannah face the same direction as Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">10)&nbsp;&nbsp;Aditi faces the opposite direction as Hannah.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Case 2.</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D16.png\" style=\" width: 293px; height: 244px;\" />&nbsp;<img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D17.png\" style=\"width: 309px; height: 223px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">11)&nbsp;Only four people face <span style=\"\">facing away from the center</span>(As we can clearly see that in case 1, only four people face <span style=\"\">facing away from the center&nbsp;</span>and in case 2,&nbsp;only 3 people face <span style=\"\">facing away from the center</span>. So, case 1 follow)<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Final Solution:</span><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D18.png\" style=\" width: 292px; height: 243px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">When we counted from the right of Aditi, there are four people sit between Aditi and Gaurav.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Hence, the answer is <strong>four</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fb74358a90abee750021361",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "Who sits immediate right of Ishika and Faizan?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Aditi",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "David",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Gaurav",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Chirag",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Hannah",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Given information:<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Nine friends - Aditi, David, Bablu, Chirag, Ishika, Hannah, Garima, Emmy and Faizan.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Some are facing&nbsp;towards the center&nbsp;and some are facing&nbsp;facing away from the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1)&nbsp;Faizan sits third to the left of David and both face&nbsp;the same direction.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">2)&nbsp;Ishika sits second to the right of Faizan as well as Gaurav and faces&nbsp;towards the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">3)&nbsp;Bablu is one of the neighbours of&nbsp;Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Case 2.&nbsp;</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D12.png\" style=\" width: 294px; height: 203px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D13.png\" style=\" width: 251px; height: 205px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">4)&nbsp;Only two people sit between Bablu and Aditi.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">5)&nbsp;Chirag sits&nbsp;fourth to the left of Bablu.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">6)&nbsp;Chirag faces&nbsp;towards the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Case 2.</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D14.png\" style=\" width: 292px; height: 206px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D15.png\" style=\" width: 271px; height: 221px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">8)&nbsp;Hannah and Emmy sit together.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">9)&nbsp;Emmy and Hannah face the same direction as Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">10)&nbsp;&nbsp;Aditi faces the opposite direction as Hannah.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Case 2.</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D16.png\" style=\" width: 293px; height: 244px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D17.png\" style=\" width: 309px; height: 223px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">11)&nbsp;Only four people face&nbsp;facing away from the center(As we can clearly see that in case 1, only four people face&nbsp;facing away from the center&nbsp;and in case 2,&nbsp;only 3 people face&nbsp;facing away from the center. So, case 1 follow)<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Final Solution:</span><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D18.png\" style=\" width: 292px; height: 243px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Chirag sits immediate right of Ishika and Faizan.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Hence, the answer is Chirag.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fb7523fa90abee75002f660",
+          "questionNumber": 11,
+          "type": "mcq",
+          "text": "If Hannah sits immediate right of Bablu, Who sits third to the left of Gaurav?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Hannah",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Chirag",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Aditi",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Faizan",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Emmy",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Given information:<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Nine friends - Aditi, David, Bablu, Chirag, Ishika, Hannah, Garima, Emmy and Faizan.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Some are facing&nbsp;towards the center&nbsp;and some are facing&nbsp;facing away from the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1)&nbsp;Faizan sits third to the left of David and both face&nbsp;the same direction.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">2)&nbsp;Ishika sits second to the right of Faizan as well as Gaurav and faces&nbsp;towards the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">3)&nbsp;Bablu is one of the neighbours of&nbsp;Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Case 2.&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D12.png\" style=\" width: 294px; height: 203px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D13.png\" style=\" width: 251px; height: 205px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">4)&nbsp;Only two people sit between Bablu and Aditi.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">5)&nbsp;Chirag sits&nbsp;fourth to the left of Bablu.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">6)&nbsp;Chirag faces&nbsp;towards the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Case 2.</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D12.png\" style=\" width: 294px; height: 203px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D13.png\" style=\" width: 251px; height: 205px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">8)&nbsp;Hannah and Emmy sit together.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">9)&nbsp;Emmy and Hannah face the same direction as Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">10)&nbsp;&nbsp;Aditi faces the opposite direction as Hannah.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Case 2.</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D14.png\" style=\" width: 292px; height: 206px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D15.png\" style=\" width: 271px; height: 221px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">11)&nbsp;Only four people face&nbsp;facing away from the center(As we can clearly see that in case 1, only four people face&nbsp;facing away from the center&nbsp;and in case 2,&nbsp;only 3 people face&nbsp;facing away from the center. So, case 1 follow)<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Final Solution:</span><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D18.png\" style=\" width: 292px; height: 243px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Emmy sits third to the left of Gaurav.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Hence, the answer is <strong>Emmy</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fb752faa90abee75003038f",
+          "questionNumber": 12,
+          "type": "mcq",
+          "text": "Four of the following five are alike in a certain way, find the one who does not belong to that group.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Aditi - Ishika",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "David - Gaurav",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Faizan - Chirag",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Ishika - Chirag",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "<span style=\"color: rgb(33, 37, 41);\">&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">Aditi - Chirag</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Given information:<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Nine friends - Aditi, David, Bablu, Chirag, Ishika, Hannah, Garima, Emmy and Faizan.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Some are facing&nbsp;towards the center&nbsp;and some are facing&nbsp;facing away from the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">1)&nbsp;Faizan sits third to the left of David and both face&nbsp;the same direction.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">2)&nbsp;Ishika sits second to the right of Faizan as well as Gaurav and faces&nbsp;towards the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">3)&nbsp;Bablu is one of the neighbours of&nbsp;Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Case 2.&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D12.png\" style=\" width: 294px; height: 203px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D13.png\" style=\" width: 251px; height: 205px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">4)&nbsp;Only two people sit between Bablu and Aditi.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">5)&nbsp;Chirag sits&nbsp;fourth to the left of Bablu.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">6)&nbsp;Chirag faces&nbsp;towards the center.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Case 2.</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D14.png\" style=\" width: 292px; height: 206px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D15.png\" style=\" width: 271px; height: 221px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">8)&nbsp;Hannah and Emmy sit together.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">9)&nbsp;Emmy and Hannah face the same direction as Gaurav.<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">10)&nbsp;&nbsp;Aditi faces the opposite direction as Hannah.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Case 2.</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D16.png\" style=\" width: 293px; height: 244px;\" /><span style=\"\">&nbsp;</span><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D17.png\" style=\" width: 309px; height: 223px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">11)&nbsp;Only four people face&nbsp;facing away from the center(As we can clearly see that in case 1, only four people face&nbsp;facing away from the center&nbsp;and in case 2,&nbsp;only 3 people face&nbsp;facing away from the center. So, case 1 follow)<o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Final Solution:</span><o:p></o:p></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-weight: 700;\">Case 1.</span></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/23/03/F1_Savita_Banking_29-3-23_D18.png\" style=\" width: 292px; height: 243px;\" /></p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp;</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">I.&nbsp; Aditi - Ishika&nbsp;&rarr; both are faces opposite direction.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">II. David - Gaurav&nbsp;&rarr; both are faces opposite direction.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">III. Faizan - Chirag&nbsp;&rarr; both are faces opposite direction.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">IV. Chirag - Ishika&nbsp;&rarr; both are faces same direction.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">V. <span style=\"color: rgb(33, 37, 41);\">Aditi - Chirag</span>&rarr; both are faces opposite direction.</p>\n\n<p style=\"margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Hence, the answer is <strong>Chirag - Ishika</strong>.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc5199fd885fdb53b268c84",
+          "questionNumber": 13,
+          "type": "mcq",
+          "text": "Which of the following means &lsquo;useful&rsquo; in that code language?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "po",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "jo",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "so",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either 1 or 3",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "mo",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the given information-</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F19_Antesh_2-12-2020_Swati_D4.png\" /></p>\n\n<p>Hence, &lsquo;useful&rsquo; is coded as either &lsquo;po&rsquo; or &lsquo;so&rsquo;.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc5199fd885fdb53b268c85",
+          "questionNumber": 14,
+          "type": "mcq",
+          "text": "<p>Code &lsquo;no&rsquo; is for which word in the given language?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "good",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "iphone",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "android",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "are",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "mobile",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the given information-</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F19_Antesh_2-12-2020_Swati_D4.png\" /></p>\n\n<p>Hence, &#39;no&#39; is coded for &#39;mobile&#39;.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fc5199fd885fdb53b268c86",
+          "questionNumber": 15,
+          "type": "mcq",
+          "text": "Which of the following means &lsquo;android&rsquo; in that code language?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "no",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "jo",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "ko",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "fo",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "mo",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the given information-</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/12/F19_Antesh_2-12-2020_Swati_D4.png\" /></p>\n\n<p>Hence, &lsquo;android&rsquo; is coded as &#39;jo&rsquo;.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd0e6a3a8246c59d64f37c2",
+          "questionNumber": 16,
+          "type": "mcq",
+          "text": "<p><strong>Directions: -</strong> In these questions, relationship between different elements is shown in the statements. These statements are followed by 2 conclusions. Marks answer as option given.</p>\n\n<p><strong>Statements:</strong></p>\n\n<p>C &le; D &ge; F < B > Q, Q < Y &ge; O > P;</p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. F > Y</p>\n\n<p>II. B > P</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only conclusion (I) follows",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only conclusion (II) follows",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Both conclusion (I) and (II) follows",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Either conclusion (I) or (II) follows",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Neither conclusion (I) nor (II) follows",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: 700;\">Answer:</span><span style=\"font-weight: 700;\">&nbsp;</span>Option (5)</p>\n\n<p><strong>Given Statements: </strong>C &le; D &ge; F < B > Q, Q < Y &ge; O > P;</p>\n\n<p>On combining,</p>\n\n<p>C &le; D &ge; F < B > Q < Y &ge; O > P;</p>\n\n<p><span style=\"font-weight: 700;\">Conclusions:</span></p>\n\n<p>I) F > Y &rarr; False (As per C &le; D &ge; F < B > Q < Y &ge; O > P &rarr; Relationship between F and Y can&rsquo;t be determined)</p>\n\n<p>II) B > P &rarr; False (As per C &le; D &ge; F < B > Q < Y &ge; O > P &rarr; Relationship between B and P can&rsquo;t be determined)</p>\n\n<p>Hence, <strong>neither conclusion (I) nor (II) follows.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5fd0d6fc9ffc832a884a3444",
+          "questionNumber": 17,
+          "type": "mcq",
+          "text": "<p><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;\">Direction: </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">In the following question assuming the given statements to be true, find which of the conclusion among the given conclusions is/ are definitely true and then give your answers accordingly.</span></p>\n\n<p><strong>Statements:</strong>&nbsp;P > Q > R < S =T; T > U&nbsp;<span id=\"docs-internal-guid-f392d835-7fff-123e-4928-3bd8b34dbb4e\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&le; W = X </span></span><span id=\"docs-internal-guid-556006df-7fff-6e60-965c-b2ae77906801\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ge; Y</span></span></p>\n\n<p><strong>Conclusions:</strong></p>\n\n<p>I. U < Q</p>\n\n<p>II. U&nbsp;<span id=\"docs-internal-guid-556006df-7fff-6e60-965c-b2ae77906801\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ge; Q</span></span></p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Only I follow",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Only II follow",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Either I or II follow",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Both I and II follow",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None follow",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Statements:&nbsp;P > Q > R < S =T; T > U&nbsp;<span id=\"docs-internal-guid-f392d835-7fff-123e-4928-3bd8b34dbb4e\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&le; W = X </span></span><span id=\"docs-internal-guid-556006df-7fff-6e60-965c-b2ae77906801\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ge; Y</span></span></p>\n\n<p><span style=\"white-space: pre-wrap;\">On combining: </span>P > Q > R < S =&nbsp;T > U&nbsp;<span id=\"docs-internal-guid-f392d835-7fff-123e-4928-3bd8b34dbb4e\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&le; W = X </span></span><span id=\"docs-internal-guid-556006df-7fff-6e60-965c-b2ae77906801\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ge; Y</span></span></p>\n\n<p><span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Conclusions:</span></span></p>\n\n<p>I. U < Q&nbsp;<span id=\"docs-internal-guid-d705ec41-7fff-aaf3-1b00-4d52078956e4\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rarr; (As </span></span>Q > R < S =&nbsp;T > U&nbsp;<span style=\"white-space: pre-wrap;\">&rarr; Relation between U and Q cannot be determined because </span><span id=\"docs-internal-guid-fc007d06-7fff-b3ef-17da-fab18800bf64\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">the symbols are in reverse order)</span></span></p>\n\n<p>II. U&nbsp;<span id=\"docs-internal-guid-556006df-7fff-6e60-965c-b2ae77906801\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ge; Q </span></span><span id=\"docs-internal-guid-d705ec41-7fff-aaf3-1b00-4d52078956e4\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&rarr; (As </span></span>Q > R < S =&nbsp;T > U&nbsp;<span style=\"white-space: pre-wrap;\">&rarr; Relation between U and Q cannot be determined because </span><span id=\"docs-internal-guid-fc007d06-7fff-b3ef-17da-fab18800bf64\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">the symbols are in reverse order)</span></span></p>\n\n<p><span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Both the conclusions are wrong so the Either and Or case applies.</span></span></p>\n\n<p><span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Hence, <strong>Either I or II follows.</strong></span></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ffe70f0456b4b158b569ed9",
+          "questionNumber": 18,
+          "type": "mcq",
+          "text": "What is the direction of E with respect to F?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "South",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "East",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Southwest",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Southeast",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Northeast",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the information given,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/01/F1_Sagar%20S_22-01-21_Savita_D7.png\" style=\"width: 450px; height: 357px;\" /></p>\n\n<p>From the figure, it is clear that E is to the <strong>Southwest</strong> of F.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ffe70f0456b4b158b569ed8",
+          "questionNumber": 19,
+          "type": "mcq",
+          "text": "What is the shortest distance between F and N?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "19",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "20",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "21",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "17",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "18",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the information given,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/01/F1_Sagar%20S_22-01-21_Savita_D7.png\" style=\"width: 450px; height: 357px;\" /></p>\n\n<p>From the figure ,shortest distance between F and N is FN.</p>\n\n<p>Therefore,</p>\n\n<p>FB<sup>2&nbsp;</sup>&nbsp;+ BN<sup>2&nbsp;</sup>&nbsp;= FN<sup>2</sup></p>\n\n<p>15<sup>2&nbsp;&nbsp;</sup>+ 8<sup>2&nbsp;</sup>&nbsp; =&nbsp; FN<sup>2</sup></p>\n\n<p><span style=\"font-size: 10.5px;\">FN<sup>2</sup>&nbsp;&nbsp;</span>&nbsp;=&nbsp;225 + 64&nbsp; =&nbsp; 289</p>\n\n<p>FN = 17</p>\n\n<p>Hence shortest distance between F and N is <strong>17 km.</strong></p>\n\n<p><sup>&nbsp; &nbsp;&nbsp;</sup></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ffddaf1cea40a54e3e5a2cd",
+          "questionNumber": 20,
+          "type": "mcq",
+          "text": "What is total distance travelled by car M?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "30",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "51",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "65",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "18",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "46",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>According to the information given,</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/21/01/F1_Sagar%20S_22-01-21_Savita_D7.png\" style=\"width: 450px; height: 357px;\" /></p>\n\n<p>8 + 12 + 6 + 10 + 15&nbsp; = 51</p>\n\n<p>From the figure, it is clear that the total distance travelled by car M in east direction<strong>&nbsp;51km</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5e9eddebf60d5d0a3a8e35d4",
+          "questionNumber": 21,
+          "type": "mcq",
+          "text": "If in the word &lsquo;ABSTEMIOUS&rsquo;, all the letters are arranged in the reverse alphabetical order (i.e. Z-A) and then all the vowels are changed to the previous letter and all the consonants are increased by 2, then, after the final arrangement, which of the following letters would be the eighth from the left end?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "D",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "H",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "O",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "S",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "U",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>Given word: ABSTEMIOUS</p>\n\n<p>Reverse alphabetical order (Z-A): UTSSOMIEBA</p>\n\n<p><img alt=\"\" src=\"//storage.googleapis.com/tb-img/production/20/04/Banking_Neha_9_April_35_Q_HinRev_Manoj_zahida_D19.PNG\" style=\"width: 264px; height: 130px;\" /></p>\n\n<p>Eighth letter from the left end = D</p>\n\n<p>Hence, D is the correct answer.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6380c8812d946792d8bccb70",
+          "questionNumber": 22,
+          "type": "mcq",
+          "text": "When was Keshav born?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "3rd March",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "28st April",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "3rd April",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "12th March",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Cannot be determined",
+              "image": null
+            }
+          ],
+          "correctOptionId": "5",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Persons = 12</p>\n\n<p>4 Dates = 3, 12, 21 and&nbsp;28</p>\n\n<p>3 Months = March, April and May</p>\n\n<p><span style=\"\">The person having an even number of letters in their name was born on the either 3rd or 21st and the person having an odd number of letters in their name was born on either 12th or 28th.</span></p>\n\n<p><span style=\"\">Now,</span></p>\n\n<p>1)&nbsp;<span style=\"\">Anand was born&nbsp;</span><span style=\"\">in the month having less than 31 days but&nbsp;</span><span style=\"\">not&nbsp;</span><span style=\"\">on&nbsp;12th. There are 5 letters in Anand which is an odd number that means Anand was born on an even date i.e. 28th April (the only month having 30 days).</span></p>\n\n<p><span style=\"\">2) Rohit&nbsp;was born in March but not on 28th.&nbsp;There are 5 letters in Rohit which is an odd number&nbsp;</span><span style=\"\">that means Rohit was born on an even date i.e. on 12th March.</span></p>\n\n<p><span style=\"\">3)&nbsp;Nisha is the youngest one. It means Nisha was born on 28th May.</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Month</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Date</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Person</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p><span style=\"text-align: center; \">(31 days)</span></p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>4)&nbsp;<span style=\"\">Preesha was born in March.&nbsp;</span><span style=\"\">There are 7&nbsp;letters in Preesha which is an odd number&nbsp;</span><span style=\"\">that means Preesha was born on an even date in March. The only even date available in March is&nbsp;28th.</span></p>\n\n<p>5)&nbsp;<span style=\"\">Meesha&nbsp;and Asha&nbsp;were born in May&nbsp;but Meesha&nbsp;was born before Asha.&nbsp;There are 6&nbsp;letters in Meesha and 4 letters in Asha so both of them were born on odd dates in May month.</span><span style=\"\">&nbsp;Meesha&nbsp;was born before Asha means Meesha was born on 3rd May and Asha was born on 21st May.</span></p>\n\n<p>6)&nbsp;<span style=\"\">Amit&nbsp;and Asha&nbsp;were born on the same date as of Lata and born in the months just before and after Lata respectively. It means Amit and Lata were born on 21st and the months are March and April respectively.</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>7)&nbsp;<span style=\"\">Not more than two people were born after</span><span style=\"\">&nbsp;</span><span style=\"\">Arjun.&nbsp;There are 5&nbsp;letters in Arjun which is an odd number&nbsp;</span><span style=\"\">that means Arjun was born on an even date in May. The only possible date is 12th May.</span></p>\n\n<p><span style=\"\">8)&nbsp;Pradeep was born in the month having an even number of days but wasn&#39;t born in the last of that month. Among the given months, April has 30 days which is an even number&nbsp;and there are 7 letters in Pradeep so he was born on either on 12th or 28th but not in the&nbsp;last of the month which means he was born on 12th of April.</span></p>\n\n<p><span style=\"\">9)&nbsp;</span><span style=\"\">Three persons were born between Mukesh and Ke</span><span style=\"\">shav, but there is no fixed position is given or no other information by which we can exactly place both Mukesh and Keshav so that there will be a possibility between them.</span></p>\n\n<p><span style=\"\">The&nbsp;</span><span style=\"font-weight: 700; \">final arrangement</span><span style=\"\">&nbsp;is -</span></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"text-align: center; \">Mukesh / Keshav</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Keshav / Mukesh</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Pradeep</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Arjun</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"\">Keshav was born on either 3rd March or 3rd April.</span></p>\n\n<p>Hence, the correct answer is <strong>Cannot be determined.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6383191bd87079300ef8cbd7",
+          "questionNumber": 23,
+          "type": "mcq",
+          "text": "Who was born just before Asha?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Arjun",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Meesha",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Nisha",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Lata",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Amit",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">Persons = 12</p>\n\n<p style=\"\">4 Dates = 3, 12, 21 and&nbsp;28</p>\n\n<p style=\"\">3 Months = March, April and May</p>\n\n<p style=\"\">The person having an even number of letters in their name was born on the either 3rd or 21st and the person having an odd number of letters in their name was born on either 12th or 28th.</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">1)&nbsp;Anand was born&nbsp;in the month having less than 31 days but&nbsp;not&nbsp;on&nbsp;12th. There are 5 letters in Anand which is an odd number that means Anand was born on an even date i.e. 28th April (the only month having 30 days).</p>\n\n<p style=\"\">2) Rohit&nbsp;was born in March but not on 28th.&nbsp;There are 5 letters in Rohit which is an odd number&nbsp;that means Rohit was born on an even date i.e. on 12th March.</p>\n\n<p style=\"\">3)&nbsp;Nisha is the youngest one. It means Nisha was born on 28th May.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">4)&nbsp;Preesha was born in March.&nbsp;There are 7&nbsp;letters in Preesha which is an odd number&nbsp;that means Preesha was born on an even date in March. The only even date available in March is&nbsp;28th.</p>\n\n<p style=\"\">5)&nbsp;Meesha&nbsp;and Asha&nbsp;were born in May&nbsp;but Meesha&nbsp;was born before Asha.&nbsp;There are 6&nbsp;letters in Meesha and 4 letters in Asha so both of them were born on odd dates in May month.&nbsp;Meesha&nbsp;was born before Asha means Meesha was born on 3rd May and Asha was born on 21st May.</p>\n\n<p style=\"\">6)&nbsp;Amit&nbsp;and Asha&nbsp;were born on the same date as of Lata and born in the months just before and after Lata respectively. It means Amit and Lata were born on 21st and the months are March and April respectively.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">7)&nbsp;Not more than two people were born after&nbsp;Arjun.&nbsp;There are 5&nbsp;letters in Arjun which is an odd number&nbsp;that means Arjun was born on an even date in May. The only possible date is 12th May.</p>\n\n<p style=\"\">8)&nbsp;Pradeep was born in the month having an even number of days but wasn&#39;t born in the last of that month. Among the given months, April has 30 days which is an even number&nbsp;and there are 7 letters in Pradeep so he was born on either on 12th or 28th but not in the&nbsp;last of the month which means he was born on 12th of April.</p>\n\n<p style=\"\">9)&nbsp;Three persons were born between Mukesh and Keshav,&nbsp;<span style=\"\">but there is no fixed position is given or no other information by which we can exactly place both Mukesh and Keshav so that there will be a possibility between them.</span></p>\n\n<p style=\"\">The&nbsp;<span style=\"font-weight: 700;\">final arrangement</span>&nbsp;is -</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Mukesh / Keshav</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Keshav / Mukesh</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Pradeep</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Arjun</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><span style=\"\">Arjun was born just before Asha.</span></p>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">Arjun.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6383191bd87079300ef8cbd8",
+          "questionNumber": 24,
+          "type": "mcq",
+          "text": "Who was born on 28th March?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Asha",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Meesha",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Nisha",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Preesha",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Pradeep",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">Persons = 12</p>\n\n<p style=\"\">4 Dates = 3, 12, 21 and&nbsp;28</p>\n\n<p style=\"\">3 Months = March, April and May</p>\n\n<p style=\"\">The person having an even number of letters in their name was born on the either 3rd or 21st and the person having an odd number of letters in their name was born on either 12th or 28th.</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">1)&nbsp;Anand was born&nbsp;in the month having less than 31 days but&nbsp;not&nbsp;on&nbsp;12th. There are 5 letters in Anand which is an odd number that means Anand was born on an even date i.e. 28th April (the only month having 30 days).</p>\n\n<p style=\"\">2) Rohit&nbsp;was born in March but not on 28th.&nbsp;There are 5 letters in Rohit which is an odd number&nbsp;that means Rohit was born on an even date i.e. on 12th March.</p>\n\n<p style=\"\">3)&nbsp;Nisha is the youngest one. It means Nisha was born on 28th May.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">4)&nbsp;Preesha was born in March.&nbsp;There are 7&nbsp;letters in Preesha which is an odd number&nbsp;that means Preesha was born on an even date in March. The only even date available in March is&nbsp;28th.</p>\n\n<p style=\"\">5)&nbsp;Meesha&nbsp;and Asha&nbsp;were born in May&nbsp;but Meesha&nbsp;was born before Asha.&nbsp;There are 6&nbsp;letters in Meesha and 4 letters in Asha so both of them were born on odd dates in May month.&nbsp;Meesha&nbsp;was born before Asha means Meesha was born on 3rd May and Asha was born on 21st May.</p>\n\n<p style=\"\">6)&nbsp;Amit&nbsp;and Asha&nbsp;were born on the same date as of Lata and born in the months just before and after Lata respectively. It means Amit and Lata were born on 21st and the months are March and April respectively.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">7)&nbsp;Not more than two people were born after&nbsp;Arjun.&nbsp;There are 5&nbsp;letters in Arjun which is an odd number&nbsp;that means Arjun was born on an even date in May. The only possible date is 12th May.</p>\n\n<p style=\"\">8)&nbsp;Pradeep was born in the month having an even number of days but wasn&#39;t born in the last of that month. Among the given months, April has 30 days which is an even number&nbsp;and there are 7 letters in Pradeep so he was born on either on 12th or 28th but not in the&nbsp;last of the month which means he was born on 12th of April.</p>\n\n<p style=\"\">9)&nbsp;Three persons were born between Mukesh and Keshav<span style=\"\">, but there is no fixed position is given or no other information by which we can exactly place both Mukesh and Keshav so that there will be a possibility between them.</span></p>\n\n<p style=\"\">The&nbsp;<span style=\"font-weight: 700;\">final arrangement</span>&nbsp;is -</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Mukesh / Keshav</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Keshav / Mukesh</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Pradeep</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Arjun</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\"><span style=\"\">Preesha was born on 28th March</span></p>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">Preesha.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6383191bd87079300ef8cbd9",
+          "questionNumber": 25,
+          "type": "mcq",
+          "text": "Find the odd one out:",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rohit",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Amit",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Pradeep",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Meesha",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Arjun",
+              "image": null
+            }
+          ],
+          "correctOptionId": "3",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">Persons = 12</p>\n\n<p style=\"\">4 Dates = 3, 12, 21 and&nbsp;28</p>\n\n<p style=\"\">3 Months = March, April and May</p>\n\n<p style=\"\">The person having an even number of letters in their name was born on the either 3rd or 21st and the person having an odd number of letters in their name was born on either 12th or 28th.</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">1)&nbsp;Anand was born&nbsp;in the month having less than 31 days but&nbsp;not&nbsp;on&nbsp;12th. There are 5 letters in Anand which is an odd number that means Anand was born on an even date i.e. 28th April (the only month having 30 days).</p>\n\n<p style=\"\">2) Rohit&nbsp;was born in March but not on 28th.&nbsp;There are 5 letters in Rohit which is an odd number&nbsp;that means Rohit was born on an even date i.e. on 12th March.</p>\n\n<p style=\"\">3)&nbsp;Nisha is the youngest one. It means Nisha was born on 28th May.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">4)&nbsp;Preesha was born in March.&nbsp;There are 7&nbsp;letters in Preesha which is an odd number&nbsp;that means Preesha was born on an even date in March. The only even date available in March is&nbsp;28th.</p>\n\n<p style=\"\">5)&nbsp;Meesha&nbsp;and Asha&nbsp;were born in May&nbsp;but Meesha&nbsp;was born before Asha.&nbsp;There are 6&nbsp;letters in Meesha and 4 letters in Asha so both of them were born on odd dates in May month.&nbsp;Meesha&nbsp;was born before Asha means Meesha was born on 3rd May and Asha was born on 21st May.</p>\n\n<p style=\"\">6)&nbsp;Amit&nbsp;and Asha&nbsp;were born on the same date as of Lata and born in the months just before and after Lata respectively. It means Amit and Lata were born on 21st and the months are March and April respectively.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">7)&nbsp;Not more than two people were born after&nbsp;Arjun.&nbsp;There are 5&nbsp;letters in Arjun which is an odd number&nbsp;that means Arjun was born on an even date in May. The only possible date is 12th May.</p>\n\n<p style=\"\">8)&nbsp;Pradeep was born in the month having an even number of days but wasn&#39;t born in the last of that month. Among the given months, April has 30 days which is an even number&nbsp;and there are 7 letters in Pradeep so he was born on either on 12th or 28th but not in the&nbsp;last of the month which means he was born on 12th of April.</p>\n\n<p style=\"\">9)&nbsp;Three persons were born between Mukesh and Keshav<span style=\"\">, but there is no fixed position is given or no other information by which we can exactly place both Mukesh and Keshav so that there will be a possibility between them.</span></p>\n\n<p style=\"\">The&nbsp;<span style=\"font-weight: 700;\">final arrangement</span>&nbsp;is -</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\" width: 250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Month</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Date</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"font-weight: 700;\">Person</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>March</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Mukesh / Keshav</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Rohit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Amit</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Preesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>April</p>\n\n\t\t\t<p>(30 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Keshav / Mukesh</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Pradeep</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Lata</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Anand</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"4\" style=\"text-align: center;\">\n\t\t\t<p>May</p>\n\n\t\t\t<p>(31 days)</p>\n\t\t\t</td>\n\t\t\t<td style=\"text-align: center;\">03</td>\n\t\t\t<td style=\"text-align: center;\">Meesha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">Arjun</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">21</td>\n\t\t\t<td style=\"text-align: center;\">Asha</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">Nisha</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">All the given options except Pradeep are born in months having 31 days.</p>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<strong><span style=\"\">Pradeep</span></strong><span style=\"font-weight: 700;\">.</span></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:04:53.405Z",
+    "solutionsCount": 25,
+    "isComplete": true
+  }
+}

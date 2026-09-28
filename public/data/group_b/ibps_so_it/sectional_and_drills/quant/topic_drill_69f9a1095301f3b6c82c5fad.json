@@ -1,0 +1,469 @@
+{
+  "testId": "69f9a1095301f3b6c82c5fad",
+  "title": "CT 12: Quantitative Aptitude (Compound Interest)",
+  "exam": "IBPS SO IT Officer",
+  "sectionCategory": "Quantitative Aptitude",
+  "subsectionCategory": "Chapter Test",
+  "pattern": "TOPIC_DRILL",
+  "stage": "PRACTICE",
+  "hasITInPrelims": false,
+  "totalQuestions": 10,
+  "totalDurationMinutes": 8,
+  "totalMarks": 10,
+  "sections": [
+    {
+      "id": "64f828347647e9f69fe0204f",
+      "name": "Test",
+      "durationMinutes": 20,
+      "maxMarks": 10,
+      "isProfessionalIT": false,
+      "questions": [
+        {
+          "id": "65340cb1a996caf437632138",
+          "questionNumber": 1,
+          "type": "mcq",
+          "text": "Alpha and Beta each invested Rs. 10,000 for 2 years at the same rate of interest of 10% p.a., but Beta&rsquo;s investment is compounded annually and Alpha&rsquo;s investment is charged on simple interest. What amount did Beta receive more than Alpha?",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs.&nbsp;150",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs.&nbsp;100",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs.&nbsp;200",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "More than one of the above",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p>The correct answer is Rs 100.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>&nbsp;Simple interest is calculated using the formula:</p>\n\n<p>Simple Interest = Principal &times; Rate &times; Time<br />\nIn this case, the principal is Rs. 10,000, the rate is 10% p.a., and the time is 2 years. Therefore, Alpha&#39;s simple interest would be:</p>\n\n<p>Simple Interest = Rs. 10,000 &times; 10% &times; 2 years = Rs. 2,000<br />\nBeta&#39;s Compound Interest (Annual Compounding):</p>\n\n<p>Compound interest is calculated by compounding the interest earned each period. In this case, the interest is compounded annually. The formula for compound interest is:</p>\n\n<p>Amount = Principal &times; (1 + Rate/Number of Compounding Periods)^Number of Periods<br />\nIn this case, the principal is Rs. 10,000, the rate is 10% p.a., the number of compounding periods is 2 (since the interest is compounded annually), and the number of periods is also 2 (since the investment period is 2 years). Therefore, Beta&#39;s compound interest would be:</p>\n\n<p>Amount = Rs. 10,000 &times; (1 + 10%/2)^2 = Rs. 2,100<br />\nDifference in Amount Received:</p>\n\n<p>To determine the difference in the amount received by Alpha and Beta, we subtract Alpha&#39;s simple interest from Beta&#39;s compound interest:</p>\n\n<p>Difference = Beta&#39;s Compound Interest - Alpha&#39;s Simple Interest<br />\nSubstituting the calculated values, we get:</p>\n\n<p>Difference = Rs. 2,100 - Rs. 2,000 = Rs. 100<br />\nTherefore, Beta received Rs. 100 more than Alpha due to the difference in compounding methods.</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "604b9d8f485d3bd2ef43ee4d",
+          "questionNumber": 2,
+          "type": "mcq",
+          "text": "<p>Keya borrows Rs 25000 from shree at 10% compound rate of interest. At the end of each year she pays Rs 8000 back to shree. At the end of year 3 how much amount would be left for her to pay?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs 6795",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs 5845",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs 7965",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs 4795",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs 7435",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Formula used:</strong></p>\n\n<p>C.I= P ((1 + (r / 100))<sup>&nbsp;N</sup>&nbsp;-1))</p>\n\n<p>Where, P = Principal amount,</p>\n\n<p>R = Rate of interest</p>\n\n<p>N = Number of years</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Amount to be paid at end of year 1 = 25000 &times; (1 + 0.10)</p>\n\n<p>&rArr; Amount = 27500</p>\n\n<p>&rArr; P for Year 2 = 27500 &ndash; 8000</p>\n\n<p>&rArr; P = 19500</p>\n\n<p>&rArr; A for year 2 = 19500 &times; 1.10</p>\n\n<p>&rArr; A = 21450</p>\n\n<p>&rArr; P for year 3 = 21450 &ndash; 8000</p>\n\n<p>&rArr; P = 13450</p>\n\n<p>&rArr; A for year 3 = 13450 &times; 1.10</p>\n\n<p>&rArr; A = 14795</p>\n\n<p>&rArr; P for year 4 = 14795 &ndash; 8000</p>\n\n<p>&rArr; P for year 4 = 6795</p>\n\n<p><strong>&there4;</strong><strong> at end of year 3 keya will have to pay Rs 6795 to shree</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5ff734fb2e66d66988a7394d",
+          "questionNumber": 3,
+          "type": "mcq",
+          "text": "<p>A sum of money amounts to Rs. 3600 in 4 years and Rs. 5400 in 6 years on a certain rate of compound interest. What will be the amount after 10 years with the same rate of interest?</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 11500",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 11300",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 14500",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 12150",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 13500",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Amount after 4 years = Rs. 3600</p>\n\n<p>Amount after 6 years = Rs. 5400</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>A =&nbsp;<span class=\"math-tex\">\\({\\rm{P\\;}}{\\left( {1{\\rm{\\;}} + \\frac{{\\rm{r}}}{{100}}} \\right)^{\\rm{n}}}{\\rm{\\;}}\\)</span></p>\n\n<p>here, A = Principal + Interest</p>\n\n<p>P = Principal</p>\n\n<p>r = rate of interest</p>\n\n<p>n = no. of years</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Rs. 3600 =&nbsp;<span class=\"math-tex\">\\({\\rm{P\\;}}{\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)^4}\\)</span>&nbsp; &nbsp; &nbsp; ----(i)</p>\n\n<p>Rs. 5400 =&nbsp;<span class=\"math-tex\">\\({\\rm{P\\;}}{\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)^6}\\)</span>&nbsp; &nbsp; &nbsp; ----(ii)</p>\n\n<p>&rArr; From (ii) &divide; (i) we get</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{5400}}{{3600}} = \\frac{{{\\rm{P}}{{\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)}^6}}}{{{\\rm{P}}{{\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)}^4}}}{\\rm{\\;}}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{3}{2} = {\\rm{\\;}}{\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)^2}\\)</span></p>\n\n<p><span class=\"math-tex\">\\({\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)^4}\\)</span>&nbsp;= (3/2)<sup>2</sup></p>\n\n<p>Now, after 10 years the amount</p>\n\n<p>Amount =&nbsp;<span class=\"math-tex\">\\({\\rm{P\\;}}{\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)^{10}}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\({\\rm{P\\;}}{\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)^6}\\)</span>&nbsp;<span class=\"math-tex\">\\({\\left( {1 + \\frac{{\\rm{r}}}{{100}}} \\right)^4}\\)</span></p>\n\n<p>A = 5400 (3/2)<sup>2</sup> = Rs. 12150</p>\n\n<p><strong>&there4; Amount will be Rs. 12150</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></p>\n\n<p>3600 in 4 years</p>\n\n<p>5400 in 6 years</p>\n\n<p>Ratio of 2 years = 2 : 3</p>\n\n<p>Ratio of 4 years = 4 : 9</p>\n\n<p>&rArr; 5400&nbsp;&times; 9/4 = Rs. 12150</p>\n\n<p><span style=\"font-weight: 700;\">&there4; After ten years amount will be Rs. 12150</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "63e4bf4d8530efe65ad01c7d",
+          "questionNumber": 4,
+          "type": "mcq",
+          "text": "<p>&nbsp;A principal amount of Rs. 3000&nbsp;is invested for two years, giving a compound interest of Rs. 967.5.&nbsp;Find the compound interest compounded semi-annually&nbsp;at the same rate of interest on the same&nbsp;principal amount for 1 year.&nbsp;</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "466.88 Rs.",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "462.87&nbsp;<span style=\"\">Rs.</span>",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "480.25&nbsp;<span style=\"\">Rs.</span>",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "470.5&nbsp;<span style=\"\">Rs.</span>",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "460.56&nbsp;<span style=\"\">Rs.</span>",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The principal amount&nbsp;of Rs. 3000&nbsp;is invested for two years</span></p>\n\n<p><span style=\"\">Compound interest earned = Rs. 967.5 Rs.&nbsp;</span></p>\n\n<p><strong><span style=\"\">Formula used:</span></strong></p>\n\n<p><span style=\"\">Compound interest = P(1 + R/100)<sup>T</sup>&nbsp;-&nbsp;P</span></p>\n\n<p><span style=\"\">P = Principal , R = interest rate , T = time</span></p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p><span style=\"\">&rArr; 967.5 = 3000&nbsp;&times; (1 + R/100)<sup>2</sup>&nbsp;- 3000</span></p>\n\n<p><span style=\"\">&rArr; 1.3225 = (1 + R/100)<sup>2</sup></span></p>\n\n<p><span style=\"\">&rArr; 1.15 = 1 + R/100</span></p>\n\n<p><span style=\"\">&rArr; R = 15</span></p>\n\n<p><span style=\"\">Now,</span></p>\n\n<p><span style=\"\">For half-yearly compound interest calculation</span></p>\n\n<p><span style=\"\">P = 3000, R = 15/2 = 7.5, T = 1&nbsp;&times; 2 = 2</span></p>\n\n<p>So compound interest = 3000&nbsp;&times; (1 + 7.5/100)<span style=\"font-size: 10.5px;\">2</span>&nbsp;- 3000</p>\n\n<p><span style=\"\">&rArr; 3000&nbsp;&times; (43/40)<sup>2&nbsp;</sup>- 3000</span></p>\n\n<p><span style=\"\">&rArr; <strong>466.875 Rs.&nbsp;&asymp; 466.88 Rs</strong></span></p>\n\n<p><span style=\"\">Hence, the correct answer is <strong>option 1.</strong></span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f467d014edeb869323e088b",
+          "questionNumber": 5,
+          "type": "mcq",
+          "text": "<span style=\" line-height: 107%;   background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Rahul invested Rs. 20,000 with rate of interest at 10% per annum. The interest was compounded half yearly for first year and in the next year it was compounded yearly. What will be the total interest earned at the end of two years?</span>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "4255",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "26305",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "34625",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "29550",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "32550",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">Invested amount = 20000</p>\n\n<p style=\"\">Rate of interest = 10% p.a.</p>\n\n<p style=\"\"><strong style=\"\">Concept:</strong></p>\n\n<p style=\"\">For the first year compounded half yearly and for the second year compounded yearly</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Amount = [20000 &times; (1 + (5/ 100))<sup>2</sup>&nbsp;&times; (1 + (10/100))]</p>\n\n<p style=\"\">&rArr; Amount = 20000 &times; (21/20) &times; (21/20) &times; (11 /10)</p>\n\n<p style=\"\">&rArr; Amount = 24,255</p>\n\n<p style=\"\">&there4; Compound interest = Amount &ndash; Principle</p>\n\n<p style=\"\">&rArr; 24255 &ndash; 20000 = 4255</p>\n\n<p style=\"\">&nbsp;</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "60adf1e5d2c478546c555120",
+          "questionNumber": 6,
+          "type": "mcq",
+          "text": "Sounak and Rounak each invested a certain amount of money in the ratio 3 ∶ 4 at a compound interest rate of 20% and 30% per year, respectively. They collected Rs. 8160 in total interest after two years.&nbsp;Find the sum invested by Rounak.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "6000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "4000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "8000",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of these",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p>We can use the successive method</p>\n\n<p>a&nbsp;+&nbsp;b + (ab/100)</p>\n\n<p><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p>Let the sum invested by Sounak be 300x</p>\n\n<p>So, interest received by him = 300x&nbsp;&times; {20 + 20 + (20&nbsp;&times; 20)/100} = 132x</p>\n\n<p>Let the sum invested by Rounak be 400x</p>\n\n<p>So, interest received by him = 400x&nbsp;&times; {30 + 30 + (30&nbsp;&times; 30)/100} = 276x</p>\n\n<p>So, the total interest = (132x + 276x) = 408x</p>\n\n<p>As per the question, we can say,</p>\n\n<p>408x = 8160</p>\n\n<p>&rArr; x = 20</p>\n\n<p>So, Rounak&#39;s investment = 400x = (400&nbsp;&times; 20) = 8000</p>\n\n<p><span style=\"font-weight: 700;\">&there4; The sum invested by Rounak is Rs. 8000.</span></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></strong></p>\n\n<p><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p>The ratio between the sum invested by Sounak and Rounak respectively is 3&nbsp;∶&nbsp;4</p>\n\n<p>Sounak invested at the rate of 20% per annum compounded annually&nbsp;</p>\n\n<p>Rounak&nbsp;invested at the rate of 30% per annum compounded annually&nbsp;</p>\n\n<p>The total interest received by them is Rs. 8160</p>\n\n<p>The total time period is 2 years</p>\n\n<p><span style=\"font-weight: 700;\">Formula used:</span></p>\n\n<p>C.I = P[{1 + (R/100)}<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">n</span>&nbsp;- 1]</p>\n\n<p>Where C.I = Compound interest, P = Principal, R = Rate, n = total time period</p>\n\n<p><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p>Here, Total C.I = Rs. 8160</p>\n\n<p>R = 20%, 30%</p>\n\n<p>t = 2 years</p>\n\n<p>Let Sounak&#39;s sum be 3x and Rounak&#39;s sum be 4x</p>\n\n<p>Let interest received by Sounak and Rounak be C.I<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">S</span>&nbsp;and C.I<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">R</span>&nbsp;respectively,</p>\n\n<p>Now, according to the question, we can say</p>\n\n<p>C.I<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">S</span>&nbsp;= 3x[{1 + (20/100)}<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- 1]</p>\n\n<p>&rArr; C.I<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">S</span>&nbsp;= 3x&nbsp;&times; (44/100)</p>\n\n<p>C.I<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">R</span>&nbsp;= 4x[{1 + (30/100)}<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- 1]</p>\n\n<p>&rArr; C.I<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">R</span>&nbsp;= 4x&nbsp;&times; (69/100)</p>\n\n<p>Now, again we can say,</p>\n\n<p>[3x&nbsp;&times; (44/100) + 4x&nbsp;&times; (69/100)] = 8160</p>\n\n<p>&rArr; [(12x/100)&nbsp;&times; (23 + 11)] = 8160</p>\n\n<p>&rArr; [(12x/100)&nbsp;&times; 34] = 8160</p>\n\n<p>&rArr; x = 2000</p>\n\n<p>Rounak&#39;s sum = 4x = 4&nbsp;&times; 2000 = 8000</p>\n\n<p><span style=\"font-weight: 700;\">&there4; The sum invested by Rounak is Rs. 8000.</span></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "66b9e2b59bea2273a38257d6",
+          "questionNumber": 7,
+          "type": "mcq",
+          "text": "A sum of Rs. 10,000 is borrowed by Akshit for 2 years at an interest of 10% compounded annually. Find the compound interest and amount he has to pay at the end of 2 years.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "2100, 12200",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "2200, 12200",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "2200, 12100",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "2100, 12100",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "None of the above",
+              "image": null
+            }
+          ],
+          "correctOptionId": "4",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Principal (P) = Rs. 10,000</p>\n\n<p>Rate of interest (R) = 10%</p>\n\n<p>Time (T) = 2 years</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Compound Interest (CI) = P (1 + R/100)<sup>T</sup> - P</p>\n\n<p>Amount (A) = P + CI</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Step 1: Calculate the amount after 2 years.</p>\n\n<p>&rArr; A = 10,000 (1 + 10/100)<sup>2</sup></p>\n\n<p>&rArr; A = 10,000 (1 + 0.10)<sup>2</sup></p>\n\n<p>&rArr; A = 10,000 (1.10)<sup>2</sup></p>\n\n<p>&rArr; A = 10,000 &times; 1.21</p>\n\n<p>&rArr; A = 12,100</p>\n\n<p>Step 2: Calculate the compound interest.</p>\n\n<p>&rArr; CI = A - P</p>\n\n<p>&rArr; CI = 12,100 - 10,000</p>\n\n<p>&rArr; CI = 2,100</p>\n\n<p><strong>The compound interest is Rs. 2,100 and the amount he has to pay at the end of 2 years is Rs. 12,100.</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f0f7d5897b61808d3942bb4",
+          "questionNumber": 8,
+          "type": "mcq",
+          "text": "Find the amount of compound interest, if the sum of money borrowed is Rs 10,000 for 2 years and rate of interest is 4 % per annum compounded annually for the first year and 6 % per annum compound annually for the second year.",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 1024",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 990",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 984",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 1120",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 1208",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Principal = RS 5,000; T = 2 years; R<sub>1</sub> = 4 %; R<sub>2</sub> = 6 %</p>\n\n<p><strong>To find:</strong></p>\n\n<p>Amount = ?</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>A = P(1 + R<sub>1 </sub>%)(1 + R<sub>2</sub> %)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>A = P(1 + R<sub>1 </sub>%)(1 + R<sub>2</sub> %)</p>\n\n<p>= 10,000 (1+ 4 %) ( 1 + 6 %)</p>\n\n<p>= Rs 11,024</p>\n\n<p>C.I = Amount &ndash; Principal</p>\n\n<p>= Rs (11,024 &ndash; 10,000)</p>\n\n<p>= Rs 1,024</p>",
+          "topic": "Test"
+        },
+        {
+          "id": "5f1aebd55d269d0d0d6c454f",
+          "questionNumber": 9,
+          "type": "mcq",
+          "text": "A sum of Rs. 20,000 is invested at compound interest for 2 years at two different rates of interest of 10% per annum for the first year and 5% per annum for the next year. Find the compound interest earned after two years.&nbsp;",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 3100",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 3600",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 2300",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 4200",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 5500",
+              "image": null
+            }
+          ],
+          "correctOptionId": "1",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">A sum of Rs. 20000 is invested at compound interest for 2 years</p>\n\n<p style=\"\">Rate of interest = 10%&nbsp;per annum first year and 5% per annum second year</p>\n\n<p style=\"\"><strong style=\"\">Formula Used:</strong></p>\n\n<p style=\"\">Compound Interest = P(1 + R/100)<sup style=\"\">N </sup>&ndash; P</p>\n\n<p style=\"\">P = principal, R = rate of interest and N = time</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Compound Interest = P(1 + R/100)<sup style=\"\">N </sup>&ndash; P</p>\n\n<p style=\"\">Compound interest = 20000(1 + 10/100) &times; (1 + 5/100) &ndash; 20000</p>\n\n<p style=\"\">&rArr; 20000 &times; (110/100 &times; 105/100) &ndash; 20000</p>\n\n<p style=\"\">&rArr; 3100</p>\n\n<p style=\"\"><strong>&there4; Compound interest earned after two years is Rs. 3100</strong></p>",
+          "topic": "Test"
+        },
+        {
+          "id": "6080fa7e7cf4efab768950dd",
+          "questionNumber": 10,
+          "type": "mcq",
+          "text": "<p>Banks decided&nbsp;to reduce the interest rate of money deposited with them from 8% to 5% in lieu of COVID-19. If Ram deposited Rs. 8 lakh and after one year, the rate reduction&nbsp;was implemented, then find how much will be his loss at the end of 3&nbsp;years from depositing at simple interest.</p>",
+          "image": null,
+          "options": [
+            {
+              "id": "1",
+              "label": "1",
+              "text": "Rs. 12,000",
+              "image": null
+            },
+            {
+              "id": "2",
+              "label": "2",
+              "text": "Rs. 48,000",
+              "image": null
+            },
+            {
+              "id": "3",
+              "label": "3",
+              "text": "Rs. 36,000",
+              "image": null
+            },
+            {
+              "id": "4",
+              "label": "4",
+              "text": "Rs. 1,20,400",
+              "image": null
+            },
+            {
+              "id": "5",
+              "label": "5",
+              "text": "Rs. 5500&nbsp;",
+              "image": null
+            }
+          ],
+          "correctOptionId": "2",
+          "marks": 1,
+          "negativeMarks": 0.25,
+          "explanation": "<p><strong>Given:</strong></p>\n\n<p>Initial interest rate = 8%</p>\n\n<p>Interest rate after reduction = 5%</p>\n\n<p>Amount Ram deposited = Rs. 8 lakh</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Simple interest =&nbsp;PRT/100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>For the first year, rate of interest = 8%</p>\n\n<p>Interest obtained for first-year = 8,00,000 &times; 1&nbsp;&times; 8/100 = Rs. 64,000</p>\n\n<p>Interest obtained for 2nd and 3 rd years =&nbsp;8,00,000 &times; 2&nbsp;&times; 5/100 = Rs. 80,000</p>\n\n<p>Interest he will get for 3&nbsp;years if 8% was used = 3&nbsp;&times;&nbsp;64,000 = Rs. 1,92,000</p>\n\n<p>Amount he lost due to reduction =&nbsp;1,92,000 - (64,000 + 80,000) = Rs. 48,000</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p>Amount he lost due to reduction = 2 years&nbsp;&times;&nbsp;3% of Rs. 8,00,000 = Rs. 48,000</p>\n\n<p><strong>&there4; The amount he lost due to reduction is Rs. 48,000.</strong></p>",
+          "topic": "Test"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scrapedAt": "2026-08-20T10:05:28.048Z",
+    "solutionsCount": 10,
+    "isComplete": true
+  }
+}

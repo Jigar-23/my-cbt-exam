@@ -1,0 +1,188 @@
+name: CBT Exam Master 2026 - Multi-Platform CI/CD
+
+on:
+  push:
+    branches: [ main, master ]
+    tags:
+      - 'v*'
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # =========================================================================
+  # JOB 1: WEB BUILD & VERIFICATION
+  # =========================================================================
+  build-web:
+    name: Build Web Static Export
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Next.js Static Export
+        run: npm run build
+
+      - name: Upload Web Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cbt-web-export
+          path: out/
+          retention-days: 14
+
+  # =========================================================================
+  # JOB 2: ANDROID BUILD (APK & AAB)
+  # =========================================================================
+  build-android:
+    name: Build Android APK
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Setup Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: 17
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Next.js
+        run: npm run build
+
+      - name: Sync Capacitor Android
+        run: npx cap sync android
+
+      - name: Make Gradle Wrapper Executable
+        run: chmod +x android/gradlew
+
+      - name: Assemble Android Debug APK
+        run: |
+          cd android
+          ./gradlew assembleDebug
+
+      - name: Upload Android APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: cbt-android-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          retention-days: 14
+
+  # =========================================================================
+  # JOB 3: DESKTOP MACOS (DMG & ZIP)
+  # =========================================================================
+  build-desktop-macos:
+    name: Build macOS Desktop App (.dmg / .zip)
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Package macOS App
+        env:
+          CSC_IDENTITY_AUTO_DISCOVERY: false
+        run: npm run desktop:build
+
+      - name: Upload macOS Deliverables
+        uses: actions/upload-artifact@v4
+        with:
+          name: cbt-desktop-macos
+          path: |
+            dist/*.dmg
+            dist/*.zip
+          retention-days: 14
+
+  # =========================================================================
+  # JOB 4: DESKTOP WINDOWS (.exe NSIS & Portable)
+  # =========================================================================
+  build-desktop-windows:
+    name: Build Windows Desktop App (.exe)
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Package Windows App
+        run: |
+          npm run build
+          npx electron-builder --win
+
+      - name: Upload Windows Deliverables
+        uses: actions/upload-artifact@v4
+        with:
+          name: cbt-desktop-windows
+          path: dist/*.exe
+          retention-days: 14
+
+  # =========================================================================
+  # JOB 5: AUTOMATED GITHUB RELEASE (On Tag Push v*)
+  # =========================================================================
+  publish-release:
+    name: Publish Release Deliverables
+    needs: [build-web, build-android, build-desktop-macos, build-desktop-windows]
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download all build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: release-artifacts/
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            release-artifacts/cbt-android-debug-apk/*.apk
+            release-artifacts/cbt-desktop-macos/*.dmg
+            release-artifacts/cbt-desktop-macos/*.zip
+            release-artifacts/cbt-desktop-windows/*.exe
+          draft: false
+          prerelease: false
+          generate_release_notes: true
