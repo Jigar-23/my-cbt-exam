@@ -1,7 +1,7 @@
 'use client';
 
-import React from 'react';
-import { X } from 'lucide-react';
+import React, { useState } from 'react';
+import { X, Layers } from 'lucide-react';
 import MathRenderer from './MathRenderer';
 
 interface QuestionPaperModalProps {
@@ -17,7 +17,15 @@ export default function QuestionPaperModal({
   testData,
   currentSectionIndex,
 }: QuestionPaperModalProps) {
+  const [selectedSectionIdx, setSelectedSectionIdx] = useState<number | 'all'>(currentSectionIndex ?? 0);
+
   if (!isOpen || !testData) return null;
+
+  const sections = testData.sections || [];
+  const visibleSections =
+    selectedSectionIdx === 'all'
+      ? sections
+      : [sections[selectedSectionIdx] || sections[0]].filter(Boolean);
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-xs p-4 animate-in fade-in duration-150">
@@ -36,9 +44,38 @@ export default function QuestionPaperModal({
           </button>
         </div>
 
+        {/* Section Tabs for Instant Rendering and Thread Safety */}
+        {sections.length > 1 && (
+          <div className="bg-slate-100 border-b border-slate-200 px-4 py-2 flex items-center space-x-1.5 overflow-x-auto">
+            {sections.map((sec: any, idx: number) => (
+              <button
+                key={sec.id || idx}
+                onClick={() => setSelectedSectionIdx(idx)}
+                className={`px-3 py-1.5 rounded-md text-xs font-semibold whitespace-nowrap transition-colors ${
+                  selectedSectionIdx === idx
+                    ? 'bg-blue-600 text-white shadow-xs'
+                    : 'bg-white text-slate-700 hover:bg-slate-200 border border-slate-300'
+                }`}
+              >
+                {sec.name} ({sec.questions?.length || 0})
+              </button>
+            ))}
+            <button
+              onClick={() => setSelectedSectionIdx('all')}
+              className={`px-3 py-1.5 rounded-md text-xs font-semibold whitespace-nowrap transition-colors ${
+                selectedSectionIdx === 'all'
+                  ? 'bg-blue-600 text-white shadow-xs'
+                  : 'bg-white text-slate-700 hover:bg-slate-200 border border-slate-300'
+              }`}
+            >
+              All Sections
+            </button>
+          </div>
+        )}
+
         {/* Modal Content */}
         <div className="p-6 overflow-y-auto space-y-6 text-sm text-slate-800">
-          {(testData.sections || []).map((sec: any, sIdx: number) => (
+          {visibleSections.map((sec: any, sIdx: number) => (
             <div key={sIdx} className="border border-slate-200 rounded-md overflow-hidden">
               <div className="bg-slate-100 px-4 py-2 font-semibold text-slate-700 border-b border-slate-200 flex justify-between items-center">
                 <span>{sec.name}</span>

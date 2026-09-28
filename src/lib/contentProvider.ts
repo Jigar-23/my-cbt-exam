@@ -388,7 +388,7 @@ export class GoogleDriveContentProvider implements ContentProvider {
         (relativePath ? testIndex[relativePath.split('/').pop() || ''] : undefined);
 
       if (mappedPath) {
-        const cleanUrl = '/' + mappedPath.replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
+        const cleanUrl = '/' + mappedPath.replace(/\\/g, '/').replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
         const res = await fetch(cleanUrl);
         if (res.ok) {
           const raw = await res.json();
@@ -403,8 +403,8 @@ export class GoogleDriveContentProvider implements ContentProvider {
     }
 
     // 3. Fallback to direct local candidate paths
-    const filename = testItem?.filename || relativePath?.split('/').pop() || '';
-    const cleanPath = (relativePath || '').replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
+    const filename = testItem?.filename || relativePath?.replace(/\\/g, '/').split('/').pop() || '';
+    const cleanPath = (relativePath || '').replace(/\\/g, '/').replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
     const candidatePaths = [
       `/data/${cleanPath}`,
       `/data/group_b/${cleanPath}`,
