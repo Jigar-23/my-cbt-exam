@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "CBT Exam Master 2026",
   description: "CBT Exam Master 2026 - Computer Based Test Simulator",
+  manifest: "/site.webmanifest",
 };
 
 export const viewport: Viewport = {

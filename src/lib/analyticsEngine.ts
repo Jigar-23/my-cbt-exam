@@ -300,7 +300,7 @@ export function evaluateAttempt(
       maxMarks: secMaxMarks,
       accuracyPercentage: secAccuracy,
       totalTimeSpentSeconds: secTimeSpentSec,
-      avgTimePerAttemptSeconds: secAttempted > 0 ? Math.round(secTimeSpentSec / secAttempted) : 0,
+      avgTimePerAttemptSeconds: secAttempted > 0 ? Math.round((secCorrectTimeSec + secIncorrectTimeSec) / secAttempted) : 0,
       avgTimeCorrectSeconds: secCorrect > 0 ? Math.round(secCorrectTimeSec / secCorrect) : 0,
       avgTimeIncorrectSeconds: secIncorrect > 0 ? Math.round(secIncorrectTimeSec / secIncorrect) : 0,
     });
@@ -379,7 +379,12 @@ export function evaluateAttempt(
       timeSpentOnIncorrectSeconds: timeSpentOnIncorrectSec,
       timeSpentOnUnattemptedSeconds: timeSpentOnUnattemptedSec,
       timeWastedSeconds: timeWastedSec,
-      avgTimePerQuestionSeconds: overallAttemptedCount > 0 ? Math.round(totalActiveTimeSpentSec / overallAttemptedCount) : 0,
+      avgTimePerQuestionSeconds:
+        overallAttemptedCount > 0
+          ? Math.round((timeSpentOnCorrectSec + timeSpentOnIncorrectSec) / overallAttemptedCount)
+          : questionsAnalysis.length > 0
+          ? Math.round(totalActiveTimeSpentSec / questionsAnalysis.length)
+          : 0,
       avgTimeCorrectSeconds: overallCorrectCount > 0 ? Math.round(timeSpentOnCorrectSec / overallCorrectCount) : 0,
       avgTimeIncorrectSeconds: overallIncorrectCount > 0 ? Math.round(timeSpentOnIncorrectSec / overallIncorrectCount) : 0,
       timeTrapsCount,

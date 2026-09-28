@@ -151,9 +151,14 @@ export async function saveCompletedAttempt(attempt: AttemptRecord): Promise<void
 }
 
 /**
- * Retrieves all saved exam attempts, sorted by newest submission first.
+ * Retrieves all saved exam attempts, reconciling IndexedDB and LocalStorage fallback.
+ * Automatically backfills missing fallback records and excludes tombstoned items.
  */
 export async function getAllAttempts(): Promise<AttemptRecord[]> {
+  const map = new Map<string, AttemptRecord>();
+  const tombstones = new Set<string>(getDeletedTombstones());
+
+  // 1. Read from IndexedDB
   try {
     const db = await openDatabase();
     const records = await new Promise<AttemptRecord[]>((resolve, reject) => {
@@ -165,23 +170,43 @@ export async function getAllAttempts(): Promise<AttemptRecord[]> {
     });
 
     if (records && records.length > 0) {
-      return records.sort((a, b) => b.submittedAt - a.submittedAt);
+      for (const r of records) {
+        if (!tombstones.has(r.attemptId)) {
+          map.set(r.attemptId, r);
+        }
+      }
     }
   } catch {
     // Read from fallback
   }
 
+  // 2. Read from LocalStorage fallback & backfill if needed
+  const toBackfill: AttemptRecord[] = [];
   try {
     const existingRaw = localStorage.getItem(LOCAL_STORAGE_KEY_ATTEMPTS);
     if (existingRaw) {
       const list: AttemptRecord[] = JSON.parse(existingRaw);
-      return list.sort((a, b) => b.submittedAt - a.submittedAt);
+      for (const r of list) {
+        if (!tombstones.has(r.attemptId) && !map.has(r.attemptId)) {
+          map.set(r.attemptId, r);
+          toBackfill.push(r);
+        }
+      }
     }
   } catch (e) {
     console.error('Failed to read from localStorage fallback:', e);
   }
 
-  return [];
+  // 3. Asynchronously backfill missing fallback records into IndexedDB
+  if (toBackfill.length > 0) {
+    openDatabase().then((db) => {
+      const tx = db.transaction(STORE_ATTEMPTS, 'readwrite');
+      const store = tx.objectStore(STORE_ATTEMPTS);
+      toBackfill.forEach((a) => store.put(a));
+    }).catch(() => {});
+  }
+
+  return Array.from(map.values()).sort((a, b) => b.submittedAt - a.submittedAt);
 }
 
 /**

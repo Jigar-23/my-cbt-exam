@@ -206,34 +206,52 @@ export async function deleteAppDataFile(fileId: string): Promise<boolean> {
   return res.ok || res.status === 204;
 }
 
+const folderPromiseCache: Record<string, Promise<string> | undefined> = {};
+
 /**
  * Ensures a subfolder exists in the AppData sandbox.
+ * Deduplicates concurrent creation calls via an in-memory promise cache.
  */
 export async function ensureAppDataFolder(folderName: string): Promise<string> {
-  const existing = await findAppDataFileByName(folderName);
-  if (existing && existing.mimeType === 'application/vnd.google-apps.folder') {
-    return existing.id;
+  const cachedPromise = folderPromiseCache[folderName];
+  if (cachedPromise) {
+    return cachedPromise;
   }
 
-  // Create folder inside appDataFolder
-  const metadata = {
-    name: folderName,
-    mimeType: 'application/vnd.google-apps.folder',
-    parents: ['appDataFolder'],
-  };
+  folderPromiseCache[folderName] = (async () => {
+    try {
+      const existing = await findAppDataFileByName(folderName);
+      if (existing && existing.mimeType === 'application/vnd.google-apps.folder') {
+        return existing.id;
+      }
 
-  const url = `${GDRIVE_API_BASE}/files?fields=id,name`;
-  const res = await driveFetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(metadata),
-  });
+      // Create folder inside appDataFolder
+      const metadata = {
+        name: folderName,
+        mimeType: 'application/vnd.google-apps.folder',
+        parents: ['appDataFolder'],
+      };
 
-  if (!res.ok) {
-    const errorText = await res.text();
-    throw new GDriveClientError(`Failed to create AppData folder (${folderName}): ${errorText}`, res.status);
-  }
+      const url = `${GDRIVE_API_BASE}/files?fields=id,name`;
+      const res = await driveFetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(metadata),
+      });
 
-  const folder = await res.json();
-  return folder.id;
+      if (!res.ok) {
+        const errorText = await res.text();
+        throw new GDriveClientError(`Failed to create AppData folder (${folderName}): ${errorText}`, res.status);
+      }
+
+      const folder = await res.json();
+      return folder.id;
+    } catch (err) {
+      delete folderPromiseCache[folderName];
+      throw err;
+    }
+  })();
+
+  return folderPromiseCache[folderName];
 }
+

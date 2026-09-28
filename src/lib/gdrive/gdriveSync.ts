@@ -134,6 +134,7 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
       const localPrefsRaw = localStorage.getItem('cbt_user_preferences');
       const localPrefs = localPrefsRaw ? JSON.parse(localPrefsRaw) : null;
 
+      const currentTheme = (localStorage.getItem('cbt_theme_mode') || localStorage.getItem('cbt_theme') || 'system') as any;
       const profileRecord: UserProfileRecord = {
         userId: user.userId,
         email: user.email,
@@ -141,12 +142,34 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
         avatarUrl: user.avatarUrl,
         targetDomains: localPrefs?.selectedDomains || ['banking'],
         targetSubdomains: localPrefs?.selectedSubdomains || ['ibps_so_it'],
-        theme: (localStorage.getItem('cbt_theme') as any) || 'system',
+        theme: currentTheme,
         fontSizeOffset: parseInt(localStorage.getItem('cbt_font_size_offset') || '0', 10),
         createdAt: Date.now(),
         updatedAt: Date.now(),
         lastSyncedAt: Date.now(),
       };
+
+      const existingProfileFile = await findAppDataFileByName(FILE_USER_PROFILE);
+      if (existingProfileFile && !localPrefsRaw) {
+        try {
+          const remoteProfile = await downloadAppDataFile<UserProfileRecord>(existingProfileFile.id);
+          if (remoteProfile) {
+            if (remoteProfile.theme) {
+              localStorage.setItem('cbt_theme_mode', remoteProfile.theme);
+              localStorage.setItem('cbt_theme', remoteProfile.theme);
+            }
+            if (remoteProfile.targetDomains) {
+              localStorage.setItem(
+                'cbt_user_preferences',
+                JSON.stringify({
+                  selectedDomains: remoteProfile.targetDomains,
+                  selectedSubdomains: remoteProfile.targetSubdomains || [],
+                })
+              );
+            }
+          }
+        } catch {}
+      }
 
       await upsertAppDataFile(FILE_USER_PROFILE, profileRecord);
       profileSynced = true;

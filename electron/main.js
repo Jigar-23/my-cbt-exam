@@ -89,6 +89,12 @@ function startServer() {
         }
 
         if (!exists) {
+          const reqExt = path.extname(pathname).toLowerCase();
+          if (reqExt && reqExt !== '.html') {
+            res.writeHead(404, { 'Content-Type': 'text/plain' });
+            res.end('Not Found');
+            return;
+          }
           filePath = path.join(outDir, 'index.html');
         }
 

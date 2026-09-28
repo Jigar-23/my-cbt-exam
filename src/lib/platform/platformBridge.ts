@@ -44,6 +44,7 @@ class PlatformBridgeService {
   public isElectron(): boolean {
     if (typeof window === 'undefined') return false;
     return (
+      !!(window as any).electronAPI ||
       (window as any).process?.type === 'renderer' ||
       navigator.userAgent.toLowerCase().includes('electron') ||
       !!(window as any).__electron

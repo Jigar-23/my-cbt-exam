@@ -22,7 +22,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
   // 1. Initial Load from LocalStorage
   useEffect(() => {
     try {
-      const saved = localStorage.getItem('cbt_theme_mode') as ThemeMode | null;
+      const saved = (localStorage.getItem('cbt_theme_mode') || localStorage.getItem('cbt_theme')) as ThemeMode | null;
       if (saved && (saved === 'system' || saved === 'dark' || saved === 'light')) {
         setThemeModeState(saved);
       }
@@ -78,6 +78,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     setThemeModeState(mode);
     try {
       localStorage.setItem('cbt_theme_mode', mode);
+      localStorage.setItem('cbt_theme', mode);
     } catch {
       // Ignore localStorage error
     }

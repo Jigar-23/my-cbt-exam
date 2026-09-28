@@ -232,48 +232,63 @@ export default function CBTExamPlayer({
   }, [currentQ?.id, isSubmitted, isExamStarted, isPaused]);
 
   // Helper: In-Flight Crash Protection Snapshot
-  const saveCurrentSnapshot = () => {
+  const lastCloudSnapshotSyncRef = useRef<number>(0);
+
+  const saveCurrentSnapshot = (forceCloudSync = false) => {
     if (!isExamStarted || isSubmitted || isStudyMode) return;
     const testId = testData?.testId || testData?._id || testData?.id || 'unknown';
+    const now = Date.now();
+    const currentRemainingTime = Math.max(0, Math.round((targetEndTimeRef.current - now) / 1000));
     const snapshot: InFlightExamSnapshot = {
       testId,
       testTitle: testData?.title || 'Test',
       startedAt: examStartedAtRef.current,
-      lastSavedAt: Date.now(),
+      lastSavedAt: now,
       currentSectionIndex,
       currentQuestionIndex,
       userAnswers: { ...userAnswersRef.current },
       questionStatus,
-      timeLeft,
+      timeLeft: currentRemainingTime,
       telemetryMap: telemetryMapRef.current,
     };
     saveInFlightSnapshot(snapshot);
-    // Background sync active session to Google Drive for cross-device resume
-    syncInFlightToDrive(snapshot).catch(() => {});
+
+    // Throttle Google Drive cloud upload (at most once per 15s, or immediate on forceCloudSync)
+    if (forceCloudSync || now - lastCloudSnapshotSyncRef.current >= 15000) {
+      lastCloudSnapshotSyncRef.current = now;
+      syncInFlightToDrive(snapshot).catch(() => {});
+    }
   };
 
-  // Periodic Snapshot on state change
+  const saveCurrentSnapshotRef = useRef(saveCurrentSnapshot);
+  saveCurrentSnapshotRef.current = saveCurrentSnapshot;
+  const closeActiveIntervalRef = useRef(closeActiveQuestionInterval);
+  closeActiveIntervalRef.current = closeActiveQuestionInterval;
+
+  // Periodic Snapshot on question navigation or answer change
   useEffect(() => {
     saveCurrentSnapshot();
   }, [currentQuestionIndex, currentSectionIndex, userAnswers, questionStatus, isExamStarted, isSubmitted]);
 
-  // Auto-Pause on Window Blur / App Minimize / Tab Switch
+  // Auto-Pause on Window Blur / App Minimize / Tab Switch (Bound once, immune to second-by-second listener churn)
   useEffect(() => {
     if (!isExamStarted || isSubmitted || isStudyMode) return;
 
-    const handleBlur = () => {
-      closeActiveQuestionInterval();
-      saveCurrentSnapshot();
-      setIsPaused(true);
-      setPauseReason('Window lost focus or minimized');
-    };
-
     const handleVisibility = () => {
       if (document.visibilityState === 'hidden') {
-        closeActiveQuestionInterval();
-        saveCurrentSnapshot();
+        closeActiveIntervalRef.current();
+        saveCurrentSnapshotRef.current(true);
         setIsPaused(true);
         setPauseReason('App minimized or sent to background');
+      }
+    };
+
+    const handleBlur = () => {
+      if (document.visibilityState === 'hidden') {
+        closeActiveIntervalRef.current();
+        saveCurrentSnapshotRef.current(true);
+        setIsPaused(true);
+        setPauseReason('Window lost focus or minimized');
       }
     };
 
@@ -284,13 +299,13 @@ export default function CBTExamPlayer({
       window.removeEventListener('blur', handleBlur);
       document.removeEventListener('visibilitychange', handleVisibility);
     };
-  }, [isExamStarted, isSubmitted, isStudyMode, currentSectionIndex, currentQuestionIndex, userAnswers, questionStatus, timeLeft]);
+  }, [isExamStarted, isSubmitted, isStudyMode]);
 
   // Clean Exit to Dashboard with Immediate Snapshotting
   const handleExitToDashboard = () => {
     closeActiveQuestionInterval();
     if (isExamStarted && !isSubmitted && !isStudyMode) {
-      saveCurrentSnapshot();
+      saveCurrentSnapshot(true);
     }
     onExit();
   };
