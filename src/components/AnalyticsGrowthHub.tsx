@@ -17,6 +17,7 @@ import {
 import { AttemptRecord } from '@/lib/analyticsEngine';
 import { getAllAttempts, deleteAttempt, clearAllAttempts } from '@/lib/analyticsStorage';
 import { deleteAttemptFromDrive } from '@/lib/gdrive/gdriveSync';
+import { platformBridge } from '@/lib/platform/platformBridge';
 
 interface AnalyticsGrowthHubProps {
   onSelectAttempt: (attempt: AttemptRecord) => void;
@@ -44,6 +45,22 @@ export default function AnalyticsGrowthHub({
   useEffect(() => {
     loadAttempts();
   }, []);
+
+  // Hardware Back Button Protection for Native Mobile (Android)
+  useEffect(() => {
+    return platformBridge.registerBackHandler(() => {
+      if (attemptToDelete) {
+        setAttemptToDelete(null);
+        return true;
+      }
+      if (showClearAllConfirm) {
+        setShowClearAllConfirm(false);
+        return true;
+      }
+      onExitToCatalog();
+      return true;
+    });
+  }, [attemptToDelete, showClearAllConfirm, onExitToCatalog]);
 
   const loadAttempts = async () => {
     try {

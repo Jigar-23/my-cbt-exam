@@ -23,6 +23,7 @@ import {
 } from 'lucide-react';
 import { AttemptRecord, QuestionAnalysis } from '../lib/analyticsEngine';
 import { getAllAttempts } from '../lib/analyticsStorage';
+import { platformBridge } from '../lib/platform/platformBridge';
 
 interface DeepAnalyticsViewProps {
   currentAttempt: AttemptRecord;
@@ -64,6 +65,25 @@ export default function DeepAnalyticsView({
       setAllPastAttempts(attempts);
     });
   }, [activeAttempt]);
+
+  // Hardware Back Button Protection for Native Mobile (Android)
+  useEffect(() => {
+    return platformBridge.registerBackHandler(() => {
+      if (activeTab !== 'sections') {
+        setActiveTab('sections');
+        return true;
+      }
+      if (onBackToHub) {
+        onBackToHub();
+        return true;
+      }
+      if (onBackToPlayer) {
+        onBackToPlayer();
+        return true;
+      }
+      return false;
+    });
+  }, [activeTab, onBackToHub, onBackToPlayer]);
 
   const handleSwitchAttempt = (newAttempt: AttemptRecord) => {
     setActiveAttempt(newAttempt);

@@ -61,6 +61,9 @@ export default function CBTExamPlayer({
   const [isStarterInstruction, setIsStarterInstruction] = useState(!initialStudyMode && !isResuming);
   const [isSubmitModalOpen, setIsSubmitModalOpen] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [latestAttempt, setLatestAttempt] = useState<AttemptRecord | null>(null);
+  const [isScorecardOpen, setIsScorecardOpen] = useState(false);
+  const [isDeepAnalyticsOpen, setIsDeepAnalyticsOpen] = useState(false);
 
   // Question Palette Visibility (Default closed on mobile to prevent overlapping question view, open on desktop)
   const [isPaletteOpen, setIsPaletteOpen] = useState(false);
@@ -74,6 +77,15 @@ export default function CBTExamPlayer({
   // Hardware Back Button Protection for Native Mobile (Android)
   useEffect(() => {
     return platformBridge.registerBackHandler(() => {
+      if (isDeepAnalyticsOpen) {
+        setIsDeepAnalyticsOpen(false);
+        return true;
+      }
+      if (isScorecardOpen) {
+        setIsScorecardOpen(false);
+        onExit();
+        return true;
+      }
       if (isQuestionPaperOpen) {
         setIsQuestionPaperOpen(false);
         return true;
@@ -98,16 +110,21 @@ export default function CBTExamPlayer({
       }
       return false;
     });
-  }, [isQuestionPaperOpen, isInstructionsOpen, isSubmitModalOpen, isPaletteOpen, isExamStarted, isSubmitted, isStudyMode]);
+  }, [
+    isDeepAnalyticsOpen,
+    isScorecardOpen,
+    isQuestionPaperOpen,
+    isInstructionsOpen,
+    isSubmitModalOpen,
+    isPaletteOpen,
+    isExamStarted,
+    isSubmitted,
+    isStudyMode,
+  ]);
 
   // Pause State
   const [isPaused, setIsPaused] = useState(false);
   const [pauseReason, setPauseReason] = useState<string>('');
-
-  // Analytics & Scorecard Modals
-  const [latestAttempt, setLatestAttempt] = useState<AttemptRecord | null>(null);
-  const [isScorecardOpen, setIsScorecardOpen] = useState(false);
-  const [isDeepAnalyticsOpen, setIsDeepAnalyticsOpen] = useState(false);
 
   // Telemetry Refs (Guarantees true timestamp intervals without React render drift)
   const activeQuestionRef = useRef<{
