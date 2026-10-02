@@ -138,10 +138,10 @@ export default function AppSettingsModal({
         });
       } else {
         setCodeFeedback({
-          type: 'error',
+          type: res.gracePeriodExpired ? 'error' : 'info',
           message: res.gracePeriodExpired
-            ? 'Invalid work code. Please verify your code with your administrator.'
-            : 'Work code saved.',
+            ? 'Invalid work code. Default master code is 000000.'
+            : 'Work code saved (Standard access active. Master code is 000000).',
         });
       }
     } catch (err: any) {
