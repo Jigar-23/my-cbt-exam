@@ -32,11 +32,20 @@ import {
   DriveFileMetadata,
 } from './gdriveClient';
 import { SyncReport, UserProfileRecord } from './types';
+import {
+  getAllBookmarks,
+  importBookmarksFromJson,
+  BookmarkedQuestion,
+} from '../bookmarkStorage';
+import { getDevicePhysicalId } from '../deviceIdentity';
+import { DeviceRecord } from './types';
 
 const FOLDER_ATTEMPTS = 'attempts';
 const FOLDER_IN_FLIGHT = 'in_flight';
 const FILE_USER_PROFILE = 'user_profile.json';
+const FILE_DEVICES = 'devices.json';
 const FILE_TOMBSTONES = 'tombstones.json';
+const FILE_BOOKMARKS = 'bookmarks.json';
 const STORAGE_KEY_LAST_SYNC = 'cbt_gdrive_last_sync_time';
 
 /**
@@ -132,25 +141,39 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
     let profileSynced = false;
     try {
       const localPrefsRaw = localStorage.getItem('cbt_user_preferences');
-      const localPrefs = localPrefsRaw ? JSON.parse(localPrefsRaw) : null;
+      let localPrefs = localPrefsRaw ? JSON.parse(localPrefsRaw) : null;
+
+      // Cleanse legacy hardcoded single-domain fallback if present
+      if (
+        localPrefs?.selectedDomains?.length === 1 &&
+        localPrefs.selectedDomains[0] === 'banking' &&
+        localPrefs.selectedSubdomains?.length === 1 &&
+        localPrefs.selectedSubdomains[0] === 'ibps_so_it'
+      ) {
+        localStorage.removeItem('cbt_user_preferences');
+        localPrefs = null;
+      }
 
       const currentTheme = (localStorage.getItem('cbt_theme_mode') || localStorage.getItem('cbt_theme') || 'system') as any;
+      const deviceId = await getDevicePhysicalId();
       const profileRecord: UserProfileRecord = {
         userId: user.userId,
         email: user.email,
         displayName: user.displayName,
         avatarUrl: user.avatarUrl,
-        targetDomains: localPrefs?.selectedDomains || ['banking'],
-        targetSubdomains: localPrefs?.selectedSubdomains || ['ibps_so_it'],
+        targetDomains: localPrefs?.selectedDomains || [],
+        targetSubdomains: localPrefs?.selectedSubdomains || [],
         theme: currentTheme,
         fontSizeOffset: parseInt(localStorage.getItem('cbt_font_size_offset') || '0', 10),
+        deviceId: deviceId,
+        devicePhysicalId: deviceId,
         createdAt: Date.now(),
         updatedAt: Date.now(),
         lastSyncedAt: Date.now(),
       };
 
       const existingProfileFile = await findAppDataFileByName(FILE_USER_PROFILE);
-      if (existingProfileFile && !localPrefsRaw) {
+      if (existingProfileFile) {
         try {
           const remoteProfile = await downloadAppDataFile<UserProfileRecord>(existingProfileFile.id);
           if (remoteProfile) {
@@ -159,19 +182,46 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
               localStorage.setItem('cbt_theme', remoteProfile.theme);
             }
             if (remoteProfile.targetDomains) {
-              localStorage.setItem(
-                'cbt_user_preferences',
-                JSON.stringify({
-                  selectedDomains: remoteProfile.targetDomains,
-                  selectedSubdomains: remoteProfile.targetSubdomains || [],
-                })
-              );
+              const isLegacyFallback =
+                remoteProfile.targetDomains.length === 1 &&
+                remoteProfile.targetDomains[0] === 'banking' &&
+                remoteProfile.targetSubdomains?.length === 1 &&
+                remoteProfile.targetSubdomains[0] === 'ibps_so_it';
+
+              if (!isLegacyFallback && remoteProfile.targetDomains.length > 0) {
+                if (!localPrefs) {
+                  localStorage.setItem(
+                    'cbt_user_preferences',
+                    JSON.stringify({
+                      selectedDomains: remoteProfile.targetDomains,
+                      selectedSubdomains: remoteProfile.targetSubdomains || [],
+                    })
+                  );
+                  profileRecord.targetDomains = remoteProfile.targetDomains;
+                  profileRecord.targetSubdomains = remoteProfile.targetSubdomains || [];
+                }
+              } else if (isLegacyFallback) {
+                // Wipe away the unintended single-category filter
+                localStorage.removeItem('cbt_user_preferences');
+                profileRecord.targetDomains = [];
+                profileRecord.targetSubdomains = [];
+              }
             }
           }
         } catch {}
       }
 
       await upsertAppDataFile(FILE_USER_PROFILE, profileRecord);
+
+      // 2b. Sync Devices Table entry (Primary key: Hardware MAC/Physical Device ID)
+      const deviceRecord: DeviceRecord = {
+        deviceId,
+        email: user.email,
+        lastSyncDate: new Date().toISOString(),
+        platform: typeof window !== 'undefined' && (window as any).Capacitor ? 'Android' : 'Desktop',
+      };
+      await upsertAppDataFile(FILE_DEVICES, deviceRecord);
+
       profileSynced = true;
     } catch (e) {
       console.warn('Profile sync warning:', e);
@@ -284,9 +334,33 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
       console.warn('In-flight sync warning:', e);
     }
 
+    // 5. Sync Bookmarked Questions (bookmarks.json)
+    let bookmarksSynced = false;
+    try {
+      const existingBookmarkFile = await findAppDataFileByName(FILE_BOOKMARKS);
+      if (existingBookmarkFile) {
+        const remoteBookmarks = await downloadAppDataFile<BookmarkedQuestion[]>(existingBookmarkFile.id);
+        if (Array.isArray(remoteBookmarks)) {
+          importBookmarksFromJson(remoteBookmarks);
+        }
+      }
+
+      // Upsert merged bookmarks to Google Drive AppData
+      const finalBookmarks = getAllBookmarks();
+      if (finalBookmarks.length > 0 || existingBookmarkFile) {
+        await upsertAppDataFile(FILE_BOOKMARKS, finalBookmarks);
+      }
+      bookmarksSynced = true;
+    } catch (e) {
+      console.warn('Bookmarks sync warning:', e);
+    }
+
     // Update last sync timestamp
     const now = Date.now();
     localStorage.setItem(STORAGE_KEY_LAST_SYNC, String(now));
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
+    }
 
     return {
       success: true,
@@ -294,6 +368,7 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
       downloadedAttempts: downloadedCount,
       inFlightSynced,
       profileSynced,
+      bookmarksSynced,
     };
   } catch (err: any) {
     return {
@@ -302,9 +377,38 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
       downloadedAttempts: downloadedCount,
       inFlightSynced: false,
       profileSynced: false,
+      bookmarksSynced: false,
       error: err.message || 'Sync failed',
     };
   }
+}
+
+/**
+ * Silently syncs all bookmarks to Google Drive AppData sandbox in the background.
+ */
+export async function syncBookmarksToDrive(): Promise<boolean> {
+  const token = getStoredAccessToken();
+  if (!token) return false;
+
+  try {
+    const current = getAllBookmarks();
+    await upsertAppDataFile(FILE_BOOKMARKS, current);
+    return true;
+  } catch (err) {
+    console.warn('Sync of bookmarks to Drive failed:', err);
+    return false;
+  }
+}
+
+// Background auto-sync on bookmark change if authenticated
+if (typeof window !== 'undefined') {
+  let bookmarkSyncTimeout: NodeJS.Timeout | null = null;
+  window.addEventListener('cbt_bookmarks_changed', () => {
+    if (bookmarkSyncTimeout) clearTimeout(bookmarkSyncTimeout);
+    bookmarkSyncTimeout = setTimeout(() => {
+      syncBookmarksToDrive();
+    }, 1500);
+  });
 }
 
 /**

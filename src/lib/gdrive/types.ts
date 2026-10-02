@@ -22,9 +22,18 @@ export interface UserProfileRecord {
   targetSubdomains: string[];
   theme: 'system' | 'light' | 'dark';
   fontSizeOffset: number;
+  deviceId?: string;
+  devicePhysicalId?: string;
   createdAt: number;
   updatedAt: number;
   lastSyncedAt: number;
+}
+
+export interface DeviceRecord {
+  deviceId: string;
+  email: string;
+  lastSyncDate: string;
+  platform: string;
 }
 
 export interface TopicMasteryItem {
@@ -67,5 +76,6 @@ export interface SyncReport {
   downloadedAttempts: number;
   inFlightSynced: boolean;
   profileSynced: boolean;
+  bookmarksSynced?: boolean;
   error?: string;
 }

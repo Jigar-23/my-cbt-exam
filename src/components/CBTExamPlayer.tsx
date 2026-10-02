@@ -20,6 +20,7 @@ import {
   Play,
   LayoutGrid,
   X,
+  Bookmark,
 } from 'lucide-react';
 import MathRenderer from './MathRenderer';
 import QuestionPaperModal from './QuestionPaperModal';
@@ -30,12 +31,15 @@ import { QuestionTelemetry, AttemptRecord, evaluateAttempt } from '../lib/analyt
 import { saveCompletedAttempt, saveInFlightSnapshot, clearInFlightSnapshot, InFlightExamSnapshot } from '../lib/analyticsStorage';
 import { syncAttemptToDrive, syncInFlightToDrive, clearInFlightFromDrive } from '../lib/gdrive/gdriveSync';
 import { platformBridge } from '../lib/platform/platformBridge';
+import { toggleQuestionBookmark, getBookmarkedQuestionIdSet } from '../lib/bookmarkStorage';
+import { getActiveCandidateInfo, setGuestCandidateName, CandidateInfo } from '../lib/candidateProfile';
 
 interface CBTExamPlayerProps {
   testData: any;
   onExit: () => void;
   initialStudyMode?: boolean;
   initialSnapshot?: InFlightExamSnapshot | null;
+  testItemId?: string;
 }
 
 export default function CBTExamPlayer({
@@ -43,6 +47,7 @@ export default function CBTExamPlayer({
   onExit,
   initialStudyMode = false,
   initialSnapshot = null,
+  testItemId,
 }: CBTExamPlayerProps) {
   const isResuming = !!initialSnapshot;
 
@@ -64,6 +69,22 @@ export default function CBTExamPlayer({
   const [latestAttempt, setLatestAttempt] = useState<AttemptRecord | null>(null);
   const [isScorecardOpen, setIsScorecardOpen] = useState(false);
   const [isDeepAnalyticsOpen, setIsDeepAnalyticsOpen] = useState(false);
+  const [candidateInfo, setCandidateInfo] = useState<CandidateInfo>(getActiveCandidateInfo);
+  const [isEditNameModalOpen, setIsEditNameModalOpen] = useState(false);
+  const [nameInput, setNameInput] = useState('');
+
+  useEffect(() => {
+    const updateCandidate = () => {
+      setCandidateInfo(getActiveCandidateInfo());
+    };
+    updateCandidate();
+    window.addEventListener('cbt_candidate_changed', updateCandidate);
+    window.addEventListener('cbt_gdrive_auth_changed', updateCandidate);
+    return () => {
+      window.removeEventListener('cbt_candidate_changed', updateCandidate);
+      window.removeEventListener('cbt_gdrive_auth_changed', updateCandidate);
+    };
+  }, []);
 
   // Question Palette Visibility (Default closed on mobile to prevent overlapping question view, open on desktop)
   const [isPaletteOpen, setIsPaletteOpen] = useState(false);
@@ -98,6 +119,10 @@ export default function CBTExamPlayer({
         setIsSubmitModalOpen(false);
         return true;
       }
+      if (isEditNameModalOpen) {
+        setIsEditNameModalOpen(false);
+        return true;
+      }
       if (isPaletteOpen && typeof window !== 'undefined' && window.innerWidth < 1024) {
         setIsPaletteOpen(false);
         return true;
@@ -116,6 +141,7 @@ export default function CBTExamPlayer({
     isQuestionPaperOpen,
     isInstructionsOpen,
     isSubmitModalOpen,
+    isEditNameModalOpen,
     isPaletteOpen,
     isExamStarted,
     isSubmitted,
@@ -136,17 +162,79 @@ export default function CBTExamPlayer({
   const examStartedAtRef = useRef<number>(initialSnapshot?.startedAt ?? Date.now());
   const submissionLockRef = useRef<boolean>(false);
 
-  // Sectional Timer logic (20 mins per section for New Pattern 2026, or total test duration)
-  const isNewPattern = testData?.pattern === 'NEW_PATTERN_2026';
-  const sectionDurationSeconds = isNewPattern ? 20 * 60 : (testData?.totalDurationMinutes || 120) * 60;
-  const [timeLeft, setTimeLeft] = useState(initialSnapshot?.timeLeft ?? sectionDurationSeconds);
-  const targetEndTimeRef = useRef<number>(Date.now() + (initialSnapshot?.timeLeft ?? sectionDurationSeconds) * 1000);
-
-
   const sections = testData?.sections || [];
+
+  // Determine if this exam uses sectional timing (SSC CGL 4-section full tests updated to 15m)
+  const isCGL = 
+    /cgl/i.test(testData?.exam || '') || 
+    /cgl/i.test(testData?.title || '') || 
+    /cgl/i.test(testData?.testId || '') || 
+    /cgl/i.test(testItemId || '');
+
+  const isFourSectionCGL = isCGL && sections.length === 4;
+
+  const hasSectionalTimer = 
+    testData?.hasSectionalTiming ||
+    isFourSectionCGL ||
+    testData?.pattern === 'NEW_PATTERN_2026' ||
+    (sections.length > 1 && sections.some((s: any) => typeof s.durationMinutes === 'number' && s.durationMinutes > 0));
+
+  // Dynamic sectional duration calculation
+  const getSectionDurationSeconds = (secIdx: number): number => {
+    const sec = sections[secIdx];
+    if (sec && typeof sec.durationMinutes === 'number' && sec.durationMinutes > 0) {
+      return sec.durationMinutes * 60;
+    }
+    if (isFourSectionCGL || (sections.length === 4 && /cgl/i.test(testData?.title || ''))) {
+      return 15 * 60; // SSC CGL updated 15 mins per section
+    }
+    if (testData?.pattern === 'NEW_PATTERN_2026') {
+      if (sections.length === 4) return 15 * 60;
+      return 20 * 60; // Standard 20 mins for Banking
+    }
+    return Math.round(((testData?.totalDurationMinutes || 60) * 60) / Math.max(1, sections.length));
+  };
+
+  const initialRemaining = initialSnapshot?.timeLeft ?? (hasSectionalTimer ? getSectionDurationSeconds(currentSectionIndex) : (testData?.totalDurationMinutes || 60) * 60);
+  const [timeLeft, setTimeLeft] = useState(initialRemaining);
+  const targetEndTimeRef = useRef<number>(Date.now() + initialRemaining * 1000);
+
   const currentSection = sections[currentSectionIndex] || { questions: [] };
   const currentQuestions = currentSection.questions || [];
   const currentQ = currentQuestions[currentQuestionIndex];
+
+  // Dedicated Bookmarking Engine Integration
+  const activeTestId = testItemId || testData?.manifestId || testData?.id || 'test';
+  const [bookmarkedIds, setBookmarkedIds] = useState<Set<string>>(() => getBookmarkedQuestionIdSet(activeTestId));
+
+  useEffect(() => {
+    const updateBookmarks = () => {
+      setBookmarkedIds(getBookmarkedQuestionIdSet(activeTestId));
+    };
+    updateBookmarks();
+    window.addEventListener('cbt_bookmarks_changed', updateBookmarks);
+    return () => window.removeEventListener('cbt_bookmarks_changed', updateBookmarks);
+  }, [activeTestId]);
+
+  const isCurrentBookmarked = currentQ ? bookmarkedIds.has(String(currentQ.id)) : false;
+
+  const handleToggleBookmark = () => {
+    if (!currentQ) return;
+    platformBridge.triggerHaptic('selection');
+    const currentAns = userAnswersRef.current[currentQ.id] || null;
+    toggleQuestionBookmark({
+      testData: {
+        ...testData,
+        manifestId: activeTestId,
+        testItemId: activeTestId,
+      },
+      currentQ,
+      currentSection,
+      currentQuestionIndex,
+      userAnswer: currentAns,
+    });
+    setBookmarkedIds(getBookmarkedQuestionIdSet(activeTestId));
+  };
 
   // 1. Close Active Question Timing Interval
   const closeActiveQuestionInterval = () => {
@@ -253,11 +341,13 @@ export default function CBTExamPlayer({
 
   const saveCurrentSnapshot = (forceCloudSync = false) => {
     if (!isExamStarted || isSubmitted || isStudyMode) return;
-    const testId = testData?.testId || testData?._id || testData?.id || 'unknown';
+    const testId = testItemId || testData?.manifestId || testData?.testId || testData?._id || testData?.id || 'unknown';
     const now = Date.now();
     const currentRemainingTime = Math.max(0, Math.round((targetEndTimeRef.current - now) / 1000));
     const snapshot: InFlightExamSnapshot = {
       testId,
+      rawId: testData?.rawId || testData?.mongoId,
+      aliasIds: testData?.aliasIds || [],
       testTitle: testData?.title || 'Test',
       startedAt: examStartedAtRef.current,
       lastSavedAt: now,
@@ -348,17 +438,22 @@ export default function CBTExamPlayer({
       telemetryMapRef.current,
       questionStatus,
       examStartedAtRef.current,
-      Date.now()
+      Date.now(),
+      candidateInfo.name
     );
 
     // 4. Save to IndexedDB & clear crash snapshot
     await saveCompletedAttempt(attemptRecord);
-    const finalTestId = testData?.testId || testData?._id || testData?.id || 'unknown';
-    clearInFlightSnapshot(finalTestId);
+    const finalTestId = testItemId || testData?.manifestId || testData?.testId || testData?._id || testData?.id || 'unknown';
+    const allAliases = [testData?.rawId, ...(testData?.aliasIds || [])].filter(Boolean) as string[];
+    clearInFlightSnapshot(finalTestId, allAliases);
 
     // 5. Asynchronous background sync to Google Drive
     syncAttemptToDrive(attemptRecord).catch(() => {});
     clearInFlightFromDrive(finalTestId).catch(() => {});
+    for (const a of allAliases) {
+      clearInFlightFromDrive(a).catch(() => {});
+    }
 
     setLatestAttempt(attemptRecord);
     setIsScorecardOpen(true);
@@ -377,12 +472,14 @@ export default function CBTExamPlayer({
 
       if (remainingSecs <= 0) {
         setTimeLeft(0);
-        if (isNewPattern && currentSectionIndex < sections.length - 1) {
+        if (hasSectionalTimer && currentSectionIndex < sections.length - 1) {
           closeActiveQuestionInterval();
-          setCurrentSectionIndex((idx) => idx + 1);
+          const nextSecIdx = currentSectionIndex + 1;
+          const nextSecDuration = getSectionDurationSeconds(nextSecIdx);
+          setCurrentSectionIndex(nextSecIdx);
           setCurrentQuestionIndex(0);
-          targetEndTimeRef.current = Date.now() + sectionDurationSeconds * 1000;
-          setTimeLeft(sectionDurationSeconds);
+          targetEndTimeRef.current = Date.now() + nextSecDuration * 1000;
+          setTimeLeft(nextSecDuration);
         } else {
           handleFinalSubmit();
         }
@@ -392,7 +489,7 @@ export default function CBTExamPlayer({
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [isSubmitted, isStudyMode, isExamStarted, isPaused, currentSectionIndex, sections.length, isNewPattern]);
+  }, [isSubmitted, isStudyMode, isExamStarted, isPaused, currentSectionIndex, sections.length, hasSectionalTimer]);
 
   const formatTime = (secs: number) => {
     const h = Math.floor(secs / 3600);
@@ -447,7 +544,7 @@ export default function CBTExamPlayer({
 
     if (currentQuestionIndex < currentQuestions.length - 1) {
       setCurrentQuestionIndex((prev) => prev + 1);
-    } else if (currentSectionIndex < sections.length - 1 && !isNewPattern) {
+    } else if (currentSectionIndex < sections.length - 1 && !hasSectionalTimer) {
       setCurrentSectionIndex((prev) => prev + 1);
       setCurrentQuestionIndex(0);
     }
@@ -468,7 +565,7 @@ export default function CBTExamPlayer({
 
     if (currentQuestionIndex < currentQuestions.length - 1) {
       setCurrentQuestionIndex((prev) => prev + 1);
-    } else if (currentSectionIndex < sections.length - 1 && !isNewPattern) {
+    } else if (currentSectionIndex < sections.length - 1 && !hasSectionalTimer) {
       setCurrentSectionIndex((prev) => prev + 1);
       setCurrentQuestionIndex(0);
     }
@@ -509,9 +606,9 @@ export default function CBTExamPlayer({
   const handleSwitchSection = (secIdx: number) => {
     if (secIdx === currentSectionIndex) return;
     platformBridge.triggerHaptic('selection');
-    if (isNewPattern && !isSubmitted && !isStudyMode) {
-      // In official 2026 new pattern, sections are locked by timer
-      alert('Section switching is locked in Exam Mode. Each section runs on a strict 20-minute timer.');
+    if (hasSectionalTimer && !isSubmitted && !isStudyMode) {
+      const durMins = Math.round(getSectionDurationSeconds(currentSectionIndex) / 60);
+      alert(`Section switching is locked in Exam Mode. Each section runs on a strict ${durMins}-minute timer.`);
       return;
     }
     closeActiveQuestionInterval();
@@ -591,6 +688,7 @@ export default function CBTExamPlayer({
             const isCurrent = qIdx === currentQuestionIndex;
             const badgeClass = getPaletteBadgeClass(q.id);
             const status = questionStatus[q.id] || 'not_visited';
+            const isQBookmarked = bookmarkedIds.has(String(q.id));
 
             return (
               <button
@@ -601,6 +699,11 @@ export default function CBTExamPlayer({
                 }`}
               >
                 <span>{qIdx + 1}</span>
+                {isQBookmarked && (
+                  <span className="absolute -top-1 -right-1 text-[10px] text-amber-500 font-black leading-none drop-shadow-xs" title="Bookmarked">
+                    ★
+                  </span>
+                )}
                 {status === 'answered_marked' && (
                   <span className="absolute bottom-0.5 right-0.5 w-2 h-2 bg-emerald-400 rounded-full border border-purple-900" />
                 )}
@@ -659,7 +762,7 @@ export default function CBTExamPlayer({
           </span>
         </div>
 
-        <div className="flex items-center space-x-2">
+        <div className="flex items-center space-x-1.5 md:space-x-2">
           {/* Performance Analytics Button (Available after submission or in study mode) */}
           {(isSubmitted || latestAttempt) && (
             <button
@@ -672,30 +775,31 @@ export default function CBTExamPlayer({
                     telemetryMapRef.current,
                     questionStatus,
                     examStartedAtRef.current,
-                    Date.now()
+                    Date.now(),
+                    candidateInfo.name
                   );
                   setLatestAttempt(baseline);
                 }
                 setIsDeepAnalyticsOpen(true);
               }}
-              className="flex items-center space-x-1.5 px-3 py-1 bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold rounded shadow-xs transition-all animate-pulse"
+              className="flex items-center space-x-1 px-2.5 py-1 bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold rounded shadow-xs transition-all animate-pulse"
             >
-              <BarChart2 size={14} />
-              <span>📊 Performance Analytics</span>
+              <BarChart2 size={13} />
+              <span className="hidden sm:inline">Analytics</span>
             </button>
           )}
 
           {/* Study Mode Toggle */}
           <button
             onClick={() => setIsStudyMode(!isStudyMode)}
-            className={`flex items-center space-x-1.5 px-3 py-1 text-xs font-semibold rounded transition-colors ${
+            className={`flex items-center space-x-1.5 px-2.5 py-1 text-xs font-semibold rounded transition-colors ${
               isStudyMode
                 ? 'bg-emerald-600 text-white hover:bg-emerald-500'
                 : 'bg-neutral-800 text-slate-300 hover:bg-neutral-700'
             }`}
           >
-            {isStudyMode ? <Eye size={14} /> : <EyeOff size={14} />}
-            <span>{isStudyMode ? '💡 Solution Mode ON' : 'Exam Mode'}</span>
+            {isStudyMode ? <Eye size={13} /> : <EyeOff size={13} />}
+            <span className="hidden sm:inline">{isStudyMode ? '💡 Solution' : 'Exam Mode'}</span>
           </button>
 
           {/* Question Paper Button */}
@@ -703,8 +807,8 @@ export default function CBTExamPlayer({
             onClick={() => setIsQuestionPaperOpen(true)}
             className="flex items-center space-x-1 px-2.5 py-1 bg-emerald-700 hover:bg-emerald-600 text-white text-xs font-medium rounded transition-colors"
           >
-            <FileText size={14} />
-            <span className="hidden sm:inline">Question Paper</span>
+            <FileText size={13} />
+            <span className="hidden md:inline">Paper</span>
           </button>
 
           {/* Instructions Button */}
@@ -715,8 +819,8 @@ export default function CBTExamPlayer({
             }}
             className="flex items-center space-x-1 px-2.5 py-1 bg-cyan-700 hover:bg-cyan-600 text-white text-xs font-medium rounded transition-colors"
           >
-            <HelpCircle size={14} />
-            <span className="hidden sm:inline">Instructions</span>
+            <HelpCircle size={13} />
+            <span className="hidden md:inline">Instructions</span>
           </button>
 
           {/* Submit Test (Safe Header Placement) */}
@@ -726,16 +830,97 @@ export default function CBTExamPlayer({
               className="flex items-center space-x-1 px-3 py-1 bg-rose-600 hover:bg-rose-500 text-white text-xs font-bold rounded shadow-xs transition-colors cursor-pointer border border-rose-400/40"
               title="Submit Entire Exam"
             >
-              <span>Submit Test</span>
+              <span>Submit</span>
             </button>
           )}
+
+          {/* Pause Exam Button (Shifted from Subheader to Top Right) */}
+          {!isSubmitted && !isStudyMode && isExamStarted && (
+            <button
+              onClick={() => {
+                closeActiveQuestionInterval();
+                saveCurrentSnapshot();
+                setIsPaused(true);
+                setPauseReason('Manually paused by candidate');
+              }}
+              className="flex items-center space-x-1.5 px-2.5 py-1 bg-amber-500/20 hover:bg-amber-500/30 text-amber-300 font-semibold border border-amber-500/40 rounded-md text-xs transition-all cursor-pointer shadow-xs active:scale-95"
+              title="Pause Exam Timer"
+            >
+              <Pause size={13} />
+              <span className="hidden sm:inline">Pause</span>
+            </button>
+          )}
+
+          {/* Digital Timer (Shifted from Subheader to Top Right) */}
+          <div
+            className={`flex items-center space-x-1.5 px-2.5 md:px-3 py-1 rounded-md shadow-inner transition-colors duration-300 border ${
+              timeLeft <= 60
+                ? 'bg-rose-950/90 text-rose-200 border-rose-500 animate-pulse'
+                : timeLeft <= 300
+                ? 'bg-amber-950/80 text-amber-200 border-amber-500'
+                : 'bg-black/60 text-white border-neutral-700'
+            }`}
+          >
+            <Clock
+              size={14}
+              className={
+                timeLeft <= 60
+                  ? 'text-rose-400 animate-pulse'
+                  : timeLeft <= 300
+                  ? 'text-amber-400 animate-pulse'
+                  : 'text-amber-400'
+              }
+            />
+            <span className="hidden xl:inline text-xs font-medium opacity-80">Time Left:</span>
+            <span
+              className={`font-mono text-xs sm:text-sm font-bold tracking-wider ${
+                timeLeft <= 60
+                  ? 'text-rose-400 font-extrabold'
+                  : timeLeft <= 300
+                  ? 'text-amber-300'
+                  : 'text-amber-400'
+              }`}
+            >
+              {formatTime(timeLeft)}
+            </span>
+          </div>
+
+          {/* Candidate Card (Shifted from Subheader to Top Right) */}
+          <div
+            onClick={() => {
+              setNameInput(candidateInfo.name);
+              setIsEditNameModalOpen(true);
+            }}
+            className="flex items-center space-x-2 pl-2.5 border-l border-neutral-700 cursor-pointer group"
+            title={candidateInfo.isGoogleUser ? `Linked Google Account: ${candidateInfo.name}` : `Candidate: ${candidateInfo.name} (Click to change name)`}
+          >
+            {candidateInfo.avatarUrl ? (
+              <img
+                src={candidateInfo.avatarUrl}
+                alt={candidateInfo.name}
+                className="w-7 h-7 rounded-full object-cover border border-neutral-600 shadow-xs"
+              />
+            ) : (
+              <div className="w-7 h-7 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold text-xs shadow-xs">
+                {candidateInfo.name.charAt(0).toUpperCase()}
+              </div>
+            )}
+            <div className="text-left leading-tight hidden lg:block">
+              <p className="text-xs font-bold text-slate-100 group-hover:text-amber-400 transition-colors truncate max-w-[120px]">
+                {candidateInfo.name}
+              </p>
+              <p className="text-[10px] text-slate-400 font-mono">
+                ID: {candidateInfo.id}
+              </p>
+            </div>
+          </div>
         </div>
       </header>
 
-      {/* 2. SUB-HEADER: SECTION TABS + COUNTDOWN TIMER + CANDIDATE CARD */}
-      <div className="bg-white border-b border-slate-200 px-4 py-1.5 flex flex-wrap items-center justify-between gap-2 shadow-xs shrink-0 select-none">
+      {/* 2. SUB-HEADER: SECTION TABS ONLY (Clean & Spacious) */}
+      <div className="bg-white border-b border-slate-200 px-4 py-1.5 flex items-center justify-between gap-2 shadow-xs shrink-0 select-none">
         {/* Section Tabs */}
-        <div className="flex items-center space-x-1 overflow-x-auto py-0.5">
+        <div className="flex items-center space-x-1 overflow-x-auto py-0.5 flex-1">
           {sections.map((sec: any, sIdx: number) => {
             const isActive = sIdx === currentSectionIndex;
             const isProfessionalIT = sec.isProfessionalIT || sec.name.toLowerCase().includes('professional');
@@ -751,6 +936,13 @@ export default function CBTExamPlayer({
               >
                 {isProfessionalIT && <span className="text-amber-500 font-bold">⭐</span>}
                 <span>{sec.name}</span>
+                {hasSectionalTimer && (
+                  <span className={`text-[10px] px-1 py-0.2 rounded font-mono font-medium ${
+                    isActive ? 'bg-blue-200/70 text-blue-900' : 'bg-slate-200 text-slate-600'
+                  }`}>
+                    {Math.round(getSectionDurationSeconds(sIdx) / 60)}m
+                  </span>
+                )}
                 <span className="text-[10px] bg-slate-200 text-slate-700 px-1.5 py-0.2 rounded font-mono">
                   {sec.questions?.length || 0}
                 </span>
@@ -759,84 +951,17 @@ export default function CBTExamPlayer({
           })}
         </div>
 
-        {/* Timer, Palette & Candidate Card */}
-        <div className="flex items-center space-x-2 md:space-x-3">
-          {/* Pause Exam Button */}
-          {!isSubmitted && !isStudyMode && isExamStarted && (
-            <button
-              onClick={() => {
-                closeActiveQuestionInterval();
-                saveCurrentSnapshot();
-                setIsPaused(true);
-                setPauseReason('Manually paused by candidate');
-              }}
-              className="flex items-center space-x-1.5 px-2.5 md:px-3 py-1 bg-amber-500/15 hover:bg-amber-500/25 text-amber-700 font-semibold border border-amber-500/30 rounded-md text-xs transition-all cursor-pointer shadow-xs active:scale-95"
-              title="Pause Exam Timer"
-            >
-              <Pause size={13} />
-              <span className="hidden sm:inline">Pause</span>
-            </button>
-          )}
-
-          {/* Digital Timer (3-Stage Visual Urgency) */}
-          <div
-            className={`flex items-center space-x-1.5 md:space-x-2 px-2.5 md:px-3.5 py-1 rounded-md shadow-inner transition-colors duration-300 border ${
-              timeLeft <= 60
-                ? 'bg-rose-950/90 text-rose-200 border-rose-500 animate-pulse'
-                : timeLeft <= 300
-                ? 'bg-amber-950/80 text-amber-200 border-amber-500'
-                : 'bg-slate-900 text-white border-slate-700'
-            }`}
-          >
-            <Clock
-              size={15}
-              className={
-                timeLeft <= 60
-                  ? 'text-rose-400 animate-pulse'
-                  : timeLeft <= 300
-                  ? 'text-amber-400 animate-pulse'
-                  : 'text-amber-400'
-              }
-            />
-            <span className="hidden sm:inline text-xs font-medium opacity-80">Time Left:</span>
-            <span
-              className={`font-mono text-xs sm:text-sm md:text-base font-bold tracking-wider ${
-                timeLeft <= 60
-                  ? 'text-rose-400 font-extrabold'
-                  : timeLeft <= 300
-                  ? 'text-amber-300'
-                  : 'text-amber-400'
-              }`}
-            >
-              {formatTime(timeLeft)}
-            </span>
-          </div>
-
-          {/* Question Palette Toggle Button (Open/Close) */}
+        {/* If Question Palette is collapsed on desktop, provide button to show it */}
+        {!isPaletteOpen && (
           <button
-            onClick={() => setIsPaletteOpen(!isPaletteOpen)}
-            className={`flex items-center space-x-1.5 px-2.5 md:px-3 py-1 text-xs font-semibold rounded shadow-xs transition-all cursor-pointer ${
-              isPaletteOpen
-                ? 'bg-blue-600 text-white hover:bg-blue-700'
-                : 'bg-slate-800 text-slate-200 hover:bg-slate-700'
-            }`}
-            title={isPaletteOpen ? 'Close Question Palette' : 'Open Question Palette'}
+            onClick={() => setIsPaletteOpen(true)}
+            className="hidden lg:flex items-center space-x-1.5 px-3 py-1 bg-slate-800 hover:bg-slate-700 text-white rounded text-xs font-semibold shadow-xs transition-all cursor-pointer shrink-0"
+            title="Open Question Palette"
           >
-            <LayoutGrid size={14} className="text-amber-400" />
-            <span className="font-bold">{isPaletteOpen ? 'Close Grid' : 'Questions'}</span>
+            <LayoutGrid size={13} className="text-amber-400" />
+            <span>Questions</span>
           </button>
-
-          {/* Candidate Card */}
-          <div className="hidden xl:flex items-center space-x-2 pl-3 border-l border-slate-200">
-            <div className="w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold text-xs shadow-xs">
-              <User size={16} />
-            </div>
-            <div className="text-left leading-tight">
-              <p className="text-xs font-bold text-slate-800">Jigar</p>
-              <p className="text-[10px] text-slate-500 font-mono">Candidate ID: 2026-IT</p>
-            </div>
-          </div>
-        </div>
+        )}
       </div>
 
       {/* 3. MAIN WORKSPACE (Question on Left, Collapsible Palette on Right or Drawer) */}
@@ -881,6 +1006,25 @@ export default function CBTExamPlayer({
                   -{currentQ?.negativeMarks ?? 0.25}
                 </span>
               </div>
+
+              {/* Bookmark Question Button */}
+              <button
+                onClick={handleToggleBookmark}
+                className={`flex items-center space-x-1.5 px-2.5 py-1 rounded-md text-xs font-semibold border transition-all cursor-pointer ${
+                  isCurrentBookmarked
+                    ? 'bg-amber-50 border-amber-300 text-amber-800 shadow-xs'
+                    : 'bg-white border-slate-300 text-slate-600 hover:bg-slate-100 hover:text-slate-900'
+                }`}
+                title={isCurrentBookmarked ? 'Bookmarked - Click to remove' : 'Bookmark this question for revision'}
+              >
+                <Bookmark
+                  size={13}
+                  className={isCurrentBookmarked ? 'fill-amber-500 text-amber-500' : 'text-slate-400'}
+                />
+                <span className="font-medium text-[11px]">
+                  {isCurrentBookmarked ? 'Bookmarked' : 'Bookmark'}
+                </span>
+              </button>
             </div>
           </div>
 
@@ -941,9 +1085,10 @@ export default function CBTExamPlayer({
                 if (isSelected) {
                   optionBg = 'bg-blue-50 border-blue-600 text-blue-950 font-medium shadow-xs';
                 }
-                if (isStudyMode && isCorrect) {
+                const showSolution = isStudyMode || isSubmitted;
+                if (showSolution && isCorrect) {
                   optionBg = 'bg-emerald-50 border-emerald-600 text-emerald-950 font-medium ring-1 ring-emerald-500';
-                } else if (isStudyMode && isSelected && !isCorrect) {
+                } else if (showSolution && isSelected && !isCorrect) {
                   optionBg = 'bg-rose-50 border-rose-600 text-rose-950';
                 }
 
@@ -966,7 +1111,7 @@ export default function CBTExamPlayer({
                       <MathRenderer content={opt.text} className="flex-1" />
                     </div>
 
-                    {isStudyMode && isCorrect && (
+                    {showSolution && isCorrect && (
                       <span className="text-xs bg-emerald-600 text-white font-bold px-2 py-0.5 rounded shrink-0">
                         ✓ Correct Answer
                       </span>
@@ -976,16 +1121,27 @@ export default function CBTExamPlayer({
               })}
             </div>
 
-            {/* Instant Solution & Detailed Explanation Box (Study Mode) */}
-            {isStudyMode && currentQ?.explanation && (
-              <div className="mt-8 p-5 bg-blue-50/60 border border-blue-200 rounded-xl shadow-xs space-y-3 animate-in fade-in duration-200">
-                <div className="flex items-center space-x-2 text-blue-900 font-bold text-sm">
-                  <span>💡 Step-by-Step Official Explanation & Proof:</span>
+            {/* Instant Solution & Detailed Explanation Box (Study Mode or Submitted Review) */}
+            {(isStudyMode || isSubmitted) && (
+              currentQ?.explanation ? (
+                <div className="mt-8 p-5 bg-blue-50/60 border border-blue-200 rounded-xl shadow-xs space-y-3 animate-in fade-in duration-200">
+                  <div className="flex items-center space-x-2 text-blue-900 font-bold text-sm">
+                    <span>💡 Step-by-Step Official Explanation & Proof:</span>
+                  </div>
+                  <div className="text-slate-800 text-sm leading-relaxed prose prose-blue max-w-none">
+                    <MathRenderer content={currentQ.explanation} />
+                  </div>
                 </div>
-                <div className="text-slate-800 text-sm leading-relaxed prose prose-blue max-w-none">
-                  <MathRenderer content={currentQ.explanation} />
+              ) : (
+                <div className="mt-8 p-5 bg-amber-50/70 border border-amber-200 rounded-xl shadow-xs space-y-2 animate-in fade-in duration-200">
+                  <div className="flex items-center space-x-2 text-amber-900 font-bold text-sm">
+                    <span>📝 Official Verified Answer Key:</span>
+                  </div>
+                  <p className="text-slate-700 text-sm leading-relaxed">
+                    Official step-by-step editorial solution is not provided in this memory-based test paper. The verified correct answer is <span className="font-semibold text-emerald-800">Option {currentQ.options?.find((o: any) => String(o.id) === String(currentQ.correctOptionId))?.label || currentQ.correctOptionId}</span>.
+                  </p>
                 </div>
-              </div>
+              )
             )}
               </>
             )}
@@ -1177,6 +1333,7 @@ export default function CBTExamPlayer({
         }}
         onReviewSolutions={() => {
           setIsScorecardOpen(false);
+          setIsStudyMode(true);
         }}
         onReturnToDashboard={handleExitToDashboard}
       />
@@ -1234,6 +1391,71 @@ export default function CBTExamPlayer({
               >
                 <Play size={14} fill="currentColor" />
                 <span>Resume Exam</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Quick Candidate Profile Edit Modal */}
+      {isEditNameModalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-xs p-4 animate-in fade-in duration-150 select-none">
+          <div className="bg-white rounded-2xl shadow-2xl border border-slate-200 max-w-sm w-full p-5 space-y-4 animate-in zoom-in-95 duration-200">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center space-x-2.5">
+                <div className="w-8 h-8 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center font-bold">
+                  <User size={18} />
+                </div>
+                <div>
+                  <h3 className="text-sm font-bold text-slate-900">Candidate Profile</h3>
+                  <p className="text-[11px] text-slate-500">
+                    {candidateInfo.isGoogleUser ? 'Google Drive Account' : 'Guest Candidate'}
+                  </p>
+                </div>
+              </div>
+              <button
+                onClick={() => setIsEditNameModalOpen(false)}
+                className="text-slate-400 hover:text-slate-600 p-1 cursor-pointer"
+              >
+                <X size={16} />
+              </button>
+            </div>
+
+            <div className="space-y-1.5">
+              <label className="text-xs font-semibold text-slate-700">
+                Candidate Name
+              </label>
+              <input
+                type="text"
+                autoFocus
+                value={nameInput}
+                onChange={(e) => setNameInput(e.target.value)}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter') {
+                    setGuestCandidateName(nameInput.trim() || 'Candidate');
+                    setIsEditNameModalOpen(false);
+                  }
+                }}
+                placeholder="Enter candidate name"
+                className="w-full bg-slate-50 border border-slate-300 rounded-xl px-3 py-2 text-xs font-medium text-slate-900 focus:outline-hidden focus:ring-2 focus:ring-blue-500"
+              />
+            </div>
+
+            <div className="flex items-center space-x-2 pt-1">
+              <button
+                onClick={() => setIsEditNameModalOpen(false)}
+                className="flex-1 py-2 text-xs font-semibold text-slate-600 hover:bg-slate-100 rounded-xl transition-colors cursor-pointer"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={() => {
+                  setGuestCandidateName(nameInput.trim() || 'Candidate');
+                  setIsEditNameModalOpen(false);
+                }}
+                className="flex-1 py-2 bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold rounded-xl shadow-xs transition-colors cursor-pointer"
+              >
+                Save Name
               </button>
             </div>
           </div>

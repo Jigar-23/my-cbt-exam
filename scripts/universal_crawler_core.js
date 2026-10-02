@@ -56,7 +56,7 @@ async function ingestSingleTest(testId, outDir, prefix, examCode, stage, customT
     const filename = `${prefix}_${safeTitle}.json`;
     const filePath = path.join(outDir, filename);
 
-    if (fs.existsSync(filePath)) {
+    if (fs.existsSync(filePath) && !process.env.FORCE_OVERWRITE && !process.env.REPAIR_MODE) {
       return true; // Already safely persisted
     }
 
@@ -76,10 +76,16 @@ async function ingestSingleTest(testId, outDir, prefix, examCode, stage, customT
       const ansRes = await fetch(ansUrl, { headers });
       if (ansRes.ok) {
         const ansJson = await ansRes.json();
-        const ansList = ansJson.data?.answers || ansJson.data || [];
-        for (const a of ansList) {
-          const qId = a.questionId || a._id || a.id;
-          if (qId) answersMap[qId] = a;
+        const rawData = ansJson.data?.answers || ansJson.data || {};
+        if (Array.isArray(rawData)) {
+          for (const a of rawData) {
+            const qId = a.questionId || a._id || a.id;
+            if (qId) answersMap[qId] = a;
+          }
+        } else if (typeof rawData === 'object' && rawData !== null) {
+          for (const [qId, a] of Object.entries(rawData)) {
+            answersMap[qId] = a;
+          }
         }
       }
     } catch (e) {}
@@ -114,19 +120,46 @@ async function ingestSingleTest(testId, outDir, prefix, examCode, stage, customT
         });
 
         let solutionHtml = "";
-        if (ansObj.solution) {
+        if (ansObj.sol && ansObj.sol.en && ansObj.sol.en.value) {
+          solutionHtml = cleanHtml(ansObj.sol.en.value);
+        } else if (ansObj.sol && typeof ansObj.sol.en === 'string') {
+          solutionHtml = cleanHtml(ansObj.sol.en);
+        } else if (ansObj.solution && ansObj.solution.en && ansObj.solution.en.value) {
+          solutionHtml = cleanHtml(ansObj.solution.en.value);
+        } else if (ansObj.solution && typeof ansObj.solution === 'string') {
           solutionHtml = cleanHtml(ansObj.solution);
-        } else if (ansObj.explanation) {
+        } else if (ansObj.explanation && typeof ansObj.explanation === 'string') {
           solutionHtml = cleanHtml(ansObj.explanation);
+        } else if (ansObj.explanation && ansObj.explanation.en) {
+          solutionHtml = cleanHtml(ansObj.explanation.en.value || ansObj.explanation.en);
+        } else if (q.en && q.en.solution) {
+          solutionHtml = cleanHtml(q.en.solution.value || q.en.solution);
         } else if (q.solution) {
-          solutionHtml = cleanHtml(q.solution);
+          solutionHtml = cleanHtml(typeof q.solution === 'object' ? (q.solution.value || q.solution.en || "") : q.solution);
         }
 
         let correctOptionIndex = 0;
         if (ansObj.correctOption !== undefined) {
           correctOptionIndex = ansObj.correctOption;
+        } else if (ansObj.answer !== undefined) {
+          correctOptionIndex = ansObj.answer;
+        } else if (ansObj.ans !== undefined) {
+          correctOptionIndex = ansObj.ans;
         } else if (q.correctOption !== undefined) {
           correctOptionIndex = q.correctOption;
+        }
+
+        let direction = "";
+        if (q.direction) {
+          direction = typeof q.direction === 'object' ? cleanHtml(q.direction.value || q.direction.en || "") : cleanHtml(q.direction);
+        } else if (q.passage) {
+          direction = typeof q.passage === 'object' ? cleanHtml(q.passage.value || q.passage.en || "") : cleanHtml(q.passage);
+        } else if (q.precondition) {
+          direction = typeof q.precondition === 'object' ? cleanHtml(q.precondition.value || q.precondition.en || "") : cleanHtml(q.precondition);
+        } else if (q.en) {
+          if (q.en.direction) direction = cleanHtml(q.en.direction.value || q.en.direction);
+          else if (q.en.passage) direction = cleanHtml(q.en.passage.value || q.en.passage);
+          else if (q.en.precondition) direction = cleanHtml(q.en.precondition.value || q.en.precondition);
         }
 
         questions.push({
@@ -135,6 +168,7 @@ async function ingestSingleTest(testId, outDir, prefix, examCode, stage, customT
           sectionId: secId,
           sectionName: secName,
           questionHtml,
+          direction: direction || undefined,
           options,
           correctOptionIndex,
           solutionHtml,

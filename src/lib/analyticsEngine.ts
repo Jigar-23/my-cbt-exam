@@ -71,9 +71,12 @@ export interface SectionAnalysis {
 export interface AttemptRecord {
   attemptId: string;
   testId: string;
+  rawId?: string;
+  aliasIds?: string[];
   testTitle: string;
   exam: string;
   pattern: string;
+  candidateName?: string;
   startedAt: number;
   submittedAt: number;
   totalDurationSeconds: number;
@@ -116,7 +119,8 @@ export function evaluateAttempt(
   telemetryMap: Record<string, QuestionTelemetry>,
   questionStatus: Record<string, string>,
   startedAt: number,
-  submittedAt: number
+  submittedAt: number,
+  candidateName?: string
 ): AttemptRecord {
   const attemptId = `att_${Date.now()}_${Math.random().toString(36).substr(2, 6)}`;
   const sectionsData = testData?.sections || [];
@@ -352,12 +356,20 @@ export function evaluateAttempt(
     }
   }
 
+  const manifestId = testData.manifestId || testData.testItemId;
+  const rawId = testData.rawId || testData.mongoId || testData._id || testData.id;
+  const canonicalTestId = manifestId || testData.testId || rawId || 'unknown_test';
+  const aliasIds = Array.from(new Set([canonicalTestId, manifestId, rawId, testData.testId, ...(testData.aliasIds || [])].filter(Boolean))) as string[];
+
   return {
     attemptId,
-    testId: testData.testId || testData._id || 'unknown_test',
+    testId: canonicalTestId,
+    rawId,
+    aliasIds,
     testTitle: testData.title || 'Examination',
     exam: testData.exam || 'Competitive Exam',
     pattern: testData.pattern || 'STANDARD',
+    candidateName: candidateName || undefined,
     startedAt,
     submittedAt,
     totalDurationSeconds: totalDurationSec,

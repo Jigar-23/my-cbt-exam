@@ -233,7 +233,7 @@ export default function UserPreferencesView({
           className="px-2.5 py-1.5 bg-zinc-100 hover:bg-zinc-200 dark:bg-[#27272a] dark:hover:bg-[#3f3f46] active:scale-95 text-zinc-700 dark:text-zinc-300 rounded-xl text-[11px] font-semibold transition-all flex items-center space-x-1 border border-zinc-200 dark:border-[#3f3f46]/60 cursor-pointer shadow-xs"
         >
           <RotateCcw size={12} />
-          <span>All</span>
+          <span>Show All</span>
         </button>
       </header>
 

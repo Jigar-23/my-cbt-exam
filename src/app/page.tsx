@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useMemo, useRef } from 'react';
+import Link from 'next/link';
 import {
   Landmark,
   Award,
@@ -35,24 +36,34 @@ import {
   DownloadCloud,
   Filter,
   Pause,
+  Bookmark,
+  Settings,
+  KeyRound,
+  WifiOff,
 } from 'lucide-react';
 import CBTExamPlayer from '@/components/CBTExamPlayer';
 import DeepAnalyticsView from '@/components/DeepAnalyticsView';
 import AnalyticsGrowthHub from '@/components/AnalyticsGrowthHub';
+import BookmarksModal from '@/components/BookmarksModal';
+import AppSettingsModal from '@/components/AppSettingsModal';
 import { defaultContentProvider } from '@/lib/contentProvider';
 import { AttemptRecord } from '@/lib/analyticsEngine';
 import { getAllAttempts, getAllInFlightSnapshots, clearInFlightSnapshot, InFlightExamSnapshot } from '@/lib/analyticsStorage';
+import { getAllBookmarks } from '@/lib/bookmarkStorage';
+import { getSecurityStatus, SecurityCheckResult } from '@/lib/securityManager';
 import UserPreferencesView, { UserPreferences } from '@/components/UserPreferencesView';
 import ThemeToggle from '@/components/ThemeToggle';
-import GoogleDriveStatusPill from '@/components/GoogleDriveStatusPill';
 import GoogleDriveLinkModal from '@/components/GoogleDriveLinkModal';
 import { getStoredAccessToken } from '@/lib/gdrive/gdriveAuth';
+import { syncAllWithDrive } from '@/lib/gdrive/gdriveSync';
 import { platformBridge } from '@/lib/platform/platformBridge';
 
 export default function Home() {
   const [manifest, setManifest] = useState<any>(null);
   const [userPreferences, setUserPreferences] = useState<UserPreferences | null>(null);
   const [isPreferencesOpen, setIsPreferencesOpen] = useState<boolean>(false);
+  const [isSettingsOpen, setIsSettingsOpen] = useState<boolean>(false);
+  const [securityStatus, setSecurityStatus] = useState<SecurityCheckResult | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string>('banking');
   const [selectedExamId, setSelectedExamId] = useState<string>('ibps_so_it');
   const [selectedStageId, setSelectedStageId] = useState<string>('all');
@@ -60,6 +71,45 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState<boolean>(false);
   const [isDriveModalOpen, setIsDriveModalOpen] = useState<boolean>(false);
+  const [isBookmarksOpen, setIsBookmarksOpen] = useState<boolean>(false);
+  const [bookmarksCount, setBookmarksCount] = useState<number>(0);
+
+  useEffect(() => {
+    const updateBookmarksCount = () => {
+      setBookmarksCount(getAllBookmarks().length);
+    };
+    updateBookmarksCount();
+    window.addEventListener('cbt_bookmarks_changed', updateBookmarksCount);
+    return () => window.removeEventListener('cbt_bookmarks_changed', updateBookmarksCount);
+  }, []);
+
+  useEffect(() => {
+    const syncSecurity = async () => {
+      try {
+        const sec = await getSecurityStatus(true);
+        setSecurityStatus(sec);
+      } catch (e) {
+        console.warn('Failed to load security status:', e);
+      }
+    };
+    syncSecurity();
+
+    const handleSecUpdate = (e: any) => {
+      if (e?.detail) {
+        setSecurityStatus(e.detail);
+      } else {
+        getSecurityStatus().then(setSecurityStatus);
+      }
+    };
+
+    window.addEventListener('cbt_security_updated', handleSecUpdate as any);
+    window.addEventListener('cbt_work_code_changed', handleSecUpdate as any);
+
+    return () => {
+      window.removeEventListener('cbt_security_updated', handleSecUpdate as any);
+      window.removeEventListener('cbt_work_code_changed', handleSecUpdate as any);
+    };
+  }, []);
 
   // Attempt & In-Flight Filters
   const [attemptsMap, setAttemptsMap] = useState<Record<string, AttemptRecord>>({});
@@ -67,6 +117,7 @@ export default function Home() {
   const [activeSnapshot, setActiveSnapshot] = useState<InFlightExamSnapshot | null>(null);
   const [attemptFilter, setAttemptFilter] = useState<'all' | 'attempted' | 'in_progress' | 'unattempted'>('all');
   const [sortBy, setSortBy] = useState<'default' | 'q_asc' | 'q_desc' | 'dur_asc' | 'dur_desc' | 'score_desc'>('default');
+  const [workCodeAlertMessage, setWorkCodeAlertMessage] = useState<string | null>(null);
 
   const [expandedDomains, setExpandedDomains] = useState<Record<string, boolean>>({ banking: true });
 
@@ -114,12 +165,30 @@ export default function Home() {
   useEffect(() => {
     fetchManifest();
     loadAttemptsAndSnapshots();
-    try {
-      const raw = localStorage.getItem('cbt_user_preferences');
-      if (raw) {
-        setUserPreferences(JSON.parse(raw));
-      }
-    } catch {}
+    const loadSavedPreferences = () => {
+      try {
+        const raw = localStorage.getItem('cbt_user_preferences');
+        if (raw) {
+          const parsed = JSON.parse(raw);
+          // Self-heal: If legacy fallback auto-set single ['banking'] + ['ibps_so_it'], remove it so all categories show
+          if (
+            parsed.selectedDomains?.length === 1 &&
+            parsed.selectedDomains[0] === 'banking' &&
+            parsed.selectedSubdomains?.length === 1 &&
+            parsed.selectedSubdomains[0] === 'ibps_so_it'
+          ) {
+            localStorage.removeItem('cbt_user_preferences');
+            setUserPreferences(null);
+          } else {
+            setUserPreferences(parsed);
+          }
+        } else {
+          setUserPreferences(null);
+        }
+      } catch {}
+    };
+
+    loadSavedPreferences();
 
     // Prompt user to connect Google Drive on first open if not dismissed or already linked
     const token = getStoredAccessToken();
@@ -129,14 +198,61 @@ export default function Home() {
         setIsDriveModalOpen(true);
       }, 700);
       return () => clearTimeout(timer);
+    } else if (token) {
+      // Auto-sync in background on app startup if authenticated
+      syncAllWithDrive()
+        .then(() => {
+          loadAttemptsAndSnapshots();
+          loadSavedPreferences();
+        })
+        .catch(() => {});
     }
+  }, []);
+
+  // Periodic background auto-sync (every 5 minutes) and on window/app resume
+  useEffect(() => {
+    const doBackgroundSync = async () => {
+      const token = getStoredAccessToken();
+      if (token) {
+        try {
+          await syncAllWithDrive();
+          loadAttemptsAndSnapshots();
+        } catch (e) {}
+      }
+      getSecurityStatus().then(setSecurityStatus).catch(() => {});
+    };
+
+    // 5 minutes interval = 300,000 ms
+    const intervalId = setInterval(doBackgroundSync, 300000);
+
+    const handleResume = () => {
+      if (document.visibilityState === 'visible') {
+        doBackgroundSync();
+      }
+    };
+    document.addEventListener('visibilitychange', handleResume);
+    window.addEventListener('focus', handleResume);
+
+    return () => {
+      clearInterval(intervalId);
+      document.removeEventListener('visibilitychange', handleResume);
+      window.removeEventListener('focus', handleResume);
+    };
   }, []);
 
   // Hardware Back Button handler for Dashboard Modals
   useEffect(() => {
     return platformBridge.registerBackHandler(() => {
+      if (workCodeAlertMessage) {
+        setWorkCodeAlertMessage(null);
+        return true;
+      }
       if (isDriveModalOpen) {
         setIsDriveModalOpen(false);
+        return true;
+      }
+      if (isBookmarksOpen) {
+        setIsBookmarksOpen(false);
         return true;
       }
       if (isLeftDrawerOpen) {
@@ -157,13 +273,23 @@ export default function Home() {
       }
       return false; // Allow app to minimize
     });
-  }, [isDriveModalOpen, isLeftDrawerOpen, isPreferencesOpen, isGlobalAnalyticsOpen, globalAnalyticsAttempt]);
+  }, [workCodeAlertMessage, isDriveModalOpen, isBookmarksOpen, isLeftDrawerOpen, isPreferencesOpen, isGlobalAnalyticsOpen, globalAnalyticsAttempt]);
 
   const handleSavePreferences = (prefs: UserPreferences) => {
-    setUserPreferences(prefs);
-    try {
-      localStorage.setItem('cbt_user_preferences', JSON.stringify(prefs));
-    } catch {}
+    // If all domains or zero domains are selected, treat as unfiltered (show all)
+    const isAllSelected = manifest?.categories && prefs.selectedDomains.length >= manifest.categories.length;
+    if (isAllSelected || prefs.selectedDomains.length === 0) {
+      setUserPreferences(null);
+      try {
+        localStorage.removeItem('cbt_user_preferences');
+      } catch {}
+    } else {
+      setUserPreferences(prefs);
+      try {
+        localStorage.setItem('cbt_user_preferences', JSON.stringify(prefs));
+      } catch {}
+    }
+
     if (prefs.selectedDomains.length > 0 && !prefs.selectedDomains.includes(selectedCategory)) {
       setSelectedCategory(prefs.selectedDomains[0]);
       const cat = manifest?.categories?.find((c: any) => c.id === prefs.selectedDomains[0]);
@@ -171,6 +297,12 @@ export default function Home() {
       if (availableExam) {
         setSelectedExamId(availableExam.id);
       }
+    }
+
+    // Auto-sync updated preferences to Google Drive in background
+    const token = getStoredAccessToken();
+    if (token) {
+      syncAllWithDrive().catch(() => {});
     }
   };
 
@@ -181,6 +313,29 @@ export default function Home() {
     }
   }, [activeTestData, isGlobalAnalyticsOpen]);
 
+  const handleSyncComplete = async () => {
+    await loadAttemptsAndSnapshots();
+    try {
+      const raw = localStorage.getItem('cbt_user_preferences');
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (
+          parsed.selectedDomains?.length === 1 &&
+          parsed.selectedDomains[0] === 'banking' &&
+          parsed.selectedSubdomains?.length === 1 &&
+          parsed.selectedSubdomains[0] === 'ibps_so_it'
+        ) {
+          localStorage.removeItem('cbt_user_preferences');
+          setUserPreferences(null);
+        } else {
+          setUserPreferences(parsed);
+        }
+      } else {
+        setUserPreferences(null);
+      }
+    } catch {}
+  };
+
   const loadAttemptsAndSnapshots = async () => {
     try {
       const attempts = await getAllAttempts();
@@ -188,6 +343,16 @@ export default function Home() {
       for (const att of attempts) {
         if (!map[att.testId] || att.submittedAt > map[att.testId].submittedAt) {
           map[att.testId] = att;
+        }
+        if (att.rawId && (!map[att.rawId] || att.submittedAt > map[att.rawId].submittedAt)) {
+          map[att.rawId] = att;
+        }
+        if (Array.isArray(att.aliasIds)) {
+          for (const alias of att.aliasIds) {
+            if (alias && (!map[alias] || att.submittedAt > map[alias].submittedAt)) {
+              map[alias] = att;
+            }
+          }
         }
       }
       setAttemptsMap(map);
@@ -220,6 +385,19 @@ export default function Home() {
   };
 
   const handleLaunchTest = async (testItem: any, studyMode: boolean = false, resume: boolean = false) => {
+    // 1. Verify licensing / work code status
+    const currentSec = await getSecurityStatus();
+    setSecurityStatus(currentSec);
+
+    if (currentSec.isBlocked) {
+      return;
+    }
+
+    if (!currentSec.canTakeExams) {
+      setWorkCodeAlertMessage("Kindly update the code, code isn't correct.");
+      return;
+    }
+
     try {
       setIsTestLoading(true);
       const driveId = testItem.driveFileId;
@@ -228,10 +406,10 @@ export default function Home() {
       setIsStudyMode(studyMode);
 
       if (resume) {
-        const snap = inFlightMap[testItem.id];
+        const snap = inFlightMap[testItem.id] || (testJson?.rawId && inFlightMap[testJson.rawId]);
         setActiveSnapshot(snap || null);
       } else {
-        clearInFlightSnapshot(testItem.id);
+        clearInFlightSnapshot(testItem.id, [testJson?.rawId, testJson?.testId].filter(Boolean));
         setActiveSnapshot(null);
       }
 
@@ -359,14 +537,55 @@ export default function Home() {
 
   const displayedTests = filteredTests;
 
+  // Remote Kill-Switch Blocked Enforcement & Cloud Verification Guard
+  if (securityStatus?.isBlocked) {
+    const isNetworkRequired = securityStatus.source === 'fallback';
+    return (
+      <div className="fixed inset-0 z-[99999] bg-[#09090b] text-white flex flex-col items-center justify-center p-6 text-center select-none font-sans">
+        <div className={`w-20 h-20 rounded-3xl ${isNetworkRequired ? 'bg-amber-500/10 border-amber-500/30 shadow-amber-500/20' : 'bg-rose-500/10 border-rose-500/30 shadow-rose-500/20'} border flex items-center justify-center mb-6 shadow-2xl`}>
+          {isNetworkRequired ? (
+            <WifiOff className="w-10 h-10 text-amber-500" />
+          ) : (
+            <ShieldAlert className="w-10 h-10 text-rose-500" />
+          )}
+        </div>
+        <span className={`px-3 py-1 ${isNetworkRequired ? 'bg-amber-500/20 border-amber-500/40 text-amber-400' : 'bg-rose-500/20 border-rose-500/40 text-rose-400'} border font-mono text-xs font-bold rounded-full mb-3 uppercase tracking-wider`}>
+          {isNetworkRequired ? 'Verification Required' : 'Access Suspended'}
+        </span>
+        <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-white mb-3">
+          {isNetworkRequired ? 'Internet Connection Required' : 'You have been blocked from using the app'}
+        </h1>
+        <p className="text-zinc-400 max-w-md text-xs sm:text-sm leading-relaxed mb-8">
+          {securityStatus.blockMessage || (isNetworkRequired
+            ? 'Internet connection required to verify device authorization with Google Drive. Please connect to the internet to continue.'
+            : `This device (${securityStatus.deviceId || 'Hardware'}) has been restricted by administration.`)}
+        </p>
+        <button
+          onClick={async () => {
+            setIsLoading(true);
+            const sec = await getSecurityStatus(true);
+            setSecurityStatus(sec);
+            setIsLoading(false);
+          }}
+          className="px-6 py-3 bg-[#0858f7] hover:bg-[#0747c7] text-white font-bold rounded-2xl text-xs flex items-center space-x-2 shadow-lg shadow-[#0858f7]/25 transition-all cursor-pointer active:scale-95"
+        >
+          <RefreshCw size={14} className={isLoading ? "animate-spin" : ""} />
+          <span>{isNetworkRequired ? 'Retry Connection' : 'Check Authorization Status'}</span>
+        </button>
+      </div>
+    );
+  }
+
   // View Switching (Placed AFTER all Hooks have executed)
   if (activeTestData) {
     return (
       <CBTExamPlayer
         testData={activeTestData}
-        onExit={() => {
+        testItemId={activeTestData?.manifestId || activeTestData?.testId}
+        onExit={async () => {
           setActiveTestData(null);
           setActiveSnapshot(null);
+          await loadAttemptsAndSnapshots();
         }}
         initialStudyMode={isStudyMode}
         initialSnapshot={activeSnapshot}
@@ -435,11 +654,19 @@ export default function Home() {
         </div>
 
         <div className="flex items-center space-x-1.5">
-          <GoogleDriveStatusPill
-            onOpenConnectModal={() => setIsDriveModalOpen(true)}
-            onSyncComplete={loadAttemptsAndSnapshots}
-          />
           <ThemeToggle variant="icon" />
+          <button
+            onClick={() => setIsBookmarksOpen(true)}
+            className="relative p-2 bg-amber-500/10 dark:bg-amber-500/15 hover:bg-amber-500/20 dark:hover:bg-amber-500/25 text-amber-600 dark:text-amber-400 rounded-lg text-xs font-semibold flex items-center border border-amber-500/30 active:scale-95 transition-all cursor-pointer"
+            title="Bookmarked Questions"
+          >
+            <Bookmark size={15} className="fill-amber-500 text-amber-500" />
+            {bookmarksCount > 0 && (
+              <span className="absolute -top-1 -right-1 min-w-[14px] h-[14px] px-0.5 rounded-full bg-amber-500 text-white font-mono text-[9px] flex items-center justify-center font-bold">
+                {bookmarksCount > 99 ? '99+' : bookmarksCount}
+              </span>
+            )}
+          </button>
           <button
             onClick={() => setIsPreferencesOpen(true)}
             className="p-2 bg-[#0858f7]/10 dark:bg-[#0858f7]/15 hover:bg-[#0858f7]/20 dark:hover:bg-[#0858f7]/25 text-[#0858f7] dark:text-[#60a5fa] rounded-lg text-xs font-semibold flex items-center space-x-1 border border-[#0858f7]/30 active:scale-95 transition-all cursor-pointer"
@@ -595,12 +822,14 @@ export default function Home() {
               </button>
 
               <button
-                onClick={() => fetchManifest(true)}
-                disabled={isRefreshingCatalog}
-                className="w-full flex items-center justify-center space-x-2 px-3 py-2 bg-zinc-100 dark:bg-[#27272a] hover:bg-zinc-200 dark:hover:bg-[#3f3f46] text-zinc-700 dark:text-zinc-300 border border-zinc-200 dark:border-[#3f3f46]/60 rounded-xl text-xs font-medium transition-all disabled:opacity-50 cursor-pointer"
+                onClick={() => {
+                  setIsSettingsOpen(true);
+                  setIsLeftDrawerOpen(false);
+                }}
+                className="w-full flex items-center justify-center space-x-2 px-3 py-2 bg-zinc-100 dark:bg-[#27272a] hover:bg-zinc-200 dark:hover:bg-[#3f3f46] text-zinc-700 dark:text-zinc-300 border border-zinc-200 dark:border-[#3f3f46]/60 rounded-xl text-xs font-semibold transition-all cursor-pointer"
               >
-                <RefreshCw size={13} className={isRefreshingCatalog ? 'animate-spin text-[#0858f7]' : ''} />
-                <span>{isRefreshingCatalog ? 'Syncing...' : 'Sync Cloud'}</span>
+                <Settings size={14} className="text-zinc-500 dark:text-zinc-400" />
+                <span>Settings</span>
               </button>
             </div>
           </div>
@@ -796,12 +1025,11 @@ export default function Home() {
             </button>
 
             <button
-              onClick={() => fetchManifest(true)}
-              disabled={isRefreshingCatalog}
-              className="w-full flex items-center justify-center space-x-2 px-3 py-2 bg-zinc-100 dark:bg-[#27272a] hover:bg-zinc-200 dark:hover:bg-[#3f3f46] text-zinc-700 dark:text-zinc-300 border border-zinc-200 dark:border-[#3f3f46]/60 rounded-xl text-xs font-medium transition-all disabled:opacity-50 cursor-pointer"
+              onClick={() => setIsSettingsOpen(true)}
+              className="w-full flex items-center justify-center space-x-2 px-3 py-2 bg-zinc-100 dark:bg-[#27272a] hover:bg-zinc-200 dark:hover:bg-[#3f3f46] text-zinc-700 dark:text-zinc-300 border border-zinc-200 dark:border-[#3f3f46]/60 rounded-xl text-xs font-semibold transition-all cursor-pointer shadow-sm group"
             >
-              <RefreshCw size={13} className={`text-zinc-500 ${isRefreshingCatalog ? 'animate-spin text-[#0858f7]' : ''}`} />
-              <span>{isRefreshingCatalog ? 'Syncing...' : 'Sync Cloud Catalog'}</span>
+              <Settings size={14} className="text-zinc-500 dark:text-zinc-400 group-hover:rotate-45 transition-transform" />
+              <span>Settings</span>
             </button>
           </div>
         </aside>
@@ -839,12 +1067,6 @@ export default function Home() {
 
           {/* Search Bar & Desktop Actions */}
           <div className="flex items-center space-x-2">
-            <div className="hidden md:flex">
-              <GoogleDriveStatusPill
-                onOpenConnectModal={() => setIsDriveModalOpen(true)}
-                onSyncComplete={loadAttemptsAndSnapshots}
-              />
-            </div>
             <div className="relative w-full md:w-72">
               <Search className="absolute left-3 top-2.5 text-zinc-400 dark:text-zinc-500" size={15} />
               <input
@@ -855,6 +1077,31 @@ export default function Home() {
                 className="w-full bg-zinc-100 dark:bg-[#27272a]/80 border border-zinc-200 dark:border-[#3f3f46] rounded-xl pl-9 pr-4 py-1.5 md:py-2 text-xs text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-hidden focus:ring-2 focus:ring-[#0858f7] transition-all"
               />
             </div>
+            {/* Bookmarked Questions Button */}
+            <button
+              onClick={() => setIsBookmarksOpen(true)}
+              className="relative px-3 py-1.5 md:py-2 bg-amber-500/10 dark:bg-amber-500/15 hover:bg-amber-500/20 dark:hover:bg-amber-500/25 text-amber-700 dark:text-amber-300 rounded-xl text-xs font-semibold flex items-center space-x-1.5 border border-amber-500/30 active:scale-95 transition-all cursor-pointer shadow-xs"
+              title="View Bookmarked Questions"
+            >
+              <Bookmark size={15} className="fill-amber-500 text-amber-500" />
+              <span className="hidden sm:inline font-bold">Bookmarks</span>
+              {bookmarksCount > 0 && (
+                <span className="px-1.5 py-0.2 rounded-full bg-amber-500 text-white font-mono text-[10px] font-bold">
+                  {bookmarksCount}
+                </span>
+              )}
+            </button>
+
+            {/* Download App Button */}
+            <Link
+              href="/download"
+              className="relative px-3 py-1.5 md:py-2 bg-blue-500/10 dark:bg-blue-500/15 hover:bg-blue-500/20 dark:hover:bg-blue-500/25 text-[#0858f7] dark:text-[#60a5fa] rounded-xl text-xs font-semibold flex items-center space-x-1.5 border border-blue-500/30 active:scale-95 transition-all cursor-pointer shadow-xs"
+              title="Download Desktop & Mobile Apps"
+            >
+              <DownloadCloud size={15} />
+              <span className="hidden sm:inline font-bold">Download App</span>
+            </Link>
+
             <div className="hidden md:flex">
               <ThemeToggle variant="icon" />
             </div>
@@ -1109,9 +1356,14 @@ export default function Home() {
                           <BookOpen size={14} className="text-zinc-400 dark:text-zinc-500" />
                           <span>{test.totalQuestions} Questions</span>
                         </span>
-                        <span className="flex items-center space-x-1">
+                        <span className="flex items-center space-x-1.5">
                           <Clock size={14} className="text-zinc-400 dark:text-zinc-500" />
                           <span>{test.totalDurationMinutes} Mins</span>
+                          {test.sectionalDurationMinutes && (
+                            <span className="text-[10px] bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 px-1.5 py-0.2 rounded font-semibold border border-blue-200 dark:border-blue-800">
+                              {test.sectionalDurationMinutes}m/sec
+                            </span>
+                          )}
                         </span>
                         <span>{test.totalMarks} Marks</span>
                       </div>
@@ -1207,6 +1459,12 @@ export default function Home() {
         </div>
       </main>
 
+      {/* Bookmarked Questions Modal */}
+      <BookmarksModal
+        isOpen={isBookmarksOpen}
+        onClose={() => setIsBookmarksOpen(false)}
+      />
+
       {/* Google Drive Attachment Modal */}
       <GoogleDriveLinkModal
         isOpen={isDriveModalOpen}
@@ -1216,6 +1474,51 @@ export default function Home() {
           loadAttemptsAndSnapshots();
         }}
       />
+
+      {/* Application Settings & Licensing Modal */}
+      <AppSettingsModal
+        isOpen={isSettingsOpen}
+        onClose={() => setIsSettingsOpen(false)}
+        onOpenGoogleDriveModal={() => {
+          setIsSettingsOpen(false);
+          setIsDriveModalOpen(true);
+        }}
+        onSyncComplete={handleSyncComplete}
+        onSyncCatalog={() => fetchManifest(true)}
+        isSyncingCatalog={isRefreshingCatalog}
+      />
+
+      {/* Work Code Required Warning Modal */}
+      {workCodeAlertMessage && (
+        <div className="fixed inset-0 z-[9999] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
+          <div className="bg-[#12131a] border border-amber-500/30 rounded-3xl p-6 max-w-sm w-full text-center shadow-2xl shadow-amber-500/10">
+            <div className="w-14 h-14 rounded-2xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center mx-auto mb-4 text-amber-400">
+              <KeyRound size={28} />
+            </div>
+            <h3 className="text-lg font-bold text-white mb-2">Work Code Required</h3>
+            <p className="text-sm text-zinc-300 mb-6 leading-relaxed">
+              {workCodeAlertMessage}
+            </p>
+            <div className="flex space-x-3">
+              <button
+                onClick={() => setWorkCodeAlertMessage(null)}
+                className="flex-1 py-3 px-4 rounded-xl border border-zinc-700 hover:bg-zinc-800 text-zinc-300 font-medium text-xs transition-colors cursor-pointer"
+              >
+                Close
+              </button>
+              <button
+                onClick={() => {
+                  setWorkCodeAlertMessage(null);
+                  setIsSettingsOpen(true);
+                }}
+                className="flex-1 py-3 px-4 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs shadow-lg shadow-blue-600/30 transition-all cursor-pointer active:scale-95"
+              >
+                Update Code
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

@@ -28,6 +28,22 @@ class GDriveClientError extends Error {
   }
 }
 
+function formatDriveApiError(action: string, errorText: string, status?: number): string {
+  try {
+    const parsed = JSON.parse(errorText);
+    const msg = parsed?.error?.message || (Array.isArray(parsed?.error?.details) ? parsed.error.details[0]?.message : null);
+    if (
+      errorText.includes('SERVICE_DISABLED') ||
+      errorText.includes('Google Drive API has not been used') ||
+      errorText.includes('accessNotConfigured')
+    ) {
+      return 'Google Drive API is disabled in your Google Cloud project. Please click the link to enable it, then try syncing again.';
+    }
+    if (msg) return `${action}: ${msg}`;
+  } catch {}
+  return `${action}: ${errorText.slice(0, 150)}`;
+}
+
 /**
  * Executes an authenticated fetch request against Google Drive REST API.
  */
@@ -68,7 +84,7 @@ export async function listAppDataFiles(query?: string): Promise<DriveFileMetadat
 
   if (!res.ok) {
     const errorText = await res.text();
-    throw new GDriveClientError(`Failed to list AppData files: ${errorText}`, res.status);
+    throw new GDriveClientError(formatDriveApiError('Failed to list AppData files', errorText, res.status), res.status);
   }
 
   const data = await res.json();
@@ -84,7 +100,7 @@ export async function downloadAppDataFile<T = any>(fileId: string): Promise<T> {
 
   if (!res.ok) {
     const errorText = await res.text();
-    throw new GDriveClientError(`Failed to download AppData file (${fileId}): ${errorText}`, res.status);
+    throw new GDriveClientError(formatDriveApiError(`Failed to download AppData file (${fileId})`, errorText, res.status), res.status);
   }
 
   const text = await res.text();
@@ -148,7 +164,7 @@ export async function uploadAppDataFile(
 
   if (!res.ok) {
     const errorText = await res.text();
-    throw new GDriveClientError(`Failed to upload AppData file (${fileName}): ${errorText}`, res.status);
+    throw new GDriveClientError(formatDriveApiError(`Failed to upload AppData file (${fileName})`, errorText, res.status), res.status);
   }
 
   return await res.json();
@@ -175,7 +191,7 @@ export async function updateAppDataFile(
 
   if (!res.ok) {
     const errorText = await res.text();
-    throw new GDriveClientError(`Failed to update AppData file (${fileId}): ${errorText}`, res.status);
+    throw new GDriveClientError(formatDriveApiError(`Failed to update AppData file (${fileId})`, errorText, res.status), res.status);
   }
 
   return await res.json();
@@ -241,7 +257,7 @@ export async function ensureAppDataFolder(folderName: string): Promise<string> {
 
       if (!res.ok) {
         const errorText = await res.text();
-        throw new GDriveClientError(`Failed to create AppData folder (${folderName}): ${errorText}`, res.status);
+        throw new GDriveClientError(formatDriveApiError(`Failed to create AppData folder (${folderName})`, errorText, res.status), res.status);
       }
 
       const folder = await res.json();

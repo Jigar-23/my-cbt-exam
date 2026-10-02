@@ -61,6 +61,8 @@ export function recordTombstones(attemptIds: string[]): void {
 
 export interface InFlightExamSnapshot {
   testId: string;
+  rawId?: string;
+  aliasIds?: string[];
   testTitle: string;
   startedAt: number;
   lastSavedAt: number;
@@ -146,8 +148,8 @@ export async function saveCompletedAttempt(attempt: AttemptRecord): Promise<void
     }
   }
 
-  // Clear in-flight snapshot upon successful submission
-  clearInFlightSnapshot(attempt.testId);
+  // Clear in-flight snapshot upon successful submission (including all aliases)
+  clearInFlightSnapshot(attempt.testId, [attempt.rawId, ...(attempt.aliasIds || [])].filter(Boolean) as string[]);
 }
 
 /**
@@ -300,8 +302,16 @@ export function getAllInFlightSnapshots(): Record<string, InFlightExamSnapshot> 
         if (raw) {
           try {
             const snap: InFlightExamSnapshot = JSON.parse(raw);
-            if (snap && snap.testId) {
-              map[snap.testId] = snap;
+            if (snap) {
+              const testKey = key.replace(LOCAL_STORAGE_KEY_SNAPSHOT_PREFIX, '');
+              if (testKey) map[testKey] = snap;
+              if (snap.testId) map[snap.testId] = snap;
+              if (snap.rawId) map[snap.rawId] = snap;
+              if (Array.isArray(snap.aliasIds)) {
+                snap.aliasIds.forEach((id) => {
+                  if (id) map[id] = snap;
+                });
+              }
             }
           } catch {}
         }
@@ -353,17 +363,21 @@ export async function getOfflineTestPaper(testKey: string): Promise<any | null> 
 
 /**
  * In-Flight Crash Protection: Saves active exam state during the exam.
- * Stores in memory, localStorage, and IndexedDB asynchronously.
+ * Stores in memory, localStorage, and IndexedDB asynchronously across all aliases.
  */
 export function saveInFlightSnapshot(snapshot: InFlightExamSnapshot): void {
   if (typeof window === 'undefined' || !snapshot.testId) return;
-  memorySnapshotCache[snapshot.testId] = snapshot;
 
-  try {
-    const key = `${LOCAL_STORAGE_KEY_SNAPSHOT_PREFIX}${snapshot.testId}`;
-    localStorage.setItem(key, JSON.stringify(snapshot));
-  } catch (e) {
-    console.warn('LocalStorage snapshot write failed, relying on IndexedDB & memory:', e);
+  const allKeys = Array.from(new Set([snapshot.testId, snapshot.rawId, ...(snapshot.aliasIds || [])].filter(Boolean))) as string[];
+
+  for (const id of allKeys) {
+    memorySnapshotCache[id] = snapshot;
+    try {
+      const key = `${LOCAL_STORAGE_KEY_SNAPSHOT_PREFIX}${id}`;
+      localStorage.setItem(key, JSON.stringify(snapshot));
+    } catch (e) {
+      console.warn('LocalStorage snapshot write failed, relying on IndexedDB & memory:', e);
+    }
   }
 
   // Also persist to IndexedDB asynchronously
@@ -390,19 +404,22 @@ export function getInFlightSnapshot(testId: string): InFlightExamSnapshot | null
 }
 
 /**
- * Clears saved in-flight snapshot upon exam completion or manual reset.
+ * Clears saved in-flight snapshot upon exam completion or manual reset across all aliases.
  */
-export function clearInFlightSnapshot(testId: string): void {
+export function clearInFlightSnapshot(testId: string, aliasIds?: string[]): void {
   if (typeof window === 'undefined' || !testId) return;
-  delete memorySnapshotCache[testId];
+  const allKeys = Array.from(new Set([testId, ...(aliasIds || [])].filter(Boolean))) as string[];
 
-  try {
-    const key = `${LOCAL_STORAGE_KEY_SNAPSHOT_PREFIX}${testId}`;
-    localStorage.removeItem(key);
-  } catch {}
+  for (const id of allKeys) {
+    delete memorySnapshotCache[id];
+    try {
+      const key = `${LOCAL_STORAGE_KEY_SNAPSHOT_PREFIX}${id}`;
+      localStorage.removeItem(key);
+    } catch {}
 
-  openDatabase().then((db) => {
-    const tx = db.transaction(STORE_SNAPSHOTS, 'readwrite');
-    tx.objectStore(STORE_SNAPSHOTS).delete(testId);
-  }).catch(() => {});
+    openDatabase().then((db) => {
+      const tx = db.transaction(STORE_SNAPSHOTS, 'readwrite');
+      tx.objectStore(STORE_SNAPSHOTS).delete(id);
+    }).catch(() => {});
+  }
 }

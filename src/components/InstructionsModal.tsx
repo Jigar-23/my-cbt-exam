@@ -20,7 +20,21 @@ export default function InstructionsModal({
 }: InstructionsModalProps) {
   if (!isOpen || !testData) return null;
 
-  const isNewPattern = testData.pattern === 'NEW_PATTERN_2026';
+  const isCGL = 
+    /cgl/i.test(testData.exam || '') || 
+    /cgl/i.test(testData.title || '') || 
+    /cgl/i.test(testData.testId || '');
+  const hasFourSections = testData.sections?.length === 4;
+  const isCGLFourSection = isCGL && hasFourSections;
+  const hasSectionalTimer = 
+    testData.hasSectionalTiming ||
+    isCGLFourSection ||
+    testData.pattern === 'NEW_PATTERN_2026' ||
+    (testData.sections?.length > 1 && testData.sections.some((s: any) => typeof s.durationMinutes === 'number' && s.durationMinutes > 0));
+
+  const sectionDuration = isCGLFourSection 
+    ? 15 
+    : (testData.sections?.[0]?.durationMinutes || (testData.pattern === 'NEW_PATTERN_2026' ? (testData.sections?.length === 4 ? 15 : 20) : null));
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-xs p-4 animate-in fade-in duration-150">
@@ -47,6 +61,7 @@ export default function InstructionsModal({
             <h4 className="font-bold text-blue-900 mb-1">{testData.title}</h4>
             <p className="text-xs text-blue-700 font-mono">
               Pattern: {testData.pattern} | Total Questions: {testData.totalQuestions} | Total Duration: {testData.totalDurationMinutes} Minutes
+              {hasSectionalTimer && sectionDuration && ` | Sectional Timing: ${sectionDuration}m / section`}
             </p>
           </div>
 
@@ -55,9 +70,9 @@ export default function InstructionsModal({
             <ol className="list-decimal pl-5 space-y-2 text-xs text-slate-600">
               <li>The clock will be set at the server. The countdown timer in the top right corner of screen will display the remaining time available for you to complete the examination.</li>
               <li>When the timer reaches zero, the examination will end by itself. You will not be required to end or submit your examination.</li>
-              {isNewPattern && (
+              {hasSectionalTimer && sectionDuration && (
                 <li className="font-semibold text-amber-800 bg-amber-50 p-2 rounded">
-                  ⚠️ <strong>Sectional Timing Rule (CRP-SPL-XVI 2026):</strong> Each section is strictly timed for <strong>20 Minutes</strong>. You cannot switch to other sections until the active section timer expires!
+                  ⚠️ <strong>Sectional Timing Rule {isCGLFourSection ? '(SSC CGL 2026 Updated Scheme)' : '(Official Pattern)'}:</strong> Each section is strictly timed for <strong>{sectionDuration} Minutes</strong>. You cannot switch to other sections until the active section timer expires!
                 </li>
               )}
             </ol>

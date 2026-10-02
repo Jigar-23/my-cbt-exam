@@ -7,6 +7,13 @@ const config: CapacitorConfig = {
   server: {
     androidScheme: 'https',
     cleartext: true,
+    allowNavigation: [
+      'accounts.google.com',
+      '*.google.com',
+      '*.googleapis.com',
+      '*.googleusercontent.com',
+      '*.gstatic.com',
+    ],
   },
 };
 

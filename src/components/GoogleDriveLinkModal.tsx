@@ -1,6 +1,7 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { createPortal } from 'react-dom';
 import {
   Cloud,
   ShieldCheck,
@@ -13,10 +14,16 @@ import {
   RefreshCw,
   ArrowRight,
   ExternalLink,
+  User,
 } from 'lucide-react';
-import { signInWithGoogle, getActiveClientId, setCustomClientId } from '@/lib/gdrive/gdriveAuth';
+import {
+  signInWithGoogle,
+  getActiveClientId,
+  setCustomClientId,
+} from '@/lib/gdrive/gdriveAuth';
 import { syncAllWithDrive } from '@/lib/gdrive/gdriveSync';
 import { GoogleUser } from '@/lib/gdrive/types';
+import { getActiveCandidateInfo, setGuestCandidateName } from '@/lib/candidateProfile';
 
 interface GoogleDriveLinkModalProps {
   isOpen: boolean;
@@ -33,8 +40,40 @@ export default function GoogleDriveLinkModal({
   const [error, setError] = useState<string | null>(null);
   const [showConfig, setShowConfig] = useState(false);
   const [customClientId, setCustomClientIdState] = useState(getActiveClientId());
+  const [mounted, setMounted] = useState(false);
+  const [isEnteringGuestName, setIsEnteringGuestName] = useState(false);
+  const [guestNameInput, setGuestNameInput] = useState('');
 
-  if (!isOpen) return null;
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  useEffect(() => {
+    if (isOpen) {
+      const info = getActiveCandidateInfo();
+      setGuestNameInput(info.isGoogleUser ? '' : info.name === 'Candidate' ? '' : info.name);
+      setIsEnteringGuestName(false);
+      setError(null);
+    }
+  }, [isOpen]);
+
+  const handleSaveGuestName = () => {
+    const finalName = guestNameInput.trim() || 'Candidate';
+    setGuestCandidateName(finalName);
+    handleDismiss();
+  };
+
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isOpen) {
+        handleDismiss();
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isOpen]);
+
+  if (!isOpen || !mounted) return null;
 
   const handleSignIn = async () => {
     setIsLoading(true);
@@ -45,10 +84,17 @@ export default function GoogleDriveLinkModal({
         setCustomClientId(customClientId.trim());
       }
 
-      const { user } = await signInWithGoogle(customClientId.trim());
+      const { user } = await signInWithGoogle({
+        customClientId: customClientId.trim() || undefined,
+        prompt: 'select_account',
+      });
       
       // Run initial sync in background
       syncAllWithDrive().catch(console.warn);
+
+      if (typeof window !== 'undefined') {
+        window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
+      }
 
       onSuccess(user);
       onClose();
@@ -65,11 +111,76 @@ export default function GoogleDriveLinkModal({
     onClose();
   };
 
-  return (
-    <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 animate-in fade-in duration-200">
-      <div className="bg-white dark:bg-[#18181b] border border-zinc-200 dark:border-[#27272a] rounded-3xl max-w-md w-full p-6 shadow-2xl space-y-5 text-zinc-900 dark:text-zinc-100">
-        
-        {/* Header */}
+  return createPortal(
+    <div
+      onClick={handleDismiss}
+      className="fixed inset-0 z-[9999] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 animate-in fade-in duration-200"
+    >
+      <div
+        onClick={(e) => e.stopPropagation()}
+        className="bg-white dark:bg-[#18181b] border border-zinc-200 dark:border-[#27272a] rounded-3xl max-w-md w-full p-6 shadow-2xl space-y-5 text-zinc-900 dark:text-zinc-100 my-auto max-h-[92vh] overflow-y-auto"
+      >
+        {isEnteringGuestName ? (
+          <div className="space-y-4 py-1 animate-in fade-in duration-200">
+            {/* Header */}
+            <div className="flex items-start justify-between">
+              <div className="flex items-center space-x-3">
+                <div className="w-12 h-12 rounded-2xl bg-blue-500/10 dark:bg-blue-500/20 text-blue-600 dark:text-blue-400 flex items-center justify-center shrink-0 border border-blue-500/20 shadow-xs">
+                  <User className="w-6 h-6" />
+                </div>
+                <div>
+                  <h2 className="text-base font-bold text-zinc-900 dark:text-white">Candidate Details</h2>
+                  <p className="text-xs text-zinc-500 dark:text-zinc-400">Personalize Your CBT Exam Profile</p>
+                </div>
+              </div>
+              <button
+                onClick={handleDismiss}
+                className="p-1.5 text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 rounded-xl hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors cursor-pointer"
+              >
+                <X size={18} />
+              </button>
+            </div>
+
+            <div className="p-3.5 bg-zinc-50 dark:bg-zinc-900/60 rounded-2xl border border-zinc-200/60 dark:border-zinc-800/80 text-xs text-zinc-600 dark:text-zinc-300 leading-relaxed">
+              Enter your candidate name. This name will appear on your examination header, question palette, and detailed performance scorecards.
+            </div>
+
+            <div className="space-y-1.5">
+              <label className="text-xs font-semibold text-zinc-700 dark:text-zinc-300">
+                Candidate Name
+              </label>
+              <input
+                type="text"
+                autoFocus
+                placeholder="e.g. Rahul Sharma"
+                value={guestNameInput}
+                onChange={(e) => setGuestNameInput(e.target.value)}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter') handleSaveGuestName();
+                }}
+                className="w-full bg-zinc-50 dark:bg-[#27272a] border border-zinc-300 dark:border-zinc-700 rounded-xl px-3.5 py-2.5 text-xs text-zinc-900 dark:text-zinc-100 focus:outline-hidden focus:ring-2 focus:ring-blue-500 font-medium"
+              />
+            </div>
+
+            <div className="flex items-center space-x-2 pt-2">
+              <button
+                onClick={() => setIsEnteringGuestName(false)}
+                className="flex-1 py-2.5 px-4 bg-zinc-100 hover:bg-zinc-200 dark:bg-zinc-800 dark:hover:bg-zinc-700 text-zinc-700 dark:text-zinc-300 text-xs font-semibold rounded-xl transition-colors cursor-pointer"
+              >
+                Back
+              </button>
+              <button
+                onClick={handleSaveGuestName}
+                className="flex-1 py-2.5 px-4 bg-blue-600 hover:bg-blue-700 active:scale-98 text-white text-xs font-bold rounded-xl shadow-md transition-all cursor-pointer flex items-center justify-center space-x-1.5"
+              >
+                <span>Save &amp; Continue</span>
+                <ArrowRight size={14} />
+              </button>
+            </div>
+          </div>
+        ) : (
+          <>
+            {/* Header */}
         <div className="flex items-start justify-between">
           <div className="flex items-center space-x-3">
             <div className="w-12 h-12 rounded-2xl bg-[#0858f7]/10 dark:bg-[#0858f7]/20 text-[#0858f7] dark:text-[#60a5fa] flex items-center justify-center shrink-0 border border-[#0858f7]/20 shadow-xs">
@@ -112,55 +223,78 @@ export default function GoogleDriveLinkModal({
 
         {/* Error Callout */}
         {error && (
-          <div className="p-3 bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-900/60 rounded-xl flex items-start space-x-2 text-rose-700 dark:text-rose-300 text-xs">
-            <AlertCircle className="w-4 h-4 shrink-0 mt-0.5" />
-            <div className="flex-1">
-              <p className="font-semibold">Connection Error</p>
-              <p className="mt-0.5 opacity-90">{error}</p>
-              {!showConfig && (
+          <div className="p-3.5 bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-900/60 rounded-2xl flex items-start space-x-2.5 text-rose-700 dark:text-rose-300 text-xs">
+            <AlertCircle className="w-4 h-4 shrink-0 mt-0.5 text-rose-500" />
+            <div className="flex-1 space-y-1.5">
+              <p className="font-bold">Authentication Notice</p>
+              <p className="text-[11px] leading-relaxed opacity-95">{error}</p>
+              <div className="flex flex-wrap items-center gap-2 pt-1">
                 <button
-                  onClick={() => setShowConfig(true)}
-                  className="mt-1.5 text-xs underline font-bold hover:opacity-80 block"
+                  type="button"
+                  onClick={() => handleSignIn()}
+                  className="px-2.5 py-1 bg-rose-100 hover:bg-rose-200 dark:bg-rose-900/50 dark:hover:bg-rose-800/60 text-rose-800 dark:text-rose-200 rounded-lg text-[11px] font-bold transition-colors cursor-pointer"
                 >
-                  Configure Custom Client ID
+                  Retry Sign-In
                 </button>
-              )}
+                {!showConfig && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setShowConfig(true);
+                      setError(null);
+                    }}
+                    className="text-[11px] underline font-bold hover:opacity-80 cursor-pointer"
+                  >
+                    Configure Client ID
+                  </button>
+                )}
+              </div>
             </div>
           </div>
         )}
 
-        {/* Custom Client ID Toggle */}
+        {/* Custom Configuration Toggle */}
         {showConfig && (
-          <div className="p-3 bg-zinc-100 dark:bg-zinc-800/60 rounded-xl space-y-2 border border-zinc-200 dark:border-zinc-700/60 text-xs">
+          <div className="p-3.5 bg-zinc-100 dark:bg-zinc-800/60 rounded-2xl space-y-2 border border-zinc-200 dark:border-zinc-700/60 text-xs">
             <div className="flex items-center justify-between">
               <span className="font-bold flex items-center space-x-1.5">
                 <Key className="w-3.5 h-3.5 text-[#0858f7]" />
-                <span>Google OAuth Client ID</span>
+                <span>Google OAuth Configuration</span>
               </span>
               <button
+                type="button"
                 onClick={() => setShowConfig(false)}
-                className="text-zinc-400 hover:text-zinc-600 text-[10px]"
+                className="text-zinc-400 hover:text-zinc-600 text-[10px] cursor-pointer"
               >
                 Hide
               </button>
             </div>
-            <input
-              type="text"
-              value={customClientId}
-              onChange={(e) => setCustomClientIdState(e.target.value)}
-              placeholder="e.g. 123456789-abc.apps.googleusercontent.com"
-              className="w-full px-2.5 py-1.5 bg-white dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-700 rounded-lg text-xs font-mono focus:outline-none focus:border-[#0858f7]"
-            />
-            <p className="text-[10px] text-zinc-500 dark:text-zinc-400">
-              Obtained from Google Cloud Console &gt; APIs &amp; Services &gt; Credentials.
-            </p>
+
+            <div className="space-y-1">
+              <label className="text-[11px] font-semibold text-zinc-700 dark:text-zinc-300">
+                Google Client ID
+              </label>
+              <input
+                type="text"
+                value={customClientId}
+                onChange={(e) => {
+                  setCustomClientIdState(e.target.value);
+                  if (error) setError(null);
+                }}
+                placeholder="e.g. 123456789-abc.apps.googleusercontent.com"
+                className="w-full px-2.5 py-1.5 bg-white dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-700 rounded-lg text-xs font-mono focus:outline-none focus:border-[#0858f7]"
+              />
+              <p className="text-[10px] text-zinc-500 dark:text-zinc-400">
+                From Google Cloud Console &gt; APIs &amp; Services &gt; Credentials.
+              </p>
+            </div>
           </div>
         )}
 
         {/* Action Buttons */}
         <div className="space-y-2 pt-1">
           <button
-            onClick={handleSignIn}
+            onClick={() => handleSignIn()}
             disabled={isLoading}
             className="w-full py-2.5 px-4 bg-[#0858f7] hover:bg-[#0747c7] active:scale-[0.99] text-white text-xs font-bold rounded-xl transition-all shadow-md shadow-[#0858f7]/25 flex items-center justify-center space-x-2 cursor-pointer disabled:opacity-50"
           >
@@ -195,11 +329,21 @@ export default function GoogleDriveLinkModal({
             )}
           </button>
 
+          {isLoading && (
+            <button
+              onClick={() => setIsLoading(false)}
+              className="w-full text-center text-[11px] text-zinc-400 hover:text-rose-500 py-1 font-medium transition-colors cursor-pointer"
+            >
+              ✕ Cancel / Retry
+            </button>
+          )}
+
           <button
-            onClick={handleDismiss}
-            className="w-full py-2 px-4 bg-zinc-100 hover:bg-zinc-200 dark:bg-zinc-800/80 dark:hover:bg-zinc-700/80 text-zinc-600 dark:text-zinc-300 text-xs font-semibold rounded-xl transition-colors cursor-pointer"
+            onClick={() => setIsEnteringGuestName(true)}
+            className="w-full py-2 px-4 bg-zinc-100 hover:bg-zinc-200 dark:bg-zinc-800/80 dark:hover:bg-zinc-700/80 text-zinc-600 dark:text-zinc-300 text-xs font-semibold rounded-xl transition-colors cursor-pointer flex items-center justify-center space-x-1.5"
           >
-            Continue as Guest (Offline Only)
+            <User size={13} />
+            <span>Continue as Guest (Offline Only)</span>
           </button>
         </div>
 
@@ -209,15 +353,17 @@ export default function GoogleDriveLinkModal({
           {!showConfig && (
             <button
               onClick={() => setShowConfig(true)}
-              className="hover:text-zinc-600 dark:hover:text-zinc-300 flex items-center space-x-1"
+              className="hover:text-zinc-600 dark:hover:text-zinc-300 flex items-center space-x-1 cursor-pointer"
             >
               <Key size={10} />
               <span>OAuth Settings</span>
             </button>
           )}
         </div>
-
+          </>
+        )}
       </div>
-    </div>
+    </div>,
+    document.body
   );
 }

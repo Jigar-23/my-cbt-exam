@@ -12,16 +12,27 @@ const STORAGE_KEY_TOKEN = 'cbt_gdrive_access_token';
 const STORAGE_KEY_TOKEN_EXPIRY = 'cbt_gdrive_token_expiry';
 const STORAGE_KEY_USER = 'cbt_gdrive_user';
 const STORAGE_KEY_CLIENT_ID = 'cbt_gdrive_custom_client_id';
+const STORAGE_KEY_TEST_EMAIL = 'cbt_gdrive_test_email';
 
 // Default Scope: isolated appDataFolder sandbox (zero access to personal files)
 export const GDRIVE_APPDATA_SCOPE = 'https://www.googleapis.com/auth/drive.appdata https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email';
 
 // Default or environment-provided Client ID
-export const DEFAULT_CLIENT_ID = process.env.NEXT_PUBLIC_GDRIVE_CLIENT_ID || '';
+export const DEFAULT_CLIENT_ID =
+  process.env.NEXT_PUBLIC_GDRIVE_CLIENT_ID ||
+  '278674712647-cs2vp8doclrdrgc00cur2fjap3mitr9e.apps.googleusercontent.com';
 
 declare global {
   interface Window {
     google?: any;
+    electronAPI?: {
+      platform: string;
+      version: string;
+      isElectron: boolean;
+      toggleFullScreen: () => void;
+      onOAuthWindowClosed?: (callback: () => void) => void;
+      removeOAuthWindowClosed?: (callback: () => void) => void;
+    };
   }
 }
 
@@ -71,6 +82,26 @@ export function setCustomClientId(clientId: string): void {
     localStorage.setItem(STORAGE_KEY_CLIENT_ID, clientId.trim());
   } else {
     localStorage.removeItem(STORAGE_KEY_CLIENT_ID);
+  }
+}
+
+/**
+ * Retrieves the stored target or test user email (if any).
+ */
+export function getStoredTestEmail(): string {
+  if (typeof window === 'undefined') return '';
+  return localStorage.getItem(STORAGE_KEY_TEST_EMAIL) || '';
+}
+
+/**
+ * Sets or clears the stored target/test user email.
+ */
+export function setStoredTestEmail(email: string): void {
+  if (typeof window === 'undefined') return;
+  if (email && email.trim()) {
+    localStorage.setItem(STORAGE_KEY_TEST_EMAIL, email.trim());
+  } else {
+    localStorage.removeItem(STORAGE_KEY_TEST_EMAIL);
   }
 }
 
@@ -131,25 +162,123 @@ async function fetchGoogleUserProfile(accessToken: string): Promise<GoogleUser> 
   };
 }
 
+export interface SignInOptions {
+  customClientId?: string;
+  loginHint?: string;
+  prompt?: 'select_account' | 'consent';
+}
+
 /**
  * Triggers Google OAuth 2.0 token prompt using Google Identity Services.
+ * Forces the Google Account Chooser screen ('select_account') so users can
+ * pick between existing logged-in accounts or add/use any test account.
  */
-export async function signInWithGoogle(customClientId?: string): Promise<{ user: GoogleUser; token: string }> {
+export async function signInWithGoogle(
+  optionsOrClientId?: string | SignInOptions
+): Promise<{ user: GoogleUser; token: string }> {
   await loadGsiScript();
 
-  const clientId = customClientId || getActiveClientId();
+  let clientId: string | undefined;
+  let loginHint: string | undefined;
+  let promptMode: 'select_account' | 'consent' = 'select_account';
+
+  if (typeof optionsOrClientId === 'string') {
+    clientId = optionsOrClientId.trim() || undefined;
+  } else if (optionsOrClientId) {
+    clientId = optionsOrClientId.customClientId?.trim() || undefined;
+    loginHint = optionsOrClientId.loginHint?.trim() || undefined;
+    if (optionsOrClientId.prompt) {
+      promptMode = optionsOrClientId.prompt;
+    }
+  }
+
+  clientId = clientId || getActiveClientId();
   if (!clientId) {
     throw new Error('Google Client ID is missing. Please configure your Google Cloud OAuth Client ID.');
   }
 
+  if (!loginHint) {
+    const savedTestEmail = getStoredTestEmail();
+    if (savedTestEmail) loginHint = savedTestEmail;
+  }
+
   return new Promise((resolve, reject) => {
+    let settled = false;
+
+    // Reset current tokens before starting fresh auth
+    localStorage.removeItem(STORAGE_KEY_TOKEN);
+    localStorage.removeItem(STORAGE_KEY_TOKEN_EXPIRY);
+
+    const cleanup = () => {
+      settled = true;
+      clearTimeout(safetyTimer);
+      if (typeof window !== 'undefined' && window.electronAPI?.removeOAuthWindowClosed) {
+        window.electronAPI.removeOAuthWindowClosed(onWindowClosed);
+      }
+    };
+
+    const onWindowClosed = () => {
+      // 800ms grace period to allow OAuth callback and user profile fetch to complete
+      setTimeout(() => {
+        if (!settled) {
+          const storedToken = getStoredAccessToken();
+          const storedUser = getStoredUser();
+          if (storedToken && storedUser) {
+            cleanup();
+            resolve({ user: storedUser, token: storedToken });
+            return;
+          }
+          cleanup();
+          reject(new Error('Google Sign-In window was closed.'));
+        }
+      }, 800);
+    };
+
+    // 60s safety timeout so the UI never hangs forever
+    const safetyTimer = setTimeout(() => {
+      if (!settled) {
+        cleanup();
+        reject(new Error('Sign-In request timed out. Please try again.'));
+      }
+    }, 60000);
+
+    // Register electron popup close listener if running on Desktop
+    if (typeof window !== 'undefined' && window.electronAPI?.onOAuthWindowClosed) {
+      window.electronAPI.onOAuthWindowClosed(onWindowClosed);
+    }
+
     try {
-      const tokenClient = window.google.accounts.oauth2.initTokenClient({
+      const clientConfig: any = {
         client_id: clientId,
         scope: GDRIVE_APPDATA_SCOPE,
+        prompt: promptMode,
+        error_callback: (err: any) => {
+          if (!settled) {
+            cleanup();
+            reject(new Error(err?.message || err?.type || 'Authentication window closed or blocked.'));
+          }
+        },
         callback: async (response: any) => {
+          if (settled) return;
+          // Mark settled immediately so onWindowClosed doesn't race against profile fetch
+          settled = true;
+          clearTimeout(safetyTimer);
+          if (typeof window !== 'undefined' && window.electronAPI?.removeOAuthWindowClosed) {
+            window.electronAPI.removeOAuthWindowClosed(onWindowClosed);
+          }
+          if (typeof window !== 'undefined' && (window as any).Capacitor?.Plugins?.SystemTheme?.dismissAuthDialog) {
+            try {
+              (window as any).Capacitor.Plugins.SystemTheme.dismissAuthDialog();
+            } catch (ignored) {}
+          }
+
           if (response.error) {
-            reject(new Error(response.error_description || response.error));
+            cleanup();
+            let errDesc = response.error_description || response.error;
+            if (response.error === 'access_denied') {
+              errDesc = 'Access denied. If your Google Cloud OAuth app is in "Testing" status, ensure your Google email is added to "Test users" in Google Cloud Console > OAuth consent screen.';
+            }
+            reject(new Error(errDesc));
             return;
           }
 
@@ -164,16 +293,38 @@ export async function signInWithGoogle(customClientId?: string): Promise<{ user:
             localStorage.setItem(STORAGE_KEY_TOKEN, accessToken);
             localStorage.setItem(STORAGE_KEY_TOKEN_EXPIRY, String(expiryTime));
             localStorage.setItem(STORAGE_KEY_USER, JSON.stringify(user));
+            if (typeof window !== 'undefined') {
+              window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
+            }
 
+            cleanup();
             resolve({ user, token: accessToken });
           } catch (err: any) {
+            cleanup();
             reject(err);
           }
         },
-      });
+      };
 
-      tokenClient.requestAccessToken({ prompt: 'consent' });
+      if (loginHint) {
+        clientConfig.login_hint = loginHint;
+        clientConfig.hint = loginHint;
+        clientConfig.prompt = 'consent';
+      }
+
+      const tokenClient = window.google.accounts.oauth2.initTokenClient(clientConfig);
+
+      const requestConfig: any = {
+        prompt: loginHint ? 'consent' : promptMode,
+      };
+      if (loginHint) {
+        requestConfig.login_hint = loginHint;
+        requestConfig.hint = loginHint;
+      }
+
+      tokenClient.requestAccessToken(requestConfig);
     } catch (e: any) {
+      cleanup();
       reject(new Error(`Failed to initialize Google Sign-In: ${e.message}`));
     }
   });
@@ -197,4 +348,7 @@ export function signOutFromGoogle(): void {
   localStorage.removeItem(STORAGE_KEY_TOKEN);
   localStorage.removeItem(STORAGE_KEY_TOKEN_EXPIRY);
   localStorage.removeItem(STORAGE_KEY_USER);
+  if (typeof window !== 'undefined') {
+    window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
+  }
 }

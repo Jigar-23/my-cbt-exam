@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain } = require('electron');
+const { app, BrowserWindow, ipcMain, shell } = require('electron');
 const path = require('path');
 const fs = require('fs');
 const http = require('http');
@@ -52,6 +52,39 @@ const mimeTypes = {
   '.txt': 'text/plain; charset=utf-8',
 };
 
+const candidateVaultDirs = [
+  process.env.CBT_DATA_DIR,
+  '/Users/jigar/Library/CloudStorage/GoogleDrive-pulkit10112@gmail.com/My Drive/CBT_EXAM_MASTER',
+  '/Users/jigar/Library/CloudStorage/GoogleDrive-penguin1hehe1234@gmail.com/My Drive/CBT_EXAM_MASTER',
+  path.join(__dirname, '..', '..', 'test-serverless', 'data'),
+  path.join(__dirname, '..', 'data'),
+].filter(Boolean);
+
+function findVaultFile(reqPath) {
+  if (!reqPath || typeof reqPath !== 'string') return null;
+  let cleanPath = decodeURIComponent(reqPath)
+    .replace(/^(\.\/|\/)?(public\/|data\/)?/, '')
+    .replace(/^\/+/, '');
+  for (const vaultDir of candidateVaultDirs) {
+    try {
+      const fullPath = path.resolve(vaultDir, cleanPath);
+      const normalizedVaultDir = path.resolve(vaultDir);
+      if (fullPath.startsWith(normalizedVaultDir) && fs.existsSync(fullPath) && fs.statSync(fullPath).isFile()) {
+        return fullPath;
+      }
+    } catch (e) {}
+  }
+  return null;
+}
+
+// Ensure Google Drive FileProvider daemon is awake in background on macOS
+if (process.platform === 'darwin') {
+  try {
+    const { exec } = require('child_process');
+    exec('open -g -a "Google Drive"', () => {});
+  } catch (_) {}
+}
+
 function startServer() {
   return new Promise((resolve, reject) => {
     const outDir = path.join(__dirname, '..', 'out');
@@ -69,23 +102,27 @@ function startServer() {
         const normalizedOutDir = path.resolve(outDir);
         let resolvedPath = path.resolve(outDir, '.' + pathname);
 
-        // Security Boundary Enforcement: Path cannot escape outDir
-        if (!resolvedPath.startsWith(normalizedOutDir)) {
-          res.writeHead(403, { 'Content-Type': 'text/plain' });
-          res.end('Access Denied');
-          return;
-        }
-
         let filePath = resolvedPath;
         let exists = false;
         try {
-          exists = fs.existsSync(filePath);
-          if (exists && fs.statSync(filePath).isDirectory()) {
-            filePath = path.join(filePath, 'index.html');
+          if (resolvedPath.startsWith(normalizedOutDir)) {
             exists = fs.existsSync(filePath);
+            if (exists && fs.statSync(filePath).isDirectory()) {
+              filePath = path.join(filePath, 'index.html');
+              exists = fs.existsSync(filePath);
+            }
           }
         } catch (e) {
           exists = false;
+        }
+
+        // Check CBT Exam Master vault directories if file does not exist in outDir
+        if (!exists) {
+          const vaultFile = findVaultFile(pathname);
+          if (vaultFile) {
+            filePath = vaultFile;
+            exists = true;
+          }
         }
 
         if (!exists) {
@@ -100,7 +137,24 @@ function startServer() {
 
         const ext = path.extname(filePath).toLowerCase();
         const contentType = mimeTypes[ext] || 'application/octet-stream';
-        const content = fs.readFileSync(filePath);
+
+        let content;
+        try {
+          content = fs.readFileSync(filePath);
+        } catch (readErr) {
+          if (readErr.code === 'ETIMEDOUT' && process.platform === 'darwin') {
+            log('FileProvider timeout reading ' + filePath + ', waking Google Drive...');
+            try {
+              const { execSync } = require('child_process');
+              execSync('open -g -a "Google Drive"');
+              content = fs.readFileSync(filePath);
+            } catch (retryErr) {
+              throw retryErr;
+            }
+          } else {
+            throw readErr;
+          }
+        }
 
         res.writeHead(200, {
           'Content-Type': contentType,
@@ -114,16 +168,27 @@ function startServer() {
       }
     });
 
-    server.listen(0, '127.0.0.1', () => {
-      const port = server.address().port;
-      log('CBT Exam Master internal server running on port: ' + port);
-      resolve(port);
-    });
+    const preferredPort = 3000;
+    function tryListen(p) {
+      server.removeAllListeners('error');
+      server.once('error', (err) => {
+        if (err.code === 'EADDRINUSE' && p < 3005) {
+          log(`Port ${p} in use, trying port ${p + 1}...`);
+          tryListen(p + 1);
+        } else {
+          log('HTTP server error: ' + (err.stack || err));
+          reject(err);
+        }
+      });
 
-    server.on('error', (err) => {
-      log('HTTP server error: ' + (err.stack || err));
-      reject(err);
-    });
+      server.listen(p, '127.0.0.1', () => {
+        const port = server.address().port;
+        log('CBT Exam Master internal server running on port: ' + port);
+        resolve(port);
+      });
+    }
+
+    tryListen(preferredPort);
   });
 }
 
@@ -153,15 +218,73 @@ async function createWindow() {
       log('Renderer process gone: ' + JSON.stringify(details));
     });
 
-    mainWindow.webContents.on('did-fail-load', (event, errorCode, errorDescription, validatedURL) => {
-      log(`Failed to load ${validatedURL} [${errorCode}]: ${errorDescription}`);
+    mainWindow.webContents.setWindowOpenHandler(({ url }) => {
+      log('Window open requested: ' + url);
+      // External links (documentation, console, privacy policy) open in user's default browser
+      if (!url.includes('accounts.google.com')) {
+        shell.openExternal(url);
+        return { action: 'deny' };
+      }
+      return {
+        action: 'allow',
+        overrideBrowserWindowOptions: {
+          width: 540,
+          height: 680,
+          autoHideMenuBar: true,
+          title: 'Sign in with Google',
+          webPreferences: {
+            nodeIntegration: false,
+            contextIsolation: true,
+          },
+        },
+      };
     });
 
-    mainWindow.loadURL(`http://127.0.0.1:${port}/index.html`);
+    mainWindow.webContents.on('did-create-window', (childWindow) => {
+      log('Child OAuth window created');
+      childWindow.on('closed', () => {
+        log('Child OAuth window closed');
+        if (mainWindow && !mainWindow.isDestroyed()) {
+          mainWindow.webContents.send('oauth-window-closed');
+        }
+      });
+    });
+
+    mainWindow.loadURL(`http://localhost:${port}/index.html`);
 
     ipcMain.on('toggle-fullscreen', () => {
       if (mainWindow) {
         mainWindow.setFullScreen(!mainWindow.isFullScreen());
+      }
+    });
+
+    ipcMain.handle('cbt:get-test-paper', async (event, testPath) => {
+      try {
+        const vaultFile = findVaultFile(testPath);
+        if (vaultFile) {
+          const raw = fs.readFileSync(vaultFile, 'utf8');
+          return JSON.parse(raw);
+        }
+      } catch (err) {
+        log('IPC get-test-paper error for ' + testPath + ': ' + err.message);
+      }
+      return null;
+    });
+
+    ipcMain.handle('cbt:get-device-physical-id', () => {
+      try {
+        const os = require('os');
+        const interfaces = os.networkInterfaces();
+        for (const name of Object.keys(interfaces)) {
+          for (const iface of interfaces[name]) {
+            if (!iface.internal && iface.mac && iface.mac !== '00:00:00:00:00:00') {
+              return `MAC-${iface.mac.toUpperCase()}`;
+            }
+          }
+        }
+        return `MAC-DESKTOP-${(os.hostname() || 'PC').toUpperCase()}`;
+      } catch (err) {
+        return 'MAC-DESKTOP-UNKNOWN';
       }
     });
 
@@ -185,8 +308,6 @@ app.on('window-all-closed', () => {
   if (server) {
     try { server.close(); } catch (e) {}
   }
-  if (process.platform !== 'darwin') {
-    app.quit();
-  }
+  app.quit();
 });
 

@@ -59,6 +59,43 @@ const MANIFEST_FILE_ID = process.env.NEXT_PUBLIC_MANIFEST_FILE_ID || '14PeByz2hg
 const memoryCache: Record<string, any> = {};
 
 /**
+ * Helper to unescape HTML entities in questions, solutions, and options.
+ */
+function decodeEntities(str: any): string {
+  if (!str || typeof str !== 'string') return typeof str === 'number' ? String(str) : '';
+  if (!str.includes('&')) return str;
+  let res = str;
+  for (let pass = 0; pass < 2; pass++) {
+    if (!res.includes('&')) break;
+    res = res
+      .replace(/&#(\d+);/g, (_, dec) => String.fromCharCode(parseInt(dec, 10)))
+      .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)))
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&#039;|&apos;|&#39;/g, "'")
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&plusmn;/g, '±')
+      .replace(/&times;/g, '×')
+      .replace(/&divide;/g, '÷')
+      .replace(/&deg;/g, '°')
+      .replace(/&minus;/g, '−')
+      .replace(/&le;/g, '≤')
+      .replace(/&ge;/g, '≥')
+      .replace(/&ne;/g, '≠')
+      .replace(/&asymp;/g, '≈')
+      .replace(/&infin;/g, '∞')
+      .replace(/&pi;/g, 'π')
+      .replace(/&theta;/g, 'θ')
+      .replace(/&alpha;/g, 'α')
+      .replace(/&beta;/g, 'β')
+      .replace(/&radic;/g, '√')
+      .replace(/&amp;/g, '&');
+  }
+  return res;
+}
+
+/**
  * Normalizes test data from both Schema A (sections with questions array)
  * and Schema B (scraped format with questions at root) into a strict Schema A structure
  * that CBTExamPlayer expects, preventing runtime crashes.
@@ -67,7 +104,18 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
   if (!data) return data;
 
   const normalized: any = { ...data };
-  normalized.testId = data.testId || data.id || testItem?.id || fallbackTestId || 'mock_test';
+  // Canonical ID MUST match the manifest test ID so that dashboard cards, in-flight snapshots,
+  // attempt records, and resumption logic all align with testItem.id.
+  const manifestId = testItem?.id || fallbackTestId;
+  const rawId = data.testId || data.id || data._id;
+  const canonicalId = manifestId || rawId || 'mock_test';
+
+  normalized.testId = canonicalId;
+  normalized.id = canonicalId;
+  normalized.manifestId = manifestId;
+  normalized.rawId = rawId;
+  normalized.aliasIds = Array.from(new Set([canonicalId, manifestId, rawId, data.testId, data.id, fallbackTestId].filter(Boolean))) as string[];
+
   normalized.title = testItem?.title || data.title || 'Official Practice Mock Test';
   normalized.exam = testItem?.exam || data.exam || 'CBT Exam Master 2026';
   normalized.pattern = testItem?.pattern || data.pattern || 'NEW_PATTERN_2026';
@@ -113,7 +161,8 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
     const normalizedQuestions = rawQuestions.map((q: any, idx: number) => {
       totalNormalizedQuestions++;
       const qId = q.id || `q_${secIdx + 1}_${idx + 1}`;
-      const qText = q.text || q.questionHtml || q.question || '<p>Question statement</p>';
+      const rawText = q.text || q.questionHtml || q.question || '<p>Question statement</p>';
+      const qText = decodeEntities(rawText);
 
       // Normalize options to [{ id, label, text, image }]
       let options = q.options;
@@ -122,14 +171,14 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
           options = options.map((optStr: string, oIdx: number) => ({
             id: String(oIdx + 1),
             label: String(oIdx + 1),
-            text: optStr,
+            text: decodeEntities(optStr),
             image: null
           }));
         } else {
           options = options.map((optObj: any, oIdx: number) => ({
             id: String(optObj.id ?? (oIdx + 1)),
             label: String(optObj.label ?? (oIdx + 1)),
-            text: optObj.text || optObj.value || '',
+            text: decodeEntities(optObj.text || optObj.value || ''),
             image: optObj.image || null
           }));
         }
@@ -143,12 +192,29 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
       }
 
       // Normalize correctOptionId
-      let correctOptionId = q.correctOptionId;
-      if (correctOptionId === undefined && q.correctOptionIndex !== undefined) {
-        correctOptionId = String(Number(q.correctOptionIndex) + 1);
-      } else if (correctOptionId !== undefined) {
-        correctOptionId = String(correctOptionId);
+      let correctOptionId: string | undefined = undefined;
+
+      if (q.correctOptionId !== undefined && q.correctOptionId !== null) {
+        correctOptionId = String(q.correctOptionId);
       } else {
+        const rawOpt = q.correctOptionIndex !== undefined ? q.correctOptionIndex : q.correctOption;
+        if (rawOpt !== undefined && rawOpt !== null) {
+          const num = Number(rawOpt);
+          if (!isNaN(num)) {
+            if (num === 0) {
+              // 0-based index pointing to 1st option
+              correctOptionId = '1';
+            } else if (num >= 1 && num <= options.length) {
+              // 1-based index (Testbook standard: 1, 2, 3, 4)
+              correctOptionId = String(num);
+            } else {
+              correctOptionId = String(num);
+            }
+          }
+        }
+      }
+
+      if (!correctOptionId) {
         correctOptionId = '1';
       }
 
@@ -162,14 +228,14 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
         correctOptionId,
         marks: q.marks || q.positiveMarks || 1,
         negativeMarks: q.negativeMarks !== undefined ? q.negativeMarks : 0.25,
-        explanation: q.explanation || q.solutionHtml || q.solution || '',
+        explanation: decodeEntities(q.explanation || q.solutionHtml || q.solution || ''),
         topic: q.topic || '',
         difficulty: q.difficulty || 'medium',
-        direction: q.direction || null,
-        passage: q.passage || null,
-        precondition: q.precondition || null,
-        instruction: q.instruction || null,
-        caselet: q.caselet || null,
+        direction: q.direction ? decodeEntities(q.direction) : null,
+        passage: q.passage ? decodeEntities(q.passage) : null,
+        precondition: q.precondition ? decodeEntities(q.precondition) : null,
+        instruction: q.instruction ? decodeEntities(q.instruction) : null,
+        caselet: q.caselet ? decodeEntities(q.caselet) : null,
       };
     });
 
@@ -187,6 +253,35 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
   const totalQs = sections.reduce((acc, s) => acc + (s.questions?.length || 0), 0);
   if (totalQs === 0) {
     return generateEmergencyMock(testItem, fallbackTestId);
+  }
+
+  // SSC CGL Sectional Timing Policy: SSC updated 4-section full papers to 15 mins per section (60 mins total)
+  const isCGL = 
+    /cgl/i.test(normalized.exam || '') || 
+    /cgl/i.test(testItem?.exam || '') || 
+    /cgl/i.test(testItem?.id || '') || 
+    /cgl/i.test(testItem?.path || '') || 
+    /cgl/i.test(testItem?.relativePath || '') || 
+    /cgl/i.test(data.title || '') || 
+    /cgl/i.test(testItem?.title || '') ||
+    /cgl/i.test(testItem?.stage || '') ||
+    /cgl/i.test(data.stage || '');
+
+  const isFourSectionTest = sections.length === 4;
+
+  if ((isCGL && isFourSectionTest) || (isFourSectionTest && (normalized.totalQuestions === 100 || normalized.totalDurationMinutes === 60) && /ssc/i.test(normalized.exam || testItem?.exam || ''))) {
+    sections.forEach((sec: any) => {
+      sec.durationMinutes = 15;
+    });
+    normalized.hasSectionalTiming = true;
+    normalized.sectionalDurationMinutes = 15;
+    normalized.totalDurationMinutes = 60;
+  } else if (sections.length === 3 && normalized.pattern === 'NEW_PATTERN_2026') {
+    sections.forEach((sec: any) => {
+      if (!sec.durationMinutes) sec.durationMinutes = 20;
+    });
+    normalized.hasSectionalTiming = true;
+    normalized.sectionalDurationMinutes = 20;
   }
 
   normalized.sections = sections;
@@ -363,7 +458,10 @@ export class GoogleDriveContentProvider implements ContentProvider {
 
   async getTest(driveFileId?: string, relativePath?: string, testItem?: any): Promise<any> {
     const testId = testItem?.id || testItem?.testId || '';
-    const cacheKey = driveFileId || testId || relativePath || 'test';
+    const rawPath = relativePath || testItem?.relativePath || testItem?.path || testItem?.filename || '';
+    const cleanPath = rawPath.replace(/\\/g, '/').replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
+    const filename = testItem?.filename || cleanPath.split('/').pop() || '';
+    const cacheKey = driveFileId || testId || cleanPath || 'test';
 
     if (memoryCache[cacheKey]) {
       return memoryCache[cacheKey];
@@ -379,13 +477,62 @@ export class GoogleDriveContentProvider implements ContentProvider {
       }
     } catch (e) {}
 
-    // 2. Lookup in test_index.json (Offline-first bundled mock repository)
+    // 2. Direct Electron Native IPC Bridge (Instantaneous local vault access)
+    if (typeof window !== 'undefined' && (window as any).electronAPI?.getTestPaper) {
+      try {
+        const ipcRaw = await (window as any).electronAPI.getTestPaper(cleanPath || filename || testId);
+        if (ipcRaw && (ipcRaw.questions?.length > 0 || ipcRaw.sections?.length > 0)) {
+          const normalized = normalizeTestPaper(ipcRaw, testItem, testId);
+          memoryCache[cacheKey] = normalized;
+          saveOfflineTestPaper(cacheKey, normalized).catch(() => {});
+          return normalized;
+        }
+      } catch (e) {
+        console.warn('Native vault IPC read failed:', e);
+      }
+    }
+
+    // 3. Direct local candidate HTTP paths (Served by internal Electron HTTP server or static assets)
+    const candidatePaths = [
+      cleanPath ? `/${cleanPath}` : '',
+      cleanPath ? `/data/${cleanPath}` : '',
+      cleanPath ? `/data/group_b/${cleanPath}` : '',
+      filename ? `/data/group_b/ibps_so_it/new_pattern_2026/prelims/${filename}` : '',
+      filename ? `/data/group_b/ibps_so_it/old_pattern_2025/prelims/${filename}` : '',
+      testId ? `/data/group_b/ibps_so_it/new_pattern_2026/prelims/new_pattern_2026_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/old_pattern_2025/prelims/old_pattern_2025_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/pyq_shifts/pyq_shift_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/english/topic_drill_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/quant/topic_drill_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/reasoning/topic_drill_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/it_knowledge/topic_drill_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/general_awareness/topic_drill_${testId}.json` : '',
+      testId ? `/data/group_b/ibps_so_it/descriptive/descriptive_${testId}.json` : '',
+    ].filter(Boolean);
+
+    for (const p of candidatePaths) {
+      if (!p || p === '/data/' || p === '/data/group_b/' || p === '/') continue;
+      try {
+        const localRes = await fetch(p);
+        if (localRes.ok) {
+          const raw = await localRes.json();
+          if (raw && (raw.questions?.length > 0 || raw.sections?.length > 0)) {
+            const normalized = normalizeTestPaper(raw, testItem, testId);
+            memoryCache[cacheKey] = normalized;
+            saveOfflineTestPaper(cacheKey, normalized).catch(() => {});
+            return normalized;
+          }
+        }
+      } catch (e) {}
+    }
+
+    // 4. Lookup in test_index.json (Offline-first bundled mock repository)
     try {
       const testIndex = await this.getTestIndex();
       const mappedPath = testIndex[testId] || 
-        testIndex[testItem?.filename] || 
-        (relativePath ? testIndex[relativePath] : undefined) ||
-        (relativePath ? testIndex[relativePath.split('/').pop() || ''] : undefined);
+        testIndex[filename] || 
+        (cleanPath ? testIndex[cleanPath] : undefined) ||
+        (cleanPath ? testIndex[cleanPath.split('/').pop() || ''] : undefined);
 
       if (mappedPath) {
         const cleanUrl = '/' + mappedPath.replace(/\\/g, '/').replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
@@ -400,40 +547,6 @@ export class GoogleDriveContentProvider implements ContentProvider {
       }
     } catch (e) {
       console.warn('test_index lookup failed:', e);
-    }
-
-    // 3. Fallback to direct local candidate paths
-    const filename = testItem?.filename || relativePath?.replace(/\\/g, '/').split('/').pop() || '';
-    const cleanPath = (relativePath || '').replace(/\\/g, '/').replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
-    const candidatePaths = [
-      `/data/${cleanPath}`,
-      `/data/group_b/${cleanPath}`,
-      `/data/group_b/ibps_so_it/new_pattern_2026/prelims/${filename}`,
-      `/data/group_b/ibps_so_it/old_pattern_2025/prelims/${filename}`,
-      testId ? `/data/group_b/ibps_so_it/new_pattern_2026/prelims/new_pattern_2026_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/old_pattern_2025/prelims/old_pattern_2025_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/pyq_shifts/pyq_shift_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/english/topic_drill_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/quant/topic_drill_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/reasoning/topic_drill_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/it_knowledge/topic_drill_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/sectional_and_drills/general_awareness/topic_drill_${testId}.json` : '',
-      testId ? `/data/group_b/ibps_so_it/descriptive/descriptive_${testId}.json` : '',
-      `/${cleanPath}`,
-    ].filter(Boolean);
-
-    for (const p of candidatePaths) {
-      if (!p || p === '/data/' || p === '/data/group_b/' || p === '/') continue;
-      try {
-        const localRes = await fetch(p);
-        if (localRes.ok) {
-          const raw = await localRes.json();
-          const normalized = normalizeTestPaper(raw, testItem, testId);
-          memoryCache[cacheKey] = normalized;
-          saveOfflineTestPaper(cacheKey, normalized).catch(() => {});
-          return normalized;
-        }
-      } catch (e) {}
     }
 
     // 4. If driveFileId is provided, fetch from Google Drive Cloud API
@@ -456,9 +569,29 @@ export class GoogleDriveContentProvider implements ContentProvider {
       }
     }
 
-    // 5. Universal Fallback: Load an authentic mock paper from bundled vault and adapt metadata
+    // 5. Subject-Aware Fallback: Pick an authentic paper matching the subject rather than 1 hardcoded test
+    const lowerTitle = (testItem?.title || '').toLowerCase();
+    const lowerExam = (testItem?.exam || testItem?.category || '').toLowerCase();
+
+    let subjectFallback = '/data/group_b/ibps_so_it/sectional_and_drills/quant/topic_drill_69f9a107348b3193baae1217.json';
+    if (lowerTitle.includes('reason') || lowerExam.includes('reason')) {
+      subjectFallback = '/data/group_b/ibps_so_it/sectional_and_drills/reasoning/topic_drill_69f9a0c5348b3193baae0d0f.json';
+    } else if (lowerTitle.includes('english') || lowerExam.includes('english') || lowerTitle.includes('verbal')) {
+      subjectFallback = '/data/group_b/ibps_so_it/sectional_and_drills/english/topic_drill_69f9a067f0a3dfbc41259f23.json';
+    } else if (
+      lowerTitle.includes('science') || lowerTitle.includes('history') || lowerTitle.includes('polity') ||
+      lowerTitle.includes('current') || lowerTitle.includes('general') || lowerTitle.includes('awareness') ||
+      lowerExam.includes('civil') || lowerExam.includes('psc') || lowerExam.includes('railway')
+    ) {
+      subjectFallback = '/data/group_b/ibps_so_it/sectional_and_drills/general_awareness/topic_drill_69f9a09775ebbbe81716b0d7.json';
+    } else if (lowerTitle.includes('it') || lowerTitle.includes('computer') || lowerExam.includes('so_it')) {
+      subjectFallback = '/data/group_b/ibps_so_it/new_pattern_2026/prelims/new_pattern_2026_6a7c25218da956df954be4f6.json';
+    } else {
+      subjectFallback = '/data/group_b/ibps_so_it/new_pattern_2026/prelims/new_pattern_2026_6a44e5080a26e154459d9424.json';
+    }
+
     const fallbackCandidates = [
-      '/data/group_b/ibps_so_it/new_pattern_2026/prelims/new_pattern_2026_6a7c25218da956df954be4f6.json',
+      subjectFallback,
       '/data/group_b/ibps_so_it/new_pattern_2026/prelims/new_pattern_2026_6a44e5080a26e154459d9424.json',
     ];
 
