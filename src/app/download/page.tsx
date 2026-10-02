@@ -286,7 +286,7 @@ export default function DownloadPage() {
             </div>
 
             <a
-              href="https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT_Exam_Master_2026_Mac.dmg"
+              href="https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT.Exam.Master.2026-1.0.0-arm64.dmg"
               className="w-full py-2.5 px-4 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-semibold text-xs text-center flex items-center justify-center space-x-2 shadow-sm transition-all"
             >
               <Download size={14} />
