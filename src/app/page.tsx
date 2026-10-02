@@ -576,6 +576,57 @@ export default function Home() {
     );
   }
 
+  // Remote Degraded / Deprecated Version Invalidation Guard (Option A - Hard Lockout Gate)
+  if (securityStatus?.isDegraded) {
+    return (
+      <div className="fixed inset-0 z-[99999] bg-[#09090b] text-white flex flex-col items-center justify-center p-6 text-center select-none font-sans">
+        <div className="w-20 h-20 rounded-3xl bg-blue-500/10 border-blue-500/30 shadow-blue-500/20 border flex items-center justify-center mb-6 shadow-2xl">
+          <DownloadCloud className="w-10 h-10 text-blue-400" />
+        </div>
+        <span className="px-3 py-1 bg-blue-500/20 border-blue-500/40 text-blue-400 border font-mono text-xs font-bold rounded-full mb-3 uppercase tracking-wider">
+          Update Required · Version Deprecated
+        </span>
+        <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-white mb-3">
+          App Version Retired
+        </h1>
+        <p className="text-zinc-400 max-w-md text-xs sm:text-sm leading-relaxed mb-6">
+          {securityStatus.degradedMessage ||
+            `Version ${securityStatus.appVersion || 1}.0 of CBT Exam Master has been retired for security and stability. Please update to continue practicing.`}
+        </p>
+
+        {/* Local DB Preserved Badge */}
+        <div className="max-w-md bg-zinc-900/80 border border-zinc-800 rounded-xl p-3 mb-8 flex items-center space-x-3 text-left">
+          <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0" />
+          <p className="text-[12px] text-zinc-300">
+            <strong>Your data is safe:</strong> All your past exam attempts, bookmarks, and scorecards are preserved locally on this device and will be ready when you install the new update.
+          </p>
+        </div>
+
+        <div className="flex flex-col sm:flex-row items-center gap-3">
+          <a
+            href={securityStatus.downloadUrl || '/download'}
+            className="px-7 py-3 bg-[#0858f7] hover:bg-[#0747c7] text-white font-bold rounded-2xl text-xs flex items-center space-x-2 shadow-lg shadow-[#0858f7]/25 transition-all cursor-pointer active:scale-95"
+          >
+            <DownloadCloud size={15} />
+            <span>Download Latest Update</span>
+          </a>
+          <button
+            onClick={async () => {
+              setIsLoading(true);
+              const sec = await getSecurityStatus(true);
+              setSecurityStatus(sec);
+              setIsLoading(false);
+            }}
+            className="px-5 py-3 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 font-semibold rounded-2xl text-xs flex items-center space-x-2 transition-all cursor-pointer"
+          >
+            <RefreshCw size={13} className={isLoading ? "animate-spin" : ""} />
+            <span>Check Update Status</span>
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   // View Switching (Placed AFTER all Hooks have executed)
   if (activeTestData) {
     return (
