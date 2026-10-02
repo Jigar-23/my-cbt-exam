@@ -2,11 +2,11 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Download, Monitor, Laptop, Smartphone, Globe, ArrowRight } from 'lucide-react';
+import { Download, Monitor, Laptop, Smartphone, Tablet, Globe, ArrowRight } from 'lucide-react';
 import ThemeToggle from '@/components/ThemeToggle';
 
 export default function DownloadPage() {
-  const [os, setOS] = useState<'windows' | 'mac' | 'android' | 'web'>('windows');
+  const [os, setOS] = useState<'windows' | 'mac' | 'android' | 'ios' | 'web'>('windows');
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -14,7 +14,9 @@ export default function DownloadPage() {
 
     if (ua.includes('android')) {
       setOS('android');
-    } else if (ua.includes('mac') && !ua.includes('iphone') && !ua.includes('ipad')) {
+    } else if (ua.includes('iphone') || ua.includes('ipad')) {
+      setOS('ios');
+    } else if (ua.includes('mac')) {
       setOS('mac');
     } else if (ua.includes('win')) {
       setOS('windows');
@@ -29,15 +31,23 @@ export default function DownloadPage() {
         return {
           title: 'Download for Android',
           url: '/download/android',
-          spec: 'Android 8.0 or later · 10 MB (.apk)',
+          spec: 'Android 8.0 or later · 20 MB (.apk)',
           altText: null,
           altUrl: null,
+        };
+      case 'ios':
+        return {
+          title: 'Download for iOS',
+          url: '/download/ios',
+          spec: 'iOS 15.0+ (iPhone & iPad) · Signed Developer Package · 15 MB (.ipa)',
+          altText: 'or practice directly in Safari',
+          altUrl: '/',
         };
       case 'mac':
         return {
           title: 'Download for Mac',
           url: '/download/mac',
-          spec: 'macOS 11 or later (Apple Silicon) · 119 MB (.dmg)',
+          spec: 'macOS 11 or later (Apple Silicon) · 129 MB (.dmg)',
           altText: null,
           altUrl: null,
         };
@@ -45,8 +55,8 @@ export default function DownloadPage() {
         return {
           title: 'Download for Windows',
           url: '/download/windows',
-          spec: 'Windows 11 / 10 (64-bit) · 218 MB (.exe)',
-          altText: 'or download Portable .zip (276 MB)',
+          spec: 'Windows 11 / 10 (64-bit) · 100 MB (.exe)',
+          altText: 'or download Portable .zip (158 MB)',
           altUrl: '/download/windows-portable',
         };
       default:
@@ -149,7 +159,7 @@ export default function DownloadPage() {
             All Available Downloads
           </h2>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 text-left">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-left">
             {/* Windows */}
             <div className="p-5 rounded-2xl bg-white dark:bg-zinc-900/50 border border-black/[0.06] dark:border-white/[0.08] flex flex-col justify-between shadow-[0_1px_3px_rgba(0,0,0,0.02)]">
               <div>
@@ -186,7 +196,7 @@ export default function DownloadPage() {
                   href="/download/mac"
                   className="text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center space-x-1"
                 >
-                  <span>Download .dmg (119 MB)</span>
+                  <span>Download .dmg (129 MB)</span>
                   <ArrowRight size={12} />
                 </a>
               </div>
@@ -204,25 +214,43 @@ export default function DownloadPage() {
                   href="/download/android"
                   className="text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center space-x-1"
                 >
-                  <span>Download .apk (10 MB)</span>
+                  <span>Download .apk (20 MB)</span>
                   <ArrowRight size={12} />
                 </a>
               </div>
             </div>
 
-            {/* Web */}
+            {/* iOS */}
             <div className="p-5 rounded-2xl bg-white dark:bg-zinc-900/50 border border-black/[0.06] dark:border-white/[0.08] flex flex-col justify-between shadow-[0_1px_3px_rgba(0,0,0,0.02)]">
               <div>
+                <Tablet size={22} className="text-zinc-700 dark:text-zinc-300 mb-3" />
+                <h3 className="font-semibold text-sm text-zinc-900 dark:text-white mb-0.5">iOS</h3>
+                <p className="text-xs text-zinc-500 dark:text-zinc-400 mb-4">iPhone & iPad (iOS 15+)</p>
+              </div>
+              <div className="pt-2 border-t border-black/[0.04] dark:border-white/[0.04]">
+                <a
+                  href="/download/ios"
+                  className="text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center space-x-1"
+                >
+                  <span>Download .ipa (Signed · 15 MB)</span>
+                  <ArrowRight size={12} />
+                </a>
+              </div>
+            </div>
+
+            {/* Web Browser */}
+            <div className="p-5 rounded-2xl bg-white dark:bg-zinc-900/50 border border-black/[0.06] dark:border-white/[0.08] flex flex-col justify-between shadow-[0_1px_3px_rgba(0,0,0,0.02)] sm:col-span-2 lg:col-span-2">
+              <div>
                 <Globe size={22} className="text-zinc-700 dark:text-zinc-300 mb-3" />
-                <h3 className="font-semibold text-sm text-zinc-900 dark:text-white mb-0.5">Web Browser</h3>
-                <p className="text-xs text-zinc-500 dark:text-zinc-400 mb-4">Chrome, Edge, Safari</p>
+                <h3 className="font-semibold text-sm text-zinc-900 dark:text-white mb-0.5">Web Simulator</h3>
+                <p className="text-xs text-zinc-500 dark:text-zinc-400 mb-4">Chrome, Edge, Safari, Firefox — practice without installing</p>
               </div>
               <div className="pt-2 border-t border-black/[0.04] dark:border-white/[0.04]">
                 <Link
                   href="/"
                   className="text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center space-x-1"
                 >
-                  <span>Open in browser</span>
+                  <span>Launch Web Simulator</span>
                   <ArrowRight size={12} />
                 </Link>
               </div>
