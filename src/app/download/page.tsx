@@ -7,7 +7,6 @@ import ThemeToggle from '@/components/ThemeToggle';
 
 export default function DownloadPage() {
   const [os, setOS] = useState<'windows' | 'mac' | 'android' | 'web'>('windows');
-  const [osLabel, setOSLabel] = useState('Windows');
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -15,16 +14,12 @@ export default function DownloadPage() {
 
     if (ua.includes('android')) {
       setOS('android');
-      setOSLabel('Android');
     } else if (ua.includes('mac') && !ua.includes('iphone') && !ua.includes('ipad')) {
       setOS('mac');
-      setOSLabel('macOS');
     } else if (ua.includes('win')) {
       setOS('windows');
-      setOSLabel('Windows');
     } else {
       setOS('web');
-      setOSLabel('Web');
     }
   }, []);
 
@@ -33,7 +28,7 @@ export default function DownloadPage() {
       case 'android':
         return {
           title: 'Download for Android',
-          url: 'https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT_Exam_Master_2026.apk',
+          url: '/download/android',
           spec: 'Android 8.0 or later · 10 MB (.apk)',
           altText: null,
           altUrl: null,
@@ -41,7 +36,7 @@ export default function DownloadPage() {
       case 'mac':
         return {
           title: 'Download for Mac',
-          url: 'https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT.Exam.Master.2026-1.0.0-arm64.dmg',
+          url: '/download/mac',
           spec: 'macOS 11 or later (Apple Silicon) · 119 MB (.dmg)',
           altText: null,
           altUrl: null,
@@ -49,10 +44,10 @@ export default function DownloadPage() {
       case 'windows':
         return {
           title: 'Download for Windows',
-          url: 'https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT.Exam.Master.2026.1.0.0.exe',
+          url: '/download/windows',
           spec: 'Windows 11 / 10 (64-bit) · 218 MB (.exe)',
           altText: 'or download Portable .zip (276 MB)',
-          altUrl: 'https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT_Exam_Master_2026_Windows_Portable.zip',
+          altUrl: '/download/windows-portable',
         };
       default:
         return {
@@ -83,14 +78,6 @@ export default function DownloadPage() {
             <Link href="/" className="hover:text-black dark:hover:text-white transition-colors">
               Web Simulator
             </Link>
-            <a
-              href="https://github.com/Jigar-23/my-cbt-exam"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-black dark:hover:text-white transition-colors"
-            >
-              GitHub
-            </a>
             <ThemeToggle variant="icon" />
           </nav>
         </div>
@@ -148,7 +135,7 @@ export default function DownloadPage() {
               )}
             </p>
             <p>
-              Free and open •{' '}
+              Free to use •{' '}
               <Link href="/" className="text-blue-600 dark:text-blue-400 hover:underline">
                 Or practice online in browser
               </Link>
@@ -172,14 +159,14 @@ export default function DownloadPage() {
               </div>
               <div className="flex flex-col space-y-1.5 pt-2 border-t border-black/[0.04] dark:border-white/[0.04]">
                 <a
-                  href="https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT.Exam.Master.2026.1.0.0.exe"
+                  href="/download/windows"
                   className="text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center space-x-1"
                 >
                   <span>Download Installer (.exe)</span>
                   <ArrowRight size={12} />
                 </a>
                 <a
-                  href="https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT_Exam_Master_2026_Windows_Portable.zip"
+                  href="/download/windows-portable"
                   className="text-[11px] text-zinc-500 dark:text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200"
                 >
                   Download Portable (.zip)
@@ -196,7 +183,7 @@ export default function DownloadPage() {
               </div>
               <div className="pt-2 border-t border-black/[0.04] dark:border-white/[0.04]">
                 <a
-                  href="https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT.Exam.Master.2026-1.0.0-arm64.dmg"
+                  href="/download/mac"
                   className="text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center space-x-1"
                 >
                   <span>Download .dmg (119 MB)</span>
@@ -214,7 +201,7 @@ export default function DownloadPage() {
               </div>
               <div className="pt-2 border-t border-black/[0.04] dark:border-white/[0.04]">
                 <a
-                  href="https://github.com/Jigar-23/my-cbt-exam/releases/download/v1.0.0/CBT_Exam_Master_2026.apk"
+                  href="/download/android"
                   className="text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center space-x-1"
                 >
                   <span>Download .apk (10 MB)</span>
@@ -277,19 +264,11 @@ export default function DownloadPage() {
       {/* Clean Minimal Footer */}
       <footer className="border-t border-black/[0.06] dark:border-white/[0.08] py-8 text-[12px] text-zinc-500 dark:text-zinc-500 bg-white/50 dark:bg-transparent">
         <div className="max-w-5xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p>© 2026 CBT Exam Master. Free and open source.</p>
+          <p>© 2026 CBT Exam Master. Built for serious aspirants.</p>
           <div className="flex items-center space-x-6">
             <Link href="/" className="hover:text-black dark:hover:text-white transition-colors">
               Web Simulator
             </Link>
-            <a
-              href="https://github.com/Jigar-23/my-cbt-exam"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-black dark:hover:text-white transition-colors"
-            >
-              GitHub
-            </a>
           </div>
         </div>
       </footer>
