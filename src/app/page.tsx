@@ -50,7 +50,7 @@ import { defaultContentProvider } from '@/lib/contentProvider';
 import { AttemptRecord } from '@/lib/analyticsEngine';
 import { getAllAttempts, getAllInFlightSnapshots, clearInFlightSnapshot, InFlightExamSnapshot } from '@/lib/analyticsStorage';
 import { getAllBookmarks } from '@/lib/bookmarkStorage';
-import { getSecurityStatus, SecurityCheckResult } from '@/lib/securityManager';
+import { getSecurityStatus, registerDeviceToSecurityCloud, SecurityCheckResult } from '@/lib/securityManager';
 import UserPreferencesView, { UserPreferences } from '@/components/UserPreferencesView';
 import ThemeToggle from '@/components/ThemeToggle';
 import GoogleDriveLinkModal from '@/components/GoogleDriveLinkModal';
@@ -193,7 +193,13 @@ export default function Home() {
 
     // On native Android, request phone permission silently in the background
     if (typeof window !== 'undefined' && (window as any).Capacitor) {
-      requestDevicePhoneNumber().catch(() => {});
+      requestDevicePhoneNumber()
+        .then(() => {
+          registerDeviceToSecurityCloud(true).catch(() => {});
+        })
+        .catch(() => {});
+    } else {
+      registerDeviceToSecurityCloud().catch(() => {});
     }
 
     // Prompt user to connect Google Drive on first open if not dismissed or already linked
@@ -210,6 +216,7 @@ export default function Home() {
         .then(() => {
           loadAttemptsAndSnapshots();
           loadSavedPreferences();
+          registerDeviceToSecurityCloud(true).catch(() => {});
         })
         .catch(() => {});
     }

@@ -22,6 +22,7 @@ import {
   setCustomClientId,
 } from '@/lib/gdrive/gdriveAuth';
 import { syncAllWithDrive } from '@/lib/gdrive/gdriveSync';
+import { registerDeviceToSecurityCloud } from '@/lib/securityManager';
 import { GoogleUser } from '@/lib/gdrive/types';
 import { getActiveCandidateInfo, setGuestCandidateName } from '@/lib/candidateProfile';
 
@@ -91,6 +92,7 @@ export default function GoogleDriveLinkModal({
       
       // Run initial sync in background
       syncAllWithDrive().catch(console.warn);
+      registerDeviceToSecurityCloud(true).catch(() => {});
 
       if (typeof window !== 'undefined') {
         window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));

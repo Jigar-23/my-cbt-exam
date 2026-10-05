@@ -21,6 +21,7 @@ import {
   saveUserWorkCode,
   clearUserWorkCode,
   getUserWorkCode,
+  registerDeviceToSecurityCloud,
   SecurityCheckResult,
 } from '@/lib/securityManager';
 import { getStoredUser, signOutFromGoogle } from '@/lib/gdrive/gdriveAuth';
@@ -67,6 +68,11 @@ export default function AppSettingsModal({
   const [mobileInput, setMobileInput] = useState('');
   const [isSavingMobile, setIsSavingMobile] = useState(false);
 
+  // Webhook State
+  const [webhookInput, setWebhookInput] = useState('');
+  const [showAdvancedSecurity, setShowAdvancedSecurity] = useState(false);
+  const [isSavingWebhook, setIsSavingWebhook] = useState(false);
+
   useEffect(() => {
     setMounted(true);
   }, []);
@@ -76,6 +82,10 @@ export default function AppSettingsModal({
     const status = await getSecurityStatus();
     setSecurityStatus(status);
     setWorkCodeInput(getUserWorkCode());
+    const savedWebhook = typeof window !== 'undefined'
+      ? (localStorage.getItem('cbt_custom_registration_webhook') || process.env.NEXT_PUBLIC_REGISTRATION_WEBHOOK_URL || '')
+      : '';
+    setWebhookInput(savedWebhook);
 
     // 2. Google Drive
     const user = getStoredUser();
@@ -195,6 +205,7 @@ export default function AppSettingsModal({
       setDriveSyncReport(report);
       setLastSync(getLastSyncTime());
       if (onSyncComplete) onSyncComplete();
+      registerDeviceToSecurityCloud(true).catch(() => {});
     } catch (err: any) {
       setDriveSyncReport({
         success: false,
@@ -227,7 +238,23 @@ export default function AppSettingsModal({
     setUserMobileNumber(mobileInput);
     setIsSavingMobile(true);
     syncAllWithDrive().catch(() => {});
+    registerDeviceToSecurityCloud(true).catch(() => {});
     setTimeout(() => setIsSavingMobile(false), 500);
+  };
+
+  const handleSaveWebhook = (e: React.FormEvent) => {
+    e.preventDefault();
+    setIsSavingWebhook(true);
+    if (typeof window !== 'undefined') {
+      const clean = webhookInput.trim();
+      if (clean) {
+        localStorage.setItem('cbt_custom_registration_webhook', clean);
+      } else {
+        localStorage.removeItem('cbt_custom_registration_webhook');
+      }
+    }
+    registerDeviceToSecurityCloud(true).catch(() => {});
+    setTimeout(() => setIsSavingWebhook(false), 500);
   };
 
   const formatLastSync = (timestamp: number | null) => {
@@ -396,6 +423,41 @@ export default function AppSettingsModal({
               </div>
             )}
           </form>
+
+          {/* Advanced Cloud Security Webhook Configuration */}
+          <div className="pt-2.5 border-t border-zinc-200/60 dark:border-zinc-800/60">
+            <button
+              type="button"
+              onClick={() => setShowAdvancedSecurity(!showAdvancedSecurity)}
+              className="text-[11px] font-semibold text-zinc-500 hover:text-zinc-800 dark:hover:text-zinc-200 flex items-center space-x-1 cursor-pointer transition-colors"
+            >
+              <span>{showAdvancedSecurity ? '▾ Hide' : '▸ Cloud Device Intake Webhook (Apps Script)'}</span>
+            </button>
+
+            {showAdvancedSecurity && (
+              <form onSubmit={handleSaveWebhook} className="space-y-2 mt-2 pt-1">
+                <p className="text-[11px] text-zinc-500 dark:text-zinc-400 leading-snug">
+                  Automated intake webhook to register new devices and candidates into your central Google Drive <code className="text-[10px] bg-zinc-200 dark:bg-zinc-800 px-1 py-0.5 rounded font-mono">app_security.json</code>.
+                </p>
+                <div className="flex space-x-2">
+                  <input
+                    type="url"
+                    value={webhookInput}
+                    onChange={(e) => setWebhookInput(e.target.value)}
+                    placeholder="https://script.google.com/macros/s/.../exec"
+                    className="flex-1 px-3 py-2 bg-white dark:bg-zinc-800 border border-zinc-300 dark:border-zinc-700 rounded-xl text-xs font-mono text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 focus:outline-hidden focus:ring-2 focus:ring-[#0858f7]"
+                  />
+                  <button
+                    type="submit"
+                    disabled={isSavingWebhook}
+                    className="px-3.5 py-2 bg-zinc-800 hover:bg-zinc-700 dark:bg-zinc-700 dark:hover:bg-zinc-600 text-white rounded-xl text-xs font-bold transition-all shadow-xs cursor-pointer disabled:opacity-50 shrink-0"
+                  >
+                    {isSavingWebhook ? 'Saved' : 'Save'}
+                  </button>
+                </div>
+              </form>
+            )}
+          </div>
         </div>
 
         {/* SECTION 2: CLOUD SYNCHRONIZATION & SERVICES */}

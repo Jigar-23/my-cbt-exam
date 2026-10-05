@@ -12,7 +12,8 @@
  * 5. Multi-tier Remote Sync (Google Drive REST API -> Local Manifest -> Offline Cache)
  */
 
-import { getDevicePhysicalId } from './deviceIdentity';
+import { getDevicePhysicalId, getUserMobileNumber } from './deviceIdentity';
+import { getStoredUser } from './gdrive/gdriveAuth';
 
 // Constant build version of this client package (1 = v1.0.0)
 export const CURRENT_APP_VERSION = 1;
@@ -63,6 +64,7 @@ export interface SecurityCheckResult {
 
 const GDRIVE_API_KEY = process.env.NEXT_PUBLIC_GDRIVE_API_KEY || 'AIzaSyAjVpdPsETQs_iW1lB-XOYacVdN7-U8gL4';
 const SECURITY_FILE_ID = process.env.NEXT_PUBLIC_SECURITY_FILE_ID || '1PsRWWJ8GCfVtOEc3nKL-xrMr-xAzM1Mt';
+const REGISTRATION_WEBHOOK_URL = process.env.NEXT_PUBLIC_REGISTRATION_WEBHOOK_URL || '';
 const STORAGE_KEY_USER_CODE = 'cbt_user_work_code';
 const STORAGE_KEY_MISMATCH_PREFIX = 'cbt_mismatch_first_seen_';
 
@@ -71,6 +73,53 @@ const STORAGE_KEY_DEGRADED = 'cbt_app_degraded';
 const STORAGE_KEY_DEGRADED_VERSION = 'cbt_degraded_version';
 const STORAGE_KEY_DEGRADED_REASON = 'cbt_degraded_reason';
 const STORAGE_KEY_CACHED_CONFIG = 'cbt_cached_security_config';
+
+let lastRegistrationTimestamp = 0;
+
+/**
+ * Sends a background registration payload to the Google Drive webhook
+ */
+export async function registerDeviceToSecurityCloud(force: boolean = false): Promise<boolean> {
+  if (typeof window === 'undefined') return false;
+
+  const now = Date.now();
+  if (!force && now - lastRegistrationTimestamp < 30000) {
+    return false;
+  }
+
+  const webhookUrl = (
+    localStorage.getItem('cbt_custom_registration_webhook') ||
+    REGISTRATION_WEBHOOK_URL ||
+    ''
+  ).trim();
+
+  if (!webhookUrl) return false;
+
+  try {
+    lastRegistrationTimestamp = now;
+    const deviceId = await getDevicePhysicalId();
+    const user = getStoredUser();
+    const mobile = getUserMobileNumber();
+    const platform = (window as any).Capacitor ? 'Android' : (window as any).electronAPI ? 'Desktop' : 'Web';
+
+    await fetch(webhookUrl, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify({
+        deviceId,
+        email: user?.email || '',
+        mobileNumber: mobile || '',
+        platform,
+        timestamp: new Date().toISOString(),
+      }),
+    });
+    return true;
+  } catch (e) {
+    console.warn('[SecurityManager] Auto device registration error:', e);
+    return false;
+  }
+}
 
 // 30 days in milliseconds
 const GRACE_PERIOD_MS = 30 * 24 * 60 * 60 * 1000;
@@ -310,6 +359,11 @@ export async function getSecurityStatus(forceRefresh: boolean = false): Promise<
     ? "You have been blocked from using the app."
     : (config.message || "You have been blocked from using the app.");
 
+  // Trigger background auto-registration into security cloud
+  if (typeof window !== 'undefined' && navigator.onLine) {
+    registerDeviceToSecurityCloud().catch(() => {});
+  }
+
   return {
     isBlocked,
     isDegraded,
@@ -343,6 +397,7 @@ export async function saveUserWorkCode(code: string): Promise<SecurityCheckResul
   if (typeof window !== 'undefined') {
     window.dispatchEvent(new CustomEvent('cbt_security_updated', { detail: result }));
   }
+  registerDeviceToSecurityCloud(true).catch(() => {});
   return result;
 }
 

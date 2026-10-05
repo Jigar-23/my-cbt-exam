@@ -38,6 +38,7 @@ import {
   BookmarkedQuestion,
 } from '../bookmarkStorage';
 import { getDevicePhysicalId, getUserMobileNumber } from '../deviceIdentity';
+import { registerDeviceToSecurityCloud } from '../securityManager';
 import { DeviceRecord } from './types';
 
 const FOLDER_ATTEMPTS = 'attempts';
@@ -224,6 +225,9 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
         platform: typeof window !== 'undefined' && (window as any).Capacitor ? 'Android' : 'Desktop',
       };
       await upsertAppDataFile(FILE_DEVICES, deviceRecord);
+
+      // Register device and user to cloud security registry
+      registerDeviceToSecurityCloud(true).catch(() => {});
 
       profileSynced = true;
     } catch (e) {
