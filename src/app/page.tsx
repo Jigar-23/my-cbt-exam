@@ -74,8 +74,13 @@ export default function Home() {
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState<boolean>(false);
   const [isDriveModalOpen, setIsDriveModalOpen] = useState<boolean>(false);
   const [isPermissionGateOpen, setIsPermissionGateOpen] = useState<boolean>(false);
+  const [isNativeApp, setIsNativeApp] = useState<boolean>(false);
   const [isBookmarksOpen, setIsBookmarksOpen] = useState<boolean>(false);
   const [bookmarksCount, setBookmarksCount] = useState<number>(0);
+
+  useEffect(() => {
+    setIsNativeApp(platformBridge.isElectron() || platformBridge.isMobileNative());
+  }, []);
 
   useEffect(() => {
     const updateBookmarksCount = () => {
@@ -1181,15 +1186,17 @@ export default function Home() {
               )}
             </button>
 
-            {/* Download App Button */}
-            <Link
-              href="/download"
-              className="relative px-3 py-1.5 md:py-2 bg-blue-500/10 dark:bg-blue-500/15 hover:bg-blue-500/20 dark:hover:bg-blue-500/25 text-[#0858f7] dark:text-[#60a5fa] rounded-xl text-xs font-semibold flex items-center space-x-1.5 border border-blue-500/30 active:scale-95 transition-all cursor-pointer shadow-xs"
-              title="Download Desktop & Mobile Apps"
-            >
-              <DownloadCloud size={15} />
-              <span className="hidden sm:inline font-bold">Download App</span>
-            </Link>
+            {/* Download App Button (Visible only on web browser) */}
+            {!isNativeApp && (
+              <Link
+                href="/download"
+                className="relative px-3 py-1.5 md:py-2 bg-blue-500/10 dark:bg-blue-500/15 hover:bg-blue-500/20 dark:hover:bg-blue-500/25 text-[#0858f7] dark:text-[#60a5fa] rounded-xl text-xs font-semibold flex items-center space-x-1.5 border border-blue-500/30 active:scale-95 transition-all cursor-pointer shadow-xs"
+                title="Download Desktop & Mobile Apps"
+              >
+                <DownloadCloud size={15} />
+                <span className="hidden sm:inline font-bold">Download App</span>
+              </Link>
+            )}
 
             <div className="hidden md:flex">
               <ThemeToggle variant="icon" />
