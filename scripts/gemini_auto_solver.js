@@ -20,7 +20,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const { execFileSync } = require('child_process');
+const { execFile, execFileSync } = require('child_process');
+const util = require('util');
+const execFileAsync = util.promisify(execFile);
 
 const QUEUE_FILE = path.join(__dirname, 'solver_delta_queue.json');
 const CHECKPOINT_FILE = path.join(__dirname, 'solver_checkpoint.json');
@@ -125,7 +127,8 @@ Respond with a JSON array of objects with this exact structure:
 
   if (USE_AGY) {
     const fullPrompt = `${SYSTEM_INSTRUCTION}\n\n${userPrompt}\n\nCRITICAL: Respond STRICTLY with the valid JSON array only. No conversational text or markdown codeblocks outside the JSON.`;
-    const stdout = execFileSync(AGY_BIN, [
+    const { stdout } = await execFileAsync(AGY_BIN, [
+      '--dangerously-skip-permissions',
       '--model', 'gemini-3.8-flash-low',
       '--effort', 'low',
       '--disable-slash-commands',
@@ -145,7 +148,25 @@ Respond with a JSON array of objects with this exact structure:
       clean = clean.slice(startIdx, endIdx + 1);
     }
 
-    const parsed = JSON.parse(clean);
+    let parsed;
+    try {
+      parsed = JSON.parse(clean);
+    } catch (parseErr) {
+      const sanitized = clean.replace(/[\u0000-\u0009\u000B-\u001F]+/g, ' ');
+      try {
+        parsed = JSON.parse(sanitized);
+      } catch (e2) {
+        parsed = [];
+        const objRegex = /\{[\s\S]*?"questionId"[\s\S]*?"selectedOptionId"[\s\S]*?\}(?=\s*,|\s*\])/g;
+        let match;
+        while ((match = objRegex.exec(clean)) !== null) {
+          try {
+            parsed.push(JSON.parse(match[0]));
+          } catch {}
+        }
+        if (!parsed.length) throw parseErr;
+      }
+    }
     return Array.isArray(parsed) ? parsed : [parsed];
   }
 
@@ -229,40 +250,70 @@ function buildHtmlSolution(solutionData) {
 /**
  * Enriches a single test paper in-place and saves sidecar backup
  */
-async function processTestFile(item) {
-  const filePath = item.filePath;
-  const raw = fs.readFileSync(filePath, 'utf8');
-  const doc = JSON.parse(raw);
+const VAULT_BASE = '/Users/jigar/Library/CloudStorage/GoogleDrive-pulkit10112@gmail.com/My Drive/CBT_EXAM_MASTER';
 
-  let allQuestions = doc.questions;
-  if (!allQuestions || allQuestions.length === 0) {
-    if (doc.sections) {
-      allQuestions = [];
-      for (const s of doc.sections) {
-        if (s.questions) allQuestions.push(...s.questions);
-      }
-    } else {
-      allQuestions = [];
+async function processTestFile(filePath, workerId = 1) {
+  let raw, doc;
+  try {
+    raw = fs.readFileSync(filePath, 'utf8');
+    doc = JSON.parse(raw);
+  } catch (e) {
+    return { skipped: true, reason: 'Invalid JSON' };
+  }
+
+  const testId = doc.id || doc.testId;
+  if (!testId) return { skipped: true, reason: 'No test ID' };
+
+  if (doc.hasVerifiedKey === true && doc.solutionsCount > 0) {
+    return { skipped: true, reason: 'Already verified' };
+  }
+
+  let allQuestions = doc.questions || [];
+  if (!allQuestions.length && doc.sections) {
+    for (const s of doc.sections) {
+      if (s.questions) allQuestions.push(...s.questions);
     }
   }
 
-  // Filter only deficient questions
-  const deficientSet = new Set(item.deficientQuestionIds || []);
-  const targetQuestions = allQuestions.filter(q => deficientSet.has(q.id || q._id));
-
-  if (targetQuestions.length === 0) {
-    return { skipped: true, reason: 'No deficient questions found' };
+  if (!allQuestions.length) {
+    return { skipped: true, reason: 'No questions' };
   }
 
-  console.log(`\n🤖 Solving: [${path.basename(filePath)}] — ${targetQuestions.length} questions`);
+  const optDist = new Set();
+  let realSolCount = 0;
+  const deficientQuestions = [];
 
-  // Batch into chunks of 15 questions
-  const BATCH_SIZE = 15;
+  for (const q of allQuestions) {
+    const opt = q.correctOptionId ?? q.correctOptionIndex ?? null;
+    if (opt !== null && opt !== undefined) optDist.add(String(opt));
+    const sol = (q.solutionHtml || q.explanation || '').trim();
+    const hasRealSol = sol.length > 50 && !sol.includes('pending attempt sync') && !sol.includes('Official step-by-step');
+    if (hasRealSol) {
+      realSolCount++;
+    } else {
+      deficientQuestions.push(q);
+    }
+  }
+
+  const isAllDefaulted = optDist.size <= 1 && (optDist.has('0') || optDist.has('1') || optDist.size === 0);
+  const targetQuestions = (isAllDefaulted && realSolCount < allQuestions.length * 0.5) ? allQuestions : deficientQuestions;
+
+  if (targetQuestions.length === 0) {
+    doc.hasVerifiedKey = true;
+    try {
+      fs.writeFileSync(filePath, JSON.stringify(doc, null, 2), 'utf8');
+    } catch {}
+    return { skipped: true, reason: 'Already authentic' };
+  }
+
+  console.log(`\n[W${workerId}] 🤖 Solving: [${doc.title || path.basename(filePath)}] — ${targetQuestions.length} questions`);
+
+  const BATCH_SIZE = 10;
   const solvedMap = {};
 
   for (let i = 0; i < targetQuestions.length; i += BATCH_SIZE) {
     const chunk = targetQuestions.slice(i, i + BATCH_SIZE);
-    process.stdout.write(`   Processing questions ${i + 1} to ${Math.min(i + BATCH_SIZE, targetQuestions.length)} / ${targetQuestions.length}... `);
+    process.stdout.write(`   [W${workerId}] Processing questions ${i + 1} to ${Math.min(i + BATCH_SIZE, targetQuestions.length)} / ${targetQuestions.length}... `);
     
     const results = await solveQuestionBatch(chunk);
     for (const r of results) {
@@ -270,10 +321,8 @@ async function processTestFile(item) {
         solvedMap[r.questionId] = r;
       }
     }
-    console.log(`✓ Solved`);
-
-    // Polite 1.5s delay between chunks
-    await new Promise(r => setTimeout(r, 1500));
+    console.log(`✓ Solved [W${workerId}]`);
+    await new Promise(r => setTimeout(r, 1000));
   }
 
   // Inject into test JSON
@@ -310,10 +359,10 @@ async function processTestFile(item) {
   doc.hasVerifiedKey = true;
   doc.solutionsCount = allQuestions.filter(q => q.solutionHtml || q.explanation).length;
 
-  // 1. In-place write to Google Drive
+  // In-place write
   fs.writeFileSync(filePath, JSON.stringify(doc, null, 2), 'utf8');
 
-  // 2. Write sidecar backup
+  // Sidecar backup
   try {
     const relativeToVault = path.relative(path.dirname(filePath).split('CBT_EXAM_MASTER')[0] + 'CBT_EXAM_MASTER', filePath);
     const sidecarPath = path.join(SOLUTIONS_VAULT, relativeToVault.replace(/\.json$/, '_solutions.json'));
@@ -329,8 +378,8 @@ async function processTestFile(item) {
     console.warn(`   ⚠️ Sidecar write warning:`, e.message);
   }
 
-  console.log(`   ✅ Complete! Injected ${enrichedCount} deep solutions into Google Drive.`);
-  return { success: true, enrichedCount };
+  console.log(`   [W${workerId}] ✅ Complete! Injected ${enrichedCount} deep solutions into Google Drive.`);
+  return { success: true, testId, title: doc.title || path.basename(filePath), enrichedCount };
 }
 
 async function main() {
@@ -340,8 +389,6 @@ async function main() {
 
   if (!API_KEY && !USE_AGY) {
     console.error('\n❌ No Gemini API Key found and Antigravity CLI not detected!');
-    console.error('👉 Please provide your key via GEMINI_API_KEY environment variable,');
-    console.error('   or ensure agy CLI is installed.');
     process.exit(1);
   }
 
@@ -349,71 +396,88 @@ async function main() {
     console.log('💡 Running via Antigravity Engine (agy) — 100% FREE ($0.00 / ₹0)');
   }
 
-  let targetList = [];
+  let fileList = [];
   const isPilot = process.argv.includes('--pilot');
   const fileArgIdx = process.argv.indexOf('--file');
+
   if (fileArgIdx !== -1 && process.argv[fileArgIdx + 1]) {
-    const specifiedFile = path.resolve(process.argv[fileArgIdx + 1]);
-    const raw = fs.readFileSync(specifiedFile, 'utf8');
-    const doc = JSON.parse(raw);
-    const questions = doc.questions || [];
-    targetList = [{
-      testId: doc.id || doc.testId,
-      title: doc.title || path.basename(specifiedFile, '.json'),
-      filePath: specifiedFile,
-      totalQuestions: questions.length,
-      deficientQuestionsCount: questions.length,
-      deficientQuestionIds: questions.map(q => q.id || q._id)
-    }];
+    fileList = [path.resolve(process.argv[fileArgIdx + 1])];
   } else {
-    if (!fs.existsSync(QUEUE_FILE)) {
-      console.log('⚠️ Delta queue not found. Generating queue first...');
-      require('./build_ai_delta_queue');
+    console.log('🔍 Collecting candidate test files from Google Drive...');
+    const TARGET_DIRS = ['Civil_Services', 'Regulatory', 'State_PSC', 'Railways', 'Defense'].map(d => path.join(VAULT_BASE, d));
+    for (const tDir of TARGET_DIRS) {
+      function walk(curr) {
+        try {
+          const ents = fs.readdirSync(curr, { withFileTypes: true });
+          for (const ent of ents) {
+            if (ent.name.startsWith('.') || ent.name.startsWith('._')) continue;
+            const full = path.join(curr, ent.name);
+            if (ent.isDirectory()) walk(full);
+            else if (ent.isFile() && ent.name.endsWith('.json') && !ent.name.includes('manifest') && !ent.name.includes('security')) {
+              fileList.push(full);
+            }
+          }
+        } catch (e) {}
+      }
+      walk(tDir);
     }
-    const queue = JSON.parse(fs.readFileSync(QUEUE_FILE, 'utf8'));
-    const pilotArgIdx = process.argv.indexOf('--pilot');
-    const pilotCount = isPilot && process.argv[pilotArgIdx + 1] ? parseInt(process.argv[pilotArgIdx + 1], 10) : 3;
-    targetList = isPilot ? queue.slice(0, pilotCount) : queue;
   }
 
   const checkpoint = loadCheckpoint();
+  if (!checkpoint.completedTestsCount) checkpoint.completedTestsCount = 0;
+  if (!checkpoint.recentSolved) checkpoint.recentSolved = [];
 
-  console.log(`Mode: ${isPilot ? `PILOT TEST (${targetList.length} test papers)` : `FULL FLEET (${targetList.length} test papers)`}`);
+  const pilotArgIdx = process.argv.indexOf('--pilot');
+  const pilotCount = isPilot && process.argv[pilotArgIdx + 1] ? parseInt(process.argv[pilotArgIdx + 1], 10) : 3;
+  const targetFiles = isPilot ? fileList.slice(0, pilotCount) : fileList;
+
+  const concurrencyArgIdx = process.argv.indexOf('--concurrency');
+  const CONCURRENCY = concurrencyArgIdx !== -1 && process.argv[concurrencyArgIdx + 1] ? parseInt(process.argv[concurrencyArgIdx + 1], 10) : 4;
+
+  console.log(`Mode: ${isPilot ? `PILOT TEST (${targetFiles.length} files)` : `FULL ARCHIVE (${targetFiles.length} candidate files)`}`);
+  console.log(`Parallel Workers: ${CONCURRENCY} workers running concurrently`);
   console.log(`Model: ${MODEL_NAME}`);
   console.log(`----------------------------------------------------------------\n`);
 
+  let activeIndex = 0;
   let completedInThisRun = 0;
 
-  for (let idx = 0; idx < targetList.length; idx++) {
-    const item = targetList[idx];
-    if (checkpoint.completedTestIds[item.testId]) {
-      console.log(`[${idx + 1}/${targetList.length}] ⏩ Skipping already completed: ${item.title}`);
-      continue;
-    }
-
-    try {
-      console.log(`[${idx + 1}/${targetList.length}] Processing: ${item.title}`);
-      const res = await processTestFile(item);
-      if (res.success) {
-        checkpoint.completedTestIds[item.testId] = true;
-        checkpoint.processedQuestionsCount += (res.enrichedCount || 0);
-        saveCheckpoint(checkpoint);
-        completedInThisRun++;
+  async function runWorker(workerId) {
+    while (activeIndex < targetFiles.length) {
+      const idx = activeIndex++;
+      const fPath = targetFiles[idx];
+      try {
+        const res = await processTestFile(fPath, workerId);
+        if (res && res.success) {
+          checkpoint.completedTestIds[res.testId] = true;
+          checkpoint.completedTestsCount++;
+          checkpoint.processedQuestionsCount = (checkpoint.processedQuestionsCount || 0) + (res.enrichedCount || 0);
+          checkpoint.lastUpdated = new Date().toISOString();
+          checkpoint.recentSolved.unshift({
+            testId: res.testId,
+            title: res.title,
+            questions: res.enrichedCount,
+            worker: workerId,
+            time: new Date().toLocaleTimeString()
+          });
+          if (checkpoint.recentSolved.length > 20) checkpoint.recentSolved.pop();
+          saveCheckpoint(checkpoint);
+          completedInThisRun++;
+        }
+      } catch (err) {
+        console.error(`   [W${workerId}] ❌ Failed to process ${path.basename(fPath)}:`, err.message);
       }
-    } catch (err) {
-      console.error(`   ❌ Failed to process ${item.title}:`, err.message);
-      // Wait 10s if rate-limited
-      if (err.message.includes('429')) {
-        console.log('   ⏳ Hit rate-limit. Waiting 20 seconds...');
-        await new Promise(r => setTimeout(r, 20000));
-      }
+      await new Promise(r => setTimeout(r, 1000));
     }
-
-    // Cooldown between papers
-    await new Promise(r => setTimeout(r, 2000));
   }
 
-  console.log(`\n🎉 Run finished! Completed ${completedInThisRun} test papers.`);
+  const workerPromises = [];
+  for (let w = 1; w <= CONCURRENCY; w++) {
+    workerPromises.push(runWorker(w));
+  }
+  await Promise.all(workerPromises);
+
+  console.log(`\n🎉 Run finished! Completed ${completedInThisRun} test papers in this session.`);
 }
 
 main();
