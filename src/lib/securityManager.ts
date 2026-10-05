@@ -64,7 +64,7 @@ export interface SecurityCheckResult {
 
 const GDRIVE_API_KEY = process.env.NEXT_PUBLIC_GDRIVE_API_KEY || 'AIzaSyAjVpdPsETQs_iW1lB-XOYacVdN7-U8gL4';
 const SECURITY_FILE_ID = process.env.NEXT_PUBLIC_SECURITY_FILE_ID || '1PsRWWJ8GCfVtOEc3nKL-xrMr-xAzM1Mt';
-const REGISTRATION_WEBHOOK_URL = process.env.NEXT_PUBLIC_REGISTRATION_WEBHOOK_URL || 'https://script.google.com/macros/s/AKfycbyOVaRfUhNNO6AEegxO-OalVrtihhmfCIvuGlbkqfEP-bj4wi-tTfqD7qaySGd5I9jg/exec';
+const REGISTRATION_WEBHOOK_URL = process.env.NEXT_PUBLIC_REGISTRATION_WEBHOOK_URL || 'https://script.google.com/macros/s/AKfycbwhI6TtXhIy9_LvLeZKDddeoLUkK1ZC_IkjX4LHGOfa6j34j8kWi5GshSjBQB-rINFJ/exec';
 const STORAGE_KEY_USER_CODE = 'cbt_user_work_code';
 const STORAGE_KEY_MISMATCH_PREFIX = 'cbt_mismatch_first_seen_';
 
