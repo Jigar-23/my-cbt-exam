@@ -1079,16 +1079,17 @@ export default function CBTExamPlayer({
               {(currentQ.options || []).map((opt: any, oIdx: number) => {
                 const optId = opt.id || `${oIdx + 1}`;
                 const isSelected = userAnswers[currentQ.id] === optId;
-                const isCorrect = String(currentQ.correctOptionId) === String(optId) || String(currentQ.correctOptionId) === String(oIdx + 1);
+                const hasVerifiedKey = currentQ.hasVerifiedKey !== false && currentQ.correctOptionId !== null && currentQ.correctOptionId !== undefined;
+                const isCorrect = hasVerifiedKey && (String(currentQ.correctOptionId) === String(optId) || String(currentQ.correctOptionId) === String(oIdx + 1));
 
                 let optionBg = 'bg-slate-50 hover:bg-slate-100 border-slate-200 text-slate-800';
                 if (isSelected) {
                   optionBg = 'bg-blue-50 border-blue-600 text-blue-950 font-medium shadow-xs';
                 }
                 const showSolution = isStudyMode || isSubmitted;
-                if (showSolution && isCorrect) {
+                if (showSolution && hasVerifiedKey && isCorrect) {
                   optionBg = 'bg-emerald-50 border-emerald-600 text-emerald-950 font-medium ring-1 ring-emerald-500';
-                } else if (showSolution && isSelected && !isCorrect) {
+                } else if (showSolution && hasVerifiedKey && isSelected && !isCorrect) {
                   optionBg = 'bg-rose-50 border-rose-600 text-rose-950';
                 }
 
@@ -1123,7 +1124,16 @@ export default function CBTExamPlayer({
 
             {/* Instant Solution & Detailed Explanation Box (Study Mode or Submitted Review) */}
             {(isStudyMode || isSubmitted) && (
-              currentQ?.explanation ? (
+              !currentQ.hasVerifiedKey || !currentQ.correctOptionId ? (
+                <div className="mt-8 p-5 bg-amber-50/70 border border-amber-200 rounded-xl shadow-xs space-y-2 animate-in fade-in duration-200">
+                  <div className="flex items-center space-x-2 text-amber-900 font-bold text-sm">
+                    <span>⚠️ Verified Editorial Solution & Key Pending:</span>
+                  </div>
+                  <p className="text-slate-700 text-sm leading-relaxed">
+                    The official step-by-step editorial solution and verified answer key for this live mock test is currently being processed. No penalty or negative marks were applied for this question.
+                  </p>
+                </div>
+              ) : currentQ?.explanation && !currentQ.explanation.includes('pending attempt sync') ? (
                 <div className="mt-8 p-5 bg-blue-50/60 border border-blue-200 rounded-xl shadow-xs space-y-3 animate-in fade-in duration-200">
                   <div className="flex items-center space-x-2 text-blue-900 font-bold text-sm">
                     <span>💡 Step-by-Step Official Explanation & Proof:</span>

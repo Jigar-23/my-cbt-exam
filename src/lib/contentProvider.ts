@@ -154,6 +154,19 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
     });
   }
 
+  // Audit test answer key authenticity across all sections
+  const allRawOpts = new Set<string>();
+  let totalRealSolutions = 0;
+  for (const s of sections) {
+    for (const q of (s.questions || [])) {
+      const rawOpt = q.correctOptionId ?? q.correctOptionIndex ?? q.correctOption;
+      if (rawOpt !== null && rawOpt !== undefined) allRawOpts.add(String(rawOpt));
+      const sol = (q.explanation || q.solutionHtml || q.solution || '').trim();
+      if (sol && !sol.includes('pending attempt sync')) totalRealSolutions++;
+    }
+  }
+  const isTestDefaultedAllZero = (allRawOpts.size <= 1 && (allRawOpts.has('0') || allRawOpts.has('1') || allRawOpts.size === 0)) && totalRealSolutions === 0;
+
   // Ensure every section has valid questions and every question has proper fields
   let totalNormalizedQuestions = 0;
   sections = sections.map((sec: any, secIdx: number) => {
@@ -192,9 +205,13 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
       }
 
       // Normalize correctOptionId
-      let correctOptionId: string | undefined = undefined;
+      let correctOptionId: string | null = null;
+      let hasVerifiedKey = true;
 
-      if (q.correctOptionId !== undefined && q.correctOptionId !== null) {
+      if (isTestDefaultedAllZero) {
+        hasVerifiedKey = false;
+        correctOptionId = null;
+      } else if (q.correctOptionId !== undefined && q.correctOptionId !== null) {
         correctOptionId = String(q.correctOptionId);
       } else {
         const rawOpt = q.correctOptionIndex !== undefined ? q.correctOptionIndex : q.correctOption;
@@ -202,10 +219,8 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
           const num = Number(rawOpt);
           if (!isNaN(num)) {
             if (num === 0) {
-              // 0-based index pointing to 1st option
               correctOptionId = '1';
             } else if (num >= 1 && num <= options.length) {
-              // 1-based index (Testbook standard: 1, 2, 3, 4)
               correctOptionId = String(num);
             } else {
               correctOptionId = String(num);
@@ -215,7 +230,7 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
       }
 
       if (!correctOptionId) {
-        correctOptionId = '1';
+        hasVerifiedKey = false;
       }
 
       return {
@@ -226,6 +241,7 @@ export function normalizeTestPaper(data: any, testItem?: any, fallbackTestId?: s
         image: q.image || null,
         options,
         correctOptionId,
+        hasVerifiedKey,
         marks: q.marks || q.positiveMarks || 1,
         negativeMarks: q.negativeMarks !== undefined ? q.negativeMarks : 0.25,
         explanation: decodeEntities(q.explanation || q.solutionHtml || q.solution || ''),

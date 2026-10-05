@@ -178,6 +178,7 @@ export function evaluateAttempt(
 
       const selectedOpt = userAnswers[qId] || null;
       const correctOpt = q.correctOptionId || (q.options && q.options.find((o: any) => o.isCorrect)?.id) || null;
+      const hasVerifiedKey = q.hasVerifiedKey !== false && !!correctOpt;
       const isAttempted = selectedOpt !== null && selectedOpt !== undefined && selectedOpt !== '';
 
       let isCorrect = false;
@@ -186,8 +187,12 @@ export function evaluateAttempt(
 
       if (isAttempted) {
         secAttempted++;
-        // Compare option ID or index (string-safe)
-        if (correctOpt && String(selectedOpt).trim() === String(correctOpt).trim()) {
+        // If question lacks a verified answer key, do NOT dock negative marks!
+        if (!hasVerifiedKey) {
+          isCorrect = false;
+          status = 'unattempted';
+          marksEarned = 0;
+        } else if (correctOpt && String(selectedOpt).trim() === String(correctOpt).trim()) {
           isCorrect = true;
           status = 'correct';
           secCorrect++;
