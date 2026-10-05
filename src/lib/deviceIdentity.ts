@@ -47,6 +47,73 @@ export function setUserMobileNumber(phone: string): void {
 }
 
 /**
+ * Detects whether the current client is running inside native Android wrapper
+ */
+export function isAndroidNative(): boolean {
+  if (typeof window === 'undefined') return false;
+  const win = window as any;
+  if (!win.Capacitor) return false;
+  const platform = typeof win.Capacitor.getPlatform === 'function' ? win.Capacitor.getPlatform() : win.Capacitor.platform;
+  return platform === 'android' || /android/i.test(navigator.userAgent);
+}
+
+/**
+ * Checks current phone permission status on Android without triggering a prompt
+ */
+export async function checkDevicePhonePermission(): Promise<{ granted: boolean; shouldShowRationale: boolean }> {
+  if (typeof window === 'undefined') {
+    return { granted: true, shouldShowRationale: false };
+  }
+  const win = window as any;
+  if (win.Capacitor?.Plugins?.SystemTheme?.checkPhonePermission) {
+    try {
+      const res = await win.Capacitor.Plugins.SystemTheme.checkPhonePermission();
+      return {
+        granted: Boolean(res?.granted || res?.permissionGranted),
+        shouldShowRationale: Boolean(res?.shouldShowRationale),
+      };
+    } catch (e) {
+      console.warn('[DeviceIdentity] checkPhonePermission error:', e);
+    }
+  }
+  return { granted: false, shouldShowRationale: false };
+}
+
+/**
+ * Opens Android system settings for this app so user can enable permission manually
+ */
+export async function openDeviceAppSettings(): Promise<void> {
+  if (typeof window === 'undefined') return;
+  const win = window as any;
+  if (win.Capacitor?.Plugins?.SystemTheme?.openAppSettings) {
+    try {
+      await win.Capacitor.Plugins.SystemTheme.openAppSettings();
+    } catch (e) {
+      console.warn('[DeviceIdentity] openAppSettings error:', e);
+    }
+  }
+}
+
+/**
+ * Gracefully terminates the application on Android
+ */
+export async function exitDeviceApp(): Promise<void> {
+  if (typeof window === 'undefined') return;
+  const win = window as any;
+  if (win.Capacitor?.Plugins?.SystemTheme?.exitApp) {
+    try {
+      await win.Capacitor.Plugins.SystemTheme.exitApp();
+    } catch (e) {
+      console.warn('[DeviceIdentity] exitApp error:', e);
+    }
+  } else if (win.Capacitor?.Plugins?.App?.exitApp) {
+    try {
+      await win.Capacitor.Plugins.App.exitApp();
+    } catch {}
+  }
+}
+
+/**
  * Requests phone permission on Android and attempts reading SIM phone number
  */
 export async function requestDevicePhoneNumber(): Promise<{ phoneNumber: string; permissionGranted: boolean }> {

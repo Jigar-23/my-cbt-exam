@@ -101,6 +101,65 @@ public class MainActivity extends BridgeActivity {
         }
 
         @PluginMethod
+        public void checkPhonePermission(PluginCall call) {
+            try {
+                boolean hasNumbers = false;
+                boolean hasState = false;
+                boolean shouldShowRationale = false;
+                if (getActivity() != null) {
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                        hasNumbers = getActivity().checkSelfPermission(Manifest.permission.READ_PHONE_NUMBERS) == android.content.pm.PackageManager.PERMISSION_GRANTED;
+                    }
+                    hasState = getActivity().checkSelfPermission(Manifest.permission.READ_PHONE_STATE) == android.content.pm.PackageManager.PERMISSION_GRANTED;
+
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                        shouldShowRationale = getActivity().shouldShowRequestPermissionRationale(Manifest.permission.READ_PHONE_STATE)
+                            || (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O && getActivity().shouldShowRequestPermissionRationale(Manifest.permission.READ_PHONE_NUMBERS));
+                    }
+                }
+                boolean granted = hasNumbers || hasState;
+                JSObject ret = new JSObject();
+                ret.put("granted", granted);
+                ret.put("permissionGranted", granted);
+                ret.put("shouldShowRationale", shouldShowRationale);
+                call.resolve(ret);
+            } catch (Exception e) {
+                JSObject ret = new JSObject();
+                ret.put("granted", false);
+                ret.put("permissionGranted", false);
+                ret.put("shouldShowRationale", false);
+                ret.put("error", e.getMessage());
+                call.resolve(ret);
+            }
+        }
+
+        @PluginMethod
+        public void openAppSettings(PluginCall call) {
+            try {
+                android.content.Intent intent = new android.content.Intent(android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS);
+                android.net.Uri uri = android.net.Uri.fromParts("package", getContext().getPackageName(), null);
+                intent.setData(uri);
+                intent.addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK);
+                getContext().startActivity(intent);
+                call.resolve();
+            } catch (Exception e) {
+                call.reject("Could not open app settings: " + e.getMessage());
+            }
+        }
+
+        @PluginMethod
+        public void exitApp(PluginCall call) {
+            try {
+                if (getActivity() != null) {
+                    getActivity().finishAffinity();
+                }
+                call.resolve();
+            } catch (Exception e) {
+                call.reject("Could not exit app: " + e.getMessage());
+            }
+        }
+
+        @PluginMethod
         public void requestPhonePermission(PluginCall call) {
             try {
                 if (getPermissionState("phone") != PermissionState.GRANTED) {

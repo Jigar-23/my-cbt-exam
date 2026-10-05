@@ -54,7 +54,8 @@ import { getSecurityStatus, registerDeviceToSecurityCloud, SecurityCheckResult }
 import UserPreferencesView, { UserPreferences } from '@/components/UserPreferencesView';
 import ThemeToggle from '@/components/ThemeToggle';
 import GoogleDriveLinkModal from '@/components/GoogleDriveLinkModal';
-import { requestDevicePhoneNumber } from '@/lib/deviceIdentity';
+import AndroidPermissionGate from '@/components/AndroidPermissionGate';
+import { isAndroidNative, checkDevicePhonePermission, requestDevicePhoneNumber } from '@/lib/deviceIdentity';
 import { getStoredAccessToken } from '@/lib/gdrive/gdriveAuth';
 import { syncAllWithDrive } from '@/lib/gdrive/gdriveSync';
 import { platformBridge } from '@/lib/platform/platformBridge';
@@ -72,6 +73,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState<boolean>(false);
   const [isDriveModalOpen, setIsDriveModalOpen] = useState<boolean>(false);
+  const [isPermissionGateOpen, setIsPermissionGateOpen] = useState<boolean>(false);
   const [isBookmarksOpen, setIsBookmarksOpen] = useState<boolean>(false);
   const [bookmarksCount, setBookmarksCount] = useState<number>(0);
 
@@ -191,13 +193,24 @@ export default function Home() {
 
     loadSavedPreferences();
 
-    // On native Android, request phone permission silently in the background
-    if (typeof window !== 'undefined' && (window as any).Capacitor) {
-      requestDevicePhoneNumber()
-        .then(() => {
-          registerDeviceToSecurityCloud(true).catch(() => {});
+    // On native Android, check and enforce mandatory phone permission
+    if (isAndroidNative()) {
+      checkDevicePhonePermission()
+        .then((status) => {
+          if (!status.granted) {
+            setIsPermissionGateOpen(true);
+          } else {
+            setIsPermissionGateOpen(false);
+            requestDevicePhoneNumber()
+              .then(() => {
+                registerDeviceToSecurityCloud(true).catch(() => {});
+              })
+              .catch(() => {});
+          }
         })
-        .catch(() => {});
+        .catch(() => {
+          setIsPermissionGateOpen(true);
+        });
     } else {
       registerDeviceToSecurityCloud().catch(() => {});
     }
@@ -256,6 +269,9 @@ export default function Home() {
   // Hardware Back Button handler for Dashboard Modals
   useEffect(() => {
     return platformBridge.registerBackHandler(() => {
+      if (isPermissionGateOpen) {
+        return true; // Disallow dismissing mandatory permission gate
+      }
       if (workCodeAlertMessage) {
         setWorkCodeAlertMessage(null);
         return true;
@@ -286,7 +302,16 @@ export default function Home() {
       }
       return false; // Allow app to minimize
     });
-  }, [workCodeAlertMessage, isDriveModalOpen, isBookmarksOpen, isLeftDrawerOpen, isPreferencesOpen, isGlobalAnalyticsOpen, globalAnalyticsAttempt]);
+  }, [isPermissionGateOpen, workCodeAlertMessage, isDriveModalOpen, isBookmarksOpen, isLeftDrawerOpen, isPreferencesOpen, isGlobalAnalyticsOpen, globalAnalyticsAttempt]);
+
+  const handlePermissionGranted = () => {
+    setIsPermissionGateOpen(false);
+    requestDevicePhoneNumber()
+      .then(() => {
+        registerDeviceToSecurityCloud(true).catch(() => {});
+      })
+      .catch(() => {});
+  };
 
   const handleSavePreferences = (prefs: UserPreferences) => {
     // If all domains or zero domains are selected, treat as unfiltered (show all)
@@ -1583,6 +1608,12 @@ export default function Home() {
           </div>
         </div>
       )}
+
+      {/* Mandatory Android Phone & Device Permission Gate */}
+      <AndroidPermissionGate
+        isOpen={isPermissionGateOpen}
+        onPermissionGranted={handlePermissionGranted}
+      />
     </div>
   );
 }
