@@ -112,6 +112,115 @@ export async function clearInFlightFromDrive(testId: string): Promise<void> {
   }
 }
 
+const SECURITY_FILE_ID = process.env.NEXT_PUBLIC_SECURITY_FILE_ID || '1PsRWWJ8GCfVtOEc3nKL-xrMr-xAzM1Mt';
+const GDRIVE_API_BASE = 'https://www.googleapis.com/drive/v3';
+const GDRIVE_UPLOAD_BASE = 'https://www.googleapis.com/upload/drive/v3';
+
+/**
+ * Directly writes device & user registration into the central app_security.json
+ * in the admin's CBT_EXAM_MASTER Google Drive folder using the user's OAuth access token.
+ */
+export async function syncDeviceToCentralSecurityDrive(
+  token: string,
+  email: string,
+  mobileNumber?: string,
+  deviceId?: string
+): Promise<boolean> {
+  if (!token) return false;
+  try {
+    const devId = deviceId || (await getDevicePhysicalId());
+    const customDriveFileId = (typeof window !== 'undefined' ? localStorage.getItem('cbt_custom_security_file_id') : null) || SECURITY_FILE_ID;
+    const now = new Date().toISOString();
+    const platform = typeof window !== 'undefined' && (window as any).Capacitor
+      ? 'Android'
+      : typeof window !== 'undefined' && (window as any).electronAPI
+      ? 'Desktop'
+      : 'Web';
+
+    // 1. Fetch current content of app_security.json
+    let currentConfig: any = {
+      status: 'allow',
+      VALIDITYCODE: '000000',
+      workCode: '000000',
+      updatedAt: now,
+      message: 'Authorized access',
+      devices: {},
+      users: {},
+    };
+
+    try {
+      const getRes = await fetch(`${GDRIVE_API_BASE}/files/${customDriveFileId}?alt=media`, {
+        headers: { Authorization: `Bearer ${token}` },
+        cache: 'no-store',
+      });
+      if (getRes.ok) {
+        const parsed = await getRes.json();
+        if (parsed && typeof parsed === 'object') {
+          currentConfig = { ...parsed };
+        }
+      }
+    } catch (e) {
+      console.warn('[GDriveSync] Failed to read central app_security.json with Bearer:', e);
+    }
+
+    if (!currentConfig.devices) currentConfig.devices = {};
+    if (!currentConfig.users) currentConfig.users = {};
+
+    // 2. Append or update device record
+    const existingDevice = currentConfig.devices[devId] || {};
+    currentConfig.devices[devId] = {
+      device_id: devId,
+      latest_email: email || existingDevice.latest_email || '',
+      mobile_number: mobileNumber || existingDevice.mobile_number || '',
+      platform: platform,
+      blocked: existingDevice.blocked === true,
+      last_sync_date: now,
+    };
+
+    // 3. Append or update user record if email is available
+    if (email) {
+      const cleanEmail = email.trim().toLowerCase();
+      const existingUser = currentConfig.users[cleanEmail] || {};
+      const devList = Array.isArray(existingUser.devices) ? [...existingUser.devices] : [];
+      if (!devList.includes(devId)) {
+        devList.push(devId);
+      }
+      currentConfig.users[cleanEmail] = {
+        email: cleanEmail,
+        mobile_number: mobileNumber || existingUser.mobile_number || '',
+        devices: devList,
+        registered_at: existingUser.registered_at || now,
+        last_active: now,
+      };
+    }
+
+    currentConfig.updatedAt = now;
+
+    // 4. Directly update app_security.json via Google Drive upload PATCH
+    const patchUrl = `${GDRIVE_UPLOAD_BASE}/files/${customDriveFileId}?uploadType=media`;
+    const patchRes = await fetch(patchUrl, {
+      method: 'PATCH',
+      headers: {
+        Authorization: `Bearer ${token}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(currentConfig, null, 2),
+    });
+
+    if (patchRes.ok) {
+      console.log(`[GDriveSync] Successfully registered device ${devId} directly into central app_security.json on Drive!`);
+      return true;
+    } else {
+      const errTxt = await patchRes.text();
+      console.warn(`[GDriveSync] Central app_security.json direct write returned HTTP ${patchRes.status}:`, errTxt);
+      return false;
+    }
+  } catch (err) {
+    console.warn('[GDriveSync] Direct central security sync error:', err);
+    return false;
+  }
+}
+
 /**
  * Full bi-directional synchronization between local storage and Google Drive AppData.
  */
@@ -226,7 +335,10 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
       };
       await upsertAppDataFile(FILE_DEVICES, deviceRecord);
 
-      // Register device and user to cloud security registry
+      // Direct write to admin's central app_security.json on Google Drive
+      syncDeviceToCentralSecurityDrive(token, user.email, userMobile, deviceId).catch(() => {});
+
+      // Register device and user to cloud security registry via fallback webhook
       registerDeviceToSecurityCloud(true).catch(() => {});
 
       profileSynced = true;

@@ -14,8 +14,14 @@ const STORAGE_KEY_USER = 'cbt_gdrive_user';
 const STORAGE_KEY_CLIENT_ID = 'cbt_gdrive_custom_client_id';
 const STORAGE_KEY_TEST_EMAIL = 'cbt_gdrive_test_email';
 
-// Default Scope: isolated appDataFolder sandbox (zero access to personal files)
-export const GDRIVE_APPDATA_SCOPE = 'https://www.googleapis.com/auth/drive.appdata https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email';
+// Full Scopes: AppData sandbox + Google Drive file editing for central security & device registry
+export const GDRIVE_APPDATA_SCOPE = [
+  'https://www.googleapis.com/auth/drive',
+  'https://www.googleapis.com/auth/drive.file',
+  'https://www.googleapis.com/auth/drive.appdata',
+  'https://www.googleapis.com/auth/userinfo.profile',
+  'https://www.googleapis.com/auth/userinfo.email',
+].join(' ');
 
 // Default or environment-provided Client ID
 export const DEFAULT_CLIENT_ID =
