@@ -37,7 +37,7 @@ import {
   importBookmarksFromJson,
   BookmarkedQuestion,
 } from '../bookmarkStorage';
-import { getDevicePhysicalId, getUserMobileNumber } from '../deviceIdentity';
+import { getDevicePhysicalId, getUserMobileNumber, getDevicePlatformName } from '../deviceIdentity';
 import { registerDeviceToSecurityCloud } from '../securityManager';
 import { DeviceRecord } from './types';
 
@@ -131,11 +131,7 @@ export async function syncDeviceToCentralSecurityDrive(
     const devId = deviceId || (await getDevicePhysicalId());
     const customDriveFileId = (typeof window !== 'undefined' ? localStorage.getItem('cbt_custom_security_file_id') : null) || SECURITY_FILE_ID;
     const now = new Date().toISOString();
-    const platform = typeof window !== 'undefined' && (window as any).Capacitor
-      ? 'Android'
-      : typeof window !== 'undefined' && (window as any).electronAPI
-      ? 'Desktop'
-      : 'Web';
+    const platform = getDevicePlatformName();
 
     // 1. Fetch current content of app_security.json
     let currentConfig: any = {
@@ -358,7 +354,7 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
         email: user.email,
         mobileNumber: userMobile,
         lastSyncDate: new Date().toISOString(),
-        platform: typeof window !== 'undefined' && (window as any).Capacitor ? 'Android' : 'Desktop',
+        platform: getDevicePlatformName(),
       };
       await upsertAppDataFile(FILE_DEVICES, deviceRecord);
 
@@ -457,9 +453,21 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
       const localSnapshots = getAllInFlightSnapshots();
       const remoteSnapshotFiles = await listAppDataFiles(`'${inFlightFolderId}' in parents and trashed = false`);
 
-      // Upload local in-flight snapshots
-      for (const [testId, snapshot] of Object.entries(localSnapshots)) {
-        const fileName = `in_flight_${testId}.json`;
+      // Deduplicate unique local snapshots by canonical testId
+      const uniqueSnapshots = new Map<string, InFlightExamSnapshot>();
+      for (const snap of Object.values(localSnapshots)) {
+        if (snap && snap.testId) {
+          const canonicalId = snap.testId;
+          const existing = uniqueSnapshots.get(canonicalId);
+          if (!existing || snap.lastSavedAt > existing.lastSavedAt) {
+            uniqueSnapshots.set(canonicalId, snap);
+          }
+        }
+      }
+
+      // Upload unique local in-flight snapshots
+      for (const [canonicalId, snapshot] of uniqueSnapshots.entries()) {
+        const fileName = `in_flight_${canonicalId}.json`;
         await upsertAppDataFile(fileName, snapshot, inFlightFolderId);
       }
 
@@ -506,6 +514,8 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
     localStorage.setItem(STORAGE_KEY_LAST_SYNC, String(now));
     if (typeof window !== 'undefined') {
       window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
+      window.dispatchEvent(new Event('cbt_sync_completed'));
+      window.dispatchEvent(new Event('cbt_snapshot_updated'));
     }
 
     return {

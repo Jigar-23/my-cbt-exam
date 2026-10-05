@@ -53,8 +53,26 @@ export function isAndroidNative(): boolean {
   if (typeof window === 'undefined') return false;
   const win = window as any;
   if (!win.Capacitor) return false;
+  const isNative = typeof win.Capacitor.isNativePlatform === 'function' ? win.Capacitor.isNativePlatform() : false;
   const platform = typeof win.Capacitor.getPlatform === 'function' ? win.Capacitor.getPlatform() : win.Capacitor.platform;
-  return platform === 'android' || /android/i.test(navigator.userAgent);
+  return isNative && (platform === 'android' || /android/i.test(navigator.userAgent));
+}
+
+/**
+ * Accurately determines the device platform name across Android Native, Electron Desktop, and Web.
+ */
+export function getDevicePlatformName(): 'Android' | 'Desktop' | 'Web' {
+  if (typeof window === 'undefined') return 'Web';
+  const win = window as any;
+  if (win.electronAPI) return 'Desktop';
+  if (win.Capacitor) {
+    const isNative = typeof win.Capacitor.isNativePlatform === 'function' ? win.Capacitor.isNativePlatform() : false;
+    const platform = typeof win.Capacitor.getPlatform === 'function' ? win.Capacitor.getPlatform() : win.Capacitor.platform;
+    if (isNative && (platform === 'android' || /android/i.test(navigator.userAgent))) {
+      return 'Android';
+    }
+  }
+  return 'Web';
 }
 
 /**

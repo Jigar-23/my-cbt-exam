@@ -12,7 +12,7 @@
  * 5. Multi-tier Remote Sync (Google Drive REST API -> Local Manifest -> Offline Cache)
  */
 
-import { getDevicePhysicalId, getUserMobileNumber } from './deviceIdentity';
+import { getDevicePhysicalId, getUserMobileNumber, getDevicePlatformName } from './deviceIdentity';
 import { getStoredUser } from './gdrive/gdriveAuth';
 
 // Constant build version of this client package (1 = v1.0.0)
@@ -100,7 +100,7 @@ export async function registerDeviceToSecurityCloud(force: boolean = false): Pro
     const deviceId = await getDevicePhysicalId();
     const user = getStoredUser();
     const mobile = getUserMobileNumber();
-    const platform = (window as any).Capacitor ? 'Android' : (window as any).electronAPI ? 'Desktop' : 'Web';
+    const platform = getDevicePlatformName();
 
     await fetch(webhookUrl, {
       method: 'POST',

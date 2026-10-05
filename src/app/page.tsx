@@ -54,6 +54,7 @@ import { getSecurityStatus, registerDeviceToSecurityCloud, SecurityCheckResult }
 import UserPreferencesView, { UserPreferences } from '@/components/UserPreferencesView';
 import ThemeToggle from '@/components/ThemeToggle';
 import GoogleDriveLinkModal from '@/components/GoogleDriveLinkModal';
+import GoogleDriveStatusPill from '@/components/GoogleDriveStatusPill';
 import AndroidPermissionGate from '@/components/AndroidPermissionGate';
 import { isAndroidNative, checkDevicePhonePermission, requestDevicePhoneNumber } from '@/lib/deviceIdentity';
 import { getStoredAccessToken } from '@/lib/gdrive/gdriveAuth';
@@ -169,33 +170,33 @@ export default function Home() {
     }
   };
 
+  const loadSavedPreferences = () => {
+    try {
+      const raw = localStorage.getItem('cbt_user_preferences');
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        // Self-heal: If legacy fallback auto-set single ['banking'] + ['ibps_so_it'], remove it so all categories show
+        if (
+          parsed.selectedDomains?.length === 1 &&
+          parsed.selectedDomains[0] === 'banking' &&
+          parsed.selectedSubdomains?.length === 1 &&
+          parsed.selectedSubdomains[0] === 'ibps_so_it'
+        ) {
+          localStorage.removeItem('cbt_user_preferences');
+          setUserPreferences(null);
+        } else {
+          setUserPreferences(parsed);
+        }
+      } else {
+        setUserPreferences(null);
+      }
+    } catch {}
+  };
+
   // Load manifest, preferences, attempts & in-flight snapshots on startup
   useEffect(() => {
     fetchManifest();
     loadAttemptsAndSnapshots();
-    const loadSavedPreferences = () => {
-      try {
-        const raw = localStorage.getItem('cbt_user_preferences');
-        if (raw) {
-          const parsed = JSON.parse(raw);
-          // Self-heal: If legacy fallback auto-set single ['banking'] + ['ibps_so_it'], remove it so all categories show
-          if (
-            parsed.selectedDomains?.length === 1 &&
-            parsed.selectedDomains[0] === 'banking' &&
-            parsed.selectedSubdomains?.length === 1 &&
-            parsed.selectedSubdomains[0] === 'ibps_so_it'
-          ) {
-            localStorage.removeItem('cbt_user_preferences');
-            setUserPreferences(null);
-          } else {
-            setUserPreferences(parsed);
-          }
-        } else {
-          setUserPreferences(null);
-        }
-      } catch {}
-    };
-
     loadSavedPreferences();
 
     // On native Android, check and enforce mandatory phone permission
@@ -268,6 +269,24 @@ export default function Home() {
       clearInterval(intervalId);
       document.removeEventListener('visibilitychange', handleResume);
       window.removeEventListener('focus', handleResume);
+    };
+  }, []);
+
+  // Listen for Google Drive sync and snapshot events to dynamically refresh state
+  useEffect(() => {
+    const handleSyncRefresh = () => {
+      loadAttemptsAndSnapshots();
+      loadSavedPreferences();
+    };
+
+    window.addEventListener('cbt_gdrive_auth_changed', handleSyncRefresh);
+    window.addEventListener('cbt_sync_completed', handleSyncRefresh);
+    window.addEventListener('cbt_snapshot_updated', handleSyncRefresh);
+
+    return () => {
+      window.removeEventListener('cbt_gdrive_auth_changed', handleSyncRefresh);
+      window.removeEventListener('cbt_sync_completed', handleSyncRefresh);
+      window.removeEventListener('cbt_snapshot_updated', handleSyncRefresh);
     };
   }, []);
 
@@ -358,25 +377,7 @@ export default function Home() {
 
   const handleSyncComplete = async () => {
     await loadAttemptsAndSnapshots();
-    try {
-      const raw = localStorage.getItem('cbt_user_preferences');
-      if (raw) {
-        const parsed = JSON.parse(raw);
-        if (
-          parsed.selectedDomains?.length === 1 &&
-          parsed.selectedDomains[0] === 'banking' &&
-          parsed.selectedSubdomains?.length === 1 &&
-          parsed.selectedSubdomains[0] === 'ibps_so_it'
-        ) {
-          localStorage.removeItem('cbt_user_preferences');
-          setUserPreferences(null);
-        } else {
-          setUserPreferences(parsed);
-        }
-      } else {
-        setUserPreferences(null);
-      }
-    } catch {}
+    loadSavedPreferences();
   };
 
   const loadAttemptsAndSnapshots = async () => {
@@ -1185,6 +1186,12 @@ export default function Home() {
                 </span>
               )}
             </button>
+
+            {/* Google Drive Cloud Sync & Status */}
+            <GoogleDriveStatusPill
+              onOpenConnectModal={() => setIsDriveModalOpen(true)}
+              onSyncComplete={handleSyncComplete}
+            />
 
             {/* Download App Button (Visible only on web browser) */}
             {!isNativeApp && (

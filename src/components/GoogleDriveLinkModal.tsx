@@ -90,16 +90,23 @@ export default function GoogleDriveLinkModal({
         prompt: 'select_account',
       });
       
-      // Run initial sync in background
-      syncAllWithDrive().catch(console.warn);
-      registerDeviceToSecurityCloud(true).catch(() => {});
-
       if (typeof window !== 'undefined') {
         window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
       }
 
       onSuccess(user);
       onClose();
+
+      // Run initial sync in background and notify app components on completion
+      syncAllWithDrive()
+        .then(() => {
+          registerDeviceToSecurityCloud(true).catch(() => {});
+          if (typeof window !== 'undefined') {
+            window.dispatchEvent(new Event('cbt_sync_completed'));
+            window.dispatchEvent(new Event('cbt_snapshot_updated'));
+          }
+        })
+        .catch(console.warn);
     } catch (err: any) {
       console.error('Google Sign-In Error:', err);
       setError(err.message || 'Failed to authenticate with Google.');
