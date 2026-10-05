@@ -27,6 +27,7 @@ import { getStoredUser, signOutFromGoogle } from '@/lib/gdrive/gdriveAuth';
 import { syncAllWithDrive, getLastSyncTime } from '@/lib/gdrive/gdriveSync';
 import { GoogleUser, SyncReport } from '@/lib/gdrive/types';
 import { getActiveCandidateInfo, setGuestCandidateName } from '@/lib/candidateProfile';
+import { getUserMobileNumber, setUserMobileNumber } from '@/lib/deviceIdentity';
 
 interface AppSettingsModalProps {
   isOpen: boolean;
@@ -59,10 +60,12 @@ export default function AppSettingsModal({
   const [lastSync, setLastSync] = useState<number | null>(null);
   const [driveSyncReport, setDriveSyncReport] = useState<SyncReport | null>(null);
 
-  // Candidate Name State
+  // Candidate Name & Mobile State
   const [candidateNameInput, setCandidateNameInput] = useState('');
   const [isGoogleCandidate, setIsGoogleCandidate] = useState(false);
   const [isSavingCandidate, setIsSavingCandidate] = useState(false);
+  const [mobileInput, setMobileInput] = useState('');
+  const [isSavingMobile, setIsSavingMobile] = useState(false);
 
   useEffect(() => {
     setMounted(true);
@@ -83,6 +86,7 @@ export default function AppSettingsModal({
     const candidate = getActiveCandidateInfo();
     setCandidateNameInput(candidate.name);
     setIsGoogleCandidate(Boolean(candidate.isGoogleUser));
+    setMobileInput(getUserMobileNumber());
   };
 
   useEffect(() => {
@@ -216,6 +220,14 @@ export default function AppSettingsModal({
     setIsSavingCandidate(true);
     setGuestCandidateName(candidateNameInput.trim());
     setTimeout(() => setIsSavingCandidate(false), 500);
+  };
+
+  const handleSaveMobile = (e: React.FormEvent) => {
+    e.preventDefault();
+    setUserMobileNumber(mobileInput);
+    setIsSavingMobile(true);
+    syncAllWithDrive().catch(() => {});
+    setTimeout(() => setIsSavingMobile(false), 500);
   };
 
   const formatLastSync = (timestamp: number | null) => {
@@ -575,6 +587,32 @@ export default function AppSettingsModal({
               {isGoogleCandidate
                 ? 'Name linked automatically from your connected Google Account.'
                 : 'This name appears on exam hall tickets, player headers, and scorecards.'}
+            </p>
+          </form>
+
+          {/* Mobile Number Form */}
+          <form onSubmit={handleSaveMobile} className="space-y-2 pt-2 border-t border-zinc-200/60 dark:border-zinc-800/60">
+            <label className="text-[11px] font-semibold text-zinc-600 dark:text-zinc-400">
+              Registered Mobile Number
+            </label>
+            <div className="flex space-x-2">
+              <input
+                type="tel"
+                value={mobileInput}
+                onChange={(e) => setMobileInput(e.target.value)}
+                placeholder="+91 XXXXXXXXXX"
+                className="flex-1 px-3.5 py-2.5 bg-white dark:bg-zinc-800 border border-zinc-300 dark:border-zinc-700 rounded-xl text-xs font-medium text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 focus:outline-hidden focus:ring-2 focus:ring-[#7c3aed]"
+              />
+              <button
+                type="submit"
+                disabled={isSavingMobile}
+                className="px-4 py-2.5 bg-[#7c3aed] hover:bg-[#6d28d9] text-white rounded-xl text-xs font-bold transition-all shadow-xs cursor-pointer disabled:opacity-50"
+              >
+                {isSavingMobile ? 'Saved' : 'Save'}
+              </button>
+            </div>
+            <p className="text-[11px] text-zinc-500 dark:text-zinc-400">
+              Used for authorized device registration and multi-device concurrency binding.
             </p>
           </form>
         </div>

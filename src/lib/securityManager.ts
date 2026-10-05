@@ -20,6 +20,7 @@ export const CURRENT_APP_VERSION = 1;
 export interface DeviceEntry {
   device_id?: string;
   latest_email?: string;
+  mobile_number?: string;
   blocked?: boolean;
   last_sync_date?: string;
   code?: string;

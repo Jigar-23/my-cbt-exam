@@ -16,6 +16,7 @@ export interface GoogleUser {
 export interface UserProfileRecord {
   userId: string;
   email: string;
+  mobileNumber?: string;
   displayName: string;
   avatarUrl: string;
   targetDomains: string[];
@@ -32,6 +33,7 @@ export interface UserProfileRecord {
 export interface DeviceRecord {
   deviceId: string;
   email: string;
+  mobileNumber?: string;
   lastSyncDate: string;
   platform: string;
 }

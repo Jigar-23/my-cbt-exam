@@ -37,7 +37,7 @@ import {
   importBookmarksFromJson,
   BookmarkedQuestion,
 } from '../bookmarkStorage';
-import { getDevicePhysicalId } from '../deviceIdentity';
+import { getDevicePhysicalId, getUserMobileNumber } from '../deviceIdentity';
 import { DeviceRecord } from './types';
 
 const FOLDER_ATTEMPTS = 'attempts';
@@ -156,9 +156,11 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
 
       const currentTheme = (localStorage.getItem('cbt_theme_mode') || localStorage.getItem('cbt_theme') || 'system') as any;
       const deviceId = await getDevicePhysicalId();
+      const userMobile = getUserMobileNumber() || undefined;
       const profileRecord: UserProfileRecord = {
         userId: user.userId,
         email: user.email,
+        mobileNumber: userMobile,
         displayName: user.displayName,
         avatarUrl: user.avatarUrl,
         targetDomains: localPrefs?.selectedDomains || [],
@@ -217,6 +219,7 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
       const deviceRecord: DeviceRecord = {
         deviceId,
         email: user.email,
+        mobileNumber: userMobile,
         lastSyncDate: new Date().toISOString(),
         platform: typeof window !== 'undefined' && (window as any).Capacitor ? 'Android' : 'Desktop',
       };

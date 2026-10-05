@@ -31,11 +31,29 @@ import com.getcapacitor.Plugin;
 import com.getcapacitor.PluginCall;
 import com.getcapacitor.PluginMethod;
 import com.getcapacitor.annotation.CapacitorPlugin;
+import com.getcapacitor.annotation.Permission;
+import com.getcapacitor.annotation.PermissionCallback;
+import com.getcapacitor.PermissionState;
 import android.provider.Settings;
+import android.telephony.TelephonyManager;
+import android.telephony.SubscriptionManager;
+import android.content.Context;
+import android.Manifest;
 
 public class MainActivity extends BridgeActivity {
 
-    @CapacitorPlugin(name = "SystemTheme")
+    @CapacitorPlugin(
+        name = "SystemTheme",
+        permissions = {
+            @Permission(
+                alias = "phone",
+                strings = {
+                    Manifest.permission.READ_PHONE_STATE,
+                    Manifest.permission.READ_PHONE_NUMBERS
+                }
+            )
+        }
+    )
     public static class SystemThemePlugin extends Plugin {
         @PluginMethod
         public void setSystemBars(PluginCall call) {
@@ -78,6 +96,81 @@ public class MainActivity extends BridgeActivity {
                 JSObject ret = new JSObject();
                 ret.put("physicalId", "ANDROID-UNKNOWN-DEVICE");
                 ret.put("platform", "android");
+                call.resolve(ret);
+            }
+        }
+
+        @PluginMethod
+        public void requestPhonePermission(PluginCall call) {
+            try {
+                if (getPermissionState("phone") != PermissionState.GRANTED) {
+                    requestPermissionForAlias("phone", call, "phonePermCallback");
+                } else {
+                    fetchPhoneNumberInternal(call);
+                }
+            } catch (Exception e) {
+                fetchPhoneNumberInternal(call);
+            }
+        }
+
+        @PermissionCallback
+        private void phonePermCallback(PluginCall call) {
+            fetchPhoneNumberInternal(call);
+        }
+
+        @PluginMethod
+        public void getDevicePhoneNumber(PluginCall call) {
+            fetchPhoneNumberInternal(call);
+        }
+
+        private void fetchPhoneNumberInternal(PluginCall call) {
+            try {
+                boolean hasNumbers = false;
+                boolean hasState = false;
+                if (getActivity() != null) {
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                        hasNumbers = getActivity().checkSelfPermission(Manifest.permission.READ_PHONE_NUMBERS) == android.content.pm.PackageManager.PERMISSION_GRANTED;
+                    }
+                    hasState = getActivity().checkSelfPermission(Manifest.permission.READ_PHONE_STATE) == android.content.pm.PackageManager.PERMISSION_GRANTED;
+                }
+
+                if (!hasNumbers && !hasState) {
+                    JSObject ret = new JSObject();
+                    ret.put("phoneNumber", "");
+                    ret.put("permissionGranted", false);
+                    call.resolve(ret);
+                    return;
+                }
+
+                String number = "";
+                TelephonyManager tm = (TelephonyManager) getContext().getSystemService(Context.TELEPHONY_SERVICE);
+                if (tm != null) {
+                    try {
+                        number = tm.getLine1Number();
+                    } catch (SecurityException ignored) {}
+                }
+
+                if ((number == null || number.trim().isEmpty()) && Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+                    try {
+                        SubscriptionManager sm = (SubscriptionManager) getContext().getSystemService(Context.TELEPHONY_SUBSCRIPTION_SERVICE);
+                        if (sm != null) {
+                            int defaultSubId = SubscriptionManager.getDefaultSubscriptionId();
+                            if (defaultSubId != SubscriptionManager.INVALID_SUBSCRIPTION_ID) {
+                                number = sm.getPhoneNumber(defaultSubId);
+                            }
+                        }
+                    } catch (Exception ignored) {}
+                }
+
+                JSObject ret = new JSObject();
+                ret.put("phoneNumber", number != null ? number.trim() : "");
+                ret.put("permissionGranted", true);
+                call.resolve(ret);
+            } catch (Exception e) {
+                JSObject ret = new JSObject();
+                ret.put("phoneNumber", "");
+                ret.put("permissionGranted", false);
+                ret.put("error", e.getMessage());
                 call.resolve(ret);
             }
         }

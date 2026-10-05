@@ -8,7 +8,74 @@
  */
 
 const STORAGE_KEY_PHYSICAL_ID = 'cbt_device_physical_id';
+const STORAGE_KEY_USER_MOBILE = 'cbt_user_mobile_number';
 let cachedDeviceId: string | null = null;
+let cachedMobileNumber: string | null = null;
+
+/**
+ * Returns the candidate's verified mobile number if set
+ */
+export function getUserMobileNumber(): string {
+  if (cachedMobileNumber) return cachedMobileNumber;
+  if (typeof window === 'undefined') return '';
+  try {
+    const stored = localStorage.getItem(STORAGE_KEY_USER_MOBILE);
+    if (stored && stored.trim()) {
+      cachedMobileNumber = stored.trim();
+      return cachedMobileNumber;
+    }
+  } catch {}
+  return '';
+}
+
+/**
+ * Saves the candidate's mobile number
+ */
+export function setUserMobileNumber(phone: string): void {
+  const clean = (phone || '').replace(/[^0-9+]/g, '').trim();
+  cachedMobileNumber = clean;
+  if (typeof window !== 'undefined') {
+    try {
+      if (clean) {
+        localStorage.setItem(STORAGE_KEY_USER_MOBILE, clean);
+      } else {
+        localStorage.removeItem(STORAGE_KEY_USER_MOBILE);
+      }
+      window.dispatchEvent(new CustomEvent('cbt_mobile_updated', { detail: { mobileNumber: clean } }));
+    } catch {}
+  }
+}
+
+/**
+ * Requests phone permission on Android and attempts reading SIM phone number
+ */
+export async function requestDevicePhoneNumber(): Promise<{ phoneNumber: string; permissionGranted: boolean }> {
+  if (typeof window === 'undefined') {
+    return { phoneNumber: '', permissionGranted: false };
+  }
+
+  const existing = getUserMobileNumber();
+  if (existing) {
+    return { phoneNumber: existing, permissionGranted: true };
+  }
+
+  const win = window as any;
+  if (win.Capacitor?.Plugins?.SystemTheme?.requestPhonePermission) {
+    try {
+      const res = await win.Capacitor.Plugins.SystemTheme.requestPhonePermission();
+      if (res?.phoneNumber && typeof res.phoneNumber === 'string' && res.phoneNumber.trim()) {
+        const clean = res.phoneNumber.trim();
+        setUserMobileNumber(clean);
+        return { phoneNumber: clean, permissionGranted: true };
+      }
+      return { phoneNumber: '', permissionGranted: Boolean(res?.permissionGranted) };
+    } catch (e) {
+      console.warn('[DeviceIdentity] Native phone number request error:', e);
+    }
+  }
+
+  return { phoneNumber: '', permissionGranted: false };
+}
 
 /**
  * Returns the permanent physical address / hardware ID of the current device.
