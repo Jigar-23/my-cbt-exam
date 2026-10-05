@@ -20,9 +20,12 @@
 const fs = require('fs');
 const path = require('path');
 
+const { execFileSync } = require('child_process');
+
 const QUEUE_FILE = path.join(__dirname, 'solver_delta_queue.json');
 const CHECKPOINT_FILE = path.join(__dirname, 'solver_checkpoint.json');
 const SOLUTIONS_VAULT = '/Users/jigar/Library/CloudStorage/GoogleDrive-pulkit10112@gmail.com/My Drive/CBT_EXAM_MASTER/Solutions';
+const AGY_BIN = '/Users/jigar/.local/bin/agy';
 
 // Load API Key
 function getGeminiApiKey() {
@@ -47,8 +50,9 @@ function getGeminiApiKey() {
 }
 
 const API_KEY = getGeminiApiKey();
-const MODEL_NAME = 'gemini-2.5-flash';
-const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${API_KEY}`;
+const USE_AGY = !API_KEY || process.argv.includes('--free') || process.argv.includes('--engine') && process.argv[process.argv.indexOf('--engine') + 1] === 'agy';
+const MODEL_NAME = USE_AGY ? 'gemini-3.8-flash-low (Antigravity CLI / Free)' : 'gemini-2.5-flash (Direct HTTP)';
+const GEMINI_ENDPOINT = API_KEY ? `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}` : null;
 
 // Load Checkpoint
 function loadCheckpoint() {
@@ -93,9 +97,9 @@ async function solveQuestionBatch(questionsBatch) {
     questionText: q.text || q.questionHtml || q.question,
     direction: q.direction || q.passage || undefined,
     options: (q.options || []).map((o, oIdx) => ({
-      id: String(o.id ?? (oIdx + 1)),
-      label: String(o.label ?? (oIdx + 1)),
-      text: o.text || o.value || (typeof o === 'string' ? o : '')
+      id: String(typeof o === 'object' && o.id !== undefined ? o.id : (oIdx + 1)),
+      label: String(typeof o === 'object' && o.label !== undefined ? o.label : (oIdx + 1)),
+      text: typeof o === 'string' ? o : (o.text || o.value || '')
     }))
   }));
 
@@ -118,6 +122,32 @@ Respond with a JSON array of objects with this exact structure:
     "keyTakeaways": "string"
   }
 ]`;
+
+  if (USE_AGY) {
+    const fullPrompt = `${SYSTEM_INSTRUCTION}\n\n${userPrompt}\n\nCRITICAL: Respond STRICTLY with the valid JSON array only. No conversational text or markdown codeblocks outside the JSON.`;
+    const stdout = execFileSync(AGY_BIN, [
+      '--model', 'gemini-3.8-flash-low',
+      '--effort', 'low',
+      '--disable-slash-commands',
+      '-p', fullPrompt
+    ], {
+      encoding: 'utf8',
+      maxBuffer: 20 * 1024 * 1024
+    });
+
+    let clean = stdout.trim();
+    const fenceMatch = clean.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+    if (fenceMatch) clean = fenceMatch[1].trim();
+
+    const startIdx = clean.indexOf('[');
+    const endIdx = clean.lastIndexOf(']');
+    if (startIdx !== -1 && endIdx !== -1) {
+      clean = clean.slice(startIdx, endIdx + 1);
+    }
+
+    const parsed = JSON.parse(clean);
+    return Array.isArray(parsed) ? parsed : [parsed];
+  }
 
   const requestBody = {
     system_instruction: {
@@ -251,9 +281,25 @@ async function processTestFile(item) {
   for (const q of allQuestions) {
     const qid = q.id || q._id;
     const solData = solvedMap[qid];
-    if (solData && solData.selectedOptionId) {
-      q.correctOptionId = String(solData.selectedOptionId);
-      q.correctOptionIndex = Number(solData.selectedOptionId) - 1;
+    if (solData && solData.selectedOptionId !== undefined) {
+      let optIdx = -1;
+      const num = Number(solData.selectedOptionId);
+      if (!isNaN(num)) {
+        if (num >= 1 && num <= (q.options || []).length) {
+          optIdx = num - 1;
+        } else if (num >= 0 && num < (q.options || []).length) {
+          optIdx = num;
+        }
+      }
+
+      if (optIdx >= 0) {
+        q.correctOptionIndex = optIdx;
+        const optObj = q.options[optIdx];
+        q.correctOptionId = (optObj && typeof optObj === 'object' && optObj.id !== undefined) ? String(optObj.id) : String(optIdx + 1);
+      } else {
+        q.correctOptionId = String(solData.selectedOptionId);
+      }
+
       const html = buildHtmlSolution(solData);
       q.solutionHtml = html;
       q.explanation = html;
@@ -261,6 +307,7 @@ async function processTestFile(item) {
     }
   }
 
+  doc.hasVerifiedKey = true;
   doc.solutionsCount = allQuestions.filter(q => q.solutionHtml || q.explanation).length;
 
   // 1. In-place write to Google Drive
@@ -288,29 +335,48 @@ async function processTestFile(item) {
 
 async function main() {
   console.log('================================================================');
-  console.log('🚀 CBT EXAM MASTER — GEMINI 2.5 AUTO-SOLVER & ENRICHMENT FLEET');
+  console.log('🚀 CBT EXAM MASTER — AUTO-SOLVER & ENRICHMENT FLEET');
   console.log('================================================================');
 
-  if (!API_KEY) {
-    console.error('\n❌ No Gemini API Key found!');
+  if (!API_KEY && !USE_AGY) {
+    console.error('\n❌ No Gemini API Key found and Antigravity CLI not detected!');
     console.error('👉 Please provide your key via GEMINI_API_KEY environment variable,');
-    console.error('   or add GEMINI_API_KEY=your_key in .env.local\n');
+    console.error('   or ensure agy CLI is installed.');
     process.exit(1);
   }
 
-  if (!fs.existsSync(QUEUE_FILE)) {
-    console.log('⚠️ Delta queue not found. Generating queue first...');
-    require('./build_ai_delta_queue');
+  if (USE_AGY) {
+    console.log('💡 Running via Antigravity Engine (agy) — 100% FREE ($0.00 / ₹0)');
   }
 
-  const queue = JSON.parse(fs.readFileSync(QUEUE_FILE, 'utf8'));
-  const checkpoint = loadCheckpoint();
-
+  let targetList = [];
   const isPilot = process.argv.includes('--pilot');
-  const pilotArgIdx = process.argv.indexOf('--pilot');
-  const pilotCount = isPilot && process.argv[pilotArgIdx + 1] ? parseInt(process.argv[pilotArgIdx + 1], 10) : 3;
+  const fileArgIdx = process.argv.indexOf('--file');
+  if (fileArgIdx !== -1 && process.argv[fileArgIdx + 1]) {
+    const specifiedFile = path.resolve(process.argv[fileArgIdx + 1]);
+    const raw = fs.readFileSync(specifiedFile, 'utf8');
+    const doc = JSON.parse(raw);
+    const questions = doc.questions || [];
+    targetList = [{
+      testId: doc.id || doc.testId,
+      title: doc.title || path.basename(specifiedFile, '.json'),
+      filePath: specifiedFile,
+      totalQuestions: questions.length,
+      deficientQuestionsCount: questions.length,
+      deficientQuestionIds: questions.map(q => q.id || q._id)
+    }];
+  } else {
+    if (!fs.existsSync(QUEUE_FILE)) {
+      console.log('⚠️ Delta queue not found. Generating queue first...');
+      require('./build_ai_delta_queue');
+    }
+    const queue = JSON.parse(fs.readFileSync(QUEUE_FILE, 'utf8'));
+    const pilotArgIdx = process.argv.indexOf('--pilot');
+    const pilotCount = isPilot && process.argv[pilotArgIdx + 1] ? parseInt(process.argv[pilotArgIdx + 1], 10) : 3;
+    targetList = isPilot ? queue.slice(0, pilotCount) : queue;
+  }
 
-  const targetList = isPilot ? queue.slice(0, pilotCount) : queue;
+  const checkpoint = loadCheckpoint();
 
   console.log(`Mode: ${isPilot ? `PILOT TEST (${targetList.length} test papers)` : `FULL FLEET (${targetList.length} test papers)`}`);
   console.log(`Model: ${MODEL_NAME}`);

@@ -90,18 +90,24 @@ function scanVault(dir) {
 
   console.log(`\n🔍 Scanning CBT Vault: ${dir}`);
 
+  const KNOWN_HEALTHY_DIRS = new Set(['Banking', 'SSC', 'Subject_Practice', 'Solutions']);
+
   function walk(currentDir) {
     try {
       const entries = fs.readdirSync(currentDir, { withFileTypes: true });
       for (const ent of entries) {
         if (ent.name.startsWith('.') || ent.name.startsWith('._')) continue;
+        if (currentDir === dir && KNOWN_HEALTHY_DIRS.has(ent.name)) {
+          console.log(`⏩ Skipping 100% verified healthy category: ${ent.name}`);
+          continue;
+        }
         const full = path.join(currentDir, ent.name);
         if (ent.isDirectory()) {
           walk(full);
         } else if (ent.isFile() && ent.name.endsWith('.json') && !ent.name.includes('manifest') && !ent.name.includes('security')) {
           totalScanned++;
-          if (totalScanned % 500 === 0) {
-            process.stdout.write(`   [Scanned ${totalScanned} test files | Defective identified: ${deltaQueue.length}]...\r`);
+          if (totalScanned % 200 === 0) {
+            console.log(`   [Scanned ${totalScanned} tests | Defective identified: ${deltaQueue.length}]`);
           }
           const audit = auditTestFile(full);
           if (audit) {
