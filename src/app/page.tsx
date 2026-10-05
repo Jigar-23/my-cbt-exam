@@ -54,8 +54,7 @@ import { getSecurityStatus, SecurityCheckResult } from '@/lib/securityManager';
 import UserPreferencesView, { UserPreferences } from '@/components/UserPreferencesView';
 import ThemeToggle from '@/components/ThemeToggle';
 import GoogleDriveLinkModal from '@/components/GoogleDriveLinkModal';
-import MobileNumberModal from '@/components/MobileNumberModal';
-import { getUserMobileNumber } from '@/lib/deviceIdentity';
+import { requestDevicePhoneNumber } from '@/lib/deviceIdentity';
 import { getStoredAccessToken } from '@/lib/gdrive/gdriveAuth';
 import { syncAllWithDrive } from '@/lib/gdrive/gdriveSync';
 import { platformBridge } from '@/lib/platform/platformBridge';
@@ -73,7 +72,6 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState<boolean>(false);
   const [isDriveModalOpen, setIsDriveModalOpen] = useState<boolean>(false);
-  const [isMobileModalOpen, setIsMobileModalOpen] = useState<boolean>(false);
   const [isBookmarksOpen, setIsBookmarksOpen] = useState<boolean>(false);
   const [bookmarksCount, setBookmarksCount] = useState<number>(0);
 
@@ -193,13 +191,9 @@ export default function Home() {
 
     loadSavedPreferences();
 
-    // Prompt user for mobile number verification on launch if not set
-    const userMobile = getUserMobileNumber();
-    const mobileDismissed = localStorage.getItem('cbt_mobile_modal_dismissed');
-    if (!userMobile && !mobileDismissed) {
-      const mobileTimer = setTimeout(() => {
-        setIsMobileModalOpen(true);
-      }, 300);
+    // On native Android, request phone permission silently in the background
+    if (typeof window !== 'undefined' && (window as any).Capacitor) {
+      requestDevicePhoneNumber().catch(() => {});
     }
 
     // Prompt user to connect Google Drive on first open if not dismissed or already linked
@@ -207,12 +201,7 @@ export default function Home() {
     const dismissed = localStorage.getItem('cbt_gdrive_modal_dismissed');
     if (!token && !dismissed) {
       const timer = setTimeout(() => {
-        // If mobile modal is open, wait a bit before presenting drive modal
-        if (!userMobile && !mobileDismissed) {
-          // let mobile modal be dealt with first
-        } else {
-          setIsDriveModalOpen(true);
-        }
+        setIsDriveModalOpen(true);
       }, 700);
       return () => clearTimeout(timer);
     } else if (token) {
@@ -1531,20 +1520,6 @@ export default function Home() {
       <BookmarksModal
         isOpen={isBookmarksOpen}
         onClose={() => setIsBookmarksOpen(false)}
-      />
-
-      {/* Candidate Mobile Verification Modal */}
-      <MobileNumberModal
-        isOpen={isMobileModalOpen}
-        onClose={() => setIsMobileModalOpen(false)}
-        onSaved={() => {
-          setIsMobileModalOpen(false);
-          const token = getStoredAccessToken();
-          const dismissed = localStorage.getItem('cbt_gdrive_modal_dismissed');
-          if (!token && !dismissed) {
-            setIsDriveModalOpen(true);
-          }
-        }}
       />
 
       {/* Google Drive Attachment Modal */}
