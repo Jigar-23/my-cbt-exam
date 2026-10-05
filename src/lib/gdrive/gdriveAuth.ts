@@ -13,6 +13,8 @@ const STORAGE_KEY_TOKEN_EXPIRY = 'cbt_gdrive_token_expiry';
 const STORAGE_KEY_USER = 'cbt_gdrive_user';
 const STORAGE_KEY_CLIENT_ID = 'cbt_gdrive_custom_client_id';
 const STORAGE_KEY_TEST_EMAIL = 'cbt_gdrive_test_email';
+const STORAGE_KEY_SCOPE_VERSION = 'cbt_gdrive_scope_version';
+const CURRENT_SCOPE_VERSION = '2'; // v2 includes drive and drive.file scopes
 
 // Full Scopes: AppData sandbox + Google Drive file editing for central security & device registry
 export const GDRIVE_APPDATA_SCOPE = [
@@ -116,6 +118,16 @@ export function setStoredTestEmail(email: string): void {
  */
 export function getStoredAccessToken(): string | null {
   if (typeof window === 'undefined') return null;
+
+  // Invalidate legacy tokens that only had restricted sandbox scope
+  const scopeVer = localStorage.getItem(STORAGE_KEY_SCOPE_VERSION);
+  if (scopeVer !== CURRENT_SCOPE_VERSION) {
+    localStorage.removeItem(STORAGE_KEY_TOKEN);
+    localStorage.removeItem(STORAGE_KEY_TOKEN_EXPIRY);
+    localStorage.removeItem('cbt_gdrive_modal_dismissed');
+    return null;
+  }
+
   const token = localStorage.getItem(STORAGE_KEY_TOKEN);
   const expiry = localStorage.getItem(STORAGE_KEY_TOKEN_EXPIRY);
   if (!token) return null;
@@ -299,6 +311,7 @@ export async function signInWithGoogle(
             localStorage.setItem(STORAGE_KEY_TOKEN, accessToken);
             localStorage.setItem(STORAGE_KEY_TOKEN_EXPIRY, String(expiryTime));
             localStorage.setItem(STORAGE_KEY_USER, JSON.stringify(user));
+            localStorage.setItem(STORAGE_KEY_SCOPE_VERSION, CURRENT_SCOPE_VERSION);
             if (typeof window !== 'undefined') {
               window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
             }
@@ -354,6 +367,7 @@ export function signOutFromGoogle(): void {
   localStorage.removeItem(STORAGE_KEY_TOKEN);
   localStorage.removeItem(STORAGE_KEY_TOKEN_EXPIRY);
   localStorage.removeItem(STORAGE_KEY_USER);
+  localStorage.removeItem(STORAGE_KEY_SCOPE_VERSION);
   if (typeof window !== 'undefined') {
     window.dispatchEvent(new Event('cbt_gdrive_auth_changed'));
   }

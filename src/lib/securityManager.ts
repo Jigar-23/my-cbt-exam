@@ -154,7 +154,7 @@ export async function fetchRemoteSecurityConfig(forceRefresh: boolean = false): 
   // 1. If a Google Drive File ID is configured, fetch directly from Google Drive Cloud API
   if (customDriveFileId) {
     try {
-      const driveUrl = `https://www.googleapis.com/drive/v3/files/${customDriveFileId}?alt=media&key=${GDRIVE_API_KEY}&t=${Date.now()}`;
+      const driveUrl = `https://www.googleapis.com/drive/v3/files/${customDriveFileId}?alt=media&key=${GDRIVE_API_KEY}&supportsAllDrives=true&t=${Date.now()}`;
       const res = await fetch(driveUrl, { cache: 'no-store' });
       if (res.ok) {
         const driveData = await res.json();

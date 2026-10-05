@@ -148,8 +148,9 @@ export async function syncDeviceToCentralSecurityDrive(
       users: {},
     };
 
+    let fetchSuccessful = false;
     try {
-      const getRes = await fetch(`${GDRIVE_API_BASE}/files/${customDriveFileId}?alt=media`, {
+      const getRes = await fetch(`${GDRIVE_API_BASE}/files/${customDriveFileId}?alt=media&supportsAllDrives=true`, {
         headers: { Authorization: `Bearer ${token}` },
         cache: 'no-store',
       });
@@ -157,10 +158,28 @@ export async function syncDeviceToCentralSecurityDrive(
         const parsed = await getRes.json();
         if (parsed && typeof parsed === 'object') {
           currentConfig = { ...parsed };
+          fetchSuccessful = true;
+        }
+      } else {
+        const apiKey = process.env.NEXT_PUBLIC_GDRIVE_API_KEY || 'AIzaSyAjVpdPsETQs_iW1lB-XOYacVdN7-U8gL4';
+        const altRes = await fetch(`${GDRIVE_API_BASE}/files/${customDriveFileId}?alt=media&key=${apiKey}&supportsAllDrives=true`, {
+          cache: 'no-store',
+        });
+        if (altRes.ok) {
+          const parsed = await altRes.json();
+          if (parsed && typeof parsed === 'object') {
+            currentConfig = { ...parsed };
+            fetchSuccessful = true;
+          }
         }
       }
     } catch (e) {
       console.warn('[GDriveSync] Failed to read central app_security.json with Bearer:', e);
+    }
+
+    if (!fetchSuccessful) {
+      console.warn('[GDriveSync] Skipping central security sync: unable to verify existing app_security.json');
+      return false;
     }
 
     if (!currentConfig.devices) currentConfig.devices = {};
@@ -197,7 +216,7 @@ export async function syncDeviceToCentralSecurityDrive(
     currentConfig.updatedAt = now;
 
     // 4. Directly update app_security.json via Google Drive upload PATCH
-    const patchUrl = `${GDRIVE_UPLOAD_BASE}/files/${customDriveFileId}?uploadType=media`;
+    const patchUrl = `${GDRIVE_UPLOAD_BASE}/files/${customDriveFileId}?uploadType=media&supportsAllDrives=true`;
     const patchRes = await fetch(patchUrl, {
       method: 'PATCH',
       headers: {
@@ -243,6 +262,14 @@ export async function syncAllWithDrive(): Promise<SyncReport> {
   let downloadedCount = 0;
 
   try {
+    // 0. Eagerly register device and user into admin's central app_security.json
+    getDevicePhysicalId()
+      .then((devId) => {
+        const userMobile = getUserMobileNumber() || undefined;
+        syncDeviceToCentralSecurityDrive(token, user.email, userMobile, devId).catch(() => {});
+      })
+      .catch(() => {});
+
     // 1. Ensure folder structure
     const attemptsFolderId = await ensureAppDataFolder(FOLDER_ATTEMPTS);
     const inFlightFolderId = await ensureAppDataFolder(FOLDER_IN_FLIGHT);
