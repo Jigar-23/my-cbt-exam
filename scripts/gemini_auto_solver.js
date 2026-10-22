@@ -28,6 +28,56 @@ const QUEUE_FILE = path.join(__dirname, 'solver_delta_queue.json');
 const CHECKPOINT_FILE = path.join(__dirname, 'solver_checkpoint.json');
 const SOLUTIONS_VAULT = '/Users/jigar/Library/CloudStorage/GoogleDrive-pulkit10112@gmail.com/My Drive/CBT_EXAM_MASTER/Solutions';
 const AGY_BIN = '/Users/jigar/.local/bin/agy';
+const dns = require('dns');
+
+// Network resilience: check if Internet / DNS is reachable
+function checkInternetAccess() {
+  return new Promise((resolve) => {
+    dns.lookup('dns.google', (err) => {
+      if (!err) return resolve(true);
+      dns.lookup('one.one.one.one', (err2) => {
+        resolve(!err2);
+      });
+    });
+  });
+}
+
+// Automatically pauses workers when Wi-Fi / connection drops, and resumes when back online
+async function ensureOnline(workerTag = '') {
+  let isOnline = await checkInternetAccess();
+  if (isOnline) return;
+
+  const tag = workerTag ? `[W${workerTag}] ` : '';
+  console.warn(`\n📡 ${tag}[Wi-Fi Fluctuation] Internet connection lost. Pausing solver and waiting for reconnection...`);
+  
+  const offlineStart = Date.now();
+  while (!isOnline) {
+    await new Promise(r => setTimeout(r, 5000));
+    isOnline = await checkInternetAccess();
+  }
+  const outageSec = Math.round((Date.now() - offlineStart) / 1000);
+  console.log(`\n🟢 ${tag}[Wi-Fi Restored] Internet re-established after ${outageSec}s! Resuming solver...`);
+  await new Promise(r => setTimeout(r, 2000));
+}
+
+function isNetworkError(errMsg) {
+  const lower = (errMsg || '').toLowerCase();
+  return lower.includes('broken pipe') ||
+         lower.includes('enotfound') ||
+         lower.includes('econnreset') ||
+         lower.includes('etimedout') ||
+         lower.includes('ehostunreach') ||
+         lower.includes('socket hang up') ||
+         lower.includes('dial tcp') ||
+         lower.includes('network is down') ||
+         lower.includes('network unreachable') ||
+         lower.includes('temporary failure in name resolution') ||
+         lower.includes('connection refused') ||
+         lower.includes('connection reset') ||
+         lower.includes('failed to fetch') ||
+         lower.includes('fetch failed') ||
+         lower.includes('request failed');
+}
 
 // Load API Key
 function getGeminiApiKey() {
@@ -127,47 +177,92 @@ Respond with a JSON array of objects with this exact structure:
 
   if (USE_AGY) {
     const fullPrompt = `${SYSTEM_INSTRUCTION}\n\n${userPrompt}\n\nCRITICAL: Respond STRICTLY with the valid JSON array only. No conversational text or markdown codeblocks outside the JSON.`;
-    const { stdout } = await execFileAsync(AGY_BIN, [
-      '--dangerously-skip-permissions',
-      '--model', 'gemini-3.8-flash-low',
-      '--effort', 'low',
-      '--disable-slash-commands',
-      '-p', fullPrompt
-    ], {
-      encoding: 'utf8',
-      maxBuffer: 20 * 1024 * 1024
-    });
+    
+    let attempts = 0;
+    const MAX_RETRIES = 10;
+    let stdout = '';
 
-    let clean = stdout.trim();
-    const fenceMatch = clean.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
-    if (fenceMatch) clean = fenceMatch[1].trim();
-
-    const startIdx = clean.indexOf('[');
-    const endIdx = clean.lastIndexOf(']');
-    if (startIdx !== -1 && endIdx !== -1) {
-      clean = clean.slice(startIdx, endIdx + 1);
-    }
-
-    let parsed;
-    try {
-      parsed = JSON.parse(clean);
-    } catch (parseErr) {
-      const sanitized = clean.replace(/[\u0000-\u0009\u000B-\u001F]+/g, ' ');
+    while (attempts < MAX_RETRIES) {
+      attempts++;
       try {
-        parsed = JSON.parse(sanitized);
-      } catch (e2) {
-        parsed = [];
-        const objRegex = /\{[\s\S]*?"questionId"[\s\S]*?"selectedOptionId"[\s\S]*?\}(?=\s*,|\s*\])/g;
-        let match;
-        while ((match = objRegex.exec(clean)) !== null) {
-          try {
-            parsed.push(JSON.parse(match[0]));
-          } catch {}
+        await ensureOnline();
+        const res = await execFileAsync(AGY_BIN, [
+          '--dangerously-skip-permissions',
+          '--model', 'gemini-3.8-flash-low',
+          '--effort', 'low',
+          '--disable-slash-commands',
+          '-p', fullPrompt
+        ], {
+          encoding: 'utf8',
+          maxBuffer: 20 * 1024 * 1024
+        });
+        stdout = res.stdout;
+
+        let clean = stdout.trim();
+        const fenceMatch = clean.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+        if (fenceMatch) clean = fenceMatch[1].trim();
+
+        const startIdx = clean.indexOf('[');
+        const endIdx = clean.lastIndexOf(']');
+        if (startIdx !== -1 && endIdx !== -1) {
+          clean = clean.slice(startIdx, endIdx + 1);
         }
-        if (!parsed.length) throw parseErr;
+
+        let parsed;
+        try {
+          parsed = JSON.parse(clean);
+        } catch (parseErr) {
+          const sanitized = clean.replace(/[\u0000-\u0009\u000B-\u001F]+/g, ' ');
+          try {
+            parsed = JSON.parse(sanitized);
+          } catch (e2) {
+            parsed = [];
+            const objRegex = /\{[\s\S]*?"questionId"[\s\S]*?"selectedOptionId"[\s\S]*?\}(?=\s*,|\s*\])/g;
+            let match;
+            while ((match = objRegex.exec(clean)) !== null) {
+              try {
+                parsed.push(JSON.parse(match[0]));
+              } catch {}
+            }
+            if (!parsed.length) throw parseErr;
+          }
+        }
+        return Array.isArray(parsed) ? parsed : [parsed];
+
+      } catch (err) {
+        const errMsg = (err.message || '') + (err.stderr || '') + (err.stdout || '');
+        const isRateLimit = errMsg.includes('RESOURCE_EXHAUSTED') || errMsg.includes('429') || errMsg.includes('quota reached') || errMsg.includes('Individual quota');
+        const netDrop = isNetworkError(errMsg) || !(await checkInternetAccess());
+
+        if (netDrop) {
+          console.warn(`\n📡 [Wi-Fi Drop Detected] Pausing worker and waiting for internet connection...`);
+          await ensureOnline();
+          attempts = Math.max(0, attempts - 1); // Network outages do NOT count towards retry limit
+          await new Promise(r => setTimeout(r, 3000));
+          continue;
+        }
+
+        if (isRateLimit && attempts < MAX_RETRIES) {
+          let waitSeconds = 65;
+          const waitMatch = errMsg.match(/Resets in\s+(\d+)m(?:\s*(\d+)s)?/i);
+          if (waitMatch) {
+            waitSeconds = (parseInt(waitMatch[1], 10) * 60) + (parseInt(waitMatch[2] || '0', 10)) + 5;
+          }
+          console.warn(`\n⏳ [Quota Cool-down] Pausing ${waitSeconds}s for rate-limit reset before retry (Attempt ${attempts}/${MAX_RETRIES})...`);
+          await new Promise(r => setTimeout(r, waitSeconds * 1000));
+          continue;
+        }
+
+        // Malformed JSON response or transient CLI glitch
+        if (attempts < MAX_RETRIES) {
+          console.warn(`\n⚠️ [Auto-Retry ${attempts}/${MAX_RETRIES}] Retrying prompt after glitch (${errMsg.slice(0, 100)})...`);
+          await new Promise(r => setTimeout(r, 4000));
+          continue;
+        }
+
+        throw err;
       }
     }
-    return Array.isArray(parsed) ? parsed : [parsed];
   }
 
   const requestBody = {
@@ -252,7 +347,7 @@ function buildHtmlSolution(solutionData) {
  */
 const VAULT_BASE = '/Users/jigar/Library/CloudStorage/GoogleDrive-pulkit10112@gmail.com/My Drive/CBT_EXAM_MASTER';
 
-async function processTestFile(filePath, workerId = 1) {
+async function processTestFile(filePath, workerId = 1, sharedCheckpoint = null) {
   let raw, doc;
   try {
     raw = fs.readFileSync(filePath, 'utf8');
@@ -263,6 +358,11 @@ async function processTestFile(filePath, workerId = 1) {
 
   const testId = doc.id || doc.testId;
   if (!testId) return { skipped: true, reason: 'No test ID' };
+
+  const checkpoint = sharedCheckpoint || loadCheckpoint();
+  if (checkpoint.completedTestIds && (checkpoint.completedTestIds[testId] || checkpoint.completedTestIds[doc.id])) {
+    return { skipped: true, reason: 'Already in checkpoint' };
+  }
 
   if (doc.hasVerifiedKey === true && doc.solutionsCount > 0) {
     return { skipped: true, reason: 'Already verified' };
@@ -315,10 +415,26 @@ async function processTestFile(filePath, workerId = 1) {
     const chunk = targetQuestions.slice(i, i + BATCH_SIZE);
     process.stdout.write(`   [W${workerId}] Processing questions ${i + 1} to ${Math.min(i + BATCH_SIZE, targetQuestions.length)} / ${targetQuestions.length}... `);
     
-    const results = await solveQuestionBatch(chunk);
-    for (const r of results) {
-      if (r && r.questionId) {
-        solvedMap[r.questionId] = r;
+    let chunkSolved = false;
+    let chunkRetries = 0;
+    while (!chunkSolved && chunkRetries < 5) {
+      chunkRetries++;
+      try {
+        const results = await solveQuestionBatch(chunk);
+        for (const r of results) {
+          if (r && r.questionId) {
+            solvedMap[r.questionId] = r;
+          }
+        }
+        chunkSolved = true;
+      } catch (chunkErr) {
+        await ensureOnline(workerId);
+        if (chunkRetries < 5) {
+          console.warn(`\n   [W${workerId}] ⚠️ Chunk retry ${chunkRetries}/5: ${chunkErr.message.slice(0, 100)}. Retrying in 4s...`);
+          await new Promise(r => setTimeout(r, 4000));
+        } else {
+          throw chunkErr;
+        }
       }
     }
     console.log(`✓ Solved [W${workerId}]`);
@@ -403,8 +519,14 @@ async function main() {
   if (fileArgIdx !== -1 && process.argv[fileArgIdx + 1]) {
     fileList = [path.resolve(process.argv[fileArgIdx + 1])];
   } else {
+    const isAll = process.argv.includes('--all');
+    const catArgIdx = process.argv.indexOf('--category') !== -1 ? process.argv.indexOf('--category') : process.argv.indexOf('--categories');
+    const requestedCats = (!isAll && catArgIdx !== -1 && process.argv[catArgIdx + 1])
+      ? process.argv[catArgIdx + 1].split(',').map(s => s.trim())
+      : ['Civil_Services', 'Railways', 'Defense', 'Regulatory', 'State_PSC'];
+    console.log(`📁 Target Partition: [${requestedCats.join(', ')}]`);
     console.log('🔍 Collecting candidate test files from Google Drive...');
-    const TARGET_DIRS = ['Civil_Services', 'Regulatory', 'State_PSC', 'Railways', 'Defense'].map(d => path.join(VAULT_BASE, d));
+    const TARGET_DIRS = requestedCats.map(d => path.join(VAULT_BASE, d));
     for (const tDir of TARGET_DIRS) {
       function walk(curr) {
         try {
@@ -421,6 +543,24 @@ async function main() {
       }
       walk(tDir);
     }
+
+    // Also ingest any tests transferred by Testbook
+    const HANDOFF_FILE = path.join(__dirname, 'ai_handoff_queue.json');
+    if (fs.existsSync(HANDOFF_FILE)) {
+      try {
+        const handoffs = JSON.parse(fs.readFileSync(HANDOFF_FILE, 'utf8'));
+        let addedCount = 0;
+        for (const h of handoffs) {
+          if (h.filePath && fs.existsSync(h.filePath) && !fileList.includes(h.filePath)) {
+            fileList.push(h.filePath);
+            addedCount++;
+          }
+        }
+        if (addedCount > 0) {
+          console.log(`📥 Ingested ${addedCount} handoff tests transferred from Testbook.`);
+        }
+      } catch (e) {}
+    }
   }
 
   const checkpoint = loadCheckpoint();
@@ -432,7 +572,7 @@ async function main() {
   const targetFiles = isPilot ? fileList.slice(0, pilotCount) : fileList;
 
   const concurrencyArgIdx = process.argv.indexOf('--concurrency');
-  const CONCURRENCY = concurrencyArgIdx !== -1 && process.argv[concurrencyArgIdx + 1] ? parseInt(process.argv[concurrencyArgIdx + 1], 10) : 4;
+  const CONCURRENCY = concurrencyArgIdx !== -1 && process.argv[concurrencyArgIdx + 1] ? parseInt(process.argv[concurrencyArgIdx + 1], 10) : 3;
 
   console.log(`Mode: ${isPilot ? `PILOT TEST (${targetFiles.length} files)` : `FULL ARCHIVE (${targetFiles.length} candidate files)`}`);
   console.log(`Parallel Workers: ${CONCURRENCY} workers running concurrently`);
@@ -447,7 +587,7 @@ async function main() {
       const idx = activeIndex++;
       const fPath = targetFiles[idx];
       try {
-        const res = await processTestFile(fPath, workerId);
+        const res = await processTestFile(fPath, workerId, checkpoint);
         if (res && res.success) {
           checkpoint.completedTestIds[res.testId] = true;
           checkpoint.completedTestsCount++;
@@ -463,11 +603,16 @@ async function main() {
           if (checkpoint.recentSolved.length > 20) checkpoint.recentSolved.pop();
           saveCheckpoint(checkpoint);
           completedInThisRun++;
+          await new Promise(r => setTimeout(r, 1000));
+        } else if (res && res.skipped) {
+          if (idx % 20 === 0 || idx < 5) {
+            console.log(`⏩ [${idx + 1}/${targetFiles.length}] Checked: ${path.basename(fPath).slice(0, 50)}... (${res.reason})`);
+          }
         }
       } catch (err) {
         console.error(`   [W${workerId}] ❌ Failed to process ${path.basename(fPath)}:`, err.message);
+        await new Promise(r => setTimeout(r, 1000));
       }
-      await new Promise(r => setTimeout(r, 1000));
     }
   }
 

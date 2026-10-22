@@ -17,6 +17,20 @@ const fs = require('fs');
 const path = require('path');
 
 const VAULT_BASE = '/Users/jigar/Library/CloudStorage/GoogleDrive-pulkit10112@gmail.com/My Drive/CBT_EXAM_MASTER';
+const HANDOFF_QUEUE = path.join(__dirname, 'ai_handoff_queue.json');
+
+function queueForAI(item) {
+  try {
+    let q = [];
+    if (fs.existsSync(HANDOFF_QUEUE)) {
+      q = JSON.parse(fs.readFileSync(HANDOFF_QUEUE, 'utf8'));
+    }
+    if (!q.some(x => x.filePath === item.filePath)) {
+      q.push(item);
+      fs.writeFileSync(HANDOFF_QUEUE, JSON.stringify(q, null, 2), 'utf8');
+    }
+  } catch(e) {}
+}
 
 // Load Auth Credentials
 let authToken = process.env.AUTH_TOKEN || "";
@@ -127,13 +141,19 @@ async function repairTestFile(filePath, force = false) {
     // Fetch live test from Testbook
     const testRes = await fetch(`https://api.testbook.com/api/v2/tests/${testId}`, { headers });
     if (!testRes.ok) {
-      console.log(`   ⚠️ Failed to fetch test ${testId}: HTTP ${testRes.status}`);
-      return { error: `HTTP ${testRes.status}` };
+      console.log(`   ↪️ [Transferred to AI] Test ${testId} not accessible on Testbook (HTTP ${testRes.status}). Queued for AI Fleet.`);
+      queueForAI({ testId, filePath, title: doc.title, reason: `HTTP_${testRes.status}`, queuedAt: new Date().toISOString() });
+      return { transferredToAI: true };
     }
 
     const testJson = await testRes.json();
     const testData = testJson.data?.test || testJson.data || {};
     const answersMap = await fetchAnswers(testId);
+    if (!answersMap || Object.keys(answersMap).length === 0) {
+      console.log(`   ↪️ [Transferred to AI] Solutions locked on Testbook. Queued for AI Fleet.`);
+      queueForAI({ testId, filePath, title: doc.title, reason: 'solutions_locked', queuedAt: new Date().toISOString() });
+      return { transferredToAI: true };
+    }
 
     // Build raw question lookup by ID
     const rawQMap = {};
@@ -281,14 +301,20 @@ async function main() {
     const res = await repairTestFile(fp, force);
     if (res.success && res.enrichedSolCount > 0) enriched++;
     
-    // Tactical human-like jitter delay (2.2s - 3.2s)
-    const delay = Math.floor(Math.random() * 1000) + 2200;
+    if (res && res.error && (res.error.includes('401') || res.error.includes('403'))) {
+      console.error(`\n🔒 [Testbook Auth] Token is unauthorized or expired (${res.error}).`);
+      console.error(`👉 Halting runner to protect account. Update testbook_auth.json with a fresh token to resume.`);
+      break;
+    }
+
+    // Brisk yet 100% safe anti-blacklist randomized human jitter (4.0s - 7.0s)
+    const delay = Math.floor(Math.random() * 3000) + 4000;
     await new Promise(r => setTimeout(r, delay));
 
-    // Tactical cooldown every 40 tests to reset rolling window velocity
-    if (processed % 40 === 0 && processed < filesToProcess.length) {
-      console.log(`\n⏳ Taking a tactical 20-second cooldown to keep account velocity 100% safe...`);
-      await new Promise(r => setTimeout(r, 20000));
+    // Natural human review pause every 20 tests
+    if (processed % 20 === 0 && processed < filesToProcess.length) {
+      console.log(`\n☕ Natural review pause: 45s cool-down to keep account velocity 100% safe...`);
+      await new Promise(r => setTimeout(r, 45000));
     }
   }
 

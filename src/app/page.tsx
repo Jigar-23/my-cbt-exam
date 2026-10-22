@@ -580,8 +580,8 @@ export default function Home() {
 
   // Calculate overall counts for the current stage/exam view
   const totalInCurrentView = baseTests.length;
-  const attemptedInCurrentView = baseTests.filter((t: any) => !!attemptsMap[t.id]).length;
-  const inProgressInCurrentView = baseTests.filter((t: any) => !attemptsMap[t.id] && !!inFlightMap[t.id]).length;
+  const inProgressInCurrentView = baseTests.filter((t: any) => !!inFlightMap[t.id]).length;
+  const attemptedInCurrentView = baseTests.filter((t: any) => !!attemptsMap[t.id] && !inFlightMap[t.id]).length;
   const unattemptedInCurrentView = totalInCurrentView - attemptedInCurrentView - inProgressInCurrentView;
 
   // Filter by search query
@@ -595,11 +595,11 @@ export default function Home() {
     );
   }
 
-  // Filter by attempt & in-progress status
+  // Filter by attempt & in-progress status (active in-flight sessions always count as in_progress)
   if (attemptFilter === 'attempted') {
-    filteredTests = filteredTests.filter((t: any) => !!attemptsMap[t.id]);
+    filteredTests = filteredTests.filter((t: any) => !!attemptsMap[t.id] && !inFlightMap[t.id]);
   } else if (attemptFilter === 'in_progress') {
-    filteredTests = filteredTests.filter((t: any) => !attemptsMap[t.id] && !!inFlightMap[t.id]);
+    filteredTests = filteredTests.filter((t: any) => !!inFlightMap[t.id]);
   } else if (attemptFilter === 'unattempted') {
     filteredTests = filteredTests.filter((t: any) => !attemptsMap[t.id] && !inFlightMap[t.id]);
   }
@@ -1405,9 +1405,17 @@ export default function Home() {
             <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3 md:gap-4 min-w-0">
               {displayedTests.map((test: any, idx: number) => {
                 const attempt = attemptsMap[test.id];
-                const isAttempted = !!attempt;
                 const inFlight = inFlightMap[test.id];
-                const isInProgress = !isAttempted && !!inFlight;
+                const isInProgress = !!inFlight;
+                const isAttempted = !!attempt && !isInProgress;
+
+                const displayQuestions = (isAttempted || isInProgress) && attempt?.summary?.totalQuestions
+                  ? attempt.summary.totalQuestions
+                  : (inFlight?.questionStatus ? Object.keys(inFlight.questionStatus).length : test.totalQuestions);
+
+                const displayMarks = (isAttempted || isInProgress) && attempt?.summary?.maxMarks
+                  ? attempt.summary.maxMarks
+                  : test.totalMarks;
 
                 const getPatternInfo = (pat: string) => {
                   switch (pat) {
@@ -1458,7 +1466,12 @@ export default function Home() {
                         </span>
 
                         {/* Status Badge: Attempted vs In Progress vs Not Attempted */}
-                        {isAttempted ? (
+                        {isInProgress ? (
+                          <span className="flex items-center space-x-1 text-amber-600 dark:text-amber-400 font-mono font-semibold bg-amber-500/15 border border-amber-500/30 px-2 py-0.5 rounded-full text-[11px] truncate">
+                            <Pause size={12} className="text-amber-500 shrink-0" />
+                            <span>In Progress {attempt ? '(Retake)' : ''} ({Math.floor((inFlight.timeLeft || 0) / 60)}m left)</span>
+                          </span>
+                        ) : isAttempted ? (
                           <span className="flex items-center space-x-1 text-[#7c3aed] dark:text-[#a78bfa] font-mono font-semibold bg-[#7c3aed]/15 border border-[#7c3aed]/30 px-2 py-0.5 rounded-full text-[11px] truncate">
                             <CheckCircle2 size={13} className="text-[#7c3aed] dark:text-[#a78bfa] shrink-0" />
                             <span>Attempted</span>
@@ -1467,11 +1480,6 @@ export default function Home() {
                                 ({attempt.summary.netScore.toFixed(1)}/{attempt.summary.maxMarks})
                               </span>
                             )}
-                          </span>
-                        ) : isInProgress ? (
-                          <span className="flex items-center space-x-1 text-amber-600 dark:text-amber-400 font-mono font-semibold bg-amber-500/15 border border-amber-500/30 px-2 py-0.5 rounded-full text-[11px] truncate">
-                            <Pause size={12} className="text-amber-500 shrink-0" />
-                            <span>In Progress ({Math.floor((inFlight.timeLeft || 0) / 60)}m left)</span>
                           </span>
                         ) : (
                           <span className="flex items-center space-x-1 text-zinc-500 dark:text-zinc-400 font-mono font-medium bg-zinc-100 dark:bg-[#27272a] border border-zinc-200 dark:border-[#3f3f46]/60 px-2 py-0.5 rounded-full text-[11px]">
@@ -1496,7 +1504,7 @@ export default function Home() {
                       <div className="flex items-center space-x-4 text-xs text-zinc-500 dark:text-zinc-400 font-mono pt-1">
                         <span className="flex items-center space-x-1">
                           <BookOpen size={14} className="text-zinc-400 dark:text-zinc-500" />
-                          <span>{test.totalQuestions} Questions</span>
+                          <span>{displayQuestions} Questions</span>
                         </span>
                         <span className="flex items-center space-x-1.5">
                           <Clock size={14} className="text-zinc-400 dark:text-zinc-500" />
@@ -1507,7 +1515,7 @@ export default function Home() {
                             </span>
                           )}
                         </span>
-                        <span>{test.totalMarks} Marks</span>
+                        <span>{displayMarks} Marks</span>
                       </div>
 
                       {/* Attempt Telemetry Info if attempted */}
@@ -1530,7 +1538,42 @@ export default function Home() {
 
                     {/* Action Buttons */}
                     <div className="grid grid-cols-2 gap-2.5 pt-3.5 border-t border-zinc-100 dark:border-[#27272a] mt-3.5">
-                      {isAttempted ? (
+                      {isInProgress ? (
+                        <>
+                          {/* Resume In-Progress / Retake Exam */}
+                          <button
+                            onClick={() => handleLaunchTest(test, false, true)}
+                            className="flex items-center justify-center space-x-1.5 py-2 bg-[#0858f7] hover:bg-[#0645c7] text-white rounded-xl font-bold text-xs transition-all shadow-md shadow-[#0858f7]/25 active:scale-98 cursor-pointer"
+                          >
+                            <Play size={13} fill="currentColor" />
+                            <span>Resume</span>
+                          </button>
+
+                          {attempt ? (
+                            <button
+                              onClick={() => handleOpenTestAnalytics(test.id)}
+                              className="flex items-center justify-center space-x-1.5 py-2 bg-zinc-100 hover:bg-zinc-200 dark:bg-[#27272a] dark:hover:bg-[#3f3f46] text-zinc-700 dark:text-zinc-200 rounded-xl font-bold text-xs transition-colors border border-zinc-200 dark:border-[#3f3f46]/60 cursor-pointer"
+                              title="Review previous attempt score and analysis"
+                            >
+                              <BarChart2 size={13} />
+                              <span>Analysis</span>
+                            </button>
+                          ) : (
+                            <button
+                              onClick={() => {
+                                if (window.confirm('Discard your paused progress and start this exam fresh?')) {
+                                  handleLaunchTest(test, false, false);
+                                }
+                              }}
+                              className="flex items-center justify-center space-x-1.5 py-2 bg-zinc-100 dark:bg-[#27272a] hover:bg-zinc-200 dark:hover:bg-[#3f3f46] text-zinc-800 dark:text-zinc-200 rounded-xl font-semibold text-xs border border-zinc-200 dark:border-[#3f3f46] transition-colors cursor-pointer"
+                              title="Start fresh from Question 1"
+                            >
+                              <RotateCcw size={13} />
+                              <span>Restart</span>
+                            </button>
+                          )}
+                        </>
+                      ) : isAttempted ? (
                         <>
                           {/* Retake Exam Button */}
                           <button
@@ -1548,27 +1591,6 @@ export default function Home() {
                           >
                             <BarChart2 size={13} />
                             <span>Analysis</span>
-                          </button>
-                        </>
-                      ) : isInProgress ? (
-                        <>
-                          {/* Resume In-Progress Exam */}
-                          <button
-                            onClick={() => handleLaunchTest(test, false, true)}
-                            className="flex items-center justify-center space-x-1.5 py-2 bg-[#0858f7] hover:bg-[#0645c7] text-white rounded-xl font-bold text-xs transition-all shadow-md shadow-[#0858f7]/25 active:scale-98 cursor-pointer"
-                          >
-                            <Play size={13} fill="currentColor" />
-                            <span>Resume</span>
-                          </button>
-
-                          {/* Reset / Restart Fresh */}
-                          <button
-                            onClick={() => handleLaunchTest(test, false, false)}
-                            className="flex items-center justify-center space-x-1.5 py-2 bg-zinc-100 dark:bg-[#27272a] hover:bg-zinc-200 dark:hover:bg-[#3f3f46] text-zinc-800 dark:text-zinc-200 rounded-xl font-semibold text-xs border border-zinc-200 dark:border-[#3f3f46] transition-colors cursor-pointer"
-                            title="Start fresh from Question 1"
-                          >
-                            <RotateCcw size={13} />
-                            <span>Restart</span>
                           </button>
                         </>
                       ) : (
