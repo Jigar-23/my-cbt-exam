@@ -477,7 +477,8 @@ export class GoogleDriveContentProvider implements ContentProvider {
     const rawPath = relativePath || testItem?.relativePath || testItem?.path || testItem?.filename || '';
     const cleanPath = rawPath.replace(/\\/g, '/').replace(/^(\.\/|\/)?public\//, '').replace(/^\/+/, '');
     const filename = testItem?.filename || cleanPath.split('/').pop() || '';
-    const cacheKey = driveFileId || testId || cleanPath || 'test';
+    const actualDriveId = driveFileId || testItem?.driveFileId;
+    const cacheKey = actualDriveId || testId || cleanPath || 'test';
 
     if (memoryCache[cacheKey]) {
       return memoryCache[cacheKey];
@@ -487,9 +488,14 @@ export class GoogleDriveContentProvider implements ContentProvider {
     try {
       const offline = await getOfflineTestPaper(cacheKey);
       if (offline && offline.sections && offline.sections.length > 0) {
-        const normalized = normalizeTestPaper(offline, testItem, testId);
-        memoryCache[cacheKey] = normalized;
-        return normalized;
+        // Discard any poisoned fallback caches from previous sessions
+        const isBadFallback = offline.isFallback || 
+          (offline.sections[0]?.questions[0]?.text?.includes('Oriental Insurance') && !/insurance|oicl/i.test(testItem?.title || testItem?.relativePath || ''));
+        if (!isBadFallback) {
+          const normalized = normalizeTestPaper(offline, testItem, testId);
+          memoryCache[cacheKey] = normalized;
+          return normalized;
+        }
       }
     } catch (e) {}
 
@@ -508,8 +514,9 @@ export class GoogleDriveContentProvider implements ContentProvider {
       }
     }
 
-    // 3. Direct local candidate HTTP paths (Served by internal Electron HTTP server or static assets)
+    // 3. Direct local candidate HTTP paths (Served by internal Electron HTTP server, symlinked vault, or static assets)
     const candidatePaths = [
+      cleanPath ? `/vault/${cleanPath}` : '',
       cleanPath ? `/${cleanPath}` : '',
       cleanPath ? `/data/${cleanPath}` : '',
       cleanPath ? `/data/group_b/${cleanPath}` : '',
@@ -566,9 +573,9 @@ export class GoogleDriveContentProvider implements ContentProvider {
     }
 
     // 4. If driveFileId is provided, fetch from Google Drive Cloud API
-    if (driveFileId) {
+    if (actualDriveId) {
       try {
-        const url = `https://www.googleapis.com/drive/v3/files/${driveFileId}?alt=media&key=${GDRIVE_API_KEY}`;
+        const url = `https://www.googleapis.com/drive/v3/files/${actualDriveId}?alt=media&key=${GDRIVE_API_KEY}`;
         const controller = new AbortController();
         const timeoutId = setTimeout(() => controller.abort(), 6000);
         const res = await fetch(url, { cache: 'no-store', signal: controller.signal });
@@ -617,8 +624,10 @@ export class GoogleDriveContentProvider implements ContentProvider {
         if (baseRes.ok) {
           const baseData = await baseRes.json();
           const adapted = normalizeTestPaper(baseData, testItem, testId);
+          adapted.isFallback = true;
+          adapted.fallbackReason = 'Test paper could not be fetched from the secure cloud vault or local drive. Running backup simulation drill.';
           memoryCache[cacheKey] = adapted;
-          saveOfflineTestPaper(cacheKey, adapted).catch(() => {});
+          // CRITICAL: NEVER save fallback data into IndexedDB so it never pollutes the real test cache!
           return adapted;
         }
       } catch (e) {}
@@ -626,6 +635,8 @@ export class GoogleDriveContentProvider implements ContentProvider {
 
     // 6. In-Memory Resilient Generator: Always guarantees a playable test without crashing
     const emergencyMock = generateEmergencyMock(testItem, testId);
+    emergencyMock.isFallback = true;
+    emergencyMock.fallbackReason = 'Unable to reach cloud storage. Running emergency mock template.';
     memoryCache[cacheKey] = emergencyMock;
     return emergencyMock;
   }

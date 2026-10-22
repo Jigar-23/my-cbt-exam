@@ -917,6 +917,24 @@ export default function CBTExamPlayer({
         </div>
       </header>
 
+      {/* Fallback Warning Banner: Displayed when paper could not be fetched from cloud vault */}
+      {testData?.isFallback && (
+        <div className="bg-amber-950/90 border-b border-amber-600/60 px-4 py-2 flex items-center justify-between text-amber-200 text-xs shrink-0 shadow-sm z-20">
+          <div className="flex items-center space-x-2.5">
+            <AlertCircle size={16} className="text-amber-400 shrink-0 animate-pulse" />
+            <div>
+              <span className="font-bold text-amber-300">Offline Simulation Backup: </span>
+              <span className="text-amber-200/90">
+                {testData.fallbackReason || 'Official question paper was not found in the cloud storage vault. Loaded sample backup test.'}
+              </span>
+            </div>
+          </div>
+          <span className="px-2 py-0.5 rounded bg-amber-500/20 text-amber-300 font-mono text-[10px] uppercase tracking-wider border border-amber-500/40 shrink-0">
+            Fallback Mode
+          </span>
+        </div>
+      )}
+
       {/* 2. SUB-HEADER: SECTION TABS ONLY (Clean & Spacious) */}
       <div className="bg-white border-b border-slate-200 px-4 py-1.5 flex items-center justify-between gap-2 shadow-xs shrink-0 select-none">
         {/* Section Tabs */}

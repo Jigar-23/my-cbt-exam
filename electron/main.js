@@ -52,8 +52,19 @@ const mimeTypes = {
   '.txt': 'text/plain; charset=utf-8',
 };
 
+const os = require('os');
+
 const candidateVaultDirs = [
   process.env.CBT_DATA_DIR,
+  path.join(process.resourcesPath, 'vault'),
+  path.join(process.resourcesPath, 'app', 'out', 'vault'),
+  path.join(__dirname, '..', 'out', 'vault'),
+  path.join(__dirname, '..', 'public', 'vault'),
+  path.join(os.homedir(), 'CBT_EXAM_MASTER'),
+  path.join(os.homedir(), 'Downloads', 'CBT_EXAM_MASTER'),
+  path.join(os.homedir(), 'Documents', 'CBT_EXAM_MASTER'),
+  process.env.APPDATA ? path.join(process.env.APPDATA, 'CBT_EXAM_MASTER') : '',
+  process.env.LOCALAPPDATA ? path.join(process.env.LOCALAPPDATA, 'CBT_EXAM_MASTER') : '',
   '/Users/jigar/Library/CloudStorage/GoogleDrive-pulkit10112@gmail.com/My Drive/CBT_EXAM_MASTER',
   '/Users/jigar/Library/CloudStorage/GoogleDrive-penguin1hehe1234@gmail.com/My Drive/CBT_EXAM_MASTER',
   path.join(__dirname, '..', '..', 'test-serverless', 'data'),

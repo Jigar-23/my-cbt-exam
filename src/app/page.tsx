@@ -55,6 +55,7 @@ import UserPreferencesView, { UserPreferences } from '@/components/UserPreferenc
 import ThemeToggle from '@/components/ThemeToggle';
 import GoogleDriveLinkModal from '@/components/GoogleDriveLinkModal';
 import GoogleDriveStatusPill from '@/components/GoogleDriveStatusPill';
+import VaultLoadingModal from '@/components/VaultLoadingModal';
 import AndroidPermissionGate from '@/components/AndroidPermissionGate';
 import { isAndroidNative, checkDevicePhonePermission, requestDevicePhoneNumber } from '@/lib/deviceIdentity';
 import { getStoredAccessToken } from '@/lib/gdrive/gdriveAuth';
@@ -141,6 +142,31 @@ export default function Home() {
   const [activeTestData, setActiveTestData] = useState<any>(null);
   const [isStudyMode, setIsStudyMode] = useState<boolean>(false);
   const [isTestLoading, setIsTestLoading] = useState<boolean>(false);
+
+  // Vault / Google Drive Loading State (> 0.5s Threshold)
+  const [isVaultLoading, setIsVaultLoading] = useState<boolean>(false);
+  const [vaultLoadingInfo, setVaultLoadingInfo] = useState<{ title: string; subtitle: string }>({
+    title: 'Accessing Secure Test Vault',
+    subtitle: 'Fetching authenticated question paper & verified keys...'
+  });
+  const [vaultErrorMessage, setVaultErrorMessage] = useState<string | null>(null);
+  const vaultLoadingTimerRef = useRef<NodeJS.Timeout | null>(null);
+
+  const startVaultLoading = (title: string, subtitle: string) => {
+    if (vaultLoadingTimerRef.current) clearTimeout(vaultLoadingTimerRef.current);
+    setVaultLoadingInfo({ title, subtitle });
+    vaultLoadingTimerRef.current = setTimeout(() => {
+      setIsVaultLoading(true);
+    }, 500); // 0.5 sec threshold
+  };
+
+  const stopVaultLoading = () => {
+    if (vaultLoadingTimerRef.current) {
+      clearTimeout(vaultLoadingTimerRef.current);
+      vaultLoadingTimerRef.current = null;
+    }
+    setIsVaultLoading(false);
+  };
 
   // Global Analytics State
   const [globalAnalyticsAttempt, setGlobalAnalyticsAttempt] = useState<AttemptRecord | null>(null);
@@ -442,6 +468,12 @@ export default function Home() {
       return;
     }
 
+    const testTitle = testItem?.title || 'Exam Paper';
+    startVaultLoading(
+      `Loading ${testTitle}`,
+      'Verifying Google Drive rate limits and streaming verified question paper...'
+    );
+
     try {
       setIsTestLoading(true);
       const driveId = testItem.driveFileId;
@@ -459,8 +491,9 @@ export default function Home() {
 
       setActiveTestData(testJson);
     } catch (e: any) {
-      alert(`Error loading test paper: ${e.message}`);
+      setVaultErrorMessage(`Cloud Vault Error: Unable to fetch test paper from Google Drive or local storage.\nReason: ${e.message || 'Network / Rate Limit Timeout'}`);
     } finally {
+      stopVaultLoading();
       setIsTestLoading(false);
     }
   };
@@ -484,6 +517,7 @@ export default function Home() {
 
     loadingExamIdsRef.current.add(selectedExamId);
     let isMounted = true;
+    startVaultLoading('Loading Exam Catalog', `Retrieving test papers for selected exam...`);
 
     defaultContentProvider.getExamStages(selectedExamId).then((stages) => {
       if (isMounted) {
@@ -492,19 +526,24 @@ export default function Home() {
           [selectedExamId]: stages || [],
         }));
       }
-    }).catch(() => {
+    }).catch((err: any) => {
       if (isMounted) {
         setLoadedExamStagesMap((prev) => ({
           ...prev,
           [selectedExamId]: [],
         }));
+        setVaultErrorMessage(`Failed to load exam stages: ${err?.message || 'Network / Google Drive error'}`);
       }
+    }).finally(() => {
+      stopVaultLoading();
+      loadingExamIdsRef.current.delete(selectedExamId);
     });
 
     return () => {
       isMounted = false;
+      stopVaultLoading();
     };
-  }, [selectedExamId]);
+  }, [selectedExamId, loadedExamStagesMap]);
 
   const visibleCategories = useMemo(() => {
     if (!manifest?.categories) return [];
@@ -1617,6 +1656,40 @@ export default function Home() {
                 className="flex-1 py-3 px-4 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs shadow-lg shadow-blue-600/30 transition-all cursor-pointer active:scale-95"
               >
                 Update Code
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Google Drive / Secure Vault Loading Modal (>0.5s threshold) */}
+      <VaultLoadingModal
+        isOpen={isVaultLoading}
+        title={vaultLoadingInfo.title}
+        subtitle={vaultLoadingInfo.subtitle}
+        onCancel={() => {
+          stopVaultLoading();
+          setIsTestLoading(false);
+        }}
+      />
+
+      {/* Cloud Vault Error Modal */}
+      {vaultErrorMessage && (
+        <div className="fixed inset-0 z-[9999] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 animate-in fade-in duration-200">
+          <div className="bg-[#12131a] border border-rose-500/30 rounded-3xl p-6 max-w-md w-full text-center shadow-2xl shadow-rose-500/10">
+            <div className="w-14 h-14 rounded-2xl bg-rose-500/10 border border-rose-500/20 flex items-center justify-center mx-auto mb-4 text-rose-400">
+              <ShieldAlert size={28} />
+            </div>
+            <h3 className="text-lg font-bold text-white mb-2">Cloud Storage / Network Notice</h3>
+            <div className="text-xs text-zinc-300 mb-6 leading-relaxed bg-neutral-900 border border-neutral-800 rounded-xl p-3 font-mono text-left max-h-36 overflow-y-auto whitespace-pre-wrap">
+              {vaultErrorMessage}
+            </div>
+            <div className="flex space-x-3">
+              <button
+                onClick={() => setVaultErrorMessage(null)}
+                className="flex-1 py-3 px-4 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs shadow-lg shadow-blue-600/30 transition-all cursor-pointer active:scale-95"
+              >
+                Understood
               </button>
             </div>
           </div>

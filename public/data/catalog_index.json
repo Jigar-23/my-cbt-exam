@@ -1,6 +1,6 @@
 {
   "version": "2026.4.0",
-  "lastUpdated": "2026-08-26T10:51:53.181Z",
+  "lastUpdated": "2026-10-22T10:46:54.000Z",
   "totalCategories": 8,
   "totalExams": 64,
   "totalTests": 29817,
@@ -1556,7 +1556,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 9873
     },
     {
       "id": "banking",
@@ -2273,7 +2274,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 1725
     },
     {
       "id": "civil_services",
@@ -4215,7 +4217,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 3765
     },
     {
       "id": "defense",
@@ -4592,7 +4595,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 824
     },
     {
       "id": "railways",
@@ -5689,7 +5693,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 4133
     },
     {
       "id": "regulatory",
@@ -6071,7 +6076,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 827
     },
     {
       "id": "ssc",
@@ -7748,7 +7754,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 8161
     },
     {
       "id": "state_psc",
@@ -8080,7 +8087,8 @@
             }
           ]
         }
-      ]
+      ],
+      "totalTests": 509
     }
   ]
 }
