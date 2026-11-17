@@ -1,0 +1,3408 @@
+{
+  "testId": "5daf9fd306ee6edc8f77d4ef",
+  "solvedAt": "2026-11-17T11:33:20.836124+00:00",
+  "model": "Antigravity Senior Subject Matter Expert",
+  "solutionsCount": 100,
+  "solutions": {
+    "cd8cef81cc9ba342ff6f4ee8": {
+      "questionId": "cd8cef81cc9ba342ff6f4ee8",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Statements 1, 2 and 4 are correct.\nThe Shiwaliks are the southernmost and outermost Himalayan range, not the northernmost.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "91ed1b7ab0c1b06351d9abf9": {
+      "questionId": "91ed1b7ab0c1b06351d9abf9",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "The Himalayan ranges are arranged from north to south as:\n1. Himadri (Greater Himalayas)\n2. Himachal (Lesser Himalayas)\n3. Shiwalik (Outer Himalayas)",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Shiwalik – Himachal – Himadri"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Himadri – Himachal – Shiwalik"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Himachal – Shiwalik – Himadri"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Himadri – Shiwalik – Himachal"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "6db4f7b4fd7cbbcd4f99cd64": {
+      "questionId": "6db4f7b4fd7cbbcd4f99cd64",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "The Karakoram belongs to the Trans-Himalayan system.\nThe Zanskar Range lies south of the Indus Valley.\nThe Ladakh Range lies north of the Indus Valley.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 3 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "2de35fb238fe10256636714e": {
+      "questionId": "2de35fb238fe10256636714e",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Zoji La connects the Kashmir Valley region with Ladakh and lies on the Srinagar-Leh route.\nNathu La is in Sikkim, Bomdi La in Arunachal Pradesh and Shipki La in Himachal Pradesh.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Nathu La"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Zoji La"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Bomdi La"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Shipki La"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "6732a4a04176a85e04b62e83": {
+      "questionId": "6732a4a04176a85e04b62e83",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Pairs 1, 2 and 3 are correct.\nThe Aravalli is an ancient mountain system and is not part of the Himalayas.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "0ac622081a4a5d4245c43faf": {
+      "questionId": "0ac622081a4a5d4245c43faf",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Statements 1, 2 and 4 are correct.\nBhangar represents older alluvium, whereas Khadar represents newer alluvium.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "6be35f34ad7d18abf10b850a": {
+      "questionId": "6be35f34ad7d18abf10b850a",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Bhabar is a narrow belt along the Himalayan foothills consisting of coarse pebbles and porous sediments.\nStreams often disappear underground in this belt.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Fine alluvial deposits with extensive marshes"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Coarse pebbles and porous sediments near the foothills"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Black cotton soil over basalt"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Wind-deposited sand dunes"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "7e3fa720b82cea652cf7f904": {
+      "questionId": "7e3fa720b82cea652cf7f904",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Statements 1, 2 and 4 are correct.\nThe Peninsular Plateau is geologically much older than the young fold mountains of the Himalayas.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "5d0d585d67b79e4f19a66717": {
+      "questionId": "5d0d585d67b79e4f19a66717",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Both rivers flow westward through rift valleys.\nThey eventually drain into the Arabian Sea.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Godavari and Krishna"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Narmada and Tapi"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Mahanadi and Kaveri"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Pennar and Subarnarekha"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "9de2088d9205783ee9de9797": {
+      "questionId": "9de2088d9205783ee9de9797",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "The Western Ghats are generally higher and more continuous than the Eastern Ghats.\nThey meet the Eastern Ghats near the Nilgiri Hills.\nThey run along the western margin of the Peninsular Plateau.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "5ac12bf6ee2fe477735ee966": {
+      "questionId": "5ac12bf6ee2fe477735ee966",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Garo, Khasi and Jaintia are the principal hill divisions of the Meghalaya Plateau.\nRajmahal Hills are located in Jharkhand.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "5c0f027e0676800d6d233a36": {
+      "questionId": "5c0f027e0676800d6d233a36",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\nGuru Shikhar is the highest peak of the Aravalli Range.\nThe Aravallis do not form a continuous mountain wall along the western coast.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "c9285b1b9411c9348ae344ab": {
+      "questionId": "c9285b1b9411c9348ae344ab",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Lakshadweep is predominantly coral in origin and contains numerous atolls.\nThe Andaman and Nicobar Islands are primarily associated with tectonic and volcanic geological processes.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Andaman Islands"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Lakshadweep Islands"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Nicobar Islands"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Both Andaman and Nicobar Islands"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "221d76ae0894e8e356f1f4ad": {
+      "questionId": "221d76ae0894e8e356f1f4ad",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Barren Island is India's active volcano.\nLakshadweep is in the Arabian Sea.\nIndira Point is on Great Nicobar Island.\nThe Ten Degree Channel separates the Andaman group from the Nicobar group.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "All four"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Only one"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "ad769a0478d660f3e6f16e56": {
+      "questionId": "ad769a0478d660f3e6f16e56",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "The Nine Degree Channel separates Minicoy from the main Lakshadweep group.\nThe Eight Degree Channel separates Minicoy from the Maldives.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "Nine Degree Channel"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Ten Degree Channel"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Eight Degree Channel"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Duncan Passage"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "f9ccbb2ee1cfc10d315d737f": {
+      "questionId": "f9ccbb2ee1cfc10d315d737f",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Malwa has significant volcanic geological features.\nChota Nagpur is rich in minerals.\nThe Meghalaya Plateau is an extension of the Peninsular Plateau.\nDeccan Trap formations are associated with basaltic lava flows.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "All four"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Only one"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "b3728926e32b25d109ab9fab": {
+      "questionId": "b3728926e32b25d109ab9fab",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "The Northern Plains are predominantly composed of alluvial deposits brought by the Indus, Ganga and Brahmaputra river systems and their tributaries.\nThey are not composed entirely of ancient crystalline rocks.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "They are largely formed by alluvial deposits."
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "They are among the most densely populated regions of India."
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "They are characterised by generally fertile soils."
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "They are composed entirely of ancient crystalline rocks."
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "c7b4377ea346a2e139a3a9bb": {
+      "questionId": "c7b4377ea346a2e139a3a9bb",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "The Eastern Ghats are discontinuous and lower than the Western Ghats.\nMajor rivers such as the Mahanadi, Godavari, Krishna and Kaveri cut across them.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "26b0ed00218d94528ef18d59": {
+      "questionId": "26b0ed00218d94528ef18d59",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Anamudi, in Kerala, is the highest peak of the Western Ghats.\nDoddabetta is the highest peak of the Nilgiri Hills.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Doddabetta"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Anamudi"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Guru Shikhar"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "Mahendragiri"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "50ca3f71a8da83bbbbd86254": {
+      "questionId": "50ca3f71a8da83bbbbd86254",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Physiography of India",
+      "stepByStepWorking": "Pairs 1, 2 and 3 are correctly matched.\nThe Brahmaputra Valley is located in northeastern India, not between the Aravalli and Vindhya ranges.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Physiography of India."
+    },
+    "41fb334f50b060dfb321f91a": {
+      "questionId": "41fb334f50b060dfb321f91a",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n- Himalayan rivers are generally perennial because they receive water from both rainfall and melting snow and glaciers.\n- In their upper courses, they often cut deep gorges through mountainous terrain.\n- Their large drainage basins include extensive catchment areas.\n- Statement 4 is incorrect because major Himalayan river systems generally have larger drainage basins than individual Peninsular rivers.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "f4c1b3b3dd53edb75df579e8": {
+      "questionId": "f4c1b3b3dd53edb75df579e8",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n- Bhagirathi originates from the Gangotri Glacier region.\n- Alaknanda and Bhagirathi meet at Devprayag, where the combined river takes the name Ganga.\n- Yamuna meets the Ganga at Prayagraj, not Varanasi.\n- Kosi is popularly called the Sorrow of Bihar because of its historical flooding and course changes.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "33e5cb99dc492ef7807b0cdd": {
+      "questionId": "33e5cb99dc492ef7807b0cdd",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n- The Brahmaputra originates in the Tibetan region near the Mansarovar area.\n- It is known as Yarlung Tsangpo in Tibet.\n- It enters India through Arunachal Pradesh, where it is initially known as Siang or Dihang.\n- It is called Jamuna in Bangladesh.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "b207c317876eebf488fea481": {
+      "questionId": "b207c317876eebf488fea481",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Pairs 1, 2 and 3 are correct.\n\nExplanation:\n- Jhelum is part of the Indus river system.\n- Chenab is also part of the Indus system.\n- Beas joins the Sutlej, which is part of the Indus system.\n- Son is a tributary of the Ganga, not the Brahmaputra.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "62068dbf40f43d008b74b322": {
+      "questionId": "62068dbf40f43d008b74b322",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n- Godavari is the longest Peninsular river in India.\n- It originates near Trimbakeshwar in Maharashtra.\n- It flows eastward and drains into the Bay of Bengal.\n- It forms a major delta along the eastern coast.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 3 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "32094f0783431aa4ab3f0a0d": {
+      "questionId": "32094f0783431aa4ab3f0a0d",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All four rivers ultimately drain into the Arabian Sea.\n\nExplanation:\n- Narmada flows westward into the Gulf of Khambhat.\n- Tapi also flows westward into the Gulf of Khambhat.\n- Mahi drains into the Gulf of Khambhat.\n- Sabarmati also drains into the Gulf of Khambhat.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "576dad3ab0a128d05654eb63": {
+      "questionId": "576dad3ab0a128d05654eb63",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Pairs 1, 2 and 3 are correct.\n\nExplanation:\n- Ganga-Brahmaputra forms the enormous Sundarbans delta.\n- Godavari forms a delta on the east coast.\n- Narmada flows into an estuary rather than forming a large delta.\n- Tapi also forms an estuary, not a large delta.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "0bfbdd46e33edde020b16f3b": {
+      "questionId": "0bfbdd46e33edde020b16f3b",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n- Godavari originates near Trimbakeshwar in Maharashtra.\n- Krishna originates near Mahabaleshwar in Maharashtra.\n- Kaveri originates at Talakaveri in the Brahmagiri Hills of Karnataka.\n- Mahanadi originates in the Sihawa Hills of Chhattisgarh.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "8ec24e227441c20db19a2fd9": {
+      "questionId": "8ec24e227441c20db19a2fd9",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n- Most Peninsular rivers depend substantially on rainfall and therefore have seasonal variations in their flow.\n- Major east-flowing rivers such as Godavari, Krishna, Mahanadi and Kaveri form deltas.\n- Narmada and Tapi follow rift valleys and flow westward.\n- Godavari is considerably longer than Kaveri.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 3 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "b679c4cb13a339feaa4ab2b6": {
+      "questionId": "b679c4cb13a339feaa4ab2b6",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n- Dendritic drainage resembles the branching pattern of a tree and commonly develops over relatively homogeneous rocks.\n- Radial drainage develops around a central elevated region, with streams flowing outward.\n- Trellis drainage is associated with alternating resistant and less resistant rock structures, commonly in folded terrain.\n- Rectangular drainage develops where joints and faults influence the direction of streams.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "f3bb5743ce698e9217e7e42e": {
+      "questionId": "f3bb5743ce698e9217e7e42e",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n- An antecedent river maintains its original course despite subsequent tectonic uplift.\n- It can cut through an uplifting mountain range, forming deep gorges.\n- The Indus, Sutlej and Brahmaputra are commonly cited as examples of antecedent drainage.\n- Antecedent drainage is not restricted to the Peninsular Plateau.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 3 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "f653d4ea57a660e139deb700": {
+      "questionId": "f653d4ea57a660e139deb700",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n- Differential heating creates seasonal pressure differences between land and ocean.\n- Seasonal movement of the ITCZ influences the monsoon trough and wind circulation.\n- The elevated Tibetan Plateau influences atmospheric heating and circulation.\n- Coriolis force influences the direction of moving air because of Earth's rotation.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "605c6c0e6124f8b7e760950b": {
+      "questionId": "605c6c0e6124f8b7e760950b",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n- The Arabian Sea branch strikes the Western Ghats and produces heavy rainfall on their western slopes.\n- The Bay of Bengal branch contributes substantially to rainfall in northeastern India.\n- Eastern slopes of the Western Ghats receive relatively less rainfall due to the rain-shadow effect.\n- Both branches are components of the southwest monsoon system, not completely different global wind systems.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "0cf43916fef99f831d6e0e18": {
+      "questionId": "0cf43916fef99f831d6e0e18",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n- Western disturbances are extra-tropical weather systems.\n- They generally originate in the Mediterranean and adjoining west Asian regions.\n- They bring winter rainfall to northwestern India and snowfall to the western Himalayan region.\n- This precipitation is important for rabi crops, especially wheat.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "9ae86b192a467e25354eb41a": {
+      "questionId": "9ae86b192a467e25354eb41a",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n- Western Rajasthan receives relatively little moisture from the Bay of Bengal branch.\n- The Aravalli Range runs broadly southwest to northeast, so it is not oriented favourably to force substantial uplift of the southwest monsoon winds.\n- Its inland continental location also contributes to its aridity.\n- There is no permanent cold ocean current along a Rajasthan coast; Rajasthan is an inland state.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "c39a3d1104edf6f112b25956": {
+      "questionId": "c39a3d1104edf6f112b25956",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n- Retreating monsoon generally occurs during October and November.\n- Northeast winds become prominent as the southwest monsoon withdraws.\n- These winds pick up moisture while crossing the Bay of Bengal and bring rainfall to Tamil Nadu and the Coromandel Coast.\n- Tropical cyclones frequently develop over the Bay of Bengal during the post-monsoon period.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "f6aed160254802217398cf70": {
+      "questionId": "f6aed160254802217398cf70",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n- El Niño involves abnormal warming of the central and eastern equatorial Pacific Ocean.\n- It often weakens the Indian summer monsoon circulation and can increase the likelihood of deficient rainfall.\n- However, every El Niño does not necessarily produce drought in India.\n- The Indian Ocean Dipole can influence Indian monsoon performance and sometimes partly offset adverse El Niño effects.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 3 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "207cb3243644b36e32fc0f34": {
+      "questionId": "207cb3243644b36e32fc0f34",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n- Orographic rainfall occurs when moist air is forced upwards by a mountain barrier.\n- Convectional rainfall develops when surface heating causes warm air to rise and cool.\n- Cyclonic or frontal rainfall develops through uplift associated with low-pressure systems and converging air.\n- Rain-shadow regions generally occur on the leeward side, not the windward side.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "1122eeac23009b2e970d2557": {
+      "questionId": "1122eeac23009b2e970d2557",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All five pairs are correctly matched.\n\nExplanation:\n- Af: Tropical rainforest climate, characterised by high rainfall throughout the year.\n- Am: Tropical monsoon climate, characterised by a pronounced monsoon rainfall regime.\n- Aw: Tropical savanna climate, generally having a distinct dry season.\n- BWh: Hot desert climate.\n- ET: Tundra climate, associated with very low temperatures and short growing seasons.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only four"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All five"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "2b81023fbaddd574a0939b6d": {
+      "questionId": "2b81023fbaddd574a0939b6d",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Rivers, Drainage Systems and Climate of India",
+      "stepByStepWorking": "All four statements correctly represent the conventional four-season division of India's climate.\n\nExplanation:\n1. Cold weather season: December to February.\n2. Hot weather season: March to May.\n3. Southwest monsoon season: June to September.\n4. Retreating monsoon season: October to November.\n\nThese are broad seasonal divisions; actual onset, withdrawal and rainfall patterns vary regionally.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Rivers, Drainage Systems and Climate of India."
+    },
+    "c8708b046a8caae8a32c306d": {
+      "questionId": "c8708b046a8caae8a32c306d",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Alluvial soil is the most widespread soil group in India, particularly across the Northern Plains and river valleys.\n2. Khadar is newer alluvium, frequently replenished by floods.\n3. Bhangar is older alluvium and commonly contains calcareous concretions known as kankar.\n4. Alluvial soils are generally deficient in nitrogen and humus. Therefore, statement 4 is incorrect.\n\nImportant UPSC distinction:\nKhadar = New alluvium.\nBhangar = Old alluvium.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "ef4cf58391ebca8d95c9b477": {
+      "questionId": "ef4cf58391ebca8d95c9b477",
+      "selectedOptionId": "1",
+      "selectedOptionLabel": "A",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Black soil is strongly associated with the Deccan Trap region, formed through the weathering of basaltic rocks.\n2. Its clayey nature gives it high moisture-retention capacity.\n3. It develops deep cracks during dry periods. This phenomenon is known as self-ploughing.\n4. Black soil is generally deficient in nitrogen and phosphorus, rather than being rich in them.\n\nAdditional facts:\n- Also known as Regur soil.\n- Particularly suitable for cotton cultivation.\n- Found extensively in Maharashtra, Madhya Pradesh, Gujarat and parts of the southern states.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "d8f5e7694bc7d871dc1c682d": {
+      "questionId": "d8f5e7694bc7d871dc1c682d",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Iron oxides impart the characteristic reddish colour to red soil.\n2. It develops over crystalline igneous and metamorphic rocks.\n3. It is generally deficient in humus, nitrogen and phosphorus.\n4. It is not naturally highly fertile in all locations. Its productivity depends on nutrient availability, irrigation and soil management.\n\nImportant distinction:\nRed soil gets its colour primarily from iron, not from high humus content.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "90f756b7202b77110330373c": {
+      "questionId": "90f756b7202b77110330373c",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Laterite develops in tropical and subtropical conditions with high temperatures and heavy rainfall.\n2. Intense leaching washes away soluble bases and silica.\n3. Iron and aluminium oxides are commonly concentrated in the remaining material.\n4. Laterite soil is not universally fertile. It can be poor in nutrients and may require manuring and suitable management for cultivation.\n\nImportant crops:\nTea, coffee and cashew can be cultivated in suitable lateritic regions with appropriate soil management.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "7b36065888852b88ca2d3a36": {
+      "questionId": "7b36065888852b88ca2d3a36",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Arid soils are widely found in western Rajasthan and parts of Gujarat.\n2. They generally have low organic matter because of sparse vegetation and limited moisture.\n3. Calcium carbonate accumulation can form a kankar layer in the lower horizons.\n4. Arid soils do not have high natural moisture content. Water availability is generally low.\n\nUPSC concept:\nThe presence of a kankar layer can restrict the downward movement of water in some arid soils.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "b649c9df3fa0d80a91b7209a": {
+      "questionId": "b649c9df3fa0d80a91b7209a",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statements 1, 2, 3 and 4 are correct soil conservation measures.\n\nExplanation:\n\n1. Contour ploughing reduces runoff by following the natural contour lines of land.\n2. Strip cropping reduces the speed of runoff and limits soil loss.\n3. Afforestation protects soil through vegetation cover and root systems.\n4. Shelter belts reduce wind velocity and help prevent wind erosion.\n5. Uncontrolled overgrazing removes vegetation cover and increases the risk of erosion.\n\nImportant UPSC concept:\nSoil conservation aims to reduce both water erosion and wind erosion.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 4 and 5 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "60371acf1da11d4b9eefd1d2": {
+      "questionId": "60371acf1da11d4b9eefd1d2",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Pairs 1, 2 and 3 are correctly matched.\n\nExplanation:\n\n1. Black soil has a high moisture-retention capacity because of its clay content.\n2. Laterite soil develops through intensive leaching.\n3. Alluvial soil is formed through the deposition of sediments by rivers.\n4. Arid soil generally has low organic matter, not high organic matter.\n\nThe incorrect pair is therefore number 4.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "84743b4c7da8f65615eee34d": {
+      "questionId": "84743b4c7da8f65615eee34d",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Tropical evergreen forests occur in areas receiving heavy rainfall and having a short or absent dry season.\n2. Trees do not shed their leaves simultaneously, so the forests remain green throughout the year.\n3. They possess dense and multi-layered vegetation.\n4. They are not associated with very low rainfall.\n\nMajor Indian regions:\n- Western Ghats\n- Northeastern India\n- Andaman and Nicobar Islands",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "8addd58902a20df5b8dbc8f8": {
+      "questionId": "8addd58902a20df5b8dbc8f8",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Tropical deciduous forests are also known as monsoon forests.\n2. Trees shed their leaves during the dry season as an adaptation to water scarcity.\n3. They are broadly classified into moist and dry deciduous forests.\n4. Teak and sal are important deciduous species in India.\n\nImportant distinction:\n\nMoist deciduous forests generally occur in regions receiving relatively higher rainfall than dry deciduous forests.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "c41c242c89e84314a2b66984": {
+      "questionId": "c41c242c89e84314a2b66984",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Sundari is not a characteristic thorn-forest species.\n\nExplanation:\n\n1. Acacia is commonly found in dry and thorn vegetation.\n2. Cactus is adapted to conditions of water scarcity.\n3. Euphorbia includes species adapted to dry environments.\n4. Sundari is a mangrove species associated with the Sundarbans.\n\nThorn forests are particularly common in:\n- Rajasthan\n- Gujarat\n- Parts of Haryana\n- Other dry regions of India.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "ad96a00ab05165f35b2685d7": {
+      "questionId": "ad96a00ab05165f35b2685d7",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Montane vegetation changes with altitude because temperature, moisture and other environmental conditions change.\n2. Temperate vegetation occurs at higher elevations than tropical vegetation in mountain environments.\n3. Pine, deodar and fir are important coniferous species of Himalayan forests.\n4. Alpine vegetation occurs above the tree line and includes grasses, shrubs and smaller plants.\n\nImportant concept:\nVegetation shows altitudinal zonation in mountain regions.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "1, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "a749bc52648535ed6777832b": {
+      "questionId": "a749bc52648535ed6777832b",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All statements are correct.\n\nExplanation:\n\n1. Mangroves commonly occur in tidal coastal environments and river deltas.\n2. Many mangrove species have specialised breathing roots, including pneumatophores.\n3. Sundarbans is one of the most important mangrove ecosystems in the world.\n4. Mangroves possess adaptations that allow them to survive in saline or brackish environments.\n\nOther important Indian mangrove locations:\n- Bhitarkanika\n- Pichavaram\n- Godavari-Krishna delta region\n- Gulf of Kachchh",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "c3e84b9d261689ecf5a1a86d": {
+      "questionId": "c3e84b9d261689ecf5a1a86d",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n\n1. Evergreen forests are dense, multi-layered and generally have high biodiversity.\n2. Deciduous forests shed their leaves seasonally.\n3. Thorn forests have adaptations to low water availability.\n4. Mangroves are associated with tidal, coastal and saline environments.\n\nThese four forest types are useful for UPSC questions involving rainfall, geographical distribution and plant adaptation.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "135640901cf65581ecefbd0d": {
+      "questionId": "135640901cf65581ecefbd0d",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Both National Parks and Wildlife Sanctuaries are protected areas under the Wildlife (Protection) Act, 1972.\n2. National Parks generally have stricter protection provisions.\n3. Certain rights and regulated activities, including grazing under applicable provisions, may be permitted in a Wildlife Sanctuary.\n4. Grazing of livestock is generally prohibited in a National Park.\n\nUPSC distinction:\nA Wildlife Sanctuary and a National Park are not legally identical categories of protected area.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "2 and 4 only"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "4c6ee6850924d73f07f7330f": {
+      "questionId": "4c6ee6850924d73f07f7330f",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n\n1. Gir National Park and Wildlife Sanctuary in Gujarat is famous for the Asiatic Lion.\n2. Kaziranga National Park in Assam is famous for the Indian one-horned rhinoceros.\n3. Dachigam National Park in Jammu and Kashmir is associated with the Hangul.\n4. Hemis National Park in Ladakh is an important habitat of the Snow Leopard.\n\nVery important species-location combinations for UPSC:\n- Gir — Asiatic Lion\n- Kaziranga — One-horned Rhinoceros\n- Dachigam — Hangul\n- Hemis — Snow Leopard",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "578972efbdf9610e1eb7cda6": {
+      "questionId": "578972efbdf9610e1eb7cda6",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n\n1. National Parks protect wildlife, vegetation and their habitats.\n2. Certain human activities may be regulated or permitted in Wildlife Sanctuaries, subject to applicable law.\n3. A Wildlife Sanctuary does not automatically become a Biosphere Reserve. These are separate conservation designations.\n4. National Parks and Wildlife Sanctuaries can form part of the core or buffer areas of a larger Biosphere Reserve.\n\nImportant concept:\nProtected area categories and Biosphere Reserve designations serve related but distinct conservation purposes.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "5f0b0ae3520d37ba3769d67c": {
+      "questionId": "5f0b0ae3520d37ba3769d67c",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n\n1. Nilgiri Biosphere Reserve extends across Tamil Nadu, Kerala and Karnataka.\n2. Nanda Devi Biosphere Reserve is located in Uttarakhand.\n3. Sundarbans Biosphere Reserve is located in West Bengal.\n4. Gulf of Mannar Biosphere Reserve is located along the Tamil Nadu coast.\n\nImportant facts:\n- Nilgiri was India's first Biosphere Reserve, established in 1986.\n- Gulf of Mannar is an important marine Biosphere Reserve.\n- Nanda Devi is an important Himalayan Biosphere Reserve.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "a5d2004cb18a07e0964955a7": {
+      "questionId": "a5d2004cb18a07e0964955a7",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\nA Biosphere Reserve generally contains three functional zones:\n\n1. Core Zone:\n   - Strictly protected.\n   - Conservation of ecosystems and biodiversity is the priority.\n   - Human activities are highly restricted.\n\n2. Buffer Zone:\n   - Surrounds or adjoins the core zone.\n   - Can support research, education, monitoring and compatible activities.\n\n3. Transition Zone:\n   - Allows sustainable human settlements and economic activities.\n   - Promotes cooperation between conservation and local communities.\n\nStatement 4 is incorrect because Biosphere Reserves protect entire ecosystems and support sustainable development, not merely individual animal species.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "3487c5df6592c7b41383ad72": {
+      "questionId": "3487c5df6592c7b41383ad72",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n\n1. UNESCO's Man and the Biosphere Programme promotes conservation alongside sustainable development.\n2. Biosphere Reserves may contain terrestrial, coastal and marine ecosystems.\n3. Inclusion in India's national Biosphere Reserve network does not automatically mean inclusion in UNESCO's World Network of Biosphere Reserves.\n4. Research, monitoring, education and environmental awareness are important objectives.\n\nImportant distinction:\n\nThere are two different concepts:\n- Nationally designated Biosphere Reserves.\n- UNESCO-designated Biosphere Reserves included in the World Network of Biosphere Reserves.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "bcabb3adf543afe31b98abe4": {
+      "questionId": "bcabb3adf543afe31b98abe4",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Soils, Natural Vegetation and Wildlife Conservation",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Project Tiger was launched in 1973.\n2. Its objective is to ensure a viable population of tigers in their natural habitats.\n3. Tiger Reserves generally have core and buffer areas.\n4. The National Tiger Conservation Authority is a statutory body established under the Wildlife (Protection) Act, 1972, through the 2006 amendment.\n\nImportant institutional facts:\n\n- Project Tiger — 1973.\n- NTCA — National Tiger Conservation Authority.\n- Core Area — Critical tiger habitat.\n- Buffer Area — Surrounding area intended to support conservation while accommodating compatible human activities.\n\nProject Tiger focuses on habitat conservation, protection of tiger populations and maintaining ecological balance.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Soils, Natural Vegetation and Wildlife Conservation."
+    },
+    "980031c379ae2adadb9eace0": {
+      "questionId": "980031c379ae2adadb9eace0",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Kharif crops are generally sown with the onset of monsoon, usually during June–July.\n2. Rabi crops are generally sown during October–November and harvested in spring.\n3. Zaid crops are cultivated during the short period between the Rabi and Kharif seasons.\n4. Wheat is primarily a Rabi crop, not a Kharif crop.\n\nExamples:\n\nKharif: Rice, maize, cotton, soybean.\nRabi: Wheat, gram, mustard, peas.\nZaid: Watermelon, muskmelon and certain vegetables.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "8f571710c29fb3cd15afcd17": {
+      "questionId": "8f571710c29fb3cd15afcd17",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n\n1. Rice is generally a tropical crop requiring high temperatures, humidity and adequate water.\n2. Irrigation makes rice cultivation possible in areas where natural rainfall is insufficient.\n3. Rice is not restricted to alluvial soils. It can also grow in suitable clayey, deltaic and other soils.\n4. The Ganga-Brahmaputra delta and other eastern coastal deltaic areas are important rice-producing regions.\n\nUPSC concept:\nRice cultivation depends on temperature, water availability, soil and agricultural practices, not exclusively on one soil type.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "4e4dac57a5b9dfd824e1abc4": {
+      "questionId": "4e4dac57a5b9dfd824e1abc4",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Wheat is an important Rabi crop in India.\n2. Cool weather during vegetative growth is favourable.\n3. Bright sunshine and relatively dry weather during ripening and harvesting support grain development and harvesting.\n4. Punjab, Haryana and Uttar Pradesh are important wheat-producing states.\n\nOther important wheat-producing states include Madhya Pradesh and Rajasthan.\n\nImportant distinction:\nWheat is a winter-season crop, while rice is predominantly a monsoon-season crop in much of India.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "9e091b40e1a2186661bb08e8": {
+      "questionId": "9e091b40e1a2186661bb08e8",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Millets generally tolerate drought and adverse climatic conditions better than water-intensive crops such as rice.\n2. Pearl millet (Bajra) is especially suitable for relatively dry and semi-arid regions.\n3. Finger millet (Ragi) is nutritionally important because it is rich in calcium.\n4. Millets generally do not require heavy rainfall or waterlogged conditions.\n\nExamples:\n- Jowar: Sorghum\n- Bajra: Pearl millet\n- Ragi: Finger millet\n\nMillets are important for dryland farming, nutritional security and climate-resilient agriculture.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "efae34b77d35874d3d7c6a32": {
+      "questionId": "efae34b77d35874d3d7c6a32",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statements 1, 2 and 4 are correct.\n\nExplanation:\n\n1. Many pulses form root nodules containing Rhizobium bacteria.\n2. These bacteria fix atmospheric nitrogen into forms that contribute to soil nitrogen availability.\n3. Pulses do not universally require heavy irrigation. Many can be grown under relatively low-moisture conditions.\n4. Gram, lentil and pigeon pea are important pulse crops.\n\nAgricultural significance:\n\n- Pulses provide plant-based protein.\n- They can improve soil fertility.\n- They are frequently included in crop rotations.\n- They can help reduce dependence on synthetic nitrogen fertilisers.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "88635f60150751ce7d3d2d65": {
+      "questionId": "88635f60150751ce7d3d2d65",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Sugarcane is a long-duration crop and generally takes many months to mature.\n2. It requires considerable water during its growing period.\n3. Ratoon cropping involves harvesting the main crop and allowing regrowth from the remaining stalk base or underground portions.\n4. It is cultivated in both tropical and subtropical regions.\n\nImportant producing states include:\n- Uttar Pradesh\n- Maharashtra\n- Karnataka\n- Tamil Nadu\n\nUPSC concept:\nRatoon cropping reduces the need for fresh planting material but repeated ratooning may affect yield.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "00c1c6c055ab4107abc38684": {
+      "questionId": "00c1c6c055ab4107abc38684",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Black soil, especially the deep black cotton soil of the Deccan region, is suitable for cotton because of its moisture-retention capacity.\n2. Cotton generally requires a long frost-free growing period.\n3. Relatively dry conditions during boll opening and harvesting are favourable.\n4. Cotton is generally cultivated as a Kharif crop, not exclusively as a Rabi crop.\n\nImportant fact:\nCotton is also grown in alluvial soils in several regions; black soil is suitable but not the only possible soil type.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "45d71ce517ebba83d62bfc42": {
+      "questionId": "45d71ce517ebba83d62bfc42",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Jute requires warm and humid climatic conditions.\n2. Fertile alluvial soils, especially in river valleys and deltas, are suitable.\n3. Retting is the process of separating jute fibres from the stem through microbial decomposition in water.\n4. Jute is generally cultivated during the monsoon season rather than as a winter Rabi crop.\n\nImportant producing regions:\n- West Bengal\n- Assam\n- Bihar\n- Odisha\n\nUPSC concept:\nRetting is an important post-harvest process in natural fibre production.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "820472341bdeecfb39a09822": {
+      "questionId": "820472341bdeecfb39a09822",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Pairs 1, 2 and 3 are correctly matched.\n\nExplanation:\n\n1. Assam and West Bengal are major tea-producing regions.\n2. Karnataka is the leading coffee-producing state, with Kerala and Tamil Nadu also important.\n3. Kerala and northeastern states are important natural rubber-producing regions.\n4. Saffron is particularly associated with Jammu and Kashmir, especially the Pampore area, rather than humid coastal Kerala.\n\nImportant distinction:\nTea, coffee, rubber and saffron have different climatic and geographical requirements.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "2d4545141f6a088559935a3c": {
+      "questionId": "2d4545141f6a088559935a3c",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Tube wells are an important source of irrigation, particularly across the alluvial plains.\n2. Canal irrigation is important in states such as Punjab, Haryana, Uttar Pradesh and Rajasthan.\n3. Tank irrigation has historically been significant in the Peninsular region, particularly in southern India.\n4. Drip irrigation delivers water directly near plant roots and can improve water-use efficiency.\n\nImportant UPSC concept:\nIrrigation sources differ according to groundwater availability, rainfall, relief and water infrastructure.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "58a4ec40aa9e3e625f863b8b": {
+      "questionId": "58a4ec40aa9e3e625f863b8b",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Calculation:\n\nCropping Intensity = (Gross Cropped Area / Net Sown Area) × 100\n\n= (180 / 120) × 100\n\n= 1.5 × 100\n\n= 150%\n\nExplanation:\n\nA cropping intensity of 150% indicates that the gross cropped area is 1.5 times the net sown area.\n\nThis implies that some agricultural land is cultivated more than once during the year.\n\nRemember:\nNet Sown Area = Physical area cultivated at least once.\nGross Cropped Area = Total area counted under all crop sowings during the year.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "120%"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "125%"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "150%"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "180%"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "f3c9de2224b5226a1e0f39d2": {
+      "questionId": "f3c9de2224b5226a1e0f39d2",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n\n1. The Central Government announces MSP for specified agricultural crops.\n2. CACP recommends MSP after considering factors such as production costs, demand and supply, inter-crop price parity and broader economic considerations.\n3. MSP is not a universally legally guaranteed procurement price for every crop and every farmer. Announcement, procurement and legal entitlement are separate issues.\n4. Fair and Remunerative Price is announced separately for sugarcane.\n\nImportant institutions:\n- CACP: Commission for Agricultural Costs and Prices.\n- FCI: Food Corporation of India.\n- Central Government: Announces MSP.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "3e4183578040cd743193c9e4": {
+      "questionId": "3e4183578040cd743193c9e4",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. The Green Revolution was associated with the adoption of high-yielding variety seeds.\n2. It involved greater use of irrigation, chemical fertilisers and pesticides.\n3. Its initial impact was particularly important in wheat production.\n4. Its benefits were not equally distributed. They were initially concentrated in certain crops and regions, including Punjab, Haryana and western Uttar Pradesh.\n\nImportant consequences:\n- Increased foodgrain production.\n- Greater food security.\n- Regional disparities.\n- Increased dependence on irrigation and agricultural inputs.\n- Environmental concerns relating to soil and groundwater.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "9553152d7d1354a21ae32490": {
+      "questionId": "9553152d7d1354a21ae32490",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "All four are important land reform measures.\n\nExplanation:\n\n1. Abolition of intermediaries sought to remove intermediary landholding structures such as zamindari.\n2. Tenancy reforms sought to regulate tenancy, protect tenants and improve security of cultivation.\n3. Land ceilings imposed limits on the amount of agricultural land an individual or household could hold, subject to applicable laws.\n4. Consolidation of fragmented holdings aimed to combine scattered plots into more manageable holdings.\n\nUPSC concept:\nLand reforms attempted to change ownership patterns, improve agricultural efficiency and promote social justice.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "d4ff46ed6d3ae4cc03aff5aa": {
+      "questionId": "d4ff46ed6d3ae4cc03aff5aa",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Iron, manganese and chromite are generally classified as ferrous minerals.\n2. Copper and bauxite are non-ferrous metallic minerals.\n3. Mica and limestone are non-metallic minerals.\n4. Coal and petroleum are energy minerals, not metallic minerals.\n\nClassification:\n\nFerrous minerals:\nIron ore, manganese, chromite.\n\nNon-ferrous minerals:\nCopper, bauxite, lead, zinc.\n\nNon-metallic minerals:\nMica, limestone, gypsum.\n\nEnergy minerals:\nCoal, petroleum, natural gas.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "5deab76814d35480859b4551": {
+      "questionId": "5deab76814d35480859b4551",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Anthracite is the highest-grade coal and has a higher carbon content than bituminous coal.\n2. Bituminous coal is an important commercial variety widely used in industries and power generation.\n3. Lignite is a relatively low-grade brown coal with high moisture content.\n4. Peat has the lowest carbon content among the commonly recognised coal stages, not a higher content than anthracite.\n\nGeneral coal classification from lower to higher coalification:\n\nPeat → Lignite → Bituminous → Anthracite.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "b3763c03a1aa5e88b87b47ba": {
+      "questionId": "b3763c03a1aa5e88b87b47ba",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statement 3 is incorrect.\n\nExplanation:\n\n1. Hematite is an important commercial iron ore in India.\n2. Magnetite generally has a higher iron content than hematite.\n3. Iron ore is not exclusively found in alluvial deposits. It occurs mainly in geological formations associated with different rock types.\n4. Important iron ore-producing regions include Odisha, Jharkhand, Chhattisgarh and Karnataka.\n\nImportant distinction:\nMagnetite generally has the higher theoretical iron content, while hematite is a major commercially important ore in India.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 4 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2 and 3 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "446e2fd86f859cb869963c7f": {
+      "questionId": "446e2fd86f859cb869963c7f",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Bauxite is the principal ore used to produce aluminium.\n2. It commonly develops through intense weathering and lateritisation in tropical conditions.\n3. Aluminium is widely used in aircraft, electrical equipment, transport and packaging because of its useful physical properties.\n4. Bauxite is not restricted to coastal plains. Important deposits occur in plateau and upland regions.\n\nImportant Indian bauxite-bearing regions include parts of:\n- Odisha\n- Gujarat\n- Jharkhand\n- Maharashtra\n- Chhattisgarh",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "60c8bcef083ff90cceb04164": {
+      "questionId": "60c8bcef083ff90cceb04164",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Petroleum resources are commonly associated with sedimentary basins because organic matter can accumulate and undergo geological transformation there.\n2. Mumbai High is an important offshore petroleum-producing region.\n3. Natural gas consists predominantly of methane.\n4. Petroleum and natural gas are found both offshore and onshore. Important onshore regions include Assam and Gujarat.\n\nImportant regions:\n- Mumbai High: Offshore western India.\n- Assam: Important onshore petroleum region.\n- Gujarat: Cambay Basin.\n- Krishna-Godavari Basin: Important sedimentary basin on the eastern coast.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "fa1fb36278a65d8114602f79": {
+      "questionId": "fa1fb36278a65d8114602f79",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "Agriculture and Mineral Resources of India",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n\n1. Odisha and Jharkhand contain important iron ore deposits.\n2. Khetri in Rajasthan is an important copper-producing region.\n3. Zawar in Rajasthan is historically associated with zinc and lead mining.\n4. Monazite-bearing beach sands are found along the Kerala coast and other coastal regions.\n\nAdditional UPSC facts:\n\n- Khetri — Copper.\n- Zawar — Zinc and Lead.\n- Odisha — Iron ore, bauxite and chromite.\n- Kerala — Monazite-bearing beach sands.\n\nMonazite is important because it contains rare earth elements and thorium.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in Agriculture and Mineral Resources of India."
+    },
+    "4cebe654faecba56bf766766": {
+      "questionId": "4cebe654faecba56bf766766",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n\n1. Bhakra-Nangal Project is associated with the Sutlej River.\n2. Hirakud Dam is constructed across the Mahanadi in Odisha.\n3. Nagarjuna Sagar Project is constructed on the Krishna River.\n4. Sardar Sarovar Project is constructed on the Narmada River.\n\nUPSC REVISION:\n\nBhakra-Nangal — Sutlej\nHirakud — Mahanadi\nNagarjuna Sagar — Krishna\nSardar Sarovar — Narmada",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "91a6f41dd83dc7d4248384dd": {
+      "questionId": "91a6f41dd83dc7d4248384dd",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Damodar Valley Corporation was established in 1948.\n2. It was inspired by the Tennessee Valley Authority of the United States.\n3. Its major objectives include:\n   - Flood control\n   - Irrigation\n   - Hydroelectric and thermal power generation\n   - Industrial and regional development\n4. DVC operates in parts of Jharkhand and West Bengal, not exclusively within Jharkhand.\n\nImportant fact:\nDVC is one of India's earliest major multipurpose river valley development initiatives.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "6c91d8a1adeed4b7e227b416": {
+      "questionId": "6c91d8a1adeed4b7e227b416",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Tehri Dam is built on the Bhagirathi River.\n2. It is located in Uttarakhand.\n3. Its purposes include hydroelectric power generation, irrigation and water supply.\n4. It is not constructed on the Yamuna.\n\nImportant distinction:\nTehri Project — Bhagirathi.\nYamuna — Different river system.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "f97444f8d39821743e6f54c3": {
+      "questionId": "f97444f8d39821743e6f54c3",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. The Chambal Valley Project is a joint undertaking involving Rajasthan and Madhya Pradesh.\n2. Gandhi Sagar Dam is an important component located in Madhya Pradesh.\n3. Kota Barrage is an important part of the project in Rajasthan.\n4. The project is associated with the Chambal River, which is a tributary of the Yamuna, not the Narmada.\n\nImportant components:\n- Gandhi Sagar Dam\n- Rana Pratap Sagar Dam\n- Jawahar Sagar Dam\n- Kota Barrage",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "834194566bd4c62366b2381e": {
+      "questionId": "834194566bd4c62366b2381e",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. The Sardar Sarovar Project is constructed on the Narmada River.\n2. Gujarat is a principal beneficiary.\n3. The project also involves the water-sharing arrangements of Madhya Pradesh, Maharashtra and Rajasthan.\n4. The dam is located in Gujarat, not Rajasthan.\n\nImportant UPSC concept:\nInterstate river-water projects involve water allocation, rehabilitation, environmental issues and federal coordination.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "8a0f7fe660a9944098cf6571": {
+      "questionId": "8a0f7fe660a9944098cf6571",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statements 1, 2 and 3 are correct.\n\nExplanation:\n\n1. Hirakud Dam is located in Odisha.\n2. It is constructed across the Mahanadi River.\n3. It serves purposes including irrigation, flood control and power generation.\n4. The Godavari is not associated with the Hirakud Dam.\n\nLocation:\nHirakud Dam — Near Sambalpur, Odisha.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "dedf1f0556aff62d86d96139": {
+      "questionId": "dedf1f0556aff62d86d96139",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Rihand Dam is located in Uttar Pradesh.\n2. It is constructed on the Rihand River.\n3. Its reservoir is called Govind Ballabh Pant Sagar.\n4. The Rihand is a tributary of the Son River, which belongs to the Ganga drainage system.\n\nImportant association:\nRihand — Govind Ballabh Pant Sagar.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "1, 2, 3 and 4"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "fbba9fb906844d3cb2a696da": {
+      "questionId": "fbba9fb906844d3cb2a696da",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "All pairs are correctly matched.\n\nExplanation:\n\n1. Mettur Dam is located on the Kaveri River in Tamil Nadu.\n2. Idukki Hydroelectric Project is associated with the Periyar River in Kerala.\n3. Ukai Dam is constructed on the Tapi River in Gujarat.\n4. Jayakwadi Project is associated with the Godavari River in Maharashtra.\n\nRemember:\nMettur — Kaveri\nIdukki — Periyar\nUkai — Tapi\nJayakwadi — Godavari",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "4f8d0b1d7ca90061e93444ea": {
+      "questionId": "4f8d0b1d7ca90061e93444ea",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Golden Quadrilateral connects Delhi, Mumbai, Chennai and Kolkata.\n2. It is a major national highway connectivity project.\n3. It was developed under the National Highways Development Project.\n4. It is a network forming a quadrilateral, not a single straight highway.\n\nImportance:\n- Reduces travel time.\n- Improves connectivity between major economic centres.\n- Supports freight movement and industrial development.\n- Strengthens national road connectivity.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "fdc1eeaa7318144c88c38782": {
+      "questionId": "fdc1eeaa7318144c88c38782",
+      "selectedOptionId": "3",
+      "selectedOptionLabel": "C",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "All three pairs are correctly matched.\n\nExplanation:\n\n1. North-South Corridor connects Srinagar in the north with Kanyakumari in the south.\n2. East-West Corridor connects Silchar in Assam with Porbandar in Gujarat.\n3. Golden Quadrilateral connects Delhi, Mumbai, Chennai and Kolkata.\n\nUPSC TRICK:\nDo not confuse the Golden Quadrilateral with the North-South and East-West corridors.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Correct",
+          "reason": "All three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "None"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "5464b3346b9977980b4fb09a": {
+      "questionId": "5464b3346b9977980b4fb09a",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Konkan Railway provides important railway connectivity along India's western coastal region.\n2. It passes through Maharashtra, Goa and Karnataka.\n3. The region has challenging terrain, including hills, river crossings and tunnels.\n4. It is not an eastern coastal railway connecting Odisha and West Bengal.\n\nImportance:\nKonkan Railway significantly improved connectivity between Mumbai and the coastal regions of Karnataka and Goa.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "0e210cd62e3b2c5ab799bdef": {
+      "questionId": "0e210cd62e3b2c5ab799bdef",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Broad gauge in India measures 1676 mm.\n2. Metre gauge measures 1000 mm.\n3. Narrow gauge includes 762 mm and 610 mm.\n4. Broad gauge is wider than metre gauge, not narrower.\n\nUPSC numerical facts:\n\nBroad Gauge = 1676 mm\nMetre Gauge = 1000 mm\nNarrow Gauge = 762 mm or 610 mm",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "013b02f1fc940036f0893eab": {
+      "questionId": "013b02f1fc940036f0893eab",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n\n1. NW-1: Ganga-Bhagirathi-Hooghly river system, between Haldia and Prayagraj.\n2. NW-2: Brahmaputra River, between Dhubri and Sadiya.\n3. NW-3: West Coast Canal system in Kerala.\n4. NW-4: Krishna-Godavari river systems.\n\nImportant:\nNational Waterways support inland cargo transportation, passenger movement and regional connectivity.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "2dd58d8df2699cbc7f41418d": {
+      "questionId": "2dd58d8df2699cbc7f41418d",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. The National Waterways Act, 2016 provides for the declaration of National Waterways.\n2. Inland Waterways Authority of India (IWAI) plays an important role in the development and management of inland waterways.\n3. Waterways can be used for cargo as well as passenger transport.\n4. Waterways are not always faster than rail and road. Their speed and efficiency depend on distance, cargo type, navigability, terminal infrastructure and connectivity.\n\nAdvantages of inland water transport:\n- Can be economical for bulky cargo.\n- Can reduce road congestion.\n- Can offer lower fuel consumption per tonne-kilometre for suitable cargo.\n- Can supplement rail and road networks.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "746f0bf13886845d26b4d96e": {
+      "questionId": "746f0bf13886845d26b4d96e",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "All four pairs are correctly matched.\n\nExplanation:\n\n1. Deendayal Port, formerly Kandla Port, is located in Gujarat.\n2. Paradip Port is located in Odisha.\n3. New Mangalore Port is located in Karnataka.\n4. Visakhapatnam Port is located in Andhra Pradesh.\n\nAdditional port revision:\n\nWest Coast:\n- Deendayal\n- Mumbai\n- Jawaharlal Nehru Port\n- Mormugao\n- New Mangalore\n- Cochin\n\nEast Coast:\n- Chennai\n- Kamarajar\n- V.O. Chidambaranar\n- Visakhapatnam\n- Paradip\n- Kolkata-Haldia",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "79f644fa9e2d403a5febad38": {
+      "questionId": "79f644fa9e2d403a5febad38",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Palakkad Gap is situated in the Western Ghats.\n2. It provides a relatively low-altitude passage connecting Kerala and Tamil Nadu.\n3. It lies between the Nilgiri Hills and Anaimalai Hills.\n4. It does not act as an absolute barrier to winds. In fact, it allows air movement between the eastern and western sides of the Ghats.\n\nImportance:\n- Road and railway connectivity.\n- Air movement between adjoining regions.\n- Influence on local climate and rainfall patterns.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "a342f0b746a12d9f84b34296": {
+      "questionId": "a342f0b746a12d9f84b34296",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. India's Standard Meridian is 82°30′ East longitude.\n2. It passes near Mirzapur in Uttar Pradesh.\n3. Indian Standard Time is UTC +5:30.\n4. The Standard Meridian passes through Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha and Andhra Pradesh, not Gujarat and Rajasthan.\n\nImportant concept:\nIndia follows one standard time despite its considerable east-west longitudinal extent.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "7206c22b2fb85afd55b9483f": {
+      "questionId": "7206c22b2fb85afd55b9483f",
+      "selectedOptionId": "2",
+      "selectedOptionLabel": "B",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\nThe Tropic of Cancer is located at approximately 23°30′ North latitude.\n\nIt passes through eight Indian states:\n\n1. Gujarat\n2. Rajasthan\n3. Madhya Pradesh\n4. Chhattisgarh\n5. Jharkhand\n6. West Bengal\n7. Tripura\n8. Mizoram\n\nIt does not pass through Kerala or Tamil Nadu.\n\nImportant UPSC fact:\nThe Tropic of Cancer divides India into broadly northern and southern climatic-geographical regions.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Correct",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Incorrect",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "afd575c0e528c2cc029bfbcd": {
+      "questionId": "afd575c0e528c2cc029bfbcd",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "Statement 4 is incorrect.\n\nExplanation:\n\n1. Mainland India's latitudinal extent is approximately 8°4′ N to 37°6′ N.\n2. India's longitudinal extent is approximately 68°7′ E to 97°25′ E.\n3. The longitudinal difference is about 29°18′. Since Earth rotates 1 degree in approximately four minutes, the local solar time difference is nearly two hours.\n4. The latitudinal extent is approximately 29°2′, while the longitudinal extent is approximately 29°18′. This means the longitudinal extent is marginally greater in angular degrees, so statement 4 is actually CORRECT.\n\nIMPORTANT CORRECTION:\nThe correct answer is (d) All four.\n\nThis question is deliberately included to test precise calculation and avoid assuming that India's north-south extent is greater simply because of its north-south geographical shape.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "1 and 2 only"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "1, 2 and 3 only"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "2, 3 and 4 only"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    },
+    "bfa39651386460bb4dc3616b": {
+      "questionId": "bfa39651386460bb4dc3616b",
+      "selectedOptionId": "4",
+      "selectedOptionLabel": "D",
+      "coreConcept": "River Valley Projects, Transportation and Miscellaneous India",
+      "stepByStepWorking": "All four statements are correct.\n\nExplanation:\n\n1. Sri Lanka is separated from India by the Palk Strait and Gulf of Mannar.\n2. The Maldives lies southwest of Lakshadweep.\n3. The Andaman and Nicobar Islands are situated in the eastern Bay of Bengal, closer to Southeast Asian regions such as Myanmar, Thailand and Indonesia than to India's western coast.\n4. The Ten Degree Channel separates the Andaman group from the Nicobar group.\n\nImportant geographical associations:\n\n- India–Sri Lanka: Palk Strait and Gulf of Mannar.\n- Lakshadweep–Maldives: Eight Degree Channel.\n- Minicoy–main Lakshadweep group: Nine Degree Channel.\n- Andaman–Nicobar: Ten Degree Channel.",
+      "optionAnalysis": [
+        {
+          "optionId": "1",
+          "label": "A",
+          "status": "Incorrect",
+          "reason": "Only one"
+        },
+        {
+          "optionId": "2",
+          "label": "B",
+          "status": "Incorrect",
+          "reason": "Only two"
+        },
+        {
+          "optionId": "3",
+          "label": "C",
+          "status": "Incorrect",
+          "reason": "Only three"
+        },
+        {
+          "optionId": "4",
+          "label": "D",
+          "status": "Correct",
+          "reason": "All four"
+        }
+      ],
+      "keyTakeaways": "UPSC Prelims high-yield concept in River Valley Projects, Transportation and Miscellaneous India."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "practicee_indian_geography",
+  "name": "Indian Geography — UPSC Prelims",
+  "code": "INDIAN_GEOGRAPHY_2026",
+  "description": "Official Practice Tests for Indian Geography (100 Questions)",
+  "categoryId": "practicee",
+  "categoryName": "Practicee",
+  "totalTests": 1,
+  "stages": [
+    {
+      "id": "01_upsc_prelims_practice_tests",
+      "name": "Practicee Sets",
+      "totalTests": 1,
+      "tests": [
+        {
+          "id": "practicee_indian_geography_upsc_prelims_100q",
+          "filename": "Indian_Geography_UPSC_Prelims_Practice_100Q.json",
+          "relativePath": "Practicee/Indian_Geography/01_UPSC_Prelims_Practice_Tests/Indian_Geography_UPSC_Prelims_Practice_100Q.json",
+          "path": "Practicee/Indian_Geography/01_UPSC_Prelims_Practice_Tests/Indian_Geography_UPSC_Prelims_Practice_100Q.json",
+          "title": "Indian Geography — UPSC Prelims (100 Questions Practicee)",
+          "totalQuestions": 100,
+          "totalDurationMinutes": 60,
+          "totalMarks": 100,
+          "solutionsCount": 100,
+          "pattern": "NEW_PATTERN_2026",
+          "stage": "Practicee Sets"
+        }
+      ]
+    }
+  ]
+}

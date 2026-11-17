@@ -1,9 +1,9 @@
 {
   "version": "2026.4.0",
   "lastUpdated": "2026-10-22T10:46:54.000Z",
-  "totalCategories": 8,
+  "totalCategories": 9,
   "totalExams": 64,
-  "totalTests": 29817,
+  "totalTests": 29818,
   "categories": [
     {
       "id": "subject_practice",
@@ -1558,6 +1558,27 @@
         }
       ],
       "totalTests": 9873
+    },
+    {
+      "id": "practicee",
+      "name": "Practicee",
+      "icon": "GraduationCap",
+      "exams": [
+        {
+          "id": "practicee_indian_geography",
+          "name": "Indian Geography — UPSC Prelims",
+          "code": "INDIAN_GEOGRAPHY_2026",
+          "totalTests": 1,
+          "stageCount": 1,
+          "stagesSummary": [
+            {
+              "id": "01_upsc_prelims_practice_tests",
+              "name": "Practicee Sets",
+              "totalTests": 1
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "banking",

@@ -551,7 +551,7 @@ export default function Home() {
       return manifest.categories;
     }
     return manifest.categories
-      .filter((cat: any) => userPreferences.selectedDomains.includes(cat.id) || cat.id === 'subject_practice')
+      .filter((cat: any) => userPreferences.selectedDomains.includes(cat.id) || cat.id === 'subject_practice' || cat.id === 'practicee' || cat.id === 'practice')
       .map((cat: any) => {
         if (!userPreferences.selectedSubdomains || userPreferences.selectedSubdomains.length === 0) return cat;
         if (!userPreferences.selectedDomains.includes(cat.id)) return cat;
